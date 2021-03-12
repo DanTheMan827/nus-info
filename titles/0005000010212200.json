@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010212200",
+		"eshop_id": "20010000026607",
+		"product_code": "WUP-N-BZPJ",
+		"name": "キューブライフ：ピクセルアクションヒーローズ",
+		"platform": 124,
+		"platform_device": "WUP",
+		"publisher": 882,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1362bc88d20d5349277e4a96b2c0546168df0741240cab7fa7c18b1056bf399a.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/92e4702b7254e10a3a5e661f9c10ff3a66a772a8e712415ef89b77f4d7e3e506.jpg",
+		"data_size": "214368396",
+		"description": "『キューブライフ：ピクセルアクションヒーローズ』は、キューブの世界で白熱した銃撃戦を楽しむことができるシューティングゲームです。3段階の難易度でコンピューターと銃撃戦を繰り広げたり、次々に出現するゾンビを射撃したり、友達と一緒に対戦や協力を楽しむこともできます。オリジナルのキャラクタースキンやマップを作成できるクリエイティブな機能も搭載されています。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2017-08-09",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/6d135ab12d6803048170941558ad7b89ccf1c8b1a3b24563da173f6ca41a8592.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/19b4da7fb1184c7c44821011159ec963a37c8254bdf864bc117ff2ffb37bedb9.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/8de2c14ed29b771ed450a268132025cdecf26c2a81a995fb116a26b54b7b76ad.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0a7f34777b3b5bea9e6d32a59f41058c3a9b2ff6e7f117e39b751ba24d46278d.jpg",
+				"name": "キューブライフ ピクセルアクションヒーローズ紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/09c6eb6b124c604190ddb2983fae718b38f78ea60ca31bc72c102dddd4d4e257.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "59"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/804927a6835f4184a1460149e971187680dd08c4f192dc55775f90f4a734af61.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "59"
+					}
+				]
+			}
+		]
+	}
+}

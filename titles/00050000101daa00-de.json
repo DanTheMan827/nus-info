@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101DAA00",
+	"eshop_id": "20010000022748",
+	"product_code": "WUP-P-BLGP",
+	"name": "LEGO® Star Wars™: Das Erwachen der Macht",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 1004,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/719090910ab28c099768c4dd22b6b07c6053239108bc9b6f8530532ea21d624b.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a3283022c4bdfb906116944b872fde17c87c7bdfac251e3e798354f1de7a6f25.jpg",
+	"data_size": "5271650864",
+	"description": "LEGO® Star Wars™: Das Erwachen der Macht ist die triumphale Rückkehr des bestverkauften LEGO® Videospiel-Franchise und lässt die Fans den neuen Star Wars™-Filmerfolg wie nie zuvor als Spiel erleben. Die Spieler erleben die epischen Abenteuer des Films auf humorvolle Art und Weise erneut, wie es nur in einem LEGO® Spiel möglich ist. Alle Handlungsstränge von Star Wars™: Das Erwachen der Macht werden im cleveren LEGO® Stil neu erzählt. Das Spiel enthält zudem exklusive, spielbare Inhalte, durch die die Spieler Abenteuer erleben, die zwischen Star Wars™: Die Rückkehr der Jedi-Ritter™ und Star Wars™: Das Erwachen der Macht stattfinden. So erhalten sie weitere Einsichten in den neuen Film und seine Charaktere.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2016-06-28",
+			"retail": "2016-06-28"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/51bdcfd766020809edb19bad091901b76f6a17350590f5db111b3ec24bd821ac.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f95de83658d9523aa44f6108fc94be07dd7782f1748f341bc7d7e12f19f54c7a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d644033386a5f080b196b2ccdbd850d6650e5e6cd63f501e63b1afda3ac0b60b.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/aa1fc25e156cf59ba737e7f133f82a70fba04aa4c5dc28c475a6170801bd1a4a.jpg",
+			"name": "LEGO STAR WARS: DAS ERWACHEN DER MACHT - Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/64684eab4eedc668d16c43f6401988e5f0d50baf851c737f4b472598b33cbcea.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "110"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f24c9c938137ff579fcafc0697ddd6b9ebbdb09181e126a9780858da31fd8f5c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "110"
+				}
+			]
+		}
+	]
+}

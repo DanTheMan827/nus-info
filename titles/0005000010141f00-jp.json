@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010141F00",
+	"eshop_id": "20010000002905",
+	"product_code": "WUP-N-JBWJ",
+	"name": "クロックタワー ",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 256,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/31fd8db1ad26089e8075d9adde0eca7216817a9a12c990f02532e78acaf026de.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/57b4fc851c902a1d3cf12ebfc6fe91243c5ef25b8d5ae39c7292ec138e8ea9f3.jpg",
+	"data_size": "42139788",
+	"description": "このソフトは、1995年に発売されたスーパーファミコン用のホラーアドベンチャーゲームです。 孤児院の仲間と、不気味な洋館「クロックタワー」に連れてこられた少女ジェニファー。プレイヤーは、ジェニファーをうまく隠れさせたり、逃げる方向を指示したりして、友人の救出と洋館からの脱出を目指します。状況で変化するジェニファーのリアルな表情や逃げまどう動き、屋敷内のグラフィックが恐怖を色濃く演出。救出できた友人や探索で得た情報によって、エンディングがさまざまに変化します。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-11-06",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/2b639f3fb898e082518fce33f91905be9368c1528f9d479a117c6b21d84a05bf.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/cdb13a7d6d67cbb26d160b078db4949856270baa617e6e08383a2ded13f42c80.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b5e54a732bfb22d6cde2fbe2e3eadd9824870a4256b1426b4023e8d4f3dc28e6.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ecb09b5cd3f4cfc4320c12fc60095c2ef878862c2b8821ab3ddf485e2fc1794b.jpg",
+			"name": "クロックタワー プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1d6a16e8cc7a3527e914270f5d68dc0336de929fe1f0ed274b31f7f98a785682.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "55"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8e7b149ab66dd622b5a7c7824fde5e20e325ddf3b165f0711a73acc51b590756.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "55"
+				}
+			]
+		}
+	]
+}

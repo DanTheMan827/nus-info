@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010199200",
+	"eshop_id": "20010000014367",
+	"product_code": "WUP-N-NAAE",
+	"name": "Donkey Kong™ 64",
+	"platform": 170,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/067dc85db857b549b9db77c72e60e1f21fc849ec733bc4021669b87bc9297e52.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/009c0bfe43a7f70d6f1a271bf804b63893938cb1e1ba04b4bc3905ff6b8009ed.jpg",
+	"data_size": "79560824",
+	"description": "With his mechanical isle stuck off the shores of DK Island, K. Rool kidnaps the Kong family to distract Donkey Kong™. It's up to our furry hero to rescue his friends, reclaim his Golden Bananas, and save his homeland from certain doom. Choose from five Kong members as you play solo in a quirky adventure or with friends in competitive battle arenas! Join Donkey Kong, Diddy Kong™, Tiny Kong™, Lanky Kong™, and Chunky Kong™ as they fight to keep DK Island safe and sound from K. Rool and his Kremling crew. Climb, swim, and jump with each of the five Kong members through treacherous and puzzling areas while taking advantage of their special abilities and upgrades. Encounter friendly aid from other Kongs and a caged Kremling by the name of K. Lumsy. Hunt for collectibles and play wacky minigames while solo, or duke it out in battle arenas with friends in a four-player split-screen view. There's enough fun to go around to make you go bananas!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-04-16",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/425c4d26839c90c48d42756bf09d771127be459bfe3f158fd083259d78362285.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2781a84bfa4e2d4ce5179e09a7c2d6e0d5d4155a4e4948e6398edd88d0647add.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/65aed50b8259dd56f58fc357098328708ea92b468776efca2cc099935668c605.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/25efb2835573c8c7a51804ce26d6ce0fa29c4cd747b201d96133ed1362512e4f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8673d39a9d0daa7a48f602f4ec37a3e735dfa4a121d1127d1afcc4ef7ca00650.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/803a67db713a380c0a99267e5a127b31d767d89586cb38fe5199a72b99fdef8e.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5445e82c0ce02b5b37b53d977e6776c78d016ff442398de1616bde6e69fbecaf.jpg",
+			"name": "Donkey Kong™ 64 Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8b6a8c28327d7dc80473b11df76f6870119b604661ec9935f3d07e6dea71b701.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "72"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/dda0d5d8389b954330c9fc31f8733a1bf1b29ec5ebd5b769a8a258d0ff659fc6.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "72"
+				}
+			]
+		}
+	]
+}

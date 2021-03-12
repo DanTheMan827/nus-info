@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000F702B00",
+	"eshop_id": "50010000040215",
+	"product_code": "KTR-N-UAQJ",
+	"name": "魂斗羅スピリッツ",
+	"platform": 1004,
+	"platform_device": "CTR",
+	"publisher": 149,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/adf66b46143061fb012d837294477dd6a3acb09461b21d9c13830e2eb988d2c3.jpg",
+	"data_size": "4000612",
+	"description": "このソフトは、1992年に発売されたスーパーファミコン用のアクションゲームです。 戦闘のプロフェッショナルである「魂斗羅」と呼ばれるビルとランスの2人は、エイリアンに占拠された都市を取り戻すために戦います。真横から見た視点の「サイドビューステージ」と、真上から見た視点で目標物を壊す「トップビューステージ」の2種類のステージが存在。装甲車やバリア、ガンアイテムなど、手に入る武器とステージの特徴を活かし、敵を倒します。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-05-09",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/082da8262d0e38c5ceda299f1ad4284068c6eb94d03601939fed8223bde0ecfb.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/919586c5b009a17d8c4d384a645eeca9c4281591380c1f7349bcacb68d07421e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/fac5252b22ac2264ac437f5c5f5b3caa18c44666ce322ac4358d6c8e3b49601a.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b44d5741b225b10a0847c86049099e3a595b61ff74e8da142110b64b644499c1.jpg",
+			"name": "魂斗羅スピリッツ プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/33128895d13616e3c1ef776e0f30ebf982a350875c215f5c8dd82c6fcbf56f41.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "74"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d288c2f1e74db2942036f8e616fc33035a096a1e805675a4ee5309ac6c0eb883.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "74"
+				}
+			]
+		}
+	]
+}

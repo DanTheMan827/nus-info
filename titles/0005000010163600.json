@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010163600",
+		"eshop_id": "20010000013529",
+		"product_code": "WUP-N-PPCJ",
+		"name": "レジェンド･オブ･ヒーロー･トンマ ",
+		"platform": 166,
+		"platform_device": "WUP",
+		"publisher": 136,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/466cb8cb6ec00b918593d10537249ef33c0ee004b2555ec33d9a734f920984ad.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3e0276e34e924a43188bfaa6c7fd042677dd834d87c2a6e51e92e6e5cd6812c4.jpg",
+		"data_size": "84213900",
+		"description": "魔法使いのもとで修行をしていた主人公の「トンマ」が、魔物にさらわれたお姫様を助けるために魔境を冒険するアクションゲームです。 プレイヤーは「ショット」と「ジャンプ」で行く手をさえぎる敵キャラクターに立ち向かい、7つのステージを進みます。 補助攻撃として2段階まで強化できる「特殊弾」や5つの玉が周囲をガードする「バリア」など、ステージ上に落ちている魔法のアイテムを上手に使って、各ステージの最後に登場するボスを倒せばステージクリア。 敵の頭を踏み台にした特大ジャンプや、ジャンプ中の方向転換など、テクニックしだいで攻略の幅が広がります。 ミスをしたときに「トンマ」のマントがヒラヒラと空中を舞うコミカルな演出も見どころ。 発売当時、女性スタッフだけで開発されたタイトルとして話題になりました。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-03-18",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/845421e0add6fc5a3b4d4af297dc5eada03905045ae90ce94af1a3b13cf5e839.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/7c161b9ba796688f726f62931f6c7fb288e105cfbf807797cbecf442f2512aca.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/f31c9d0a2fc8ca5c8e79fc68ee97053592998e098002848c29ae94917bf81591.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c48a617239c6ed4490a20579be19200e7b3d61d8d694603d705b5745ce4e1af7.jpg",
+				"name": "レジェンド･オブ･ヒーロー･トンマ プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8319c4e662ad08ba2de14c0347f2349bd3be8a5b08704a7becbc6f77796136b1.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "56"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3b1bd02519f805147882928dc9a843d7cd962c542ce36ee941bba5d582ea81c6.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "56"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010159600",
+	"eshop_id": "20010000005706",
+	"product_code": "WUP-N-JCBP",
+	"name": "Pop'n Twinbee",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ce3ffccc5bad06bbe11421896e89d626f7a7ac3bf5269fbcc0fa5802834c9bef.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/946582a0743722cb4bb2577929521fec08315f3d2f46194ad0b825509cf3c799.jpg",
+	"data_size": "41025676",
+	"description": "Благодаря Виртуальной консоли™ у всех нас есть возможность наблюдать возвращение классического шутера для Super NES™. Устраивайтесь за штурвалом ваших миловидных, и тем не менее очень мощных истребителей TwinBee и WinBee и дайте отпор вражеской армии Donguri! Пройдите семь этапов в одиночку или вместе с другом и положите на лопатки прислужников злодея Dr Mardock. Собирайте колокольчики для усиления огневой мощи. Колокольчики разного цвета по-разному воздействуют на врагов. В игре для двух пользователей есть возможность скооперироваться для передачи энергии обессилевшему пилоту. Кроме того, вы можете схватить своего напарника и швырнуть его что есть силы через весь экран, чтобы одним махом уничтожить множество врагов! Это европейская версия игры. В результате отладки, выполненной разработчиком, музыкальная дорожка в этой версии воспроизводится практически на той же скорости, что и в версии для Японии. Игровой процесс, демонстрационные ролики и анимация воспроизводятся на скорости PAL. Кроме того, был откорректирован формат изображения (отношение его высоты к ширине).",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-07-10",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/139fe60660cf485bec545ab66f693a92612f399b4e9dc58f42b3c71fd365eda0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/678751b46a8832f83a1a627747a3d5bf1226fece9554615a9d899ec30178a980.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6b0c3691282f009794dbbc0add37278272690b33ed8bb82df335a784d2577dc4.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/737793d43a7ae97101ad051f38cbf466b1d3e813fe3e236ac09f85332784d428.jpg",
+			"name": "Pop'n Twinbee: видео",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/aafe7a4e2d0b8c398bdb4b6a662257d477fc2bceb3239f66221503a8adb7e979.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "64"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0587cbb91daa02c61105e204d3135cf20908a474c84e78165fa27550861b2a88.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "64"
+				}
+			]
+		}
+	]
+}

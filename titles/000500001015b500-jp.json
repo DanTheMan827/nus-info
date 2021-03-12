@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001015B500",
+	"eshop_id": "20010000006346",
+	"product_code": "WUP-N-PNAJ",
+	"name": "グラディウス ",
+	"platform": 166,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f4bd8ba6853ce580d507c498d844b296c76a0ac8f83b76d784ec7b17e6d47c6e.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/af60830984ff5c8f235158ccc1e7674aae506b5002d42822b9d4087409e6f9ce.jpg",
+	"data_size": "80674936",
+	"description": "独特のパワーアップシステムをはじめ、美しいグラフィックやサウンドが人気となった横スクロールシューティングのアーケードゲームからの移植作品です。 プレイヤーはそれぞれのステージにあわせて自機をパワーアップさせながら、立ちはだかるバクテリアン軍団を撃破していきます。各ステージの最後にはボスが待ち構えており、これを破壊するとステージクリアです。 PCエンジン版では「オプション」装備数が最大4つに増え、「レーザー」の表現もよりアーケード版に忠実に再現されています。さらに「逆火山」と「触手」ステージの間には、巨大生物の骨が横たわる「砂漠」が新たに追加され、手ごたえも一段とアップしています。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-04-16",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/e4fac010e12e6af3b3d5613ca9b653a4b7158b832fcd701f1eaf7c21d7b0be32.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/99366eb7b941405c20eda2934557f7cf9cfc0ee2c07c76c108e6d5bf16ad273a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/402bb06d916e2d91ae3a478dbccf2182228b32dc36a4f0ccc9c9a65aba978807.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bd15e09d57b0cdaaac60a5bbaf0797d57927e9d1e01fefd93cc6308523a65005.jpg",
+			"name": "グラディウス プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/64660891fcda0c2769963704a7b54d7375c5c3b9352bdac930b95915a1fc3cdf.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/88def72011b3706d43d4e6233301fb918843a596c09a37128249aa818511c37b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				}
+			]
+		}
+	]
+}

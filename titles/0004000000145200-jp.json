@@ -1,0 +1,85 @@
+{
+	"title_id": "0004000000145200",
+	"eshop_id": "50010000024476",
+	"product_code": "CTR-N-JRJJ",
+	"name": "オーノーオデッセイ ～地球からの脱出～",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 19,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/cdef81cfc8884bddc81f61f82d1f7e18c9bd49a6da9be415dbd35530cd99ac1f.jpg",
+	"data_size": "42040164",
+	"description": "このゲームは、地球に取り残された仲間たちを脱出ポットへ導くアクションパズルゲームです。 唐辛子、風船、砂袋といったさまざまなアイテムを仲間のオーノー星人が通るルートに置き、急な坂や爆弾などの障害物を回避して脱出ポットへ誘導しよう! 雪山、洞窟、ジャングルといった秘境に散った全ての仲間たちを助け出せ! 地球上空を偵察していたオーノー星人の宇宙船が突然故障! 警報が鳴り、船内はパニック状態! 次々と地球へ避難する星人たち。 しかし、コンピューターが壊れていたため、地球各地に散らばってしまった! 警報が鳴っていたとき、宇宙で1人作業していた星人が船に戻ると、仲間たちの救難信号が表示されていてびっくり! 船を修理し、たった1人で仲間たちの救助を開始するのだった! 仲間たちは雪山、洞窟、ジャングルといった世界各地の秘境に取り残されています。 世界各地を巡り仲間たち全員の救出を目指しましょう! はたして、彼らは地球を脱出し無事母星に帰ることができるのでしょうか……?",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-07-30",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e83d1a02fa89cf7e0c3835cb95f94a0651cbf9c5413b7b0f0b7810898453e417.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a5bf21917347a9913802f3483d4aef264c7bda53b0c3c5b5e911c502c635d9d8.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d10037097668dc8ecf9c34f08659dc0b19b01ba424bd535fa77f7f49cce321d5.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/67ad90f1927cc5a14451bc5e6dd6bc71573f6c45b5a154a80493d5dba2ad34cc.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1ce3257554f769c2f560b81b1efcdc47a60c6681e7edf644c472b1acb63a48cf.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/055c62e1378ab10c7266d692c4b859c7f59fb1873043231ac055fab6cc3aca9c.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2140e2a7538932e794988cd60ab208ce3d0824e0399281276fcfd72890d943d2.jpg",
+			"name": "オーノーオデッセイ ～地球からの脱出～ 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/693d15410b1d32c3b6090899b241063aa0b62ffca394629fa72e1565fc98a819.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "89"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ee0e8400fa5a4611eed608b0576910cfbea955129c8984c70806361f462a7170.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "89"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8cf8a1bab4153a60ea631ae0626328b83652dcd9c4dcbff961aa5ad2899ce6dd.jpg",
+			"name": "オーノーオデッセイ ～地球からの脱出～ プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4dd8e92c7aa8fb7b1125141d2d9c4847d8d199e46beedef1806e3248f9068627.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "106"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/15b906dde8e389a6f518ecb6905c34a386a855ee5f7f3d0092e5efd652a35495.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "106"
+				}
+			]
+		}
+	]
+}

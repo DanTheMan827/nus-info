@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000141000",
+	"eshop_id": "50010000029615",
+	"product_code": "CTR-N-KRXA",
+	"name": "Pokémon™ Shuffle",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 210,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4c12e9107deb8e19c1323f6707b1a6fb0322f0a96bad59b85969c83d6647ecea.jpg",
+	"data_size": "93342564",
+	"description": "Avec Pokémon Shuffle, disponible au téléchargement sur le Nintendo eShop de la Nintendo 3DS & 2DS. vous allez découvrir un jeu de puzzle plein d'action passionnant ! Dans ce titre, votre objectif est de terminer les différents niveaux en alignant les mêmes Pokémon afin de les faire disparaître. Dans chaque niveau, vous pouvez infliger des dégâts aux Pokémon sauvages que vous rencontrez en alignant au moins trois Pokémon identiques pour les éliminer. Combattez et essayez de capturer les Pokémon avant d'être à court de mouvements !",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-02-18",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b5a5409a924ed0f643b778a83844d9f009a3556d0050f539fd4419561a630bdd.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/327fd41f2ac3bcacc1fe6a15429ba01b9180a11123f6f1088aca015bad677502.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2f7a9194971acbb01aebe971bf073e9dbf6eec65990f240a37d9eb5cd77adb31.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1e0ca803f7e870608bcc912e752e2c72377724e2ee8cc6cc379228db46b05ad7.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/be15e89e53010d2e7adba8248a3b03e20a4d4ea9aeec111480e91e3237d027a4.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/3a2b9ea4f1f2d4b9c4a54f01954172ce607fe3c0497d26d85745ba292e50fc55.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5bcc5b4d94e5b037be40c946fc5b803d08742ea07c67dfc7239b59ef2e4be223.jpg",
+			"name": "Pokémon Shuffle : bande-annonce de lancement ",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b07c19f845951acd8a44095583d1f24ec3d3f97bec447dcb643ebe50a799d6c7.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "98"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a619e820463637e3016c8c7da9114551c1b4f0265de56b94210f40a5016b397e.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "98"
+				}
+			]
+		}
+	]
+}

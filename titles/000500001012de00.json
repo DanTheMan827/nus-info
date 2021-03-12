@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001012DE00",
+		"eshop_id": "20010000001584",
+		"product_code": "WUP-N-FA4J",
+		"name": "レッキングクルー",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/92ed81010e8046c68d22ff458f380de549b6d6426beeb783d1fb32159a38b511.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8b2f1ef81c10a82cb4ec297c72f8ce4cab0b73bc340076de7802128f3d1a305b.jpg",
+		"data_size": "36536460",
+		"description": "このソフトは、1985年に発売されたファミリーコンピュータ用のアクションゲームです。 ビルの解体屋となって、モンスターの住みつくビルに乗り込んだマリオとルイージ。モンスターに注意しながら、決められた壁をすべて壊すとクリアとなり、次のステージに進みます。ダイナマイトで壁をまとめて爆破したり、ドラム缶に敵を閉じ込めたりと、アイテムをうまく使って全100ステージを攻略していきます。「DESIGNモード」では、自分でオリジナルのステージを作って楽しむこともできます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-06-19",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/aed3383233c10ecce1099e0578c8dec5225ed18e304651d4600ae02bc3ad803c.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/3b4373d24a64ddeb22b861123c3730c7f86248599f1f3979e9d24b9436822147.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/87acb8c3ddfd3cc752484493b3d6f17b531f6a69bb31da0fdf82550942957d35.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0055704257003f15ced2e0841c9372b404c032b370183087bc9d17cb06786dcd.jpg",
+				"name": "レッキングクルー プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5ba5850b17bf92929b558f239805b72c662ca773cc4684fa99ee59d6fa135b5a.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "50"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3849fe2ba3baa0ca588e9728796eeba18f3d8b30c32e7f71ba44c4852e9b6bd3.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "50"
+					}
+				]
+			}
+		]
+	}
+}

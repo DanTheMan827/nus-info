@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000001A8C00",
+	"eshop_id": "50010000041161",
+	"product_code": "CTR-N-KNBJ",
+	"name": "ニャニャントモリ",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 209,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/bf26280c6fc3cce471eb7e8d5ad2ec5c0f080225ca7c80d768a59bb8be79e89c.jpg",
+	"data_size": "60996452",
+	"description": "ニャニャントモリは、同じネコを繋げてあげるパズルゲーム。 ネコは列でうごくから、うまく動かしてコンボを狙おう。 画面にいるすべてのネコを消してあげるとクリアになるよ。 プレイ結果によって、ネコの「めいげん」をゲットできるぞ。 ぜんぶの「めいげん」を集められるかな？",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-08-31",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/077665eac8463050b1b6d61c8a267cb79f34d53d81b7149094eb6e2aac77fcdb.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/da92f02e83c5a060400d01c21d7f95c226a840e8f204e516f4e3843a12d31348.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/166ac3e86bf4f23ac7b2db79514b0cd954427842ebea0c5db54b9efeef9a1a95.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/edd742f8745883192f6226d20776332266edf30cdedd0e15016d571b42728211.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a26d65a698d1586edfc83f32525bbb9ae68f95aa0dca83c721e48217b63d68ff.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/799fe6cc6ac546bb2a58caa003f7b701f85d537ec0fe03371f36b87e1f87a923.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7866ff46159d90114d74163cdfcaf45985d7ab827f03346a4fc282f23e70b779.jpg",
+			"name": "ニャニャントモリ 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/107ed654a650b3af24237e3a2d750d5b5cbf02f0fef444aea0db206c7ad08fde.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "85"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d4581f14c83d7fdf4b4c801113416facb8363ce58e65dd24ed5f390904a7e199.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "85"
+				}
+			]
+		}
+	]
+}

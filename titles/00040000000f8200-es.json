@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000F8200",
+	"eshop_id": "50010000017559",
+	"product_code": "CTR-P-ATSP",
+	"name": "Mario Party™: Island Tour",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/cf491cd19a9af29c35c8cb117ca2b59e7ad9d97cef19b54c6975cfe1cbda0a95.jpg",
+	"data_size": "257813396",
+	"description": "No has estado en una fiesta así en tu vida, ¡esta es para llevar! Esta entrega de la serie Mario Party no solo es la más divertida hasta ahora, ¡además es la primera diseñada para la familia de consolas Nintendo 3DS! Pero es un Mario Party en toda regla, así que llama a tus amigos, porque ellos también pueden participar: con el modo descarga podéis jugar cuatro con una sola tarjeta de juego en casi todos los modos. ¡Más fácil no podía ser compartir la diversión!",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2014-01-17",
+			"retail": "2014-01-17"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/15b95fa70b8dec4a6a7b5f59e108173f4fb490217c247c3b58b4c3fc923ca33d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/cb010bf5e6a2f60513554a83f87ad685080bdae00632b00cd1ec1c64705e4e41.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e6fbdcd1f0186215e0f73111d4ce7d1803d9b5eea9ba87c1d3882bab95482ab7.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a94abd7e41bb9408be1e01f8263ba133bba44e564650b235ceaa3e467967760b.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b22e07efbda51333f00b201a0b46b29db89e4945eb2d142ff942626ee8f80a55.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2a20eb09281a74c28f50f0a7419223eaac0499ea0bd27761a2ec42cbfe99bb0b.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f409ea87e46b522e1a2e7ab3859b53762b816bdf27fa403d098a68b36b9f24b1.jpg",
+			"name": "Mario Party™ Island Tour: Tráiler",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/227a7be7de51229d74454e233680d0c5d318ffc2e75d2cb3ac30d497cc26b2a5.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "150"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0de42cffea6b17ede693779c45a0f9bde623c6204df86b5aec5f970100ff1ca2.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "150"
+				}
+			]
+		}
+	]
+}

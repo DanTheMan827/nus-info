@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010175E00",
+		"eshop_id": "20010000013327",
+		"product_code": "WUP-N-WGSJ",
+		"name": "ギアナシスターズ:ツイステッドドリームズ ",
+		"platform": 124,
+		"platform_device": "WUP",
+		"publisher": 1212,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d65e13750b8707de274ca69030456063c4a2ee22e35f5de7fd371bbadc0bda69.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/dfa3274e7fdafd62d6c44be6b1b968d222a9cd603e48423544cfa7c135135616.jpg",
+		"data_size": "3790602660",
+		"description": "『ギアナシスターズ:ツイステッドドリームズ』は、主人公のGianaを操作しドラゴンにさらわれてしまった双子の妹Mariaを助けに向かう「ファンタジーアクション」です。 ステージ中では、敵を踏んで倒したり、滞空時間が長くなる「ツイストジャンプ」と、突進して敵を倒す「ファイアダッシュ」を場面に応じて駆使し、さまざまなステージを突破していきます。 ゲーム中、「ワールドチェンジ」を行うと、世界が丸ごと変化し、見た目だけではなく、特定のギミックを起動したり、目の前の壊れた橋がつながって渡れるようになったりします。 多彩なギミックとハイクオリティなビジュアル、しかし簡単な操作にて完結するゲームプレイが、アナタに確かな達成感と満足感を提供します。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-03-18",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/068e7f7bbdc4ad71c7c40cd558060ab7e1c5b7a0cece10b7d1deb87f98c4adc2.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/a7f2b7d88d65e96275abf70f6f05165f97fe6135bbb4ad581a20af6f327f25c7.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/6cb9276e67ee51ac0dd91b6eebf7daacb7596cbb7c996addbcf551522917b85c.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6d5fcfedae36f5ee8752f45ecb1da4d8abb30dcbcc9a252710d2323d5f35c532.jpg",
+				"name": "ギアナシスターズ： ツイステッドドリームズ 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/603a5820fdc53f8bbae06d39454bd0d7809fd8bf6110fc57037e2d5f5ca02a9f.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "108"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/34a46fbf80d2f449d85ed055b898a65e3ae3e59feab7eac0fe5f86310406971b.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "108"
+					}
+				]
+			}
+		]
+	}
+}

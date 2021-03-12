@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010147400",
+	"eshop_id": "20010000005925",
+	"product_code": "WUP-N-WC9E",
+	"name": "Pure Chess®",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1219,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b77a80b07559422546defbc7a07b583eae9df22f22d54bed0847df81bab70ca3.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6b636a444fa39de94a9378ab1c25d43549c588745f82e7939dcd9c7332841282.jpg",
+	"data_size": "439517324",
+	"description": "¡Pure Chess® deja a los otros jugadores de ajedrez en jaque mate! Experimenta uno de los juegos de mesa más antiguos con la tecnología avanzada de nuestros días. Con gráficos Full HD ultrarrealistas y un soporte, te darán ganas de alargar la mano y tocar las piezas. Todos pueden jugar a Pure Chess®, no importa la edad, pero solo unos pocos podrán llegar a dominarlo. La pregunta es… ¿Eres un gran maestro de ajedrez?",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-03-20",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/8f0b9e2188b4d07c2d49005b8da7d9a9fa6246fe77fad90dbf1c3fa2c2490805.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/66adb0b7bf31b9be1edec2af74acf38abc174fc60b75d5ccf2ce30b36b4d6d4c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e80e1609e02fe4ba61771131494fd53110548096b7aa363d23c11a9bd54195d6.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8a43645edcd73ba17345b829539a46eb8fcb749a6be8c8d6c348703379395ea2.jpg",
+			"name": "Avance para lanzamiento Pure Chess®",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4f680e12371c92349fbe215bb4623bfa72181aea4010728f50fbbe7595a79366.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "110"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5640020cb53ec9795724690d8a202da0ba360f278deb0f99f1cdec7d5625c699.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "110"
+				}
+			]
+		}
+	]
+}

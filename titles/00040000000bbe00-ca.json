@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000BBE00",
+	"eshop_id": "50010000012194",
+	"product_code": "CTR-N-JKSE",
+	"name": "LIBERATION MAIDEN",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 456,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/847b14c55990e3bd390923eca1b0088d9c4f6abf3e47d61b9f805de83b46336a.jpg",
+	"data_size": "207326052",
+	"description": "LEVEL-5 and Grasshopper Manufacture's SUDA51 team up to bring you LIBERATION MAIDEN, a full-scale 3D shooter game on Nintendo eShop. Players take the role of Shoko Ozora, who rides out on her Liberator, Kamui, to free the country of New Japan from invading forces. Shoko will face powerful opposition from an arsenal of ground forces, culminating in thrilling showdowns with the enemy's massive mechanical Conduit Spikes. Featuring breathtaking animation by bones, fully-voiced dialog, and contributions by an all-star cast of artists, designers and musicians who bring AAA production value to the downloadable space.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2012-10-25",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/71e26438f16b30cdc4719cc6d5d80b0f432fb08a62ec21730e25ba8e49e61a1b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/22073056b33f879bb08d0e24447acb007cd6844d1f16f9312b71cbb7aef58bb2.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/06c5a92f3364af23a3b61c4460bf384eb1de23ff7d3d6e58fe4519c21aed120a.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/554a0651cab6eb0d3d47e60fd16baa5301ba3202ab741f45a8be7e5ab6df4249.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/9f4473dd01c0e6e0bb3dcafe0674ac7592931246ef65598dc8568cf11fbb1854.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/aefebe198a81874b971f41690888198a6dbed317e406d704cc2bd35873c43465.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/68fc653c13c47ecb641478b4db377099320b0adf2b635c6bcc5742c42d72d202.jpg",
+			"name": "LIBERATION MAIDEN™ Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6224452bbfefc6040a8fbb57da2d62545cc897d55867d554c560ca0c74216b94.mp4",
+					"width": "864",
+					"height": "486",
+					"dimension": "2d",
+					"play_time_sec": "158"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a893585c8c1e8f0d2352d3365329e7568d2f0cb0eb14a8e57ea7222be93f9b60.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "158"
+				}
+			]
+		}
+	]
+}

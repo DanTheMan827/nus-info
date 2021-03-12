@@ -1,0 +1,67 @@
+{
+	"title_id": "000400000008C700",
+	"eshop_id": "50010000009441",
+	"product_code": "CTR-N-JF5J",
+	"name": "おきらく大富豪3D",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 19,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8b48bea40388d58e564a2513a39ebfc4c0f1e432a62e5aad259ab2239e73f4eb.jpg",
+	"data_size": "42146660",
+	"description": "『おきらく』シリーズに定番トランプゲームが登場!げんきくん一家が大富豪で勝負。 「8切り」や「反則負け」など、様々なルールを自分好みに設定可能。 ギャラリーや戦績、実績など、やりこみ要素も充実!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2012-02-29",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5d4e72e31889d1b3a07d7de7dc260a41b11635ed9915c565eaa65728daa91c7f.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/590da616ee474b93b1930f21d4fb0e763f7b8984a358c1e373c515f0ddf16fa2.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/9377de52246c59f07045d32dfc5de572cbeab2ee7f22fd2a6fa26c7c76d21cbf.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/44efc33e3c54849bd467b89a6c61514d6a6aa10786cebc8d46c8d27124c707d3.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6a53d19aa9f593fab4cb2612960cbc3d8b7ad6ce190a95f9dfaf43046057319b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/fc39ee66304180d09dab3195c79aa5dce4be7758bc47490e712d2b8646849827.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2fedff07bb497895719d8ef5e958e37e4f791ad147de5c12d19365aea38024d5.jpg",
+			"name": "おきらく大富豪3D プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a702c7d66e0f958dd671562b5b4b26392f0e800e2b59bf42e2253952c8d8799f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f2813183128a756dbbe51b085eed40407e738d8292aa55a21473d9d9624cd68a.jpg",
+			"name": "おきらくシリーズ 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/43980479d5b81ca71e33092405bf58ce910f77ededfe47317e9b9610245ba0c4.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "259"
+				}
+			]
+		}
+	]
+}

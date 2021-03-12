@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101D1F00",
+	"eshop_id": "20010000023019",
+	"product_code": "WUP-N-DAYJ",
+	"name": "おいでよ どうぶつの森",
+	"platform": 169,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d4f2a72315305efa38c650142d426ab00875aaeb7417e06f393720053b2ad457.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c50fcb4d93e88c97b5fc524e3b006b9cae2d01293d337c502d3c7395582832cd.jpg",
+	"data_size": "63733880",
+	"description": "このソフトは、2005年に発売されたニンテンドーDS用のコミュニケーションゲームです。 あなたが引っ越してきたのは、どうぶつたちが暮らすフシギな村。そこでは、ちょっと変わったどうぶつたちとおしゃべりしたり、お部屋を自分らしく飾りつけたりしながら、気ままなスローライフを送ることができます。 現実と同じリズムで流れる時間の中で、四季に合わせて木々の色や景色も移り変わります。季節ごとのいろんなイベントがあなたを待っています。 村での暮らしかたはあなたの自由。毎日気ままに魚釣りを楽しむのもよし、地道にお金を貯めて、家を大きくするのもよし。自分だけの、あなたにしかできない楽しみかたを見つけてください。 ※おすすめの画面レイアウトは「縦レイアウト」です。 ※本ソフトでは通信機能を使用できませんが、「たぬきち商店」を「たぬきちデパート」に変えることができます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-07-27",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/6c4430d3656b241221a2823d25d63621a1e66c11b052a5ed701f59e1f99f5aca.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5f62c6634bbeb199f42818a5e340193a32f9281bc5e0091729fae89124895de0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/eaba010d64f6280969614a4fd606bbcd99c5c3874173d852510dce297c317c91.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/87e16afb6e916ad89ce67ff9d259f36497127700f3a8906d68e9f84ac82ab275.jpg",
+			"name": "おいでよ どうぶつの森 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/89c89e74c5329ec78ef9175e15e153d2874aa19be8f210790d9656b3e8d8d7d5.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "95"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b838e277f7e8af66b10e31bb48270bbf47bdd048e5a1daf74119788bbb5ceaad.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "95"
+				}
+			]
+		}
+	]
+}

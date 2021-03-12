@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000031B00",
+		"eshop_id": "50010000000382",
+		"product_code": "CTR-N-AWAJ",
+		"name": "パイロットウイングス リゾート",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/95fd62319ae6be8a2b1c7d91f7231f33aefb48b2ff54c2db0af07c6ba6c30451.jpg",
+		"data_size": "95959908",
+		"description": "3Dで広がる大空を、自由に飛ぶ気持ちよさを体感。 『Wiiスポーツ リゾート』の舞台であった、南国の島「ウーフーアイランド」で、飛行機やハンググライダー、ロケットベルトを操って、大空を駆けめぐるスカイスポーツゲームです。 ニンテンドー3DSの3D映像による空間で、思いのままに飛びまわる、新しいフライト体験ができます。",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2012-11-01",
+				"retail": "2011-04-14"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6d23507e289176d270e5b9bce480b33befdbfe54b5a058139857ed05d8578178.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/680c6dec86130cb6ab2dda1c1fd8eed6aa52858b4f0a7b3cf344339765e0b7c4.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/27e095d8d257a1bd6a5b282598a1aec3fb3b7b2cd0d5eb7d5371afb7cf8f2025.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/3f8c0410d9b3662e698e6fe67158bef6c37779be2b5528cfd03e31d38182ca9e.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7c96efe33b7e0d6eb078256177482f47f69996da3da33cecf9a4081c0c638b2b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0ab94bfa228ba0ba25463f6abb958ff52285913d1b74665b62945119839c41c6.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1574ec4ff3438529cbda5e155cb208eb356eab8a4d72dd759d58b6b96a6fef60.jpg",
+				"name": "パイロットウイングス リゾート 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9161509dd2c7a9306d2eec340a4375a8187888a6fdb088a370f743cd9f2dd94f.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "306"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9e79c5c7942659d74fbff9c13f5b924f442b441e167b2868b1ea60ce4ad7d4af.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "306"
+					}
+				]
+			}
+		]
+	}
+}

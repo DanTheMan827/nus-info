@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101B3000",
+		"eshop_id": "20010000013667",
+		"product_code": "WUP-N-BMJJ",
+		"name": "ミチコジャンプ!（任天堂ゲームセミナー2014 受講生作品）",
+		"platform": 124,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/08a480257e2308717632c8f1ef03192a92ab800d4be30ea41f0bd004aa8d6814.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e9ca8045d379446f2fcc46e0c8d80a9f88d5b98cf0b33f59a660a1694cffe9c0.jpg",
+		"data_size": "326369440",
+		"description": "本ソフトは、任天堂ゲームセミナー2014の受講生作品です。 「パパ、わたし お星さまがほしいわ。」 空に輝く一番星に思いをはせる少女ミチコ。 パパの心配をよそに、ミチコは星をもとめて果敢に大空へ挑む。 Wii U GamePadを傾けて移動して、タイミングを見計らってジャンプ! のぼってのぼって、勢いつけて急降下、大ジャンプ! 雲、虹、気球、空に浮かぶいろいろなものに助けられて上へ上へ…… 遠ざかる地上を背景に、小さなからだひとつで広い空をとびまわれ!",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-06-24",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/b201825a4bc621bb764b6a1470e41857b00d6ecb8bf8755876ee98a91fc9ba36.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/fa8c337300e13445345dd04057557d70af9a13da75a2d706ec12e75b354da0b1.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/6cb764055c5f89719e65a27e3acbc9088639b834b66d16e5dd11bdb907d9f8c8.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/07c2630d796c9348af64c67387601f02b4ac5e73a2a63ae2d2934cc3ba0015b5.jpg",
+				"name": "任天堂ゲームセミナー2014受講生作品 ミチコジャンプ! 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0a096f63e8c580093f03162b1882bdbf7a1e5480a18ff9f243c8d884fdcebe2a.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "50"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b709299ffdf2d3f6912d8eebe267e11d2831fccd63d40b20f94e95705ad2b72b.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "50"
+					}
+				]
+			}
+		]
+	}
+}

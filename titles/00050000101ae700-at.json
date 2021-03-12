@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101AE700",
+	"eshop_id": "20010000019367",
+	"product_code": "WUP-N-PCTP",
+	"name": "Konami Krazy Racers™",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b166cb67091f84f5542203186297253b09fa7db7427181ec874cea17b9238c5c.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/34ebe87a39b2034bfbbc1da85d00b62eedaa8f4829512143c94dd1ad425d4062.jpg",
+	"data_size": "81363084",
+	"description": "Geh auf deine Startposition und mach dich auf die abgefahrenste Ansammlung von Charakteren gefasst, die man je in einem Rennspiel bewundern konnte! In Konami Krazy Racers™ treten Figuren wie Dracula aus Castlevania™, Goemon aus der Mystical Ninja™-Reihe, Cyborg Ninja aus Metal Gear Solid™ und viele andere auf 16 unterhaltsamen Strecken gegeneinander an. Sammle Glocken ein, um praktische Ausrüstungsgegenstände wie Raketen, einen Schild oder sogar einen, der deine Kontrahenten in Schweine verwandelt, zu aktivieren! Suche nach Abkürzungen und schalte versteckte Strecken und Charaktere frei, während du dich mit deinen Gegnern misst, um der schnellste Krazy Racer auf der Piste zu werden.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-10-15",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/efbd526f310e002f58852d6cb7b7dcc74762de1d67238c03dcd5fa7a6f08319b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5c092d740c0b0f3195141983c1bbc5634342ab97ed777ef39234a4b2e2acd3b4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/29ceedcddcdf432fe118bf0e8f1e5b8bd3e096c415233e97e62092c1964e9463.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/939b7d610e30e4883ca57a1fc224e2c2e6c5214d57c59e52ce43662e99b6c6af.jpg",
+			"name": "Konami Krazy Racers™: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b5181db7d569511b0402665a3358bfda5993118dc736ccf25fa03a817d5c485d.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/90ede58228d47bf4124da59275ca944e451b2e3f0fd865b06e6d11dd391f1d21.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				}
+			]
+		}
+	]
+}

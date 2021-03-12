@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101AC300",
+	"eshop_id": "20010000017348",
+	"product_code": "WUP-N-NAJJ",
+	"name": "スターフォックス64",
+	"platform": 170,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/46eb229b248efdc05865b4b32640cb986d6c972716390ab4cc6d7b4a9a94a488.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8292c9481898bfcbb2fc3eac58254514c8b9d4b289b5dc25d8561d60f433433e.jpg",
+	"data_size": "57639032",
+	"description": "このソフトは、1997年に発売されたニンテンドウ64用のシューティングゲームです。 物語の舞台は、天才科学者Dr.アンドルフによって壊滅の危機にさらされた「ライラット星系」。遊撃隊スターフォックスのリーダー、フォックス・マクラウドとなり、戦闘機「アーウィン」を操ってアンドルフ軍の野望を打ち砕きましょう。最終目標は、惑星ベノムで待ち受けるアンドルフの撃破です。 フォックスとともに出撃するのは、個性豊かな3人の仲間たち。彼らの助けを借りれば、役立つヒントをもらえたり、新たなルートを見つけたりすることができます。もちろん、助けられてばかりではいられません。容赦ない敵の攻撃からいかに仲間たちを守るかも、リーダーとしてのあなたの腕の見せどころです。宙返りやUターンなどの多彩なアクションを駆使しながら、次々に迫りくる敵を撃破していきましょう。 本編のほかに、4人で対戦できる「VS.」モードも楽しめます。アーウィンをもっとも華麗に操り、いち早く勝利を手にするのはどのプレイヤーでしょうか？",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-08-31",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/b614a58522e9dc66f05ee64c476b24cad49cda00d28286d5dedefbdb7bcf5bf6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/15e5416b4a0b0f162e395db6476bc22266822157eace54813aac924633a38766.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e58c81769e05223aa15096d8b99b127548f06c09c60dcf9f42643ada0a1a6292.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0838804cb43c1f7f019d116875f3902a507b921b5d2d779c6e53b460bac316af.jpg",
+			"name": "スターフォックス64 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7da085777dd90dd0a5fdfb5a81f222a181eefb46d6d2389be8da70752b56d45f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "86"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e52f531e69317ba37a8b85bf366648e8d1fa85e17c3510ea174c83cdccd616c6.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "86"
+				}
+			]
+		}
+	]
+}

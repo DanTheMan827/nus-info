@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101A0D00",
+		"eshop_id": "20010000014229",
+		"product_code": "WUP-N-NAEJ",
+		"name": "星のカービィ64",
+		"platform": 170,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/daff6e37948dcb943617f410fb246143c6dbf0716f74209d197a897d557be3f9.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/1db81a62eae572d15fea3e54525eb7ebb5572fe0b88191ebabde2ac69f8ac783.jpg",
+		"data_size": "78905464",
+		"description": "このソフトは、2000年に発売されたニンテンドウ64用のアクションゲームです。 妖精たちの星「リップルスター」に、突然不気味な黒い雲が現れました。妖精の宝物「クリスタル」を狙ってやってきたのです。妖精「リボン」はクリスタルを持って逃げますが、黒い雲に体当たりされ地上に落ちてしまいます。クリスタルは粉々に砕け散り、星々に降り注いだのでした。「ポップスター」という星で星空を見上げていたカービィは、落ちてきたリボンと出会います。困っているリボンを助けるため、カービィの冒険が始まります。 カービィは敵の能力をコピーする力を持っていますが、本作では2つの能力をミックスした新しい能力を生み出すことができます。能力を持った敵同士をぶつけたり、2匹同時に吸い込んでコピーしたりと方法は4種類。「ミニゲーム」では、1～4人で3種類のミニゲームが楽しめます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-08-19",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/f31113963ba355b323c96438a3c60d34ec44378b396e6e9d207f73264e392600.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/f66d88c25dbc4e7f29506de0ce8bbcad1ae26090c822637b000a3b6560e73800.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/271ecfe044ef2e68b7dd7ac04dfdc1049db966ba141f204a0062da5974172cd8.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/207915570534c42e02eb4e49a3c9087febe0dfe36cd413631e9579d5ca640bcb.jpg",
+				"name": "星のカービィ64 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b3c88a0a7029b2c598b32637a249e2bc0bcdfdd72c48c1848b3a3ec7af7d00a3.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "68"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/36b836b7095f4c9068fe261b6eb668bfc560eab1a5f6290dbd44fe4fffcfa16d.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "68"
+					}
+				]
+			}
+		]
+	}
+}

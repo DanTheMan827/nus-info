@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101FE800",
+	"eshop_id": "20010000026088",
+	"product_code": "WUP-N-NAZE",
+	"name": "Bomberman™ 64",
+	"platform": 170,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a39c344ffe5f64842a1a3ecd3cd790e2f7e7ae2a25ea70d567a377176cfc3dd3.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/15f72d664cac360c0c96b2ad5bf03ce7c3682110191459b16a79eab5e884c847.jpg",
+	"data_size": "54427768",
+	"description": "Wie viele Jobs gibt es schon, bei denen man dafür bezahlt wird, mit Bomben um sich zu werfen, um alles vor sich aus dem Weg zu sprengen? Der böse Altair hat die Kontrolle über den Omni Cube an sich gerissen, der seinem Besitzer die ungeheure Macht des Universums verleiht, und es liegt an Bomberman, den Omni Cube zurückzuholen. Hierbei handelt es sich um die US-Version des Spiels.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-03-09",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/6841870d305cc30ce079858948a04d165a2ecef6efbca9897823defd04d960b7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/49f4adfaa759844e666333b9944b031e42e67f6cfe358aa4105342227863e6f9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1833b9e4703ec8426f4fe01378f2b62db9070bfbf6845327efbb2cebe83d43ea.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e362f63b9dcd78285d13565860eb8e06c704e43bbb4981c9e89ac4d4f94aca36.jpg",
+			"name": "Bomberman™ 64: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/319f0a8d1f0aab9b00af4ed9caf5be668c0ef527a79ada9aa6067cf3016e811a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/669aa1f34b9fcdece7af0599cfb9d60b9ad37b344c820832dc624d5d4f8ff68d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				}
+			]
+		}
+	]
+}

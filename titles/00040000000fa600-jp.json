@@ -1,0 +1,85 @@
+{
+	"title_id": "00040000000FA600",
+	"eshop_id": "50010000024077",
+	"product_code": "CTR-N-BS2J",
+	"name": "ソニプロ",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 1238,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/24deb5fa1f51cffb71a3f9bc6e3ae47ab7e4a589b39c0d1920cd4606d0b74705.jpg",
+	"data_size": "1556446052",
+	"description": "2015年6月24日(水)9時59分に、本ソフトの配信を終了いたしました。 ------------------------------------------- 音楽、フィギュア、コミック、アニメなどで大活躍の「すーぱーそに子」を一人前のアイドルに育てるため、プレイヤーはそに子のプロデューサーに! プロデュース方針次第でそに子が「桃そに子」「黒そに子」「白そに子」いずれかのタイプに成長するので、腕の見せ所です。他プレイヤーとのすれちがい通信や、有料コンテンツの購入も。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2014-07-31",
+			"retail": "2014-07-31"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2ee398117fcc6912f2dd2bf5b5443efc07f45d436a07282b198140c10a0befa2.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f3e3115ec676b3abae77b7e93891e91dfc52120b6c30393d8755151a82334cc8.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0c28982bf37ca0bfe1af2693a6568722424f56cc7a3167dfbcd2888389545bd2.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d3cde40550620fa15f91e2d634c7d96979502f6076d3880dbdcdbb89eac73a3d.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8d9ad010b7ec8e8d3f45adcbb8c030f71880cc44a04650eed4398c0008627a9b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b7d35e5b6ce4ae53e769e683692337c3210b850c5bee935aafa5adc6ca24556a.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3f5b9830274b4303485eeb3b97315edd7ab7d76bd1763c655e9694635c15dfaf.jpg",
+			"name": "ソニプロ 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fe70eda037387b56e8be3752318ccd3c1cb0cae3b98ef06bbaf61438792916ad.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "189"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2d7c16ffd21a7b891e9531ebc31498506e760e8fde9f0d3168e914ccc07bdb05.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "189"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8387d373f3ab43b6c5bccfffa71185a1423455f0c87c68dddba69fc16f4175a0.jpg",
+			"name": "ソニプロ TVCM",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1c7d618a2118d87d536a70dd013f192d60fda1fe813ec4ea47feb043e58862d0.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "15"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/eddedc94c334b05e1a94fcbdaa5f0f58ddae56e10450b85451fc87eb1842e24b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "15"
+				}
+			]
+		}
+	]
+}

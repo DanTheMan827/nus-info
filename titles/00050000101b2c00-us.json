@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101B2C00",
+	"eshop_id": "20010000020948",
+	"product_code": "WUP-N-BSEE",
+	"name": "Shütshimi",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1381,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/91b7489eda1f8f6f3a809a65234ab837be5c40153d396208e3a3a2cc0eaecd51.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/04442edeca79d25e8d10e7f9495ff12c5202352674a392bd0273a3026c5e224a.jpg",
+	"data_size": "168263820",
+	"description": "Shütshimi is a randomized shoot 'em up about a muscle-bound fish with memory problems. Armed with your trusty bullet-morphing shotgun, defeat or make your way through waves of enemies and collect power-ups as you battle your way through each of the game's bosses. But there's a catch (there's always a catch): you've been cursed with an incredibly short attention span. Combat waves and upgrade cycles only last 10 seconds a piece, so you'd better act fast!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-02-04",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/da8fa142c5f31f71c02c57eaea5880b60744ffcfdfe96523d73d1119d9ab8fe7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f65d97d570c69ce515093be6ee2728d4bfc19fb5118b03a81dbba24d0a12a534.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/dfe82558fa1b6590a8f3131faed0c0ba98c38b2f88f6e1d76bc377cdb6073908.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/07a2c203526dd290fbc1b1200e9bc2491f1c24cd8f588bbcafc7665bf7fa9cd0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a7f3000bb69b114a190eb01c156cafedb9d379a4eeee3e1ebfcb5eae93de5875.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1f39b501b541a914733ad861d787ac7beff9eb8133f8f93534ce9488e0d37b9a.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8163b29a1b62641f4fff32810fc6c19566d481ada1ce96cfa1fceeaa5cb2c4c9.jpg",
+			"name": "Shütshimi Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2e3db134250e37f42e44fa7d8166c758632bace58f08b10e6b8d802a3b1aef51.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "65"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/11b9147f69344b43898afa81bcb9cee3825401c6947ce43396e5403424cbf19a.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "65"
+				}
+			]
+		}
+	]
+}

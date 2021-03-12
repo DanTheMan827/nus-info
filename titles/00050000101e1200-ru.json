@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101E1200",
+	"eshop_id": "20010000021767",
+	"product_code": "WUP-P-BPHP",
+	"name": "PIXELJUNK™ MONSTERS",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1415,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7c39c1ed217d768ebc4b9be2a80f09bcc45ebec89af16e531645b759a7be6e69.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/73140428546bb08ccddde96da0450a7e87c7c9739d9d842639efae0903b98a66.jpg",
+	"data_size": "159121548",
+	"description": "PixelJunk Monsters™ это игра жанра защиты башни, где вы играете за Тикимана, – Защитника Леса. Он попал в беду. Орды монстров рыскают по королевству в поисках его отпрысков. Ваша задача – защитить их! Вы можете уничтожить захватчиков и защитить своих малышей путем стратегического размещения орудийных башен на карте. Вы можете выбирать из целого ряда башен: башни со стрелами, башни с пушками, противовоздушные башни, ледяные башни, огненные башни, башни с лазерами, минометные башни, кроме того есть специальные улучшения и многое другое! Собирайте сокровища и наращивайте свой арсенал, покупая новые башни. Бесконечные волны монстров будут пытаться добраться до ваших детей. Вы должны быть готовы к битве! Путешествуйте по 3 разным островам с 47 уникальными окружениями, чтобы защитить потомство Тикимана от умных монстров, атакующих с земли и воздуха. Играйте вместе с другом в режиме совместного прохождения по локальной сети и делитесь незабываемыми моментами. Тут даже есть загадочный остров Тум-Тум, который генерирует новые уровни случайным образом, делая игру практически бесконечной!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-05-19",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/faf34b07661a20792e6b0b93474b543d426e3c245403276775776bc9355d85bd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/fce1df3e91891c2fbac64f646b97eac1ccf1c0622d0a8250f2ae85cb72366e2a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3c92b36d835d1fd26816dc84f299d57c97fbae786dee913722f2b59a69101791.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0acc6f42f269cb4c23b690d4df35bce38a917fc5368421bf05a2d45f0867c098.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/51609230b53ec075e19c6c4335842a7e71c598eff9a98895151cdcd0be208c8f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ab3763f43708c1878247aa11e73c244b98d9022a18dfbdd8c319c8fa6b466173.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7d1f068587eec1b6403ecabca628f6203255b039e8e440ff887618cf6dc42c6a.jpg",
+			"name": "PIXELJUNK MONSTERS™: видео",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c8079c8cc086d767637b679c83488bfcb339b2c54dafbb712c2afdb78944c9ea.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "59"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/96339bb21ed3636d16953c7fc62af1a84c71903ba8f2111023be28fa3d2982a0.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "59"
+				}
+			]
+		}
+	]
+}

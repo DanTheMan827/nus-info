@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000010EE00",
+	"eshop_id": "50010000017976",
+	"product_code": "CTR-N-AD3J",
+	"name": "ゲームざんまい",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 19,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/1920d259e27feb18183281110d1a3540ff1a0e44c9f6759b4912aab9dfd08046.jpg",
+	"data_size": "63990628",
+	"description": "『ゲームざんまい』は、22種類のテーブルゲームが集まった贅沢なテーブルゲーム集です。 ジグソーパズルやナンバープレース、バックギャモンなど人気のゲームが盛りだくさん! さあ、心ゆくまで遊びましょう! ■収録ゲーム ジグソーパズル ルード マインスイーパー スライドパズル 神経衰弱 ナンバープレース ドミノ ダイスファイブ 間違い探し パイプシフト クロスサム ダイヤモンドゲーム シップエンカウンター チェッカー フリーセル ナインメンズモリス マッチ3 コードクラッカー 4 in a row ペグソリティア ビーノ バックギャモン",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-11-27",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/fe4072367d6eb368e21881a9909109884eb427f62a6a243a8fb30aa6d9fde086.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2b3107e1fc91dddb383ad4e8427ceef8588ae412556c90ccab2b7bbed268ac34.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/72618ec89f320603a6868add170941b3ff916e921ccb9cb233af3f9afd0743ec.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/fb513db15db3b1a668b6b61d06987c9e74623bfafaa97313f2c026e56cac96bf.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e1931686a70913b090ac935da956119cc4a62ed13a0a063584e1c3bccda180e1.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8900ad8c2442c49ff2e9c3432640fe5455c33e8df9a04c9d7223e45881a581c6.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a97532bc5a1a4e49353daf956f04337080ababc2f8c41e581fe5c1016006827b.jpg",
+			"name": "ゲームざんまい プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a3754246be56ddd1c2134cc03208e52cda0b3f3d71bc035bb16aa831871a6ebe.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8dc2d7ecb0f260e73c871ca91a745faa893c28c480420be74c9f702f685a7da7.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				}
+			]
+		}
+	]
+}

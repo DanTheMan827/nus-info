@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010161500",
+	"eshop_id": "20010000008386",
+	"product_code": "WUP-N-JCFP",
+	"name": "Pop'n TwinBee Rainbow Bell Adventures",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ebe77e8d79feffdd4f3ea43b66741f01d6d80c03f8f98f1c3d3779618fbbcbee.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/bc78c064f8022de2edbe129b39620d38c44a8eca5fb6faf1663edabf1a708289.jpg",
+	"data_size": "40992908",
+	"description": "The cutesy characters from the classic Pop'n TwinBee blast out of their shoot 'em up world and hit the ground running in this acclaimed Super NES™ platformer. An evil warlord is trying to conquer the universe, so TwinBee™ and friends must save the day. Play as TwinBee, WinBee, or newcomer GwinBee, and battle through challenging stages using numerous punch, jump and special weapon skills, before taking down each giant boss. Play solo or cooperate with a friend, or duke it out between yourselves in the head-to-head battle mode! This is the European version of the game, which was originally optimised by the developer to play music at a speed similar to the Japanese version. Gameplay, demos and animations run at PAL speed. The aspect ratio has been corrected for this release.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-08-01",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/b6ae15db9f879c870b26045b7439ab583f438d8fa1e281262818a340203b0ae2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f144e9f481d151dcf1ce761069b6085d569da163f4114df5f517374663c443ee.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d039b6c132da6bc6397a1c5c2e4fccde9eee1444d838e901885739750eb4c550.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/94c74c85de276813bf217de5b558d31d024a7f679314701ce7d29abcefc0f924.jpg",
+			"name": "Pop'n TwinBee Rainbow Bell Adventures: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cf61a8640fdb9a05572c37c6d32ef6cddbb08136f9b6dc06c2cafd48ba2ec4e3.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "74"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c2987ffa3a71b8e3a8a9467605ede8277fff4f779ab3c8ab0efc1dfbde1a0ef0.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "75"
+				}
+			]
+		}
+	]
+}

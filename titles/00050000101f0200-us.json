@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101F0200",
+	"eshop_id": "20010000025829",
+	"product_code": "WUP-P-BZDE",
+	"name": "Back to Bed",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1567,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b530c82023b3e25c83b006ed2861f9e68cf9fa23a75c95aa9fb5b2e8c63febdf.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/20e7d5c0f2bdef41e145cb5f4696576060a6cfb0896cff25e7c0f256a41bb31b.jpg",
+	"data_size": "655261876",
+	"description": "Back to Bed is a 3D indie puzzle game set in a unique and artistic dream world, wherein you guide the sleepwalker Bob to the safety of his bed. To achieve this, you must take control of Bob’s subconscious guardian named Subob. The pair travels through a surreal and painting-like dream world, filled with objects used to guide Bob towards the Bed, but also dangers that must be avoided!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-02-16",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/163630d0bd6f1d6eaa1b5d55e1834128edbca74ab9dca22efb3feb6129e79f51.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/44d1a423c63efd77114f3b74a0cff99b73a7a49db21081fcc79e7200770a1486.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/21850e5b94e8710462f3f1b8587ee00a5c116b6902a11a034bea8582d9968d6a.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ac88f812f51592872f9662b0fa8b5dc8dc06789be5738cd30bf98839dfe78810.jpg",
+			"name": "Back to Bed Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/413586f50e972e978d620433878ce4b85d51d0eed64c8e65d35015f88df2e18d.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "67"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/70583a6055822933ca259684199e8f1d6bae06807846533892942bad3fa852e8.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "67"
+				}
+			]
+		}
+	]
+}

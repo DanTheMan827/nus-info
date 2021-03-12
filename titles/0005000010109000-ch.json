@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010109000",
+	"eshop_id": "20010000001224",
+	"product_code": "WUP-N-JAAP",
+	"name": "Super Mario World™",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/67949161c2a2faef3987466209cdcfeece674b9ab158994838b2ccd756f6707f.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/dc63c84b575c806098b0c74e7d92c6b8caa32d008e8407e96f9a2e62e0d5c4a6.jpg",
+	"data_size": "40665228",
+	"description": "Hierbei handelt es sich um die US-Version des Spiels. Mario und Luigis erstes Super NES™-Abenteuer führte sie in ein neues Land mit neuen Charakteren, neuen Fähigkeiten und noch viel mehr. Das war die Grundlage für den weltweiten Erfolg. In Super Mario World betreten die Klempner-Brüder Dinosaurierland, wo sie auf ihren neuen liebenswerten Begleiter Yoshi treffen und sich in dutzenden geheimnisvoll kniffligen Leveln mit Bowser und seinen Lakaien anlegen. Du kannst auf Yoshi reiten, ihn Gegner mampfen lassen oder dank der Cape-Feder in den Himmel fliegen und in eine Welt voller Abenteuer aufsteigen!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-04-27",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/06746df3dd086ba8daf0231f8f8df03f452fe9a17e495d46128394f5e9e3d263.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0519195743fa7db2371a0eeea436d3d56941299200aac5510ba8ea382a1d3e88.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3675cb4a0c62cc0347e3f826024f4d225f1b123b6c4f7609da7ca092c7175c39.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7c750fa695b50b539245f5fe87704c54d3ca2e398474b308b9aa8617e61c595c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/509663e9297f3f4c3228862535648e849852cb0f4bc7310d948eaf1312e327e4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bd14c1db7b1d6b1e519d6776ff231b60826bda3b18a1e8c79f75226ef02be34e.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ab32a1c3fe7a8a12df9bd828bf3dd43320c5f8cbb4c3f311064cd291b199c3ea.jpg",
+			"name": "Super Mario World™: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/11ea83a1faf3d66929db448b1149360da3fa1f94d171d950ea05081a218220ff.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "66"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1718c698babd7c551c8720794e2b0642d62b03214a7c0c457c183b2b56c7de29.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "66"
+				}
+			]
+		}
+	]
+}

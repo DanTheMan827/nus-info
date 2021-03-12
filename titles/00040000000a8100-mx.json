@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000A8100",
+	"eshop_id": "50010000012205",
+	"product_code": "CTR-N-AHLE",
+	"name": "Hello Kitty Picnic with Sanrio Friends",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 166,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9f120107ee9cfcb3b7d82a8655d347b58214005febef48fe36dd9f9d3aae55c1.jpg",
+	"data_size": "21982052",
+	"description": "¡Únete a Hello Kitty y a sus amigos de Sanrio para la perfecta fiesta picnic! ¡Ayuda a Hello Kitty y a sus amigos de Sanrio a prepararse para su picnic en el parque en esta divertida colección de 10 mini-juegos! Colecciona todos tus accesorios para picnic y 5 escenarios decorativos incluyendo la habitación y la cocina de Hello Kitty y más. Gana recompensas de manzanas para desbloquear los nuevos y superlindos atuendos para Hello Kitty y artículos especiales que puedes utilizar para decorar los escenarios. Incluye todos tus personajes favoritos de Hello Kitty: ¡Hello Kitty®, My Melody®, Keroppi®, Chococat®, Badtz-Maru®, Little Twin Stars® y mucho más! ¡Sigue la narración de voz y utiliza la pantalla táctil para todas las actividades!",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-01-10",
+			"retail": "2012-04-12"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/90194034ea51044c747517deca2536c5f5c29ca89b84c0ec87144542142e8b2f.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8d2ff5ecbbc8d24bbccb6ddeee11230a03d27b31b19322f4b2ec252695ece88c.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1afde989522e284a8e9786bf336e1f5add176d3f958d3cfed88e6305c81799e3.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7444649021f44d9b8d4746bb21f0ee7a77c3809f984dfa509f276bcb3c6d1900.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/9323365ad35161698da18483380111b34b72e89a693f51161da9e7a0713eae0b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/31234608dcd90bcd067b5f697a093e4548d53c1b0e5584aaa2c0ebdef035e82a.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1037b1bdca1d1d90c9f77b0be61c55a13baeb1748432c15ba12d40ea3be3b7c1.jpg",
+			"name": "Hello Kitty Picnic with Sanrio Friends Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e92780bb1798e25e60f2dbef539243b80f08eee449e291434db6e794e206e6be.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5dc4da2f85d9f24914c8aa24cb1fded3fcc064fc884a4b35af98e9a5293e1ac9.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				}
+			]
+		}
+	]
+}

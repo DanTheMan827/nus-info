@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010141600",
+		"eshop_id": "20010000002786",
+		"product_code": "WUP-N-JBTJ",
+		"name": "ロックマンX2 ",
+		"platform": 164,
+		"platform_device": "WUP",
+		"publisher": 39,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/676db4137f8900b1f14fc7e5dfbb4ee82bc5a4f7c8fd2b41e9fa3ffd734b2635.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f9e44fdd2db5dcc1f5643d7689bf4724aa8692bd87e8cabcc44580741cc7bb57.jpg",
+		"data_size": "41353356",
+		"description": "このソフトは、1994年に発売されたスーパーファミコン用のアクションゲームです。 『ロックマンX』で世界の危機を救ったエックスは、再び発生したロボットたちの反乱を鎮めるために立ち上がります。各ステージに待ち構える8体のボスたちから取得できる特殊武器は、ほかのボスの弱点を突いたり、通常では進めない場所に移動したりと、さまざまな使いかたができます。いくつかステージをクリアすると、ステージにカウンターハンターが侵入してくるようになります。カウンターハンターを倒すと隠しキャラクターが登場し、ゲーム展開が変わることもあります。 ",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-10-09",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/7b96e47cbab3681207bfab530090ad2bf575b557c5a6749345e774099d472fa5.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/2edcedd13283f7af9f554425aab525d8ab8cd65b8ab613248e100321a115aa29.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/5238550018811c9eb6a101919f1659f9c1e614b68ff355f2e64c4df05df59a78.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cece696ffef87c9ebb6419f539db6f94ac4c62897023eb695f48e20e456c539d.jpg",
+				"name": "ロックマンX2 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/19593b69221720447d9ee4637024950ba709846c05e7526d18bf286f491c6bea.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "45"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6ecfa7b82f151cf33e75f34cdd518c8a7972bfb538bdf7d3369d58cc1c4038f8.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "45"
+					}
+				]
+			}
+		]
+	}
+}

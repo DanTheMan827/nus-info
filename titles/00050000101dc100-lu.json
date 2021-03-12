@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101DC100",
+	"eshop_id": "20010000019647",
+	"product_code": "WUP-P-AD5P",
+	"name": "Octodad: Dadliest Catch",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1512,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/38e25f836ad7e749bc7a479af6ae7c825d037e8214bb82bd85302e4a0690d688.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7816d3a61a30b9d9b9294157aa0c35906b189af5a3fd31e4d1869959321e9513.jpg",
+	"data_size": "2205614380",
+	"description": "Octodad: Dadliest Catch est un jeu sur la destruction, l'illusion et la paternité. Le joueur incarne Octodad, un sympathique poulpe qui tente de mener une vie ordinaire en se faisant passer pour un humain. L'existence d'Octodad est une lutte de chaque instant ; il doit en effet accomplir toutes sortes de tâches banales à l'aide de ses encombrants tentacules, tout en évitant d'éveiller les soupçons de sa famille humaine quant à sa véritable nature. </br> Dans cette suite du célèbre Octodad, notre céphaloprotagoniste doit jongler entre les soupçons grandissants de sa femme et une visite désastreuse à l'aquarium municipal ! Pourrez-vous aider ce papa poulpe à garder son secret tout en évitant de s'emmêler les tentacules ?",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-10-29",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/a34842d28bbb43176f4bd62394b9fa95d76f5188f4b41760835c4129e689a850.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/335b4cecdd3639cf572d6258ff96fe6a17f11c466fc442a4b89d6055af02d8b4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/94a16535a9e7b1ab6c33c195c3f3dd6cd34f17bb8694431e4b6e62d25fa16086.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3a0e0c17d545eb3442f2ed89ec842532139a92e93fb5a685b302ca306f543c84.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/78947683b174ac29515b7df08293bd690fc15083d73b2dc8d1a488165b54cdaf.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a3a0c5232b49f3dd157e463b4c2816cbd757df81ff352516f7589513e3136ef2.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9a369903d56268c3e18304b15cee39effd02f741e9e4cd0e191f9ac877e44d19.jpg",
+			"name": "Octodad: Dadliest Catch Out Now on Wii U eShop",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3e03bdfbabf6e800bdedf36fc92e88c7982677525c26f8ec40d95f17de40408f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "102"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ca0facdc6f9283d101fe3b9c9f9ec5460dbec0c50ed254e658a947044b172c26.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "102"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000113000",
+	"eshop_id": "50010000022018",
+	"product_code": "CTR-P-AEDP",
+	"name": "Inazuma Eleven® GO: Ombra",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e9f6f36bb75d75c100937107223f10bd5c711931aefacbd31b0cb55e1d5e4d6b.jpg",
+	"data_size": "3082152804",
+	"description": "Preparati a mettercela tutta, perché la Raimon Jr. High scende di nuovo in campo! Scopri i nuovi atleti, le nuove mosse e la nuovissima avventura di Inazuma Eleven GO: Luce e Inazuma Eleven GO: Ombra per le console della famiglia Nintendo 3DS! Se il calcio ti appassiona e pensi di avere la stoffa per creare una squadra imbattibile scegliendo tra oltre mille giocatori, da oggi Inazuma Eleven GO: Luce o Inazuma Eleven GO: Ombra sono i giochi che fanno per te: pronto al fischio d'inizio?",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2014-06-13",
+			"retail": "2014-06-13"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ead21e5acf57ce8fefcc5bf1ad251654f7919bd43512496061b176186635ef5a.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/30594911e7c4468db56a8fa3eb6890bfc61babbef81bab77ee4d41fc25fa1610.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/97dfa985a5e5d81a05e4a7d74aaf6226a53eb1d765771a004615d99c45cc93dd.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8c921c1ca3697b98a2335013e43b168cf374461b3ca3ddea558dde0dac61fd82.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/45c6e3aa14727e36bcea3933ada53ec0548ebf1cb976a6f20c27900caac03c77.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/05a3065ff7a7c1ffa79c9cc9b381119422963b48f70de6c2b1a2b80a5922fde2.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8d84ae16bb763191f68535e2b5816b518aee94125fd8f9f841aab48d9635e67d.jpg",
+			"name": "Inazuma Eleven GO: trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/66c9293853056195529aa1f51b34c9523013bbad7add14548e4acd20cdaef7d1.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "139"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a8908e7721eb2d141a1ce9a3fa1a08f455d54774a6f5187cd12c465804b704fa.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "139"
+				}
+			]
+		}
+	]
+}

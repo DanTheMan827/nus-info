@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101DE000",
+	"eshop_id": "20010000023047",
+	"product_code": "WUP-N-BPKE",
+	"name": "Chroma Blast",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1518,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7bae3528aa99b4548631f08840071fef2c1531028b6f459d380fa640640e9fc8.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7551abfb1d7090beb34346d9270c146915273234c53c01d7efa45e9998dc1334.jpg",
+	"data_size": "110493836",
+	"description": "En Chroma explosiva le poner a prueba tus reflejos y habilidades de supervivencia contra las olas de enemigos. Dispara a los enemigos que tienen varios colores para obtener un puntaje y sobrevivir. Recoger power-ups y utilizar modificadores para ayudarle a alcanzar la mejor puntuación posible. Compite contra tus amigos y otros jugadores en línea para ver quién puede ser el mejor.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-07-14",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/769da12c74d6cb7bc10f286958daf7069631b8f2b51a8f82bceb76d9c3956110.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7f1bdf4a1ef60f1758770653c7a5f02040b8b13be7bbb4eb33157b916bc97a7a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8d20a0571eb286aef49e0f373a98ccd3aac3c37691790489e936f55ee7a033b0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/57734eff3b154a14556312ad94e45b841a85ce3a4a207c8b735dfb219306ff6f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/20e5f5b0ffc83e5b7bd77192ad03791c4fd95c34bea39787d85bf08d9a1c8737.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/45062c2cc67da6cda36c4ffa24ca3524b74cd1e8068dbff07ba9667daf896249.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3a7fe677fe11b97f60623aa16d1fe0fef059374694721e6f28baee4af2dcd98f.jpg",
+			"name": "Avance para lanzamiento Chroma Blast",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/027af1495de7f0e49ecee58c17c444ec7c8c09b148ac67de7639c785cc38f12a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "62"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bfea273da4d5576c8bbdceb0cab0db191513bed0aa80ac9342fe8685d64dd880.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "62"
+				}
+			]
+		}
+	]
+}

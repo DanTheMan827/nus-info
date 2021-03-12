@@ -1,0 +1,53 @@
+{
+	"title_id": "00050000101FE500",
+	"eshop_id": "20010000022967",
+	"product_code": "WUP-N-ALQE",
+	"name": "STEEL LORDS",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1610,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/805e6bd52de82754959b0b7520284e10fe88fb9022ae49f1c68cb01bee8b1f11.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/37b7783f39a02af770ab1c79545e686cec75ed8bf9faf12fbc2b6cf2a77e8c6b.jpg",
+	"data_size": "272760972",
+	"description": "STEEL LORDS is a game of strategy and fighting, combining elements of a board game with elements of a fighting game. The factions of LIGHT and DARK are engaged in battle and you will be in charge of one of them. Play against the AI opponent or another human player. Supports off-TV Play mode.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-07-07",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/39a4ec73ea789140e6ec5c52d88362212b81716b000045976dca66d8c260a3ca.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f128539ceaf140bd8c9105459d5c16f2c491fae23bb96f1e91de51cfdf0bc126.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3135d50e89c48c61ed17efa22c8f97fc21c76506b6a19144e810350f05e85645.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/47a9f74283a4803d7653ce1f91b459d8e64e19498ff0897cf26954e5154ed2b6.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4e0f1142453e7d3148b725fd7712d4575511709e62c4fa8da99ea32809ec98aa.jpg",
+			"name": "Avance para lanzamiento STEEL LORDS",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/76b9ca951c8dd55883b6d855cf41755322c42536511972cf1774e3ba8ccf74d3.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "64"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/85e28bb804b8da4cb1edde40423f22c84d95c756c72fa61517457d64420b495f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "64"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010183E00",
+	"eshop_id": "20010000009388",
+	"product_code": "WUP-N-PBJJ",
+	"name": "Castlevania 暁月の円舞曲",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fa95a52d70d13366f119c03eccc015b9f7fc561c74bbf7a229a4d55aebc86c41.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9e8273c598a5e43db09c51dd5b49dd038f439abeec8e6d4b72ec6b6987ab4e57.jpg",
+	"data_size": "72679564",
+	"description": "このソフトは、2003年に発売されたゲームボーイアドバンス用のアクションゲームです。 2035年日本。主人公の少年･来須蒼真(くるすそうま)は、幼なじみの弥那(みな)と皆既日食を見るため、白馬神社へ向かいます。しかし、その途中で意識を失い、気がついた時には謎の城の中。そこにいる魔物と戦った蒼真は、自分が未知の力に目覚めたことに気づきます……。 ドラキュラ城の中を探索して武器やアイテムを見つけ、それらを駆使してモンスターと戦いながら進んでいき、弥那とともに脱出することが目的です。モンスターから取得する魂「タクティカルソウル」を装備すると、さまざまな敵の能力を身につけることができます。タクティカルソウルは4種類あり、装備するだけで能力値が上昇するものや、ボタンを押すことで能力を発動したり、飛び道具を投げたりするものがあります。入手できたら、いろいろな効果を試してみてください。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-08-26",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/27f7cfd2255afa2a8d9586d9599f6d6304a0ec5648e9fd74122b417b453cdfd5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6b7ebf2031e2b40643e2a2c1d3394ad4b84c83ab80ee95cb252cf1640919cfed.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d902697cc32f9f3fcadb3b8f238277da5a5f406e85c86d4a403ba533996b5639.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d2b36733a7dd7eaab63e31f782cafe09a0a1ba8760a4c0bcdc2df3472702a513.jpg",
+			"name": "Castlevania 暁月の円舞曲 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bf0b19f0520cc690b9b76363adbce70458bbd74ebe29ae195b7a1f991b86833a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "67"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f31357667772a846ae787e30da73022ff8852a9f93c252fd68800d28f501538e.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "67"
+				}
+			]
+		}
+	]
+}

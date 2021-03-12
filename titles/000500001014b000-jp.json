@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001014B000",
+	"eshop_id": "20010000003927",
+	"product_code": "WUP-N-JBZJ",
+	"name": "ファイナルファンタジーIV ",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 246,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/595d5ae5a0466b7e0f9f02522f308acf5247f57e6598dcd849895f4467ffe040.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/39f955c8be403173086118d2113e7708ddef5e16dda1c10fa0c98b618ae60d21.jpg",
+	"data_size": "41091212",
+	"description": "このソフトは、1991年に発売されたスーパーファミコン用のロールプレイングゲームです。 バロン国の飛空艇団「赤い翼」の隊長であった暗黒騎士セシルは、国に背いたためにその座を追われたことがきっかけとなり、次第にクリスタルを巡る争いに巻き込まれていきます。戦闘中はつねに時間が流れており、行動選択中などでも敵から攻撃を受けたり、時間の経過とともに敵が変身したりと、さまざまなことが起こります。のちのシリーズで定番となるこのアクティブタイムバトルシステムは、本作で初登場しました。また、戦闘中のみ2人プレイが可能で、操作キャラクターを分担し、協力することができます。 乗り物は、チョコボ、飛空艇、ホバー船などが登場します。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-02-19",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/dc1b320abc743a771fc7d293bc75cf55817f37063bccf0da5839f8bf604263ed.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3dcea280e02a1fce3027e0f57c6263f964a1625e8878222d835cc1b398d4f70a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d57881e5b31e34558cf76ea83c189746c655c5c1a7dfdb02c6accc217bc41c1e.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0fb998db0d0a89dc6fd0867c323c230c2cc6dacfcbac7f789388ad1f9f8bdc89.jpg",
+			"name": "ファイナルファンタジーIV プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8e5826f2e04ed763d7de21654b733bf6da6d4a7d47a8d45189a0b5e936d5c289.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5f13e35af4b181bbd73f4bec79ced214b459e80ea8435a8c8e54295e453244e1.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				}
+			]
+		}
+	]
+}

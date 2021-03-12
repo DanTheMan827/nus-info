@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101A0400",
+		"eshop_id": "20010000012468",
+		"product_code": "WUP-N-FESJ",
+		"name": "ダウンタウン熱血物語",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 19,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/30b30b851bdcbe047903af570207eee274ccbee4bad83523da559ae20d776c91.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/868d979a3ceda444ad0d2d36458cd8a8eab86be59bacf2632acf89fc5b363285.jpg",
+		"data_size": "38928544",
+		"description": "このソフトは、1989年に発売されたファミリーコンピュータ用のアクションゲームです。 「ダブルドラゴン兄弟」と呼ばれる竜一･竜二の兄弟を倒し、つかまった真美を助けるため、くにおとライバルのりきが冷峰学園へと向かいます。次々と現れる敵を倒し、ボスを倒すと先のステージに進めます。商店街での食事やアイテムを使うことで、能力が上がったり必殺技を覚えたりと、くにおとりきは強く成長していきます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-08-05",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/7805b284ce0a2ebd87785a6ca1c3b6235f393446bd036a9fbdb2f20bd208f9e0.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/3adfc2b9a13bf977ed4199856b8b9c4ecb1c85497e9ab7623dd968d20bc3ec4f.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/753d811746c996795f51a0f9d0e9697996ccbd4985de49af8ec03218c801b8fc.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6163e13c3a5e19086af83e5ffaf0b80f81192f16d81b13020f4d70ae699f9e8d.jpg",
+				"name": "ダウンタウン熱血物語 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fd18cfb91eb81eec2766c22594a507db1a6a21acba0725bf538405620694f22c.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "67"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6ddc887d3b47bbe6101ee37d32f443345e8e40d9d1fce928a82752207cda169d.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "67"
+					}
+				]
+			}
+		]
+	}
+}

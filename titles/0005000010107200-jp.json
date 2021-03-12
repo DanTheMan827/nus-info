@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010107200",
+	"eshop_id": "20010000000903",
+	"product_code": "WUP-N-FACJ",
+	"name": "アイスクライマー",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5135708741be6c14c027701b5eb13b9a52c26632c533d05fb0ea717b4fa7b489.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/eea6013c02e4d7132acc19e46b65ab028dbf7ad5bc051b95575a8b274b6b856f.jpg",
+	"data_size": "36536460",
+	"description": "このソフトは、1985年に発売されたファミリーコンピュータ用のアクションゲームです。 滑るブロックや移動する雲などのしかけを突破して氷山を登るポポとナナ。ハンマーを使ってブロックを崩したり、行く手をじゃまする敵を追い払いながら、ジャンプして最上段を目指します。2-PLAYER GAMEでは、仲よく協力しあってプレイする方法と、じゃまをしたり意地悪をしたりしてプレイする方法があります。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-04-27",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/f8f50acd7fe488fc5897e022d411f30b19f82b8ba07b242a3d4e09357a8799e2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0eb9f9f12eed9d6fef0b0a5c2c965abda54d11fee089632f8ad9a45a8df5098f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/be685d4978fdbb1328fb2624a733929517ff851995ac4c3d1dcf55c84eec84f6.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f5d5a93c9cdf55e28499fb46ec4a586da4cd18bfcc47588863912515af15f329.jpg",
+			"name": "アイスクライマー プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4cb615f7da3506822657db1a724803e2c71e5ec8026352835cecf75bc0aeb644.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f90a1eaf5825a91a73c9de162a59a282b006b98cc725441fa20e25cc2c3c5278.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				}
+			]
+		}
+	]
+}

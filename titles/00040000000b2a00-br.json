@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000B2A00",
+	"eshop_id": "50010000023815",
+	"product_code": "CTR-N-TBSE",
+	"name": "Castlevania III: Dracula's Curse",
+	"platform": 24,
+	"platform_device": "CTR",
+	"publisher": 149,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/29bca82507cc08d30dbe49977a662352f751b65d17e9a15b908745fd1bba4b04.jpg",
+	"data_size": "6826852",
+	"description": "Continue nesta luta que persegue a família Belmont. Jogue como Trevor Belmont, um antepassado do Simon, e lute contra o Drácula em uma história que acontece muito antes dos 2 primeiros jogos da série Castlevania. Além do chicote de confiança, Trevor tem um poder jamais visto – a habilidade de se transformar em um dos três tipos de espíritos companheiros que ele encontra em diferentes partes da sua jornada: Syfa, que caça vampiros e é capaz de realizar mágicas poderosas; Grant, um feroz pirata que escala paredes; e Alucard, o desprezado filho do Drácula, capaz de atirar bolas de fogo e se transformar em morcego. Avance com coragem enquanto vence 17 níveis de terror sem fim. Use um arsenal de armas (algumas específicas para cada personagem) ao escolher qual caminho seguir para lutar contra o Drácula e seu exército. ",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-06-26",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e07579ee4f2e4e268445d40ec1c26318446f3940ae0bda56c96e47bf90167727.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7cef0cbeb072b1f6cf5f023197b2686ce0ef1d6e26c9c3b12846b7c4436045dd.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/93734bb90fc285688a778e871e1b71b5bc88c03461251fa1d4d965113c83ec77.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e254d6c9d0a443ed018573c9bd38c2f9c26cc62654de062296fc34f485da1faa.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/cc718085e5cc9922106ef3def842a97572fc053e71629981a6ad6508232ae0ce.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c17fcdae486b4e1527e91ff8e79ab4659a5869b0aa8ae03c4e3aaff442111bf1.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9a8950a0764db3de51d2083b97c764a968c987a3adef852134e64784eee8e58c.jpg",
+			"name": "Castlevania III: Dracula's Curse™ Vídeo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/32b415fac96be319bec0aba54b44cdbd39c5861514c4eb27374502940ada2ead.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8fc73d60716c95ead69b21d8c7a6b5f1ff31c0f8b767fd4100c458ccb6654cda.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				}
+			]
+		}
+	]
+}

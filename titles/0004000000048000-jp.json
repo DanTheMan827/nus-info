@@ -1,0 +1,67 @@
+{
+	"title_id": "0004000000048000",
+	"eshop_id": "50010000009084",
+	"product_code": "CTR-P-AM9J",
+	"name": "初音ミク and Future Stars Project mirai",
+	"platform": 18,
+	"platform_device": "CTR",
+	"publisher": 231,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/1eac25645a4c8c922719b31af622031bc0bdd567f40808ca68506dca156978d1.jpg",
+	"data_size": null,
+	"description": "“初音ミク”をはじめとするボーカロイドキャラクターたちが登場する、リズムゲームと3DPV鑑賞がお楽しみいただけるゲームソフトです。 CGモデルはグッドスマイルカンパニー社の人気フィギュア“ねんどろいど”のデザインを公式採用。ゲームは本作ならではのライトなゲームシステムとポップな選曲を実現! さらに「AR」によるデスクトップライブや3D写真撮影など、ミライ機能満載! 「マイルーム」では、いつでもミクたちに会うことができます!",
+	"availability": {
+		"eshop": false,
+		"retail": true,
+		"dates": {
+			"eshop": null,
+			"retail": "2012-03-08"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2cacc29a9b54c8bc23751471b8cf658c1a96b6439ac3489a3bee046c8a5ab69d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/34ddd9128756737c5a8b269789e939671afc8c8c98e8d9f36615cb9403f065fd.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/85f9401bb673ca8ae73cad13e155e76b53ee5ff77de755a63fad0c730930a60b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f0a57105617a9091aa2d2a9896a1e8fec7103a6a314e25c8cdb6414a45d0e51d.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/4d21d62674b1768a4dfc6c60b0e9be0272db57ed503cfc74a8f994b4bb89072e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/cf60e15e17b4a6d601a2de9c16375f3ceff49f2960ec330ad498506d40cc226b.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/07d6de32e5680881d06201f116cc52b81850dfb219c6cc28defeede991ac00af.jpg",
+			"name": "初音ミク and Future Stars Project mirai 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/681e30dc395d96e667e9098852ffb446a9a1fd5183f058b7c8222acb25cddebf.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "229"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/23dc48fe2f107e0a7cfe26d58d2f14bad5fb479486abfce1988367fabe762734.jpg",
+			"name": "初音ミク and Future Stars Project mirai TVCM",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bc169cdf5aa4598f8151c0df794be38da09b41fecb37eb2e1627a1b474957cb3.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "19"
+				}
+			]
+		}
+	]
+}

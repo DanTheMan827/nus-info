@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "00040000001A1600",
+		"eshop_id": "50010000041588",
+		"product_code": "CTR-N-BNHJ",
+		"name": "百ますドラ算 のび太のタイムバトル",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 462,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/567705d90fe93f1297a83d354146a1124af24f967225bd3d7d36e7e7b29d4f8f.jpg",
+		"data_size": "37686116",
+		"description": "数を楽しく身につけたい小さなお子さんから、計算ミスをなくしたい小学生まで、幅広い層の子どもたちにピッタリの学習ソフトです。ゲームの舞台は、タイムマシンに乗って行く未来の「百ますワールド」。「未来の子どもたち」を相手に計算バトルします。10種類の「ミニゲーム」では、集めたひみつ道具を実際に使うことができるのも嬉しい演出です。 最終目標の「百ます計算」は、何秒でクリアできるかな？",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2016-11-23",
+				"retail": "2016-11-23"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c3c28ff71171f07e0387c00811443cb23b3fe212f457eaff20efc1fa7a26a8b0.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/06ba99d2d368e708d1e98c87a938901d9f11ab5a324589f3379adbfb1d8380cc.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/fc1d7a30de8197abbea5035efc480176a89224cd5db54f0fe481ce66b2f07c84.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7edb10f37a7d304443b7a5010ea40913ec11c04ccc214f9b23eafd0f0f1398b2.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/29ca27276dccffea67b43b24c353466939694e9b1387f95c89860e887209073e.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/aabb8248470e477007d5ce118b635dedcd1c9ee9b5d47cdd5ba27e923d7a3789.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3b6af2e0660aa0acc96b51256765204dc12f39e18dc53fa003a2499f966a65d5.jpg",
+				"name": "百ますドラ算 のび太のタイムバトル 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/61e719f252dcc85d04f43c2ed381c75f8ee0d2409431bc9439d017162e11628b.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "180"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/90cab5c79bc906738d4ea8217a91803a4cd82aea963bfff158f3c26a68a99268.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "180"
+					}
+				]
+			}
+		]
+	}
+}

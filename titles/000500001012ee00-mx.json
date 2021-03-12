@@ -1,0 +1,54 @@
+{
+	"title_id": "000500001012EE00",
+	"eshop_id": "20010000004224",
+	"product_code": "WUP-N-JA5E",
+	"name": "Contra® III: The Alien Wars™",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a4d14a2c96bb2bc0154efb0abb4a097e9a528adcd86f44ad20368875945d44c5.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e592eac67322d64f33c6ba469f2aa6846d40b886ccb42479a70d8caa977e1f94.jpg",
+	"data_size": "41222284",
+	"description": "En el año 2636, la guerra alienígena continúa y depende de dos soldados, Bill Rizer y Lance Bean, parar la invasión alienígena. Los extraterrestres han devastado la Tierra con sus poderosas armas biológicas y de alta tecnología. Los jugadores pueden unirse con un compañero y pelear a través de seis escenarios repletos de acción de disparos, recogiendo objetos especiales como bombas, lanzallamas, rayos dispersores, láseres y ametralladoras, para eliminar los extraterrestres. Bill y Lance tendrán que viajar por las ciudades arrasadas montados en motocicletas voladoras y misiles hasta infiltrar la base alienígena para derrotar al jefe alienígena de una vez por todas.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-11-28",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/09565c082f6b34ed6f2ef777e8a54ec2cec184addcfee8ffd773968c61b1d809.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d13cf8e4cbd859bd5aa472fd38a959490b76378619c73b320e8961b41db1b505.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0e39e27fe519e001b688ff31ccb3db89fd538c97bfd5ccf3e6de05709416a7ec.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/831f671258eb4bbe0ab7518fbf734d64577a045013d5a98692bbdb8caf503e69.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/20d7a625ff91a5b89cd91379460c5e439c7b9426e679c9b45b749f2bf8249178.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cfecd986a336bf4bd2397f7a2cb129fda250ba162986bef2bb16ad763895bfa8.jpg",
+			"name": "Avance para lanzamiento Contra® III: The Alien Wars™",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/dd0e9f5ac2e46d443acac679b11b466af34ca908e61f231e4d0f3740424a9a28.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "33"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d65e91ed77b26dc71e8606df31043407f46ea525c5728a07b8c032450d0396cc.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "33"
+				}
+			]
+		}
+	]
+}

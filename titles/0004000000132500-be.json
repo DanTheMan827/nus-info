@@ -1,0 +1,85 @@
+{
+	"title_id": "0004000000132500",
+	"eshop_id": "50010000029435",
+	"product_code": "CTR-N-AY6A",
+	"name": "Code Name: S.T.E.A.M. ",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c931c82cc95fb3d7647bda0a1e2388378aafa0ba7b6c014a82c394131a835876.jpg",
+	"data_size": "1098505060",
+	"description": "Code Name: S.T.E.A.M. est un nouveau jeu de stratégie sur Nintendo 3DS et 2DS signé Intelligent Systems, qu'on connait pour être à l'origine des séries Fire Emblem et Advance Wars. Ce jeu possède une atmosphère unique mêlant le style steampunk aux graphismes de BD. Le joueur choisit quatre membres parmi une équipe d'agents, chacun possédant sa propre personnalité, qui seront menés par le 16e président des États Unis d'Amérique, Abraham Lincoln, pour combattre une invasion d'aliens sur la planète. Visitez le site amiibo.nintendo.eu pour voir la liste des amiibo™ compatibles et en savoir plus. Un lecteur/enregistreur NFC est nécessaire pour utiliser les amiibo avec les consoles Nintendo 3DS, Nintendo 3DS XL et Nintendo 2DS. Le lecteur/enregistreur NFC pour Nintendo 3DS sera disponible dans le courant de l'année.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2015-05-15",
+			"retail": "2015-05-15"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/cb0d088473ce4450046387437e8fcb66a2c79d6f370ef5b48444f6be263e4771.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/20a3d09492256eb15cadb8deab78d61ddd326a25e186b3366fa2ab97aa043f93.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/148f747d765cc6cd319d98d05e89d1e7c5a8406db23f4a131d5c8410624e8f29.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/be879f3f81de1e1daf4f18966b04bdd6b51fd51e5fa77a90b75be8480591e863.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/24d50173dfacb18605fa73a732cfa55fbf68fa521979693958fe4d6ed09cd373.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/72aeb1d17c906acbed4d8887745306a7f558bba8a2234468f4179b7122aff15c.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/187c43f9daf0295839941a25bd71a0f12d640942fb04eb57f3e68d7ba2d65ae8.jpg",
+			"name": "Code name: S.T.E.A.M. : bande-annonce de lancement ",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a9d430521ca48b2020e70d77916a91fbfd387c3075acd2705a3d875ea2ce4e4e.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "110"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/61bfcd172fe27853ad7f7be4b49cfc0adc2ac0cec80b8976f60d0094d2420e66.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "110"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/187c43f9daf0295839941a25bd71a0f12d640942fb04eb57f3e68d7ba2d65ae8.jpg",
+			"name": "Code Name: S.T.E.A.M.: Bande-annonce en chanson",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d914cfe7dd5f443f521f5dc77441ab29977dcb006e5a51510463f7685a11cba0.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "147"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ca61be2425d89c0588f1ae22910f2a0a896db933d8c5741fb2efff555b8730ad.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "147"
+				}
+			]
+		}
+	]
+}

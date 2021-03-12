@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "00040000001C2E00",
+		"eshop_id": "50010000043355",
+		"product_code": "CTR-N-BT4J",
+		"name": "たまごっちのプチプチおみせっち ～にんきのおみせあつめました～",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 27,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/79fc8cb741611f32058425e6a911fe4ded687d3e0892ceb2ea43027de79fe2c1.jpg",
+		"data_size": "193706852",
+		"description": "たまごっちたちが「おみせっち」に大集合！ おみせをどんどん大きくして、全店\"ロイヤル\"を目指そう♪ 登場するおみせは全部で10店舗！ 「ヘアメイクやさん」「たこやきやさん」「アクセサリーやさん」「ガーデニングやさん」「やむちゃやさん」「ハンバーガーやさん」「ソフトクリームやさん」「うちゅうりょこうやさん」「はなびやさん」 そしておみせっち初！ 3つのおみせがくっついた「ちょ～複合店」の「はなびハンバーガーデニングやさん」も登場！？ 登場するたまごっちは、200人以上！ おみせに遊びに来てくれたたまごっちが「こきゃくリスト」に登録されるので、コンプリートを目指そう！ リアルタイム連動で遊ぶ時間によって、出会うたまごっちやタウンの景色が変化するよ！ 季節に応じて街中に可愛いモチーフが登場することも。プレイのたびにいろんな発見が楽しめる♪ 「Tamagotchi m!x」とのパスワード連動が可能！ たくさん遊んでTamagotchi m!xもおみせっちも楽しんじゃおう♪",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2017-11-16",
+				"retail": "2017-11-16"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/06e9e7a0813d0ffc7934518ac4e9db929b9fb108849e30e2903299fafe28ba86.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4275f7845f3cccb27ac877c585d3256287a50c9745de883cf227513f503f47da.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b66661c1c09ddd82f47cb16a350ccde461462b7d86a6c16226f1b2bb804d1a25.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/fe77bad81bcdb1e73efec31b0ee6e60d88b3a4601757e89a447503181c96e91e.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6af57da8cabe3550b2a62abdf4cb692a7b8e70118ee08b17b5c7f2b7d3e232bb.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/23c7cfe62697815355633c48aaa162e97d1eab4a6ae0d67dd4d83143ab3fcf5f.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1c5e01f40811e590804400dfe26447bb038ab6faee900b90c292907449291173.jpg",
+				"name": "たまごっちのプチプチおみせっち 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/125b467852e53e14be04d1f8fb9f554b4448dccf419677500a249a00c4270840.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "150"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/124d3ccd5e9763d94cd25b2db1f87f5d9b39643878315185dc670571d67f5f1c.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "150"
+					}
+				]
+			}
+		]
+	}
+}

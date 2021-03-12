@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001012F900",
+		"eshop_id": "20010000002067",
+		"product_code": "WUP-N-FBAJ",
+		"name": "ゼルダの伝説",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/700aae0e9efd2ef7622b5546c5e4ffe2485cad600151c3786268832bdb2d4ae2.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/00c668c9697f5d34b76e824d2f0627ec7e82ec56f90f4af61536b3729aea54ff.jpg",
+		"data_size": "36569228",
+		"description": "このソフトは、1986年に発売されたファミリーコンピュータ･ディスクシステム用のアクションアドベンチャーゲームです。 アクションと謎解き要素が盛り込まれた『ゼルダの伝説』シリーズ第1弾。大魔王ガノンに占領された王国の平和とゼルダ姫を取り戻すため、主人公リンクは8つに分かれたトライフォースのカケラを探して冒険します。本編のクリア後は、より難易度の高い「裏ゼルダ」も遊べます。 ※このソフトは、ファミリーコンピュータ版ではなくディスクシステム版を再現したものです。 ",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-08-28",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/1480f218ba0f8f49ae1abf23d68c3d0f6fba5ca2548d81aa24d8623e0a695d87.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/56050f1d22e40d7f4807100c01c76e8b6237b97c6a3f0fcf8068642de672057c.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/a72025a644fd62561be3368fbafd58b535c01d9242393858d63885df434da824.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a778d72ea40642b8d2dd939593711055a6c931e7a5c7ab56221c71b3ae8a3fe9.jpg",
+				"name": "ゼルダの伝説 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fb0f69e2616e1bd958aa483bfd8867303118e6b4897a3d023bbdd8b34850d909.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "49"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/66004364bf8d6b83b0bc5a0f61f489a81072d8ed16d36d1ed8a1e268dcc94bc8.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "49"
+					}
+				]
+			}
+		]
+	}
+}

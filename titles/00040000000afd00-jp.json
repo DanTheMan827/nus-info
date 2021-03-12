@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000AFD00",
+	"eshop_id": "50010000016956",
+	"product_code": "CTR-N-AX4J",
+	"name": "メタルマックス4 月光のディーヴァ",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 349,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/1a06e596ea13df27c536c3c23e00918c4568c1a2b5a1479e88417f06f6e141a6.jpg",
+	"data_size": "888589156",
+	"description": "メタルマックス最新ナンバリングタイトルが登場! 自由度の高いゲームシステムはそのままに、戦車やバイクのカスタマイズはさらに奥深く、より快適に。 凶悪なWANTEDモンスターとの迫力あるバトルも進化しました。 またシリーズ初となるキャラクターボイスとアニメーションの導入で、ストーリーやイベントがよりドラマチックに!",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-11-07",
+			"retail": "2013-11-07"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/cf387572cc1f7b856b0f768f9e433a7c72f9c287d290aab0d268a3cfdcee6ebe.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4c4ef762045e7b532c3ea3652f94f70d4989c7bf841c9a694c7197b0eb73f96e.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a7df6fbe3dd80bf904f72c1c81e13dad6da1eea15731c07c43d732d28201e3f4.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/fcb8890177580fd0dc39fe2502d35b1ecc2a424d8fac0497d9a7b4059362ff75.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/51da84d5edf230aa9280c96596f810b33d05ad92a577a933ca884e0004c6a39d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c449a937fc1a8da594c059031a8e9d5c7507e23c840a444792c41ef4d7e2e610.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/80c88fca51ee30bfd0c883b0321774bc50142de88c9d67f86d8d987b14dd7ada.jpg",
+			"name": "メタルマックス4 月光のディーヴァ アニメ紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0d91f4091efeeab8debb973309501c8fcb8172ad561eba731597a2edb6f3b240.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "69"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8d8655a78a573fb81f374b025a850f1e6639b915256d6b579bc7f45be3cdc67c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "69"
+				}
+			]
+		}
+	]
+}

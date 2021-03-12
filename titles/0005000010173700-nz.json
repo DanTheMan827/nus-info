@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010173700",
+	"eshop_id": "20010000021127",
+	"product_code": "WUP-N-PAXP",
+	"name": "Super Mario Advance™",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e014451a0ea18118514404385522296a9ca984458a6e846529a078a20467dac2.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d213e96b6ddc5a95d79d920a6301522746cb3b1ce286975245c747292cbe4142.jpg",
+	"data_size": "94470264",
+	"description": "A popular launch title for the Game Boy Advance, Super Mario Advance features two classic Mario games in one. Super Mario Bros. 2 returns with an enhanced version unique to GBA, with new features not present in the original, and improved graphics and sound. Play as Mario, Luigi, Toad or Peach, and escape the mysterious land of Subcon. Also in spruced-up form is arcade classic Mario Bros.: Mario and Luigi’s first appearance together, featuring fast-paced platforming as you rid the levels of pipe-dwelling critters.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-03-11",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/bf43790746480ab5cc96fb9760cd5992eb8e89fdb0270a2c6b10be45ac4c1104.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ff650b5acfebc5cb78402d6a7093b857db4b02a92bfd5dc653b0f08afd5e9cd7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/57120a2517113dd43bd3778b468f8021ee200758e4b38446ec79810925e962f7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/66e300469b784fddf07e7a91aa8e1a7f16f09915f931f2985fc5700536a682a1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/fd462a213026fc217d1b2b3229216d35784d42aa0fc0e3bfded21a18dbfe1990.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2bc63cd92f8a82576fed5e2fda428b8cd60b10565055d09a95988c0c02af2b82.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5921cfc6e5ee971a0971afacbefdc03143608910ec074f516743b413f4269ee2.jpg",
+			"name": "Super Mario Advance™: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/39aaf8af791bde74133ae40a4a071942e040dbf67c2376a079ebfc0a795937ab.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "58"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7670b7d360143c5c1693556c62f7a98e86a67bffcf4ee88566428b5264e94b00.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "58"
+				}
+			]
+		}
+	]
+}

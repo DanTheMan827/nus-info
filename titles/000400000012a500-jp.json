@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000012A500",
+	"eshop_id": "50010000021136",
+	"product_code": "CTR-N-JPUJ",
+	"name": "鋼鉄帝国 STEEL EMPIRE",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 1587,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3cdca72365e4e357c17b047254e0dbac3ad2306bd95016248509bb27f696dcd4.jpg",
+	"data_size": "49953636",
+	"description": "弾を中てる、避ける、ボム…… スチームパンクな世界観の昔ながらのシューティングゲームです。 メガドライブ、ゲームボーイアドバンスでリリースされ、コアなファンも多い『鋼鉄帝国』がニンテンドー3DSに登場。避けて撃つ、シューティングゲームの原点を楽しんでください。難易度設定により、初心者から上級者まで楽しめます。プレイ内容を保存できるリプレイ、オマケ要素をアンロックできる実績……盛り沢山の内容でお送りします。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-03-19",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0eced6a2f368c7bd5fe47dd3ca1e997b30ff20d83933a59c2f8f8748b178cda8.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6e03a08a30d8a5f2b84d5d9480479ffec205e140e149a7483396fdc49eb9e85f.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/99c2b5fb9299130d991330039810e8076508f053bcb262af90d3675434773280.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/47dfd9a950b12092f5f13f95a993e1e211eb50f0138a0155239faf32ab070261.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/24c0f1a64f30ea6273b6a9d640a4bd30c6bfa517eb2b06a84cff315e8f117835.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/780029195c081a3f33f1259f4364ce722756bbc18346d28d9405900b954e582e.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b56ab2189ab451f7320d9b6572ac5500174e607a3d35231368b338d3c8d3b439.jpg",
+			"name": "鋼鉄帝国 STEEL EMPIRE プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2564e8f0a0e4bb4be4a418082cc904c695100dc8c04776431617b6690e635efa.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5c2f3073766af5b1162c73693a3183822ede30d58fe736de800b7f0110b8a1f6.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				}
+			]
+		}
+	]
+}

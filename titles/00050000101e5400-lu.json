@@ -1,0 +1,76 @@
+{
+	"title_id": "00050000101E5400",
+	"eshop_id": "20010000022147",
+	"product_code": "WUP-P-ABJP",
+	"name": "Mario & Sonic aux Jeux Olympiques de Rio 2016™",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/87d8a1f8d28f163206af8f48217f168028006d5013bf3eba65209982319968f8.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/45eae437f8723c24011e2b84a26d05ffcfee7317032ca8edec12ba9c415b6e07.jpg",
+	"data_size": "3018424680",
+	"description": "Que les Jeux commencent! Les mondes de Mario et Sonic sont de nouveau réunis pour 17 épreuves passionnantes dans Mario & Sonic aux Jeux Olympiques de Rio 2016™. Se déroulant à Rio de Janeiro, la ville hôte des jeux de la XXXIe Olympiade, cet opus de la série propose plus de 30 personnages jouables, la possibilité de jouer avec son Mii, et une frénésie d'action multijoueur à quatre joueurs pour profiter avec des amis et la famille, en ce inclut les nouveaux Duels qui confèrent une touche Mario & Sonic à des sports familiers. Visitez le site amiibo.nintendo.eu pour voir la liste des amiibo™ compatibles et en savoir plus.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2016-06-24",
+			"retail": "2016-06-24"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/0cc45ed4560a378e6a8fff3ec87c3a6f43093784572fd065ca78e13ba563ff2e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/39b3888668194693c202800e59ca6b6dc884c3eb315a145eb3fa1bc1481dc890.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6e7474e7d51160b749608e5b9b57cc94450f4f2432a3d699ad91fd8c895b8e25.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a24113bdd951ba0ef2b36d436150b951582734ea33226b8ce4ab983c8b8d71ca.jpg",
+			"name": "M & S aux Jeux Olympiques de Rio 2016 : BA de lancement",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0aebb4ccca45b52ebe1d3da22e572608c6e9a0874f05de9539b608469bf73737.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "98"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e9a30ff2993b18e338a380d5aabda11739b981f68e6950e41c34833997555eb4.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "98"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a24113bdd951ba0ef2b36d436150b951582734ea33226b8ce4ab983c8b8d71ca.jpg",
+			"name": "M & S aux Jeux Olympiques de Rio 2016 : BA des héros",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d3bd0ceb2fdcb5693f1ea2a5c6fd3608d7e8ae23a231416b947c52b37d86a7f4.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "76"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/370a0da7142089560669a950465fcaf550118c5975e2c1c030f06edf73060020.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "76"
+				}
+			]
+		}
+	]
+}

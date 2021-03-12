@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101E6600",
+		"eshop_id": "20010000026331",
+		"product_code": "WUP-N-NAUJ",
+		"name": "オウガバトル64",
+		"platform": 170,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/441ce30b220ae03244e3bcbdb3d103d580135d254c5ac0dab4a29ebfe5b778c6.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/89e1503198f4a93b3e9cdac485d00a1a7fea8b935ee7d679d3fee0c656e2522a.jpg",
+		"data_size": "87523448",
+		"description": "このソフトは、1999年に発売されたニンテンドウ64用のシミュレーションRPGです。 全8章から成る「オウガバトルサーガ」シリーズの第6章にあたる本作は、実り豊かな豊穣の国・パラティヌス王国を舞台に、強大な宗教国家・ローディス教国からの独立と、民衆を苦しめる階級制度の撤廃を掲げ戦う、主人公・マグナスの革命の物語です。 プレイヤーはリアルタイムで時間が経過するフィールドで、部隊を指揮してゲームを進めていきます。自軍が行動している間も同時に敵軍は行動しているので、実際の戦いを指揮するかのようにプレイできます。戦場では「ユニット」という小部隊を指揮し、各ユニットに適切な指示をしながら戦います。物語が進むと、軍団「レギオン」としてユニットをまとめ、効率よく指揮ができるようになります。 イベント中などに表示される選択肢の答えによって、以降の物語が変化することがあります。中には主人公や世界の行く末を左右するものも……。じっくり考えて決断を下しましょう。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2017-07-05",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/82eef66e6d4be63089ec61ca850affa0022e0fc03ecc57ec8d0e0fe1dd5d3969.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/fb451c722f84a51a1752d62f14ceb371f414e51d4a433846a32d9ca9f328a02f.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/d250d17d5602c07e1176e0ec6b5abc602145d961be7f0f53f2355eb511e784f2.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f9c9697e2ffa1ef7be548bec197b24850532e0bacb288aa3ee9048ff5abbf0cf.jpg",
+				"name": "オウガバトル64 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fe9df9ba3c49a1e252adb3b7bd401bf703f251eed33358a104422830d86da4bb.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "51"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b8343d37bc30e0642166047c9836aee36b1fa1d739b094034c9e86b3107ba8b5.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "51"
+					}
+				]
+			}
+		]
+	}
+}

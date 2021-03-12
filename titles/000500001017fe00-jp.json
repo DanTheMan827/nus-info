@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001017FE00",
+	"eshop_id": "20010000008929",
+	"product_code": "WUP-N-JCYJ",
+	"name": "ヘラクレスの栄光Ⅳ 神々からの贈り物",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 202,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f4350fa1f36bcbc66450d1342ed00b5647483e6726ca244beea4a3bf5a13500e.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/64d12345402b9ec266ed3bd8cbd5b950d553fc6e404f8fe97a506e23451ea45d.jpg",
+	"data_size": "44236960",
+	"description": "このソフトは、1994年に発売されたスーパーファミコン用のロールプレイングゲームです。 主人公はいにしえの国家アトランティスで平和に暮らす青年。しかし、敵国の侵攻によってアトランティスは滅亡してしまいます。主人公は魂だけの存在になりながらも、自らの人間としての運命、そして肉体を取り戻すため、神々の命を受けて旅立ちます。 物語の途中、主人公は運命の神様モイライから「トランスファー(乗り移り)」の能力を授かります。この能力によって、主人公はさまざまな人や動物の体を借りて冒険を進めることができます。乗り移ることができる体は100体以上も用意されているので、状況に合わせて乗り移る先を変えながらゲームを進めましょう。物語が進むと、トランスファーの能力を持つ仲間も登場します。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-02-10",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/624dbf80fc8d4537363ef81d51fd1c5d9fb92f8388fc5da4f6665acff487dd64.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/74932d2d35ae7c3614df9869cf76b016fedcd1a8977b264d5fd3e62fe9f0e785.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/561ac9556eb3e6320e5ec73befb4b6e2beb66edddf54c11698f5199918f3e0c9.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/236ab85a4bdccaf2187e86ca3d5ca69612e92227f8fa16bd845bcc051688196d.jpg",
+			"name": "ヘラクレスの栄光Ⅳ 神々からの贈り物 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b90ed027d16cd5a3006e0346f6f06a5a09fd8b03af1e4cd0ffe37455d8af6d11.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/99cb258f729ff60334de8fe321b2b42cda3032411be035a3dd109b0971c75b06.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				}
+			]
+		}
+	]
+}

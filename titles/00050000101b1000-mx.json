@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101B1000",
+	"eshop_id": "20010000024009",
+	"product_code": "WUP-N-VANE",
+	"name": "The Legend of Zelda™: Skyward Sword",
+	"platform": 171,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c7f6dffc03c6198f60de45a29048a77a8006e801bcc5bcafc1382e3b5ae7292a.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f243612d0a5176e4fbb015e7cef1c7ae1d14c70c9ca814bc59f9e851d96cdbff.jpg",
+	"data_size": "4308697608",
+	"description": "The Legend of Zelda: Skyward Sword incluye realísticos combates de espada que hacen que cada encuentro sea un desafío cerebral y de fuerza. Planea, bucea y combate junto a Link™ es esta épica aventura que siembra la base para los eventos que ocurren en el aclamado juego The Legend of Zelda™: Ocarina of Time™.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-09-01",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/a412446f3e1deeb6c3a77912977864381a5e381c8693d8634fccaf46da83923c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a83210ae2780bbba6cd24a7213bbaffbb17dea82db70c3c2160609eb9f4d5330.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8dfa672e497dae997ef86e73063a2243e63f0d253668be4f61d446d525c85abb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c8c107d8e0f10ccb3711eabcb995be97b203ddf8700b4ea73597fc484d8c007a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8879d03d7bc4f06d2c6a641eec4c15989c425f11b255f20bd1a8a2672715ffe5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bc188da968e419c08c64332328348ee9116c3f6be944b441c26be37ba96caeae.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8a68b8d8fc7ac9ee4e8d55476a3adfdc331c3ed99857ba1e8dd97374b0847f81.jpg",
+			"name": "Avance para lanzamiento The Legend of Zelda: Skyward Sword",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f0828433ecc5f318d6019b92418e379c23427f8873796cba0b89e85d21cf03b7.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "99"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4666ad41a7a2a5155f4709157b26a0d39dacae349fdb266acac45b2918650dd6.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "99"
+				}
+			]
+		}
+	]
+}

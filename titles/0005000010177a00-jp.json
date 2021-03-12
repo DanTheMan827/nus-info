@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010177A00",
+	"eshop_id": "20010000008466",
+	"product_code": "WUP-N-FDKJ",
+	"name": "マイティファイナルファイト",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 39,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/764134120dc47b1ca9ab67571fa12621da807ef92002a1be6d89fa0029c16648.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ff09a5674fe332c445183468bd5b1bf8130b92c98333cf52a599aa3d116bfe04.jpg",
+	"data_size": "38830240",
+	"description": "このソフトは、1993年に発売されたファミリーコンピュータ用のアクションゲームです。 「コーディー」「ガイ」「ハガー」の3人の個性的なキャラクターたちから1人を選択して、超犯罪集団「マッドギア」にさらわれた「ジェシカ」を救うために闘います。攻撃はパンチやキック、必殺技のほか、ドラム缶を破壊すると入手できる武器も使うことができます。敵を倒し一定の経験値を獲得するとレベルアップ。技の威力やライフゲージの上限が上がります。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-02-10",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/099c0dc0e04b3d9d40d9545e867d88b20f78091a29e80cc7c3c87af179f6697a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/db301248d033fa7c9f274194740a11f9bdeb7fb2454294f79d94749d439df0ae.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f8397ae2d0a3773db8bfe5d7b537dffb31d279532063267f96abdfc3cdbea684.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0991bee527a03674caf7b64dc7912cafb5cce7869e7e9c013f226fda36898160.jpg",
+			"name": "マイティファイナルファイト プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/970a8476fa5b5d8645663fc0afa374e8ce77bd0423def4ebcaa0bf53bd471fd1.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1eaeb79d7a6ad5b036ce1234fa52d94375058596baeca91167f60cc0c0c4807d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				}
+			]
+		}
+	]
+}

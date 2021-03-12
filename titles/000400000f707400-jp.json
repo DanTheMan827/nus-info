@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000F707400",
+	"eshop_id": "50010000042339",
+	"product_code": "KTR-N-UBKJ",
+	"name": "がんばれゴエモン2 奇天烈将軍マッギネス",
+	"platform": 1004,
+	"platform_device": "CTR",
+	"publisher": 149,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a0ebe5eff9b2b29141ce20fd1d9352cbfae07b7ff60c6f34d121d464203230a3.jpg",
+	"data_size": "5905252",
+	"description": "このソフトは、1993年に発売されたスーパーファミコン用のアクションゲームです。 大江戸城が消えてしまったという報せを聞いたゴエモンとエビス丸が、新たな悪の野望に立ち向かいます。 ゴエモンたちがボス戦で搭乗する大型からくりメカ「ゴエモン･いんぱくと」や、新たな操作キャラクター・からくり忍者の「サスケ」が追加され、遊びかたの幅が広がりました。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-08-23",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8ce42b367e87bbccfdc91c0a7ebe801235f6fd1c6a9fa1f62bc50cdb3d8ad01a.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b3e0971bc7b03f4c14222484275b40b51b145f50e22a44a088484421f47ee681.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/925aac0c8c01dae8c2389631e2c2ed6327b45eda35926024d93e3638f4991280.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b1de3530456ffe41001f7d265004755ecae67840bc0d5641019c16cd7cd00c5e.jpg",
+			"name": "がんばれゴエモン2 奇天烈将軍マッギネス プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ace625816ef82b6d1a7fa0adba22b68f2f555d76ae5cf69ede74048cad0c0d9b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "70"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/65fe6431765847a74231f28f5a34246a7cefce39f1988289bfe35c63764e26dd.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "70"
+				}
+			]
+		}
+	]
+}

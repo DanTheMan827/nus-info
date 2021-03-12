@@ -1,0 +1,52 @@
+{
+	"title_id": "0004000000041500",
+	"eshop_id": "50010000006781",
+	"product_code": "CTR-N-RAEJ",
+	"name": "クイックス",
+	"platform": 21,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/513fdf406e3fddcb5b3af6b1eccf85022188a7676089c45ba0d0efcca6ff4a79.jpg",
+	"data_size": "3009380",
+	"description": "1990年にゲームボーイで発売されたアクションゲームです。 「マーカー」を動かして線を引き、囲んだエリアを占領していきます。ステージ内を動き回る敵「クイックス」や、線の上を移動して追いかけてくる「スパーク」などをかわしながら、占領率99％クリアを目指します。 ",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2011-06-15",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/abb8d476ed7654ec78f8e1731228ce4bc01669de9cc4db50e970bd9f1a8bb8cc.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c3057718633794092b95c07f52537ae743cd5f9b6b8441dd14ec9f499c4d2789.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7a7fd02cdda4829cf167f64a58e5de0c1017c01eef31ee83bc70e7b02c70a1f6.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/86dcdf7cc9cc3b3013e0884a919e4a8f0523dca2f3bd5ce5d2e7446677e91a78.jpg",
+			"name": "ゲームセンターCX 有野の挑戦 「3DS バーチャルコンソール」",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2366ba98a2292bc6ecaf3656cd78bfd794153b7d94b5acaeeb81f1fa3241423d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "1946"
+				}
+			]
+		}
+	]
+}

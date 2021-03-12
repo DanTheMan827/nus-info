@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101BF000",
+	"eshop_id": "20010000019229",
+	"product_code": "WUP-N-ARCE",
+	"name": "RACE THE SUN®",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1494,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a47bcff76b28f8b89bf3fa0d668d2e89c5c034c752d6312d9e35df5654fc9cad.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/393523047a83a8ce6fa1730220eabc98ebdca4c302a6008ebc23f832252f9b15.jpg",
+	"data_size": "157548684",
+	"description": "You are a solar-powered craft. The sun is your death timer. Hurtle towards the sunset at breakneck speed in a futile race against time. Delay the inevitable by catching speed boosts which reverse the setting sun - if only for a moment. Race The Sun is inspired by arcade games of the past with a focus on high scores, short game sessions, and pure fun mingled with nerve-wracking tension. The rules are simple: don't crash, stay in the light, and don't slow down!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-10-08",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/13d726b917c1d8b83d23b7d2f6fbdabe3fb11f0d02d931bf64ebc445a2b51c88.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e23392f35343265b1ba53aca0fc958907fd18b42d2a8af67b7264f61a52bb53f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/54a89db7febfe2b33edab8ca255fc3952670b65afe7e688c99f0b0f43c053c89.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e38e73ca0fa2d95330fe99b12efa097b015aa5e0be128b1f3a7c4333dac3f903.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0be9bbe7029ea5c552d83eff4e26f452ae00d377498fcd910dab2e7b3b006dd3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8c87cf4640eb9630226ba0b598bc98304627efe01f59fe385755a18815490754.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/dd8a1902bbd49783c4821a29f1be91ec657835a3422ab25520f16dcaeed4d2d3.jpg",
+			"name": "RACE THE SUN® Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/53743c1077dbd145bc3b50e1d85d7deeea85713dedd4db1930559c0c0062d4e8.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "74"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/149afb87d55cb899bb952ac7201d7d100c381e1daea4951c9897fec88062fd99.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "74"
+				}
+			]
+		}
+	]
+}

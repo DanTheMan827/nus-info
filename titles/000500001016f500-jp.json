@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001016F500",
+	"eshop_id": "20010000005931",
+	"product_code": "WUP-N-PAUJ",
+	"name": "スーパーマリオアドバンス2",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/78e8b1a072fca498f242e977a097adc065854dc2e74959c8d071b9bfa78d293a.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f9ce54296a56b319e661b033e8f7a4e9c6f782b58cbecaa03e238be4a49047a4.jpg",
+	"data_size": "87064696",
+	"description": "このソフトは、2001年に発売されたゲームボーイアドバンス用のアクションゲームです。スーパーファミコンで発売された『スーパーマリオワールド』をアレンジして収録しています。 はるか南の恐竜ランド「ヨースター島」を舞台に、おなじみマリオとルイージが大活躍。マントマリオやファイアマリオを始め、かわいいヨッシーとのコンビネーションも健在! 大魔王クッパやコクッパたちを相手に繰り広げるファンタジックな大冒険が今、はじまる! ※当時のパッケージ裏面に記載された文章をもとにしています。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-04-03",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/943ea248cf38d9be28093f5603955fefd24b9a5ac0122b05e77d2c924203738b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bf37e39ebc4a325f342e408d550d6a1c8c80c6ef6cb26eda1a482323009c664e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/61b31c40133ff2f4a282606c0d7fb98828b52b570c975e00bc256481fd85a6bb.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f81067f15f8edb61ebb508697611bd50d9185707c9804ae21514f7d4d7b1dfb6.jpg",
+			"name": "スーパーマリオアドバンス2 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ede76e6c35458b4c52cda439fcc91034815b91fae901b3ecb1e248c1fedce7d1.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0c8d363201d5db6e8c08e82256b9d138f6ddd9c9f59a8149fcac856b5e7ea0c1.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				}
+			]
+		}
+	]
+}

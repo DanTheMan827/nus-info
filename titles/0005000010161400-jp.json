@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010161400",
+	"eshop_id": "20010000006249",
+	"product_code": "WUP-N-JCFJ",
+	"name": "ツインビー レインボーベルアドベンチャー",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8564f2184a96f7e66bc45d99ad09154a1de82612106e2f941a4bf5caf44a4a1a.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/dcd3bae9c3b30d01683e72d14540d7dc6a0220a513a4964bcbe30d4bf6c7f208.jpg",
+	"data_size": "40992908",
+	"description": "このソフトは、1994年に発売されたスーパーファミコン用のアクションゲームです。 伝説の7つのレインボーベルが悪の科学者ワルモン博士に奪われ、人々のよき意志の象徴であるメローラ姫が姿を消されてしまいました。ツインビーたちはベルを取り戻し、姫を助けるため冒険に出ます。プレイヤーは「ツインビー」「ウインビー」「グインビー」の中から選ぶことができ、武器や範囲攻撃にいろいろな特徴があります。ツインビーシリーズでおなじみのベルによるパワーアップは、「分身」「スパイクシューズ」などの6種類。キャッチすれば有利にゲームを進められます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-05-21",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/4dab6329f3c504c351b806ed41ed932410f149aaaca81e96abce4a6e696cf710.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b38b92f4e7d147118d69b214729d419ab65df34c424beb15bc18da69fd468980.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c789ae259f3a240920e70c7d150addfeb3568f56b286b5e79891f265df807de9.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8f9a8df1d5ce2773e4b89948e98ff7aba872d476c0034d873764f01867e0330d.jpg",
+			"name": "ツインビー レインボーベル アドベンチャー プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3d931a9d24752225dd6c77b6e11b027261b1add0b9d1901102b1004a2afbe41e.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e34f8dc0ff7fe936a62e365d3b5624da323bede7130872993ab4453c1c73a595.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101CC200",
+	"eshop_id": "20010000019107",
+	"product_code": "WUP-N-DAWJ",
+	"name": "ポケモンレンジャー",
+	"platform": 169,
+	"platform_device": "WUP",
+	"publisher": 210,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/920b021a4fdd992a05cc8752878506c09941f50ca265246f9878105282061102.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/533a7a1a5b8e5fa10e4985af9777fed1941743b791f3efaedf89dd8e96380dd8.jpg",
+	"data_size": "56328312",
+	"description": "このソフトは、2006年に発売されたニンテンドーDS用のアクションアドベンチャーゲームです。 プレイヤーはポケモンと自然を守る「ポケモンレンジャー」の一員となり、ポケモンたちと協力しながらさまざまな問題を解決していきます。 野生のポケモンと出会ったら、タッチペンを使ってライン（線）を引き、ポケモンをうまく囲めば仲間になってくれます。ポケモンの能力を借りることで、なかなか囲めないポケモンの動きを止めるなど、ラインにいろいろな効果を持たせることができます。 冒険中、障害物などプレイヤーの邪魔をする仕掛けが現れたときにも、仲間のポケモンの力を借りて乗り越えていきましょう。 どの場面でどのポケモンの力が必要かを見極めることが、物語を進めるための重要なポイントです。 ※このソフトは、原作のゲーム内容を、通信機能･拡張機能を除いてWii U上で再現したものです。 ニンテンドー3DSソフトやニンテンドーDSソフトとの連動要素はありませんので、あらかじめご了承ください。 ※おすすめの画面レイアウトは「下画面 重視レイアウト」です。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-04-13",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/b211ca75206f698ae534aa6caa523a1dde586260967c56c978fa27334b51db0b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ef67090927b731f49bf5c0c3d040c56340695bca628cda1734ce23302ce5509b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2ebee1b35d5ee6e9c43d8a5d86ed676e201325944e3408b6769a4dc78edc5dfd.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/66c40b7f37e9751f6e76b2cd74f95e79d78ae98acd4debfbd7aa9fbb369eae15.jpg",
+			"name": "ポケモンレンジャー プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c0e7ec66dd4e3ca27efd294982be5a0432fe914a8ad11fda8c7ce4406be2eb61.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "88"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6fc0afe48657d3f2c53dc06b479236df1a791378db4526043e823c3d8dd24195.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "88"
+				}
+			]
+		}
+	]
+}

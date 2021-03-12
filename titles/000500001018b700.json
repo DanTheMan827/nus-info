@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001018B700",
+		"eshop_id": "20010000011046",
+		"product_code": "WUP-N-FD8J",
+		"name": "セクロス",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 118,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/50df83779d3f123171ac4cf4abd062ba657d3bae69064b54b1dd2d09040e1f3c.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/bf340370448126ea64fee0c96326eba91c6cbbfb57f7d2dee7b20e648c7a5e6e.jpg",
+		"data_size": "38731936",
+		"description": "このソフトは、1986年に発売されたファミリーコンピュータ用のシューティングゲームです。 救助用小型ホバーリングバイク「ギルギット･ペトラ」に乗り、惑星コルラで助けを待つ仲間を救出していきます。邪魔をしてくる敵戦闘兵や砲台は、エネルギービーム砲を撃って破壊します。多くのペトラ人を救出するほど、あとで多くのボーナス得点を獲得できます。 一方で救出するペトラ人が増えるほど、道中で多くのバイクエネルギーを消費します。バイクエネルギーがなくなるとギルギットを動かせなくなるので、ペトラ人をどの程度救出するかがゲームを進めるためのカギになります。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-07-01",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/a4fadf346f53a9d644c36d73d9097867352d5d374a004c567560736dcf850c96.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/5b94cb1ad4f72a071953773ea58ebf36cd857594cd0a6adfb319ae5381bba22a.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/c13f50439a3f87898a0af8e6dc367de05e7d86279b160f45185dee9353a5f8cc.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6629dbdb1c99fdcd30691ae63a7f76178c75fea237dfeaacd3748789556aab53.jpg",
+				"name": "セクロス プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f0925b48a3b002ca0a79a51b1e9db257d258450b52fd42b5f8738421f502de25.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "68"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/207c4afe50733705f40dca56d4d97b863b058bf19753aebe85c57cdf623c5666.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "68"
+					}
+				]
+			}
+		]
+	}
+}

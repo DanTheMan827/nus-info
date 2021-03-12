@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010116400",
+	"eshop_id": "20010000000369",
+	"product_code": "WUP-N-HNAJ",
+	"name": "ニコニコ",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1107,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f50c3580c07bc503e4e508106adbed41e1c0656eff0fb41baf5350aa161690df.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/83b9f05be6b01475b8d4ad5368cdf5d5556d38731dabfc84297d209e7f8c16fb.jpg",
+	"data_size": "93356172",
+	"description": "Wii Uで『ニコニコ』を楽しもう。 数百万を超えるユーザー投稿動画やテレビ放映中のアニメ動画、スポーツ･音楽･報道･ゲームなどの生放送番組をテレビの大画面で、無料で楽しむことができます。(HD解像度対応） テレビをつけなくても、Wii U GamePadだけで動画･生放送を楽しむことができます。 そのほかにも、Wii U『ニコニコ』の魅力は盛りだくさん。 ･テレビとWii U GamePad、2つの画面があるので、動画を視聴しながら、手元にあるWii U GamePadで、ほかの動画や生放送を探すことができます。 ･ボタンひとつでランキングやマイリストを連続再生し、リビングで「ながら見」することができます。 ･好きな動画を「再生リスト」に追加して、後でまとめて再生することができます。たとえば、友達同士でWii U GamePadを順番に操作して、各自のお気に入り動画を登録。連続再生で「上映会」をおこなうなどの楽しみかたが可能です。 ここに挙げたほかにも、便利で楽しい機能を、アップデートによって、ぞくぞく追加する予定です。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2012-12-08",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/3545d439c3319d85cf1b45ab3c9737e52c69795ed695c6d836bf472908b3e412.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a5ad3c06472e3412b1151ff2892df80c60b4ad18af8f210c3502662b744f0e09.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/66560626139d52463cf4726d111c0230a349d977454d0eab81c441622b642b3b.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3bf1eba37bf3f24e774e3ba339d1ea2cdf8126f21390f6afea73e38f96a5430b.jpg",
+			"name": "ニコニコ 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e8c635ba5d42efc9a8ab2f494ee6ae1a5235ca5a835dc6ead69f3c5af6b6f725.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "145"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f41f8a97c00898241333e7f80b3f375641fd74f82553ba57b190c1dac00ad908.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "145"
+				}
+			]
+		}
+	]
+}

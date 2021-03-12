@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001020D500",
+	"eshop_id": "20010000025970",
+	"product_code": "WUP-P-BWJP",
+	"name": "Maze Break",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1610,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f9dd168031dad20fde2552fb74790a73f8fb80ab6d8f31c6fbe98dd5810a2bf0.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a971ae05a93227dc29221e13bef2cc8325a661dd28cc01454e5d480d6d120583.jpg",
+	"data_size": "126386316",
+	"description": "Breakout Maze is a mix of a breakout game and a puzzle game. With the goal of finding your way through mazes of increasing difficulty while breaking blocks and aiming for a high score. Support off-TV Play mode.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-02-09",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/d3ab6baf1f2b7f495a076f914510563847962f47eff3b944cd4ac9b9c47d706f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/91173cb541efb7f2562860568faf15b80fd9a8d663496f093b3fdb54272a7f1e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/025b1c2dbe159cecdbb8e1c6f0f58a7cd1ef8404d35c587afd46035a7235a9bb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ab7e3c3471f6c426f0cc479b60849c65a5e248ec054c7b43b8a484d5f97b9fc5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/34cc5492da064815812b1ada975e8b77db04ed2cde645505dded98f64758c8bf.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0d458c76390c19f4d91c8382590c3ec2ae772fa504ef301072f4b9ce71e12bc9.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/88e8a2a2a1658318d38eba788b097e6a10df0568c9f01a217f5ed6ff5780e3c5.jpg",
+			"name": "Maze Break - Trailer di gioco",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2141be4e08a00015e7f69faa205080eec6cff5189c0af40800e4ad0d9eea1723.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "57"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/289e2485be195e2cbc65663f3209d2002d9ebea3893b77902fb7ae91cd9a6dba.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "57"
+				}
+			]
+		}
+	]
+}

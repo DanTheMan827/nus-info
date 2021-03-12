@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101E8500",
+	"eshop_id": "20010000020488",
+	"product_code": "WUP-P-BTYP",
+	"name": "TEMPLE OF YOG",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1357,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e2149c35d20803a11270e2e8a7b487c13e57255e8dd218e52c2b2b6f4c3130f0.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/2e47b8d0149371889cdad8353cf0f3a14bdba57cf7cdb1c29ebd70c75dc61ad3.jpg",
+	"data_size": "268009612",
+	"description": "A mysterious temple and a developing village have an ancient pact: a life for progress. Tributes are offered, but none survive: sacrifice guaranteed. TEMPLE OF YOG is a roguelike adventure through procedurally generated dungeons that span two screens. Brave the dangerous depths of the Temple for the sake of progress. Discover the costs in this exclusive title for Wii U™. FEATURES: * UNIQUE DUAL SCREEN ACTION! Gameplay shifts between the TV and the Wii U™ GamePad as you guide tributes through two linked worlds on separate screens * Multiple classes with unique skills and play styles * Procedurally generated dungeons! * GREAT BOONS! Progress your primitive village to an advanced civilization * MINOR BOONS! Upgrade your tributes’ stats and skills and unlock new features * Brutal boss battles, dangerous encounters, and perplexing puzzles around every corner * Original chiptunes by Dr. Zilog",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-01-07",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/d5b2a6b0acc78616819849fcd69d952978206ebf98db8dbdefdd4667c5432135.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0de840ee825ae614ad30fc81bdd3d3100424b8bd471a3fde784d4597e12deadf.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6585ba4db24e74008c4f22e031cf631a4aed847aa0de78175d03ad6e73fa5cc3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c11a1f3c24267b172bd5222ac6bafe60781c438a3d27e420d0491d16d6cc36ea.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/db7669b897ef4653844d2b976637375018c2d2803819e8e5a195873939889d16.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/78801edde62b30834462a3ae685f043a61780ffb0b7a4d368a6d3b880b32b7c1.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a499fb9f2e91a08f88fac3109caef21f0f581bc24bf4f742ad44b2f8cfc655a0.jpg",
+			"name": "TEMPLE OF YOG Trailer #1",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/452efe8223eccf94826e395741bbb8e84462dd1164b92f5a27491d814bb20108.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "102"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/99bec0d0af726e7ff85bb7429099c87a2a1b6b412dac4ac321b95cedb02a46cb.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "102"
+				}
+			]
+		}
+	]
+}

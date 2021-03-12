@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010150900",
+	"eshop_id": "20010000004945",
+	"product_code": "WUP-N-FBVP",
+	"name": "Wario's Woods™",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4b9a3768f883e4f3ee0efe79bcc2369daee17b701e5e4ef50167af9f60fae1ae.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/04813cc50c8710628a08e14712de361b324af54b344f9752ce5395ea59629fbf.jpg",
+	"data_size": "36634764",
+	"description": "Il était une fois des bois paisibles où toutes les gentilles créatures vivaient en harmonie… jusqu'à l'arrivée de Wario ! Maintenant, ces bois grouillent de monstres, et seul Toad peut s'en débarrasser ! Wario's Woods est un jeu de puzzle ultra rapide dans lequel Toad doit aligner des bombes et des ennemis dans des colonnes de la même couleur. Faites disparaître assez de sections de la forêt pour affronter le redoutable Wario en personne ! Si vous possédez ce titre sur votre Wii, faites un transfert Wii™ vers votre Wii U™ afin d'obtenir la version améliorée à un prix spécial ! Ceci est la version américaine du jeu.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-02-27",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/094646573cb31080e8ff868d9ea1f1118dbdd0795a6ababe0961bb0039e5c671.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/fc4df00bdc49739fecd7285de574839bed2de8991b61edbe094f3a64c369c700.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/121a0bbdffd86b3bbc3f06278f4eb62f8f09680c1cab1c89106dcd6468af63be.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/20f8cf0ce33ec60dc7c5c1c8c7a0ab30abee4cb0616144c72bfc75a041bc4560.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/249a189d78b72e5287390e5264876455085a4fccf8da0c9bdb0270ab2c7951b2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a9e9a55a7ae41c9abc970d0a7de9cd242dbbb8a147f052a5827d581047d30dc7.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/49897744ebc68661266e599fde33e69411bec4ce22edccbf2f99f6e16ce034e6.jpg",
+			"name": "Wario's Woods™ : vidéo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0e602a2c2255df6a0ace0ee041cd21814578adfd187fe76e76bcd3d92a12eec1.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "62"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2bd97b6b60f66a82f93957930c6a68b190fa1f3066d1710ca285c6a37ac63c9b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "62"
+				}
+			]
+		}
+	]
+}

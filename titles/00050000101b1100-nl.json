@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101B1100",
+	"eshop_id": "20010000023707",
+	"product_code": "WUP-N-VANP",
+	"name": "The Legend of Zelda™: Skyward Sword",
+	"platform": 171,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bbb2e5c8045a3a174d26f72fd5a5f4a3903b4cfed90ef491a6af5455c9b35b88.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c745977e5b325415a910fc8f42a159d3584169cb7015dbca0fd1aa91c52e1866.jpg",
+	"data_size": "4464738824",
+	"description": "Word Link en gebruik het Master zwaard alsof je het echt in handen hebt! The Legend of Zelda: Skyward Sword maakt gebruik van de Wii-afstandsbediening Plus zodat je elke beweging van het zwaard kunt beïnvloeden en je in de actie wordt meegesleept als nooit tevoren. Vertrek vanaf Skyloft, je huis in de wolken, en doorkruis het land eronder, om je jeugdvriendin Zelda te redden en de plannen van de kwaadaardige Ghirahim te stoppen. Ga mee met Fi, de geest in je zwaard, om vijanden te verslaan, enorme kerkers te ontdekken en reusachtige eindbazen te verslaan. Een geweldig avontuur wacht op je!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-09-01",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/9482b23ad1ea218be138f9638b8826901ede1e1c180538409f820f49891dc9b0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5e936307c92ce6fe2f4b47271d5b3dfdc02bfd5e1802c033cfad3ceb99744e05.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/857a88003cba5b7334699aa3a92c760c7b42abba40278d1846a5632d26e22b93.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e5efbfb39da0ed83e8b15295c7eae6cfe997143513ff70b8bc6552174e1b5913.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4a94ee2a7905d6e51eaa7898491087007ef55a7f613933f6e6ca60cb2a056d8f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2a981942b853aa0e581c66aa620e60cd5e6a7c06c591cfdb4ad03c8e687c8fd7.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/80fb8555f7bd838fdd9f50f9633ab227659c1508e420e628b8144899b8d0db75.jpg",
+			"name": "The Legend of Zelda™: Skyward Sword: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5bf102df772d87876ca71f94c4533a1c3fae0c6e1d309c4d0f82bffa9da24cd6.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "58"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c81b3d13f6ca278fdaaddf80f29d74bbbb30b33914cee3e2381670b599dd7883.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "58"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001012A100",
+		"eshop_id": "20010000001225",
+		"product_code": "WUP-N-FA2J",
+		"name": "マッピー",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 27,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5055873b611911a3adc3b401ca18182eeb6f418b1cc93d229c8ed6e5d4634454.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/580bd6be632667122432a908ad0044a2ef37a6c7d15aadae3a6bbc4be9ccc8cc.jpg",
+		"data_size": "36536460",
+		"description": "このソフトは、1984年に発売されたファミリーコンピュータ用のアクションゲームです。 主人公マッピーを操作して、屋敷内の品物を集めます。敵のニャームコたちに捕まったり、床下に落ちるとミス。ドアやベル、トランポリンの仕掛けをうまく使いながら、全ての品物を集めるとラウンドクリアです。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-05-15",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/81343a0ceedd3deadde9cde8028d9a8bd450e19ed3e49dd572ce6b79bbbd5606.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/b2d965e393540bc90aa74619b14b27ba8b96253ff94282f78bcbc0c10d635808.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/0896ee4e4f825878669c18417c5dc93d87863a4ce4725eae627624b8ddb9ae31.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c01c4d7232d85b13af4f3d413a1d58f4076acc74f808d5daffd48cdc749c0d86.jpg",
+				"name": "マッピー プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6e2e3c64ebc2bf666a1b985c1b58f5f85061660b51782ae531c9ef9f6d45b79c.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "46"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/86a6bd09d4d3943d1dfc4546e27dd091fe1d78b010821f73fd95c37346afb778.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "46"
+					}
+				]
+			}
+		]
+	}
+}

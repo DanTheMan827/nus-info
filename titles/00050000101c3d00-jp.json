@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101C3D00",
+	"eshop_id": "20010000017347",
+	"product_code": "WUP-N-PC7J",
+	"name": "伝説のスタフィー3",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/affed01f02757f18b40511081a6b385b174c33844d7e194eff9fe5e53257c821.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/726585e41904e14012c2950bcd49aeb454c0a6887f719589718b84cbad928f08.jpg",
+	"data_size": "75923596",
+	"description": "このソフトは、2004年に発売されたゲームボーイアドバンス用のアクションゲームです。 宿敵にはなんとナゾの黒幕がいた！ スタピーを引き連れてくるくるしたりピヨピヨしたり、いろんな場所で大奮闘！ いつもの仲間たちに助けられて、さまざまなステージを進め！ スタフィー！ ※当時のパッケージ裏面に記載された文章をもとにしています。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-04-06",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/ef28c852053908bd24af0dec6d5aab840cf5d3d0e16f68d04a21b7e4bb9bd589.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/dbdf4ad40a8590e508704483ccf6a4ea7f3aad5f15ab2512d9c407d2614378b4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e7247d5206c781c76fff7bc3f745a399cf67bbf405a6c36246ac9af81112cc73.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a2f8f42c9264b6a99d370e89ea1de2b47a02b6999fb7c0d796ebfbaeb6d450a3.jpg",
+			"name": "伝説のスタフィー3 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3e574f24eee1857741696cbf4a7bbf085afd639538d31157b54b41fc9da7d72c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "80"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5de40614b542bccbe8f814759c9368f7ac061a651309b76420ab52240095db7e.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "80"
+				}
+			]
+		}
+	]
+}

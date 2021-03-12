@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010115A00",
+		"eshop_id": "20010000001006",
+		"product_code": "WUP-N-JAQJ",
+		"name": "マリオのスーパーピクロス",
+		"platform": 164,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/97bb878d270d8ecc29ad272ee2b3c9095db4e9ff43d12c84ece98685d796ff62.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6633a2fbd0697a6be8f5bc32b368485e99b4451f1a87ca254cb6dd0c5e579258.jpg",
+		"data_size": "40829068",
+		"description": "このソフトは、1995年に発売されたスーパーファミコン用のパズルゲームです。 マス目の左と上に表示された数字を手がかりに、隠された絵を浮かび上がらせていきます。通常のモードのほか、初心者用に遊び方を教えてくれるモードや、2人で協力して問題を解くモードも用意されています。 ",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-04-27",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/084c8e56e51a432ac55e34f99390ecd2bd9d99388a24e445fb6326dcb265f448.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/e8e45d1ecf85261b185521b229bacadfce744a9cd0dd02806041404c8f3579d3.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/6a1686ed229b84c97cf222e71658d2147f943bf8ec793fbc340def650eb7fe17.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/edfd278d171650f75748083c9c185fab5f5195ad1bb6703d3df2ab9be8fd7ab0.jpg",
+				"name": "マリオのスーパーピクロス プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b6832e4655b1c52047d3dc6b5c9f4455934c72eb1f620771e2f6111abb4e370c.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "50"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/be23b8264ccd88429505c20fbb76465492676ba4292e4efe7f62449da3d202d7.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "50"
+					}
+				]
+			}
+		]
+	}
+}

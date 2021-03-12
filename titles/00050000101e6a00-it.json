@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101E6A00",
+	"eshop_id": "20010000022227",
+	"product_code": "WUP-N-DA6P",
+	"name": "Nintendo presenta: Style Boutique™",
+	"platform": 169,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e73d1df9c292bf78ad11c197ca61071a56d7297c7bc3212e07378832b1c94fcf.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/efac6dcbeb70c8b0f56d547fe881b644bea82736ac0adcf685a7c3251aee2f1f.jpg",
+	"data_size": "136347768",
+	"description": "Nintendo presenta: Style Boutique ti invita ad amministrare il tuo negozio di moda come consulente di stile, curare personalmente l'assortimento, prendere parte a competizioni di moda, scegliere nuovi abiti dal negozio online e addirittura giocare contro altre consulenti in modalità multiplayer. Partendo dal ruolo di commessa in un negozio, potrai offrire ai clienti consigli sull'abbigliamento e proporre degli abbinamenti. Ogni cliente ha il proprio stile e la propria personalità, e dovrai quindi scegliere con attenzione i vestiti giusti per riuscire a concludere la vendita. In poco tempo diventerai la padrona di un negozio tutto tuo e dovrai usare la tua creatività per abbigliare i manichini, dettare l'atmosfera scegliendo l'arredamento e la musica, creare campagne promozionali e decidere quando iniziare i saldi. Ogni capo venduto porterà nuovi fondi al negozio, che ti permetteranno di ampliare il tuo assortimento.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-06-23",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/2d18ec3ce8b08b43d39a3e1f9c3de94fb7e01f564cddc3319a1d0ab057a70559.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/987fb8c1592debb0b0c863c2dc98b702aa9f403827503fa64848d6e69c1632bf.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/31b76163ad3a1a9514a0c8f82fce16ac9ac7b2182e6a91ddfc0223238f09c4d9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8dc06370fbf5753f07db183c663fe85114e102252658f90ecca9fed83bf90fa3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/75174c3447e05ea6d34ac28469d0e8735f93ef05251e0bb65592b753cef5d954.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4ac577261efcf56541dda0626392842388a6f62aceda1e23c909408de86858eb.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c55518d89c59b59027fdb870a7dfe4455739b9c62841adb6d4c6cce16a51f401.jpg",
+			"name": "Nintendo presenta: Style Boutique™: video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/93af866d1b3e1d31a3a921585b51dda4bf37991d76c26e8e2d95aa309328c9a9.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "75"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5e149154577dc776a8f0b1be95735bcc96f2567b27e2329a6030bad60ab4f0a3.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "75"
+				}
+			]
+		}
+	]
+}

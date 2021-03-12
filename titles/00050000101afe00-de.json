@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101AFE00",
+	"eshop_id": "20010000019789",
+	"product_code": "WUP-P-BFNP",
+	"name": "Adventure Time: Finn und Jake auf Spurensuche",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 1186,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e78455de293f7e4465f033bfd737edbb2dd0eb52e191e6b0eb73aa33101e4fde.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/952d5f61deb2bf2f5e2cc24c8a0924c9e9eb75960f6590565b261d9468ef019d.jpg",
+	"data_size": "1499857136",
+	"description": "Welche Uhrzeit haben wir? Genau die richtige, um ein paar Fälle zu lösen! Adventure Time: Finn und Jake auf Spurensuche ist ein brandneues Grafik-Adventure mit einer packenden Geschichte. Seltsame Dinge geschehen im Land Ooo (noch seltsamer als gewöhnlich). Zum Glück haben Finn und Jake den Fall übernommen. In diesem spannenden Abenteuer werden ihre Fähigkeiten als Detektive auf die Probe gestellt, wenn sie nach Spuren suchen, Zeugen befragen und die Beweise zusammenstellen, um den Fall zu lösen.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2015-11-05",
+			"retail": "2015-11-05"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/62c5440275f9c30992b9fac63d3411e72160dff986e0787eba954dd067fd65ed.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/45d0abc4163025781e543654ae5a341eb9a37c68242a2fe00915af8ae86ca607.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/719145542e4b2dff13ef23b4df2029f7a1518ebb481b8d71134a3e7954745e03.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5ef5680ed7f3d0d4f93372db28e609b95c7f604774d96c2a18e917639fbe542c.jpg",
+			"name": "Adventure Time: Finn und Jake auf Spurensuche",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8fe5b17183e2a052b1ad2c419451fe5d3061080681154d0dcf9cd21267575444.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "59"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/51362ecf1c2449767f163b81ce8bd89f3551ecb5823535f6a5d6ce219f908953.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "59"
+				}
+			]
+		}
+	]
+}

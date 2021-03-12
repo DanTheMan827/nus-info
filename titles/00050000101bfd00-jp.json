@@ -1,0 +1,43 @@
+{
+	"title_id": "00050000101BFD00",
+	"eshop_id": "20010000014767",
+	"product_code": "WUP-N-VBKJ",
+	"name": "スーパーマリオギャラクシー",
+	"platform": 171,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c10bc0b4aa27a10b022ba39542827395ec196c065f381678f109feeb1c3ab2ec.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b7fb8e7cb8eaa3a5838130b45d89824807d346940db6ad478b4ac19328950bff.jpg",
+	"data_size": "3578364364",
+	"description": "このソフトは、2007年に発売されたWii用の3Dアクションゲームです。 今度の冒険の舞台は宇宙。海の星や砂漠の星、オバケの星やおもちゃの星など、広大な宇宙に浮かぶさまざまな星をマリオが飛び回ります。宙を舞うハチマリオや壁をすり抜けるオバケマリオなど、さまざまな姿に変身して冒険することができます。またWiiリモコンを2つ使えば、2Pが敵の動きを止めたりして1Pを助けることができるアシストプレイも可能です。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-05-31",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/1e9d676c0fddee5b41eed60f5de0a6cea9d68d8333015fda572fe9cef4e413db.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6c96ca5f5779a8ebd6148012e5c9c9bcb7bdd23978e90ad71169973da4152fc5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f184d7221e45dc95fd71c92ca88ceb48e978269e138eff8e019136fe19e011f7.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7b000a4ba94aef26fa15987ab3bc8b2cb310653a055520eb64974cce92f3a450.jpg",
+			"name": "スーパーマリオギャラクシー 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/97e5d09a8fe1651461fc280780a89445478e8b7c5bccdc07b1da4109ea0667b0.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "205"
+				}
+			]
+		}
+	]
+}

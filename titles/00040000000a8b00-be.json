@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000A8B00",
+	"eshop_id": "50010000011890",
+	"product_code": "CTR-N-AKKH",
+	"name": "Professor Layton en het Masker der Wonderen",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9864a02d72d0bd65d405e47ffb09b78a09ddf69e5452455bcacaa25773e991fd.jpg",
+	"data_size": "835132260",
+	"description": "Naast 150 verse breinbrekers en een nieuwe serie minigames in de professors koffer, biedt Professor Layton en het Masker der Wonderen toegang tot 365 extra dagelijkse puzzels die worden verdeeld via het Nintendo Network. Dat is dus elke dag een nieuwe puzzel, tot een jaar na de lancering van het spel.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2012-10-26",
+			"retail": "2012-10-26"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5d5ab41a0c148e4c67f084064a88fcb612aed250338109c0b7c976e659177724.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5e886be2694e09dcdc3c169bd8425e453af60c6e1f00aac8732669f24d6f3f82.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8290fc1226de88c6da083d1715f7b694c87514a8d6124900020c63e7d3dedce3.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/487b1c9b62ee260ce871f48349f3d36f396dcc83b231f80d875a341e5c4ae756.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1e5ffb04257dd7671afa3630a588ce6be4a284abe222f05aa94b6f63e40e2efd.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/abdffc66857a38eeb819930956885f868e6cef2448c1213f667a4ecf456a06c4.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/245bc0f23408d2f48c316794e71972a1895ca0a1abc7389b6ca347968c9c10b5.jpg",
+			"name": "Professor Layton en het Masker der Wonderen: Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/289af063aee661c4368636e3bb59b55c4f4361ecaad6138f751974755e4b9951.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "114"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/029eed487da1ba4b7ffe763a9b1b647c1a8af666b2801930375ab21f92ed5f98.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "114"
+				}
+			]
+		}
+	]
+}

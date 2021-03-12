@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010119900",
+		"eshop_id": "20010000001143",
+		"product_code": "WUP-N-JARJ",
+		"name": "F-ZERO",
+		"platform": 164,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c67a5f04b0c51d50eb152fe66f56666d74789dd042fb5aa8c5569fc89e5c9d69.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3dbe7629e3d7b7a154d01faa3752206752ddf772a20e99d1188060bc18bd2545.jpg",
+		"data_size": "40632460",
+		"description": "このソフトは、1990年に発売されたスーパーファミコン用のレースゲームです。 ホバーマシンを駆使し、9つの惑星都市、15のサーキットを走り抜けます。マシンは個性豊かな4種類から選択。触れるとダメージを受けるガードビームや、スリップを誘発する特殊コーティングの地面などのトラップをくぐり抜け、グランプリ制覇を目指してください。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-04-27",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/49d31128be30d4f6d12ee1c241b438393183316fb03dfb3a213b7ed88e3ebd56.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/da3e547697b0124396076880714419de2a7bce96a0aec512c3b05404f278347f.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/de09e5e7987555e65e1e9222ae4117cf5bd0383f0c0eb344774277ff158d394b.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b1fa774a5ccc9e99bbc05519acdafdafcd0fdf6a7d90858cb9a0e10756fb0d87.jpg",
+				"name": "F-ZERO プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/544be9292b35c36c036241849947cbf3e9705a905352d0f87ebfdff8d707d29f.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "55"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b87fadcc57966b2054e97102dffea25fb6bb4c29088df4c8170a7d480a415e5e.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "55"
+					}
+				]
+			}
+		]
+	}
+}

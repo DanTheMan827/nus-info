@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010182B00",
+	"eshop_id": "20010000011767",
+	"product_code": "WUP-N-PBGP",
+	"name": "F-Zero™: GP Legend",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/01a53675bc039eea8ae627b0e4d14e9033c9a643994b2adf89c4b8a00fc89720.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c216f7a9a7bc16ec0fe8ded40c9dcc91dd1f2e5dfa0d5a17c92a845f6720ec01.jpg",
+	"data_size": "85590156",
+	"description": "Wir schreiben das Jahr 2201 und das ultraschnelle F-ZERO ist die beliebteste Sportart des Universums. Du spielst als einer von acht verschiedenen Charakteren. Vom Veteranen Captain Falcon bis hin zum Neueinsteiger Rick Wheeler: Einem in der Vergangenheit verletzten Polizisten, der wieder aufgeweckt wurde, um die verbrecherischen Banden, die F-ZERO für ihre eigenen Zwecke ausnutzen, zur Strecke zu bringen. Im Story-Modus rast du in der gesamten Galaxis durch eine Reihe von Rennen, die in die Handlung eingebettet sind, während du mit den anderen um einen der vier Grand Prix Cups wetteiferst. Außerdem kannst du im Zeitfahren neue Rekorde aufstellen und im Zero-Test-Modus besondere Herausforderungen meistern.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-01-01",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/1b7dc33c5ecff23af5d9cffd72a18c3d139e078ce822c91457abe039d2ce2abd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/90d95a5f4866ab98755f4739a6ddf7fd4a7b454e43892ccee50ca2db506c7ac4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/42c0962f5bdba08a0fa17ddbbb30ce8f9d362fdabe802633b73441f3859e2adb.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e81b7a4f3b77bcd02a8ff1ef16bdce679360f3eca339284d6879a6b9de316571.jpg",
+			"name": "F-Zero™: GP Legend: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/676c44c884db7be05a3d701708112dd2c2ab0ca7cb9377fa5ba283850d94a49e.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/14aabbe49397702350993d88c2e42abbc93940d0caf60a96283632100bf0e6e0.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				}
+			]
+		}
+	]
+}

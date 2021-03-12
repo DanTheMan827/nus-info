@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000054200",
+	"eshop_id": "50010000009503",
+	"product_code": "CTR-N-SAAE",
+	"name": "3D Classics: Kid Icarus™",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a757833f91f2f48358c77061849bcb06a968782e7d1baa1660ef945118390262.jpg",
+	"data_size": "39291748",
+	"description": "¡Vuelve a vivir la primera aventura de Pit en 3D Classics: Kid Icarus, mientras te aventuras desde las profundidades del inframundo hasta las alturas del palacio del cielo! La malvada diosa Medusa se ha robado los Tres Tesoros Sagrados y ha encarcelado a la Diosa de la luz, Palutena, procurando tener control total. Juega en 2D o 3D como Pit; un ángel a quien se le han encomendado el arco y la flecha mágica. Tendrás que luchar contra una multitud de enemigos que llegarán por arriba y por abajo. ¡Rescata los tres tesoros de sus guardianes malvados, úsalos y enfréntate a Medusa en la batalla final! ¿Estás hecho de lo que las leyendas hablan? ¡Restablece la paz en el Reino del Cielo y demuestra lo que vales!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2012-04-19",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e24d97bcbae9e0aa98f3e81c9a80c250cbfa4c7747a9f8fd31d3d0d84685dd69.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0b1cb996d3751835eceb78e361e5752deda1f631ffef7777a620a33a61c2ae7f.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e1f2579dbf47b69ed78f2e81ae61a9da63fa8d581588f5d1ab014c7b4e187bac.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0b1cb996d3751835eceb78e361e5752deda1f631ffef7777a620a33a61c2ae7f.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bad4de0b084d1cda75e352326dee20638ac148ce38bf6689b025b3d2b4c67ca9.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0b1cb996d3751835eceb78e361e5752deda1f631ffef7777a620a33a61c2ae7f.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bbae6f94ef950f18b649c886bbfa6424d1448971f1b448af7ba5266241f3b089.jpg",
+			"name": "3D Classics: Kid Icarus™ Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/db7b3a9fe6851f8c702eaf1c6b153aee337f52c1ba8106af89bc255d30561895.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "53"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/72fa410a7263a3c60f8126b734ae2fed5225ef0b170b26d9c6f07d10195245ba.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "53"
+				}
+			]
+		}
+	]
+}

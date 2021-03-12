@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001017B500",
+	"eshop_id": "20010000015147",
+	"product_code": "WUP-P-BXAP",
+	"name": "Art Academy™ Atelier",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0632ac918dfbfa1091ba3027016b85c105fdb6ab8f926f654c03cd3be0fce7c3.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0979bd6697afd84440fb07b8e92fd22db92a11a95cf2be8dde3f3ad713f0c7c9.jpg",
+	"data_size": "5261656584",
+	"description": "¡Bienvenido a tu nuevo atelier! ¡Aprende a dibujar y a pintar paso a paso con una gran variedad de materiales! Con los cursos de Art Academy: Atelier, solo para Wii U, podrás aprender técnicas realistas trabajando en la pantalla táctil del Wii U GamePad y después podrás montarte tu propia galería virtual, compartir tus creaciones en Miiverse y subir vídeos de tus obras a YouTube*. *Se necesita una cuenta de Google.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2015-06-26",
+			"retail": "2015-06-26"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/0e2bb8b6a9db68d199f2177b7517df605f5ad801c1ca237b8f3aec86e0eb4e29.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/663f5d0ef9858d7c9763fd536fef4187ab036223c62fd0510cb4692ed67ea959.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2f18831f84fc7b667fac927049cf3629c512ecf05d9e187ccee4f30f20f67128.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3ae819a6de84b89132cb459fe2684845ebad9c484a524fdc2e7864b8025ee2ab.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bf7debd73a1322fa79bd7d6c48dccb5851e63e62ee63a8ec450b54185ee854cb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/10ea4a2ab9296a28b5c8e407237aef4bd4280b61bfeeeddea86057db59dec6b4.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/763080e73f7cb8465b6217309ebc5e3633693b9ec10b55f84a7f8b195c48cbcd.jpg",
+			"name": "Art Academy Atelier: Tráiler general",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1639bcc74602009f3fa79585c0da6915a01df264a78d11ffcc572e771e291c71.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "196"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c4c9a01296e5b1dc0e91e43e10aa9942dff30954e1f2dcdbc4c403458b6f6f3b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "196"
+				}
+			]
+		}
+	]
+}

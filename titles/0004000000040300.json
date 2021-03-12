@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000040300",
+		"eshop_id": "50010000008401",
+		"product_code": "CTR-P-ALCJ",
+		"name": "心霊カメラ ～憑いてる手帳～",
+		"platform": 18,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3298079601b6122b9dfc8852287f7365c2fa1a1aaaf3612a6907b1801e39688d.jpg",
+		"data_size": null,
+		"description": "ニンテンドー3DS本体を“ありえないもの”を映し出す心霊カメラに見立て、付属の「ARノート」のページを映しながら遊ぶホラーゲーム。 AR(拡張現実)によって、ノートの中に存在する様々な謎や怨霊が、現実へと映し出される恐怖を体験することができます。 呪われた日記の謎を追う、ARストーリー「零～紫の日記～」、そのシャッターが恐怖を生む「ゴーストカメラ」、ARノートに隠された様々な仕掛けを楽しむ「ホラーノート」、3つのモードをお楽しみいただけます。",
+		"availability": {
+			"eshop": false,
+			"retail": true,
+			"dates": {
+				"eshop": null,
+				"retail": "2012-01-12"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bf9b2698b5a8a87d03dbe23bd9d7109aab6384bd9a0d72ebfe090283a97e72ba.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1628a8bb861b7009ddbf67406b8bf224a7a99a9cc33859cb9c2c3b758a7dc20e.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/de3e7325f3a8723a588e4b9ac38edf7e7f182f324937c88dfc099542fff99323.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4d71290b6322a64f1daedf409f3f3b6d6e42b8dca6440236c5b4a28571685f9d.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1db256a2f3e2b623da9d387f2bbeb82e6116b897b0be343a802e27fd708d8368.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4269e99ccd1106342a4b9ca5a117b6cacf2583775b462ff75bc26064a4edb26f.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/62a1726acda8bc05b35fa176acdd90055d682dd5bd74ec7f858a1d3a6ee757fd.jpg",
+				"name": "心霊カメラ ～憑いてる手帳～ 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bf72e9ec31710e29bed166e9c0e25f5fe4efd970ffefd1eca8558a96093c7d08.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "254"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4c177e30c845ae49dc13719ccefa029f80ae770dafa5d71c7c83a4bee6999d42.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "254"
+					}
+				]
+			}
+		]
+	}
+}

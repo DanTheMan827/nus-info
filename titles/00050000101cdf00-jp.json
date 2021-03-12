@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101CDF00",
+	"eshop_id": "20010000018687",
+	"product_code": "WUP-N-ALJJ",
+	"name": "LEGO®ジュラシック･ワールド ",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 483,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/194d3d2555ded2f974df02c0c2221e12fc0b658fca74233362ba5b132a3bdfa5.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3e195ed11d58613c037f4608c5ff737cfd9f62fc3b82a7ce5896ce800c679c76.jpg",
+	"data_size": "7208534716",
+	"description": "世界中で大ヒットの映画シリーズが1本のゲームに。 大ヒット映画『ジュラシック･パーク』、『ロスト･ワールド/ジュラシック･パーク』、『ジュラシック･パーク III』、そして全世界で大ヒット中の『ジュラシック･ワールド』。『LEGO®ジュラシック･ワールド』はその4つの映画を体験できるゲーム。レゴを使ってTT Gamesによって制作されたこのゲームは、映画の有名なそしてスリリングなアクションシーンをユーモラスに描いている。イスラ･ヌブラル島、イスラ･ソルナ島の広大なフィールドを冒険可能。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2015-11-05",
+			"retail": "2015-11-05"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/b786d5dc8c7c75314720e2f2a5a23c018c10358660c031060bcaa79905cfd154.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bcc2ef9d82ead2148f90f25e74d81675de39119b095bf8210978902e7118bc3d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1125a72e7824af6b6ef0f40ef64a629e493e8732c8bcbe0b27ac08a3a4f7c3c8.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0c62e1c64cf505415a6993345c262e020aa380553c511b094633151a1e126a36.jpg",
+			"name": "LEGO®ジュラシック･ワールド 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bbf53ef3117a05b3bd89be7eb0ed6e8b08ca4e3a67a0bd36f6c92f90a1b9891d.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "96"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7617c25d218e0ee0d080b5e2dd82e46163df8ea88c2a947df32073b4fba766fa.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "96"
+				}
+			]
+		}
+	]
+}

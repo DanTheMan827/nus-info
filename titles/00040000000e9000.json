@@ -1,0 +1,78 @@
+{
+	"JP": {
+		"title_id": "00040000000E9000",
+		"eshop_id": "50010000018101",
+		"product_code": "CTR-N-JU2J",
+		"name": "極めろ!瞬間ジャンプ検定",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 114,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0a6317f660b1b4335d9be9d109024d6f4dd3dc0f890a6547a82fdda0af5aca01.jpg",
+		"data_size": "14338916",
+		"description": "『極めろ!瞬間ジャンプ検定』は、DSiウェアで人気を博した瞬間ジャンプ検定の最新作です。 ステージ、ギミック、モード、グラフィック、サウンド、インターネットランキング全てが進化した新しい瞬間ジャンプ検定を是非お楽しみ下さい! 追加コンテンツを購入すると、違うキャラクターや背景、サウンド、追加ステージなどを楽しむことができます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-11-27",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b0daa6d06c37da834e922de94abecb2464d87f6023e028a9c6f3220fa8f67906.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/66cf3252be527eb3e31a46600cb4e19673d21f1e66fad3b02ba2e3a31ef17366.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ad067885124790ab59f3447c02f4075a2fd859577dd7c684a9a773bb7680f028.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2aaa6599d3734ee1ff37a597fedb3e1a65d1bd2c30b3568fdde7f69dab3dc159.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/517d9602d71a7ec6c5fafe8b531c9894e3f8d3c40cd47ba479a95e8e633536e9.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/eaf0b1bcba29a2ec90e5d2ea04e0493ae1680832c2a5756e7259bb873451b78c.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/36a1ada13022736f1900d2a6996fa216d12c98421f25f0f73e897343e4a681a6.jpg",
+				"name": "極めろ!瞬間ジャンプ検定 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1de86e7a2aa4e4fa6f6986a6911e7891ceff80ece7ec70e620d92fadad6714a2.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "105"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6cac020dc476a6f02f523980750ed95afc866d87ebf27f86765d33213ad93362.jpg",
+				"name": "極めろ!瞬間ジャンプ検定 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/37b03c4c37880c9ea18859d9176a1b958bbac7403c75c090b8747a003ffbe7c3.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "43"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6a05cd68348288acd6be73fd7a517e3c4b36426bffcf8cc050be8ba07e5f7288.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "43"
+					}
+				]
+			}
+		]
+	}
+}

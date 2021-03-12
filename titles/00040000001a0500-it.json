@@ -1,0 +1,85 @@
+{
+	"title_id": "00040000001A0500",
+	"eshop_id": "50010000041978",
+	"product_code": "CTR-P-AJHP",
+	"name": "Super Mario Maker™ for Nintendo 3DS",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0966de867939b357a20bc6584eefcc015654a9926beece0e95668b71fe608fb2.jpg",
+	"data_size": "384043876",
+	"description": "Super Mario Maker for Nintendo 3DS è un concentrato di livelli da affrontare dove vuoi, quando vuoi. Entra nel vivo dell'azione fin da subito, affrontando ben 100 livelli progettati da Nintendo. Ciascun livello contiene delle sfide aggiuntive, come raccogliere ogni singola moneta o sconfiggere tutti i nemici prima di raggiungere il traguardo. Completando queste sfide, potrai vincere delle medaglie.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2016-12-02",
+			"retail": "2016-12-02"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/01de0774c957a50780f725109db3faf9edd2629e5d3360fa512fcc1344c462f3.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2faaa00d0b3791145aeb8d4986aee4888a8ddeab319ad3ddf26d34194637456b.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0ce4df9a52720a6b48dcd48d1f27bd22c4a473314a58c63a10f5063de9b2c3e9.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/24ac578c1160b7d6c8bbe259ae7d33ff36f3ad319cfd89c4fc26b0f4a9a267c9.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f88d7e757f5cb05cf194d262d8d22df8f65d1d30dc8498fb94e7f4900080b26b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a4aad57c3e52ff8abc1a20a645fe9c6eca2f90354886b9392f9561266c1dd84f.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4f1a94592a13bf23a0eee4337fb54c546a83b544e8d131d645e0e26d64868d0f.jpg",
+			"name": "Super Mario Maker for Nintendo 3DS: trailer introduttivo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/643ba63405d173a7ba2face805cec42784029f7f3e94a5446260f5bbec56aa9f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "266"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/346e47c02136764899bec10aed321cecb50b4cf047c510c77c2c40a9b2b53da5.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "266"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4f1a94592a13bf23a0eee4337fb54c546a83b544e8d131d645e0e26d64868d0f.jpg",
+			"name": "Super Mario Maker for Nintendo 3DS: Sfide",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3965cc5dc420d9ae4b8052a1e66228465b24f86663b745d1587b91969f97cce0.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "70"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4acf5448742a9766b25369fec22f81d117ca8e06d64bac44fae59d444384c17f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "70"
+				}
+			]
+		}
+	]
+}

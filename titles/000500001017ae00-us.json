@@ -1,0 +1,53 @@
+{
+	"title_id": "000500001017AE00",
+	"eshop_id": "20010000007766",
+	"product_code": "WUP-N-WG2E",
+	"name": "GEOM",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1304,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9320fe07ec686533ff511ef1c9067a7e083f18c1814e2d36d5cf27928f29afce.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b94299f37dec926a781b07fb47908bf6ab6005b1473d367be79e6c98dbb961f1.jpg",
+	"data_size": "92110988",
+	"description": "A timed puzzle game that challenges players with speed and precision. Each play session is a race to gain as many points as possible. Mode 1 is a bit of a match game where lines of a same geometric shape or special shape must be made for points. In Mode 2 players search for a specific shape on the blocks shown. Finally, in Mode 3 blocks move upwards and must be tapped to gain points. The key is keeping an eye on the shapes as some appear more often but give less points. Keep an eye on the elusive moon and sun shapes!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-06-19",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/f53300a0f715c8c96bd0c465dc6c109777982e18b46c807c55a96f1f82934ba8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/cb81913ca45191c3eb40952f91880fffe47bb474599b7d29ad47501febd040b1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/80824c23fd1ff1413c3b7c3a75e6688228aed7cfdfffb3d97db0cd9aeebb8205.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/901f2e1a776742168a3112f6fac000736c948183fc00356f780ca1a44e1bca37.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3b8cf7c1ee4997cde7e8b5dfbf248b340b41693c01ff4c8e27195b65f1f7420c.jpg",
+			"name": "GEOM Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a1049098ffab3941b44acc24038499731b5dc6e279fb2bbab7c7d776794927ac.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "87"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4b77dc4c238350134ae1281d822a26cf37b56626265466dcbb1430785bac3a16.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "87"
+				}
+			]
+		}
+	]
+}

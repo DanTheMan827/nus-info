@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010194E00",
+		"eshop_id": "20010000014747",
+		"product_code": "WUP-N-MNTJ",
+		"name": "スカイジャガー ",
+		"platform": 167,
+		"platform_device": "WUP",
+		"publisher": 149,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e97e1ddcf25afdb28c790370349f68ff37ade06dd4b416800e03c531f4de812c.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/db265b1b84da34074a4d09fefacbb1efa0fb52ed7b4f58de98e47e80fc22720b.jpg",
+		"data_size": "78708876",
+		"description": "最新鋭戦闘機“スカイジャガー”のパイロットとなり、地球侵略を企む謎の艦隊と戦うことになります。 スカイジャガーの任務は特定のシーンで登場する敵の巨大浮遊要塞に迫り、機能を停止させていくこと。さまざまな攻撃パターンを持つ敵編隊が次々と襲いかかってくるので、敵のタイプと動きをつかみ、上手く敵編隊を全滅させていきましょう。 王道の縦スクロールシューティングと言えるべきシンプルなルールのため、誰でも熱中して遊べ、またハイスコアの限界にも挑戦できる本作。敵編隊を全滅することで獲得できるボーナスをうまく積み重ねていくことが、ハイスコアへの近道です。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-05-20",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/f21e4f50af8e80a6d389a0314b5b0cfc447ff9ddcb2c49d48c9129689da06f18.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/9ed6c520e1e6feb0c00a5de88c6bbd3810e7465c30c11640a23ac3001ec7d950.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/b74bb4a47bc3b53921b4fe4b4fdff5edcbf5119dded0abf9b690c02d56f7896e.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6204e633e6adc10035d8f155cb70c8354d95580e22e7c6c2d807ccefa97cda93.jpg",
+				"name": "スカイジャガー プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5b5b7407746ea9b070d4adff2d7f889d1277b4b7becc9d0e2b4836f99dacfcf8.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "59"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/777e961acc89d69362f68b912fd384cf23436e754d497a1edf0f4c3de0d67b8f.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "59"
+					}
+				]
+			}
+		]
+	}
+}

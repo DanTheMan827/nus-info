@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000A4300",
+	"eshop_id": "50010000017956",
+	"product_code": "CTR-N-TBHE",
+	"name": "River City Ransom™",
+	"platform": 24,
+	"platform_device": "CTR",
+	"publisher": 19,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/784a67dc2219eb58abe58f621d704e99863efb000c818abf4ff9627c507bb5d4.jpg",
+	"data_size": "12794772",
+	"description": "River City Ransom takes place in River City where our heroes, Alex and Ryan, find a letter on Ryan’s locker from a guy named Slick. The letter says that Ryan’s girlfriend, Cyndi, has been kidnapped, and Slick has taken River City hostage with the help of countless gangs and evil bosses. It’s up to our heroes to save poor Cyndi and free River City from the clutches of Slick and his underlings. You can play as Alex and take on the challenge alone or battle as Alex and Ryan simultaneously in a two player Download Play game. Kick and punch to fight your way through gang members, evil bosses, and other goons. Or use a variety of weapons ranging from a chain whip, brass knuckles, and a tire, to name a few. Raise your stats by eating right, and gain new techniques by reading books. With your fighting prowess and never-ending spirit, the bad guys won’t know what hit them!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-11-14",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f1d99aacc6875e07f49f869cf17e9952a42d38a867f083dc8f6d388d042091cf.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/648c6bf2874415cbbf6a2d38ce0d4c6a382e01ab55745ffc30354546af5991d9.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1d403cc3f19a16c3ac3f97eabf4b51149624d485b15f5c220bf6b995c997c2ba.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/cfbc0b35f3d9174115bc1647ba9eff7fd682dfcdcb51b78c06143286c62a540a.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/747ee155b75563b97876f00825b68987079f8fcd0697c3c4a6a808af5538ad00.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2fc83e09d132888b4f0954089e517b23dc7223fecfb0ff9aa5a77bd3a772a696.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/66fd3beb5996ea3b2b2fbd90911454f570cbdb5143d3aaa69a350f14e0cbd9dd.jpg",
+			"name": "River City Ransom™ Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3e18678260933c0e46fb45802c06af7936e75fcf4f1593e1a2b93c13ffa3fb87.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "28"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6c7abd7e08e75e5159e3260756432b8a2765b0742e3a827c872ed6091ce8c7ce.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "28"
+				}
+			]
+		}
+	]
+}

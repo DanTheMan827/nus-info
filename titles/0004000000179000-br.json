@@ -1,0 +1,85 @@
+{
+	"title_id": "0004000000179000",
+	"eshop_id": "50010000037375",
+	"product_code": "CTR-N-JCNE",
+	"name": "Chronus Arc",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 146,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/2e44a4b3e888bd6299591a517e450971316acadbeba38ca970fb1857ce94e784.jpg",
+	"data_size": "69213028",
+	"description": "Os Fragmentos de Chronus são necessários para a Volta no Tempo, que ocorre uma vez a cada 10 anos. Em seu caminho para o santuário de Chronus para obter os Fragmentos, Loka e seu mestre Teth são cercados por um homem misterioso chamado Geppel e sua gangue. Eles demandam os Fragmentos. Enquanto Teth tenta ganhar tempo, Loka, o personagem principal, escapa da caverna sozinho para conseguir reforços. Ele é bem sucedido nisto, mas Teth e Geppel sumiram por completo. Para conseguir informações sobre Teth, seu mestre, e Geppel, que está tentando por suas mãos nos Fragmentos, Loka decide embarcar em uma jornada com sua amiga Sarna. O jogo inclui as familiares quests, mas também calabouços cheios de enigmas e personagens que crescem e se desenvolvem à medida que a história progride com o sistema de alteração de classes. Além disto, ao coletar Mana, calabouços adicionais e itens especiais estarão disponíveis para diversão extra! Não perca a grande saga de Loka e de seus amigos!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-10-01",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c4341b8bbcdf072aadb85665d9665629860143762d2ccaa56af981a38ba7fc0c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/27c145121dcabd10dbfd147d6da93c49c7adf333ffcf0c49bf59346da3a61fff.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1233a32a63a9daaf918daeec565d079ea9d25fe7048f00dd3f5c898ae9e6ea1b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f10d0df4c9dff5f6d9339a71a5be96d682e8709be0598ab15cb77973cd9f5ce9.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/41b577d5cfb537adcd4b92de0f9c2ab118e61992a01ca4054f087e71d965a9b4.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5955cd6e504f441b94173c338ed7fb38b3ccbee249a79ec1eaf594f73f4b66fe.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c66ee4a75c3e665d434591e4bbe3056a7cf9e17372a8d53ba3a89b932bbd5c97.jpg",
+			"name": "Trailer de lançamento Chronus Arc",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a88e021a5d5895649a1eedb580b43a532d4ac2117d07b737de1dfacaa0ad5a55.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "78"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/36618e6a27622817185f4b145d04686083d953f7a9c2b10ad6c4bb5c44be889e.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "78"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c66ee4a75c3e665d434591e4bbe3056a7cf9e17372a8d53ba3a89b932bbd5c97.jpg",
+			"name": "Trailer de lançamento 2 Chronus Arc",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e9117bb5e4704281a5af9cfbc442bdf15fea3e8f83f514e3b0a2e0bc3d022465.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "59"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1df24da68332626ee743c56e04da1b460cb11eb5fde9b17535b1115e8400e903.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "59"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010158C00",
+	"eshop_id": "20010000005205",
+	"product_code": "WUP-N-FCDJ",
+	"name": "がんばれゴエモン!からくり道中",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/844d45fc49537b302af123738a7b3e6f5e39188ad88af13cda634efe83818258.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/53f0e4c066df2e3e39d80363ac479b019c6c51dddbbe539e391755beaba2c370.jpg",
+	"data_size": "36601996",
+	"description": "このソフトは、1986年に発売されたファミリーコンピュータ用のアクションゲームです。 悪事を働く大名をこらしめるため、ゴエモンが日本全国を旅します。キセルを武器に敵を倒して、迷路や隠し通路で通行手形を集めます。通行手形を3つ集めると、関所が開いて次のステージへ。小判で攻撃できるようになる「まねき猫」や一定時間無敵になる「打出の小槌」など、便利なアイテムも登場します。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-07-02",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/87e2ef1c8ef6435b573d497316013b9b1a6e96245b7103c09fd9eda46433f0ec.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c1086165aa2bb6031cf5adc9d9d47de21d420b601dff6ec585b5cfa358883990.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/af9002647f1fe49cf8f1e87e5e7d9982622cffb69503f34767589a792af03b6b.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/064e4816c74dda39da6dafa438dd0c2ad664b0305a2abd9bfede1a131816582e.jpg",
+			"name": "がんばれゴエモン!からくり道中 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5bce37aa517ad79ff1dbf24537d75f80167f9f00c8b59f48a180c7dc08b397b9.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/340fedd47596a6acb4c79176ab6668c674e09a8fb81765530844011a2711b274.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				}
+			]
+		}
+	]
+}

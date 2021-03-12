@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000152E00",
+		"eshop_id": "50010000026276",
+		"product_code": "CTR-N-JKVJ",
+		"name": "カンフーラビット",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 1402,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e3d6622953ed3a80a4b0b0c2539cfead9e175ad1be90321632ff9cc145edd241.jpg",
+		"data_size": "51354468",
+		"description": "『カンフーラビット』は誰でも楽しめるアクションゲームです。屋根を飛び移り、壁を滑走し、敵に気づかれないうちにすべてを倒す。簡単な操作で、多様なアクションを楽しむことができます。 ウサギ寺院のカンフーの達人「カンフーラビット」は弟子である「ベイビーラビット」たちと楽しく暮らしていました。しかし、ある日宇宙より飛来した邪悪な敵により、弟子たち全員がさらわれてしまいました。かろうじて難を逃れたカンフーラビットは、弟子たちを救うために立ち上がりました。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-10-08",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/91f18f8eab8335d943010e88e539abf124f750c62b4f82e90f1c0a7c24342d0c.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/bbf32768c5bfc68937bd008c7d04f37760a7497195a79f348d0d7a308972e270.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b881a5771c466a1031a09aeb20543298b87dc548b174be16afea6333da51f883.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b17b23ed533feee352dda559d3fa911a391458e31bd2f3c04806cd4137f38321.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b881a5771c466a1031a09aeb20543298b87dc548b174be16afea6333da51f883.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f8c1193aec257fb5b62df5b81e2b9dbe8f00bac26d1df3fa0714ad7bee372c8b.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e74ce5c196eeeb6e207a526b7620e4b726f5da21ac5f0844d93fb8137e5a33fb.jpg",
+				"name": "カンフーラビット 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/925b2dfd75d48fdffaf623fffbcf6c9fc145aa8173df73ee9d9888d798732871.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "45"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3f93e811e900ea487c3530dbfa294460afa39ec112fa27c4f2023811525acca8.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "45"
+					}
+				]
+			}
+		]
+	}
+}

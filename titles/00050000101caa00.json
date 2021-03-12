@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101CAA00",
+		"eshop_id": "20010000015587",
+		"product_code": "WUP-N-WMMJ",
+		"name": "マッドアタック!マックスVS泥々星人",
+		"platform": 124,
+		"platform_device": "WUP",
+		"publisher": 1292,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/139bd829019fff44a3acbe763ff7adaf9b0848968137883c692df205c8fecf75.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/413387e5f27de5f8e7ae45081e2130c33cc12fc593942a2afa3d639a4a3e1613.jpg",
+		"data_size": "57278604",
+		"description": "突如地球に侵入した「泥々星人」を\"ゴッツい\"水鉄砲で倒していくアクションゲーム。「ワープパッド」で奥と手前にも移動できるユニークなステージ構成。巧みに仕掛けられた障害物を避け、彼らとの戦いは続く。全5ワールド&80ステージを収録。「TV」でも、「Wii U GamePad」でも、どちらでもプレイ可能。 ･海外で高く評価されたアクションゲームがついに日本に登場! ･シンプルなゲームルールがプレイヤーを熱くさせる! ･3つのレイヤーで奥と手前にも移動できる! ･ステージ上のゴールドダイヤを集めることで、装備のアップグレードが可能。 ･まるで「クラシックゲーム」のような魅力的なグラフィックとBGMが、何とも楽しい! ･もしかするとあのゲーム機かも!? シークレットステージも収録。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-06-24",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/4ae0c5caa1c1adf4a80451ffd71ddd2766e8834c07817d9ab62e84c854ace101.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/5d17b4ea766dcd7fb215c4d0b714ad98c3a9842ccd137c17400d5fe2e1af03ab.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/c877566f34bbbce13a014888e61c72fd856235a61c9deeae3b657b3ad5f91793.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c8507f48004b2e19da5c1e6c17a47179bc4d624e8b3e1f66d5b2fe05dcb06d51.jpg",
+				"name": "マッドアタック!マックスVS泥々星人 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3ce6c7802da93c27a532ce03092c4345c724be49a792c91fab371a84af22d4b9.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "109"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0af529d66b596eb87581750a84d2eb9887c51bf8148c913464fe6038e4899a75.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "109"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010153B00",
+	"eshop_id": "20010000004965",
+	"product_code": "WUP-N-FB8E",
+	"name": "Castlevania II: Simon's Quest",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c7db65de62e95442031867be79bfe16edb74c40eeaaeff98c238a9cbdd0e0383.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a525c08ee41ed8c3750dc928de77cd031e31126c4de1fb3b820d5b489991f3f0.jpg",
+	"data_size": "36569228",
+	"description": "In this one-player adventure you once again take on the role of Simon Belmont and duel to the death with Count Dracula. Grab your legendary whip, Vampire Killer, and roam freely through Transylvania on a quest to find the count’s missing body parts. These are the key to breaking an evil curse put upon Simon by the count. This quest won't be easy, though, for you must battle hideous fiends who stalk the land. In addition to the intense action and tight control the Castlevania series is known for, this sequel also introduced several unique game-play elements into the fold. Build experience the longer you play, buy weapons and items from merchants, or talk with villagers to get clues (some of which are false!). Watch as day turns to night and then back again. Take a deep breath, steady your nerves, and help Simon end his curse and defeat the count once and for all!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-01-16",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/48a79c2d7debe19f26c57f0b18a6c219bb5f4150edaaa5096b085cea92f46447.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6ba6e64baed7d9094eb0d849ec78a6c89b86b22a62867fe3d50ac27a27e65040.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/da7b81a17d37831dcb7d87ebdd93db923be76f63c28842724b9311ef995b3f72.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b642e0b569b46bba25713e98f57dad82f3bf33ed094af07c7f1f6c29717b3499.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ae41a713f263f07aadfb25373ca40d3e8bb3ebf25bbd778ee8902e8fd2b26a1e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b9882f14ad8838a2b52ad95f9530a78a56ad834eabf817932df0c2f39f239f45.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/91c76e3aad8248d5abcea091249b7211c6b97b704155a191897622d252cd1d12.jpg",
+			"name": "Castlevania II: Simon's Quest Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4db5e7382310e1368ef99837256c628aa8ba59987dbae1c9be129238ad43de12.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "41"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fd3e6514353fd02a83fe0a85e8b259b81a37d88fbd785c9b2c5ec37dd4a6f870.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "41"
+				}
+			]
+		}
+	]
+}

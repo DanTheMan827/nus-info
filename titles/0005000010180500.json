@@ -1,0 +1,78 @@
+{
+	"JP": {
+		"title_id": "0005000010180500",
+		"eshop_id": "20010000010006",
+		"product_code": "WUP-N-AKBJ",
+		"name": "進め!キノピオ隊長",
+		"platform": 125,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ab6f4724359db8239d545d4736576ef69f993271e6745c811d1c4e221ca5d912.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/df2789f59484f83b7e0985c8cf8c11fa9995bd2ac055e8d72c5586c8ae8333d8.jpg",
+		"data_size": "1320354012",
+		"description": "ある日、お宝さがしの旅にでかけたキノピオ隊長とキノピコ。きらきら光るものが大好きな鳥、ウィンゴに奪われたパワースターを取り戻すためキノピオ隊長の冒険が始まります。冒険の舞台は、古い遺跡や、マグマがふきだす火山、オバケ屋敷など、70以上の箱庭のステージ。重たいリュックを背負っているためジャンプのできないキノピオ隊長は、ステージ上にある仕掛けやアイテムを駆使してピンチを切り抜け、Wii U GamePadのジャイロ操作で、ぐるぐるとステージを見まわしながら、ゴールであるパワースターを目指す、箱庭アドベンチャーゲームです。",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-11-13",
+				"retail": "2014-11-13"
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/08dfadb59551ed2035ebd55cfed4fe964d746e9aeddc0e56c6f427a900e31674.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/759247b3445e24b5ed1a11883ff01fd48b1e135b91e0fa12eed14a8fdcf99989.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/9cf162823b6e765c95a9c665f7ef55a00b5161c2e1a1bc98bc3645d8ea762f51.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7f387205573ccce4a319cedf143336e70a8a6f2722476a8bbc8b316d3fad3f67.jpg",
+				"name": "進め!キノピオ隊長 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a54469d262c4f233c196e51358fbc83a3d00a3ecc7871a6b1d4d3fe1e77b608c.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "196"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2f361b8ce0e68bd4e8fa8396ab6401d9b15281bbf4686028c22a7a57e072aff8.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "196"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b60fc48f0a02f4bbdf40d97bbd72a869963213406067b31a442796df737a8329.jpg",
+				"name": "amiibo × 進め!キノピオ隊長 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd0abcf1869450ca967d7ec2b9df40f8d0e9fba29c919638db9a02b5e5974c31.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "54"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d9d4272b57cab170b71289851c05b03f9906e0a56c87905409b80e769b752b08.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "54"
+					}
+				]
+			}
+		]
+	}
+}

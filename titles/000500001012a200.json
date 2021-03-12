@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001012A200",
+		"eshop_id": "20010000001370",
+		"product_code": "WUP-N-JAWJ",
+		"name": "カービィのきらきらきっず",
+		"platform": 164,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bad46a78affc92a6d42e2b428163477677d3c841b9389ee6fd5f7bf0e6d5b41a.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c0237c4019dddce83c4d44f52a3e46e2e90d978d7a878123c907a12b5f22e057.jpg",
+		"data_size": "41681036",
+		"description": "このソフトは、1999年に発売されたスーパーファミコン用のアクションパズルゲームです。 デデデ大王の攻撃でバラバラになった「星くん」の体「ほしのかけら」を集めるため、『星のカービィ3』で登場した仲間たち「リック」「カイン」「クー」とともに、カービィがアクションパズルに挑戦します。ゲームのルールは星を同じ仲間のブロックではさむだけ。パズルゲームが苦手な方でも、簡単に楽しむことができます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-05-08",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/855df590591ca4776c63a33f945f238130e6b257a43abd559036c3d5aefb774d.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/77da93d76f33de5bd41b39d689c2686b0897ec23d9d8cf074d01a96933c68c8c.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/494bc94256351120900fe5f8b997ded45c643dc0f2944c130f555bde5ab020ba.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/47461c9ca93747a0399194fa84d3410d80637d3643798879775db3a51e283c15.jpg",
+				"name": "カービィのきらきらきっず プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/dd8924b9d91f8ff1b491fcdfa8ed6db25ca51c2e2a99413b2d28e8a473beabda.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "44"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d22073eeae7ffaaba3857147b725c4e46c372e72236787cf75995f943937d93d.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "44"
+					}
+				]
+			}
+		]
+	}
+}

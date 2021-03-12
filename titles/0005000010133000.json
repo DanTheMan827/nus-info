@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010133000",
+		"eshop_id": "20010000002070",
+		"product_code": "WUP-N-FBDJ",
+		"name": "MOTHER",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/34d345ee318179860d912d75f9ad00a5512f58722391215466a4a9318cb5622c.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/fb04b5dffb9544f945f77ac001f9533c5734e4b3fe1984e72937ccc1f85e706b.jpg",
+		"data_size": "36733068",
+		"description": "このソフトは、1989年に発売されたファミリーコンピュータ用のロールプレイングゲームです。 アメリカの田舎町マザーズデイでは、不可思議な事件が次々と起きていました。部屋の電気スタンドや人形が暴れだしたり、墓場からよみがえったゾンビが人々を襲ったり……。主人公の少年は大切な人たちを守るため、旅に出る決心をします。 ハンバーガーを食べる。バットやPSI(超能力)で敵をやっつける。心強い仲間と出会う……。そんな旅の途中で流れるメロディーは、どれも心に残るものばかり。ぜひ大きめの音量で楽しんでください。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-06-15",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/dfc790a93febf63ef6a27eb3ad36c3a51feadeb76f03e55786bae04145d64115.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/0b84bda9e96610e53b64a1cb54d80f41342406c517408379fb62f9f89462e898.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/fba2e4bf3dc2ae372942947238c0d1b8e37e5bde28487142a4df85dcdbd8b2fa.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/36398e024edc2b1efae62151abc3ec428985312861c03b514cdb7c664aa2e3d7.jpg",
+				"name": "MOTHER プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7009b05a41a37110fe094ad131ff8a0a52aadc47a49a5fe960bfc0cfd4adb28b.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "63"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e6abe165bfdc027c01a4809e6a69906cc0ad79c7abf176cb58128b8eba6a7307.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "63"
+					}
+				]
+			}
+		]
+	}
+}

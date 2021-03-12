@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001017AD00",
+	"eshop_id": "20010000007327",
+	"product_code": "WUP-N-WC7E",
+	"name": "Chubbins",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1310,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4894d16513e6f6a9a69db66ccaec9a23d156ab8ae532e1fd91906918cb1effc6.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ef5d350768180641e18c80c24b3ac7b5b72e83372512661632f045ce0401891f.jpg",
+	"data_size": "170066060",
+	"description": "Get ready for an adventure that delivers all the fun and intensity of classic platforming alongside all the smoothness and accessibility of modern gaming! Guide our plump bunny hero, Chubbins, safely through 40 memorable levels across 5 increasingly challenging worlds! The controls are super simple--just move left and right. Stay on your toes though! Chubbins never stops bouncing, keeping every situation dynamic and making for interesting gameplay scenarios. After conquering each world's unique boss battle, go back to perfect your route and reflexes and set new records in both Soft and Hard Modes, and master each level individually in Time Attack! ",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-06-05",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/62870607e7a3d2579f639f0fccf0f9d050dff8137122bf48ca31755e29e97036.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ae0b391941ee8585377452bab6f70def2aa58a5834c19c4601d84ac62cf8749b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6eb0625857dca886f9d0bd5071f4da20823fe67b2b615969995ffd35060115ae.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/38f07e6cffec93b47b3d55e4901c6666b8e49c18a27e87d1db48fb0ec00b282d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/95a8f021477c5b32511d56c09bb5a593f7be234896c27ec3e99199aae53ab54b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0481d9683312af18e01927cee7224432bdd9814f5b2b7d7784e861fb31ecd6bb.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9c9e267e94229a963f2fe976bc5667d79400fb82c05bbbed7d0cacc0b5697b8b.jpg",
+			"name": "Chubbins Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/983f4e37cbf98d65001339e93763dc9477a98642cae67dee4bafda841d7f2d0a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "85"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a016a3786f08e1e7037c23e349f18e5a3ba2740fff74fa10544d2b520533503a.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "85"
+				}
+			]
+		}
+	]
+}

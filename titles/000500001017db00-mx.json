@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001017DB00",
+	"eshop_id": "20010000012989",
+	"product_code": "WUP-N-WUPE",
+	"name": "Dolphin Up",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1317,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d73d5f81fe04ab68ca03304ebf961fc6a51496500c21cdb176fd951a42ef4bfd.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b3a0ec4d5b8b2de9b60e0c47b59f927428a8416a2f5205e113e6fba582539fa1.jpg",
+	"data_size": "165642400",
+	"description": "Swim and flip your dolphin to the moon and beyond! A fun, vibrant, 2-minute game with surprising depth, Dolphin Up lets you do amazing tricks with a porpoise. Successful flips, spins and tailslides build speed, allowing you to jump higher and soar into the stars. Perfect your landings and chain your tricks together to form huge combos, discover new possibilities and work your way up the leaderboards. A must-have classic. Features: Simple, addictive gameplay that anyone can enjoy. Vibrant environments that change with the time of day. Multiple characters and levels Online Leaderboards Miiverse Support Quick and easy Tutorial Freeswim mode that lets you play and practice for as long as you want.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-02-05",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/41731f5da9033a1c6dad8c69347ae23a92061bd199eb886685c6b93d64a62549.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0aaa8174523b03e39bdeb23e5d433a5df970ac5ec744f789a139f0158ac8d604.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bd3fca8961ad9e5198e215e0aaad6eb8fac94ca54e43513c082901add1771888.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/33fa6a0a6f13ce693822229e401fb0fa8365a0b58035fe664a48215a2cc95fd0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6b52414aed3dec79be8e88a36c4a919ea846d1cc564a8b4d925b2b73e6497993.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/75ac599055649775106a8b46437874dd84d7c831fbd745165adaa77bf185c244.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6e603746fa71e07cd8b8e5d59dbe89e1dfbe0421f1a5dcc4941f50d4b23084c0.jpg",
+			"name": "Avance para lanzamiento Dolphin Up",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/419652963c981961fb7abe309fbd878f5810af51c0b23e98be53c12b967c1b53.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "59"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4aa1a93a371aa5afc1e974910ec8e8a26dfff8fbfd6fdb6c7676492f35d3a9ab.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "59"
+				}
+			]
+		}
+	]
+}

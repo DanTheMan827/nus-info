@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101C0700",
+	"eshop_id": "20010000018787",
+	"product_code": "WUP-P-AN3P",
+	"name": "Nova-111",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1286,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/99db9c94aa6081aa47cd138558df1f5204a7d05bcff105dfc2123c90d0d63968.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3fc47cd9ff4358c027789232e5d8b27476e915577278cf71dc379f8c3b3dbc6a.jpg",
+	"data_size": "285769868",
+	"description": "Loods je schip langs mysterieuze planeten in dit originele sci-fi avontuur. Jouw missie: repareer de ruimtetijd en zoek de wetenschappers die vermist zijn geraakt na het grootste experiment van het universum. Alleen geholpen door je loyale (maar ietwat door broodjes geobsedeerde) gids moet jij de tijdelijke draaikolk zien te repareren! Los breinbrekende puzzels op en vecht tegen bizarre astrobiologische wezens in een verknipte omgeving waar een beurtgebaseerde wereld en een real-time wereld met elkaar in botsing komen. Naarmate je verder komt in drie aparte werelden, moet je jezelf verdedigen door nieuwe vaardigheden en upgrades te verzamelen, maar vergeet niet dat je grootste wapen de WETENSCHAP zelf is!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-09-24",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/772c884118ecfdea21c6be52e14e607a9e3dfacdae9de2937f35b82f6170ee17.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c7a437c47c67e799e2f2f1e104e214a4590140035f644ea489faab6b2ce06bb0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d8be8192637b3019a09d6a5259375abe9192b9232dc83de644bcad6d4ff5fedc.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/74abf350c897f6e8d85a37c5eb2daa6099cd33104df55b88a22dbe0ebb1ac594.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/303c4128aec5f1b9eb2d2df8601a273bd5fe599091608850fee3de5ab2aff9b5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8a52ae9aec5eebff2368787b3b513709f4f353be38542203b33f66ab08ad177f.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f3888015e636ff9207ceba2ea300aa7fdcde069f8b78d69c4ea02387505977f6.jpg",
+			"name": "Nova-111: Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/13bac806a3410f0af6115160c7dc155fcb2849e6fe684ddc002b18f9d3ae7829.mp4",
+					"width": "1920",
+					"height": "1080",
+					"dimension": "2d",
+					"play_time_sec": "64"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6c4157909d48ba13868326fe318d7e201a03cc5963c6b461ab6eeb8d01136048.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "64"
+				}
+			]
+		}
+	]
+}

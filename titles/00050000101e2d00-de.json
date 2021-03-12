@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101E2D00",
+	"eshop_id": "20010000021068",
+	"product_code": "WUP-P-BREP",
+	"name": "REPLAY : VHS is not dead",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1699,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b0c86eab9625f2b281299a6b49132b0a7699a95243218b2e8afb809e0860d098.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9b62538cd2815f5cb85e8431422d5a5387f7ef988f0d331c2e442dbf2cda7a07.jpg",
+	"data_size": "448037024",
+	"description": "REPLAY: VHS is not dead ist ein Plattformspiel, in dem du die Zeit auf brandneue Weise kontrollierst. Steuere bis zu 5 verschiedene Charaktere und synchronisiere ihre Aktionen, um jedes Level abzuschließen. Übernimm die Rolle eines Regisseurs und reise durch verschiedene lustige Filme in REPLAY: VHS IS NOT DEAD! Jedes Level ist voller Überraschungen und kniffliger Rätsel. Bist du bereit? Dann ... Ruhe auf dem Set ... Kamera .... Und Action! Einfaches Gameplay: In REPLAY: VHS IS NOT DEAD kannst du nicht verlieren. Dir gefällt eine Szene nicht? Schnitt! Klappe, die Zweite! Spieldauer: Über 70 Level in 4 verschiedenen Filmwelten, Medaillen, Kostüme, versteckte Schlüssel ... Retro-Look: Grafik im Stil der 80er und ein Soundtrack, der sich den großen Hollywood-Klassikern als würdig erweist.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-02-25",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/bd42aec2d09b29ed4ed1f7f303212dc52b3ab7f1db463d9102c9d3c0339495db.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/69bba169a95efa240628bf196baa79a2baf3794a4bbb086fdf7e283f827b6a7a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/20d18bc81f879843917193bac8cb38630b4327978b2143f557f1daaaa9582ae9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/187d7b521f4beeccb992b211caf6a6eca23bbf206c122e8cb0a327748995f9c8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f030a63d740d6d3a4f6743fbc6634fe68278c0d1ef985a83d7753fec68673f1a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/fff1825ae7bc7141ed3d58e9a43af5d4af34a8d8c48ffc4c539bdf9d050fa4f3.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f0f0798918812d1f5c32a63dc1f48453dfc4cec50b4d50006acf6eb9d266abbb.jpg",
+			"name": "REPLAY : VHS is not dead : Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9c5970992e0c51e7b7a11194538de57342f01ac03cca52b8db78bdb4b98c0913.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "87"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/33b00ff1f63e8aab020258c1452c11f7dfe3d5b69b3625b636318f0f0be46e81.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "87"
+				}
+			]
+		}
+	]
+}

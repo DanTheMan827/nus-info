@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010171D00",
+	"eshop_id": "20010000009666",
+	"product_code": "WUP-N-JCLP",
+	"name": "Nobunaga's Ambition",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 267,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/64db229a813aad02bacf8aa497683f9a429dc3ecc6278f02fd4a92ba17116440.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9a0f1ff45153f1d685d88213e904313ebf07d9cefc1a1914725ad3bf4a7bf040.jpg",
+	"data_size": "42827936",
+	"description": "Battle or diplomacy? Swords or sanctions? As the ruler of a warring state in the turbulent feudal period of Japanese history, your decisions will sway the course of a nation. Nobunaga's Ambition is a classic strategy game from the masters at Koei. Your ultimate goal is to unify Japan under your rule. Manage your economy, build up your army and expand your territories. Send spies to keep watch on your enemies, or dispatch ninjas to sow betrayal in rival forces. If all else fails, unleash war! This is the US version of the game.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-09-26",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/6ab0ace43b52397959f8a554e376bd5cf684928b937bf575b60061f1594ecd5a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/dd0e940e1f2b111564d60c1cdd7083bd453b0f316d208c22c00c4eccc97665e6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/72d423fdd384fab6012e4f1d0f729cd6f0876cd57fa0ea1c103af89fb8716f53.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c07c6b06db5ce402f184bb99703741752c93ab28ea5aab9ce4b61a0e8506c452.jpg",
+			"name": "Nobunaga's Ambition: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a02c430b2b3dd4b1170198ae4388686618e01c5db2d7fe62c3de1dae96c992cc.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "62"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/dc535a8422a1b563833bba2eafa7aea21f0a0b75988e0de5f19ff4aeb0ddb34a.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "62"
+				}
+			]
+		}
+	]
+}

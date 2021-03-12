@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000BB900",
+	"eshop_id": "50010000012594",
+	"product_code": "CTR-P-AYDJ",
+	"name": "アクリルパレット ～彩りカフェ･Cheers～",
+	"platform": 18,
+	"platform_device": "CTR",
+	"publisher": 1106,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/bbc723d2dc0eaf5ebe06d055fb9462f6afdd20522931dff598843b2f245e635c.jpg",
+	"data_size": null,
+	"description": "本作は架空のカフェを舞台とした、コミュニケーションゲームです。リアルで活動するアイドルたちがそのままゲーム中のキャラクターとして登場し、彼女たちとの会話や物語を楽しむことができます。 また、ミニゲームでポイントを獲得することにより、立体視機能で飛び出すグラビアやムービーを集めることもできます。 ",
+	"availability": {
+		"eshop": false,
+		"retail": true,
+		"dates": {
+			"eshop": null,
+			"retail": "2012-12-20"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7f720a3d63dd0793619f085e55990474f3e8ef32149bddabd238c8b1155d3d64.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4dcdcf0940cc7d1d4abec9dacd1a8abd007ca55e8737ae59a6a349c9be0d98ec.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/daccd38b06dd4b8165a3fb5d5921ad2a7fb3c3b8d1ae8f12faa80c04e795db5b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b2b4cb93c78d1037ce9a92db945cb458715366d3316fa07304dff2a8df6bdb2b.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e47bb4d15f7b1061a4d9f3d966988b0fd02a88c4d0f574a03bfb2dded4416bcc.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ce5e501da65d3aad06688bfb66ff806ea54a8f7df522b839be307bb0de000959.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4356396f5f810c4d449f27b1d2e6da5821a159da8be8f5745ca3057a32bdb106.jpg",
+			"name": "アクリルパレット ～彩りカフェ･Cheers～ TVCM",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0cb2ca637dc05580f6cac069e8cc00b67edba4b3ebb7330dfff2f63ac6f8b6cf.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2efa9bebd24899be925129140d6e19a53a364c5b712865a7c7db2f6294980439.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				}
+			]
+		}
+	]
+}

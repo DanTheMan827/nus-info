@@ -1,0 +1,85 @@
+{
+	"title_id": "000400000011ED00",
+	"eshop_id": "50010000021436",
+	"product_code": "CTR-N-JYJJ",
+	"name": "スノーモーターレーシング3D",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 1212,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4b3c5407a87ab9af25946151ddaf5471d07f49ce8e2025835fd1a897904a9189.jpg",
+	"data_size": "121588628",
+	"description": "『スノーモーターレーシング3D』は、全18のコースを舞台に雪上のレースを繰り広げる「スノーモービルレーシングゲーム」です。 少しの油断が命取りになる雪上の戦い! 一発逆転のターボブースト! さらに、最大6人参加可能な、ローカルプレイ対戦機能、ダウンロードプレイ対戦機能搭載! 寒い冬はコレでアツくなれ!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-04-30",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/14d73a1bc71023ed6395eb7d45a3736174018fa054c8662c6ec03b5a44b6b327.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/93115e342ef06690ddfb0f2f3fa06b9dd1a7353711017b2c6cf791fb7abea15b.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3ad05cf40d46c6d5ab9ec7a2590e315eb921e85228e39c955f65f0920b995907.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1219bbfecd908b366d96a2961b6556d94f697a98cc1c8f9d1ef34f3cea0a9dfe.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/452b23f06ef60f3c3c06d457861a569a98d89a11723b30e8ce14993521b0f485.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f25dadaf32c0f6a650460c8ba7f6771b83b75454e9a11b28fc4478ab6e29dff6.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0e5bd9d414a250277ffceff147ae24bf8675d5cbda16aea4850d3eb93d486567.jpg",
+			"name": "スノーモーターレーシング3D 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b10313e5420ecff58d931e67fc5eee08834fb9e03e51e1d64f97a38be5658994.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "129"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bf8751d4e6012f558d2ee8384948c3614203fee9c2c8b5508b218f4abf313744.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "129"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d90984c10507912ea8f33a951668a3f0449607392c2d6bea374d464e9d5bc8e4.jpg",
+			"name": "スノーモーターレーシング3D プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4f3f66c5ac848ba90b9260401d4dbecaef4badcec5f32b11d7b3cc6cb717ab94.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6ad186d8c72cdbf7f74041bd133b4885c46cc43e9bc67c8b85d02b77335e26ff.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				}
+			]
+		}
+	]
+}

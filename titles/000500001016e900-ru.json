@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001016E900",
+	"eshop_id": "20010000007187",
+	"product_code": "WUP-P-WGVP",
+	"name": "Gravity Badgers",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1270,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/23edbcd51312833fcc4d0d44c492af384ffc33711c4ca8fdb73b213b2440f42d.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/2f3976b6d5788b7181f42cee51a920046dd4957af4917476db9f0fc2cf5b19cd.jpg",
+	"data_size": "361562272",
+	"description": "Наденьте космический скафандр доблестного барсука-капитана T. Рыжеспинного, летящего в смертельно опасные дали глубокого космоса, чтобы спасти друзей, семью и весь мир от угрозы чудовищных злобных Медовых Барсуков, известных еще как Жутконорые. Первый раз за ВСЕ ВРЕМЯ в одной игре объединились такие захватывающие элементы, как барсуки и гравитация, чтобы совместно создать ошеломительный паззл, основанный на реальной физике, который уведет вас далеко за пределы границ возможностей, воображения и логики к усыпанному звездами царству Грави-Барсуков! Бросайтесь без оглядки в гравитационные поля планет, уклоняйтесь от астероидов и стойких смертельно опасных боссов в более чем сотне уровней, полных вакуумом приключений и опасностей, объединенных общим великолепных стилем, напоминающим все ваши любимые мультфильмы 80-х, и классическим рок-саундтреком! Игра откроет вам приключения с реальной физикой на 140 сложных уровнях, к которым всегда хочется вернуться. А если этого недостаточно – есть еще пять уровней с главными боссами, такими как Космический Червь и смертоносная Роковая Сфера, и пять игровых персонажей Грави-Барсуков, которых можно открыть по ходу игры. Прибавьте к этому великолепный саундтрек и отличную графику; все это делает Gravity Badgers качественной игрой, которая займет вас надолго.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-05-29",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/ac7fb0e6c668b78126b94bc33fc877d419c28e6900de60a169a301934e9660b6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ede1a8e76fdba40cf4b8d77fed2c09a136311b9f9a71075ad8a7bc839d39ac3c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/76fb64a912dd9479a923db732a5b4afa2d08ed4b7a014e9fb31f2ba45bbb98ed.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ec547784be146b59d5774826d13127563ec83c2d625ce279ce140b0d5d8febfc.jpg",
+			"name": "Gravity Badgers",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8e6ee14f18c1959ba57d5e162fcf8fc5c88aa1043e8010e042983f98c7980daa.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "62"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7bc7340b502a7ebb85fc7a31409b89c1365bda065e670c50d24d6dcc65f24601.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "62"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,109 @@
+{
+	"title_id": "000400000010C000",
+	"eshop_id": "50010000021213",
+	"product_code": "CTR-P-BALP",
+	"name": "Kirby™: Triple Deluxe",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b78a199ec4ec79a9f5556b28c33e829b06747f5086cb6f755e599b5a58b5e081.jpg",
+	"data_size": "631294868",
+	"description": "Déplacez-vous de gauche à droite et passez du premier plan à l'arrière-plan dans Kirby: Triple Deluxe, en exclusivité sur les consoles de la famille Nintendo 3DS ! Découvrez une profondeur inédite où Kirby peut aller et revenir de l'arrière-plan afin d'explorer des lieux nouveaux, résoudre des énigmes et esquiver des ennemis. Mais attention, vos ennemis vous attendent au tournant et peuvent vous attaquer depuis toutes les directions !",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2014-05-16",
+			"retail": "2014-05-16"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e4b7176a43e478230393c542da5a4daac36b2f62ee2027b553e1e32e730aa8d4.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9c44a3ca2c783a43fffe5c910f69b874f9656809f310a10f911e3341a53e3baf.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1a2943a1dc8ae07f25e6db708d0e133df1fa9dbe200d3cef1ae1f0c21cc4d605.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9dc575f099155546173f50d46e3333f63ce56b4167a8ec5f305ba9fe71703105.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c4320ab0bc37f43a80158d359d465898f862d86df21cfabcc8f0081352cd6ed8.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d6d4e5f4692fa5746a90ac4b2ec5f082ae5a6f019a38a142bf3c1c572a32f830.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1622aa4f1bd8026f254a1f99a82227ca1216e3a2ff662d0d307c1385ca2e1dfc.jpg",
+			"name": "Kirby™: Triple Deluxe : bande-annonce (13/02/2014)",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3aa7596ae7ffb93448353da8efb68c6e0f0bd012e2f87f7671f616c534cf74be.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "71"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3e0f00288f9463b6742e77c8123069c9dce4a2bb6d5f3b8084fa679c3016d27f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "71"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1622aa4f1bd8026f254a1f99a82227ca1216e3a2ff662d0d307c1385ca2e1dfc.jpg",
+			"name": "Kirby™: Triple Deluxe : Voici Kirby!",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/08cb9efcb74dbd756b63d021e9b02ed766565cc477a3156a4ec154bb4212b10a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "119"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9a9ce9d2f6500099578cd3c59604b063ef9a4e6fba81ed9b0dc13d91a9f2163e.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "119"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a48fdf3d4ede5acabee124a4b4832ec77ed37fb667643d4cc9d95be95fc38c5e.jpg",
+			"name": "Kirby sur Nintendo 3DS : bande-annonce",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2f2013a07aebf9ee39cba2f7d518d842eb50119a97eec336c30f8aac24099bbd.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ebfcf280d9b37188d0ca4f673c8a415210a3c1ebb523ae01ca5067b0f64e2eb1.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				}
+			]
+		}
+	]
+}

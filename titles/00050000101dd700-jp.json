@@ -1,0 +1,100 @@
+{
+	"title_id": "00050000101DD700",
+	"eshop_id": "20010000020191",
+	"product_code": "WUP-N-ARNJ",
+	"name": "Runbow",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1517,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6feaef39bba50e3559a970f44fe4c4effb70ed8c9b5fa13ccd582c02816ab36a.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7803d108e46314d9d8b2d562efc1f52ccaa5092921fad1021e8d3489ebf7c168.jpg",
+	"data_size": "774013108",
+	"description": "独特な色彩感覚を持つRunbowがついに日本上陸！ 背景の色が変わるとプレイヤーの運命も変わる、 最大9人で遊べるスピーディーなアクションパーティゲームです。 「見えないものは存在しない」がコンセプトの 斬新なアクションゲームをぜひお楽しみください。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-11-25",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/399bded4062db5fc931621b99505de898f3cb4f6b12716d6ecc718be5c1c82ff.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bfa9a960e7bc53ec023124fef678d333787f2f45944c982622e0e777c38c0a8a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8b7df734c6bf5eb7fa206af851b8b06459fcb542a0379903bb371e291cc8ba9c.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2882da5e73012bb47e4bf3aad06d56b8b7cc342f472b55698cc614bf02e91247.jpg",
+			"name": "Runbow 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b3f9e9f770a411cc2e3327df7a139a212078e804e4ed3d4a66d118cca98d5bfe.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "179"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/84f4ac09f996361998b630504e4135bb5009ee04e643bc0ece7e31793e35d87d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "179"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/90493a77605418ff0fbc7fe9499eab386dc04a6646c4696ef7f15a9f70dd2c21.jpg",
+			"name": "Runbow 紹介映像2",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8fb2f92321b21c58f2177f1e33917991f743e3b30a44199aa15b371decd379ca.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "88"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/804b9cb70911604155927938977dec8d6fd9a059fe0b3e96fdb508a2e27d9527.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "88"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a044d77de25f557a524b65ed2d9a130a2f29aec1a8f44b99f4c4a5ce350ef0a4.jpg",
+			"name": "Runbow 追加コンテンツ紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0638d4a509bb38735b5ed4e3b534fe023708970e9124d286046f576b7e98b054.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "134"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/30b75acbc2b67bad1a0379c1e2b6e9dc15503eb924d9877a3e3f9ca95aaaaa83.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "134"
+				}
+			]
+		}
+	]
+}

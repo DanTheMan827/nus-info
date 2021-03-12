@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000F702900",
+	"eshop_id": "50010000040922",
+	"product_code": "KTR-N-UAPJ",
+	"name": "超魔界村",
+	"platform": 1004,
+	"platform_device": "CTR",
+	"publisher": 39,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/af0470a35b20be499d133c82d27a864efc6420d264f14668e0b0e517ece8585a.jpg",
+	"data_size": "3869540",
+	"description": "このソフトは、1991年に発売されたスーパーファミコン用のアクションゲームです。 高い難易度にもかかわらず何度でも挑戦したくなるアクションゲーム『魔界村』シリーズ第3弾。主人公の騎士アーサーは、さらわれたプリンセスを救い出すために、多彩な武器や新アクションの二段ジャンプを駆使して、魔物たちに立ち向かいます。各ステージでは、変化する地形や画面の全てを覆う大津波など、恐ろしくも美しい魔界が表現されています。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-07-20",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ec427657b5ea9270750eb14299280059d5cc5ea078e8efea9fb3aeef07faca86.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0bd09167fd9c975b17b38f5f231ccdb9cc14e15c630726304817e6102617704c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/dd111b8211304d78faec7af39e5e8a5d8d3e5cb9c554b528f29283f6fd81c4f5.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2014e1bc3ff6dab38782e179bb155aabc45ba5fd72fd7cdccaca4d3cde9358ce.jpg",
+			"name": "超魔界村 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/645509b7f3eaf2ca16cf478326f6c2e40afed8087d9a8fb41b7e5e8b9047f656.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "83"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/47693cc815b99f4a7daeb37717f09c68a3eaa45a2000980a8c9e5b52d7372cc0.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "83"
+				}
+			]
+		}
+	]
+}

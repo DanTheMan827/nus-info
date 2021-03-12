@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010156A00",
+	"eshop_id": "20010000006366",
+	"product_code": "WUP-N-PABE",
+	"name": "Yoshi's Island™: Super Mario™ Advance 3",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c1c8ec3d90b6de9dd2c8967b664c9973becf6e3f179ec3abdc9fa4b31535232d.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8a81c67d5cbf8e4a4c8ea3ca90cce88a47ccbd22834643fd5b0c86951000e127.jpg",
+	"data_size": "88834168",
+	"description": "¡Yoshi™ está de regreso! Y está listo para dar un recorrido a través de un mundo lleno de color donde los enemigos están por todas partes. Prepárate para saltar y lanzar huevos mientras proteges al joven Mario™ del malvado magikoopa, Kamek. Para salvar el día, Yoshi y sus amigos tendrán que convertirse en vehículos e incluso comerse a sus enemigos para transformarlos en huevos. Mmmm… ¿delicioso? Juega como Yoshi, cargando al joven Mario a través de mundos coloridos enormes para regresarlo con sus padres en el Reino Champiñón. Los rufianes de Kamek te persiguen constantemente así que mantente alerta y ten cuidado con sus trampas. Lanza huevos, come enemigos, resuelve rompecabezas y transfórmate en vehículos alocados como un helicóptero, un submarino y un tanque topo. ¿Está Yoshi preparado para esta trascendental tarea? El destino de Yoshi, el de Mario y el futuro del Reino Champiñón están en tus manos. ¡Aplasta, revolotea y consigue la victoria!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-04-24",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/586fef95bf583f660b2aedf1a329a210f218368ddae3f2ea9153d97ddd765908.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/224aaaa4f6c407bf54dd8bc1f9100a1c4877abc333278440a5a26eca14502d1f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/beba906b54c8c7e06a0de8261fb0691ff8bd418f934c32b5e39cb88054708f44.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bc5d769acaf77e7efbe7a9a3706cdb740a2ceee04f4a81d6d79863da6fd51fe0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5ecc13f988c6c745e45c8b7f34703d2b004d1212106f998fbebe75adaa66a776.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/33f6064a0c185975a46ecb5f773ed99848df78b9140d2a6650115b3f5691d2ca.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3cc6ece073b1e3ee4f0e28bc3d9d14c620e5781c133251dd990e9379e17c8316.jpg",
+			"name": "Avance para lanzamiento Yoshi's Island™: Super Mario™ Advance 3",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0794bc47fe379178a050e5422811493376f0bbc62dea14f5fc65dc2b58d648c6.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "41"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e7f546b97087e0f7b4fcb7366710053f97052f5e83f24571e336ca9b14c76b56.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "41"
+				}
+			]
+		}
+	]
+}

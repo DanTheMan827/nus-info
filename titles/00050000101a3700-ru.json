@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101A3700",
+	"eshop_id": "20010000024408",
+	"product_code": "WUP-P-AY5P",
+	"name": "SteamWorld Heist",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 130,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d3881ed5186017aa43e3844256f723d766591366ceed09f7105664641a47f4fa.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/43fcc2272fdf4a158fb8cba7b7d38a6b21ab9ca2c095eaa9ae1ca55e5530849a.jpg",
+	"data_size": "250577036",
+	"description": "10/10 - US Gamer: \"Всем играть!\" 9/10 - Nintendo Life: \"\"Великолепно!\" 8.8/10 - IGN: \"SteamWorld Heist покорил мое сердце!\" От создателей SteamWorld Dig: В SteamWorld Heist вы командуете отрядом роботов в серии тактических схваток. Это пошаговая стратегия с изюминкой: можно вручную направлять оружие на соратников, получая безумные эффекты и рикошеты! Итак, вы капитан банды пиратов на паровой тяге. Ваша задача - брать на абордаж и грабить корабли противника. Преодолейте трудности пограничья и подарите соратникам уникальные навыки, оружие - и стильные шляпы! Основные характеристики Стратегия игры основана на умении, а не на удаче. Уровни генерируются процедурно. 15-20 часов игры от New Game+ Несложно для новичков, серьезный вызов ветеранам Саундтрек от Steam Powered Giraffe",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-09-30",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/44fef65267f034f9f671a9369bac73dabf1daf07276550b4bab03ee99e2f6b46.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9f736f8c185334756c42683fd7d81e788829f04bde32dc0a9c82f94f4319d499.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/494116dc13baba75006d0583cd7be32f7109546bd7d515dd7158c90f3064d89e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c3fd3dba1eb8a67aae4f97e892a4c61e15f5e9f9e9675c8c29d4b8027cb83315.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d70342cef23e574ae71ce5ebf6d371e01c58e24e99447daaa9eeae64c7e56d1c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/06548b7397325010e2741e2c56f7c25c89f0997985d02198755cbe64b8797d60.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fd1eb710eaed1578a8034a70babe27ec0c5d52b1331748a1941f20d2044a3478.jpg",
+			"name": "SteamWorld Heist: трейлер",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/68ff5503293abb44dc7774e7fe936f63383bde92431066fce8aedaaf0d80b3e6.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "86"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/241bc8f989746461583c93caee2f78dcfb2647ffa2397ce4954fed7e442dc65c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "86"
+				}
+			]
+		}
+	]
+}

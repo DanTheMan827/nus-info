@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001015DD00",
+	"eshop_id": "20010000005305",
+	"product_code": "WUP-N-PAHJ",
+	"name": "星のカービィ 鏡の大迷宮",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ac8b1d1d33dc7701f90550cc5b8e8516918ea56a8df5f940ee863a4a9600bc91.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/50fd1abb33f2f15716f14f61bc8ecfa3505853351373f883c72d755a505917ed.jpg",
+	"data_size": "90800248",
+	"description": "このソフトは、2004年に発売されたゲームボーイアドバンス用のアクションゲームです。 カービィおなじみのアクションである「吸い込み」や、「コピー能力」に加えて、「がんばり吸い込み」で大きな敵やブロックの吸い込みが可能に。鏡の大迷宮を冒険しながら「鏡のかけら」を集めて、平和を取り戻すことが目的です。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-04-03",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/8d75909baaa9632cdbc6d9a97d8c1be07abafce0e7a018187b83e90f64fe9129.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c1cd321264efdfbf59a0dcb84af952eef940d4701fedf1ddafda1008015d1d1a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/33b0e5b79b3fe03a836552743ff460f87f4d2b42f7c58b3f3245ac3dc49c4252.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b827175530f4d39f9b0b8671b443b9266784bb8a5f412bd2a9764cffcc966303.jpg",
+			"name": "星のカービィ 鏡の大迷宮 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6b6e3065c0ec80216aee8ac939a18ee8cf6c03641e3166c448ccff0f1e772695.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "43"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/35be1765a31ed6728e50004c0c1b9bd08b9d20d3a604b70a990837f5a9b4f218.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "43"
+				}
+			]
+		}
+	]
+}

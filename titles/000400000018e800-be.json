@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000018E800",
+	"eshop_id": "50010000040377",
+	"product_code": "CTR-N-KCAP",
+	"name": "BOXBOXBOY!™",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/aea15d178be163172849b565558de4648b7d216f7713f4048971c1293f3f8828.jpg",
+	"data_size": "95312740",
+	"description": "Dans cette nouvelle aventure, Qbby notre héros carré, dispose désormais d'un nouveau pouvoir qui lui permet de créer DEUX jeux de blocs. Il utilisera chaque bloc à sa disposition pour survivre des pièges périlleux qui l'attendent dans plus de 120 niveaux remplis de défis. Apprenez de nouvelles astuces et de nouvelles formations de blocs pour surmonter les obstacles comme des piques, des lasers et activer des interrupteurs ! Si vous avez eu la chance de jouer au premier jeu acclamé par la critique BOXBOY!, chaque costume gagné dans ce jeu peut être exporté vers BOXBOXBOY!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-06-30",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/26c4236b3e02e426de7212abfb181b89d42f259dfe40342ecf8e717bcb4ed45d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/56361666ec021c267af4534065ffb8f8c9406d8811f884ec93bdacebb7781143.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e701a344293ddb19a8386557d3575f27c956f8a7f0d389ba1a1118805d0767d1.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c65178701846de4bf7a25a60de0a2b320a7b31f8fdd5f91a0962c536dfe23a7b.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/10bc852efad2adc3b6453a88bc125eab5eff6c38e083d62881cfcc477bb66019.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d9cc6d804ebb3465a85e958da71a6d9fff3772afcef489dd1bb1c7f6db771262.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/488ab66af124dc2ce5d8a0a9b9b657e13600d05d0567bea4bbb209ce0ea5c758.jpg",
+			"name": "BOXBOXBOY ! : bande-annonce",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f029d5a7af1edfe5ae74af6da2d2ae655bb028bf09dba7de4b1d51eeb3c0cc9c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "83"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4efbd9c1838228d831da69ea9d7c3747be08ebe2ca00fe6d82d8b29ed00d6a5f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "83"
+				}
+			]
+		}
+	]
+}

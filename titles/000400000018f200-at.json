@@ -1,0 +1,109 @@
+{
+	"title_id": "000400000018F200",
+	"eshop_id": "50010000041963",
+	"product_code": "CTR-P-BQ8P",
+	"name": "Dragon Quest® VIII: Die Reise des verwunschenen Königs",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/62bfb903a0ace05ec9144dfbe48e27551de2a20968de7e88f64f6f63012776bb.jpg",
+	"data_size": "3199757156",
+	"description": "Als der Hofnarr Dhoulmagus auf Schloss Trodain auftaucht, beginnt der ganze Schlamassel: Der schurkische Possenreißer stiehlt das Zepter des Königs und missbraucht dessen magische Kräfte, um den Herrscher in einen Troll, seine Prinzessin in ein Pferd und alle Schlossbewohner in Pflanzen zu verwandeln. Nur ein einziger Wächter entgeht dem Fluch. An ihm liegt es nun, das Königreich zu retten, dem er die Treue geschworen hat.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2017-01-20",
+			"retail": "2017-01-20"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/9682a2c6a69bbef3582411e1375b93010030c12c2d41fde64cc160d5005edee8.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8302d0d9af0228c13bc87ea16c3f7fb16a1c96949ea6700e75ccbda0450b7d48.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d9f47ef42be5ca5eb15e572ce6bc3a88c466e1cfddab4660e3e027b0f19afa66.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/78f012f3dd1c29f4ef91efa4bb531ccd773d31c3c6fa0e2e343d257ccbea157f.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/27b55b5aaa198a7076044bf341e46f7b9fa1a276315172528783f2deb683f585.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0eb1b9bb3edc2ad901096dbd1961aba1910712c8c55d7adba0bd43e181ff6dd3.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3a798e63e78e1c1f9255d026842c2acecfbd1d23be21f9fd5650edf04e019428.jpg",
+			"name": "Dragon Quest VIII: Trailer zum Verkaufsstart",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/69a073c799d30999c206900233f1a3d41775e0100da93bd31bb8bbba215dd408.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "155"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4ba2ce399d5a38725e8b81094bdf0373f33ea587c2175332ec9e9a463cb12626.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "155"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3a798e63e78e1c1f9255d026842c2acecfbd1d23be21f9fd5650edf04e019428.jpg",
+			"name": "Dragon Quest VIII: Trailer zur Spielgeschichte",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fa4e96faae57f4e3e7c01ba2e61ef5a3a5f3e2e5f554595de9377ac73addb96b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "155"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/10609e67f30d2f296845056587fd32b41df79525cf5bc68dc63252d1fe51c0f3.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "155"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3a798e63e78e1c1f9255d026842c2acecfbd1d23be21f9fd5650edf04e019428.jpg",
+			"name": "Dragon Quest VIII: Neuen Funktionen",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c381d64e6efb867d5f56b4d42da4a08e6be469168eb5e4e30ad5a0075fba40a7.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "138"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b33121c90c8c3f27d454c83be4687549d80e86b85225f85b8654a2dfc65a19bf.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "138"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010135C00",
+	"eshop_id": "20010000002964",
+	"product_code": "WUP-N-JBGJ",
+	"name": "スーパーファミコンウォーズ",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e0386d9e4205f21c7c1073aa7c9521459a5a3178d082f4591560bce6bf70d31a.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/33f331840c019ffdf3496cb43d9199c230d0dead518a81110b55db7130dcc637.jpg",
+	"data_size": "41877644",
+	"description": "このソフトは、1998年にスーパーファミコンのカセット書き換えシステム「ニンテンドウパワー」より発売された戦略シミュレーションゲームです。 プレイヤーは部隊を率いる将軍となって、敵軍と戦いながら自軍の占領地を増やし、目的地の占拠や敵の殲滅といった勝利条件の達成を目指します。便利な能力を持ちながらも鉄道の上しか進めない「列車砲」や、ほとんど誰にも攻撃されずに海中を進める「潜水艦」など、多彩な特徴を持つ部隊をどのように活用するか、プレイヤーの戦略が試されます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-10-02",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/e898b5ef7064e2ea8543b7df59cc874d3c2b188d41d3f9dac47f8be9f6843562.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7700cbabdd19fe99ac61a04674c487deb9a767cd7e6a2f0fa4c75ceda7fe77b4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/50353f727559ec73af64845401c77503b8ec71f16a68455428b806f554dbdf4a.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/78abbdbd30fd1eacce8b591a9dde7ed3e69b43064f2f1adf54f38a14b6ade553.jpg",
+			"name": "スーパーファミコンウォーズ プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/01cd484e47bc7d66b4b80288ec86aa5e4600104f59d1689285f669b428257a2f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "47"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/282c179a3ee50f00dacc0066ac9c5afff9684ef3f61c338f66840924f887117b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "47"
+				}
+			]
+		}
+	]
+}

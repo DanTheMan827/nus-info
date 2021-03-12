@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001016B700",
+		"eshop_id": "20010000005930",
+		"product_code": "WUP-N-FCZJ",
+		"name": "パックランド",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 27,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c5bb9e4cec002c64030ec4acc18b3c420eec34679bdbab878c054e23ac989ed7.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d40be93388add3f6995d3bf32dbd18dd5c52e4f0b6e5bed2922c51fa1ea6f945.jpg",
+		"data_size": "38699168",
+		"description": "このソフトは、1985年に発売されたファミリーコンピュータ用のアクションゲームです。 迷子の妖精を送り届けるため、パックマンはフェアリーの国へ旅立ちます。操作は「ジャンプ」「左移動」「右移動」の3つで、ジャンプの制御やダッシュ、急停止も可能です。モンスターにぶつかるとミスになりますが、「パワークッキー」を食べると効果時間中だけモンスターを倒せるようになります。モンスターの妨害をかわしながら、隠されたさまざまな不思議を見つけてください。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-06-11",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/3acc1a7593e8eec12a335fbac291a1e1958aa3d6369e7a80151e2aa3d3fedd0b.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/8ee78823f272b42427ebdb68b2a0a3162a47ea1d84187a2a68b9c213de8d7c47.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/59f0f463807dc9c56ca8d03dc4aa8bcd9c66deebca57a4ded372b08fa6224c37.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ccbf5b58a03ab6203155d294f1f8f2c8393ad5467c59df7c78f3e4f19d9e46a0.jpg",
+				"name": "パックランド プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9f95a0561c0e3801473cf5e4236f3d9d013128d5ddaea64a81d562a68483adf1.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "45"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/33c35bbc59f057c3f5eba00e2dd4bd6ec9dd50b1abcf5315549f18b9b5cdad69.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "45"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000F707900",
+	"eshop_id": "50010000042394",
+	"product_code": "KTR-N-UBPJ",
+	"name": "ロマンシング サ・ガ2",
+	"platform": 1004,
+	"platform_device": "CTR",
+	"publisher": 246,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5bfbed78b5aea5d6e004a5b6ac8ab8505185c3dfb7a82190fb094b54190bba33.jpg",
+	"data_size": "5581668",
+	"description": "このソフトは、1993年に発売されたスーパーファミコン用のロールプレイングゲームです。 長きにわたる七英雄との戦いに決着をつけるべく、プレイヤーはバレンヌ帝国の歴代皇帝となって世代を超えた戦いに赴きます。 前作同様にプレイヤーの自由度が高く、どこに向かうかなどの行動はもちろん、パーティーの編成や次の皇帝に誰を指名するかなども自由に決めることができます。出会える人物に変化があったり、覚えた術が受け継がれたりなど、前皇帝時に発生したイベントが次皇帝に影響するため、世代の繋がりを意識して行動することが攻略のポイントです。戦闘中に武器や体術を使用すると新しい技が「閃く」システムは、本作から登場しました。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-08-23",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0d3a6993563182765b721319168f8eae11f21eb57de75665f4da8502d0aa9d26.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c1fbe2877cfd8a25149117ced1f6e1454b386852079fa9180f6eec850e86fcca.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/dea7d5fd02dcd8103bf71f691050eeb5f66566c76987441fb581f1c26ec5fe23.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/87c89fac6df6578b982bd829edda7414851319f3ff926280d0965102c2dc8688.jpg",
+			"name": "ロマンシング サ・ガ2 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e38a00c40d0537e1e06049b6dd360e9983a5ffcd0f482776cb7305577681be55.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "66"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/906022271323c398a37e3ef22bf638f0ab9cb8af4af3f0a896b58050b2022e53.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "66"
+				}
+			]
+		}
+	]
+}

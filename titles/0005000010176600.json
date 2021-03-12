@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010176600",
+		"eshop_id": "20010000022367",
+		"product_code": "WUP-N-WG8J",
+		"name": "グレートレース",
+		"platform": 124,
+		"platform_device": "WUP",
+		"publisher": 29,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/501bb3186598c7e541d28884b7809c7a9fcb08510f84ef153ea0f7eec60987db.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/10c7f978bbf867a60c401245d7b6eb797f7d8e557fe0feaaeed3ffd5afe81abb.jpg",
+		"data_size": "393609376",
+		"description": "レトロ感覚で大人には懐かしく子供には新鮮な、楽しいシンプルレースを目指して行き着いたのは、レースゲームには珍しい、1950年代の国際レースの雰囲気。 現代のF１のようなハイテク競争とは違う、ハラハラドキドキな、古き良き時代をレースゲームとして再現します。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-06-01",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/a491c5f1d720f07af3230da977ef74044a1ea4a0844214f7aa3de1c0dda19db2.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/c69b211fffa46f5121eada8f6668f4f5cfce1fdd2b3ce0287e9af3ffd0e51384.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/ba71461f0c21c268da590c54c34930228c2f208f3b2882d2aae732d5ccfd5b42.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/72051e330e4cf420ef8657d7fb1b9cd4e83d826945e3c40e577cd8db00a3ce19.jpg",
+				"name": "グレートレース 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d2e208647bddc55492067f19ab800c8001aecc2789864466d59748c4d6c4d812.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "85"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6a73db788296c19c7fedf62903b82ee4fa7f5fba0d6cfad4e6a8560535301f08.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "85"
+					}
+				]
+			}
+		]
+	}
+}

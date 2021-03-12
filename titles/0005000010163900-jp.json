@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010163900",
+	"eshop_id": "20010000012167",
+	"product_code": "WUP-N-PPDJ",
+	"name": "最後の忍道 ",
+	"platform": 166,
+	"platform_device": "WUP",
+	"publisher": 136,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8140cf3130a48ef876e36c1a8ea4144f478381e49b824c530c49f5aa3daf3654.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/834bfe148561eeccaa2d30910b4636a892916c7740ad7d4797e857e959c5118e.jpg",
+	"data_size": "83755148",
+	"description": "高いゲーム性と精密なグラフィックが多くのファンを唸らせた、幕末を舞台に繰り広げられるサイドビューアクションゲームです。 プレイヤーは抜け忍「月影」として、父の仇討ちと自分の出生の秘密を探るため、敵忍者たちとの激しい戦いに身を投じていきます。 オリジナルの「ARCADE MODE」とライフ制になった「PC-ENGINE MODE」の2つのモードが選択でき、縦横無尽に飛びかう敵忍者たちとの戦いに「刀」「手裏剣」「爆弾」「鎖鎌」の4種類の武器を駆使して挑みます。 アイテムを取ることで個別にパワーアップする武器を局面に応じて瞬時に切り替えることが、全7ステージ攻略のカギ。 落下する天井やあらゆる箇所から出現する敵などに対し、分身の術や多彩な攻撃で切り抜けながら進むことで、忍者アクションの醍醐味を味わうことができるでしょう。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-01-14",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/107865ec6dca74b58e85d86acc2ba407793de3c47e68663e64d3f3275e5d004f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/18f0b466ebc0734165d12b685bd83619b70c12504d0ed9ca8be8790761ad0d88.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5a4991eda9b2f6c5684d85c5a4a72bb88df6d660dfd84f9563d045004c5b2a20.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/759cf54d852eae2b0620bcf297bbb7da8b353a2ce6d04140c2ed2188880afbfd.jpg",
+			"name": "最後の忍道 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5491c1f8e8223e8244f3eaf679a2979c6c1c7eaf7128491aef5783312aa20e08.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "42"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/16af684d3a487b3384bf5d9f7ceba289e3d4d4396adf114500b2d4628177bfda.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "42"
+				}
+			]
+		}
+	]
+}

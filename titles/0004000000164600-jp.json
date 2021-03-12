@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000164600",
+	"eshop_id": "50010000032056",
+	"product_code": "CTR-N-KCFA",
+	"name": "みんなのポケモンスクランブル",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 210,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/aec76d0178e985389ba0e96622c3ecf46672b87a2c9f2f3f069dbabfb168f103.jpg",
+	"data_size": "108231524",
+	"description": "『ポケモンスクランブル』シリーズは、おもちゃのポケモンを直感的に操作するアクションゲームです。最新作の『みんなのポケモンスクランブル』は、無料で気軽にはじめることができるゲームで、メガシンカポケモンやゲンシグラードン･ゲンシカイオーガはもちろん、『ポケットモンスター オメガルビー･アルファサファイア』までに登場した719種類すべてのポケモンを集めることができる、ボリューム満点の内容となっています。 舞台は、おもちゃの王国。プレイヤーは気球を使って、いろいろなエリアへと冒険に行くことができます。気球の種類によって行けるエリアが決まっていて、ポケダイヤと呼ばれるアイテムを使って新たな気球を手に入れることで冒険できるエリアが広がり、エリアごとに違ったポケモンを集めることができます。ポケダイヤは、気球を手に入れる以外にも、ゲームを進める手助けをしてくれるアイテムで、ステージクリアやすれちがい通信などで無料で手に入れることができるほか、冒険の拠点、城下町にあるショップから、ニンテンドーeショップを通じて購入することもできます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-04-08",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8be2f82187aa985bca8646c49a97fccd93336b7db45eb1c885a78abd5e6d3767.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4ee0344c731e5d49f64093953e5d50e07e3071ecd682cc2bb0c7a1c6d8a1e8c2.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/45ad5f258e202e08099fef7f3b5299310f5977f5f3e04c6a860670b7c4553155.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/75d49b863e4754b9da8d2271f26502e3bf0342ba07780a3e925166c4624922b6.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/23c354cdbc94f7ad7fa20109d470572f6166686c35f329da6f6a82329a3fa908.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/01736bf67bcbccf0ee49cac3c1fc92cf38b952f417f94bc7d963cd7498e55865.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cd1a942517c093fea2e8117c5a7df060c8bf933e6a9e976cc13b3dccf215eeb8.jpg",
+			"name": "みんなのポケモンスクランブル パッケージ版 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/10ac1c08c9e9329c55cf5bda0847cda51f2e7ce8b77a5f14c03f4e7e05f84faf.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "128"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/74ef75fcdd34c51b2ecaa099a28ef5b34bb8125b637f4a90f4dca39f76d5017a.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "128"
+				}
+			]
+		}
+	]
+}

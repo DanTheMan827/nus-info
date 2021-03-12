@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010115000",
+	"eshop_id": "20010000002504",
+	"product_code": "WUP-N-JAME",
+	"name": "Street Fighter™ II: The World Warrior",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 41,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/aab796f16624b36e401e7bb859a8f48d1f6fe65171abff0e6f61875a06a38a3f.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/911fb5706d153382114fbd87d00fdc5165c2f9096eebe20a1c313718655c7ed5.jpg",
+	"data_size": "41812108",
+	"description": "Street Fighter™ II defined gaming in the 1990s by revolutionizing the fighting game genre. Street Fighter™ II: The World Warrior was the first release of the original Street Fighter II series, featuring the original eight world warriors. Each of the characters has their own fighting skills, speed, special moves, and unique ending to make for a truly unique fighting game experience. Choose your own character and become a hero in Street Fighter universe.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-08-22",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/b35b220a5a1b1cf0f0abe90f8799869dd48389cf7fb988f6862d5c4fdf02e696.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7d182dac091f32ddb7dd81310745c3ad48dc00438ad2fbc64b9171b172e06a60.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6cbd2f57f36ea013bc20741fc991c0de827a08b59c10932060199dca47b4a931.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6d193db7b2fa514863be84837fd3d08e0400aa91ad4b66f72a15837b5adfcb9c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d6aff34839b701ac40714ec3afd9725eded2221f033c289d660830bfaec72777.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0857bad0472b6afbf86eaf7b885fde7cff76abe3c4a8333449253687549c35b6.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/087febbb893fed10af9daf1dc533edf9c65099348ad9d5cc8dfd7cf930fd4978.jpg",
+			"name": "Street Fighter™ II: The World Warrior Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/73bee2d17ed3a781260e97203ac837869ebe22e799250a1c258d3043e5e358aa.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "48"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/38aaa4a914b694216a63d460f62d060e1f24fcafb3fc549583782bdae7c445b8.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "48"
+				}
+			]
+		}
+	]
+}

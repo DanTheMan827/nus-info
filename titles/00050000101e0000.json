@@ -1,0 +1,78 @@
+{
+	"JP": {
+		"title_id": "00050000101E0000",
+		"eshop_id": "20010000020173",
+		"product_code": "WUP-N-AFSJ",
+		"name": "U-EXPLORE SPACE ADVENTURES ",
+		"platform": 124,
+		"platform_device": "WUP",
+		"publisher": 1292,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fd3608feaf39706b5d84ed2d5ef2dad4973fdcae01f9a7fc84682cf1aceab730.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b0cfa3be3b95402ef6b5e2b918cd25ac838a6846eed7eea66792de3bcc2712dd.jpg",
+		"data_size": "1152876784",
+		"description": "「宇宙探検」は安全で、美しく、魅力的な神秘の世界が約束されたはずでした。ところが、宇宙船が不時着。そこにはさまざまな危険がプレイヤーを待ち受けます。既存のゲームにはない新しい方法でGamePadを使い、宇宙船の各装置を選択、調整し、慎重に惑星の探検を進めていく、スリル満点のアクションADVゲーム。 闇の中で惑星探検を進めます。GamePadの画面を機内操作画面として、スキャナー、反重力装置、着陸装置、安定装置、照明弾、減速装置等を調整できます。 惑星の遺物をスキャンすると、検知される音、熱、電気を確認できます。また、宇宙船装置を調整することで、音、熱、電気の出力メーターが変わります。 遺物に検出されるレベル以下に装置を調整すると、無事に先に進むことができます。 いかに遺物に検知されずに探検を進められるかが、ポイントのステルス系ADVゲームです。GamePadの画面上の装置をフルに使い、惑星から脱出しましょう。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-11-18",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/485a8abbcdadd192fc5ceffaa3a984efd663d901afe655aea7efa02f1e77c14f.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/2d181f576cc0d3e99bb668ec5c50967e3233a7f333855b30b1a8103e93c6f800.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/30927303e6d06be5208f0307e5cc3436bda06c4ea666423e04f1fb9afa506d5f.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3e117f74ec004347d3bbf84751d7de9e4fe06ff00f9bb562996729811fdfa933.jpg",
+				"name": "U-EXPLORE SPACE ADVENTURES 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/69a151f590ee7c136a83eb7a206dab94e43823db57161e14af6b8c609d40ab1b.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "179"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/43f8a9c86e1122f62ef8ae12d958db1b29f5be691777a8fa22318e28c7c35f44.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "179"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c99b6cda5934418b6a07bc2a69300bd56c21290374484543cacd796b911b278e.jpg",
+				"name": "U-EXPLORE SPACE ADVENTURES オリジンストーリー 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/074a276edde27c0911c653d06ae52eb6a65dbce020a492e29c43ec874f59e1a1.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "84"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/da3af3d156da7740ef193a887ba62caad7e554bb1f9de31098d0ff4be8578788.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "84"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,53 @@
+{
+	"title_id": "0005000010198D00",
+	"eshop_id": "20010000015327",
+	"product_code": "WUP-N-DAFP",
+	"name": "Big Brain Academy™",
+	"platform": 169,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a40e7444dc1206dcc2ae4a597c394ef564839983d0c4b65f800a0dd6b261d092.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8f56a673d2cf8ddb7130163be4ac127f403a45897bd9871ebd0779c7f08a1cb8.jpg",
+	"data_size": "46563448",
+	"description": "Usa a tua massa cinzenta e descobre quem tem o \"maior\" cérebro! Big Brain Academy inclui cinco divertidas categorias de jogo, cada uma criada para testar uma capacidade diferente: Raciocínio, Memória, Análise, Cálculo e Observação. Completa os testes para receberes a classificação do \"peso do teu cérebro\". Depois, continua a exercitar a tua mente no modo de prática para melhorares as áreas em que tens mais dificuldades. Podes verificar qual o tipo de profissão que mais se adequa ao teu cérebro e até descobrir se te equiparas a uma personagem histórica famosa!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-06-04",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/7fd97ada3157ffc5fffa60f371e58803900589ac3e89eb2bf845632a0c4d9d92.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d4f9025d11dbdcec8a2d75ce51aac79e713821044d944d805188d474419e681c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/243882138488dd425924e9883145b2ef160a45a2567442d57581c2cede26f1b3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5454dd17aec210f958961584119eb58609cc79a1422c35e0bb8a2ff78af492eb.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ae2bc0333f324ad52bc07da88337ba239c5cfee07e614a861747b5f1367b1bde.jpg",
+			"name": "Big Brain Academy™: Vídeo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c27ab4b6419e7f2fad413e385d42d8dd49687b895e6ca68d3bf2fb15da632019.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/742360f389eb7f25f14c3f4455c830599b131d753af5a145f87f0459e4ab1f33.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				}
+			]
+		}
+	]
+}

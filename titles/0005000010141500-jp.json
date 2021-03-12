@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010141500",
+	"eshop_id": "20010000002771",
+	"product_code": "WUP-N-JBSJ",
+	"name": "真･女神転生if...",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 25,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/04fe695fb83944d7dc9c20b23c84359e5e898f2545bc77682fb499dbc61b8976.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/2454fbaaca7c8a2f21b64e0c578675a9d71a8cb2388fcdbf1b5d829ac0d312b2.jpg",
+	"data_size": "41910412",
+	"description": "このソフトは、1994年に発売されたスーパーファミコン用のロールプレイングゲームです。 突然魔界に飲み込まれた学校の生徒である主人公は、魔界から脱出するために、さまざまな世界を冒険します。序盤の進めかたによって、「ユミ」「レイコ」「チャーリー」のうちの誰かがパートナーになり、物語が大きく変化します。倒れた際に悪魔が現れ復活する「ガーディアンシステム」が搭載されているのも本作ならでは。敵を仲魔としてともに戦わせたり、仲魔どうしを合体させて別の仲魔を作ったりといった、シリーズおなじみの要素も健在です。 ",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-10-16",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/685ee1b1d6524805393f5c8083323eaa2c54d9ef0bb29cf2f10ce0ab5f4c9a93.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7210ee2d1b6c407477482264812a1d7f9cf27aa7c6f57dafff27289926c24c8a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/849be9d085c98a61110cc97ae97bc878df2dee89f387a57828a0c1a1ccc4cf5b.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f7bef7638cba3e9e385772974bd71ce71d9f4333f7b45f19467e5f85334790da.jpg",
+			"name": "真・女神転生if... プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0a48f6928911706655c5ac81ea53c2c0a05b6f840cab6f007285ab42e5c24843.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1da1803fbecda04aac67e35d4e542b650eb2cb81ebdb18dbdb3bf7619dc406b7.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				}
+			]
+		}
+	]
+}

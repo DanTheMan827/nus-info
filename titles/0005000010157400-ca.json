@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010157400",
+	"eshop_id": "20010000006046",
+	"product_code": "WUP-N-PAEE",
+	"name": "Mario & Luigi™: Superstar Saga",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cbffd795ffd2613f14fb31e44f485bafcf2ed3fb397e97b28662ec416dc38955.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9195c2bb8962e0bd7ccec75d92b1442bdff0cca05d6683b07f95e5d5d73ce9f3.jpg",
+	"data_size": "93028472",
+	"description": "Prepare for an epic journey beyond the borders of the Mushroom Kingdom as Mario™ and Luigi™ team up for a hilarious, action-filled adventure! During a normal day of royal duties, Princess Peach meets with the ambassador of the neighboring Beanbean Kingdom. However, an act of amnesty turns into an act of theft! The evil Cackletta and her awful assistant, Fawful, disguised themselves for the chance to steal Princess Peach's voice. Before the Mushroom Kingdom can fall under Princess Peach's despair, Mario and Luigi will need to work together as they cross the border to the lands of Beanbean Kingdom. Take a break from the adventure and play a quick game in Mario Bros. mode, featuring an enhanced version of the original NES game. With all this awesome action, you'll have hours of fun!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-04-03",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/30f2b0e68cc02004629bc2df5255a35891035f7c9da23fc0a05cd539cd29f516.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/51e1ea75419c092c0db0c05a3230d626f1aa3cef2de8d24c650c3c3e7dc43ec8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f6b3c0262d160ae780ff4f6c98dadf34204395de07060bb7b597f925a59c2d15.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/49fdc1d5c6cc8d033e6e0e780200ec83aca34dcaac0bdee0f6877a60af13094d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/beadf02879d28718a29acb6d550c4c784b230704a92b219e888ce41b2f4260d0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bb7053d3e9b975e0659f9e5275d1d206b8d34f879538b242fc1c1cd54fb5ec57.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ed19c62532979da10740c4f868b6bd251bd8cce8bb705010366e36ac9d6d5905.jpg",
+			"name": "Mario & Luigi™: Superstar Saga Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/09593c046005c7f1dcd2914733107cbd57d38698d94d438fe471d075815ba830.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "41"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5a5cb8dc117bcd28e194a381efb692b734ffaf15f3b6fdad7bc8acffb21ca938.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "41"
+				}
+			]
+		}
+	]
+}

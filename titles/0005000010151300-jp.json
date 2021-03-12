@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010151300",
+	"eshop_id": "20010000003924",
+	"product_code": "WUP-N-FB3J",
+	"name": "悪魔城ドラキュラ ",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/306b841930a10834d2f1faa289ee595692abf215df1131dfe42eab65b6e46917.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/98b23507817fea1b9d1f69a20e55e32583bfea2c4a3baafcbbe0fe6fd3a1b70e.jpg",
+	"data_size": "36569228",
+	"description": "このソフトは、1986年に発売されたファミリーコンピュータ･ディスクシステム用のアクションゲームです。 『悪魔城ドラキュラ』シリーズの第1作。英雄の血を受け継ぐ青年シモンは、不思議な力を秘めたムチとさまざまなアイテムを駆使して、多数の罠が仕掛けられたドラキュラ城の最上階をめざします。フランケンシュタインや吸血コウモリなどの怪物たちと、重厚かつ荘厳なBGMが恐怖を演出します。 ",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-12-04",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/de4288914f9e296f467f12a66dc131a4487f6f7f1728eeee6a2deb9bacd82ccd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a842b3a44857b69bd49ea69febcd3cd4eab9c12e91525bdc37501b00a387e48a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e7536f3946c968a589a4a801a3554b97d3b825d9ed858a9ce6a4b69e5f67c2b9.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/370dd1b76e8863113dcc1ad32a935fdaa5ed3af15e395d17de3e9692c919f319.jpg",
+			"name": "悪魔城ドラキュラ プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2bf121d9e74ec2eaeeabfb271e1938a3fa00f3fcb0e9b8c149626eb28d78deb7.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/006e6fcc4af4179005d7168e5104d602776a42f6f6a7be6fb3ebf44ddf204b05.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				}
+			]
+		}
+	]
+}

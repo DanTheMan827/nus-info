@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000F700200",
+	"eshop_id": "50010000031095",
+	"product_code": "KTR-P-CAFP",
+	"name": "Xenoblade Chronicles 3D",
+	"platform": 1002,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8063fa91dde615346214027fb3caf3254c0042a50245167b84108884506d48b0.jpg",
+	"data_size": "3945581412",
+	"description": "Эта игра доступна только на английском, французском, итальянском, немецком и испанском языках. В огромном мире, который простирается так далеко, что взглядом его не охватить, вас ждут сражения со злом в масштабной ролевой игре Xenoblade Chronicles 3D. Гулкий звон скрестившихся клинков объявил о внезапном появлении Биониса и Мехониса в этом мире. Два титана сражались уже целую вечность. Когда пыль осела, взору предстали их неподвижные тела. Огромное тело Биониса превратилось в убежище для развитой цивилизации, известной как Хомс. Однако жизни на Бионисе не суждено было процветать вечно. Однажды орда механических существ, возродившихся из тела Мехониса, обрушилась на жителей Биониса. Единственная надежда расы Хомс — легендарный меч Монадо, подарок самого титана. К сожалению, чтобы владеть этим мечом, надо заплатить слишком высокую цену... Посетите amiibo.nintendo.eu для получения информации о совместимых amiibo™ и прочей актуальной информации.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2015-04-02",
+			"retail": "2015-04-02"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2c958726fa222d931eab0a8a77d1069e4cfd3f56752d2590329428ac181c0885.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/da30e8df308d4508717fab873e0c1d6581a307b31adcc86d179b7060460ddeeb.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d4edb0d2871c44136a6da5dcd38dc472c0d73e6a243b6ffbd93f2fd097479a2b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/80626b8fa44a1994620989a97a5f4b023cf5373f9f089021973135f2e4ee16d6.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/39fda8750663545a823bcfc5965415a7a5cef72d4131060d03425aea2996317a.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/700a1a848da657657da962291c0400153739a76484cd78c13177fa78707b2c6c.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6f5f5dc9f3cdcf9697af30640b97cefe667b7fbce0009f38a380d886c935c799.jpg",
+			"name": "Xenoblade Chronicles 3D: трейлер к выходу игры",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/50db3d8646c57f3ae2ad952a4469d7b181456d231b4981b925a5ba2c5a3e051a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "218"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/76be3088374a8847ad96f6cca8780401ef042f0a07541e054071374b8e58f73b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "218"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010150400",
+		"eshop_id": "20010000003404",
+		"product_code": "WUP-N-FBUJ",
+		"name": "アイスホッケー ",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/befbaf4fc3a26fd29ba6916f1d380a9e93d2e72932dd9c36b2a138e5456b2fdc.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f1d036ee75fee61ba3423727b1aceae7c6b573ef4f08e65a581579a0330ea32e.jpg",
+		"data_size": "36503692",
+		"description": "このソフトは、1988年に発売されたファミリーコンピュータ･ディスクシステム用のスポーツゲームです。 アイスホッケーはリンク上で両チームがパックを奪い合うスポーツで、パックををうまく相手のゴールに入れると得点になり、3ピリオド終了時に得点の多いチームが勝利します。 攻撃時はパスを駆使しタイミングを見計らってシュートを狙い、守備時は操作するプレイヤーを切り替え変えながら、アタックや守備固めでパックを奪い返す機会をうかがいます。 リンク上の攻防がどんどん切り替わる面白さを再現しています。2人プレイ時は、それぞれにチームに分かれて対戦を楽しめます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-12-11",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/a7728cf0ec780b047d1d3620517ef8fdba65baae7c30c1236cd20b9edda8c952.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/c243b4ea693388374b3f6040c9f6eaaa6ca1114ec60924ffb82cf9899249ffac.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/c4c8ad7d9e0a656d055fe0502124e78edca6a6e3fea03cf030423496089b7a65.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4330712e49e2c69e2af674ab3f00b20a890f1940d1d6fb90ed132e948bb33957.jpg",
+				"name": "アイスホッケー プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a418d91bbac01bb213f0ed2a80b9ecb26eedfbbcb157c8862e74f559b46b6a07.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "47"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8c6977a3e129fd484b8a8adff9e8aef3a6428b8711397256a092446702b70042.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "47"
+					}
+				]
+			}
+		]
+	}
+}

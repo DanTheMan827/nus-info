@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010160100",
+	"eshop_id": "20010000009586",
+	"product_code": "WUP-N-JCDP",
+	"name": "Castlevania Dracula X",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/28d54f37763e2b35b6be70c26504c551e311cf78a777d3c6f30ab76547255854.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4e570617ecfc878126d7eeb4df637e4ec25687ac88acfd983ea00890b8ade415.jpg",
+	"data_size": "41517196",
+	"description": "Dracula ist erneut auferstanden, hat seine dunklen Diener um sich geschart und die Freundin von Richter Belmont entführt, um den Helden in seinen Untergang zu locken. Als Richter, Nachkomme des ursprünglichen Vampirjägers Simon Belmont, greifst du zur legendären Peitsche und nimmst den Kampf gegen die Bewohner von Draculas Schloss auf. Verwende mächtige Waffen und mystische Power-Ups, entdecke geheime Bonuslevel und stell dich in sieben Leveln der höllischen Action. Mach der Familie Belmont alle Ehre und verwandele Dracula in ein Häufchen Staub! Hierbei handelt es sich um die US-Version des Spiels.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-11-13",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/b3f0d63e5b474909fd76ddc65d6cc3ae65db8a9436d0aadba373d1244d72a798.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5b872ea57040a3ea8410466c0b47992f4d522f0ba89e01ba3317ee5274e66223.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0f065d5ab3bbc76da9ed1e715b3e5a0edff5ca43c51fad1d7ce1d29c0a71576d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bbfb370b0cc3fc1032e84911a691f7690c0603a3a408488505c2565c5b918496.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d7644b82ac852fc705939a7c44ca2404cf5db40ca817e5a880aa6d5573fb3ac1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/cba07ea447ab625d59017fd1c73bde2810582b75f157ae8514dc1d62537820ba.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8d0d325018787e81558e1154f45b3260abae9a0ddf0dc91c5479586e5f822f04.jpg",
+			"name": "Castlevania Dracula X: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c5065a10ff7009421b15f4408367b889f4afaa238aae1fef82858a86c50b5cf6.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "64"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f6821631298cc2359cc0e4c8525449c970e61c5bd8864dd4de7be4b243e2e497.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "64"
+				}
+			]
+		}
+	]
+}

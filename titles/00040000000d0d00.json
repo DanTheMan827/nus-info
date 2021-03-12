@@ -1,0 +1,78 @@
+{
+	"JP": {
+		"title_id": "00040000000D0D00",
+		"eshop_id": "50010000013374",
+		"product_code": "CTR-N-JKEJ",
+		"name": "怪獣が出る金曜日",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 456,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4602d1839f8a63473ecfef9687417d877fac39b2f3636543f3eda691cb89146a.jpg",
+		"data_size": "186592100",
+		"description": "主人公とその家族が暮らすのは、毎週金曜日に巨大怪獣が出現する東京郊外の町。人々は普通に生活して、駅には数分おきに新宿行きの私鉄電車がやってくる。 「怪獣は本当のことなのに、なぜ脚本家がいるんだろ……」 主人公の小さな疑問から物語は大きくうねり始めます。 カード収集、美少女、昭和、自警団ヒーロー、そしてサイレント映画時代の子供の忍術遊びまで、幅広いモチーフを取り込んだ本作は、懐かしいほのぼのタッチのゲーム制作に定評があるクリエイター･綾部和(ミレニアムキッチン)による完全新作! アコースティックな手触りにこだわった坂本英城(ノイジークローク)の音楽や、主題歌『ボクは子ども』にもご注目ください。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-03-13",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bd4582fe8e8e76aca6a15b599f0ccff9ea5e32af589d44214ba156de8813eb80.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d27d66df3fef5acd24e6ffd95bb7d5865bccd299d150ae5635f6c2cd1834238a.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bc54ebc8210844bbfbb8ffa776f60f868481c8ec12331b804baaeb4369630b73.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/557cd8992a711c0ab9f11207c32a349172a9c767cf9acb4cb454323dc4046089.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1f3cf4b7baf5c63f17d21de7975c36aa7a77a1e07e663deb3d7899f1f68c8912.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/17e7b910892f6ff4f0ca3230051a4821373a776f3b57c28c3627e1262e3be73e.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7d04802039f6672d53b7e4f47dcea3e4298d8e33f1180e54094b86d3b038609f.jpg",
+				"name": "怪獣が出る金曜日 クリエイターインタビュー映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1ffba9e2c8df640ac1300b9b8e42148bde62110ec3abf7d7d1036f34269293e5.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "107"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/de9c7f8f1b7495c7ae200d7e14780f4910a9af8a72b4327285d16eb8a8d32bf6.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "107"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/09ddb4817321e04e8637092cca979759785569658461ca40dea4107a58b71e7c.jpg",
+				"name": "怪獣が出る金曜日 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3193a40298a84a1cb13135b82281eb1c2bd9664a998e04f5c05de90da5f5701e.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "58"
+					}
+				]
+			}
+		]
+	}
+}

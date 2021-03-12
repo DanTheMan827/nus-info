@@ -1,0 +1,53 @@
+{
+	"title_id": "0005000010211000",
+	"eshop_id": "20010000026270",
+	"product_code": "WUP-P-BGJE",
+	"name": "COQUI THE GAME",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1828,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d4cf0ba1c33e2d69a6016e4f96a130c7ba7371cfda2e164024a7ba0f0e90e642.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7e7dff8fd2f9f89d286c21f8c04ab845cd70d12b89749df3aa64c591258d22b6.jpg",
+	"data_size": "123764896",
+	"description": "'Coqui The Game' is an action adventure platform video game with 47+ levels of fun, including an over world map, bonus levels, sky levels, under water levels, save features and daring bosses.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-06-01",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/ee8fdac8e004a4af9cbb493a2c41f7c3e0968435d2949ce9852ce0ee3894a289.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/00e2ea775bbd9adff776ac47b2e6d6b7297f7ec52128559a4d0db0c9ceb90d69.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c3aa335e72e8f69ac0aceff837e914dca001764d2d6cb9e5943438b55321c207.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8ef34996cc39925add738f30f19964f3e6a7aa58690150eb7dd91af8e79e18af.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8780f759251055b4a1f5a23d03c1d8615d1723de056a9c517251f0fdac1b6d11.jpg",
+			"name": "'Coqui The Game Trailer' Created by AR Team One.",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/717c88a4937d495687214425acf852cfc82359c4ad7b42ac9397ecf45555a5b5.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "81"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f01e566b6104683cdcac9eaa40d6b3ceba11a777117e46600024a976d051838f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "80"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000120100",
+	"eshop_id": "50010000020779",
+	"product_code": "CTR-N-JF8J",
+	"name": "3D ファンタジーゾーン オパオパブラザーズ",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 231,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/2e0047ac92056581a1fee26af2163acfa2c6d75e775682add718405392210fb4.jpg",
+	"data_size": "12200804",
+	"description": "人気を博したファンタジーシューティングが、追加要素を加えて登場! 主人公オパオパは、倒した敵からコインを集め、ショップで武器やエンジンを買ってパワーアップします。新要素である、オパオパの弟「ウパウパ」モードでは、すべての武器は予算が続く限りいつでも使用･変更可能です。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-03-19",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/055aded6d03274bac9086f95fcc84979cc450447ea9f4d5e0eb5bf2d5e049eba.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2d259c180235a2bc9c7f778919500bc0de83493923c4a29056b1e898e0b18aa3.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d4c4dcdff6286213abaf9a694841632f75827e54d88d577813766fdd4c41a7fe.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b6813bd0b416eda4a7d6a3dcd2073a8fae656efbe0bc06672497df2f629b037a.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bd00aff50d461aff1d9553929ce7e71773ca12aaf3ca19e478fd0f5b222b6af5.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/90622604241bd91861e7710b930edae69bfcff8d21716ed6646a79f58a32f446.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/802cbccfb855bcfb0769c939683c84f579db2b62c435db97b2d2b8d46252f065.jpg",
+			"name": "3D ファンタジーゾーン オパオパブラザーズ プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5d85539978f389e0fb84bf9f65fcd44319f6bdc9ce2649ec491c833d6a258f4d.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fb08aed8d6790fa4e308735b63686cda4c3e42edc52f96fc167cf1f354fa0aad.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				}
+			]
+		}
+	]
+}

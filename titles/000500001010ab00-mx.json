@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001010AB00",
+	"eshop_id": "20010000000030",
+	"product_code": "WUP-N-ABTE",
+	"name": "Batman: Arkham City Armored Edition",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 1004,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/51bdde6bd349aa6ca00d280ee81290df4d7170acdfeb120fe0452549f77806cc.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/da34c95c39ed8ae212f5658f691124336a958b6dcba3f972551911e5e3858c4d.jpg",
+	"data_size": "19847710432",
+	"description": "Desarrollado por WB Games Montreal, Batman: Arkham City Armored Edition es la versión mejorada del exitoso videojuego galardonado, Batman Arkham City, creado por Rocksteady Studios. La version en Wii U™ ofrece la misma historia impactante, y un juego como el original, pero esta vez con una mejora en las mecánicas del juego y en las características especiales hechas para Wii U™ y para el GamePad de Wii U™. Batman: Arkham City está basado en la licencia de Batman Core de DC Comics y la historia se desarrolla en Arkham City, el nuevo “hogar” de máxima seguridad para todos los matones, gángsters y dementes criminales de Gotham City. Con una increíble galería de los criminales más peligrosos de Gotham City como Gatúbela, Joker,El Acertijo, 2 Caras, Harley Quinn, El Pingüino, Mr. Freeze y muchos más, el juego permite a los jugadores experimentar realmente lo que se siente ser El Caballero de la Noche impartiendo justicia en las calles de Gotham City.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2012-12-13",
+			"retail": "2012-11-18"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/26621816ae2b4edda0bcb46e188e273a35ad04eb4c7ca144c8ef9904c6871ea3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c5eaedfc1da2171e2a4182e847dc8c7f1d694fb21019470eaf867f12482e0141.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/303dd0df10e569990456d1d1c9b59f92cae30ad067ed976500809d34ced8fbc8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d77cc9fcbc3f96ec22c9f0a3267a478f531dd213ed8355b0d53e7a001e4ded62.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d51a9d8e3550a46b708882240bc718e102e890e53e387638799b894c5c47f362.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e1b46191fd6d0e1004011b26888ec9a24fa3635df15fd8047608a725424ea770.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cd183d92def1e54e3a2bd747384dff0c8320aff3a25f5ed143d0801bfadb16b3.jpg",
+			"name": "Batman: Arkham City Armored Edition Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fa8b7dba37737de99b2a513e0842034e87a678b2b997843c2fde09a43b161cdc.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "250"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/84a0dc0512f3b5af19cf3528e324a3e91a70b9b97adbec8a9bb0d01cbe94d503.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "250"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101D0A00",
+	"eshop_id": "20010000021008",
+	"product_code": "WUP-N-PDGP",
+	"name": "Pokémon™ Donjon Mystère : Equipe de Secours Rouge",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6a5b58cabba7d403c560ad8e9b176898255631210c7facaed2a821e0bca49089.jpg",
+	"data_size": "96043148",
+	"description": "Vous en avez attrapé, entraîné et affronté, mais aujourd'hui, il est temps de découvrir ce que ça fait d'être dans la peau d'un Pokémon ! Dans Pokémon Donjon Mystère : Equipe de Secours Rouge, vous vous réveillez dans un monde entièrement peuplé de Pokémon et vous vous apercevez que vous en êtes devenu un ! Vous ne savez pas comment reprendre forme humaine ni de quelle façon vous avez atterri là ! Mais il y a peut-être une raison à tout cela. Vous comprenez désormais la langue des Pokémon et apprenez qu'une série de catastrophes naturelles menace leur communauté. Vous deviendrez alors vite ami avec un autre Pokémon et formerez une Equipe de Secours pour aider les Pokémon en danger. Vous serez envoyé en mission pour sauver des Pokémon pris au piège dans des donjons dangereux, générés de façon aléatoire (vous ne jouez donc jamais deux fois dans le même donjon) et vous affronterez des Pokémon sauvages en utilisant un système de combat au tour par tour.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-02-11",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/373e3b000d30e9b1ccb1d84c09aeb6606d18eec6729bd41791cffeba0f3d051e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/88aabdc4fc670ff3c424365adf1d9df5c3403701fe038ec712cd5edb28fcb94c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/64e9899e91a71033892e061713855111595aa1ab6d6f5df4d8815a5ed12e37b2.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b733bc69f79d24834913042e49da972d6f98cc97722c1b724434825764902690.jpg",
+			"name": "Pokémon™ Donjon Mystère : Equipe de Secours Rouge : vidéo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3067494e9d99faa04c0787145d5b962371477a70182eabd13118b901079a86bc.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cad2ac972d960e92cdf5c33ac38fae17d1c0638515fbdab3bf9a12f955e6f8f3.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				}
+			]
+		}
+	]
+}

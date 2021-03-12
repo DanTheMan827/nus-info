@@ -1,0 +1,3313 @@
+{
+	"AT": {
+		"title_id": "0004000000113100",
+		"eshop_id": "50010000025115",
+		"product_code": "CTR-P-AFLP",
+		"name": "Fantasy Life™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e65dc8087d922a04f1086f4e0e16e8aee109ccb5ea210047c323e7596be89994.jpg",
+		"data_size": "898079588",
+		"description": "Du erlebst das Abenteuer deiner Träume und verbringst dein Leben mit dem Herstellen von Dingen, Fischen, Graben, Kämpfen und Erkunden. Dank des innovativen Lebenssystems haben deine Entscheidungen nicht nur Einfluss auf die Entwicklung deiner Charaktere, sondern auch auf den Verlauf deines Abenteuers. Du erkundest eine weitläufige Fantasielandschaft und begegnest griesgrämigen Paladinen, durchtriebenen Piratenkapitänen, eleganten Prinzessinnen und anderen Protagonisten, die das Unbekannte ebenso reizvoll finden wie du. Du kannst jederzeit eine der 12 Lebensklassen annehmen, um auf verschiedenste Fähigkeiten zuzugreifen. Beispielsweise bietet die Kämpfer-Klasse tapfere Recken, während sich die Handwerker-Klasse dadurch auszeichnet, stärkere Waffen und Werkzeuge herstellen zu können. Falls du keine Lust auf Kämpfe hast, kannst du in die Sammler-Klasse wechseln und einige Zeit als Holzfäller oder Fischer verbringen. Ganz allein du bestimmst, wie du spielst! Eine offene Spielwelt wartet darauf, von dir erkundet zu werden.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-09-26",
+				"retail": "2014-09-26"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/185d9b25b9c5fb31aae0af316a1bafeb4f6b2ae42eb9955b893cd3a80267ec5b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/39bd55085e27294896670bd6c4dfe495808209ee116d0a7836074fa10a6241b7.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d19eb78fc46dec5bb9e892ca931a343921d0adc6ea63afe5016aef81612f11b7.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2905a03867cd8d18f255af7de169b7577e743e5535483816f845595ae0ec35e4.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/87e7f200b8c6b0b273c410eaa0edf10e407767f32c04c62ae988f22723c273d4.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c834aa02e712916f2ac7f3b14281499f26b949bcbdbad4143783147f6c28c502.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cd238d3540300165757ee35592ea982aaeec6631077eb5cd036cbd6341cac769.jpg",
+				"name": "Fantasy Life: Wer willst du heute sein?",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8ba479be1c797dc4b1f9ee61fd5d957b2dae2c6210f9e4b0518c7bd31be86d1d.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "181"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2ae395b815f44b7469277c5d22581daea10ecb61da86b557668f08246db39e77.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "181"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Opening Movie",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bdbdebd93865e58e712fb63681b5f8dee6fa67c84670ee5abf15e70a78211315.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "170"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/40166da756f9ce3e78ae98a95485faae30c239153fb5c1a5ed1a2a2f451c7126.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "170"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Übersichtstrailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9d2618035f6c9909bce914c231764b43efd676e0cfdf232287382e7d07ee4201.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "178"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/433f16d583d8dce88a4c70fcf4196b8529427463249f0b744137bd8be7846fd3.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "178"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Leben in Reveria",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3aff407934ac224c4061616763babe5f704f84290921583fa8ae34522001a7f2.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "209"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7f35804d7a5170853f5ae2f4cdcfcc39dbbf2ceada7fdce671f15c31bcd37071.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "209"
+					}
+				]
+			}
+		]
+	},
+	"AU": {
+		"title_id": "0004000000113100",
+		"eshop_id": "50010000025115",
+		"product_code": "CTR-P-AFLP",
+		"name": "Fantasy Life™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e65dc8087d922a04f1086f4e0e16e8aee109ccb5ea210047c323e7596be89994.jpg",
+		"data_size": "898079588",
+		"description": "Embark on the adventure of your dream life as you craft, cast, fish, mine, battle and explore like never before! With the innovative Life system, your choices don’t just upgrade characters – they help shape your journey! Explore a huge fantasy landscape beside surly, dark paladins, slick pirate captains, regal princesses, and others who share your taste for the unknown. Change to one of 12 Life classes at virtually any time to access different abilities: for instance, the combat class has fierce fighters, while the crafter class is skilled at making stronger weapons and tools. If you’re not in the mood for battle, switch to a gatherer class and spend some time as a lumberjack or a fisherman – it's your adventure to play your way! Robust open world with distinct areas to explore",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-09-27",
+				"retail": "2014-09-26"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bbf581189b7b2854fe97337415221a591a11262c3f0aab7ba9f973d641c1d34e.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/15b71112f26a85be9312df4ead804b97e4c930bc93b5903cad0120bc2f4603bf.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2daece19699976552f034b93092b5db89dd6d630f277532d7773c55f9d45b422.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5b3730ea36c71c81cee8551977130a5ece43a0102d1bf387f86c55fcf12fb0d4.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/dbb69f75b3d5001f92823ecf3d7e2110d3890788c3a460a0211544efb51c49ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e91680a854f92105282f62e1ae33b094caed64fe48ffcd5ecfc98207618f7c80.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Opening Movie",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0c62ed5d28a22594bc5ef3342e59cb3f650a6ef8244e2fdd96f9e51cf734caab.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "170"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6c2545e6c9af4b1425a9f4e67482f3fb08e07c746363d93ffcbfecc2b5a12821.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "170"
+					}
+				]
+			}
+		]
+	},
+	"BG": {
+		"title_id": "0004000000113100",
+		"eshop_id": "50010000025115",
+		"product_code": "CTR-P-AFLP",
+		"name": "Fantasy Life™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e65dc8087d922a04f1086f4e0e16e8aee109ccb5ea210047c323e7596be89994.jpg",
+		"data_size": "898079588",
+		"description": "Embark on the adventure of your dream life as you craft, cast, fish, mine, battle and explore like never before! With the innovative Life system, your choices don’t just upgrade characters – they help shape your journey! Explore a huge fantasy landscape beside surly, dark paladins, slick pirate captains, regal princesses, and others who share your taste for the unknown. Change to one of 12 Life classes at virtually any time to access different abilities: for instance, the combat class has fierce fighters, while the crafter class is skilled at making stronger weapons and tools. If you’re not in the mood for battle, switch to a gatherer class and spend some time as a lumberjack or a fisherman – it's your adventure to play your way! Robust open world with distinct areas to explore",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-09-26",
+				"retail": "2014-09-26"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bbf581189b7b2854fe97337415221a591a11262c3f0aab7ba9f973d641c1d34e.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/15b71112f26a85be9312df4ead804b97e4c930bc93b5903cad0120bc2f4603bf.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2daece19699976552f034b93092b5db89dd6d630f277532d7773c55f9d45b422.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5b3730ea36c71c81cee8551977130a5ece43a0102d1bf387f86c55fcf12fb0d4.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/dbb69f75b3d5001f92823ecf3d7e2110d3890788c3a460a0211544efb51c49ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e91680a854f92105282f62e1ae33b094caed64fe48ffcd5ecfc98207618f7c80.jpg"
+			}
+		],
+		"movies": []
+	},
+	"BE": {
+		"title_id": "0004000000113100",
+		"eshop_id": "50010000025115",
+		"product_code": "CTR-P-AFLP",
+		"name": "Fantasy Life™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e65dc8087d922a04f1086f4e0e16e8aee109ccb5ea210047c323e7596be89994.jpg",
+		"data_size": "898079588",
+		"description": "Embarquez pour l'aventure et vivez la vie de vos rêves ! Créez des objets, utilisez la magie, pêchez, battez-vous et explorez comme jamais auparavant. Avec le système de vie (Life) innovant, vos choix n'améliorent pas seulement vos personnages : ils façonnent votre aventure ! Explorez un vaste environnement fantastique aux côtés de sombres et revêches paladins, de rusés capitaines pirates, de princesses royales et bien d'autres qui partagent votre goût pour l'inconnu. Faites votre choix parmi 12 catégories de personnages pour accéder à différentes capacités : par exemple la catégorie des combattants propose de féroces guerriers, alors que la catégorie des artisans permet de créer de puissantes armes et de précieux outils. Et si vous n'avez pas envie de vous battre, sélectionnez la catégorie des cueilleurs et prenez du temps dans la peau d'un bûcheron ou d'un pêcheur. C'est votre aventure, jouez-la comme vous voulez ! Découvrez un monde ouvert et explorez différentes zones.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-09-26",
+				"retail": "2014-09-26"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6fae61c801b9f6cd26d3848fb215c14f2d7843aa45e9508d9c727019da932e84.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a87f3c4cc76f5709cfe40299548cd3deba6d99b043b8dea6707c6404eb45677b.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ffc8b4df8e3ff556ab0f4192ab140f81900b179ba4c1ea3a8c6fdd9ed4f15dfc.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/72ac62df0d657806c3ccf2fe050c71e67c3b810ffee67b6d2625f8722e6aff40.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2a709a27c33df8d6c25e5e7db2cf8f9085f1b83364f5f77e9d4deae2512a4158.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a66b40eb93ea35c5f030fcd3a0aaf07f101cfa775813b2f9e38c7105613b6250.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cd238d3540300165757ee35592ea982aaeec6631077eb5cd036cbd6341cac769.jpg",
+				"name": "Fantasy Life : Le nouvel RPG de Level 5",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9db5ba72c6e340d28029e06f5fd111f884ac816ee27923f632de2ecbce98230d.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "181"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e09385215ddd50ccff025e1ed8605a05fbec14eb411c81d2ec67aec621fb86dd.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "181"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life : Cinématique d'ouverture",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/124b06b6244b115a0897c4ab47d959a776ec412ba4e25bf505ecb95ba56a42b4.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "170"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/88e09d70135552d3cdd5501d7f0c481079c98badfb84007925bdd89d282b7111.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "170"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life : aperçu vidéo",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2c96f4cbe75e1b11f159b9aab99513551914c097eb766e9500cb151e355ec03a.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "178"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2f105f2029810b8df8cdfdcce6aa4105d54fddd718f635e1d207668a2f601e3c.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "178"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Vivez la vie pleinement à Rêveria ",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b9607147db8c16804a7249a891fa0a376ae2c3a150b8194e2c00dc1ec41c33e3.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "209"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1e05edadfa85f0836a75af02a83f6ce3d5891f5189e5e4e48e4c8a528cb39768.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "209"
+					}
+				]
+			}
+		]
+	},
+	"CH": {
+		"title_id": "0004000000113100",
+		"eshop_id": "50010000025115",
+		"product_code": "CTR-P-AFLP",
+		"name": "Fantasy Life™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e65dc8087d922a04f1086f4e0e16e8aee109ccb5ea210047c323e7596be89994.jpg",
+		"data_size": "898079588",
+		"description": "Du erlebst das Abenteuer deiner Träume und verbringst dein Leben mit dem Herstellen von Dingen, Fischen, Graben, Kämpfen und Erkunden. Dank des innovativen Lebenssystems haben deine Entscheidungen nicht nur Einfluss auf die Entwicklung deiner Charaktere, sondern auch auf den Verlauf deines Abenteuers. Du erkundest eine weitläufige Fantasielandschaft und begegnest griesgrämigen Paladinen, durchtriebenen Piratenkapitänen, eleganten Prinzessinnen und anderen Protagonisten, die das Unbekannte ebenso reizvoll finden wie du. Du kannst jederzeit eine der 12 Lebensklassen annehmen, um auf verschiedenste Fähigkeiten zuzugreifen. Beispielsweise bietet die Kämpfer-Klasse tapfere Recken, während sich die Handwerker-Klasse dadurch auszeichnet, stärkere Waffen und Werkzeuge herstellen zu können. Falls du keine Lust auf Kämpfe hast, kannst du in die Sammler-Klasse wechseln und einige Zeit als Holzfäller oder Fischer verbringen. Ganz allein du bestimmst, wie du spielst! Eine offene Spielwelt wartet darauf, von dir erkundet zu werden.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-09-26",
+				"retail": "2014-09-26"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/185d9b25b9c5fb31aae0af316a1bafeb4f6b2ae42eb9955b893cd3a80267ec5b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/39bd55085e27294896670bd6c4dfe495808209ee116d0a7836074fa10a6241b7.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d19eb78fc46dec5bb9e892ca931a343921d0adc6ea63afe5016aef81612f11b7.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2905a03867cd8d18f255af7de169b7577e743e5535483816f845595ae0ec35e4.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/87e7f200b8c6b0b273c410eaa0edf10e407767f32c04c62ae988f22723c273d4.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c834aa02e712916f2ac7f3b14281499f26b949bcbdbad4143783147f6c28c502.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cd238d3540300165757ee35592ea982aaeec6631077eb5cd036cbd6341cac769.jpg",
+				"name": "Fantasy Life: Wer willst du heute sein?",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8ba479be1c797dc4b1f9ee61fd5d957b2dae2c6210f9e4b0518c7bd31be86d1d.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "181"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2ae395b815f44b7469277c5d22581daea10ecb61da86b557668f08246db39e77.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "181"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Opening Movie",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bdbdebd93865e58e712fb63681b5f8dee6fa67c84670ee5abf15e70a78211315.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "170"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/40166da756f9ce3e78ae98a95485faae30c239153fb5c1a5ed1a2a2f451c7126.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "170"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Übersichtstrailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9d2618035f6c9909bce914c231764b43efd676e0cfdf232287382e7d07ee4201.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "178"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/433f16d583d8dce88a4c70fcf4196b8529427463249f0b744137bd8be7846fd3.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "178"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Leben in Reveria",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3aff407934ac224c4061616763babe5f704f84290921583fa8ae34522001a7f2.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "209"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7f35804d7a5170853f5ae2f4cdcfcc39dbbf2ceada7fdce671f15c31bcd37071.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "209"
+					}
+				]
+			}
+		]
+	},
+	"CY": {
+		"title_id": "0004000000113100",
+		"eshop_id": "50010000025115",
+		"product_code": "CTR-P-AFLP",
+		"name": "Fantasy Life™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e65dc8087d922a04f1086f4e0e16e8aee109ccb5ea210047c323e7596be89994.jpg",
+		"data_size": "898079588",
+		"description": "Embark on the adventure of your dream life as you craft, cast, fish, mine, battle and explore like never before! With the innovative Life system, your choices don’t just upgrade characters – they help shape your journey! Explore a huge fantasy landscape beside surly, dark paladins, slick pirate captains, regal princesses, and others who share your taste for the unknown. Change to one of 12 Life classes at virtually any time to access different abilities: for instance, the combat class has fierce fighters, while the crafter class is skilled at making stronger weapons and tools. If you’re not in the mood for battle, switch to a gatherer class and spend some time as a lumberjack or a fisherman – it's your adventure to play your way! Robust open world with distinct areas to explore",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-09-26",
+				"retail": "2014-09-26"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bbf581189b7b2854fe97337415221a591a11262c3f0aab7ba9f973d641c1d34e.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/15b71112f26a85be9312df4ead804b97e4c930bc93b5903cad0120bc2f4603bf.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2daece19699976552f034b93092b5db89dd6d630f277532d7773c55f9d45b422.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5b3730ea36c71c81cee8551977130a5ece43a0102d1bf387f86c55fcf12fb0d4.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/dbb69f75b3d5001f92823ecf3d7e2110d3890788c3a460a0211544efb51c49ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e91680a854f92105282f62e1ae33b094caed64fe48ffcd5ecfc98207618f7c80.jpg"
+			}
+		],
+		"movies": []
+	},
+	"DE": {
+		"title_id": "0004000000113100",
+		"eshop_id": "50010000025115",
+		"product_code": "CTR-P-AFLP",
+		"name": "Fantasy Life™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e65dc8087d922a04f1086f4e0e16e8aee109ccb5ea210047c323e7596be89994.jpg",
+		"data_size": "898079588",
+		"description": "Du erlebst das Abenteuer deiner Träume und verbringst dein Leben mit dem Herstellen von Dingen, Fischen, Graben, Kämpfen und Erkunden. Dank des innovativen Lebenssystems haben deine Entscheidungen nicht nur Einfluss auf die Entwicklung deiner Charaktere, sondern auch auf den Verlauf deines Abenteuers. Du erkundest eine weitläufige Fantasielandschaft und begegnest griesgrämigen Paladinen, durchtriebenen Piratenkapitänen, eleganten Prinzessinnen und anderen Protagonisten, die das Unbekannte ebenso reizvoll finden wie du. Du kannst jederzeit eine der 12 Lebensklassen annehmen, um auf verschiedenste Fähigkeiten zuzugreifen. Beispielsweise bietet die Kämpfer-Klasse tapfere Recken, während sich die Handwerker-Klasse dadurch auszeichnet, stärkere Waffen und Werkzeuge herstellen zu können. Falls du keine Lust auf Kämpfe hast, kannst du in die Sammler-Klasse wechseln und einige Zeit als Holzfäller oder Fischer verbringen. Ganz allein du bestimmst, wie du spielst! Eine offene Spielwelt wartet darauf, von dir erkundet zu werden.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-09-26",
+				"retail": "2014-09-26"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/185d9b25b9c5fb31aae0af316a1bafeb4f6b2ae42eb9955b893cd3a80267ec5b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/39bd55085e27294896670bd6c4dfe495808209ee116d0a7836074fa10a6241b7.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d19eb78fc46dec5bb9e892ca931a343921d0adc6ea63afe5016aef81612f11b7.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2905a03867cd8d18f255af7de169b7577e743e5535483816f845595ae0ec35e4.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/87e7f200b8c6b0b273c410eaa0edf10e407767f32c04c62ae988f22723c273d4.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c834aa02e712916f2ac7f3b14281499f26b949bcbdbad4143783147f6c28c502.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cd238d3540300165757ee35592ea982aaeec6631077eb5cd036cbd6341cac769.jpg",
+				"name": "Fantasy Life: Wer willst du heute sein?",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8ba479be1c797dc4b1f9ee61fd5d957b2dae2c6210f9e4b0518c7bd31be86d1d.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "181"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2ae395b815f44b7469277c5d22581daea10ecb61da86b557668f08246db39e77.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "181"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Opening Movie",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bdbdebd93865e58e712fb63681b5f8dee6fa67c84670ee5abf15e70a78211315.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "170"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/40166da756f9ce3e78ae98a95485faae30c239153fb5c1a5ed1a2a2f451c7126.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "170"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Übersichtstrailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9d2618035f6c9909bce914c231764b43efd676e0cfdf232287382e7d07ee4201.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "178"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/433f16d583d8dce88a4c70fcf4196b8529427463249f0b744137bd8be7846fd3.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "178"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Leben in Reveria",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3aff407934ac224c4061616763babe5f704f84290921583fa8ae34522001a7f2.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "209"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7f35804d7a5170853f5ae2f4cdcfcc39dbbf2ceada7fdce671f15c31bcd37071.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "209"
+					}
+				]
+			}
+		]
+	},
+	"CZ": {
+		"title_id": "0004000000113100",
+		"eshop_id": "50010000025115",
+		"product_code": "CTR-P-AFLP",
+		"name": "Fantasy Life™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e65dc8087d922a04f1086f4e0e16e8aee109ccb5ea210047c323e7596be89994.jpg",
+		"data_size": "898079588",
+		"description": "Embark on the adventure of your dream life as you craft, cast, fish, mine, battle and explore like never before! With the innovative Life system, your choices don’t just upgrade characters – they help shape your journey! Explore a huge fantasy landscape beside surly, dark paladins, slick pirate captains, regal princesses, and others who share your taste for the unknown. Change to one of 12 Life classes at virtually any time to access different abilities: for instance, the combat class has fierce fighters, while the crafter class is skilled at making stronger weapons and tools. If you’re not in the mood for battle, switch to a gatherer class and spend some time as a lumberjack or a fisherman – it's your adventure to play your way! Robust open world with distinct areas to explore",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-09-26",
+				"retail": "2014-09-26"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bbf581189b7b2854fe97337415221a591a11262c3f0aab7ba9f973d641c1d34e.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/15b71112f26a85be9312df4ead804b97e4c930bc93b5903cad0120bc2f4603bf.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2daece19699976552f034b93092b5db89dd6d630f277532d7773c55f9d45b422.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5b3730ea36c71c81cee8551977130a5ece43a0102d1bf387f86c55fcf12fb0d4.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/dbb69f75b3d5001f92823ecf3d7e2110d3890788c3a460a0211544efb51c49ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e91680a854f92105282f62e1ae33b094caed64fe48ffcd5ecfc98207618f7c80.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cd238d3540300165757ee35592ea982aaeec6631077eb5cd036cbd6341cac769.jpg",
+				"name": "Fantasy Life: Who will you be today?",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c1a2979bf7e489bd30fa05d6515be7cf667c395566bfceb4f61cc124edc76bac.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "181"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f31c0f424ec01e483c401c6c61a6b95f04e0ec4299285e686e9cbf303c467560.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "181"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Opening Movie",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0c62ed5d28a22594bc5ef3342e59cb3f650a6ef8244e2fdd96f9e51cf734caab.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "170"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6c2545e6c9af4b1425a9f4e67482f3fb08e07c746363d93ffcbfecc2b5a12821.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "170"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Overview Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f8cb52a7f32570835a4200cf5011bfa91e1363a61baa2d0b639e618280aeab6f.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "178"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6786834dea90ea2d223d056c2a8d5fa842d5b9df4a01b0e2d1ee4edf1730df18.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "178"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Live life to the full in Reveria",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1ebebda569e012e6ab2fadbf8a7fd804e60af151c13e438518cd382e8d28d392.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "209"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4a19db02a7e0017ee884d19b251ff9a445502ee9c3a56d3af8f36b3751a1f33a.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "209"
+					}
+				]
+			}
+		]
+	},
+	"DK": {
+		"title_id": "0004000000113100",
+		"eshop_id": "50010000025115",
+		"product_code": "CTR-P-AFLP",
+		"name": "Fantasy Life™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e65dc8087d922a04f1086f4e0e16e8aee109ccb5ea210047c323e7596be89994.jpg",
+		"data_size": "898079588",
+		"description": "Embark on the adventure of your dream life as you craft, cast, fish, mine, battle and explore like never before! With the innovative Life system, your choices don’t just upgrade characters – they help shape your journey! Explore a huge fantasy landscape beside surly, dark paladins, slick pirate captains, regal princesses, and others who share your taste for the unknown. Change to one of 12 Life classes at virtually any time to access different abilities: for instance, the combat class has fierce fighters, while the crafter class is skilled at making stronger weapons and tools. If you’re not in the mood for battle, switch to a gatherer class and spend some time as a lumberjack or a fisherman – it's your adventure to play your way! Robust open world with distinct areas to explore",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-09-26",
+				"retail": "2014-09-26"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bbf581189b7b2854fe97337415221a591a11262c3f0aab7ba9f973d641c1d34e.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/15b71112f26a85be9312df4ead804b97e4c930bc93b5903cad0120bc2f4603bf.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2daece19699976552f034b93092b5db89dd6d630f277532d7773c55f9d45b422.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5b3730ea36c71c81cee8551977130a5ece43a0102d1bf387f86c55fcf12fb0d4.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/dbb69f75b3d5001f92823ecf3d7e2110d3890788c3a460a0211544efb51c49ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e91680a854f92105282f62e1ae33b094caed64fe48ffcd5ecfc98207618f7c80.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cd238d3540300165757ee35592ea982aaeec6631077eb5cd036cbd6341cac769.jpg",
+				"name": "Fantasy Life: Who will you be today?",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c1a2979bf7e489bd30fa05d6515be7cf667c395566bfceb4f61cc124edc76bac.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "181"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f31c0f424ec01e483c401c6c61a6b95f04e0ec4299285e686e9cbf303c467560.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "181"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Opening Movie",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0c62ed5d28a22594bc5ef3342e59cb3f650a6ef8244e2fdd96f9e51cf734caab.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "170"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6c2545e6c9af4b1425a9f4e67482f3fb08e07c746363d93ffcbfecc2b5a12821.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "170"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Overview Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f8cb52a7f32570835a4200cf5011bfa91e1363a61baa2d0b639e618280aeab6f.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "178"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6786834dea90ea2d223d056c2a8d5fa842d5b9df4a01b0e2d1ee4edf1730df18.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "178"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Live life to the full in Reveria",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1ebebda569e012e6ab2fadbf8a7fd804e60af151c13e438518cd382e8d28d392.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "209"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4a19db02a7e0017ee884d19b251ff9a445502ee9c3a56d3af8f36b3751a1f33a.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "209"
+					}
+				]
+			}
+		]
+	},
+	"EE": {
+		"title_id": "0004000000113100",
+		"eshop_id": "50010000025115",
+		"product_code": "CTR-P-AFLP",
+		"name": "Fantasy Life™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e65dc8087d922a04f1086f4e0e16e8aee109ccb5ea210047c323e7596be89994.jpg",
+		"data_size": "898079588",
+		"description": "Embark on the adventure of your dream life as you craft, cast, fish, mine, battle and explore like never before! With the innovative Life system, your choices don’t just upgrade characters – they help shape your journey! Explore a huge fantasy landscape beside surly, dark paladins, slick pirate captains, regal princesses, and others who share your taste for the unknown. Change to one of 12 Life classes at virtually any time to access different abilities: for instance, the combat class has fierce fighters, while the crafter class is skilled at making stronger weapons and tools. If you’re not in the mood for battle, switch to a gatherer class and spend some time as a lumberjack or a fisherman – it's your adventure to play your way! Robust open world with distinct areas to explore",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-09-26",
+				"retail": "2014-09-26"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bbf581189b7b2854fe97337415221a591a11262c3f0aab7ba9f973d641c1d34e.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/15b71112f26a85be9312df4ead804b97e4c930bc93b5903cad0120bc2f4603bf.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2daece19699976552f034b93092b5db89dd6d630f277532d7773c55f9d45b422.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5b3730ea36c71c81cee8551977130a5ece43a0102d1bf387f86c55fcf12fb0d4.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/dbb69f75b3d5001f92823ecf3d7e2110d3890788c3a460a0211544efb51c49ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e91680a854f92105282f62e1ae33b094caed64fe48ffcd5ecfc98207618f7c80.jpg"
+			}
+		],
+		"movies": []
+	},
+	"ES": {
+		"title_id": "0004000000113100",
+		"eshop_id": "50010000025115",
+		"product_code": "CTR-P-AFLP",
+		"name": "Fantasy Life™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e65dc8087d922a04f1086f4e0e16e8aee109ccb5ea210047c323e7596be89994.jpg",
+		"data_size": "898079588",
+		"description": "Lánzate a la aventura que es la vida de tus sueños: dedícate a la artesanía, la minería o la pesca y explora el mundo como nunca antes. Con el innovador \"Life system\", tus decisiones no solo mejorarán a los personajes, sino que darán forma a tu viaje vital. Explora un amplio paisaje de fantasía en compañía de taciturnos paladines, habilidosos piratas y regias princesas que comparten tu afición por lo desconocido. Cambia a cualquiera de las clases de \"Life\" en cualquier momento para poder acceder a diferentes habilidades: por ejemplo, la clase de combate tiene feroces luchadores, mientras que la clase de artesanos está especialmente cualificada para la forja de armas y herramientas más fuertes. Si no estás de humor para la batalla, cambia a la clase recolectora y pasa algún tiempo como leñador o pescador. ¡Es tu aventura, tú decides cómo jugarla! Un amplio mundo con distintas zonas que explorar",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-09-26",
+				"retail": "2014-09-26"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3bfc8b53a1a3c495e4763a82e6866e09fd58adfa1b43c107fba0ebe72cbd77ed.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/fc3119ae4e9575f9c37a4a28a654d7bab1089a7ea36a8fa9eeaf6e741d052781.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c6cf5c9da179a0227f6eb7ba1e16f37f5001c48bcc63908da7e8b7d17be509c1.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ce5b8e36fd0809b428396415fb0f70fd8d98b5e0263e7222653bd13563136911.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/18c0559101cb3786a463ff9626703516f83d9f455bf1f7fbd5ce0b75e28aedc1.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ecc7cfe5d3c021ae8add48938349cf911ad9847863ee6959cdb6131d11082cc4.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cd238d3540300165757ee35592ea982aaeec6631077eb5cd036cbd6341cac769.jpg",
+				"name": "Fantasy Life: ¿Quién quieres ser hoy?",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9264b808524fa96f70c2e04587bdf3e8bb2b33ab4b7ea1e6758ea27c085dce61.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "181"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9dc6cf7a35b9e59fd9a9a4cd55514fd1350f832ec2dca104500322c9f9204d2c.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "181"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Vídeo de apertura",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fbdb2b63384755019be41999428e1f9f134d46925b1e904cd4b64b89c98c812e.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "170"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2ad77e142d56fa1d39e2fd7a2f422f77f0f2b89145b8b482404bf8bc97eca46f.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "170"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Tráiler general",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6b3d67fb297e74ffb9f85f260c65517ed58b4faa403dfe3bd5e8b143cb764e1b.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "178"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/09226e81cc4da716ed0a3895efd960e243625e383e243164b371388d8754a0d0.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "178"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Vive a tope en Reveria",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/06dd1c0931d5e69690ed4f6312ca7d965748c5341903d85e3705c34ef4951714.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "209"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7595dd097b94949e33a4486e54fa6c970acb65a538c4ca8710947ee0c5ceac34.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "209"
+					}
+				]
+			}
+		]
+	},
+	"FI": {
+		"title_id": "0004000000113100",
+		"eshop_id": "50010000025115",
+		"product_code": "CTR-P-AFLP",
+		"name": "Fantasy Life™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e65dc8087d922a04f1086f4e0e16e8aee109ccb5ea210047c323e7596be89994.jpg",
+		"data_size": "898079588",
+		"description": "Embark on the adventure of your dream life as you craft, cast, fish, mine, battle and explore like never before! With the innovative Life system, your choices don’t just upgrade characters – they help shape your journey! Explore a huge fantasy landscape beside surly, dark paladins, slick pirate captains, regal princesses, and others who share your taste for the unknown. Change to one of 12 Life classes at virtually any time to access different abilities: for instance, the combat class has fierce fighters, while the crafter class is skilled at making stronger weapons and tools. If you’re not in the mood for battle, switch to a gatherer class and spend some time as a lumberjack or a fisherman – it's your adventure to play your way! Robust open world with distinct areas to explore",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-09-26",
+				"retail": "2014-09-26"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bbf581189b7b2854fe97337415221a591a11262c3f0aab7ba9f973d641c1d34e.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/15b71112f26a85be9312df4ead804b97e4c930bc93b5903cad0120bc2f4603bf.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2daece19699976552f034b93092b5db89dd6d630f277532d7773c55f9d45b422.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5b3730ea36c71c81cee8551977130a5ece43a0102d1bf387f86c55fcf12fb0d4.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/dbb69f75b3d5001f92823ecf3d7e2110d3890788c3a460a0211544efb51c49ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e91680a854f92105282f62e1ae33b094caed64fe48ffcd5ecfc98207618f7c80.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cd238d3540300165757ee35592ea982aaeec6631077eb5cd036cbd6341cac769.jpg",
+				"name": "Fantasy Life: Who will you be today?",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c1a2979bf7e489bd30fa05d6515be7cf667c395566bfceb4f61cc124edc76bac.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "181"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f31c0f424ec01e483c401c6c61a6b95f04e0ec4299285e686e9cbf303c467560.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "181"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Opening Movie",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0c62ed5d28a22594bc5ef3342e59cb3f650a6ef8244e2fdd96f9e51cf734caab.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "170"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6c2545e6c9af4b1425a9f4e67482f3fb08e07c746363d93ffcbfecc2b5a12821.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "170"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Overview Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f8cb52a7f32570835a4200cf5011bfa91e1363a61baa2d0b639e618280aeab6f.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "178"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6786834dea90ea2d223d056c2a8d5fa842d5b9df4a01b0e2d1ee4edf1730df18.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "178"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Live life to the full in Reveria",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1ebebda569e012e6ab2fadbf8a7fd804e60af151c13e438518cd382e8d28d392.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "209"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4a19db02a7e0017ee884d19b251ff9a445502ee9c3a56d3af8f36b3751a1f33a.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "209"
+					}
+				]
+			}
+		]
+	},
+	"FR": {
+		"title_id": "0004000000113100",
+		"eshop_id": "50010000025115",
+		"product_code": "CTR-P-AFLP",
+		"name": "Fantasy Life™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e65dc8087d922a04f1086f4e0e16e8aee109ccb5ea210047c323e7596be89994.jpg",
+		"data_size": "898079588",
+		"description": "Embarquez pour l'aventure et vivez la vie de vos rêves ! Créez des objets, utilisez la magie, pêchez, battez-vous et explorez comme jamais auparavant. Avec le système de vie (Life) innovant, vos choix n'améliorent pas seulement vos personnages : ils façonnent votre aventure ! Explorez un vaste environnement fantastique aux côtés de sombres et revêches paladins, de rusés capitaines pirates, de princesses royales et bien d'autres qui partagent votre goût pour l'inconnu. Faites votre choix parmi 12 catégories de personnages pour accéder à différentes capacités : par exemple la catégorie des combattants propose de féroces guerriers, alors que la catégorie des artisans permet de créer de puissantes armes et de précieux outils. Et si vous n'avez pas envie de vous battre, sélectionnez la catégorie des cueilleurs et prenez du temps dans la peau d'un bûcheron ou d'un pêcheur. C'est votre aventure, jouez-la comme vous voulez ! Découvrez un monde ouvert et explorez différentes zones.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-09-26",
+				"retail": "2014-09-26"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6fae61c801b9f6cd26d3848fb215c14f2d7843aa45e9508d9c727019da932e84.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a87f3c4cc76f5709cfe40299548cd3deba6d99b043b8dea6707c6404eb45677b.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ffc8b4df8e3ff556ab0f4192ab140f81900b179ba4c1ea3a8c6fdd9ed4f15dfc.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/72ac62df0d657806c3ccf2fe050c71e67c3b810ffee67b6d2625f8722e6aff40.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2a709a27c33df8d6c25e5e7db2cf8f9085f1b83364f5f77e9d4deae2512a4158.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a66b40eb93ea35c5f030fcd3a0aaf07f101cfa775813b2f9e38c7105613b6250.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cd238d3540300165757ee35592ea982aaeec6631077eb5cd036cbd6341cac769.jpg",
+				"name": "Fantasy Life : Le nouvel RPG de Level 5",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9db5ba72c6e340d28029e06f5fd111f884ac816ee27923f632de2ecbce98230d.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "181"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e09385215ddd50ccff025e1ed8605a05fbec14eb411c81d2ec67aec621fb86dd.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "181"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life : Cinématique d'ouverture",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/124b06b6244b115a0897c4ab47d959a776ec412ba4e25bf505ecb95ba56a42b4.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "170"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/88e09d70135552d3cdd5501d7f0c481079c98badfb84007925bdd89d282b7111.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "170"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life : aperçu vidéo",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2c96f4cbe75e1b11f159b9aab99513551914c097eb766e9500cb151e355ec03a.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "178"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2f105f2029810b8df8cdfdcce6aa4105d54fddd718f635e1d207668a2f601e3c.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "178"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Vivez la vie pleinement à Rêveria ",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b9607147db8c16804a7249a891fa0a376ae2c3a150b8194e2c00dc1ec41c33e3.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "209"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1e05edadfa85f0836a75af02a83f6ce3d5891f5189e5e4e48e4c8a528cb39768.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "209"
+					}
+				]
+			}
+		]
+	},
+	"GB": {
+		"title_id": "0004000000113100",
+		"eshop_id": "50010000025115",
+		"product_code": "CTR-P-AFLP",
+		"name": "Fantasy Life™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e65dc8087d922a04f1086f4e0e16e8aee109ccb5ea210047c323e7596be89994.jpg",
+		"data_size": "898079588",
+		"description": "Embark on the adventure of your dream life as you craft, cast, fish, mine, battle and explore like never before! With the innovative Life system, your choices don’t just upgrade characters – they help shape your journey! Explore a huge fantasy landscape beside surly, dark paladins, slick pirate captains, regal princesses, and others who share your taste for the unknown. Change to one of 12 Life classes at virtually any time to access different abilities: for instance, the combat class has fierce fighters, while the crafter class is skilled at making stronger weapons and tools. If you’re not in the mood for battle, switch to a gatherer class and spend some time as a lumberjack or a fisherman – it's your adventure to play your way! Robust open world with distinct areas to explore",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-09-26",
+				"retail": "2014-09-26"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bbf581189b7b2854fe97337415221a591a11262c3f0aab7ba9f973d641c1d34e.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/15b71112f26a85be9312df4ead804b97e4c930bc93b5903cad0120bc2f4603bf.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2daece19699976552f034b93092b5db89dd6d630f277532d7773c55f9d45b422.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5b3730ea36c71c81cee8551977130a5ece43a0102d1bf387f86c55fcf12fb0d4.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/dbb69f75b3d5001f92823ecf3d7e2110d3890788c3a460a0211544efb51c49ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e91680a854f92105282f62e1ae33b094caed64fe48ffcd5ecfc98207618f7c80.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cd238d3540300165757ee35592ea982aaeec6631077eb5cd036cbd6341cac769.jpg",
+				"name": "Fantasy Life: Who will you be today?",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c1a2979bf7e489bd30fa05d6515be7cf667c395566bfceb4f61cc124edc76bac.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "181"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f31c0f424ec01e483c401c6c61a6b95f04e0ec4299285e686e9cbf303c467560.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "181"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Opening Movie",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0c62ed5d28a22594bc5ef3342e59cb3f650a6ef8244e2fdd96f9e51cf734caab.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "170"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6c2545e6c9af4b1425a9f4e67482f3fb08e07c746363d93ffcbfecc2b5a12821.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "170"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Overview Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f8cb52a7f32570835a4200cf5011bfa91e1363a61baa2d0b639e618280aeab6f.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "178"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6786834dea90ea2d223d056c2a8d5fa842d5b9df4a01b0e2d1ee4edf1730df18.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "178"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Live life to the full in Reveria",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1ebebda569e012e6ab2fadbf8a7fd804e60af151c13e438518cd382e8d28d392.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "209"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4a19db02a7e0017ee884d19b251ff9a445502ee9c3a56d3af8f36b3751a1f33a.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "209"
+					}
+				]
+			}
+		]
+	},
+	"GR": {
+		"title_id": "0004000000113100",
+		"eshop_id": "50010000025115",
+		"product_code": "CTR-P-AFLP",
+		"name": "Fantasy Life™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e65dc8087d922a04f1086f4e0e16e8aee109ccb5ea210047c323e7596be89994.jpg",
+		"data_size": "898079588",
+		"description": "Embark on the adventure of your dream life as you craft, cast, fish, mine, battle and explore like never before! With the innovative Life system, your choices don’t just upgrade characters – they help shape your journey! Explore a huge fantasy landscape beside surly, dark paladins, slick pirate captains, regal princesses, and others who share your taste for the unknown. Change to one of 12 Life classes at virtually any time to access different abilities: for instance, the combat class has fierce fighters, while the crafter class is skilled at making stronger weapons and tools. If you’re not in the mood for battle, switch to a gatherer class and spend some time as a lumberjack or a fisherman – it's your adventure to play your way! Robust open world with distinct areas to explore",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-09-26",
+				"retail": "2014-09-26"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bbf581189b7b2854fe97337415221a591a11262c3f0aab7ba9f973d641c1d34e.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/15b71112f26a85be9312df4ead804b97e4c930bc93b5903cad0120bc2f4603bf.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2daece19699976552f034b93092b5db89dd6d630f277532d7773c55f9d45b422.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5b3730ea36c71c81cee8551977130a5ece43a0102d1bf387f86c55fcf12fb0d4.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/dbb69f75b3d5001f92823ecf3d7e2110d3890788c3a460a0211544efb51c49ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e91680a854f92105282f62e1ae33b094caed64fe48ffcd5ecfc98207618f7c80.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cd238d3540300165757ee35592ea982aaeec6631077eb5cd036cbd6341cac769.jpg",
+				"name": "Fantasy Life: Who will you be today?",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c1a2979bf7e489bd30fa05d6515be7cf667c395566bfceb4f61cc124edc76bac.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "181"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f31c0f424ec01e483c401c6c61a6b95f04e0ec4299285e686e9cbf303c467560.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "181"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Opening Movie",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0c62ed5d28a22594bc5ef3342e59cb3f650a6ef8244e2fdd96f9e51cf734caab.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "170"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6c2545e6c9af4b1425a9f4e67482f3fb08e07c746363d93ffcbfecc2b5a12821.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "170"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Overview Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f8cb52a7f32570835a4200cf5011bfa91e1363a61baa2d0b639e618280aeab6f.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "178"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6786834dea90ea2d223d056c2a8d5fa842d5b9df4a01b0e2d1ee4edf1730df18.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "178"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Live life to the full in Reveria",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1ebebda569e012e6ab2fadbf8a7fd804e60af151c13e438518cd382e8d28d392.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "209"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4a19db02a7e0017ee884d19b251ff9a445502ee9c3a56d3af8f36b3751a1f33a.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "209"
+					}
+				]
+			}
+		]
+	},
+	"HR": {
+		"title_id": "0004000000113100",
+		"eshop_id": "50010000025115",
+		"product_code": "CTR-P-AFLP",
+		"name": "Fantasy Life™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e65dc8087d922a04f1086f4e0e16e8aee109ccb5ea210047c323e7596be89994.jpg",
+		"data_size": "898079588",
+		"description": "Embark on the adventure of your dream life as you craft, cast, fish, mine, battle and explore like never before! With the innovative Life system, your choices don’t just upgrade characters – they help shape your journey! Explore a huge fantasy landscape beside surly, dark paladins, slick pirate captains, regal princesses, and others who share your taste for the unknown. Change to one of 12 Life classes at virtually any time to access different abilities: for instance, the combat class has fierce fighters, while the crafter class is skilled at making stronger weapons and tools. If you’re not in the mood for battle, switch to a gatherer class and spend some time as a lumberjack or a fisherman – it's your adventure to play your way! Robust open world with distinct areas to explore",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-09-26",
+				"retail": "2014-09-26"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bbf581189b7b2854fe97337415221a591a11262c3f0aab7ba9f973d641c1d34e.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/15b71112f26a85be9312df4ead804b97e4c930bc93b5903cad0120bc2f4603bf.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2daece19699976552f034b93092b5db89dd6d630f277532d7773c55f9d45b422.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5b3730ea36c71c81cee8551977130a5ece43a0102d1bf387f86c55fcf12fb0d4.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/dbb69f75b3d5001f92823ecf3d7e2110d3890788c3a460a0211544efb51c49ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e91680a854f92105282f62e1ae33b094caed64fe48ffcd5ecfc98207618f7c80.jpg"
+			}
+		],
+		"movies": []
+	},
+	"IE": {
+		"title_id": "0004000000113100",
+		"eshop_id": "50010000025115",
+		"product_code": "CTR-P-AFLP",
+		"name": "Fantasy Life™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e65dc8087d922a04f1086f4e0e16e8aee109ccb5ea210047c323e7596be89994.jpg",
+		"data_size": "898079588",
+		"description": "Embark on the adventure of your dream life as you craft, cast, fish, mine, battle and explore like never before! With the innovative Life system, your choices don’t just upgrade characters – they help shape your journey! Explore a huge fantasy landscape beside surly, dark paladins, slick pirate captains, regal princesses, and others who share your taste for the unknown. Change to one of 12 Life classes at virtually any time to access different abilities: for instance, the combat class has fierce fighters, while the crafter class is skilled at making stronger weapons and tools. If you’re not in the mood for battle, switch to a gatherer class and spend some time as a lumberjack or a fisherman – it's your adventure to play your way! Robust open world with distinct areas to explore",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-09-26",
+				"retail": "2014-09-26"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bbf581189b7b2854fe97337415221a591a11262c3f0aab7ba9f973d641c1d34e.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/15b71112f26a85be9312df4ead804b97e4c930bc93b5903cad0120bc2f4603bf.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2daece19699976552f034b93092b5db89dd6d630f277532d7773c55f9d45b422.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5b3730ea36c71c81cee8551977130a5ece43a0102d1bf387f86c55fcf12fb0d4.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/dbb69f75b3d5001f92823ecf3d7e2110d3890788c3a460a0211544efb51c49ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e91680a854f92105282f62e1ae33b094caed64fe48ffcd5ecfc98207618f7c80.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cd238d3540300165757ee35592ea982aaeec6631077eb5cd036cbd6341cac769.jpg",
+				"name": "Fantasy Life: Who will you be today?",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c1a2979bf7e489bd30fa05d6515be7cf667c395566bfceb4f61cc124edc76bac.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "181"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f31c0f424ec01e483c401c6c61a6b95f04e0ec4299285e686e9cbf303c467560.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "181"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Opening Movie",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0c62ed5d28a22594bc5ef3342e59cb3f650a6ef8244e2fdd96f9e51cf734caab.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "170"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6c2545e6c9af4b1425a9f4e67482f3fb08e07c746363d93ffcbfecc2b5a12821.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "170"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Overview Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f8cb52a7f32570835a4200cf5011bfa91e1363a61baa2d0b639e618280aeab6f.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "178"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6786834dea90ea2d223d056c2a8d5fa842d5b9df4a01b0e2d1ee4edf1730df18.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "178"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Live life to the full in Reveria",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1ebebda569e012e6ab2fadbf8a7fd804e60af151c13e438518cd382e8d28d392.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "209"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4a19db02a7e0017ee884d19b251ff9a445502ee9c3a56d3af8f36b3751a1f33a.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "209"
+					}
+				]
+			}
+		]
+	},
+	"HU": {
+		"title_id": "0004000000113100",
+		"eshop_id": "50010000025115",
+		"product_code": "CTR-P-AFLP",
+		"name": "Fantasy Life™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e65dc8087d922a04f1086f4e0e16e8aee109ccb5ea210047c323e7596be89994.jpg",
+		"data_size": "898079588",
+		"description": "Embark on the adventure of your dream life as you craft, cast, fish, mine, battle and explore like never before! With the innovative Life system, your choices don’t just upgrade characters – they help shape your journey! Explore a huge fantasy landscape beside surly, dark paladins, slick pirate captains, regal princesses, and others who share your taste for the unknown. Change to one of 12 Life classes at virtually any time to access different abilities: for instance, the combat class has fierce fighters, while the crafter class is skilled at making stronger weapons and tools. If you’re not in the mood for battle, switch to a gatherer class and spend some time as a lumberjack or a fisherman – it's your adventure to play your way! Robust open world with distinct areas to explore",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-09-26",
+				"retail": "2014-09-26"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bbf581189b7b2854fe97337415221a591a11262c3f0aab7ba9f973d641c1d34e.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/15b71112f26a85be9312df4ead804b97e4c930bc93b5903cad0120bc2f4603bf.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2daece19699976552f034b93092b5db89dd6d630f277532d7773c55f9d45b422.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5b3730ea36c71c81cee8551977130a5ece43a0102d1bf387f86c55fcf12fb0d4.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/dbb69f75b3d5001f92823ecf3d7e2110d3890788c3a460a0211544efb51c49ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e91680a854f92105282f62e1ae33b094caed64fe48ffcd5ecfc98207618f7c80.jpg"
+			}
+		],
+		"movies": []
+	},
+	"IT": {
+		"title_id": "0004000000113100",
+		"eshop_id": "50010000025115",
+		"product_code": "CTR-P-AFLP",
+		"name": "Fantasy Life™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e65dc8087d922a04f1086f4e0e16e8aee109ccb5ea210047c323e7596be89994.jpg",
+		"data_size": "898079588",
+		"description": "Parti per l'avventura dei tuoi sogni creando oggetti, lanciando magie, pescando, combattendo ed esplorando come mai prima d'ora! Con l’innovativo sistema Life le tue scelte non miglioreranno solo i tuoi personaggi, ma daranno anche forma al tuo viaggio! Questo imponente scenario fantastico include oscuri paladini irascibili, micidiali capitani pirata, principesse reali, e altri personaggi che condividono una certa passione per l’ignoto. Scegli in qualsiasi momento tra 12 classi di personaggi per accedere a diverse abilità: ad esempio, la classe dei combattenti presenta lottatori senza paura, mentre la classe degli artisti sarà in grado di creare armi e strumenti più potenti. Se non hai voglia di combattere, scegli la classe dei raccoglitori e passa un po' di tempo a raccogliere legna o a pescare. È la tua avventura, giocala come vuoi tu! Un mondo open world con distinte aree da esplorare",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-09-26",
+				"retail": "2014-09-26"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/75e6e9744f412ada3773c1c70aef44f5dc4dcada98035eb99d1e630b2ba7197e.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/18db59bd7991b0a1cad8cb4d0c86cf269f257e9166fafd0c6330b3f4afa72200.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/578fdb71e9f433956db1339f1b37f729b2ec865a19f6921ae6967da0a975e8bc.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4a830510d0a3013f229c3868ca85f4229e27daba547d619fde3c3b5d27602162.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/358566990e412d6231ee17231ed1e267cf95968055971ff0bdb8777a71ed4111.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/fa946cecfe1a5587d29471cfcd25f5d5207bf55f74592bb1c82e0d048c3a412b.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cd238d3540300165757ee35592ea982aaeec6631077eb5cd036cbd6341cac769.jpg",
+				"name": "Fantasy Life: Chi sarai oggi?",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6d5bc95e68800a7e845493eb9db017dc623092a4df25e95e5bc773887e37213c.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "181"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/69971faaddc941c111ba20edf54e995ed18e9eb0650d25fe8ee8898903f03496.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "181"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Filmato d'apertura",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/58da0de3a03e8750ece8a161c8219140718ea9af89d6fa6da04dddcfa98d35ce.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "170"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/678b2c621115372ddacfb6984f58f7b5c2c2badba31f8637caad3980b2a2368d.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "170"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: trailer introduttivo",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/12dec3d8026a38f7a47adccc28a6c2a761a1741cad915878c66f56ef6a529d60.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "178"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/160e8a3a2320f0049dddc153a0dbb0df1509966a9dce1eeca1e2201e78c4c3c4.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "178"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Una vita fantastica a Reveria",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6660711ef7f296d16771f49a805256652aabf9863c39582a246bf0b89283f6d1.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "209"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1f73fb806c0bce01fdf3ed44de108a8f5871ce42a019067b3470e7a853c08053.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "209"
+					}
+				]
+			}
+		]
+	},
+	"LT": {
+		"title_id": "0004000000113100",
+		"eshop_id": "50010000025115",
+		"product_code": "CTR-P-AFLP",
+		"name": "Fantasy Life™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e65dc8087d922a04f1086f4e0e16e8aee109ccb5ea210047c323e7596be89994.jpg",
+		"data_size": "898079588",
+		"description": "Embark on the adventure of your dream life as you craft, cast, fish, mine, battle and explore like never before! With the innovative Life system, your choices don’t just upgrade characters – they help shape your journey! Explore a huge fantasy landscape beside surly, dark paladins, slick pirate captains, regal princesses, and others who share your taste for the unknown. Change to one of 12 Life classes at virtually any time to access different abilities: for instance, the combat class has fierce fighters, while the crafter class is skilled at making stronger weapons and tools. If you’re not in the mood for battle, switch to a gatherer class and spend some time as a lumberjack or a fisherman – it's your adventure to play your way! Robust open world with distinct areas to explore",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-09-26",
+				"retail": "2014-09-26"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bbf581189b7b2854fe97337415221a591a11262c3f0aab7ba9f973d641c1d34e.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/15b71112f26a85be9312df4ead804b97e4c930bc93b5903cad0120bc2f4603bf.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2daece19699976552f034b93092b5db89dd6d630f277532d7773c55f9d45b422.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5b3730ea36c71c81cee8551977130a5ece43a0102d1bf387f86c55fcf12fb0d4.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/dbb69f75b3d5001f92823ecf3d7e2110d3890788c3a460a0211544efb51c49ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e91680a854f92105282f62e1ae33b094caed64fe48ffcd5ecfc98207618f7c80.jpg"
+			}
+		],
+		"movies": []
+	},
+	"LV": {
+		"title_id": "0004000000113100",
+		"eshop_id": "50010000025115",
+		"product_code": "CTR-P-AFLP",
+		"name": "Fantasy Life™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e65dc8087d922a04f1086f4e0e16e8aee109ccb5ea210047c323e7596be89994.jpg",
+		"data_size": "898079588",
+		"description": "Embark on the adventure of your dream life as you craft, cast, fish, mine, battle and explore like never before! With the innovative Life system, your choices don’t just upgrade characters – they help shape your journey! Explore a huge fantasy landscape beside surly, dark paladins, slick pirate captains, regal princesses, and others who share your taste for the unknown. Change to one of 12 Life classes at virtually any time to access different abilities: for instance, the combat class has fierce fighters, while the crafter class is skilled at making stronger weapons and tools. If you’re not in the mood for battle, switch to a gatherer class and spend some time as a lumberjack or a fisherman – it's your adventure to play your way! Robust open world with distinct areas to explore",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-09-26",
+				"retail": "2014-09-26"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bbf581189b7b2854fe97337415221a591a11262c3f0aab7ba9f973d641c1d34e.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/15b71112f26a85be9312df4ead804b97e4c930bc93b5903cad0120bc2f4603bf.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2daece19699976552f034b93092b5db89dd6d630f277532d7773c55f9d45b422.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5b3730ea36c71c81cee8551977130a5ece43a0102d1bf387f86c55fcf12fb0d4.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/dbb69f75b3d5001f92823ecf3d7e2110d3890788c3a460a0211544efb51c49ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e91680a854f92105282f62e1ae33b094caed64fe48ffcd5ecfc98207618f7c80.jpg"
+			}
+		],
+		"movies": []
+	},
+	"LU": {
+		"title_id": "0004000000113100",
+		"eshop_id": "50010000025115",
+		"product_code": "CTR-P-AFLP",
+		"name": "Fantasy Life™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e65dc8087d922a04f1086f4e0e16e8aee109ccb5ea210047c323e7596be89994.jpg",
+		"data_size": "898079588",
+		"description": "Embarquez pour l'aventure et vivez la vie de vos rêves ! Créez des objets, utilisez la magie, pêchez, battez-vous et explorez comme jamais auparavant. Avec le système de vie (Life) innovant, vos choix n'améliorent pas seulement vos personnages : ils façonnent votre aventure ! Explorez un vaste environnement fantastique aux côtés de sombres et revêches paladins, de rusés capitaines pirates, de princesses royales et bien d'autres qui partagent votre goût pour l'inconnu. Faites votre choix parmi 12 catégories de personnages pour accéder à différentes capacités : par exemple la catégorie des combattants propose de féroces guerriers, alors que la catégorie des artisans permet de créer de puissantes armes et de précieux outils. Et si vous n'avez pas envie de vous battre, sélectionnez la catégorie des cueilleurs et prenez du temps dans la peau d'un bûcheron ou d'un pêcheur. C'est votre aventure, jouez-la comme vous voulez ! Découvrez un monde ouvert et explorez différentes zones.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-09-26",
+				"retail": "2014-09-26"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6fae61c801b9f6cd26d3848fb215c14f2d7843aa45e9508d9c727019da932e84.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a87f3c4cc76f5709cfe40299548cd3deba6d99b043b8dea6707c6404eb45677b.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ffc8b4df8e3ff556ab0f4192ab140f81900b179ba4c1ea3a8c6fdd9ed4f15dfc.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/72ac62df0d657806c3ccf2fe050c71e67c3b810ffee67b6d2625f8722e6aff40.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2a709a27c33df8d6c25e5e7db2cf8f9085f1b83364f5f77e9d4deae2512a4158.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a66b40eb93ea35c5f030fcd3a0aaf07f101cfa775813b2f9e38c7105613b6250.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cd238d3540300165757ee35592ea982aaeec6631077eb5cd036cbd6341cac769.jpg",
+				"name": "Fantasy Life : Le nouvel RPG de Level 5",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9db5ba72c6e340d28029e06f5fd111f884ac816ee27923f632de2ecbce98230d.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "181"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e09385215ddd50ccff025e1ed8605a05fbec14eb411c81d2ec67aec621fb86dd.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "181"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life : Cinématique d'ouverture",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/124b06b6244b115a0897c4ab47d959a776ec412ba4e25bf505ecb95ba56a42b4.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "170"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/88e09d70135552d3cdd5501d7f0c481079c98badfb84007925bdd89d282b7111.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "170"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life : aperçu vidéo",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2c96f4cbe75e1b11f159b9aab99513551914c097eb766e9500cb151e355ec03a.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "178"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2f105f2029810b8df8cdfdcce6aa4105d54fddd718f635e1d207668a2f601e3c.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "178"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Vivez la vie pleinement à Rêveria ",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b9607147db8c16804a7249a891fa0a376ae2c3a150b8194e2c00dc1ec41c33e3.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "209"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1e05edadfa85f0836a75af02a83f6ce3d5891f5189e5e4e48e4c8a528cb39768.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "209"
+					}
+				]
+			}
+		]
+	},
+	"MT": {
+		"title_id": "0004000000113100",
+		"eshop_id": "50010000025115",
+		"product_code": "CTR-P-AFLP",
+		"name": "Fantasy Life™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e65dc8087d922a04f1086f4e0e16e8aee109ccb5ea210047c323e7596be89994.jpg",
+		"data_size": "898079588",
+		"description": "Embark on the adventure of your dream life as you craft, cast, fish, mine, battle and explore like never before! With the innovative Life system, your choices don’t just upgrade characters – they help shape your journey! Explore a huge fantasy landscape beside surly, dark paladins, slick pirate captains, regal princesses, and others who share your taste for the unknown. Change to one of 12 Life classes at virtually any time to access different abilities: for instance, the combat class has fierce fighters, while the crafter class is skilled at making stronger weapons and tools. If you’re not in the mood for battle, switch to a gatherer class and spend some time as a lumberjack or a fisherman – it's your adventure to play your way! Robust open world with distinct areas to explore",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-09-26",
+				"retail": "2014-09-26"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bbf581189b7b2854fe97337415221a591a11262c3f0aab7ba9f973d641c1d34e.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/15b71112f26a85be9312df4ead804b97e4c930bc93b5903cad0120bc2f4603bf.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2daece19699976552f034b93092b5db89dd6d630f277532d7773c55f9d45b422.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5b3730ea36c71c81cee8551977130a5ece43a0102d1bf387f86c55fcf12fb0d4.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/dbb69f75b3d5001f92823ecf3d7e2110d3890788c3a460a0211544efb51c49ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e91680a854f92105282f62e1ae33b094caed64fe48ffcd5ecfc98207618f7c80.jpg"
+			}
+		],
+		"movies": []
+	},
+	"NO": {
+		"title_id": "0004000000113100",
+		"eshop_id": "50010000025115",
+		"product_code": "CTR-P-AFLP",
+		"name": "Fantasy Life™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e65dc8087d922a04f1086f4e0e16e8aee109ccb5ea210047c323e7596be89994.jpg",
+		"data_size": "898079588",
+		"description": "Embark on the adventure of your dream life as you craft, cast, fish, mine, battle and explore like never before! With the innovative Life system, your choices don’t just upgrade characters – they help shape your journey! Explore a huge fantasy landscape beside surly, dark paladins, slick pirate captains, regal princesses, and others who share your taste for the unknown. Change to one of 12 Life classes at virtually any time to access different abilities: for instance, the combat class has fierce fighters, while the crafter class is skilled at making stronger weapons and tools. If you’re not in the mood for battle, switch to a gatherer class and spend some time as a lumberjack or a fisherman – it's your adventure to play your way! Robust open world with distinct areas to explore",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-09-26",
+				"retail": "2014-09-26"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bbf581189b7b2854fe97337415221a591a11262c3f0aab7ba9f973d641c1d34e.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/15b71112f26a85be9312df4ead804b97e4c930bc93b5903cad0120bc2f4603bf.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2daece19699976552f034b93092b5db89dd6d630f277532d7773c55f9d45b422.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5b3730ea36c71c81cee8551977130a5ece43a0102d1bf387f86c55fcf12fb0d4.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/dbb69f75b3d5001f92823ecf3d7e2110d3890788c3a460a0211544efb51c49ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e91680a854f92105282f62e1ae33b094caed64fe48ffcd5ecfc98207618f7c80.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cd238d3540300165757ee35592ea982aaeec6631077eb5cd036cbd6341cac769.jpg",
+				"name": "Fantasy Life: Who will you be today?",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c1a2979bf7e489bd30fa05d6515be7cf667c395566bfceb4f61cc124edc76bac.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "181"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f31c0f424ec01e483c401c6c61a6b95f04e0ec4299285e686e9cbf303c467560.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "181"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Opening Movie",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0c62ed5d28a22594bc5ef3342e59cb3f650a6ef8244e2fdd96f9e51cf734caab.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "170"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6c2545e6c9af4b1425a9f4e67482f3fb08e07c746363d93ffcbfecc2b5a12821.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "170"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Overview Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f8cb52a7f32570835a4200cf5011bfa91e1363a61baa2d0b639e618280aeab6f.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "178"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6786834dea90ea2d223d056c2a8d5fa842d5b9df4a01b0e2d1ee4edf1730df18.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "178"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Live life to the full in Reveria",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1ebebda569e012e6ab2fadbf8a7fd804e60af151c13e438518cd382e8d28d392.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "209"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4a19db02a7e0017ee884d19b251ff9a445502ee9c3a56d3af8f36b3751a1f33a.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "209"
+					}
+				]
+			}
+		]
+	},
+	"NL": {
+		"title_id": "0004000000113100",
+		"eshop_id": "50010000025115",
+		"product_code": "CTR-P-AFLP",
+		"name": "Fantasy Life™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e65dc8087d922a04f1086f4e0e16e8aee109ccb5ea210047c323e7596be89994.jpg",
+		"data_size": "898079588",
+		"description": "Beleef het avontuur van je dromen, waarin je moet bouwen, toveren, strijden en verkennen als nooit tevoren. Met het innovatieve Life-systeem beïnvloeden je keuzes niet alleen de kracht van je personages, maar ook het verloop van je avontuur! Het reusachtige fantasy-landschap zit vol duistere ridders, stoere piratenkapiteins, edele prinsessen en andere avonturiers. Je kunt op vrijwel ieder moment veranderen in een van de twaalf Life-klasses om toegang te krijgen tot verschillende vaardigheden. De ene klasse levert bijvoorbeeld geduchte strijders, terwijl de andere beter is in het maken van krachtige wapens en gereedschap. Heb je geen zin om te vechten? Wissel dan van klasse en ga houthakken of vissen. Beleef je avontuur zoals jij het wilt! Open wereld met verschillende delen die je kunt verkennen",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-09-26",
+				"retail": "2014-09-26"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bbf581189b7b2854fe97337415221a591a11262c3f0aab7ba9f973d641c1d34e.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/15b71112f26a85be9312df4ead804b97e4c930bc93b5903cad0120bc2f4603bf.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2daece19699976552f034b93092b5db89dd6d630f277532d7773c55f9d45b422.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5b3730ea36c71c81cee8551977130a5ece43a0102d1bf387f86c55fcf12fb0d4.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/dbb69f75b3d5001f92823ecf3d7e2110d3890788c3a460a0211544efb51c49ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e91680a854f92105282f62e1ae33b094caed64fe48ffcd5ecfc98207618f7c80.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cd238d3540300165757ee35592ea982aaeec6631077eb5cd036cbd6341cac769.jpg",
+				"name": "Fantasy Life: Wie ben je vandaag?",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d5acc5193f75ae825ac7781d7e998e3e5f8ce7f993db2b1b467f158364306472.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "181"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9f4b97c9c0e33b5b5ac026c60e95dc0824dba2816589d30d03ea20aa00dc2572.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "181"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Intro",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0c62ed5d28a22594bc5ef3342e59cb3f650a6ef8244e2fdd96f9e51cf734caab.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "170"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6c2545e6c9af4b1425a9f4e67482f3fb08e07c746363d93ffcbfecc2b5a12821.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "170"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Overzicht-trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5729fca5774769f7ae0ba0e382a22873d43ece8544e0645b2b340bb94db81f00.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "178"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3849c787ff17c76d8a483467995caf774987ca76fc26cb2632ebfd9f93492d03.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "178"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Leef het leven van je dromen in Reveria",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c0746e41843dc21075da057766943633ef8d4f09cb14b2b54ae8d48e73affbc6.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "209"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4f3dc4f9d4f29e3f2a16b2efd209d27d3d6558e33b31cc7cc54cafaf00fdfd38.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "209"
+					}
+				]
+			}
+		]
+	},
+	"NZ": {
+		"title_id": "0004000000113100",
+		"eshop_id": "50010000025115",
+		"product_code": "CTR-P-AFLP",
+		"name": "Fantasy Life™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e65dc8087d922a04f1086f4e0e16e8aee109ccb5ea210047c323e7596be89994.jpg",
+		"data_size": "898079588",
+		"description": "Embark on the adventure of your dream life as you craft, cast, fish, mine, battle and explore like never before! With the innovative Life system, your choices don’t just upgrade characters – they help shape your journey! Explore a huge fantasy landscape beside surly, dark paladins, slick pirate captains, regal princesses, and others who share your taste for the unknown. Change to one of 12 Life classes at virtually any time to access different abilities: for instance, the combat class has fierce fighters, while the crafter class is skilled at making stronger weapons and tools. If you’re not in the mood for battle, switch to a gatherer class and spend some time as a lumberjack or a fisherman – it's your adventure to play your way! Robust open world with distinct areas to explore",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-09-27",
+				"retail": "2014-09-26"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bbf581189b7b2854fe97337415221a591a11262c3f0aab7ba9f973d641c1d34e.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/15b71112f26a85be9312df4ead804b97e4c930bc93b5903cad0120bc2f4603bf.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2daece19699976552f034b93092b5db89dd6d630f277532d7773c55f9d45b422.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5b3730ea36c71c81cee8551977130a5ece43a0102d1bf387f86c55fcf12fb0d4.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/dbb69f75b3d5001f92823ecf3d7e2110d3890788c3a460a0211544efb51c49ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e91680a854f92105282f62e1ae33b094caed64fe48ffcd5ecfc98207618f7c80.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Opening Movie",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0c62ed5d28a22594bc5ef3342e59cb3f650a6ef8244e2fdd96f9e51cf734caab.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "170"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6c2545e6c9af4b1425a9f4e67482f3fb08e07c746363d93ffcbfecc2b5a12821.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "170"
+					}
+				]
+			}
+		]
+	},
+	"PL": {
+		"title_id": "0004000000113100",
+		"eshop_id": "50010000025115",
+		"product_code": "CTR-P-AFLP",
+		"name": "Fantasy Life™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e65dc8087d922a04f1086f4e0e16e8aee109ccb5ea210047c323e7596be89994.jpg",
+		"data_size": "898079588",
+		"description": "Embark on the adventure of your dream life as you craft, cast, fish, mine, battle and explore like never before! With the innovative Life system, your choices don’t just upgrade characters – they help shape your journey! Explore a huge fantasy landscape beside surly, dark paladins, slick pirate captains, regal princesses, and others who share your taste for the unknown. Change to one of 12 Life classes at virtually any time to access different abilities: for instance, the combat class has fierce fighters, while the crafter class is skilled at making stronger weapons and tools. If you’re not in the mood for battle, switch to a gatherer class and spend some time as a lumberjack or a fisherman – it's your adventure to play your way! Robust open world with distinct areas to explore",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-09-26",
+				"retail": "2014-09-26"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bbf581189b7b2854fe97337415221a591a11262c3f0aab7ba9f973d641c1d34e.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/15b71112f26a85be9312df4ead804b97e4c930bc93b5903cad0120bc2f4603bf.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2daece19699976552f034b93092b5db89dd6d630f277532d7773c55f9d45b422.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5b3730ea36c71c81cee8551977130a5ece43a0102d1bf387f86c55fcf12fb0d4.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/dbb69f75b3d5001f92823ecf3d7e2110d3890788c3a460a0211544efb51c49ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e91680a854f92105282f62e1ae33b094caed64fe48ffcd5ecfc98207618f7c80.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cd238d3540300165757ee35592ea982aaeec6631077eb5cd036cbd6341cac769.jpg",
+				"name": "Fantasy Life: Who will you be today?",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c1a2979bf7e489bd30fa05d6515be7cf667c395566bfceb4f61cc124edc76bac.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "181"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f31c0f424ec01e483c401c6c61a6b95f04e0ec4299285e686e9cbf303c467560.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "181"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Opening Movie",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0c62ed5d28a22594bc5ef3342e59cb3f650a6ef8244e2fdd96f9e51cf734caab.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "170"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6c2545e6c9af4b1425a9f4e67482f3fb08e07c746363d93ffcbfecc2b5a12821.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "170"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Overview Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f8cb52a7f32570835a4200cf5011bfa91e1363a61baa2d0b639e618280aeab6f.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "178"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6786834dea90ea2d223d056c2a8d5fa842d5b9df4a01b0e2d1ee4edf1730df18.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "178"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Live life to the full in Reveria",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1ebebda569e012e6ab2fadbf8a7fd804e60af151c13e438518cd382e8d28d392.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "209"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4a19db02a7e0017ee884d19b251ff9a445502ee9c3a56d3af8f36b3751a1f33a.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "209"
+					}
+				]
+			}
+		]
+	},
+	"PT": {
+		"title_id": "0004000000113100",
+		"eshop_id": "50010000025115",
+		"product_code": "CTR-P-AFLP",
+		"name": "Fantasy Life™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e65dc8087d922a04f1086f4e0e16e8aee109ccb5ea210047c323e7596be89994.jpg",
+		"data_size": "898079588",
+		"description": "Embarca na aventura da tua vida de sonho e prepara-te para forjar, reunir recursos, pescar, minar, combater e explorar como nunca antes! Com o inovador sistema Life as tuas escolhas não se limitam a fazer um upgrade às personagens – ajudam a determinar a tua viagem! Explora um enorme cenário de fantasia em que não faltam paladinos negros, piratas cheios de artimanhas, princesas e muitas outras personagens que partilham do teu interesse pelo desconhecido. Muda para uma de 12 classes \"Life\" em qualquer altura para acederes a diferentes habilidades; por exemplo, a classe dos combatentes conta com lutadores temíveis, ao passo que a classe dos artífices é exímia na criação de armas e ferramentas mais potentes. Se as tuas preferências não incidem sobre as batalhas, podes sempre passar para a classe dos coletores e despender algum tempo a partir lenha ou a pescar. O que quer que escolhas, a aventura é tua e jogarás sempre da forma que quiseres! Mundo aberto robusto com áreas distintas para explorar",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-09-26",
+				"retail": "2014-09-26"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bbf581189b7b2854fe97337415221a591a11262c3f0aab7ba9f973d641c1d34e.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/15b71112f26a85be9312df4ead804b97e4c930bc93b5903cad0120bc2f4603bf.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2daece19699976552f034b93092b5db89dd6d630f277532d7773c55f9d45b422.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5b3730ea36c71c81cee8551977130a5ece43a0102d1bf387f86c55fcf12fb0d4.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/dbb69f75b3d5001f92823ecf3d7e2110d3890788c3a460a0211544efb51c49ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e91680a854f92105282f62e1ae33b094caed64fe48ffcd5ecfc98207618f7c80.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cd238d3540300165757ee35592ea982aaeec6631077eb5cd036cbd6341cac769.jpg",
+				"name": "Fantasy Life: E hoje, quem serás?",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/01ff7ca7df219f4b3a66265f18ab6960f4776721fca0514981c07ae42e8539f6.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "181"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/214466076eb592dfd349951785340fe22b69db1d154c3ed040f9f72bd9441ad6.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "181"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Cena de abertura",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0c62ed5d28a22594bc5ef3342e59cb3f650a6ef8244e2fdd96f9e51cf734caab.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "170"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6c2545e6c9af4b1425a9f4e67482f3fb08e07c746363d93ffcbfecc2b5a12821.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "170"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Trailer de apresentação",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/07ab533b31c737d7155e38ae77e369368e24cb8dd523186f2cdcc315925d4883.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "178"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b5d6e643305869ae744276156b8f422bbff35be711311dd7cf12b248037f8dec.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "178"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: A(s) vida(s) em Reveria",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ce3f63d8e9411ffe5768da00d730e280f1e45e43a2422ddf6593863263543092.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "209"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/312fcfbfc4ec8be7318f1cca424dc5e127499e4d63714dd3ab039eb45fdddb3c.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "209"
+					}
+				]
+			}
+		]
+	},
+	"RU": {
+		"title_id": "0004000000113100",
+		"eshop_id": "50010000025115",
+		"product_code": "CTR-P-AFLP",
+		"name": "Fantasy Life™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e65dc8087d922a04f1086f4e0e16e8aee109ccb5ea210047c323e7596be89994.jpg",
+		"data_size": "898079588",
+		"description": "Эта игра доступна только на английском, французском, итальянском, немецком и испанском языках. Отправляйтесь в приключение вашей мечты. Занимайтесь ремеслом, добывайте ресурсы, рыбачьте, сражайтесь и исследуйте новый мир! В этой игре вы не будете просто улучшать персонажей — они будут полноценными участниками вашего путешествия! Исследуйте огромные фантастические пространства вместе с мрачными темными паладинами, хитрыми пиратами, благородными принцессами и другими персонажами, которые разделяют вашу тягу к неизвестному. В любое время переключайтесь между 12 классами, чтобы получить доступ к разным способностям: например класс бойцов отличается суровыми воинами, класс ремесленников делает лучшее оружие и инструменты. Если вы устали от битв, выберите класс собирателей и станьте лесорубом или рыбаком. Это ваше приключение, и вам решать, как оно будет протекать! Открытый мир с обширными областями для исследований.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-09-26",
+				"retail": "2014-09-26"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bbf581189b7b2854fe97337415221a591a11262c3f0aab7ba9f973d641c1d34e.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/15b71112f26a85be9312df4ead804b97e4c930bc93b5903cad0120bc2f4603bf.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2daece19699976552f034b93092b5db89dd6d630f277532d7773c55f9d45b422.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5b3730ea36c71c81cee8551977130a5ece43a0102d1bf387f86c55fcf12fb0d4.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/dbb69f75b3d5001f92823ecf3d7e2110d3890788c3a460a0211544efb51c49ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e91680a854f92105282f62e1ae33b094caed64fe48ffcd5ecfc98207618f7c80.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cd238d3540300165757ee35592ea982aaeec6631077eb5cd036cbd6341cac769.jpg",
+				"name": "Fantasy Life: Who will you be today?",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5f7cd01d48fb440eb4ee9b6f2c8b4748602d86103db3b84a39883197349b00df.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "181"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/40407897c3c07f7644bba60a6a0f34ca9d5f36d2cdfa5b8fd64eea8590631404.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "181"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Opening Movie",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0c62ed5d28a22594bc5ef3342e59cb3f650a6ef8244e2fdd96f9e51cf734caab.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "170"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6c2545e6c9af4b1425a9f4e67482f3fb08e07c746363d93ffcbfecc2b5a12821.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "170"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Обзорный ролик",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/19ffa526d2ca2bffefc93b05d4f3d47892f756796f6921cdcdc106271bfe389f.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "178"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/46ee58826caca9ad3b0a8af135703103eb086b420b8e7d2cbbb47d993f4ac0a6.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "178"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Live life to the full in Reveria",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/497ac6c0fa8140b115b1f2ede9304f8a2ee82ac06b05dd59cf352611569a64c9.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "209"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/96ebf1431fea01b7c8b990cf437b26f0f7ede17627cdc0143e7b674d4c1b013d.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "209"
+					}
+				]
+			}
+		]
+	},
+	"SE": {
+		"title_id": "0004000000113100",
+		"eshop_id": "50010000025115",
+		"product_code": "CTR-P-AFLP",
+		"name": "Fantasy Life™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e65dc8087d922a04f1086f4e0e16e8aee109ccb5ea210047c323e7596be89994.jpg",
+		"data_size": "898079588",
+		"description": "Embark on the adventure of your dream life as you craft, cast, fish, mine, battle and explore like never before! With the innovative Life system, your choices don’t just upgrade characters – they help shape your journey! Explore a huge fantasy landscape beside surly, dark paladins, slick pirate captains, regal princesses, and others who share your taste for the unknown. Change to one of 12 Life classes at virtually any time to access different abilities: for instance, the combat class has fierce fighters, while the crafter class is skilled at making stronger weapons and tools. If you’re not in the mood for battle, switch to a gatherer class and spend some time as a lumberjack or a fisherman – it's your adventure to play your way! Robust open world with distinct areas to explore",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-09-26",
+				"retail": "2014-09-26"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bbf581189b7b2854fe97337415221a591a11262c3f0aab7ba9f973d641c1d34e.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/15b71112f26a85be9312df4ead804b97e4c930bc93b5903cad0120bc2f4603bf.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2daece19699976552f034b93092b5db89dd6d630f277532d7773c55f9d45b422.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5b3730ea36c71c81cee8551977130a5ece43a0102d1bf387f86c55fcf12fb0d4.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/dbb69f75b3d5001f92823ecf3d7e2110d3890788c3a460a0211544efb51c49ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e91680a854f92105282f62e1ae33b094caed64fe48ffcd5ecfc98207618f7c80.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cd238d3540300165757ee35592ea982aaeec6631077eb5cd036cbd6341cac769.jpg",
+				"name": "Fantasy Life: Who will you be today?",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c1a2979bf7e489bd30fa05d6515be7cf667c395566bfceb4f61cc124edc76bac.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "181"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f31c0f424ec01e483c401c6c61a6b95f04e0ec4299285e686e9cbf303c467560.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "181"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Opening Movie",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0c62ed5d28a22594bc5ef3342e59cb3f650a6ef8244e2fdd96f9e51cf734caab.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "170"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6c2545e6c9af4b1425a9f4e67482f3fb08e07c746363d93ffcbfecc2b5a12821.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "170"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Overview Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f8cb52a7f32570835a4200cf5011bfa91e1363a61baa2d0b639e618280aeab6f.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "178"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6786834dea90ea2d223d056c2a8d5fa842d5b9df4a01b0e2d1ee4edf1730df18.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "178"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Live life to the full in Reveria",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1ebebda569e012e6ab2fadbf8a7fd804e60af151c13e438518cd382e8d28d392.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "209"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4a19db02a7e0017ee884d19b251ff9a445502ee9c3a56d3af8f36b3751a1f33a.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "209"
+					}
+				]
+			}
+		]
+	},
+	"RO": {
+		"title_id": "0004000000113100",
+		"eshop_id": "50010000025115",
+		"product_code": "CTR-P-AFLP",
+		"name": "Fantasy Life™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e65dc8087d922a04f1086f4e0e16e8aee109ccb5ea210047c323e7596be89994.jpg",
+		"data_size": "898079588",
+		"description": "Embark on the adventure of your dream life as you craft, cast, fish, mine, battle and explore like never before! With the innovative Life system, your choices don’t just upgrade characters – they help shape your journey! Explore a huge fantasy landscape beside surly, dark paladins, slick pirate captains, regal princesses, and others who share your taste for the unknown. Change to one of 12 Life classes at virtually any time to access different abilities: for instance, the combat class has fierce fighters, while the crafter class is skilled at making stronger weapons and tools. If you’re not in the mood for battle, switch to a gatherer class and spend some time as a lumberjack or a fisherman – it's your adventure to play your way! Robust open world with distinct areas to explore",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-09-26",
+				"retail": "2014-09-26"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bbf581189b7b2854fe97337415221a591a11262c3f0aab7ba9f973d641c1d34e.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/15b71112f26a85be9312df4ead804b97e4c930bc93b5903cad0120bc2f4603bf.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2daece19699976552f034b93092b5db89dd6d630f277532d7773c55f9d45b422.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5b3730ea36c71c81cee8551977130a5ece43a0102d1bf387f86c55fcf12fb0d4.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/dbb69f75b3d5001f92823ecf3d7e2110d3890788c3a460a0211544efb51c49ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e91680a854f92105282f62e1ae33b094caed64fe48ffcd5ecfc98207618f7c80.jpg"
+			}
+		],
+		"movies": []
+	},
+	"SK": {
+		"title_id": "0004000000113100",
+		"eshop_id": "50010000025115",
+		"product_code": "CTR-P-AFLP",
+		"name": "Fantasy Life™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e65dc8087d922a04f1086f4e0e16e8aee109ccb5ea210047c323e7596be89994.jpg",
+		"data_size": "898079588",
+		"description": "Embark on the adventure of your dream life as you craft, cast, fish, mine, battle and explore like never before! With the innovative Life system, your choices don’t just upgrade characters – they help shape your journey! Explore a huge fantasy landscape beside surly, dark paladins, slick pirate captains, regal princesses, and others who share your taste for the unknown. Change to one of 12 Life classes at virtually any time to access different abilities: for instance, the combat class has fierce fighters, while the crafter class is skilled at making stronger weapons and tools. If you’re not in the mood for battle, switch to a gatherer class and spend some time as a lumberjack or a fisherman – it's your adventure to play your way! Robust open world with distinct areas to explore",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-09-26",
+				"retail": "2014-09-26"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bbf581189b7b2854fe97337415221a591a11262c3f0aab7ba9f973d641c1d34e.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/15b71112f26a85be9312df4ead804b97e4c930bc93b5903cad0120bc2f4603bf.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2daece19699976552f034b93092b5db89dd6d630f277532d7773c55f9d45b422.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5b3730ea36c71c81cee8551977130a5ece43a0102d1bf387f86c55fcf12fb0d4.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/dbb69f75b3d5001f92823ecf3d7e2110d3890788c3a460a0211544efb51c49ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e91680a854f92105282f62e1ae33b094caed64fe48ffcd5ecfc98207618f7c80.jpg"
+			}
+		],
+		"movies": []
+	},
+	"SI": {
+		"title_id": "0004000000113100",
+		"eshop_id": "50010000025115",
+		"product_code": "CTR-P-AFLP",
+		"name": "Fantasy Life™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e65dc8087d922a04f1086f4e0e16e8aee109ccb5ea210047c323e7596be89994.jpg",
+		"data_size": "898079588",
+		"description": "Embark on the adventure of your dream life as you craft, cast, fish, mine, battle and explore like never before! With the innovative Life system, your choices don’t just upgrade characters – they help shape your journey! Explore a huge fantasy landscape beside surly, dark paladins, slick pirate captains, regal princesses, and others who share your taste for the unknown. Change to one of 12 Life classes at virtually any time to access different abilities: for instance, the combat class has fierce fighters, while the crafter class is skilled at making stronger weapons and tools. If you’re not in the mood for battle, switch to a gatherer class and spend some time as a lumberjack or a fisherman – it's your adventure to play your way! Robust open world with distinct areas to explore",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-09-26",
+				"retail": "2014-09-26"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bbf581189b7b2854fe97337415221a591a11262c3f0aab7ba9f973d641c1d34e.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/15b71112f26a85be9312df4ead804b97e4c930bc93b5903cad0120bc2f4603bf.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2daece19699976552f034b93092b5db89dd6d630f277532d7773c55f9d45b422.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5b3730ea36c71c81cee8551977130a5ece43a0102d1bf387f86c55fcf12fb0d4.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/dbb69f75b3d5001f92823ecf3d7e2110d3890788c3a460a0211544efb51c49ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e91680a854f92105282f62e1ae33b094caed64fe48ffcd5ecfc98207618f7c80.jpg"
+			}
+		],
+		"movies": []
+	},
+	"ZA": {
+		"title_id": "0004000000113100",
+		"eshop_id": "50010000025115",
+		"product_code": "CTR-P-AFLP",
+		"name": "Fantasy Life™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e65dc8087d922a04f1086f4e0e16e8aee109ccb5ea210047c323e7596be89994.jpg",
+		"data_size": "898079588",
+		"description": "Embark on the adventure of your dream life as you craft, cast, fish, mine, battle and explore like never before! With the innovative Life system, your choices don’t just upgrade characters – they help shape your journey! Explore a huge fantasy landscape beside surly, dark paladins, slick pirate captains, regal princesses, and others who share your taste for the unknown. Change to one of 12 Life classes at virtually any time to access different abilities: for instance, the combat class has fierce fighters, while the crafter class is skilled at making stronger weapons and tools. If you’re not in the mood for battle, switch to a gatherer class and spend some time as a lumberjack or a fisherman – it's your adventure to play your way! Robust open world with distinct areas to explore",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-09-26",
+				"retail": "2014-09-26"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bbf581189b7b2854fe97337415221a591a11262c3f0aab7ba9f973d641c1d34e.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/15b71112f26a85be9312df4ead804b97e4c930bc93b5903cad0120bc2f4603bf.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2daece19699976552f034b93092b5db89dd6d630f277532d7773c55f9d45b422.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5b3730ea36c71c81cee8551977130a5ece43a0102d1bf387f86c55fcf12fb0d4.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/dbb69f75b3d5001f92823ecf3d7e2110d3890788c3a460a0211544efb51c49ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e91680a854f92105282f62e1ae33b094caed64fe48ffcd5ecfc98207618f7c80.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cd238d3540300165757ee35592ea982aaeec6631077eb5cd036cbd6341cac769.jpg",
+				"name": "Fantasy Life: Who will you be today?",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c1a2979bf7e489bd30fa05d6515be7cf667c395566bfceb4f61cc124edc76bac.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "181"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f31c0f424ec01e483c401c6c61a6b95f04e0ec4299285e686e9cbf303c467560.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "181"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Opening Movie",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0c62ed5d28a22594bc5ef3342e59cb3f650a6ef8244e2fdd96f9e51cf734caab.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "170"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6c2545e6c9af4b1425a9f4e67482f3fb08e07c746363d93ffcbfecc2b5a12821.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "170"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Overview Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f8cb52a7f32570835a4200cf5011bfa91e1363a61baa2d0b639e618280aeab6f.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "178"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6786834dea90ea2d223d056c2a8d5fa842d5b9df4a01b0e2d1ee4edf1730df18.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "178"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b8f82eaf9825a2fe083b199892a64b3b386cddcc20301b92d37dda65d2f4819.jpg",
+				"name": "Fantasy Life: Live life to the full in Reveria",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1ebebda569e012e6ab2fadbf8a7fd804e60af151c13e438518cd382e8d28d392.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "209"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4a19db02a7e0017ee884d19b251ff9a445502ee9c3a56d3af8f36b3751a1f33a.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "209"
+					}
+				]
+			}
+		]
+	}
+}

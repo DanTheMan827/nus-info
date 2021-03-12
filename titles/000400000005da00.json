@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "000400000005DA00",
+		"eshop_id": "50010000028215",
+		"product_code": "CTR-N-JFFJ",
+		"name": "FINAL FANTASY",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 246,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d715aca76ff10b05384c34ca80522601cdab95ac1051e4e47e88d4ddc13038ee.jpg",
+		"data_size": "220650340",
+		"description": "1987年に登場し、心に響く壮大なストーリーと演出、 記憶に残る繊細なサウンドで人々に感動を与えた『ファイナルファンタジー』シリーズの原点となる作品。 風、水、土、火……4つの力の源「クリスタル」に支えられた世界が舞台。 クリスタルに導かれし若き4人の戦士たちが訪れた地「コーネリア」からクリスタルの物語が幕を開ける。 リメイク作品から追加されたエキストラボス、ダンジョンも完全収録。 さらに美しいグラフィックを3Dで体験できます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-01-21",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/284929ee2c865b42f191dc0b850223aca1b1ca4d46dd5e9d782e738439979130.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5f9f109c038f62a914958d5e5bdd9e5809f9ac307d8a44a1ddefb309bf1720ee.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/4cbc2423cbf7b8eed76b7277190be2e6beb78cd64467e12c703b553891d3d521.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5a7d296d7cb64f4db0714028d3527a33e0ca128bf66ff349ce42a51b29c57abe.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f417d68ea6a9e12c52e098c86268c47f2f1f5217a8f308d82c3b6fd5aba3d958.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/109dbffb134c13ffb39e7ea52c5d75b22019a92474c65e5899021ecb91f37478.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0f65aac9628a1a9ee0811646cacbefb8914ec9dd07f8135973ab2cc15175607d.jpg",
+				"name": "FINAL FANTASY 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d583d02654f6e31fde80557fbfec32a668affc1a9ea562e961c951235333b293.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "100"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/31b3418888c517cff08822ec078dc6260514dcc55d74f7e31b28d62746a49a44.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "100"
+					}
+				]
+			}
+		]
+	}
+}

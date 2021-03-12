@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101B8B00",
+		"eshop_id": "20010000017168",
+		"product_code": "WUP-N-DARJ",
+		"name": "ゼルダの伝説 大地の汽笛",
+		"platform": 169,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bb474b25124cc3888a89ae8ddfde610003e8cc780c0c712ebb8e2b1a7ba52fb0.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d191e20dbd35a2c91c1053f420739dfe7375d44865f62c7d9a04d0d25af6b5b7.jpg",
+		"data_size": "106332280",
+		"description": "このソフトは、2009年に発売されたニンテンドーDS用のペンアクションアドベンチャーゲームです。 この国の中心にそびえる「神の塔」と、神の塔に力を送る各地の「神殿」。 平和が続くこの国でしたが、魔王の復活をねらう者の企みにより、2つをつなぐ線路が失われ、世界に異変が起きつつありました。 魔王の復活を阻止するため、見習い機関士のリンクとゼルダ姫の冒険の汽車旅が始まります。 大地に張りめぐらされた線路は、草原や雪原、さらには海の中など、世界の隅々までつながっています。消されてしまった線路を復活させると、冒険できる場所が広がっていきます。 ゼルダ姫の魂が入り込んだ「ファントム」との連携プレーで罠をやり過ごしたり、入手したアイテムを使って仕掛けを突破したり……。あなたの知恵と勇気で世界の謎を解き明かしていってください。 ※おすすめの画面レイアウトは「下画面 重視レイアウト」です。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-08-09",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/edeeb27e37337013eb3b426b9910a66db597c6968a7d43de426f50c4d78ff175.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/a151849586115def3614eff103f690c04ecc8576d4286fb44f5b40dca5952c37.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/85034168227a17a0935aee9d42aaa270895345ef94bd5e5313f4def269f4e0f9.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d3c43f8c02150b16bd68458d37ac04f3f925fe17c19b27afa28fe9dd181c3a3f.jpg",
+				"name": "ゼルダの伝説 大地の汽笛 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/34cc3c4a456565be1c0a14f1c51bd298619ed43dffb83f092e3f44a8911c5586.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "69"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/53002c5f4dd203dd7e0bf373adb64499a57292412d2b0157e51e622e72e7cf88.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "69"
+					}
+				]
+			}
+		]
+	}
+}

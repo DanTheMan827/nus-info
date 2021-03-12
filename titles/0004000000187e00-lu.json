@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000187E00",
+	"eshop_id": "50010000041866",
+	"product_code": "CTR-P-BBPP",
+	"name": "Picross 3D™: Round 2",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ad17e4ae49aaf9c8d0d11cb0da29b1b35910969cda67d4387623a4a311d13235.jpg",
+	"data_size": "138902372",
+	"description": "Résolvez des casse-tête en 3D pour trouver des objets cachés dans Picross 3D: Round 2 ! Dans ce jeu, utilisez les nombres affichés sur les blocs pour savoir lesquels peindre afin de résoudre les casse-têtes, et il y en a plus de 300 ! Arriverez-vous à dévoiler l'objet dans chacun d'eux ? Cette fois, les blocs peuvent être peints en deux couleurs, il y a donc encore davantage d'objets élaborés à découvrir. En scannant un amiibo compatible (vendu séparément), vous pouvez même profiter de casse-têtes inspirés des personnages Nintendo. Les casse-têtes peuvent être résolus de différentes manières selon la difficulté que vous choisissez. Si vous êtes sûr de vous, pourquoi ne pas en essayer avec un niveau de difficulté plus élevé ? Visitez le site amiibo.nintendo.eu pour voir la liste des amiibo™ compatibles et en savoir plus. Un lecteur/enregistreur NFC est nécessaire pour utiliser les amiibo avec les consoles Nintendo 3DS, Nintendo 3DS XL et Nintendo 2DS.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2016-12-02",
+			"retail": "2016-12-02"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/169ba2b2da2fcb7f5f8708309b88b656055890e4776fb80f9788978ba78dea4a.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1327b2242a0cc00be9d21caf955671eb54c0b0c290c2ea1384b108034b3e729a.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/4a7aa9b2ca151cbf9e06e274df78b96da2667839bdb3c311d2bd21b07b5f68fb.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/011490984f9dbb4e481509e4431643a9486508d1f68a50a050125415d1ffeb0b.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3bcdbc90aec2853ec19ec8fd3d4a92bf1d24c2da8a59b6aa9af3000d5fe43483.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/61d13538911e5e479dbf046d4a5dd057c7be639a3581dac9eedd4d9bb156f07a.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/357f0754b82eab08c41c9ed5060742b4ce9973b97849b46134f784bf6668649b.jpg",
+			"name": "Picross 3D: Round 2 : aperçu vidéo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/20092d1799a34f73a9eba4ab6bde5f7d8d44f2ec66a066aedaa7ec110d6a2f97.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "63"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7983d5ecf80476d6c72fbae7519ae95df34eae126fd72b4e8ad022d6c4b54200.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "63"
+				}
+			]
+		}
+	]
+}

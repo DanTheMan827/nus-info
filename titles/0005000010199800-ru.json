@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010199800",
+	"eshop_id": "20010000015047",
+	"product_code": "WUP-N-NACP",
+	"name": "Paper Mario™",
+	"platform": 170,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/096ff5d129e7b3dbe4a311c5bf5dc6293822443f6cffb1d89b1341d2aa9d7564.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3446e26f9757a2dbcdeb511e5fc425331ab7fea5e399f6a399adc514dfbcb584.jpg",
+	"data_size": "96993400",
+	"description": "В этой игре Марио двухмерный, но приключения у него отнюдь не плоские. Paper Mario отлично сочетает в себе традиции платформера и веселое ролевое приключение с задорными персонажами и заданиями. Пуститесь в необыкновенное путешествие по Грибному королевству, чтобы освободить звезды, плененные властолюбивым Боузером. По пути вам предстоит сражаться с врагами в походовых боях, сотрудничать с интересными персонажами, находить скрытые мини-игры, и даже испечь пирог! Если вы приобрели игру на Wii™, вы можете передать ее на консоль Wii U™ и получить скидку на обновление игры до версии Wii U. Это европейская версия игры. В результате отладки, выполненной разработчиком, музыкальная дорожка в этой версии воспроизводится практически на той же скорости, что и в версии для США. Игровой процесс, демонстрационные ролики и анимация воспроизводятся на скорости PAL. Кроме того, был откорректирован формат изображения (отношение его высоты к ширине).",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-05-21",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/db5d52d9feb5a06602f8ab3b3204d0489e8cebaa52c8efde800c7ac927195cd2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6b5ccd4226326e510aec603cb58745ea9880590f1681f7cba8327b395fa47287.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6d9636f7e08b811e3ddce49b9e9c0784f8b15188f97c55e8197102c19efd08c5.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/59f9a92840b5d9fed341b3129a4d0966fc656c9e2e83baa4891c1554223f612e.jpg",
+			"name": "Paper Mario™: видео",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/93c56d0d728e2ba8d157633865e513b6aa4bb442550c905c98e27647080c9ec1.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "59"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/99e52d2807d314b83b73e65c01ea2b9d25c05e7bab0dc13475a522835da0b33b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "59"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010149B00",
+		"eshop_id": "20010000002767",
+		"product_code": "WUP-N-FBMJ",
+		"name": "テニス ",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b7685e91df7f2b96c314b2d2b390ff23ffdf0608025fc96fdcf7acf709a0c0e4.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6b6b8e0ed3103616a6504276d609d7ffdd0fe26338d705641047bf6b69fa4c0b.jpg",
+		"data_size": "36503692",
+		"description": "このソフトは、1984年に発売されたファミリーコンピュータ用のスポーツゲームです。 プレイヤーはテニスの選手として登場し、サーブやラリーでタイミングよくボタンを押すことで、ボールを打ちかえし得点を重ねます。ボールと選手の位置関係や押したボタンによって、「高速サーブ」「スマッシュ」「ボレー」「ロブショット」など特殊なショットに変化します。いかに変化あるショットを、相手のいないところに打ち返すかが勝利のポイントです。2人プレイでは、ダブルスでの協力プレイに対応しています。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-10-30",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/9a663a66b648ecb6d9c4b2e9ca560fa18a6d045a9c9da2ba4fab09c6c2de38e5.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/1f95d5a01d700f0264d58c3d7ab6fd35c8ee4200dd50410074c1b494d6a74b1a.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/631451cb277cdd098667b1d452c94cd0d9f80191ba8c1f288c360d2c0baf8370.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9c20802c538bfe4bffe505418906af537bcfefe7a8b97d15a1efb9c602858a05.jpg",
+				"name": "テニス プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2482e00f7d3bee2d95e75dbaca3f5eaa44f5f778a5d53bbafc33dfb242d79360.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5be74628753190604b47186265414e558723b56da5f4f6aa79e282311903d5fe.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					}
+				]
+			}
+		]
+	}
+}

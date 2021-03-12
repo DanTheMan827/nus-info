@@ -1,0 +1,79 @@
+{
+	"title_id": "00050000101F5E00",
+	"eshop_id": "20010000023087",
+	"product_code": "WUP-N-ALFE",
+	"name": "Defend your Crypt",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1536,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b1bb3ffda1ec861fbf5b4d20803163bbafbdb51449b3ae56be04ca1bfcf9f243.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/cd29cc968f3b6cfe2e04959f5db58d79c30940e88adb05ab688c704378e2073f.jpg",
+	"data_size": "46268556",
+	"description": "Defend Your Crypt es un juego de puzzles y estrategia en el que tendremos que evitar que los ladrones de tumbas se hagan con nuestro tesoro. Nosotros como faraón podemos usar varias trampas diferentes para deshacernos de los ladrones. Estilo Retro: Como gran parte de nuestros juegos, Defend Your Crypt también tendrá un estilo pixel retro. Intentando además conseguir una estética egipcia más que interesante. Variedad de trampas: El juego cuenta con trampas clásicas como pueden ser plataformas que se abren para dejar caer a los ladrones o pinchos, pasando por trampas de agua hasta llegar a escarabajos y escorpiones asesinos. Gore: En Ratalaika Games sabemos que os gusta ver sangre, así que hemos incorporado sangre, mucha, no será suficiente con solo matarlos. (Se puede desactivar) Niveles: Como buen faraón, tenías muchas criptas ocultas de las que casi nadie tenía conocimiento. Así que prepárate para aniquilar todo ladrón existente a lo largo de una gran cantidad de niveles.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-07-21",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/79c90bb63e0a5ef4148f2a85ae69d727f336b62e0fd6c22672fef1893ffe8ac9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/338143a077e0f7c8fda0c48607c2f5424c321bf369225c7f2642c3e053dfe61b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e7c09f67f6651ee623be5aaf381668fdfebe157e6ee0329dacff56c90140cfb3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d4f5d5d87c9a8998bb40ab17c9a04134343eadbc7be97d0f33769b599b6833cf.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/283977f936c916456e18b84201e491f78a88d08eb4b3c42bebfa44a9d498663b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b03a76f850508cc023218b509b806053836f5e766e9ec22f13ff36035abea50d.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c11fe1106c36d5c9394a0427d271751250467c422f73a1bf871a69b9c35bad85.jpg",
+			"name": "Defend your Crypt Vídeo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/dab680e408c32e55a6dc6ebee89d459fa7f62ae75464806498cdcf188e6c68c4.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "132"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/be1931b06edc53bcc73bca3ca245a2a298bcfa83f0a7571c71d8e2b29c0decff.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "132"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6d9ce709d84b48aebbc278081e137a5e8f9f25130db9cd933fc7c75e2e9842b9.jpg",
+			"name": "Defend your Crypt Vídeo 2",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/31e9a6290c5e6e5ed1d48a35f67b1f8c2cece9f22aef45bd1205fde2c1e30255.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "80"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4fc4c9b3e66f9f040a4ccc3ef22de35addc31fa4ff0a993225f25b4cc30ef6d4.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "80"
+				}
+			]
+		}
+	]
+}

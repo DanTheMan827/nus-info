@@ -1,0 +1,87 @@
+{
+	"JP": {
+		"title_id": "0004000000108000",
+		"eshop_id": "50010000016873",
+		"product_code": "CTR-N-JWKJ",
+		"name": "ワケダス",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 1212,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/cf6f844d5b80909e691a3e8f141297052f48138d9beee6670ec0e94aca875df8.jpg",
+		"data_size": "54991716",
+		"description": "『ワケダス』は、ステージ上にあるいろんな色のブロックを色ごとに「分け出す」純粋思考型パズルゲームです。 ブロックは「行」もしくは「列」ごとにスライドすることができ、押し出されたブロックはループする形で反対側から出現します。 青は青で、赤は赤で、各色が固まるようにうまくスライドすることができればステージクリアです。 通常ブロックとは別に「固定ブロック」「回転ブロック」などが存在し、全面クリアするには頭を回転させなければいけません。 単純に見えて、気づいたら「ハマってしまう」楽しさがある、クセになるパズルゲームです。 「3ｘ3」「4ｘ4」「5ｘ5」と3つの難易度があり、各難易度には100ステージが用意されております。（＝全300ステージ）",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-10-16",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0d35a111ad90b85edf6d8d84f38abf5528017047b53e2efa02fb7dd1b3a50234.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1b8731b562dbbf8db90d4123bbaf3b0f1b25ecbec529f933951334f27196b043.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3174cce526d4d573fca625878e9ac306219582ddd0ebd436d4ac82cba130e1e0.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/34673cefacb01559b2c4d548082acb6c92f3ab7984aba7d271a9b9e6149d375d.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0d7aa0105b22e4fba4f2d11e7559e20d1a649b2c325e79ecad8a9fba0f5dca45.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e3ea27c7bdc933e92853dab186cd7493dab03b5bd09a9796c1a60026a9dccf28.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/55d59a3f7a2aa5b35389aaa2b035b403aef8d34bd8c557bad465ebf4eef3a911.jpg",
+				"name": "ワケダス 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0b2d8adf2048388ba29eab59e94143bdae0fe1492a0f31b4183225df865d5581.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "159"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7925ce153774cb48838e62db2021cbd39ebf497269bc0277be3adfa37be50822.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "159"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/30e0a059f4d8508272958c38facaddb9e859b9519acaa917345f85b008d040cb.jpg",
+				"name": "ワケダス プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/aec28f29687b949d5a65ac4b8a12a53ad054db41de98c6d3f552a59cd9a36da7.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "50"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3e563f2ed501c561c2697cbcc72ad1e22079bc1c30e02c2dae84b666fcadc998.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "50"
+					}
+				]
+			}
+		]
+	}
+}

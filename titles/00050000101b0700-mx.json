@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101B0700",
+	"eshop_id": "20010000025467",
+	"product_code": "WUP-N-VAKE",
+	"name": "Rhythm Heaven™ Fever",
+	"platform": 171,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/945af8babc5732e2eb3f4fce84994de316986474c3741d7d6d7daf5db0c8d4cc.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/50960c3da8d239dff24abd3b8af34adc8cbad7b5164739f3c4625ad01bd58aba.jpg",
+	"data_size": "488341724",
+	"description": "Perfecciona tu ritmo con más de 50 minijuegos y mezclas en este extravagante y encantador juego. Música pegajosa y alocados escenarios mostrarán a los jugadores cómo sentir el ritmo. Fácil de entender pero difícil de dominar. Intenta realizar interpretaciones precisas, si lo logras, ¡obtendrás recompensas como medallas y contenido extra!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-11-10",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/a6f05e60f69a594f8a8bf68a446ed669ab259cbefcefcd37f2ecf691e7003d92.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2b163a086e85009bacc501b39256da7d1e67e5acdfbbb6304a7060d47e21e4e7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e3b995fd1ac743291afb3ebc4cf8b574a851ccfb2a72ef836d6bb402486b0538.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bbd1a721778fbbcfa66096af5aadeec02a8ff7b66ffac6cbeecad652ca7a5324.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/920cc69427b24ec124864436147f821cced5d34c10327ecac756092e61e8f943.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/047323c042323baf737bd3834769ac0233bf4046f4435a8d51fd6935ace11be5.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/da5c5e48057a3162d4f5bea60867e26b80afe106bb5c363b61e1d24e2d306e09.jpg",
+			"name": "Trailer de lançamento Rhythm Heaven Fever",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0e19cdfa0708efa69b10425fa94ec1265634579b5ed17b625be4c8e15f45242f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "124"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/da2066dd721caacfa8518102dd91d1e337d33eccd55faf60c02d8aee134d742e.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "124"
+				}
+			]
+		}
+	]
+}

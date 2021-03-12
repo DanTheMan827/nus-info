@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001016BC00",
+	"eshop_id": "20010000007227",
+	"product_code": "WUP-N-FC3J",
+	"name": "イー･アル･カンフー",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7c0489cef49142a5161c3a6bc449aa980159a1ebb1e1d4ffefea69ce3a4d8511.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/895a4a026ff627b27543d2c7fd91005cbfe666fbdbe45574aaf6195edebe5bec.jpg",
+	"data_size": "38699168",
+	"description": "このソフトは、1985年に発売されたファミリーコンピュータ用のアクションゲームです。 悪行を重ねるチャーハン一族を倒すため、主人公「李(リー)」はメンマの塔へのり込みます。ボタン入力の組み合わせによってパンチ･とびげり･ハイキックなどの技を繰り出し、相手のエネルギーを0にすると勝利です。ステージの合間には飛んでくる扇や刀を壊すボーナスステージも用意されています。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-09-17",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/9a1d7d68e928a27aaddcd0f3b13b7d9195eecd152905d1810400fbfcf7e21e07.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9526578bee216a8010caf4619569fcdec1485cd1a6af6f4313ad9e34a3671f70.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2f17de2a165b6eeaeb2a3c6265e49164f26e7cc52b7a4ebbd2c5912684776251.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c361aa98115aed82fbabf92ff2a98622ea77790997715a575e4ffca839f3912e.jpg",
+			"name": "イー･アル･カンフー プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d00881299bebb1246dcf46fe326bc87877ebafba973e7af5eb942b3d5577fa07.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d9d09e538aed9ee2c27fba69b229603a42592e1115467153e39b9a03b8155ea0.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				}
+			]
+		}
+	]
+}

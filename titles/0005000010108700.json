@@ -1,0 +1,78 @@
+{
+	"JP": {
+		"title_id": "0005000010108700",
+		"eshop_id": "20010000000564",
+		"product_code": "WUP-N-FAJJ",
+		"name": "バルーンファイト",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/edcb54b7e15981a6cfd1b27fe0edefb87d4ba592f5330fe15dbe17d8d8f6ee21.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/21889cc012ca402cb742024656d7371ec3a76bb5da40ffe910a296fb610ff13f.jpg",
+		"data_size": "36536460",
+		"description": "このソフトは、1985年に発売されたファミリーコンピュータ用のアクションゲームです。 風船で空中に浮かび、体当たりで敵の風船を割って倒していきます。勢いがつくとなかなか止まれない、ふわふわした独特の操作感が特徴です。画面中の敵を倒してステージをクリアする「通常モード」と、横スクロールのステージで雷をよけながら進む「BALLOON TRIPモード」があります。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-04-27",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/38c5fb9c7e49d4866465a682e4d8f3d9f869abb3f91854a9cef13c51e3b9d8ec.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/dac148f6aa99ade4530f577d9b76beacf09753cb692f3bac9a9cfccb3932d5f7.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/f35aa614f6a410f70c16d4161af2a3aa8beb6754ca63b19b9e3f260730ca524d.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c668e108d2833a41f8adbabcc60c84405b3448bc939facc54ade54aa36b6cebf.jpg",
+				"name": "ゲームセンターCX 有野の挑戦HD 「バルーンファイト」",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd34c35089ff184ad9efa693b2c9e0479c72c6a726de2c0aa9bda5f7cad0d362.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "1081"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f2e076e06c78006f79022bce99d936439cfdd1547a8f79cc54c4391af227de43.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "1081"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4be5d3f18ac6b71f88e1aea59db576c2fa4b3cd746aa8bfbd3de852fe0d240a5.jpg",
+				"name": "バルーンファイト プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7b9803f187989769e8f01eb7f3478802c9508af8b9eba165fc64dd7c03a148ac.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "42"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f80d6100629c420f30db4a55ad090dd6ffa8c14e392b2dcb3cc16d561af85aa0.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "42"
+					}
+				]
+			}
+		]
+	}
+}

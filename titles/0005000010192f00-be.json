@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010192F00",
+	"eshop_id": "20010000013687",
+	"product_code": "WUP-N-PBZP",
+	"name": "Mega Man™ Zero 3",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 39,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9127f1dd8816568a0cae73d6dd18f3ffb76d587c5c7cffa6f57d51ad4c162e66.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/744d302b648f246d9912597ea41aed70c631015becfb4791bd4ed39aa2187a7b.jpg",
+	"data_size": "92242060",
+	"description": "Dans ce troisième chapitre palpitant de la série Mega Man Zero, le héros-botique vient une fois de plus en aide à Neo Arcadia ; mais le danger se présente cette fois sous la forme d'un nouveau Réploïde géant : Omega ! Heureusement, l'arsenal de Zero est maintenant bien plus puissant. Les Cyber Elves ont été améliorés, et de nouvelles capsules à customiser remplacent désormais les anciennes, et vous permettent de les associer en fonction des situations. Sans oublier la nouvelle arme de Zero qui va donner une bonne leçon aux ennemis !",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-03-26",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/65a2555644fd6b82a1dc7f7a0af466187c7615878ac1bc88ed1559ab748d9143.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/474e829be2f67b7127cf71f8608c2dc866b0b6ed43529092df24791be834de61.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/81cca6cc20d401f44530e0af7c146c79218dd0d956e6ffaa1180a4a9f5ee0986.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6785e44b9b1b492e0593cfebf05ca505604c9203cb11efc81d08bb899faf5935.jpg",
+			"name": "Mega Man™ Zero 3 : vidéo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6f4b612454854ab85be7708e1c69c1d9a4d041bd8f25765b1df0903648a31e97.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "43"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4d141a22dd0d5c3d4e0b31203fdee7ae4edb693ed7b3b21702225225c202e8f5.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "43"
+				}
+			]
+		}
+	]
+}

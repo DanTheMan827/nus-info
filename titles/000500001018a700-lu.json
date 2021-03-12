@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001018A700",
+	"eshop_id": "20010000020307",
+	"product_code": "WUP-P-BDNP",
+	"name": "Dinox",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 74,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/505aa51c3117bf32f57b4aebcb5b2e8286aad5eaf8cb96417e915cbcd5b97be7.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3c4d244659fad0577eecaf40a5d4592504cb8a5167531b374c41d0133e48c934.jpg",
+	"data_size": "1910309164",
+	"description": "Fans de dinos, vous êtes au bon endroit ! Vous avez découvert un véritable trésor de creatures préhistoriques ! Dinox est un jeu addictif qui vous propose de tester vos connaissances en matière de dinosaures. Grâce à des vidéos de qualité et criantes de vérité, Dinox vous montrera tout sur l'époque des dinosaures. Mais ce n'est pas tout : un classement des scores vous permettra également de défier vos proches. Pour cela, vous devrez obligatoirement apprendre des choses sur les dinosaures ! Jouable en anglais, français, allemand, espagnol et hollandais. Dinox offre plus de 900 questions à choix multiples. La lecture n'est pas obligatoire, car toutes les questions et tous les commentaires sont parlés dans la langue sélectionnée. Il existe également différentes sortes de questions, alors prenez votre GamePad et plongez dans l'univers des dinosaures !",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-12-10",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/856fff29fd895888b0a8da0d84ec782d0fae66b3fd158d68a8066b0862599ffe.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0280fb6cb55ffd2423767c8710f10d57901bb59f29b871cfa39d3b4f8702d1e1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4ba15bd1e211da3607ecd91c3d19c9e569621ca47b155a746517f48d80a2bb3f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6f121c85c23388406f99867931da87aed726460885eaaab8d4ffde33a7681827.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/636cf94eb7c8adee78b5536ebf171741462b57f595470c21d102232fb1caefb1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ac60d9b5e89ee6db18d5858bfab3039e40f5bd40126c4d5af8747e6fd5974c37.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/672f0c012b7fdd6cbc870d0d0bd6a8652ae2036df51365d464a0fffec9106aae.jpg",
+			"name": "Dinox bande-annonce",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8c4b65ea06775f77dccc3f2501faf5ddd3c561f1056b8f9fdc37c8a967a0c615.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "33"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2ab940e410fede5eaa4a84abb46095dacd8187861899583366e16151ec710e88.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "33"
+				}
+			]
+		}
+	]
+}

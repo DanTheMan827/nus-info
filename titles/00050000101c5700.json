@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101C5700",
+		"eshop_id": "20010000016067",
+		"product_code": "WUP-N-WAGJ",
+		"name": "Abyss ",
+		"platform": 124,
+		"platform_device": "WUP",
+		"publisher": 1402,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/37eb249786f87904bffcecdc10ac87d779ee936f93144e40bcdc0c6fb7b67b62.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/fce7aaadd6a6bfc5f171a21f542ba92277c6c9acfb5f6ec0220ecb9ac0ada971.jpg",
+		"data_size": "133988492",
+		"description": "『Abyss（エイビス）』は、イカのようなロボットに乗り込み、海底を探検しエネルギー体を収集していくゲームです。頭の方向と足の力を微調整しながら海底を探検していきます。シビアで慎重な操作が要求されるゲームです。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-07-01",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/82b9f1746d8494ef4be3efe76657562bb451e4e5fbb73048a1f1753063f6b755.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/c314b78c88d507e7a8e8972e08783e3de84870ddbf60d6cd86e61d486f6795fc.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/6b1a59bf624d1bad5b8d21ba2f5598ffe4c0372849ce018a25213bab2e7ac9e0.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a3ead7ba191e4ebc1ca9a72467f2f589501e021de901db5e910c9e600d42b884.jpg",
+				"name": "Abyss 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ceb6bd71ff75275862b2eeba92793c973126073995287160bf2d9abdf48f83ed.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "65"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e0b53c07ad1644679048105f5a6a68a0107e64bfb5b1f511a2c5bfc10928da84.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "65"
+					}
+				]
+			}
+		]
+	}
+}

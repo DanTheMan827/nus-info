@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010173500",
+		"eshop_id": "20010000006706",
+		"product_code": "WUP-N-PAXJ",
+		"name": "スーパーマリオアドバンス",
+		"platform": 168,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ca982bde4d6b6a08a88056ccf254aec789546752c634df6d8b07e062cf3900c6.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/1eba66d269ba76d697932b59ac942ba49a23173af259e6380357f898590b37c2.jpg",
+		"data_size": "87261304",
+		"description": "このソフトは、2001年に発売されたゲームボーイアドバンス用のアクションゲームです。ファミリーコンピュータで発売された『スーパーマリオUSA』をアレンジして収録しています。 おなじみのマリオ･ルイージ･ピーチ姫･キノピオが、夢の国「サブコン」で大活躍!! 野菜や迫りくる巨大な敵を、つかんで担いで投げまくる引っこ抜きアクションを駆使して、マムーの魔の手からサブコンを救え! ※当時のパッケージ裏面に記載された文章をもとにしています。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-07-16",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/0addcc677dda11179600afd6bd28acf0748d197017a6cce61873593e6877f87e.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/180ffe7cedaf7ad84bd4e9d9ba166c4b6bfdba007c3fadd63430384505c92dda.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/c931d39beb573aadb00442bc2e84140d34e3e4079445fa8884a399d996d361c8.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/14d89f5d7b904bba8b1bf6e3903537f634b092c867283528bdfb9df063d011c1.jpg",
+				"name": "スーパーマリオアドバンス プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2d4ac94b34d22b4c8c6616e1b008f37a52262c05362e2fbd2ec389405cbf7390.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "44"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0c6f8cc5363fe8024407290b385e198c8f0ee31b59676923fae3f6dcba38e606.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "44"
+					}
+				]
+			}
+		]
+	}
+}

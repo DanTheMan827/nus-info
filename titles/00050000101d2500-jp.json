@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101D2500",
+	"eshop_id": "20010000020927",
+	"product_code": "WUP-N-PDKJ",
+	"name": "チョコボランド",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 246,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/27138c754b108e5bd69eb90a7527bbaccc8b855e8baba78a9f1c8ea174ba6050.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6c7c6d57dffda537fa2ef63996a169f1537735901b1da3e7c392d517751be263.jpg",
+	"data_size": "75923596",
+	"description": "このソフトは、2002年に発売されたゲームボーイアドバンス用のボードゲームです。 『ファイナルファンタジー』シリーズの人気キャラクター「チョコボ」が、今度はボードゲームで大冒険。 ストーリーに沿って遊ぶ「おはなしを遊ぶ」、コンピューターとの対戦プレイができる「みんなで遊ぶ」の2つのモードが楽しめます。 サイコロを振ってマップを進みながら「クリスタルポイント（CP）」を集め、設定された目標額まで貯めてスタート地点へ戻るとクリアです。 マップにはCPで買える土地があり、プレイヤーが止まると土地の所有者にCPを支払います。自分の土地に止まった場合は、増資したり、土地に置いておく「友達魔石」の効果を上げたりできます。発動する効果は友達魔石によってさまざまな違いがあります。有利に働くように置きかたを工夫してみましょう。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-02-10",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/425afe47ab96a70e0fd7b93313724327327b735a3374587de3c7042a4ff4e950.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/06fe1fc82a213cfdcee212025e77402927f2e1d77df898b82dba4dd52e202222.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/407809868d8dd0bbe879731db83ab01b2eb103242230a7d59cc6fd2a0fd304f5.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0bf7c69a94eddec9782d680084bb4007a8258ffabdf249e933614422feabe44f.jpg",
+			"name": "チョコボランド プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4051156fed6ec3c96463c4a4a8f8a647cd853041b28e355ac3126c96fce792fe.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "70"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/48eb3e5fd7e9fadd627e54a4eb7a7e455f491120065238f0dd42d32134c39e8f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "70"
+				}
+			]
+		}
+	]
+}

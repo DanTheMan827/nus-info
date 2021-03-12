@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "00040000000D1E00",
+		"eshop_id": "50010000014572",
+		"product_code": "CTR-N-JB7J",
+		"name": "マリオ AND ドンキーコング ミニミニカーニバル",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a2e14b89dd15da50d9dee25453a6da571cfa311ffc920544778895a748671442.jpg",
+		"data_size": "47823716",
+		"description": "下画面のタイルをうまく並べ替えて、「おもちゃのミニマリオ」を制限時間以内にゴールへと導くアクションパズルゲームです。ミニマリオは、パネルに描かれた道に沿って進み、その様子は上画面で立体的にリアルタイムに映し出されます。ミニゲームも収録されているほか、オリジナルのステージを作って世界中のユーザーと交換することもできます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-07-24",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d854319ef58f2c59e6080695b10e5913f46f40305502f8742010dd7381034ce8.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f5675b9ce6c2e44d5323dd533fdfb66c4eaea1298e0da297dff7586dba0c5fea.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/35c4f9db58913c77e6968069ec6b6322d83920789188db5e8cc539747dcdfee5.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9dfb49220300615b50fa9950a2a9b8232aa2b278b1bd9d53da45c2728af6fbd0.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/407be459f4461d05757a740e67fd82c5afd6e29ec112b30d656d336f77679b68.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/43a87581d153052bf5f1ff8750b927206384c8141e2dba6acda80f8ed84a8941.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/301bc70d22bc87403d79ce174480515c0c2d3afaf00c6f631aae3baad83a4fd2.jpg",
+				"name": "マリオ AND ドンキーコング ミニミニカーニバル 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e84d299d761cdb7358d48352ddbeea2a9994d81c2b8cf13e27e29be42e50ecc9.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "141"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f5d3741eb78e03ba41bd128597e7eac3b8f53350dc02f57ec14ed6d8cccb2c75.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "141"
+					}
+				]
+			}
+		]
+	}
+}

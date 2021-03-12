@@ -1,0 +1,54 @@
+{
+	"title_id": "0005000010175200",
+	"eshop_id": "20010000009366",
+	"product_code": "WUP-N-JCPE",
+	"name": "Mega Man™ X3",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 39,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4e136691a2dea1595183b0b0f93250636fdf46d6e6299e17a805dba09a465f98.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/791080c08aa2ec34b2ee36860143194fbf0eac6969c53f3548abed94c6e6dd5b.jpg",
+	"data_size": "43679904",
+	"description": "¡Únete a Mega Man y a Zero en una batalla para salvar Dopple Town! Después de descubrir un virus que estaba convirtiendo a los pacíficos e inteligentes robots conocidos como Reploid en furiosos Maverick, el científico Dr. Doppler exitosamente crea un antivirus para solucionar el problema. Los Reploid reformados se mudan a Dopple Town, un lugar donde los humanos y los reploid viven juntos en armonía, pero cuando una epidemia causa que los Reploid se rebelen contra los Maverick, Mega Man X y Zero serán enviados a controlar la situación. Elige entre Mega Man X o Zero y corre, brinca, deslízate, escala paredes, evita obstáculos y pelea contra tus enemigos en ocho desafiantes etapas. Al final de cada etapa derrota al jefe para obtener un arma especial que te ayudará en las batallas subsecuentes. ¿Serás tú la cura para esta epidemia?",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-08-28",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/11f976341d80e20297668fc3145dc7a37bed46613677d88a484006c6c6be2f99.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7a08055328f20e2e891a0ea578ba2be4cfac1c25a1dd3669305067a73e0202bc.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8e1d2fab0ca993477fcd4650e28682dd3964e44225851a8bc7743eced9719b74.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/60d6ef7c3bd1d83ce484bdb0f538a2b154603054b4c9e591f48690c3b93e70d4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e27e0d2e436dee98e75e3c54925f22aba068a696947bc2c8bc4e6175de650c2d.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/34c566e0ad8d41aabe58f12d8759be3f20a1582c80907f39058215865b3167be.jpg",
+			"name": "Avance para lanzamiento MEGA MAN™ X3",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a60a4845e877522b359ba0887b9a27ad25201d8f45413c4d8465f08384207af3.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/66474c26bea640c968f1ea470030d66bb74f7cea0426fe0647e878f26f8e5077.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				}
+			]
+		}
+	]
+}

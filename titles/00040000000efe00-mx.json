@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000EFE00",
+	"eshop_id": "50010000022075",
+	"product_code": "CTR-N-QAZE",
+	"name": "Mega Man™ Xtreme",
+	"platform": 22,
+	"platform_device": "CTR",
+	"publisher": 39,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b763d3f95d21a2b244d0b9439dfd2206a0af5ab2849ff1b9077c71a7ec02768b.jpg",
+	"data_size": "4545380",
+	"description": "Hace muchos años, un robot azul poseedor de una gran inteligencia, una inmensa generosidad y formidables poderes, llamado Mega Man X, fue encontrado y estudiado por el Dr. Cain. El científico intentó crear más robots similares a él y los llamó Reploids. Desgraciadamente algunos de los Reploids empezaron a funcionar de manera equivocada y fueron llamados Mavericks. Para resolver la situación un grupo de hábiles Reploids como Mega Man X, Zero y Sigma fue reunido con el objetivo de cazar a estos Reploids. Pero un día Sigma se rebeló y entró ilegalmente en el sistema de la computadora central causando que los Mavericks aumentaran su poder. Al ver la amenaza de un futuro caótico, Mega Man X une fuerzas junto con Middy, un genio de la infiltración informática, y su compañero Zero para restaurar la paz. Combate a poderosos enemigos robots y obtén nuevas habilidades mientras luchas contra el crimen en este juego de plataformas lleno de acción.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-05-01",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e1b6915088c6d90879ccdccfe60a098a76523015e79224801db2b8e8a9bb1c24.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/93de8b08db77a54947e6c283d11b6258ceaa3a377462eca47f699f38bddba530.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/acc871a0a479b903ca161f395cbd465334c3737b790c470df2de097e17286228.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/452be1c84359545b59aac4800dfedd64bb9ae0dbfc84db0dd0c722217162283e.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5ddd09feb546a2df2314179315ca61dcff415255d6818ccbc55aa6055dde0a40.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6387a665376308d9fc1167bd63361215d4f7ebcc81e93cca4e03cd139b098d48.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/aaec03922799e704c337e1ef9455ea90d5f2d6857c21759ac3b2d4dc0b6930f2.jpg",
+			"name": "Avance para lanzamiento Mega Man™ Xtreme",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/88588d63bb1197dd9a608b8c8275ee754cca80f9d625a6862c1d5aedddb7e22f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/840ad7eaab7df140af3d5dcd7d838cd288652dd8d2300caed4bdb48d629a2f5d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				}
+			]
+		}
+	]
+}

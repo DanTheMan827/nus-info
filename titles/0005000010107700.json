@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010107700",
+		"eshop_id": "20010000001103",
+		"product_code": "WUP-N-FADJ",
+		"name": "星のカービィ 夢の泉の物語",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1a818fed76c144168ae7b41cf90ad286d8a6f9d8a87058b3cef70631b3647b73.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9da901d8cde5b03f686e40a62708a8b69a88ccbaa1a1ef3e4eeee31f363e4f91.jpg",
+		"data_size": "37027980",
+		"description": "このソフトは、1993年に発売されたファミリーコンピュータ用のアクションゲームです。 カービィはプププランドのみんなの夢を取りもどすために、デデデ大王に奪われたスターロッドを集める旅に出かけます。熱い炎を吐き出す「ファイア」、火花で敵をしびれさせる「スパーク」、かっこよく剣を振るう「ソード」など、さまざまなコピー能力を使いこなしてください。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-04-17",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/01d17ed34027355a17c94a4a5f54618058c3d2c9a36083311491318f12ef633a.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/20bc754d0517ea014ddebd8661b421f03665132732518729423e0a67b91f12bf.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/5f3a41c541e67814946242dfe58182ab7935b2b68e8cf447e94e19fc92358f88.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b454d52780727e85f69ea5f9dd1f3afd085025ed1556a24f9aea5b454ad36137.jpg",
+				"name": "星のカービィ 夢の泉の物語 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/39c70c7ccfba412f0a2b347eadf7ed2e70b5b94bed9430b16c94c263eee744d0.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "50"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/509e6d4ca0903685638c8dc7f6abbd2b87271a53006902943d54fedb13539eec.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "50"
+					}
+				]
+			}
+		]
+	}
+}

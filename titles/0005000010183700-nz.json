@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010183700",
+	"eshop_id": "20010000011346",
+	"product_code": "WUP-N-PBHP",
+	"name": "Pokémon™ Pinball Ruby & Sapphire",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8e697e10d99beb5eeb86457c67c46e23f93f9794e0dae1d7e9aa1d4e0799da85.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/2c59bfb592008b491a49daed3e4cfb700ba697bc7d3ca6e4161b9b8d3cbfe42a.jpg",
+	"data_size": "95355020",
+	"description": "Combine the non-stop action of a pinball game with the thrill of catching Pokémon! In Pokémon Pinball: Ruby and Sapphire, control the flippers to shoot the Poké Ball at themed targets on two challenging tables based on Pokémon Ruby and Pokémon Sapphire. Rack up as many points as possible as you try to catch more than 200 Pokémon, featuring your favourite characters from the classic Hoenn Pokédex. There are bonus stages to enjoy, and Pokémon can even evolve. Pokémon Pinball is packed full of references that fans will flip out over!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-12-12",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/558d3c658ef0a699958a4ea3dbb5b7a0e79471c3d7997ad1b34a08f65effd286.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d59725e333143040afd1722be17862a4ba1b3d18361280773c8bc71c426046a3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/93917304b9be99172c14c89d31c607da05c57c598aa275a2ed9e70bd2943a963.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4548c97d95a3284c5b76d90537b9b2791f888ffdcf7563b30768905c1ca0000b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0fbdbe549d001cf651f9022d5b3f9d72670a6d354619bb08293ed3e77c735f4e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/779b4570936cc36ef5da6ee9304f6dc16eb6c507a4eb4b0bf26a601a394455c2.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/06f4a312d074b2f753ba936e1547add47cbde3f6e0205515a7aa9ddb36eb2c46.jpg",
+			"name": "Pokémon™ Pinball Ruby & Sapphire: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b20cf88bc8004ada7b2f834384c6769e21a65e94338a769b47f4c0573186143f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "65"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/32dd4e6265496a7e481cb8947abee4fc04fc904cbd20dfbbb84d231617cf9a12.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "65"
+				}
+			]
+		}
+	]
+}

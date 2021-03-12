@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101A7800",
+	"eshop_id": "20010000019187",
+	"product_code": "WUP-N-FEWP",
+	"name": "Dig Dug II™",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 27,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c79660784dc9c69f394f5439ae236e59da034118e943e31d36d2475b1420233e.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ba5fae18c90665fad9e2e2ec833b4069a002e5e975dfd47bb96ec6f7d7992e72.jpg",
+	"data_size": "38830240",
+	"description": "After Dig Dug™’s hero decides to take a well-earned vacation, there’s soon trouble in paradise as his old enemies return to wreak havoc with his holiday. It’s up to you to get rid of these irritating intruders and bring some tranquillity back to the idyllic island. Dig Dug™ II transports the action from underground to the surface, as you defeat enemies by inflating them with your trusty pump, or use your new jackhammer to drill fault lines to create cracks and sink parts of the island into the water – taking enemies with them! This is the US version of the game.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-10-08",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/07108fff32b1ea91b76b14ea8901d9fc7e19678e6032428636799707af2a41d9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/be03f633c6862eb536d6c7229bb635a563db16f5cc53efdef6c44262f180b806.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7cd6a7c67aaaf4f9dec15fb829561d06de3e388d2448f9ebd72779c69719ba3d.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8e2e4adb11a07bbd5590b23004f9f2fdb8ab1217722c2c15b23d91cba08d4fb8.jpg",
+			"name": "Dig Dug II™: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1e2dfdd8f8ff1cbd578f541c3bf03a904601ce014401414f25bc06d46c5fd06f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "38"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/06939b150fd36fbab25e25549ab90c6206dee08a2dd1d819cca182d2ff5405d0.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "38"
+				}
+			]
+		}
+	]
+}

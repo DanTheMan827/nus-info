@@ -1,0 +1,79 @@
+{
+	"title_id": "0005000010177500",
+	"eshop_id": "20010000014727",
+	"product_code": "WUP-N-WHLE",
+	"name": "Nihilumbra",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1263,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/47c7c77a21727d948560478e1844fdac544f08e842317d1175d30749f89ac7c5.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/39c711542ff60d5350bfdc69de98d465d629f5ec1e4af8a6306d2fe9347bb09e.jpg",
+	"data_size": "1825505540",
+	"description": "Sumérgete en el inmenso mundo de Nihilumbra y acompaña a Born en su aventura para encontrarse a sí mismo mientras intenta escapar de su inevitable maldición. Born es un ser creado a partir de la nada absoluta. Cuando abandona el vacío y aparece en el mundo, comienza un largo viaje en el que aprenderá a usar los colores de su alrededor, que le conferirán poderosas habilidades; aunque tendrá que pagar un altísimo precio. El vacío debe estar unido. Lo reclama y no dejará de perseguirle jamás, destruyendo todo lo que toque a su paso. A cambio de seguir vivo, Born condenará la tierra que pisa, haciendo que desaparezca para siempre.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-05-14",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/01a963268454a1c393f2de5c8cdd5cb06a7f6cd7f864e276d2d576c1222ff6aa.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/90d0d3f509ed3d97d0f9bb9eddb379ba0b78e57451bfda8af40a70755170fad5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/55798a04e15fc0563a22b83176b5c60a0114990af0fe2a8221b03f1565ba42a8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8aae696a5586d991c9b296bc0038d75212695bfc3aa80a989b14bd30c527c520.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/177e92557bbf78679f16a16dc45bee0affa5a2272b799f6cb56a9b783be245f1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a5c1282f0a0facfcd24910e6ec5f44b9536b863ea368a477e94d2afe6f6d6d2f.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/60f677e710f19ffc3d2bfdaf5af3964b44f31286b2110c334c0edc143ace9cb4.jpg",
+			"name": "Avance para lanzamiento Nihilumbra",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/59a2da28f12f6c4eb076903f689e98950b3b5921b093c7eb8fb0f4c27a2e8972.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "117"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9a7cbad8a0f3ded0925715a94d72ab684bb1c755c473b16f9efc756c6cbd340d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "117"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6b1fbd5f15319f5f4bf41c0c5ff36e7cd4e84b4456712ec86fd981ded6652de0.jpg",
+			"name": "Avance para lanzamiento 2 Nihilumbra™",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/14b22fca2dc21db0e2ed236c6a05e1dc3f502a52fc2a5f9be5f383d67a5e14b6.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "117"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd338e3b318cef10db8bdc9a3b86b43071c708ad5ad62d75d814d1d22ed614fe.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "117"
+				}
+			]
+		}
+	]
+}

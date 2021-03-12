@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000013A000",
+	"eshop_id": "50010000023782",
+	"product_code": "CTR-N-BPMJ",
+	"name": "パックワールド2",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 27,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5ad99ae5c2261eb4e811a76f6fe058579ecb10dc04bc6777daccbf183b7cfeb0.jpg",
+	"data_size": "475487076",
+	"description": "3Dアニメ「パックワールド」をベースとしたゲームの第2弾! 連続カブリつき攻撃でゴーストを食べまくる3Dアクションゲーム! アニメの世界観をそのままに、シリー、スパイラルとの友情をテーマにしたゲームオリジナルのエピソードが楽しめるぞ。 パックや仲間たちを操作して待ち受けるゴーストたちをやっつけよう! ●アニメそのままの世界観のステージを冒険しよう! ストーリー進行形のアクションゲームを楽しもう。ステージ内に隠しエリアを見つけてハイスコアを目指そう! ●ボタン連打で食べまくれ! ボタンを押せば、近くの敵をバクバク! 連続でゴーストを何体食べられるかな? ●シリーとスパイラルとの友情! パック以外にも、乗り物に乗ったシリーとスパイラルも操作できるぞ! パックが困難になったら二人が助けてくれるぞ! また感動の友情ストーリーも! ●多彩なパワーアップ。8つのベリーで変身! パワーベリーを食べるとアイスパック、カメレオンパック、ストーンパック、パックジラなどに変身できるぞ。それぞれ2～3種の特殊技を駆使して手強い敵をやっつけろ!",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2014-12-04",
+			"retail": "2014-12-04"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0117fadc7b0395b0d35f462f9bdc69f870665c8ce4b5139ebe5312f1ee536a7b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/206cd803fa1bb2968ff6e05ab0b48499fa9f49b463789e80e50c6a908c6321b6.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/453c1f9d4c8ffd74cc9702932556f5836b6055048d1b94beffe7ae9d6cb0a9bf.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e91f3174737a41676d65784d5b215ec37848c22de1d3d456887d509176ee7d7c.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/687068d40cd3e4bef511a5ed438f1db0c1ac9111bac9862faed9666655ad0fa0.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c456c97c9b0d479a4ea92ec57e7f773cec5fdf3307d2d5e61c703835508c9fd5.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c67c2eb44100b57bad45d7ed68cf5c66e019e39f0afe19b92f852b7c136dfb9f.jpg",
+			"name": "パックワールド2 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4dd1cc978628aa0981865d15947b01e36c4cbeb19a9909d59f90c2294c71bedc.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "154"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/785236985efafda027e1dedf75032c385f9478b0640358ee5e0637d9e5d5e190.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "154"
+				}
+			]
+		}
+	]
+}

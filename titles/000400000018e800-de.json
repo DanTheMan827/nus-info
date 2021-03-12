@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000018E800",
+	"eshop_id": "50010000040377",
+	"product_code": "CTR-N-KCAP",
+	"name": "BOXBOXBOY!™",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/aea15d178be163172849b565558de4648b7d216f7713f4048971c1293f3f8828.jpg",
+	"data_size": "95312740",
+	"description": "Es ist wieder an der Zeit, um die Ecke zu denken! Unser würfeliger Held Qbby ist zurück und kann nun sogar ZWEI Blöcke erschaffen. Diese kommen ihm wieder mehr als gelegen, um gefährliche Fallen zu überwinden und mehr als 120 Denkaufgaben zu lösen. Lerne neue Tricks und finde neue Blockformationen, um Hindernisse wie Schalter, Stacheln und Laser zu umgehen! Falls du schon den erfolgreichen ersten Teil BOXBOY! gespielt hast, kannst du alle dort verdienten Kostüme auch in BOXBOXBOY! übertragen!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-06-30",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/26c4236b3e02e426de7212abfb181b89d42f259dfe40342ecf8e717bcb4ed45d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/283bf011da249e1a3d6932c7a4a8973ab287e3b88e06a0fef0b8bc79da2ffecf.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e701a344293ddb19a8386557d3575f27c956f8a7f0d389ba1a1118805d0767d1.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/57945653884221f871181ced5456bd3f73cac9c1cde874780b1cfa81e02e8ee4.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/10bc852efad2adc3b6453a88bc125eab5eff6c38e083d62881cfcc477bb66019.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/efdf7ad9c5ca41a201f28df022a3643107df7f449ab46969be9f40b53230ed81.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/488ab66af124dc2ce5d8a0a9b9b657e13600d05d0567bea4bbb209ce0ea5c758.jpg",
+			"name": "BOXBOXBOY!: Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e802cfd280e4e84fb2f46a125101336ef78419d0377b89b7cbb1c3d21e10d576.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "83"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fff6250e849accad319171e4c8adeb61095d7ff70dee2c894b6030162111ff5a.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "83"
+				}
+			]
+		}
+	]
+}

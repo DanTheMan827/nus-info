@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000017CB00",
+	"eshop_id": "50010000042047",
+	"product_code": "CTR-N-KTWJ",
+	"name": "Tank Troopers （タンクトゥルーパーズ）",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b2256b1a8367e5e557249c379cc4aca492adae2dadb0da31969193504c52b910.jpg",
+	"data_size": "155909012",
+	"description": "特殊能力を備え持つ13人の兵士（トゥルーパーズ）。自分好みのトゥルーパーズを戦車に乗せ、その特殊能力を使って戦う戦車アクションゲームです。ローカルプレイを使った最大6人のマルチプレイが可能で、ソフトが1つしか無くてもダウンロードプレイを使えば最大6人の通信対戦が楽しめます（ダウンロードプレイでは全員が同じ戦車とトゥルーパーズで対戦します）。 さらに、時間内にゴールを目指すものや、巨大戦車に挑むものなど、さまざまなお題のクリアを目指す30種類の1人用ミッションもあります。 緑豊かな牧草地や、起伏のある砂漠、倉庫が密集するコンテナ港などのステージの特徴や、対戦の内容に合わせて、性能の異なる36種類の戦車と13人のトゥルーパーズの中から、自分好みの組み合わせを選び、敵戦車部隊を迎え撃ちます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-12-21",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a1015a02bc6605f9712e9cada89fd812a4a9d4ee71fc913f0d5ada3cc9b8a660.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7ae70dfce95d8fdc4aeffa5e5b54a8eb33a7b127afddad036564876162dc6c3d.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7da12899496413966f86ae68c937fb7359081f11c009cf483ec4888a0cbd31f3.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f83d361ac3f5bcdd916745b522af82b21d9dba24f4804fb65bf3f3c90051c75a.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8f15fc733ef7dead1f7546049d4b34b550ee0067842109cba00ee34c332b9442.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/fe1ac3a872d0d7615e5f0da389b62597ea77bdc58d6d0414eff4838b8ff83421.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0f1eb11d52358491d3cbef238d2d2312014eff54140ec5108f82c346dec80562.jpg",
+			"name": "出撃せよ! Tank Troopers （タンクトゥルーパーズ） 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7facc39053a916b1609db5caea54c850ec73aaa39c912aea0a52da823d025c2e.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "420"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/07d6a112ec97cb18f6431df340c3d57890300ea7d841efb4b726bd7d0d65bab4.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "420"
+				}
+			]
+		}
+	]
+}

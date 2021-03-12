@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010161B00",
+	"eshop_id": "20010000009466",
+	"product_code": "WUP-P-WGDP",
+	"name": "Teslagrad",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1408,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/759050b1cb17f24211c748802c033272f72a411f42ab9bd4eee22698f6d62ae3.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/23cc264739a00ad1536a64dd4a9596b9a4252c62d919b85a4ed94ae8246b4795.jpg",
+	"data_size": "1097072840",
+	"description": "An electrifying action-puzzler, intended to challenge both your wits and your reflexes. The laws of physics are yours to command! Discover ancient conspiracies and forgotten technologies, as you make your way through a place you were never meant to tread...or were you? Armed with ancient Teslamancer technology and your own ingenuity and creativity, your path lies through the decrepit Tesla Tower and beyond.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-09-12",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/604ed8083f96be16f037474d819d51803e2ab220aab2883e32b776840c9c293d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9a2eb37fb250a96e2a6632ad0987ddab22028a2dc1133a109386d0335f381cbe.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/eb20c8a5c9d5563b65fd4ee0ee26660235102d30a8d9ad2226aee3bf0f45e65a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/271cf8aa4bf7689c638c710e8c4ad494bf40229e7d2d71467aa5169f3b2196ca.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4b36876262ce34d5bf2bc82210302bbf92c2d1f31a3099cd052cf71c1aaec19e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/564c453df93531d2eee3a367e297e097366cbf023d395f99f72ca92a3b19446d.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/376fb9f97111de0bb030b601e5522d38ded6995e6515cfd4a9ede858392144ef.jpg",
+			"name": "Teslagrad: Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e7ccae62c3e9b946e0645c179294eaff222dc13a3ff079e202d28047c198c1e2.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "94"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cf43f7172fb0c1dca44669a12612182b5b108a8c3ecbdfce8482b2386ad6a997.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "94"
+				}
+			]
+		}
+	]
+}

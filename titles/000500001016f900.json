@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001016F900",
+		"eshop_id": "20010000007710",
+		"product_code": "WUP-N-PAWJ",
+		"name": "メトロイド ゼロミッション",
+		"platform": 168,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f6822d0ace4a67118c2e3738c62ddc31d843fc3a297b89f7969f08644bac5828.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/faa9641cda69355e110884b4d53680a90bb32f557d71fac922f90d1f33dd79d8.jpg",
+		"data_size": "89030776",
+		"description": "このソフトは、2004年に発売されたゲームボーイアドバンス用のアクションゲームです。 巨大生物との死闘を繰り広げ、機械生命体「マザーブレイン」破壊任務を遂行する第1部と、スーツを失った生身の体で敵の追跡をかわし、惑星からの脱出を試みる第2部。2つの異なるスリルが楽しめます。主人公のサムスは、地下迷宮に隠されたアイテムを見つけると強力なパワーアップができます。多彩なアクションを駆使してアイテムを見つけ出し、強大な敵に挑んでください。 ※当時のパッケージ裏面に記載された文章をもとにしています。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-06-19",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/82fa519dd7856442e3032979f807f449e119c14f5fb564778ef5c40ce522b3e7.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/49eae3ae21ecf24b0173a61660f7c9525160a58e275657b7568850755ef32831.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/289270e8e9222f3713c253be24d24050ade940aff3558b21730fe7775baf9ddf.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2ed88b0fede5b7ad7f263afee60a607670e6dfc3249950b056233b6fa3fc140e.jpg",
+				"name": "メトロイド ゼロミッション プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b257f14ae07b1c9d957f576855400017a11bd511dcc0dabc39257f99ade4726c.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "45"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/88fa6b15114d34061f3bf071214530ddb151ed677a119641282c5c05bc3fba2d.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "45"
+					}
+				]
+			}
+		]
+	}
+}

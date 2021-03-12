@@ -1,0 +1,53 @@
+{
+	"title_id": "0005000010108900",
+	"eshop_id": "20010000000583",
+	"product_code": "WUP-N-FAJP",
+	"name": "Balloon Fight",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c678e479555ce737b927abe8c91137bc824aa1490d06a37f1bdbab2410c3e732.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/98f7f4ad75b039c413cb0f62b4fd2c23991b02f6b5909db4c063d46b3abcb122.jpg",
+	"data_size": "36536460",
+	"description": "Go up, up and away with this NES™ classic from the 1980s. In Balloon Fight you have one simple mission: pop or be popped! Burst enemies' balloons from above, and hit them again before they have time to re-inflate. Danger comes from the sky or sea, too; watch out for lightning strikes and a very hungry fish. Balloon Fight also features a two-player mode with cooperative and competitive play, plus a survival mode called Balloon Trip - which may be familiar to fans of Nintendo Land™! If you own this title on your Wii™, perform a system transfer from your Wii to your Wii U™ to receive a special upgrade price. This is the European version of the game. It has been optimised to run at a similar speed to the US version and with corrected aspect ratio.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-06-27",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/3635f285b17dd736f8f2f5806be4d34b489bd06c390307dda12d9e72a07a4d76.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e632c6ee461611d7c7d8546314dcec91d9b343d19c2f29fe96e4b9b1d217a29b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f32fd05c600f040bbc642028ed7e46bd9d6ea050c61efbc143ad58457fe8c0b4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/41b1f9622d1784412b4153823c7dcce4d688eb688b8983022e090aac947e9567.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ab3f1cecb4ccb14853ab6e5fe4bec7f86a85e768eca104821048c328278bbf3e.jpg",
+			"name": "Balloon Fight™: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/52453a12b58954e0ee0dcb90ffdddd591048422ac0ebb2d6da07ca55a5e03f29.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "58"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/763e6434a9a6ea00974087380d0728ffafa0f68be114203e5e3ff69545c5609b.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "58"
+				}
+			]
+		}
+	]
+}

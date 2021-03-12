@@ -1,0 +1,85 @@
+{
+	"title_id": "0004000000185200",
+	"eshop_id": "50010000039363",
+	"product_code": "CTR-N-KFNJ",
+	"name": "不思議の国のラビリンス",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 1279,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/757e6b5182fdf3d2b611b2997c4a5e6ff9dd5cd945de11bf9c93f7b228cb9fbe.jpg",
+	"data_size": "80964452",
+	"description": "『不思議の国のラビリンス』は「伝説の秘宝」を求めてラビリンスと呼ばれる謎の迷宮に挑むダンジョンRPGです。 武器や盾、魔法の杖や薬を手に入れ、モンスターと戦ってレベルを上げ、ダンジョンの深層へ進みます。 ダンジョンに挑むたびにダンジョンの構造が変化する自動生成システムとなっており、冒険した経験を積みながらプレイヤー自身が成長していきます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-02-10",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e5ea408ab685291a07599ea9b5becaea8d7b14fc797b8c1dcd2e181a5670b26c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0a125604599fad525490eb408568714c7ce830b1d550615080e7769c5e430961.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bbcd65be336772d6afd764bec591fcef1fbb4e48a47131ad2dae4986557e251f.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/39d54e4f0881af032c7251c575cda21f45cf5a43a8807875a6a28c8b1fffa62d.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/cd223beb9a113e05d7d6f7947a938a726815f40f3a516571c1d8d0506794a335.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/deb099a4867b3199f96ee545c8060970c3e38d778885abfd74f643b6cdb87d3b.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/816c8f79a7925e794f06d97bd7c666fa448e8bc0ec85595742126c1173e67954.jpg",
+			"name": "不思議の国のラビリンス 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd7978f4be76ca4a4e3bcf7e971a538db6ba103ce8f1290e47917562a3c3ce91.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "95"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2edf17e89612d29a66d94d6dda06d5c8f8a5fe6bb3442f489af27c20a6295e47.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "95"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/94140c8fce909e7e8df50953fcb7647929af004d79c9278065c01e07f282c764.jpg",
+			"name": "不思議の国のラビリンス 紹介映像2",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/eeca425ba8ce1ab63b18d828f4021a1b9de915e9e872b54124391f636ef19f8e.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "138"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7beb4cf05e850d7104157317f3a41f8f5fbc53ad7e389d85584fb3763610524d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "138"
+				}
+			]
+		}
+	]
+}

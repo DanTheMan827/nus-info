@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010208300",
+	"eshop_id": "20010000024788",
+	"product_code": "WUP-P-BBPP",
+	"name": "Pinball Breakout",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1610,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/57238a480ad29fb22a65e49af8fc69acb5df49403da9b160affc81243b7e8d0c.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5e3d0d7964055832f7a467a3283151118a3a382d5efc4afc4d112204b7c4614d.jpg",
+	"data_size": "144408716",
+	"description": "Pinball Breakout est un jeu de casse-brique pour 1 ou 2 joueurs qui combine les mécanismes des jeux traditionnels de casse-brique et de flipper. Jouez en solo pour obtenir le meilleur score ou affrontez un ami dans le mode 2 joueurs. Prends en charge le mode sans téléviseur. Utilisée seule, la télécommande Wii ne permet pas de jouer.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-11-03",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/90c8f465fef05588c2830508ccdad7dfbde5f621f998f5e9d8d507e137e9e2b5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/da6ae2434866cca2c07ec42847a7b3c54895abe396211e639f941717493a7147.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2d6f4108889b4a1bdc8f83b315846a828960cdc71672988acf8a9fbc8b499c73.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/045ccab18ec08049430313f42d9a6d5dd68620941995aa66bc234b2ec9d412df.jpg",
+			"name": "Pinball Breakout Bande-annonce du gameplay",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8ce7d2f6c18b2b8a01642ed3c87556b79cfcae39ca4a5874a0bc9fe6533405fd.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "66"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1575e047eb060a63c96133649040d5798fd46b8c20269d50fe187fc14c39c1e3.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "66"
+				}
+			]
+		}
+	]
+}

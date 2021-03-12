@@ -1,0 +1,54 @@
+{
+	"title_id": "000500001016FE00",
+	"eshop_id": "20010000010106",
+	"product_code": "WUP-N-WBPE",
+	"name": "Universo Bolígrafo: Infinito",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1299,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a4af2b3b2518015491b5c73a213a7abd23ff4e4c9cb84e6f721f8bbc70057320.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8b2cffd2c5af1467616efd5ffa4d48e29a3b48c002dd490ab51d7c6e2501e574.jpg",
+	"data_size": "333938848",
+	"description": "Universo Bolígrafo es un juego de aventura de género shoot-em-up que presenta arte dibujado completamente con bolígrafo. ¡Explora mundos inmaculados, descubre los secretos de los garabatos y pesonaliza tu Ink-Ship para la batalla! CARACTERÍSTICAS: Personalización total de tu Ink-Ship con lo que sea, desde una navaja hasta un lanza llamas. Pueblos de garabatos para explorar, 16 misiones y un interminable Modo Infinito. Bocetos de bolígrafo ornamentados que cobran vida como una multitud de pesonajes y enemigos.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-10-23",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/9cc997e1115d242a1fbda393f9bd4830e589a4ea862f78a585bed5e41c51f232.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/707f747634303207b233da0e273b6d9ef2f90fc5e3877dd8b53cf05ca3827218.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8f96db21029b38b8750814019360c3ee158903162411c875939b0765910cd721.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d848bb45e2b5819964941960d4701333c1ee6f326a8c6f4f5b3a78ca78bdd31a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/de541fa5c048534d3558698407f11dce494f6500f204f5ce8641f6520c82779f.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/dbf83b1736df64d78ba5be3b464190ec15f6dd86246ee25b77e29ca3f7688aaf.jpg",
+			"name": "Avance para lanzamiento Ballpoint Universe: Infinite",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bb1f639a1eb5e6dc74bf66cc80fbd993fe59bc1e7a23642a1ae873fb531b3d67.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "74"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/58d0e544b8f7af6348a6660ac6860d2a83436d2e46f190536adc4a2935d40f70.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "74"
+				}
+			]
+		}
+	]
+}

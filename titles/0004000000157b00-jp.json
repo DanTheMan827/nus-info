@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000157B00",
+	"eshop_id": "50010000030955",
+	"product_code": "CTR-N-KAAJ",
+	"name": "引ク出ス ヒッパランド",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/47e9e4ae919a9176690272af9c183718ad4a010f6db179e7e5a9e9c88911ee3b.jpg",
+	"data_size": "87231332",
+	"description": "ブロックを押したり引いたりして、足場をつくってゴールを目指す新感覚のパズルアクションゲーム『引ク押ス』シリーズの第3弾。本作では、ブロックを前からだけでなく、横からも後ろからも引き出して、ゴールまでの道のりを作ります。あちこちにできた段差をジャンプしてのぼり、ゴールを目指しましょう。はじめてコーナーでは7種類のヒクダス(コース)が無料で楽しめます。さらに「ヒクダス」を楽しみたい方は有料ダウンロードにて、さまざまなコースがお楽しみいただけます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-05-13",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/97b43012bb5891f8b3256c1f0d4e57a297a07ee1c9ca6232b481b3a676f92f72.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/47a7797586d2c8a28f411f90269f92415d41c811b77934073905ed8359de4d5c.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7b7504f6a2ef347b10e44057cc558eb98d403f4d634bdbc90935e368a4d8c91e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f0d059c91e1b1dbfe22977edc589bbcd46cf936cab768d0e235ea34149f2cf1a.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e1fb6372201278c10ebc4b4fc2526b769941709db7fcc9b1236122b04a17aac9.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ad07c130930cb5df1153de39eb7d0f696e062fe6f65c9e66fa0121fb9c4aec56.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0a967715f6c05af23e60cad33230d885312bc8477d283b45f29faea3191cf672.jpg",
+			"name": "引ク出ス ヒッパランド 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ad890b697f4227b829914c69cf52a2c99f3955b80a128ef42370fa755c8ede9a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "168"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ae440a32bf14f3f8461c0fa2ae34caa882762e2251facd7d55de7adceed81a30.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "168"
+				}
+			]
+		}
+	]
+}

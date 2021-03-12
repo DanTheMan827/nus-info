@@ -1,0 +1,54 @@
+{
+	"title_id": "0005000010205800",
+	"eshop_id": "20010000024607",
+	"product_code": "WUP-N-BKRE",
+	"name": "SKORB",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1762,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5db123a46e4ce0fcaf76c2e43432ecdba801f7335634e78b66a9f049be6243ca.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/fac43432f2c9590f7e6f418824fc3f99656e45d37d0a806d61a6fde31e95e3e0.jpg",
+	"data_size": "265126028",
+	"description": "Take flight in the 3D world of SKORB. Enjoy a relaxing trip through each level or hone your speed-running and route optimization skills to compete for the fastest times in the world. Experience the unqiue visual and aural aesthetic of SKORB, only for the Nintendo Wii U™!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-10-06",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/2428ba1755f8f9d3a177a7fe4cf99b7dbdfa7fa0beb83a617ab60b9e2f60f6ad.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6ede2abe31454c99f231f99191047cc1d9de5bc2acf0a273f981c594e12de5f6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0902d7e2c415e7e090ece2c799072ea47bbddfbb4c0f80f6c521a31a981bee52.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8e77598b8c6b6c78204a16e4ad8135447cc60318ab37584163bbeb5eb568699c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/991eda813bec8f116ccf977228b8cc67db611dba2c68bdfbafd25e77156620b9.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/01bca8e74d953c764a942b6f75005ba1a16230ee386e9a98927e9fd40b3ac795.jpg",
+			"name": "SKORB Launch Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3dab9beebe60e1d50e0e1674c9471562b4244d14d3484c49c3536c329ffe9e51.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "29"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d67082b254c8a86dc11646f0db6eb539a0bfe9e6f01f4199a2ef52432ccd6424.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "29"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010200B00",
+	"eshop_id": "20010000023449",
+	"product_code": "WUP-P-BT6P",
+	"name": "Tetraminos",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 228,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/453a8ae0c8483a66ce7073e60730edf008b1326123830b687ae2a86c455e8bfa.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/bca8ece2a242c3473597cfa00614638b852753e37849744d3d2e0ca40af576a6.jpg",
+	"data_size": "190185612",
+	"description": "O clássico das arcadas está de volta com uma versão superior! O Tetraminos oferece um desafio sem limites e de fácil aprendizagem, tanto para principiantes como para veteranos. Exercita o teu cérebro com os 50 níveis do modo Puzzle, sobrevive o máximo de tempo que conseguires no modo Infinito e acumula combos e linhas da mesma cor para subires até ao primeiro lugar na classificação. Desafia os teus amigos no modo versus local com suporte para 4 jogadores e sabota os seus tabuleiros com partidas completamente loucas.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-09-01",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/15c189c53b7482da46e8d3ed35fdb6fa815ee9361818990168d0ddf49da81ddb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b451afd9defbb5986e11066f5602c3ba24f9f96072ef1bc7d6b967fd7f8e07ee.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9b3b70fff609e7e531ee75fff9d326fe6a7003fa032c5b0a331659910333105f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b4f73211b1c565b2bfb60deb3b2b41c1bea0aa7d5a6cecba30da0338111bf703.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/89a9511dbf3bcf205c617fdda6ccc0e150ca57f6296c14736079bc15f9b6b669.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e857ca9b79ee56ca3f5ee84f98d3e9df7196a874449c5511c202348df0aba0cd.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/874b3ad0acf1034221d324c9ded1939af8a923be611d5f46785bb67c51a2a62f.jpg",
+			"name": "Tetraminos: Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/780fdae8207783d7555f2883710425152223a9211985d40bc8f34db9a8e2a04c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "42"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0a7f005742edac2f3bad78ddc182f010e586bbffd33723a512ffa2ce3e785933.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "42"
+				}
+			]
+		}
+	]
+}

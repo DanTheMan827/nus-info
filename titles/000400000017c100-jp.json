@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000017C100",
+	"eshop_id": "50010000037815",
+	"product_code": "CTR-N-JFJA",
+	"name": "ポケモンピクロス",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 210,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/bef0d247040afc75fe04d9deb21a4a30c3a9bae89cb67c24869c6dd3aba8f375.jpg",
+	"data_size": "95239012",
+	"description": "縦と横に並んだ数字をヒントに、マスをぬってポケモンのイラストを完成させ、ポケモンをゲットしていくパズルゲーム。そのパズルの問題は300問以上収録しています。 ゲットしたポケモンたちは、それぞれいろいろなスキルを持っていて、問題を解くのを助けてくれます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-12-02",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6a9fd5122404fe53e899232a51f5f7350332a24880b17eb4f2bedae8c1a36b3e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4bb11313980578e3ed53ee4f3f7ca2d7b1fc482c7de2702635e695fb1f21c8d9.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ca83bb58a51b455ed0b40d8f444730917a4d3d53ab8ddaa3bde6809c19572cbb.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/12ccc08e2dc737b4eba1e360550d3c6a45b89c97f8c9833f05977d700619e903.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a7b7b9c70a8c6068ae11c5295b92f8cd547fe1e6c3aaea60794f2542733925e3.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8efd729369507a34637321e2cac17571be39a495b1b94f72c03adb5b58ad300c.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6beb1ad79eeeb5b3200e09122709b0b9b99c2847c33f557c4c81c101db614af5.jpg",
+			"name": "ポケモンピクロス 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e1b1a9845bd76aedf595345899e8788f1f794c7c5b3000eb1ba030791462aadd.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "103"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/99f66b11c2e6fa9bdcc592e6113251a233680329a5eac372402cf4f2aa56b3b2.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "103"
+				}
+			]
+		}
+	]
+}

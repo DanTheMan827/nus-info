@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001017A200",
+	"eshop_id": "20010000007166",
+	"product_code": "WUP-N-PA8J",
+	"name": "くるくるくるりん",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/38482cd29611237674fba82ddfd6eed50b8566479ae8da581c1778e89ab2ac9c.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/1d40844f3159ca99f0dd1fa663849d1e4bab4b42d7c77fbeb7b7ffba289527b4.jpg",
+	"data_size": "84246648",
+	"description": "このソフトは、2001年に発売されたゲームボーイアドバンス用のアクションゲームです。 主人公のクルリンは、10のワールドで迷子になった弟妹たちを家に連れて帰るため、特殊なヘリコプター「ヘリリン」に乗り冒険に出ます。くるくる回るプロペラが壁や障害物に当たるとダメージを受けます。タイミングを合わせて通路をすり抜けてください。「ぼうけん」「れんしゅう」「ちょうせん」「せいび」の4つのモードがあり、せいびモードではぼうけんモードで手に入れたアイテムでヘリリンをカスタマイズすることができます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-07-16",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/3dca1ecbc5a4de9fa97aa40ff34a4d90ed523fef06bda41c31d8345ca488f0c7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d90618adc4ddcbbffe55b73594b9351a36282429b2bdccde88b58782688bb22e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0ee69459665e9ee7c0347ed31ca6ef9442a4ba578fec4f485a962453a74acd2a.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8291f4b917178c1694cdbcc3c924d7fc520fb78a782b2189798933f9a8c12b59.jpg",
+			"name": "くるくるくるりん プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d3845ddf47ffaab78682ffb367826a7bddadaa145baa02e37c37a6d2b17375d0.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "43"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5e59dcb160468d0ae2821c0c0551764c8224b20b9ed546493acf1616a52153d5.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "43"
+				}
+			]
+		}
+	]
+}

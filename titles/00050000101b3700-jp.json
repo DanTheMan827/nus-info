@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101B3700",
+	"eshop_id": "20010000015448",
+	"product_code": "WUP-N-DANJ",
+	"name": "ファイアーエムブレム 新・暗黒竜と光の剣",
+	"platform": 169,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6632c0e2d390612254c1ed981f3a69325dd512c346436ec2255ba7d1da2f7cc7.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/eeb442294d45275f421ff30d687c96ded65d841f32f5a2e4ea75d9993a4a1e4c.jpg",
+	"data_size": "84541560",
+	"description": "このソフトは、2008年に発売されたニンテンドーDS用のロールプレイングシミュレーションゲームです。 守備の硬い兵で敵の猛攻を防ぐ。騎馬兵で一気に攻め込む。それぞれ能力の異なる兵士たちに、移動・戦闘の指示を出して戦局を切り開き、勝利を目指す。 暗黒竜のたくらみによって国を追われた若き王子マルスは、仲間たちと共に、祖国復興とアカネイア大陸の平和のために立ち上がる。 ※当時のパッケージ裏面に記載された文章をもとにしています。 ※おすすめの画面レイアウトは「大きい画面レイアウト」です。 ※本ソフトでは通信機能を使用できませんが、「オンラインショップ」でアイテムを購入できます。時間によって品揃えが変わります。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-02-10",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/f47fbc4bf94332f9533b32afbc1af9755352b3040883a53be93d08e0c120f57d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a81faf607bbefba9e691841b63bfbecb55242298f79a3e9d7a7cff732d3558eb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1f6a94599f3d1f7195671c97955eb3777929b4f374709da904d729303d942f06.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1eecbb42e70c7de03ffe3aa7f71852a914fef7db9257927c582417aaa5db98d7.jpg",
+			"name": "ファイアーエムブレム 新･暗黒竜と光の剣 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9c61bd5d7d4a32ff2d52bc02633d49357c998580a3e5df303ff059d1833ffd26.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "57"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3c659b7935c5a2eea5c814623c6c123b7ecddcfcc51fbe9773c0be6103b9dc2a.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "57"
+				}
+			]
+		}
+	]
+}

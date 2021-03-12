@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010140F00",
+	"eshop_id": "20010000012927",
+	"product_code": "WUP-N-JBNP",
+	"name": "Cybernator",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a5409f79a3aa423a722e2a56c103f6c128432d354cb6df7077fc8ce649b92511.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ddc3ebc2e8157ab7d608d813873e99c98f03e57033561e25235f16a2e739196f.jpg",
+	"data_size": "41123980",
+	"description": "En un futuro no muy lejano, las naciones del mundo se pelean por unos recursos cada vez más limitados. Tu misión como Jake, soldado de los Estados del Pacífico, será tomar control de una unidad de asalto Cybernator y avanzar a través de siete niveles de acción ininterrumpida. A medida que avances, podrás ir mejorando tus armas, como el volcán cañón, los puñetazos y los misiles. Cada nivel tendrá nuevos objetivos que deberás cumplir usando las habilidades especiales de tu unidad de asalto, como, por ejemplo, los modos de deslizamiento o de vuelo. Cybernator es un juego épico de acción de disparos con escenas que te parecerán sacadas de las películas de ciencia ficción más taquilleras. Si posees este título en tu Wii™, puedes realizar una transferencia de datos de Wii a Wii U™ y obtener una actualización a un precio especial. Esta es la versión estadounidense del juego.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-02-26",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/7cb4e5515e2972f852de90f52cecd849da8260927f0fbab8b106e52b918fbae6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c6db7680bad04df2dad72cce93dd13ae3d637e116845c7c7073e6234ea1ac229.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e3e0dc43eb029557890e22fd371823c582ca29b415dc3e344861d196dcc1a9aa.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1790d7630704f7568379c7176e5f459f831124bbfb371a9b90d19b846b252544.jpg",
+			"name": "Cybernator: Vídeo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ffe3f4f312dcb978eb1029c41515570ba6efc6976fb64c5946094a1ca53e317b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "67"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/83eb5f4530df2d7abd687c49951bc880b3b2dbe6740034e2adc143386445bb82.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "67"
+				}
+			]
+		}
+	]
+}

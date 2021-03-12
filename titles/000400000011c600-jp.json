@@ -1,0 +1,109 @@
+{
+	"title_id": "000400000011C600",
+	"eshop_id": "50010000020215",
+	"product_code": "CTR-N-JR8A",
+	"name": "ポケモンバトルトローゼ",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 210,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/669bbf3b10f999d104cb5c302338d61f3ee87ed70dab020c9ce8cd67f38b3bc8.jpg",
+	"data_size": "50391908",
+	"description": "パズル形式で野生のポケモンを捕まえるアクションパズルゲームです。同じポケモンを3匹以上ならべて消すことで攻撃ができ、野生のポケモンのHPをゼロにすると捕まえることができます。さまざまなステージをクリアしながら、すべてのポケモンを捕まえることを目指します。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-03-12",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c1d3ddc3cf06dcfae1512ea73ac6cfb80dcfc72b726c9b3a23c226d4e0bce1d3.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/88f054f25deeaa78b10502655ad30bb1131a48f5ad4246822f7b16f05a6731e6.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a3eb2c651c45257d89d1d2a38e1874b50f8c52be50f308675dd5b3030187b6d7.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/74d5a0909bd20b0d8ae58ea1686c3496fea95ed34ba52d1bef68b087fd79d9cb.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/50a4c1db200ba0c4e27420750a37f75a5455675312b80061081be166fc070731.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6b4ed9b1f5f74c769df6bef0ee24b7343bcc60e5e24a0124ac2a327160cef010.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0a72ef60171ba962cb257a36dbc407b3ac211e227175351d2f615a8601c2d8dd.jpg",
+			"name": "ポケモンバトルトローゼ テクニック紹介映像1",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6748f128a4f8c75bb1f5eba5f5cfa6a777ed32c349a3cdcc08d5a94d6974d00e.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "147"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/21db2b9218bacdeadf2bfa3594341ccb7302601b9daddaef73d424b83796bb02.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "147"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/01f745d55a7d5f7b253ba671e083f63a72bb7946dbeea97bbc11cb18bfbecf1c.jpg",
+			"name": "ポケモンバトルトローゼ テクニック紹介映像2",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1cc771ea138fbe0838183fe20e0817cb60fdb45626d99dc6bee7b285c56790ce.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "72"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f0d5a9cb3d28d8be66e170aa0bc020f709734bd951725e812594834c5cfb38f6.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "72"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2ab04e74c72612898a664c2a938fe75a8682512e1c04537ef9ea1d0ef66532f4.jpg",
+			"name": "ポケモンバトルトローゼ テクニック紹介映像3",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fd3b20220a60e1eb6c5d1d480ff9d697716891a1dfa1a70f3d51e0280fdae261.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "63"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8c896c4c21a3c4d93b7255984271464df54a7f5fb745e4125b8ea5a5f8966fcd.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "63"
+				}
+			]
+		}
+	]
+}

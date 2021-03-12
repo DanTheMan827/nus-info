@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010147600",
+	"eshop_id": "20010000005504",
+	"product_code": "WUP-P-WEVP",
+	"name": "Evofish",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1214,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8ca5ed22fca65e052cfce2c230e94a5deaae5614cd0224d4c72cfedf6ba8b061.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6e06ad9bfabf3b843907818fcfde387c3c2189fd73243990a422d0f411e0cff2.jpg",
+	"data_size": "282001548",
+	"description": "¡Lánzate a conquistar el vasto océano con <b>Evofish</b>! Evoluciona de presa a depredador en las inmensidades marinas ¡y avanza a la cumbre de la cadena alimenticia! Sobrevive contra enemigos cada vez más peligrosos y evoluciona a uno de los 4 héroes comiéndote a los peces más débiles. Conviértete en el depredador más temible en este entorno hostil. Disfruta de horas de diversión mientras te esfuerzas en hacerte dueño de los océanos. Compite con tus amigos o colabora con ellos en largas y emocionantes sesiones en el Modo fiesta, ¡con 3 modos multijugador de 2 a 5 jugadores! <i>Modos para un jugador:</i> <ul> <li> Una forma de jugar sencilla y eficaz: o comes o te comen <li> Varias especies diferentes, cada una con sus propias características <li> Reúne numerosas bonificaciones y completa una variedad de misiones <li> El mundo y los enemigos evolucionan en cada nuevo nivel del juego </ul> <i>Modo fiesta:<i> <ul> <li> De 2 a 5 jugadores <li> 3 modos de juego que te ofrecen aún más diversión <li> Competid o colaborad para sobrevivir <li> Modos de juego innovadores y asíncronos </ul> ",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-02-27",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/908e61cf407fa736a9ee32fe1e8d66f1a4cdc895af3320cdce8a7211950ebaf1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c7ca1c56930dbafba9610189c22531a9382fff23320ebe25044c4751e4555172.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/31da595ceb6f51023bc1d57378c0a4b3ccc4e3ffd9d9f23c7a7dfcbf95436109.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d583f73a740bd3558721cfdea6022122774cecf78311cd689b1e3a9685a687f5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6654323ff5cc702744662264c3d7054e3c3d18290fb61a9d27b6e7b99e07d81b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c566b1f384705b82ea8388c76ae00ec5c284f7998393afe1a834c1004e076092.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8e16d18d85a1785608c9a6ca898fdaaf517620bab78f8cbde0557c30b62e6084.jpg",
+			"name": "Evofish Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f615f4341f456161a5d5dfd18b737bb94cf91d1bbac2952297173e228e1ac433.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "55"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/168baae155a0860cfc4bd2e08ce601b22233a29d5f09719a11a63b2bf4f2bed1.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "55"
+				}
+			]
+		}
+	]
+}

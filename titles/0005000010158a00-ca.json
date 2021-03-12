@@ -1,0 +1,54 @@
+{
+	"title_id": "0005000010158A00",
+	"eshop_id": "20010000005124",
+	"product_code": "WUP-N-FCCE",
+	"name": "Mighty Bomb Jack™",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 267,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ed766641f23b239ab1e1538fa7413d8bb36ce49c73979e088258de9fb949476d.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a167e4f6b4fbe0c3369d57d7c8bb6c8b78d0c6aa3aa2bb324821b0d9357dedc3.jpg",
+	"data_size": "36536460",
+	"description": "The hero of the game, Jack, must make his way through 16 levels of a pyramid in order to defeat the demon Belzebut and rescue the royal Pamera family. Each level is split into two parts: an action zone and a Royal Palace room. Action zones can be split up into several portions, and contain power-ups, such as money bags, Mighty Coins, and Mighty Drinks, usually hidden in treasure chests. Mighty Coins allow Jack to change colors, and Mighty Drinks add 10 seconds to the game's timer. However, be careful to not get greedy with collecting many too Mighty Coins or Mighty Drinks. Otherwise, you'll find yourself doing jumping jacks in the Torture Room!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-01-23",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/fa37535e769a92b4d948175a4e2ee544f08bf599d7f7c903b457abde92c6069e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/af7498ed63278f4c8b6ae3f253475e60504e0f5d1e9fb46740ae7a15eb32f299.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/20bec23b976eabce15613863cbd9810f8857220447570920142aea46cc521dd3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ba926d603e0b510c9ef2b5dafc84684641dbffa68b523e9b914b1ebcd061ab51.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/42a835e87bfb8f5ef5869c4cb4d0f4af25cf3fd9c1891a31833d66a15115a47c.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/af20fcfb81302cfa6c730e9ec5ffb7159f5fbbcfc1fe50a78cead0f4996f6a93.jpg",
+			"name": "Mighty Bomb Jack™ Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0e69514cf57b20942d85952fc0609de4e19f6bd4f6747c6f13d8bd2cf8ef72b5.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "29"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/397754737646b1f6d1ed851ec2ed96cde1699d007a0c98c46a517015d198fd20.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "29"
+				}
+			]
+		}
+	]
+}

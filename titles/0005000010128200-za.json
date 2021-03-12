@@ -1,0 +1,53 @@
+{
+	"title_id": "0005000010128200",
+	"eshop_id": "20010000000403",
+	"product_code": "WUP-P-WHYP",
+	"name": "Mighty Switch Force!™ Hyper Drive Edition",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 288,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/04f85fcd1e41fd618983a363cb855e1c2defcb002f7d7ec5213e3b4586ee9e59.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/89b59a858d91192023ed607cdbf3e69d03acad04396d9b1baa775aa83516205d.jpg",
+	"data_size": "373555340",
+	"description": "Meet Patricia Wagon, cybernetic police officer on a mission to put the Hooligan Sisters back behind bars. By activating her Siren Helmet, Patricia can shift the machine matrix of Planet Land, altering the world around her. Use your wits and trusty Pellet Shooter to blow crime away! ",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-04-10",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/315e76fec63f99b84e6d7b4df76c24bafaf71802e4df405076663757e6390539.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/871286b40446e30e92e241d5d9f8477842d57fb4d2108dfc558b4dfb8f3142ae.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/eff67dc8c80bc83d2aa04c379d00c8b3e116be1d97ca7153fcf45ad393fdf412.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f495d526d8dc56fc8d0abfa37858a2b30a6bd973d758f772559f00fa822eb17d.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7d8fc8d722edeaf0b84b53fd172b9448e3ad44bcf7a2c3c05f884cf47edb2296.jpg",
+			"name": "Mighty Switch Force!™ Hyper Drive Edition: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3ab0f4467f9b48a3e51e49ff71ceca49b1a48c034f9bb777315cdc741da09469.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "54"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/36ce3d0b3a1b40f2bec46781e4e6dd371dc4ef7d6b4abc21fa669c7e153689b8.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "54"
+				}
+			]
+		}
+	]
+}

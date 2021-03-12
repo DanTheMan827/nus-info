@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000F702E00",
+	"eshop_id": "50010000040216",
+	"product_code": "KTR-N-UARJ",
+	"name": "スーパードンキーコング3 謎のクレミス島",
+	"platform": 1004,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/75588f3b620b3ea02e07cfad4b23a14ef9d6de02ee90543bbcc3c1fa8fbd5a5b.jpg",
+	"data_size": "7768932",
+	"description": "このソフトは、1996年に発売されたスーパーファミコン用のアクションゲームです。 「ドンキーとしまをたんけんしてくる。あす、もどる」とメモを残して出かけたディディーコング。しかし、何日たっても2人は戻ってきません。心配したディクシーは赤ちゃんコングのディンキーを連れて、謎のクレミス島へ出発します。 ディンキーはまだよちよち歩きの赤ちゃんですが、大きな体と強い腕力を活かして大人顔負けの活躍をします。体の軽いディクシー、力の強いディンキーと、それぞれ特徴が異なるので、場面に応じて使い分けましょう。クレミス島のいろいろな場所に閉じ込められている「バナナバード」を助けると良いことがあります。ぜひすべてのバナナバードを見つけてみてください。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-05-09",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/9d8bf4e91cd05f82c4bee17b0560008b1a4ec59aa23e81dbd27f99f03e32eceb.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/9d9eb41395138040dae4a6d0fdf5742137ec4d1dc13a2981246fa96f8e5fed71.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8a250811877b674aa5560a06f1fc6ad154937b47d116f0fcb918e594e03ccbae.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/533dd6da6d2752a29af9f2db36b53b021845d364021405120635d6ac0cf5775f.jpg",
+			"name": "スーパードンキーコング3 謎のクレミス島 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f8218d3b819c87918af8466298012972bca43151732257522347463026805832.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "78"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/433bab68ff9fa4e54a1b3ec167fb2769b659c4e7f22b8bdc481209531da28a26.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "78"
+				}
+			]
+		}
+	]
+}

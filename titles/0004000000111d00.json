@@ -1,0 +1,87 @@
+{
+	"JP": {
+		"title_id": "0004000000111D00",
+		"eshop_id": "50010000017636",
+		"product_code": "CTR-N-JSTJ",
+		"name": "スチームワールド ディグ",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 409,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/27e7ea451a5ecc287bb31710888bb8f805b05f5f48b72636a99fd7c5be1a3724.jpg",
+		"data_size": "45099876",
+		"description": "ある日突然、叔父の鉱山を相続したラスティ。鉱山の町を発展させつつ、鉱山に隠された秘密を解いていく2Dスクロール採掘アクションゲーム。 スチームロボのラスティを操り、地中の奥深く、地の果てまで掘り進んでいく。「ドリル」「テレポーター」などの採掘道具を駆使し、洞窟に隠された「スピードブーツ」や「スチームジャンプ」といった様々な能力で強化していこう。 繊細なドット絵で描かれたスチームワールドの世界を楽しみながら、一度掘り始めたらなかなかやめられなくなる、まさに「底なし」の面白さです。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-11-20",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/9e41b2243e2c4de48e9bec1b9099ba1c5dd8246d4fec4ab9c0b6e1f358a0fc6f.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0b40732923134263d1a5454a5bb1435ef837b7c5a23ad22ddc77e0aaf3dd5bf1.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c5d9b559efebbe6d7d8f8e206b68ca60973e1d2fbb4ee9c65d4f7ede542ca4c4.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d026a36d99596327db9231494005444678fdf7b7c02bd4fd632bf5642e9b0876.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d8f874716e1c828b8cbde900edffc6ffe6458ace2a87960c676aa1cbfcfa4637.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/702b4be2b4dc037e28b098cb0b0823bd545f69296454b282849c796af80b0251.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8f47eaacc59594e00e30345409436c494e383cb9f4adfc56bf0d60d0beb30d21.jpg",
+				"name": "スチームワールド ディグ 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/286fc334c1d05e8d9d5f95679a64412f99f52f30b8603a98629387b5e51abd47.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "120"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1ed3468ad5b40296c48a1254afe2ef59b16c794ead2d13fcc69a917bc141cb61.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "120"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/76afe47aef907a4da6edbacbb92244610268ccce738952bc59962bd20167b43a.jpg",
+				"name": "スチームワールド ディグ プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1dc838c408c089ed41c0751d52ea67f1c90b075de9bf53a062bbe1686df31957.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7257365edfc11abb86782cb47377532dd465d7277247c9d832f3c7e816415c79.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,53 @@
+{
+	"title_id": "00050000101B2E00",
+	"eshop_id": "20010000012987",
+	"product_code": "WUP-N-ATPE",
+	"name": "Tri-Strip",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1473,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0306fb8868c44c3bfd78a596fc3aa8c5b1bcf9276e4e200ede628f851a4e3029.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e76710c8adfa488924d6389250d2c729c108b3d3a5ae641f2de732eb24f07596.jpg",
+	"data_size": "111149196",
+	"description": "Es un juego de rompecabezas de un solo jugador de temática retro, muy al estilo de los juegos de 90 rompecabezas era. Gana puntos por la organización de filas de azulejos triangulares en quads. Su puntuación se multiplica por sin embargo muchos quads que se pueden crear en un solo movimiento. Disfruta de un juego estratégico en un ayuno en el modo Arcade. Esfuérzate al máximo en los cinco modos de reto. Llora por la misericordia en los desafíos basados en el tiempo del modo Super-Hardcore!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-02-05",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/fc7a1bffb05c2f5513d4370c62d37f1205cab07ee281678783e986d144a219b0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4f5b05f80a9db04dddb6eda4f5e4ee7247c5e3f3a2632dfa66d750f6b316e3d7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b083ee2d221ba908733aea12dfb89acd714205240a9751b43d8bebb60e751bb6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/046d22410a8daed4d511ffce7bcedd7f9e262121c0dae3111d6c22d5e498bf2d.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bdbae88d828f5498d91a446568ca004107f4a83eddbf5a7a008e2b4ae098de8e.jpg",
+			"name": "Avance para lanzamiento Tri-Strip",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5dcaf212e0c2a99926c7d8202ccc2c71144a22780ecd146af9e9ae98c8d2ff13.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "62"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cfec01f7a47d58d3e2b6088abc56eaf078dcbeef2c238c84811e2d0bb769f6a4.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "62"
+				}
+			]
+		}
+	]
+}

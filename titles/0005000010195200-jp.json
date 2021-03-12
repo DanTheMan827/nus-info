@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010195200",
+	"eshop_id": "20010000023527",
+	"product_code": "WUP-N-MNXJ",
+	"name": "ウシャス",
+	"platform": 167,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a2689013ac8e538b741beff5f650c0ea82da393517958793e69579b71ef57776.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6f23f826d068074e400c786d6422ac4781e98ddea83d926a88be15ddd1711527.jpg",
+	"data_size": "95748236",
+	"description": " 現在、東洋史学界では、先日インドで発見されたウシャス（暁の女神）像が話題になっている。というのも、この現代の神秘といわれるウシャス像にはその額に500カラット台の宝石がはめられていた痕跡があり、その宝石が発見されれば学術上今世紀最大の発見である事は間違いないと注目されているからである……。 本作は1987年にリリースされたサイドビューのアクションゲーム。プレイヤーは、東洋史学科考古学専攻のアトレ助教授の研究室の研究生として、貧乏研究室を救うべく（教授に説得されて）ウシャス像の秘宝を探す冒険に出発することになります。 プレイキャラはウイットとクレスの二人。それぞれ能力が異なるので、ステージ内容に合わせてキャラを選びましょう。ジャンプや攻撃を駆使して罠を回避したり、時には敵と激しい戦いを演じたりと、遺跡を巡る壮大な冒険が楽しめます。 ゲームの舞台となる世界には、喜、怒、哀、楽の4つの部屋と神殿があり、それぞれの部屋を攻略するには、感情アイテムを獲得して部屋名と同じ感情になっておく必要があります。そして各部屋を攻略することで鍵が手に入り、4つの鍵を集めることで、最終的には神殿にチャレンジできるようになっています。 果たしてウイットとクレスは研究室を再建？できるのでしょうか。そして失われたウシャス像の秘宝とはいったいどんなものなのでしょうか。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-08-24",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/a80ead3953d142db7782ae91809483077a125642469693c5daca8c95fe3d3ddf.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/879f3d67379a6c01fc2b71578bdac8391011549652c23ade7ed3b750d3a01b5b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/80fba7109b960a345fa1fdeb3e3d1075ef51e95b8fa99fe3c5887df278f57324.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1681893bdc163a344864d20b25bd0e20fb68f97267299c9f9327d25e9f4f01e8.jpg",
+			"name": "ウシャス プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4528281e85c15db0ec47dd374216d80bb4e020171a3528974c3dbbae89346d42.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "75"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a6e011ddf945573e191a5d8e9e1e1e499c9ef49e4bb754377ba072a30cb06171.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "75"
+				}
+			]
+		}
+	]
+}

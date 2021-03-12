@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101E7500",
+	"eshop_id": "20010000023073",
+	"product_code": "WUP-P-BD5P",
+	"name": "Dragon Skills",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1003,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2b0fd00d8cbd2dc06ef48ac932fce6e610252a7827a548fa7658c318d58079ac.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5e8c97e0613af7241ec808216200b66cf63122d31b4e4ea4c747e3227f3662cb.jpg",
+	"data_size": "330268832",
+	"description": "Dragon Skills offre un gameplay d’arcade classique inspiré par des jeux classiques bien connus dans les années 1970. Il faut détruire toutes les briques dans chaque niveau comme dans un jeu de casse-brique classique. Cependant, dans Dragon Skills la balle comporte une queue qui se rallonge au fur et à mesure, et en laissant la balle croiser la queue, le joueur peut recevoir des récompenses. Dans chaque niveau le joueur pourra tenter d’atteindre le score maximal. Pour atteindre ce score, il faut utiliser les « dragon skills » à bon escient. Il y a deux types de pouvoirs : 1. Les pouvoirs qui peuvent avoir un effet positif ou negatif sur le joueur, et qui s’activent automatiquement lorsqu’ils sont ramassés. 2. Les pouvoirs qui peuvent mis en réserve et activés à volonté. De plus, les « dragon skills » peuvent être améliorés en ramassant des émeraudes pour les rendre plus puissants. Le jeu récompense aussi les joueurs les plus habiles avec différent niveaux de vitesse, rendant la balle plus rapide et ajoutant un bonus aux points de chaque brique détruite. Dragons Skills est un jeu d’arcade typique, avec une prise en main facile, mais difficile à maîtriser.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-07-28",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/18cd17d6e165f1ddaff75a8ef535e91824474274343e21d48f2b91f0b6e5d1aa.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1ba11aa58e72f67a2e601ee1d1a23e15ff9714a748218a8c2bbc6747b6ea7570.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ee7f34d6bef630432e20eb987efac5b142b7a95c383e9f853e94bcd101f251ae.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/fb7d14605f8e6050bc8b0e1094c5cfdb6112c2427f7d8a9f43cf247f8e90a171.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1ba11aa58e72f67a2e601ee1d1a23e15ff9714a748218a8c2bbc6747b6ea7570.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/728781e09906c9f8f2227e6f9f3044cc29f5b5b3f0f106d3d82a788ef9b277b4.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/00efb4e2c51047b79f12f9ba70ee5324283bbb68303055e9cc9053bd7f448c66.jpg",
+			"name": "Dragon Skills bande-annonce",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7bf93d7903c4525cb0888e87415ac95a84d621601cf8c68bd3f6d9c099f2bf28.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "103"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4523519f3a51b9fdfd36eb44919dcbe5eedad9c33e50671e8179b02502875b0f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "103"
+				}
+			]
+		}
+	]
+}

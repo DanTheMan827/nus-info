@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000158700",
+	"eshop_id": "50010000028796",
+	"product_code": "CTR-N-KFRE",
+	"name": "Fairune",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 46,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d5983b231752865375d792fd372b06838adf04b979280443c9532d8ef26f4199.jpg",
+	"data_size": "101849956",
+	"description": "Fairune é um ARPG quebra-cabeça em estilo retro. Uma menina foi escolhida para se tornar uma heroína. Uma aventura recheada de mistério aguarda-a. Durante a aventura, ela terá que encontrar armas para derrotar os monstros en subir de nível. Ela também precisa de colecionar itens, encontrar passagens secretas e resolver quebra-cabeças. Uma vez que tenha desbloqueado três estátuas antigas, ela terá de selar uma misteriosa ameaça para sempre. Outras características: Gráficos e som de 8 bits para deslumbrar os olhos e ouvidos. Controlos simples. Quebra-cabeças viciantes. Mapas e enigmas exclusivos para Nintendo 3DS™.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-12-18",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1a83189d51d75f6165d06d2730eadeb32647bdfe0bcffeccf35b30e3c02574a7.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/82ee94c9d2334ac4a1b9acf2fdde95b8fa3d2c5e74837635b484579a8fe891f2.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2fcc239a84e73ba45f2b76534cc68ae6d4c29eb3f38b7ccff4966e716643ef25.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/cd8607397535447fd4aeb09137218d41fe119c532a6d185f3c58286cbcc8f78c.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3c1a914a3070a50e97a321c8f16825422c9e451bb5db1e5b7eb78951ed731ec5.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0c539f465159792d94e04f9a22a66875b333cf86343887dc0a4fefbfa35d343f.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/41805c1914c4ff34afdd075f5ec9bec1e600508b1f2a02ac006fd3348b5ffb58.jpg",
+			"name": "Trailer de lançamento Fairune",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9006b2adfe84a554c9b75aca8b794d16f1dce0a3a104dce12a707ab72bc0d9bc.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "101"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/235bc1b4508a6867a09327df203156f3ba86deb97372f6d6725f3bba4fa6ebcf.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "101"
+				}
+			]
+		}
+	]
+}

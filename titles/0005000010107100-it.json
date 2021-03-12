@@ -1,0 +1,76 @@
+{
+	"title_id": "0005000010107100",
+	"eshop_id": "20010000001008",
+	"product_code": "WUP-N-FABP",
+	"name": "Super Mario Bros.™ 3",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/086f2756b124e54d656581308aac9fb40d56a35a921e5bcb8312d5c4f3ed337a.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9e3fa71ba5a5b9a953351300624dfd51dcff5530b871558226c034b93430f287.jpg",
+	"data_size": "36733068",
+	"description": "Quando Bowser e i suoi scagnozzi tornano a portare scompiglio nel Mondo dei Funghi, Mario e Luigi devono mettersi di nuovo in azione. L'acclamatissimo Super Mario Bros. 3 offre tante ricche novità rispetto ai suoi predecessori: vola nei panni di Mario procione, diventa Mario rana e nuota negli abissi, lancia sfere di fuoco con Mario Fuoco e diventa una statua invincibile sfruttando le abilità di Mario Tanuki. Grazie agli otto vastissimi mondi da esplorare, ai nuovi minigiochi tutti da giocare e agli innumerevoli segreti da scoprire, Super Mario Bros. 3 merita di essere annoverato tra i migliori videogiochi di sempre! Se possiedi questo titolo sulla tua console Wii™, effettua un trasferimento dati su Wii U™ per potere ottenere la versione ottimizzata a un prezzo speciale! Questa è la versione americana del gioco.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-12-26",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/cff8a4fc6ad836cf3253c94c6a0916f192117da2a782c0e4d5e842b49f81bf31.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b7eee7a4271fbb3185c00ac958ed7d296a2e3b098c25abc3f3e86eaf95d73a04.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0de14bde0c61591e9f5917b1827a8dc33122781ea739414ac10605d0933a95f6.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/48d13b6f2ff2796d1b19c32339a603b2fbc94e7e75450352992921b91a8d910c.jpg",
+			"name": "Super Mario Bros.™ 3: trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fa702199fe2cc2d423b1aea5651b3140635ef849bba76747b865a769ce5bcbcd.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "77"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ddef52a2c1a6b77985c627fe3b93e8f00ce160f27506fc2f5d0d58fcafaac0cf.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "78"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/48d13b6f2ff2796d1b19c32339a603b2fbc94e7e75450352992921b91a8d910c.jpg",
+			"name": "Super Mario Bros.™ 3: video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e0e31eeeabaa18209b77a223b37aebcb650eb6459a7cb8c0bb0b6e7a38c19e5c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "84"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/31d929b3f9fd78f249ec8b6b0c7ff04497bfcdf5b826a5f8f27bdfed5051a32b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "84"
+				}
+			]
+		}
+	]
+}

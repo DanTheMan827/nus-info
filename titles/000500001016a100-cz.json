@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001016A100",
+	"eshop_id": "20010000007266",
+	"product_code": "WUP-N-PARP",
+	"name": "Wario Land™ 4",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/17e0a821f9cfaf6c61ab61de9f7005c385f7d428158539ced6f84aed03b6b821.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/535631c878352fed8d38d680524607226df253090f3e271c4892179ad7ab7e33.jpg",
+	"data_size": "96174200",
+	"description": "Loot-loony Wario has discovered his biggest score yet: a fabulous golden pyramid filled with riches. Trouble is, its denizens don’t want to give up the treasure easily, but that hasn’t stopped Wario before! In Wario Land 4, the greedy hero finds himself no longer invincible, as in his previous platform adventures. However he can undergo amazing transformations that aid him in his quest: like becoming Bat Wario, Bouncy Wario and even Zombie Wario!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-06-05",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/971a132db01965fa2bcadf213e0b45b013114e1fbeb04d85cb11c12fa088cdb8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6f65ba558191ff3d919e696914ce8bdd27c3011fda9f77b1c235d80aad31c33f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7419de341cdc1d1e43c433107a9ece8b22fa02f145b25e232d33ae2ba88651ed.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/228e1b308c40eab2c65d98d3dccfcc773804f6ec553738ed27e5b5f60e03d924.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d95d9ea33fba432bd583543976ada0182f1771ec0e388aefd07dc7cf696df5bc.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f784ce7a0c12e8a76bc9ebe75654514ccc34c6fd380b63ba32822816c66c80c7.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/66e95f9f28cfb3ffdc2458fa14a020196938d98064b00324fa553af0eac89611.jpg",
+			"name": "Wario Land™ 4: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4e96c442da15552f21065d518c020894754285a12e291b661008dec5de743c50.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "69"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/01bfe18ccd8afa2f2c62248d9a52cdea6a2ca75a58d06a250f1eb265439cc50f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "69"
+				}
+			]
+		}
+	]
+}

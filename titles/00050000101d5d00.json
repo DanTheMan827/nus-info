@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101D5D00",
+		"eshop_id": "20010000021789",
+		"product_code": "WUP-N-PDRJ",
+		"name": "ファイナルファンタジーV アドバンス",
+		"platform": 168,
+		"platform_device": "WUP",
+		"publisher": 246,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/80f02795d4d55a120f320ba9cfb29766c7e7bc3993f236470eaf6da245d37116.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3d1dbb32058bb4c02c66b005804b71cecd9d751b7679d1d9ed725e39276c64fc.jpg",
+		"data_size": "74678412",
+		"description": "このソフトは、2006年に発売されたゲームボーイアドバンス用のロールプレイングゲームです。 クリスタルをめぐるドラマチックで壮大な物語。 バトルの幅を広げる奥深い「ジョブチェンジシステム」。 シリーズ屈指の名作が、ゲームボーイアドバンスで完全復活。 グラフィックやシステムを洗練、さらに快適にゲームが楽しめる！ 新たな能力を持ったジョブや、謎に満ちたダンジョンなど、追加要素も満載!! ※当時のパッケージ裏面に記載された文章をもとにしています。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-04-20",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/239cde37167420cbae92d3274ebccf39871eb5ee84c2ab084fda338227d7cc1b.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/e3177aa851527d70c0b4d91e6d29ebe3089a1cebe3beb4978ecbb9a6dee38186.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/3f51b4631f58485ffb98bbd1765afa755898d000c6ee2934373e4f410e32204b.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2f272159910e176ec0c100cc454e43919e2379379099a0e88c5630f877fb3f4d.jpg",
+				"name": "ファイナルファンタジーV アドバンス プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7d19209515511b2fcb0045975f8a5169fa07ba63904faa25692ed93e1c1af7d3.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "107"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3ded7f5e9a10abf6f609d3da7e26778e5765b54457e70c3f6f8485091aad4a7f.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "107"
+					}
+				]
+			}
+		]
+	}
+}

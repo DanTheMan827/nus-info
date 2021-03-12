@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010184000",
+	"eshop_id": "20010000013647",
+	"product_code": "WUP-N-PBJP",
+	"name": "Castlevania Aria of Sorrow",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4771b5ad602edc0cd7f6a7e3bcd6afdc4f99622813c64466b09aaedf00177cae.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/47b7b7085757bf1d791a35ea35d22fc82c76c8925986fb69276bc7875b046922.jpg",
+	"data_size": "86376588",
+	"description": "Im dritten Spiel auf dem Game Boy Advance macht Castlevania einen Zeitsprung in die Zukunft, ins Jahr 2035. Nach einer Sonnenfinsternis erwacht der neue Held Soma Cruz im Innern einer rätselhaften Burg. Finde einen Weg durch die verschlungenen Labyrinthe der Burg und stelle dich auf Schritt und Tritt gefährlichen Monstern. Mit Somas taktischem Seelensystem sammelst du die Seelen deiner Gegner, erlernst ihre Fähigkeiten und kannst sie ausrüsten, um neue Kräfte zu aktivieren – insgesamt gibt es über 100. Doch sei auf der Hut! Du musst entkommen, bevor das Böse dich verschlingt. Wenn du die Schrecken der Burg überlebt hast, warten weitere Modi und Herausforderungen auf dich.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-03-19",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/a287b0d19256a6a73e53b33b5f3be4af4803a988733118db59421cd777cc5cf2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e4cb331fc5653f41ea509fc9b6455d953db4f0fc468beec49b6db2b6a435f53f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2a0056c0ad8ad680f54aaf79f76b9de8b9ec3ea50fd07cdadfa6226d51456ce7.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/af4babacdc970497c297bd4a7670348884e907481c36c0ba9e09afeb451cbfe2.jpg",
+			"name": "Castlevania Aria of Sorrow: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e8e75b3026e38cc28b3e39a09c577df92c66ef4efaf5d076fd92247842ade59c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5681c75f8c638befb97c46dddca3fbe7b321fca7b13cdc89752cc037b43dbafd.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				}
+			]
+		}
+	]
+}

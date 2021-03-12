@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101A2600",
+		"eshop_id": "20010000010986",
+		"product_code": "WUP-N-WKFJ",
+		"name": "カンフーラビット ",
+		"platform": 124,
+		"platform_device": "WUP",
+		"publisher": 1402,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3ff65a45bf405f0ee6741cf6465dfd9805893ec03bfc4bd1c4273157c4feaea1.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4c9d93bec41e48029a9075e8c3ef88e0c14b96febce9bc80520d2099a92565e6.jpg",
+		"data_size": "99451020",
+		"description": "『カンフーラビット』は誰でも楽しめるアクションゲームです。屋根を飛び移り、壁を滑走し、敵に気づかれないうちにすべてを倒す。簡単な操作で、多様なアクションを楽しむことができます。 ウサギ寺院のカンフーの達人「カンフーラビット」は弟子である「ベイビーラビット」たちと楽しく暮らしていました。しかし、ある日宇宙より飛来した邪悪な敵により、弟子たち全員がさらわれてしまいました。かろうじて難を逃れたカンフーラビットは、弟子たちを救うために立ち上がりました。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-11-19",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/f882c37579992c0b4e170c6336f8552228a52ec4d688ea0fca1f4b695248bf90.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/a1d2906cf9102eda9944fa491e664e88d15491264fc47cd599fbb3a47f91d50a.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/b315f8a67b140066004d74150c1e04d4fb46933f6663efe2ed8e518fc99c1fc3.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bda05a6569439bd308c44399b06183d4c0e4a0db7045483bc172498e083322f2.jpg",
+				"name": "カンフーラビット 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5832d554b6f3e95aa552f6e6daab8271ad3e70b8843c6facdac70b87ee7bf147.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "40"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9e84f5ff219aba43a3ce31fcb75f758f52c4c174135f01cefc57c39d980d1dcc.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "40"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101DFD00",
+	"eshop_id": "20010000025967",
+	"product_code": "WUP-N-BLLE",
+	"name": "Snowball",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1733,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e5873dfc718074721ff68715e6df1aee566349c725fc8fa6fb18b24b891c9d59.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/2a6f6a4dd0fa5bccdb8edaa6d1b7961921cdf62e1d334dade0146bd42f6872fe.jpg",
+	"data_size": "68518048",
+	"description": "Snowball's fellow baby seals have been captured by hunters, and he needs your help to rescue them! Guide Snowball through different mazes, dodging hunters and collecting snowballs as you go. Collect enough snowballs to open the path to the next level. After every three mazes, take the fight to the hunters by using your snowballs as ammo to sink their boats and rescue Snowball's friends! Snowball features retro-style graphics and simple maze and shooting gameplay that goes back to the glory days of the arcade. How high can you score?",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-01-19",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/c606cdf7eb7bc8348fd3d15b392143d33cb0c182dfc9afa601f1ebc60f12b080.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/29cb54785c2e2dcd9e4b5bc3d3e4ec3186d4f162c6362bbbe862882ed590ed7c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/58ca5f5f0d3b5e46d32e26f00bba8c334c250ecbf00835ac3e9078f5f85815dd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f36436b283a6cc733c9117f68c2fc897231e39a1c296444864160ea8c3b43fdf.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a8acccecd2551b4efb9746bb632294eabcc846746d560b0d6f8ed424b15597ca.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8649d5c56c2082a477af151ca1c862e33d3c0806cd903288f9c31e21c5f0588f.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/48e2e0e32ab709017009e59cd35f58842d9aa7e565c8b74489d9352c1cad0ed3.jpg",
+			"name": "Snowball",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e9900eb216e43a32f6c4fdc7acacc715e892ea165a0b0ad92483cd88c1649b43.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "48"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4388bf16adf600383dd4de9e17dec67dbba6256b836c28233177706c8911e24d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "48"
+				}
+			]
+		}
+	]
+}

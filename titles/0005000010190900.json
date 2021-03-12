@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010190900",
+		"eshop_id": "20010000011048",
+		"product_code": "WUP-N-FEEJ",
+		"name": "かんしゃく玉なげカン太郎の 東海道五十三次",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 256,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c68aa87db8d5617b985103a02bc8f2df917985687f15ef248bdff6f049281d4e.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6e4610ee7a4e7a93595b6ec3168786e3c6de868634b79851f0d09451b15f3d9c.jpg",
+		"data_size": "38731936",
+		"description": "このソフトは、1986年に発売されたファミリーコンピュータ用のアクションゲームです。 京の都で花火職人の修行を終えたカン太郎が、江戸を目指して東海道を旅します。旅の道中、カン太郎の花火製造法を狙う剛左衛門とその一味のほか、盗賊、幽霊など、さまざまな敵がカン太郎の行く手を阻んでくるので、かんしゃく玉を投げつけて倒したり、アイテムを使ってやり過ごしたりして進んでいきます。ステージは全部で21あり、ステージの奥にある宿場までたどりつくとステージクリアです。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-10-07",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/bd0985b1daf40673fc384bf63682cb6c60b025978e31d40d8f6a95671d54c435.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/b2ed3656907dbc8c099bb02acabed74ef248cbea9137513cc075b183411cde63.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/cc77af6852d2fb80bcf6a5f729f11c57b71c9d071e13673fc1e9411374a375da.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4b03587fb54b59adbe555789da5642b9d8793abe07304d5c180fd9a643c9a579.jpg",
+				"name": "かんしゃく玉なげカン太郎の 東海道五十三次 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1e3deafcb2e9f907397efabab4b55df4baf5cc6a010901684572cffac8ceccae.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "65"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/46ded2f7a8c936437667ae385fc873f55ffc6e232b54e5ccd4706bbcb331ce9d.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "65"
+					}
+				]
+			}
+		]
+	}
+}

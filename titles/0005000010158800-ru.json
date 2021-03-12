@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010158800",
+	"eshop_id": "20010000005704",
+	"product_code": "WUP-N-FCBP",
+	"name": "Ninja Gaiden®",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 267,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1cf94546904f4ef38ff093708d14d31c2eaf56e23389ffeead0d7b27b88ec0c1.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d617bafdcfd13df0a5f554d277d0374fb0d5b501f8ac3f1f8b933d871a9ecaa2.jpg",
+	"data_size": "36634764",
+	"description": "В этом знаменитом экшен-платформере эпохи NES Ryu Hayabusa, «воин тени», переживет захватывающее приключение. Ryu отправляется в Америку, чтобы отомстить за смерть отца, но спустя некоторое время узнает о заговоре, ставящем под угрозу все живое. Заставки, в которых раскрывается сюжет, выполнены в стиле аниме. В каждом из шести актов игры Ryu поджидают банды головорезов, злобные ниндзя и их безжалостные боссы. Победить негодяев ему помогут смертоносный меч Дракона (Dragon Sword) и магическое искусство ниндзя Ninpo. Кроме этого, бесстрашный воин умеет прыгать как кузнечик, бегать как гепард, ползать как змея и карабкаться по стенам как обезьяна. Если вы приобрели игру на Wii™, вы можете передать ее на консоль Wii U™ и получить скидку на обновление игры до версии Wii U. Эта версия игры предназначена для продажи в США.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-03-27",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/cbca6fd4ba04a533aae5aec2649ee87d10a7c03a9cf58cd55380c19f4522a2f4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/fca579c2c801f877b23d6012b60dbbe018afc599d4ea8fcfed6fd0c80f634956.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a103a41d958b706a0f5d430c065626e713b179be120a2d7a3c51d2f68a4390d1.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a51255615a253c05099c9dcd7485e272c52a118d12fad0231741083730d5435a.jpg",
+			"name": "Ninja Gaiden®: видео",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6a3fbe8c621b018832cac5b4da2727f93067c4ee53a2e45ce9ae52e819258a13.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "55"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d326c9c152639f1de7d3ac6df22bfa02f03eb805d015e34af993ac3f8f6758fc.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "55"
+				}
+			]
+		}
+	]
+}

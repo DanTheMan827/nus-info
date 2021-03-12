@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000115A00",
+		"eshop_id": "50010000025679",
+		"product_code": "CTR-N-JK5J",
+		"name": "コンビニドリーム",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 19,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/83fc6e8a5b5dd9f630625b9f7a3d6a90c3f84d985acabea90e2c56559088f5e7.jpg",
+		"data_size": "21515108",
+		"description": "『コンビニドリーム』はお店経営シミュレーションです。 あなたはコンビニエンスストアの新米オーナー。商品を仕入れて販売し、お店を大きくしていくことが目的です。 オーナーの仕事は、棚や商品の配置をはじめ、困ったお客さんの対処、また年間を通して発生するさまざまなイベントやミッションをこなしたりと、大忙しです。でも頼りになるアルバイト店員達が助けてくれるので安心してください。 良い商品をならべて多くのお客さんに来てもらい、お金と経験値を稼いでお店のレベルを「立派な店舗(レベル50)」まで育てましょう。 ゲーム中は、基本的に下画面をタッチ&スライドするだけの直感的かつ簡単な操作で遊ぶことができます。 お店はレベルが上がるたびにできることが増え、いろいろなものが置けるようになります。どんどんお店を育てて自分だけのコンビニをつくりましょう!",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-09-24",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d1d7ab515d829573946491a50bfa38b753c76be222ebfffce46c6bb60de63db9.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/671fd5945aaa571d1df98ef85f952699a7329bf9068064041a6b581039986b5e.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/063584c450a4b31963f9e22b87c7f642d84503f4a04c6c29b01964a11e28dde4.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/18228466a6a45ce8b6e17a1df78ae49478e7d314f28947a8203e9f373d24d809.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d4dc4747104ba1fade36ed1d19169b509550f3018fca8bc0ac26215f63d3f2da.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4f2f61117fe87284c3d4779f73c2d5fd1146d0c861cf4300b31ee62bbd7ab8da.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5d344eb3a530385e0d071b6cbb68d1f02efc1a27ae80b7f3e11e8d1ca4dff3ab.jpg",
+				"name": "コンビニドリーム 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/95bba037a1ec06d7f61b1b8d40a87b6d9a879ce65f263b5dd00ad9db466c2ff6.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "115"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9645f3f5d83ee4860902529cc19398afb626fe83727a0551d43bb634c876478a.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "115"
+					}
+				]
+			}
+		]
+	}
+}

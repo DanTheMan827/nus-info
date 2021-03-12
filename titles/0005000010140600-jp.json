@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010140600",
+	"eshop_id": "20010000020987",
+	"product_code": "WUP-N-AGZJ",
+	"name": "銀星将棋 強天怒闘風雷神",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 237,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3352ded2d9748d0f029ecbabd088e5c2fd82508884fc07fab9c2b42767629816.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/57031be7c95abf25bd8f529c5c33f78f4d63ca5b7c9eb0ba52e26a40444774b9.jpg",
+	"data_size": "420675744",
+	"description": "「入門」から「三段」まで15段階の設定が可能な思考エンジンに、300万手の定跡を搭載！ 初心者から上級者まで、幅広くお楽しみいただけます。 「レーティング対局」「チャレンジ対局」「早指しサバイバル対局」の対局モードや、定跡・利き駒表示、有利・不利を分析する形勢グラフなど機能面も充実しています。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2016-02-25",
+			"retail": "2016-02-25"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/398063603e9d0d3ce8870a4bbdc8b3e0da0296611649fe89c613054e4f76b74b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5df4324d5030c6834a01e9aaf48cfc73fb806066afd0c9db93c88d5ce29b3104.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/75b95f62d3702f060de0beabd489f882153baac6dbb488845f4eae40598f8cff.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b4af158bc16877ae4fec9923f6c78900e4cadc346d688881e859319aeeefad62.jpg",
+			"name": "銀星将棋 強天怒闘風雷神 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0df3d44effe1e8776a4d1d88f59d4bbb97d21022b7a050e2e8179da732252dc6.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "102"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1d451d54d09233b78828fcc63c5a1a6a4bf36e90ebb91988a743ef2bbae0b642.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "102"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101F6300",
+	"eshop_id": "20010000022007",
+	"product_code": "WUP-P-BRRP",
+	"name": "Run Run and Die",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 76,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/14345ec82111db88a6ca60b11d52d31454244281f3f33adda2746229103aed3e.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/489da5c22cf65a1a11fb0fbee3ddacff98b7827eed88e0dd532e06787ff5063a.jpg",
+	"data_size": "547422368",
+	"description": "Run Run and Die est un jeu de course atypique et extravagant dans lequel tu devras échapper à un complexe d'enfer sur 24 niveaux remplis de pics, de bombes, de robots et de sauts impossibles. Tu es un pingouin qui s’est réveillé dans un obscur laboratoire. Comment es-tu arrivé jusqu’ici ? Qui est derrière tout cela ? Tu ne te souviens que d’une chose... le Rouge est la mort... mais ne t’inquiète pas, la mort est drôle. Tu es prêt pour mourir sans relâche... dans Run Run & Die ? Caractéristiques : - Contrôle très simple. Il te suffit d’appuyer sur un bouton ou d’utiliser l’écran tactile. - 24 niveaux endiablés remplis de pièges qui mettront ton expertise à l’épreuve. - Certains niveaux sont un hommage aux anciennes consoles. - Des illustrations de type bande dessinée te racontent l'histoire entre les niveaux.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-04-28",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/1d3b4e1c38dc13405ea6eb9c34a28dd580c8baa56da8b6a1118af6e4ff90ea4c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2a65a0a60020a401647144ada963c1992fc04542ba6fcd565c40f90a26911b6e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7ef0c92548b8d846899bbcf732fb1d4ea80101a88f01baed96c6624c8c30c0e4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e29d5edf0253ab76052fdf49844bceddf0388825b2d9e759cc2820599f3f1eca.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8106d672a1807c7e2a102212d065fd948b6c3c98ab60de9a1335158a6813bc21.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6af1ca957905adfe30a982469bf07774c36929da8216c9eae125110888271347.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a4cbaae3471dedc856b6cdb98a5c916ca4df73fad02a0f4836d7dcd3dadb2e9b.jpg",
+			"name": "Run Run and Die : bande-annonce",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/38191af9682c6c467a312c9c6c6a566aca0b4b0eacf797fd08323eefd5bc5728.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5b0663fba84dc8885099d3434d00e5a3535b014024b402cee9d8ba7ee6d59d53.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				}
+			]
+		}
+	]
+}

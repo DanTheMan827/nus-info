@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101C6D00",
+	"eshop_id": "20010000018927",
+	"product_code": "WUP-P-ARCP",
+	"name": "RACE THE SUN",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1494,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/116a311915a5639d4d383ddc96e9d344bae8ff3ab328af5d8f771336ffeaf8ed.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/06ca9a93d212ad13d7db04feccc0a6ba9fb381cdefde4f67f7bd11a225404f63.jpg",
+	"data_size": "157548684",
+	"description": "Sei una navicella spaziale che funziona a energia solare. Il sole rappresenta il timer che segna la fine. Sfreccia verso il tramonto a velocità incredibile in una corsa futile contro il tempo. Cerca di posticipare l'inevitabile fine prendendo degli acceleratori che rallentano il tramonto del sole – anche se solo per un attimo. Race The Sun si ispira ai giochi da sala giochi del passato e si basa su punteggi alti, partite brevi, e puro divertimento unito alla tensione estrema. Le regole sono semplici: non schiantarti, rimani nelle zone illuminate, e non rallentare!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-10-08",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/07431d8d653b9d350bd473b30a4af4168967ec9457718b5767ae0915810692cc.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3be8d57dd839f3071da45a27eed47f9291dbb14240ff88ca6a44b0b8a1595742.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/353503c135a01591b3fcdede76ae9f1a497074b9a37749804dba3e701299337b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0f1b3613c91256fb41f719e1f4b323ee408b3057c6fd7def7c704294dd9a9cd9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4bb7ad77efc5549c7fd7ff6be541f88de27f237b967547e6d0d71fe8dbc9cdae.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/27525366c2179cf54ab9fdcc902ea479f03d50acdb5817a68dd68c3b49cd8cb9.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/686fff904f2500fdbfa9f56914968b796488f95f0f7d705e18ec89456082852f.jpg",
+			"name": "Race The Sun: trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/364e9124a49312b0ccab6180af7c06dfee040097a8f7d42e9e5d9c993d319cb9.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "71"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/de6102b70c4a72e77d4ace8c1d9afa9b1571deea9bdd255107076d1acbd164c2.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "71"
+				}
+			]
+		}
+	]
+}

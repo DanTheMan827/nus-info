@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101A2500",
+	"eshop_id": "20010000012268",
+	"product_code": "WUP-N-WDSJ",
+	"name": "カラクリWooden Sen'Sey",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1402,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/59a2f6cfd78bb588dca824e9b0e0806ca837f76fa9138ace53f1c681db3e6e3c.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5a7ffd8031be5672cdf47fee1ecdff5268c95df1fed9e1f04d4d2bdce08d71a0.jpg",
+	"data_size": "680362164",
+	"description": "ちょっとおかしな漢字や日本語があふれる世界で宇宙人に奪われたSeyを取り返すためにWooden Sen'Seyが鎌を振り回して暴れまわります。 ボタンアクションのみならず、同時にコントローラーを振り下ろしたり、左右に揺らしたりとシビアなテクニックが要求される本格的なアクションゲームです。 ネットワークプレイに対応した専用ステージもあり、ランキングで競うことができます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-01-21",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/d30ac1866820e24bae16656438f0ef9f53c18b69675d05631109ba54bf839656.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7617d823132e250645550c75bb34de821c51d43d23d4c7e3361bdf4b6a9237b0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3fdf706544afee769f746e60bf54be45c6147950c65268d69f11622cbc13a0c8.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4723a9407d92fed1296c3c222c39fcaf30947e97afe1aad3782a5cd48613f77c.jpg",
+			"name": "カラクリ Wooden Sen'Sey 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cfd46dd4ce435f25f04dcd6575d59a65c076944b3cc67b6984f6ed7899d4ed79.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "57"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/011ab44d08bcd0b600882e45f10f4c922fcdcd695f3c56e2e6f6da14964a4577.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "57"
+				}
+			]
+		}
+	]
+}

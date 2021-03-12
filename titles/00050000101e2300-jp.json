@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101E2300",
+	"eshop_id": "20010000020767",
+	"product_code": "WUP-N-PPJJ",
+	"name": "うさぎの国のカンガルーレース ワラビー!!",
+	"platform": 166,
+	"platform_device": "WUP",
+	"publisher": 81,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ec12b9fa83486d8fdfed6a6b1e26ec9fdf01880942328c43aaa60655cf6f45c1.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b5cc7ff30553b62be4eb51200058e5c5346061aced723fc91fe9959106698487.jpg",
+	"data_size": "83656844",
+	"description": "競馬シミュレーションの先駆けとなった、PCエンジンのオリジナルタイトルです。ゲームの舞台は「ウサギ国」の王様が作った国営ワラビーレース場。 プレイヤーは、手持ちのお金10万GLを元手に、小型のカンガルー「ワラビー」が競争するレースで、所持金を増やしていきます。新聞やパドックで情報収集を行い、脚質や騎手、コースの状態などを見極めて「ワラ券」を購入しましょう。100万GL以上お金が貯まったら、自分のワラビーを買って「ワラ主」になることも可能です。自分のワラビーをレースに出場させて、年に一度の「キングカップ」に優勝すれば、驚きの商品が手に入ります。 発売時には可愛らしいグラフィックと斬新なコンセプトが話題となりました。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-01-27",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/c128a4aca5d484d0a9de5e0969c6044c70e37eb2e2aba6caf303ec478bc216d2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d4d3feb6686221033a535f3528805e993d0dc39785a2ae07027e987e874673bd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8ef0a7ffc4c964296b279c7e53a28009b322c255026e2fee59414000a60d37ae.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cdd05a9410e211595776bc083564f686ecb3fb8d97d355d779e381161da4ee61.jpg",
+			"name": "うさぎの国のカンガルーレース ワラビー!! プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b1c5e63db98fc6b6e2c7264ca89347ed90d2ffd590e8e11ee599ee4caf5dedd1.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "78"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c4d28798a28b925c511a97ad91a67447bbb1164564fb7ab0286b666d9dcf84cc.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "78"
+				}
+			]
+		}
+	]
+}

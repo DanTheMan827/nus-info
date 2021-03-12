@@ -1,0 +1,78 @@
+{
+	"JP": {
+		"title_id": "0005000010131E00",
+		"eshop_id": "20010000001223",
+		"product_code": "WUP-N-WCNJ",
+		"name": "ポケモンスクランブル U",
+		"platform": 124,
+		"platform_device": "WUP",
+		"publisher": 210,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b9629eca7ab445c763571f211c5c6e95965d4a4d5e5453e5dd0aeded2ee0eb74.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7a1345f4c39e5bed160e124eb2d5251f58994ffc96bf3eed5ee0d8758b539631.jpg",
+		"data_size": "427131040",
+		"description": "今までの「ポケットモンスター」シリーズに登場した649種類のポケモンが大集合し、シンプルな操作でハチャメチャなバトルを楽しむことができるアクションゲーム。Wii U GamePadを使ったり、アイテムやステージのギミックを活用したりすることで、さまざまな戦いかたを楽しむことができます。 また、Wii U GamePadにNFCフィギュアをかざすとフィギュアと同じポケモンがゲーム内に登場します。そのポケモンは他のポケモンとは違ってゲーム内で強くすることができ、パートナーとして一緒に戦うことができます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-04-24",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/22d30952cc010a39f1a7e7ad4c71395ef900b9bec07b288fecc514d4af243af9.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/21d68b033b1c8085d2a843de523dc5bb3d0de415c8ab8f4213c2258a81af6eec.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/e8bfa984f5638507187a00b8d2e874be9db65be7b4ff9f27bf38c1dffc4c64df.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c18c581ed7d82740ef4ba97a3582982ae4c80a0f9d5de2f7abf3fdffdc2c5b43.jpg",
+				"name": "ポケモンスクランブル U 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4df5b71998f001e80c27fda0957ac674c6160050809955f38090fe77097dbc04.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "131"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1fd8a42b28355cc61e42a41f59171c8549ef1a707bd4007c612538c5a9cf9613.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "131"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/008b5852e20cc3777289d161095a5bedbe53e351d8320bc352a4fb918dc84b93.jpg",
+				"name": "ポケモンスクランブル U プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f1550341fff6f1267bb116b8c8bd64ee00009c51816f3be4283d80f80af3a517.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "77"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/05d3753b6910f7dc1e1eb6f2f2b57ba3787460e9206ddbfff7e4f631b0f334dc.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "77"
+					}
+				]
+			}
+		]
+	}
+}

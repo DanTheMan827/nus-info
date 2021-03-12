@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101E7100",
+	"eshop_id": "20010000022308",
+	"product_code": "WUP-N-DA9P",
+	"name": "Pokémon™ Ranger: Tracce di Luce",
+	"platform": 169,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7f0c2efc447976facea1eeb76fcda3b5e55977b8e2a41f7822eb7373cce03822.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5bac0a08de215a8228581de872f3f47a214fe6c8f9e875f8767a26331acbd362.jpg",
+	"data_size": "143687800",
+	"description": "Preparati a vivere un'emozionante avventura piena d'azione nel terzo episodio della serie Pokémon Ranger, Pokémon Ranger: Tracce di Luce. Vesti i panni di un Pokémon Ranger incaricato di proteggere la popolazione locale ed i Pokémon selvaggi dai malvagi Bricconieri di Pokémon con l'aiuto del tuo compagno, Pichu Ukulele. Per salvare il paese dal potere delle tenebre, unisci le tue forze con i Pokémon Leggendari e ferma i malefici piani dei Bricconieri di Pokémon.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-06-09",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/00d3583b7ad8ca381a24c8f1b6caee53603bbb41ba2ac75d20613f421509d12f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/76f404fe9ffee2dd74300520c024cad28a805e4559e39f964064d83e32b2a040.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3caf67957eb20c05ec026273c33404ffe61378788d18ecbe275c08d8e337fdd5.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5a08da2db293497832e9d5127e64cfe91ba6944eb7d5679f38b62fb4822c375d.jpg",
+			"name": "Pokémon™ Ranger: Guardian Signs: video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1291cac5eca8e530046ede20e210cc36e8213a7a12986d1ca71ed204be042bf7.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/64028aa3e865368b2b8fa47470fc8c0f4524549690b8a13f57470350464dfd8c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				}
+			]
+		}
+	]
+}

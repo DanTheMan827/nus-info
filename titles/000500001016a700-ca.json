@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001016A700",
+	"eshop_id": "20010000006566",
+	"product_code": "WUP-N-ALHE",
+	"name": "LEGO® The Hobbit™",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 1004,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/df344e832eac4564a48e7639ef5e858c6b798b762d9e3591e97f9123e20423d1.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/76cd64e76601af8e59c0d00a08d78ab22f57794e55d34bac468d043ae539bce5.jpg",
+	"data_size": "7645135628",
+	"description": "The interactive game of LEGO The Hobbit allows gamers to play along with their favorite scenes from the films, and follows the Hobbit Bilbo Baggins as he is recruited by the Wizard Gandalf to aid Thorin Oakenshield and his Company of Dwarves.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2014-04-22",
+			"retail": "2014-04-22"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/7b3fbdd7ddce0f608a7941ae2c98dbdb815896cda0a13f7d9e498113e2e704c9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/07e8853043715f3faf10e8333a47353ba8d6194738e0c744a13e911b6a1530c0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/35fe217e85643d97e4ca24dd455c61d45de9cbc7b341d21ba914a64fe728cb96.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/005dcd17f4fa2b4355e2f49eb790ad24acb66e069837199ce59efa14b4c565da.jpg",
+			"name": "LEGO® The Hobbit™ Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0aab4c0087b6301b75fda1ad0226cc98c07df658357ec59fe3711f84d5cd060f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "103"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/33810e42c3fb590c2712ce18bfbaea1d6dc33bec76160d0224afcc1283a0cdf0.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "103"
+				}
+			]
+		}
+	]
+}

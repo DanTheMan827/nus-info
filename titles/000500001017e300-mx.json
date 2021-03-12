@@ -1,0 +1,53 @@
+{
+	"title_id": "000500001017E300",
+	"eshop_id": "20010000014627",
+	"product_code": "WUP-N-AGEA",
+	"name": "Splatoon™ Global Testfire",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2d79c4e45764a92cebac83299584fad72e4bd6805836bf550be922a6e498cf49.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/098c13348f95e38554bc08922026ffbf590232a942e7b1e21b3f0929179dc9af.jpg",
+	"data_size": "615121076",
+	"description": "Para celebrar el próximo lanzamiento del juego Splatoon™ el 29/05, estamos ofreciendo la oportunidad de divertirte y conocerlo por adelantado ¡al participar en Splatoon Global Testfire! Conéctate en línea y combate en rápidas batallas estilo territorial de cuatro contra cuatro. Este evento solo estará disponible durante cortos periodos de tiempo el dia de 23/05. ¡No te pierdas la oportunidad de participar! Necesitas una conexión a internet de banda ancha para participar en Splatoon Global Testfire. Para participar descarga gratuitamente el programa Splatoon Global Testfire desde Nintendo eShop para Wii U y luego inicia el programa durante los horarios establecidos. Horario del evento (solo podrás jugar durante este tiempo) Sábado 23/05: de 15:00 a 16:00 (horario del Pacífico) Splatoon estará disponible a la medianoche del día 29/05. ¡Prepárate para el lanzamiento predescargando el juego! Con la nueva función de predescarga solo necesitarás una pequeña actualización para jugar y estará disponible a partir del lanzamiento del juego en la medianoche del 29/05. Visita la página del juego para conocer más detalles.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-05-07",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/490fcc420bd9472cf7b3b33faefae6a26d826c53b538ec5aa0bb3bbe2732c8af.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/31b979f75605f7705c6368a48f5f7c534fffd0e4aa2ff3349134cfd195b3a6d8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7be9b5885c876c835c5c60795afe997956718827920b350487c66848a80b2038.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d5f0fc9a23bbe71a4d0a91d451e62a3d296abde19fb0c5bc1aa29b9928759614.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/316baec8f70ea7adb63c26c630804ca3322146638074da183e90e2593dc3f362.jpg",
+			"name": "Splatoon Direct - 07/05/2015",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d6228dc527d187ab21749f286a50ea4f5fd0fddfe7e2d64c06be01504dc5fdfd.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "1990"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/88038ca88a84b17d81bf00f22edd6241f945ba1092344cf076266cee6bd9a024.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "1990"
+				}
+			]
+		}
+	]
+}

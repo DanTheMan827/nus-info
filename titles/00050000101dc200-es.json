@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101DC200",
+	"eshop_id": "20010000023607",
+	"product_code": "WUP-P-AVWP",
+	"name": "Vektor Wars",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 127,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fc4c609cf355f3c2441e0c6429b97080d4e370d2b77fc4be0f530e1d2ea42de0.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0bd13a726d40a627d96c70dd2fd8ca9764cb3b593f9a74c3253872f5a0ce95dd.jpg",
+	"data_size": "533889184",
+	"description": "Bienvenidos a un shooter cibernético en primera persona inspirado en un futuro de luces de neón con aire ochentero. Corre el año 2024 y eres el comandante James Moses, un soldado galáctico. Tienes una misión: acabar con el ejército de robots letales, rescatar a tus compañeros robóticos y salvar el mundo.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-09-08",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/b400231ad87179075bfb093de778c22143406588969e19e59c275b761be8e53e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5ced2e08b96058d67169f1ab7f85ed48ccaae9e57e37a0dc81229dd7628c9439.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/62a25d82d0873e719320d1e4348ecca035017684c5ec379747030ce447d13c30.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6cf5579637aca46889440d280f32853f30b0ef9d904c74a06f928eb5f7370c15.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3dd6358b427c40f947270cb430381fafc08d88facec7577b60833e03462ef20e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3b11dcf51dafac11c755871a7fc5983c35d39065aee18870be994ec3c7a44914.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9e94723815706667448e95bb9210d1cfb41b2f0f812f4e34beeda77855737c9b.jpg",
+			"name": "Vektor Wars : Vídeo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6033e00bf96492bfeb2ee8d4330868acf1c667dc7e1a8c094a2a59b569c3b682.mp4",
+					"width": "1551",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "76"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/088ecb26a27e6c79d204ec97e200745cb07fafbf26c7f470e1cc573c66ba5a4e.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "76"
+				}
+			]
+		}
+	]
+}

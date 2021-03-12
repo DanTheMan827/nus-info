@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000A9000",
+	"eshop_id": "50010000012390",
+	"product_code": "CTR-N-ACLP",
+	"name": "Nintendo presents New Style Boutique™",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4a989d326b86375629c5132b1d5e82b26bb61176d2975b7438ba27f76748d352.jpg",
+	"data_size": "1688324964",
+	"description": "Эта игра доступна только на английском, французском, итальянском, немецком и испанском языках. В Nintendo presents: New Style Boutique игрокам предстоит начать работу продавцом в магазине одежды и подняться по карьерной лестнице, чтобы в конечном итоге открыть свой бутик. Вы сможете давать советы покупателям, создавать и дополнять их образ. Вам будут предоставлены тысячи моделей одежды и аксессуаров, дана возможность видеть и оценивать коллекции других игроков, самому становиться законадателем моды, в полной мере раскрыв свои способности! Мир моды у ваших ног!",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2012-11-16",
+			"retail": "2012-11-16"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c3a556c5c99e03ca8356f6fdc7e72aaabe6b1360e6facd1d0f8616729befb0ff.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/08187bcdb05d5c98e25d99a5d4cd6e25d6bb1c43d997f836a6fa570951e8cf23.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b5694b1b8978ca469f806ebe7610c3bfb663e4e814b0e21c9960eb1abe5bc9fb.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b31c023e44cd51d343e594cf3ec5433b9e58f08ce929646a92e6f617b0721770.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/9944f4edc41ee93de9d175a3d3713180fa22b45e2bf2b6d9bc7b8402f0878dad.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ba4bf94f30230d975b505c0bc5b672986cedcd6a2af78db89ae49c04a589cf12.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/789ef2bf374ec0ab0163e8037e8ae4ab4b2c32402d09d24642fcfce29deac97e.jpg",
+			"name": "New Style Boutique™: трейлер",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/76afd84b0e6da9f4f99f70266d0742545d60ed939273a220d25ad947a7cfe282.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "178"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/93617fc3ee7a1906f7f8402ad3718c0c114c01359e0fdd316edff298ae2b22f7.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "178"
+				}
+			]
+		}
+	]
+}

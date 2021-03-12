@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000164D00",
+	"eshop_id": "50010000034682",
+	"product_code": "CTR-N-KGDJ",
+	"name": "グルメドリーム",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 19,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d7f852e022ac8bc93566ca33ebb901836bc375a31ac385e73ed01593db783b8b.jpg",
+	"data_size": "41220964",
+	"description": "『グルメドリーム』はレストラン経営シミュレーションです。 あなたはレストランの新米店長となってお店を運営し、自分のレストランを地域ナンバーワン評価「Sランク」の繁盛店にすることが目標です。 評判の良いお店にするために、魅力的なメニューを作り、内装を整え、一緒に働いてくれる店員さんを雇いましょう。 店長のお仕事は、食材の仕入れや店員育成、レビューのチェック、お店の宣伝などたくさんありますが、ゲーム中は基本的に下画面をタッチ＆スライドするだけの直感的かつ簡単な操作で遊ぶことができるので安心です。 お店はレベルが上がるたびにできることが増え、さまざまな新料理を扱ったり、店内や店外を自由に飾って楽しむことができるようになります。どんどんお店を育てて自分だけのレストランをつくりましょう!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-07-01",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1050f71518f5d2f21d7d19434801da5734add157cadac7bf8bca6657208d3556.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d071cfcf03a2b5ee9213d29f9981d01573955184b143abb93bba1dc29a5fd934.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bc4b3630f3de031488ae92a021f41313adab18bc9320ed207049337e091adffb.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/091ce24cacd83457632221ec19008eb70d32c07a9cd3320cdda5ecf5644f88fc.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2aedfeac21cb75bc22326e1944483dcd60b08a9a2d3d4a0b5cd8627bf11867cf.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b20a8292b71b30956bbfce533eef3cf609c437f274ca8523d6310cff557067d1.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9408175d98a2509d9698ddb998c27981221a3e660980cde67f46b8c5afbd8538.jpg",
+			"name": "グルメドリーム 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fbe5c304eb92e5c617b0cf1f87e610521f00783c0e517c8f8cad58ad114b8ddf.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "115"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8d46ba01738ac394b84bb0a0ad688dddc545f1746452f720904cf2368f0528fc.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "115"
+				}
+			]
+		}
+	]
+}

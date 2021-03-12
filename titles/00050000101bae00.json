@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101BAE00",
+		"eshop_id": "20010000022747",
+		"product_code": "WUP-N-NANJ",
+		"name": "ゼルダの伝説 ムジュラの仮面",
+		"platform": 170,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0ee175b71bb4d7c9aeffe24b074615d2ac100a4e16e04bf2b5de5e6d66549a5d.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f28635d897a97f0762b60a2dcd30bb73224a967f02f6d843d593d830ee524e29.jpg",
+		"data_size": "79036536",
+		"description": "このソフトは、2000年に発売されたニンテンドウ64用の3DアクションRPGです。 ゼルダ姫を守り、ハイラルを救ってから数か月。森の中を旅していたリンクは、不気味な仮面をかぶった小鬼「スタルキッド」に襲われ、見知らぬ世界に迷い込みます。そこは、三日後に「月」が落ちてくるという「タルミナ」と呼ばれる場所でした。 月が衝突して世界が滅ぶたびに三日前の朝に引き戻され、すべてがなかったことになる不思議な世界。仮面に宿るさまざまな能力や歌の力を頼りに、リンクはタルミナを救うため冒険に挑みます。 三日間という限られた時間で、果たしてこの悪夢のループを抜け出すことができるでしょうか……？",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-06-29",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/dc9bd571be92d9bdd25deb92262639a20376f7204a2e0152e4553289ef4b9fc6.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/39173d887e123c619ce4b656f9536806fa87a28e946e8f558183cb402ef010b2.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/0ef77c00aacb66ffc0709d0101d63e82c01adfb997dabbd9b36c381463d284fd.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ded86c4e85243536a5d3bb530a9a293cdc16b6c8efa5ba241a0ab90ed658f4ab.jpg",
+				"name": "ゼルダの伝説 ムジュラの仮面 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c84d79d1e2b7e3216ba262e1f5c43299dbcea46f6c16f21f2e8417aecbbbd928.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "93"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ef165b17c8f96170f02c5bf9ccfd29361e45283f0a753d026275c86d9c38a951.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "93"
+					}
+				]
+			}
+		]
+	}
+}

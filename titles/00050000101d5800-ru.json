@@ -1,0 +1,43 @@
+{
+	"title_id": "00050000101D5800",
+	"eshop_id": "20010000026535",
+	"product_code": "WUP-N-PDNP",
+	"name": "Rayman® 3",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 278,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3dccfc39bb7f006d48da005d895811e8342dc0cfc7fe9a2a68aa0df426775e66.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/582129f5d93f9a698ab2a1450168ac333efbe2e7a0c4a55daede71022ece5d34.jpg",
+	"data_size": "81297548",
+	"description": "Глобокс, лучший друг Рэймана, нечаянно проглатывает ужасного черного Лума. Это, конечно, еще не конец света, но может этим закончиться! Есть только одна возможность предотвратить полномасштабное нападение вредных и злобных полчищ: Рэйман должен найти лекаря для расхворавшегося приятеля.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-05-25",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/6911b3a5baf92118713d0ced532ef8651f7bdd3f8b4f4e27d8bcd90618427aff.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2a2ee526e52b7f8b84b5f28e320deff644cdc0ce8d5bdc251372fd3025f3978a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4319bfeced36279f4e61d9f74a0e346e343a94b08860dddebbcdf39770a022bf.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9ff25b3a88589b6d31a502576b05faf6d63ab7603c0f18dcbca1146e260b4b29.jpg",
+			"name": "Rayman® 3: видео",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8ea8f4580b1992a4815764e42b18480eef026b06864362186a8d18ad77c70301.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				}
+			]
+		}
+	]
+}

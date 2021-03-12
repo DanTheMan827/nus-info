@@ -1,0 +1,69 @@
+{
+	"JP": {
+		"title_id": "00040000000BFB00",
+		"eshop_id": "50010000014946",
+		"product_code": "CTR-N-JZGJ",
+		"name": "ゾンゲリボウリング",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 114,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d814b0530987db5962bf86a6022795157e288361bcaaf7a4d449cf51b121368a.jpg",
+		"data_size": "47184740",
+		"description": "『ゾンゲリボウリング』は、迫り来るゾンビをボールで蹴散らす、超爽快ゾンビボウリングゲームです。3D立体視をONにすれば、さらに大迫力のプレイが楽しめます。 4つのステージと3種類のルール、特殊ボールやギミック、派手な演出など、新感覚のボウリングゲームをお楽しみ下さい。 あなたは生き残ることができるか･･･!?",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-07-10",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5a01c03bc30f727b2856c58d9a4a4bb6aaa983d26f54a7408ab60e564cd8a2f1.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2ceed5ff2981fdbbc800a8d1c7843ccbbf841aff8ef49fb943878b7d2bae439f.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c80c3a81c3fa9b6832588809b78bfd1437e386860dc06dd99fd0b91ec47ddbdd.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7646c689b6fed429ce605e39f47f485a91bbead352e5875f9be0d3833ed5345c.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/4da94c8b169c03b928eba9909ca26870bf87c76b22c946bd5d594c928ab87200.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7646c689b6fed429ce605e39f47f485a91bbead352e5875f9be0d3833ed5345c.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/723b56ad4240e83c45eda4377129c1e4f1025ca953e132ed9ae1b383319a46ea.jpg",
+				"name": "ゾンゲリボウリング 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d734ad346a78be2569416f06113169c3274046b05d2c36bf7204950cd35df284.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "139"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/efb4822f4170534b4bf7d4c2a1fcf228ef3f3c4fb2f4320c0611d31a58f9012c.jpg",
+				"name": "ゾンゲリボウリング プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f23626cf9335245169ad18e32cbe0b6b5ea1d98aeed8741a9fb5a5e7097d89cc.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "53"
+					}
+				]
+			}
+		]
+	}
+}

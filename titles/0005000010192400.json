@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010192400",
+		"eshop_id": "20010000011070",
+		"product_code": "WUP-N-FEHJ",
+		"name": "ダックハント",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4f48c02133eefb208635b0dafe13fbbbfd452ba5019d0cc793386011bd018964.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ba3fc3cc8563bd07adbd422a2c87f44dcaf5d3ecf1968192538b2b23d26be574.jpg",
+		"data_size": "38731936",
+		"description": "このソフトは、1984年に発売されたファミリーコンピュータ用のガンシューティングゲームです。 Wiiリモコンを使って画面に現れる照準を操作し、ダックやクレーなどの標的を撃ちます。弾が標的に命中するか、3発の持ち弾がなくなると、次の標的が現れます。標的に弾が命中すると標的ランプが赤くなり、面の終了時に赤いランプがパスラインまで達していると、次の面に進めます。 ※このソフトをプレイするにはWiiリモコンが必要です。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-12-24",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/05ad4b7a25189c8b7da3fed88f8861f9788d340e246210ca29ad3642354e9090.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/6aa042336e011d4b3abc0743dcfa1d6eb39d87d5d2bc42e79c1d8256b0b97469.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/783fc2bf1be7acf2863007475a669d1758b0ce6730987d068f0ee7081250ed18.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1c7e4f0458742ded52f1758c91f1a4265d09bacc96b54bf0a2e99aa94caf73e7.jpg",
+				"name": "ダックハント プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6d97d5e1a91249efe90e86ca4de09ebc12de2eda335a890ae5e8e8feaf78f85b.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "46"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5704e6b24a8ed643a024c48f0e08e94b290a45b8ea5be8787bde09484ad4b946.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "46"
+					}
+				]
+			}
+		]
+	}
+}

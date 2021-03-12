@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101DA900",
+	"eshop_id": "20010000023750",
+	"product_code": "WUP-N-NASP",
+	"name": "Pokémon™ Snap",
+	"platform": 170,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8c23aeac192421b685ff337e347c61db19142732e9fb7e35b3dc57c62981e2a2.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b46f18be7746fc2f133b2222ffca96a2aeb4a7f34695735ad7a73f6e3e518ea7.jpg",
+	"data_size": "63045752",
+	"description": "Avez-vous déjà eu envie de voir Pikachu dans son environnement naturel ? Avec le spectaculaire jeu Pokémon Snap, vous pourrez surprendre plein de Pokémon en liberté, mais pas avec une Poke Ball cette fois-ci ; avec un appareil-photo ! Certaines photos sont faciles à prendre, comme lorsque vous surprenez Pikachu se prélassant sur la plage, mais d'autres photos sont beaucoup plus rares et demandent plus d'habileté, comme celle de Pikachu chevauchant un Pokémon volant ! Dans Pokémon Snap, le Professor Oak, professeur Pokémon de renommée internationale, vous a chargé d'une mission. Il a besoin d'une grande quantité de photos que vous devrez prendre sur l'île Pokémon Island, endroit où vous croiserez six environnements fascinants à la recherche de tous les Pokémon que vous pourrez trouver. Si vous possédez ce titre sur votre Wii, faites un transfert Wii™ vers votre Wii U™ afin d'obtenir la version améliorée à un prix spécial !",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-08-18",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/9d408e6b3383aed96b36d6bdc7886dbbca3b5180988693a89b25c4f0b1d3312f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/87c40be1f16071240c60624b0691ea59af811f3ccc2333c82c89a153d5ac7e15.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b4eb271a25c894a49232b91b15cc6896f906a6bd05cbce951750a9357dd32cb8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a2b8f1884e2a9a9f013b83e9b699008d40228e3df959d64824568ecf673d3000.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/75e4956bc468a73251a67fecba18f1e38f4022eb414c332b7f3decd92a6c42bd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/cf189c74d1e5cc158e0d8f016b4853610f268bfb48e750d313aa3ab6614d2a38.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0c4625cbb8c12f7870e63201f8fe36284302321ee5a9657c4999b382369f7f28.jpg",
+			"name": "Pokémon™ Snap : vidéo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0d7f374218942fd31e0ad0db8e54a1268de5be55235d151d9461e86660d7cebc.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/856f309ce92b66b5c9337a56b391219039fb115437fbc33e3a5eb05dde790ef6.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				}
+			]
+		}
+	]
+}

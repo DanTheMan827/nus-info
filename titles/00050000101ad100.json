@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101AD100",
+		"eshop_id": "20010000017470",
+		"product_code": "WUP-N-PCPJ",
+		"name": "メダロットG クワガタバージョン",
+		"platform": 168,
+		"platform_device": "WUP",
+		"publisher": 222,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/634d885003ed56a7e895d533ba0958a0b27cda575879845363af8ace65481dfe.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b9d9918d3cfb05ffeef104a8b01e44cdb88c3449e472bf66ae7eb1112a9fbb81.jpg",
+		"data_size": "73564300",
+		"description": "このソフトは、2002年に発売されたゲームボーイアドバンス用の対戦格闘アクションゲームです。 西暦2027年、田園風景ひろがるすすたけ村に主人公コイシマルが引っ越してきた。 ある日、村おこし好きな村長タマヤスデンスケが「デンスケランド」なるものを完成させた。 そこはロボトルのために造られたアミューズメントパークだった! ライバルや仲間たちとの熱いバトルを征してロボトル大会優勝をめざそう! ※当時のパッケージ裏面に記載された文章をもとにしています。 ※本ソフトでは通信機能を使用できませんが、ゲームをクリアしてエンディングを見たあと、セーブしてタイトル画面に戻り、メニュー内の「つうしんたいせん」を選択することで、オリジナル版で通信機能を使用して入手できるメダルとパーツが入手できるようになります。 ※『メダロットG クワガタバージョン』は、基本的に『メダロットG カブトバージョン』と同じゲーム内容となっておりますが、一部の内容に違いがございます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-10-14",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/c77a1f110df3944ca3eed531bd11818c0e1a6c3035cb9060f9e234e09112ee51.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/447b9784d09b050ffd0d8f04cc0b32d5b74821a18d80a8cb91c3a48dd8c0a8c2.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/c1fc43ecee9199f224cf341c5e16d578d710f1339a02c3c07b067e41c40ec79c.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bc669f96ed1a8b2e1956e5e14af68337961fc3f2edde11561735b17494fad1de.jpg",
+				"name": "メダロットG クワガタバージョン プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4994e201d48b74732ca5f89cedf315b4f97fa5ca7050fa3d48ad679bc01b97e0.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "50"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/acdf52ab296deb7b16ec5df35799d8a1877de36f7f1db7ecebcacd378e1035f8.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "50"
+					}
+				]
+			}
+		]
+	}
+}

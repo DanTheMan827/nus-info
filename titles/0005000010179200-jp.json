@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010179200",
+	"eshop_id": "20010000013067",
+	"product_code": "WUP-N-WAFJ",
+	"name": "マリオvs.ドンキーコング みんなでミニランド",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2c5724281a088d19def829ca0a3de58874d1df7e007c42df72f4ba4e7069611c.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/24c0f3f74787f2926ce4b5441eaba3a3449a63a71bef34ff8135bc78c512118b.jpg",
+	"data_size": "469926048",
+	"description": "タッチペンで仕掛けを動かして、自動で動くおもちゃのミニマリオをゴールに導くアクションパズルゲーム『マリオvs.ドンキーコング』シリーズがWii Uに登場。 仕掛けいっぱいの88ステージからなるメインゲームはもちろん、自分でオリジナルステージを作って世界に公開したり、逆に世界中のプレイヤーが作ったステージを好きなだけダウンロードして遊んだりするなど、思う存分楽しむことができます。 ニンテンドー3DS版のソフトが無料でダウンロードできるダウンロード番号もついているので、外出先のちょっとした空き時間に遊ぶなど、シチュエーションに応じた楽しみかたができます。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2015-03-19",
+			"retail": "2015-03-19"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/465dba68389dab6deaf3431bee4c82fa7e980cfe6cbc57a4802e52c090b0cb09.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b08a2bb3aabc1d3a6ab51f3b80b81bba3eee2701156860ebce6f148ba9988766.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/509deace6b030934aa1704022c734387a649672d70d572c8d5c42f8aa4036e7f.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7c128e6ad99e4a3210717aafd5c5d5a06bbec44815b7efa452bae4573b67575f.jpg",
+			"name": "マリオvs.ドンキーコング みんなでミニランド",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2db4bbeff9f10dd403c62b4630a988d7ee543d68132c91248af4b1a75df64f34.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "263"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/72c156893927265c31945996a553e523ff27fef5a3c9bd71bb0b52d41c2e7fb8.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "263"
+				}
+			]
+		}
+	]
+}

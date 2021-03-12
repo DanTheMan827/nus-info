@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001015BA00",
+		"eshop_id": "20010000007708",
+		"product_code": "WUP-N-PNFJ",
+		"name": "PC電人 ",
+		"platform": 166,
+		"platform_device": "WUP",
+		"publisher": 149,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/19e7d96b1d1da901e52b442803c587afadc52e7743a294d9682c1dc29d3e78ff.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f53a239e5f0200b7a150a2a01ee9673f218cacd04ee22d036f65b45e85c0fcff.jpg",
+		"data_size": "84344972",
+		"description": "『PC原人』として好評を博したシリーズの横スクロール型シューティングゲームです。従来のコミカルな世界観を残しつつ、舞台は原始時代からサイバーパンクな未来世界へ。悪の科学者「キングタマーゴ･サンドロビッチ伯爵」によって改造された「PC電人ゲンヘッド」が、伯爵の悪巧みを阻止すべく仲間とともに闘います。 ゲームは3段階の難易度設定に加え、「仲間モード」を3種類から選択が可能。「ミートカプセル」を手に入れることで多彩な攻撃を繰り出せるほか、10人の仲間たちとの「合体無敵」や「ボム」といったユニークな攻撃が楽しめます。さらに超インフレなスコア表記やゲームオーバー時に流れるテーマソングなどの楽しい演出も魅力的です。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-06-19",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/dc3e08f42455627540eda0eca4251e325d317e06b12b07516fef37d93953837d.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/878f0f45d96bb46c10289685476c13831452fac845724d1f410ae988720d73ad.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/aa717fcd6f7e25e5f93f24f430015857491424d228a135ccff3e318025be2d98.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/26ede73d272b9c08266809d28fb67a5b4d1e1e7cb9d2af16f5fc025a202f105e.jpg",
+				"name": "PC電人 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a3b8ca1eac2a71fa705e4df9d1da5b2d16910eed869f1598c36b785445829794.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "46"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2d703f40277a5b59ceb6e76c433bd2ec7741dd39b4b23e18ff824db5eb2e795d.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "46"
+					}
+				]
+			}
+		]
+	}
+}

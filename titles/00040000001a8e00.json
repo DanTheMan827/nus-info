@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "00040000001A8E00",
+		"eshop_id": "50010000041484",
+		"product_code": "CTR-N-KS7J",
+		"name": "マーセナリーズサーガ3",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 1279,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c195912a329f6e231ff3a1f19a360e8cc083d3dcd1a809da0f07eeeb48bfc5c6.jpg",
+		"data_size": "171944804",
+		"description": "『マーセナリーズサーガ3』はファンタジー世界を舞台にした、タクティカルシミュレーションRPGです。 戦闘はクォータビューマップで行われ、高低差のある地形、正面・背後・横方向で変わる戦闘結果、味方キャラの立ち位置による援護効果など、戦略性の高さが特徴です。 戦闘で得たスキルポイントを使用してクラスチェンジやスキル習得でキャラクターを強化し、強敵を撃破しましょう。 ■3DS版の特徴 「ストーリーを全28章にボリュームアップ！」 ストーリー(章)用のステージを新たに追加しました。 また、合わせてフリーバトル用のステージも追加しています。 「戦闘バランス一新」 キャラクターのパラメータやスキルの威力、習得可能スキルなど、戦闘バランスを調整。 旧版をプレイ頂いたときとは異なる、新しい戦闘をお楽しみください。 「パラメータは日本語表記で初心者も安心！」 INT……って何？ 、JMP……って魔法力のこと？ 旧版では英語表記だったパラメーターの名前を日本語表記に改めました。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-10-05",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e30e27b270ada4899ae4b8df69a041941d9eb30f276a6cb365c7c0af4ac02ecc.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a051dbbccfa4a5912d7f99b08bb2592de84a048961ad17686a49016e7289e3b8.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/327ed9b3d6da33eceb1f28cdd9ea2877f0133a6ed168d72926db6724c9099cf0.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c091ed3c752792cc1e1fae5a8baefb20f646bb527a42fece6179262ab6d1139f.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/4600bc0b20793ae57fd410314c38e547cfaccddd840fdc3ee4dae39f60dce207.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/68d44822e4813407afec0ee351e2a38d0bd9f678285b04256e5fbde1a13b1b5e.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d8ee37f3bb2633bc4538b615a658128b6f86120ea6bf456e25e17e4a2c4468f2.jpg",
+				"name": "マーセナリーズサーガ3 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/13e8d493620673d5c92aab3478e9a8284952fa44ce3e430c6d2bbd11b3d67613.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "96"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0830fbebe01995480d01e8015c3a51474876339571c5e48db4af2c8687d51b29.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "96"
+					}
+				]
+			}
+		]
+	}
+}

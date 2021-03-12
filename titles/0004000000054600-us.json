@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000054600",
+	"eshop_id": "50010000007997",
+	"product_code": "CTR-N-SAFE",
+	"name": "3D Classics: Kirby's Adventure™",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a12ee9f10b2884c0a91e4854e6f342d11733d84590831f585062fcc4e1b965c5.jpg",
+	"data_size": "59231076",
+	"description": "3D Classics: Kirby's Adventure offers you a chance to explore the world of Dream Land in a whole new way! The landscape comes to life as Kirby™ crosses land, sea, and sky in his quest to restore the Star Rod! After waking from a dreamless sleep, Kirby goes to investigate the Dream Spring only to find that its source of energy has been stolen by King Dedede! Broken and divided across seven worlds, Kirby will need to use his unique ability of stealing enemies' powers to battle his way and restore the pieces of the Star Rod! Without it, how can a hero fight another day if he can't get a good night's sleep?! Embark on this adventure as our beloved pink character tries to save the citizens of Dream Land from a lifetime of terrible nightmares!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2011-11-17",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3c2236aee22a34012d51adacb738d8b85fa71e82399dd1e5192642ecd2e42b4e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b4d038f89951c0dc7edf05fa964150b22c0dcd269504a8b3119e2ce34828c9b1.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/818b1a221361d2abb97fcac034f58691fb250950e14a38569ef4efa43be7061c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/28c4a9b00cf64bbe48a0067475e0a205c6f1fc83ceee2539980e494a78f641f6.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6af7584e1c26bc5fd0c36ba1abbcb0b9daf9b60f5ce2ac64fe98062ce607b9c9.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/035b3421432f34140cdf6bb8d976139acccff60bef55be660116bff2cad92937.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bed72006d10047b440d82b198c9efc391ff1ed3d66de240f728c5751f4813410.jpg",
+			"name": "3D Classics: Kirby's Adventure™ Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/571b60d3e783774a20b5c19e538eabc4bb751dc6dafb41af9e3062605e1e24a7.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "63"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5b4a104b2e987ff4399e9d7b6c5c233dd9e228dc4bb2d3a084c7dd014968814f.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "63"
+				}
+			]
+		}
+	]
+}

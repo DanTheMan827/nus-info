@@ -1,0 +1,69 @@
+{
+	"JP": {
+		"title_id": "0004000000090F00",
+		"eshop_id": "50010000010555",
+		"product_code": "CTR-N-ATDJ",
+		"name": "太鼓の達人 ちびドラゴンと不思議なオーブ",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 27,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/71715772357955e95d41ba34e6641be8321f1ec51d1a634803f557f54e9e2c85.jpg",
+		"data_size": "215788436",
+		"description": "『太鼓の達人 ちびドラゴンと不思議なオーブ』では、勇者になったどんちゃんと相棒のドラゴンが一緒に大冒険! 7つのオーブを集めてマオウを倒そう! 現れる強敵には、ちびドラゴンと力合わせて「必殺アタック」を放て! そのほかにも『太鼓の達人』がもーっと楽しくなるモード盛りだくさん!",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-09-04",
+				"retail": "2012-07-12"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2f85db96fcf7d803338cc8250b9554832ee8db083ed6b436b841291e2ed32089.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a6959a16c4ad6d4ef442f6340c357ab4c1fbcbad8ad5ead5927c6791917c7a79.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/277af3a9b8f5e89e1e17f55a3b53d2318adad0a53bc24ebe1340e8bf0c34083a.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e8afc0599b973716458d08c270ab7da204089cf331281ade9b9f1cf4e1b9cd31.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8d86df755c35c18a65f363bcebca81917d20487070b0953494df6664f08244a1.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/bf0fe3143860b3faaca3533cb73475a6652199450963396f7617fd2710a8bbe6.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b901f5c80b35edb97e3f385fcb1f44c13fd044357ae7fee59bce135c51ba4be.jpg",
+				"name": "太鼓の達人 ちびドラゴンと 不思議なオーブ 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e95c72d5a2050a4db8d4c03cc251df550e8c6460247f7554c011dcd3589fd40a.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "168"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/703ce4144d754da36ba1fef4d73da1a3896b01aefa109f4fc4ac784baede676a.jpg",
+				"name": "太鼓の達人 ちびドラゴンと 不思議なオーブ TVCM",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/15e0a266a0db2e21be0dd9b639763cd1aa88fda735464a75558b73461deb4d4a.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "15"
+					}
+				]
+			}
+		]
+	}
+}

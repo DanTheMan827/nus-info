@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "00040000001A1500",
+		"eshop_id": "50010000041386",
+		"product_code": "CTR-N-BLNJ",
+		"name": "LEGO® ニンジャゴー ニンドロイド",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 483,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b5add581541d8743832947a3150ad998737d908744d7d236935ee8fd35f0e2a9.jpg",
+		"data_size": "471759716",
+		"description": "国内外で大人気のレゴ®ニンジャゴーが、アクションと冒険とともに再びゲームに戻ってきた！ 本作は、前作「ローニンの影」以前のストーリーを収録。ニュー・ニンジャゴー・シティを舞台にウー先生の元で修行に励むニンジャたちが、特別な武器や新たなビークル、そしてスピン術を用いて、邪悪なオーバー卿とそのサイボーグ軍団「ニンドロイド」の脅威に立ち向かう！",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2016-11-22",
+				"retail": "2016-11-22"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bd314c08801c10e62849f7f67423f733f071c7aab6cac25736a663c98f68d4a7.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/17cfd1868682494c19e24f2ca8eda0776f3be40d6b729cd3a988cedd628d0e7e.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/114126eae18b786a292b5b3450703cf52145f725b54a0671d79ae2d901e288fb.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/422ab355dd80a45f390bf51da0b58d9185c246e8c6da056311f0d62ac2ea6d81.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8423f0ad204a958445926ab37d529852f3ffabc8b43713c5daac0b68bafe361b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2f81791d615b4920b366fb80e489cff8fb1cae62a482b30d1957b0394ba8b559.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ac686eb1fa5a1d37c61fd3f967d0570e86a99849fa6d4076cb6d6f71d84cfcf9.jpg",
+				"name": "LEGO®ニンジャゴー ニンドロイド 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/56716b27c1a001b61968c1302ad688899049865a91b37ef93f9ebcb8fffa1d38.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "98"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4e6b17a43b61925a00c6e469e3f5fb17fd0364e94ddeac7eaead7403917e436b.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "98"
+					}
+				]
+			}
+		]
+	}
+}

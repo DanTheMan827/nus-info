@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101B8A00",
+	"eshop_id": "20010000020311",
+	"product_code": "WUP-N-DAQP",
+	"name": "Kirby™: Power Paintbrush",
+	"platform": 169,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/49a8b550c20de61cdbf7cff78c7170bf16a309d1c375212289dcfb0cc559a289.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/db8ab7887a4c9d53185fd95b9fb41282ae16da446cee3638f07be89c4862c6a7.jpg",
+	"data_size": "71106680",
+	"description": "Kirby is in een bal veranderd door de boze heks Drawcia! Gelukkig is je stylus gevuld met magische verf. Door kleurige regenbogen te tekenen, leid je Kirby door de zeven levels van dit populaire spel dat de inspiratie was voor Kirby™ and the Rainbow Paintbrush voor de Wii U™ uit 2015. Schets lijnen en schansen om power-ups te verzamelen, schets cirkels om hem sneller te laten gaan, en tik twee keer snel achter elkaar op Kirby om hem te helpen tegen vijanden te vechten en hun vaardigheden te verzamelen. Verzamel medailles om geheime functies vrij te spelen!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-12-03",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/527ffad55114e3e5588c644211fead8c8457327fbdae8de5e5219aab09fc3adb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4c6f22fe9ff9adb97f3627818e1674d571ecd804560e3931f30e9b5aff2bebfd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c2f716dedc9598bcfd0e2511ce1487ab915a02b3d29e57619b105f57f0c900bb.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5e2b506f8d4953d5964d38f74297eafb5ea5f853eff0bc4137bd0549237d028b.jpg",
+			"name": "Kirby™: Power Paintbrush: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4670319a87705f4de40022a545fc0ba1c499e63803287d5a43c1f37e642114c0.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "67"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fe3890533b690181f6375336bca6d3fd49e65b26b413b5fc2c705edef29bae28.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "67"
+				}
+			]
+		}
+	]
+}

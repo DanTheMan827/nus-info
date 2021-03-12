@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010190A00",
+	"eshop_id": "20010000011068",
+	"product_code": "WUP-N-FEFJ",
+	"name": "ワギャンランド2",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 27,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ededa1c6e585c067652346aee24bac241b8e7a1ad1f7df9f4ce745021c3f3dd0.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6e46d1c4c8ad5286268285efc6c79fbf72b116b35a5218350ca2ee3f965edaab.jpg",
+	"data_size": "38928544",
+	"description": "このソフトは、1990年に発売されたファミリーコンピュータ用のアクションゲームです。 ドクターデビルとの戦いから数年。ワギャンたちは平和に暮らしていましたが、島の水と緑の源である大木が病気になってしまいます。ワギャンの息子･ワギャン2世は、病気を治す方法を聞くため、木のふるさとへ旅立つのでした。 音波砲やジャンプを使いながらステージを進み、ボスとはミニゲームで戦います。「!」や「?」のアイテムボックスに音波砲を当てると、「透明薬」などの3種類のアイテムに変わります。アイテムは2つ同時に持つことはできず、後から取ったアイテムの効果が優先されるので注意しましょう。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-11-11",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/4b2375988e8ad81c3388b9f48a0edb401cbc73c12b5ec7f3cb00a46d145a0ca1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9de07598eb1d3db5602cda8f636271dfd218c872d38998bd2702273c77fe7da5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9a556d33e2239b917cdd85996e381336ffc39b24320c53a287279ef64b6b69bf.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/707b19b5be01f4f41582f693ddcf7435486a41941d2644260ddb3df6927dc207.jpg",
+			"name": "ワギャンランド2 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b007106090b5530872cf8dd14b708a674fbfee0244385f75d538bdcec5d461e0.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "92"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/67592e502458033d70d5352ee6305fcfc0398397c7b915b9c6c1ac20bf96a64e.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "92"
+				}
+			]
+		}
+	]
+}

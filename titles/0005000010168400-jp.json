@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010168400",
+	"eshop_id": "20010000006866",
+	"product_code": "WUP-N-MNDJ",
+	"name": "イーガー皇帝の逆襲 イー･アル･カンフー2",
+	"platform": 167,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ce5882d583049c1923c67e541a1fd24e1075c0145faacb5fd6b9c867edc3d85a.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/01fc63f55d851b720a107eeca6501c0e826f69c1f9029f46ab3144482073e6c5.jpg",
+	"data_size": "76677240",
+	"description": "『イーガー皇帝の逆襲 イー･アル･カンフー2』は『イー･アル･カンフー』の続編として発売されたMSXオリジナルのアクションゲーム。前作の英雄“李”の一人息子“李英(リーヤング)”となり、チャーハン一族の再起を図るイーガー皇帝と7人の武官を相手に再び中国に平和を取り戻す戦いに挑みます。独特の操作方法はそのままに、敵の攻撃もよりパワーアップ。さらに“小敵隊”の持つウーロン茶による体力回復の要素も追加され、より戦略性のある戦いを楽しめます。また、李英と敵キャラクターを使った2人対戦も可能となっています。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-05-21",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/c4bb9e6614572e119ed53519331d3adc28b2dcae6081bc3f8fb381212e3456a9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/de9df9b42feecd7e0fb60b1f6f890b258f837ec05c4b057a6bb93cb20b97201e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f4f40066170be7c07e31a1b107707371d3bbd9967fd477c3c6ec59bd587f2491.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6445246fa85225682ffd9ff37e5828969bd9d9405def658815419a9b8be04bf0.jpg",
+			"name": "イーガー皇帝の逆襲 イー･アル･カンフー2 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/81292f4b1fd5d077be3d393d31311d11d854bfc15b8355969091f33eef716f89.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4b5889b50c917ca8283f24f7cfe6704c215ba1d7b2e8d153393807d9494e3e27.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				}
+			]
+		}
+	]
+}

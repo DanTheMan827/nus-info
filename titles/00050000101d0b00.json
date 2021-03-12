@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101D0B00",
+		"eshop_id": "20010000021429",
+		"product_code": "WUP-N-PDGJ",
+		"name": "ポケモン不思議のダンジョン 赤の救助隊",
+		"platform": 168,
+		"platform_device": "WUP",
+		"publisher": 210,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/516166126a8a85923ec8d038df61640782e7b052ce5ffd3183fea3ff46f5573c.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/13fe8e980818949c65553278afe3aa9ffb30a0a545c250aa3f00d3bbc83196da.jpg",
+		"data_size": "81952908",
+		"description": "このソフトは、2005年に発売されたゲームボーイアドバンス用のダンジョンRPGです。 ある日ふと目を覚ますと、あなたはポケモンになっていました！ 昨日までは人間だったのに、どうして突然ポケモンになってしまったのか……。その謎は冒険を進めていくと明らかになっていきます。 あなたが飛び込んだポケモンの世界では、近年なぜか自然災害が急増し、ポケモンたちを苦しめています。パートナーのポケモンにバトルの腕を見込まれたあなたは、困っているポケモンたちを救う「救助隊」を結成することになりました。 ポケモンたちからさまざまな依頼を受け、あなたとパートナーは、入るたびに地形が変わる「不思議のダンジョン」と呼ばれる場所を冒険していきます。わざや道具を駆使し、ダンジョンを攻略していきましょう。 ※『ポケモン不思議のダンジョン 青の救助隊』『ポケモン不思議のダンジョン 赤の救助隊』は、オリジナル版のプラットフォームに違いがありますが、ゲーム内容はほぼ同じです。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-03-23",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/48def6d2a879e7af120a90c05ca8c8d1484a5ec31255440b488f641f5bfe922a.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/cbf21ab1f6e603bdb0aecd76d7b346b10b49048f2ac83c4defe4640c8de35c82.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/fd4ec20de049dd059e078b8866ab9320cebf47fd0b486d580667b9113d183eab.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/da853bd79b9294e98575d25760f501b8b02442e0bb4842a9d60ba72caa07e31b.jpg",
+				"name": "ポケモン不思議のダンジョン 赤の救助隊 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/eff7c94b39c5db2ee29fc14278e53e32171f64f64a431143574befa048ac47c8.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "80"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/923ca0259c3bd60350e17786b219aa590b56bf14fef8bcd044a1f12b767564eb.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "80"
+					}
+				]
+			}
+		]
+	}
+}

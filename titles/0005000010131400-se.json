@@ -1,0 +1,48 @@
+{
+	"title_id": "0005000010131400",
+	"eshop_id": "20010000000924",
+	"product_code": "WUP-P-WLNP",
+	"name": "Wii U™ Panorama View Double-Decker Tour",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/93ef0672d6f24f39f094a9a6d07470591a422317a879207e9efbc6a23ea8a1a5.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3ec176828da411e025bd4a01f1cc6221691702a8903f9065a7cd81d6a1c13015.jpg",
+	"data_size": "539689100",
+	"description": "London, UK In Double-Decker Tour, you get on a double-decker bus, which is commonly used throughout the United Kingdom and is a national symbol of England. The tour will take you throughout the city of London, viewing world-famous and popular tourist locations such as the Palace of Westminster, Tower Bridge, etc.. The video can also be enjoyed at night-time with buildings lit up. The audio in this video is in English.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-04-27",
+			"retail": null
+		}
+	},
+	"screenshots": [],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/36836f2f70bc549f09df88e4a37f587ccb8ca45df48f456f19a3b74ffa56f541.jpg",
+			"name": "Wii U™ Panorama View: Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a450de6be5f35b857949d3d21d864df20baa1d0f098bccb7d34318b78f7534b5.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "139"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bb510190e2c1f94f7a210f9e09dd125dc2aa790d5fb463453fc6451b8389798b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "139"
+				}
+			]
+		}
+	]
+}

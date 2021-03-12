@@ -1,0 +1,79 @@
+{
+	"title_id": "00050000101EAB00",
+	"eshop_id": "20010000021247",
+	"product_code": "WUP-P-WRLP",
+	"name": "Dreamals",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1484,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21af5e897d8ccec3d5a834d4c86ea43bfa3e0c53383aed6f14c27616402a98d4.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/50c6dc7ce61802f3c01e90fdaaa5a36a6039f40a4089cbe8c338e2016c4dcbb8.jpg",
+	"data_size": "371687584",
+	"description": "Dopo essere stati portati nel mondo dei sogni, i tre animali si imbarcano in un'avventura per tornare indietro al loro mondo. Ogni animale si può muovere solo in una direzione. Usali saggiamente per trovare un percorso verso la chiave. Caratteristiche - Nuovo puzzle: Usa gli animali che si possono muovere solo in determinate direzioni per risolvere il puzzle. - Diversi stratagemmi: Usa ben 20 tipi di stratagemmi per risolvere i puzzle. - Diversi livelli: Divertiti a giocare tutti i 80 livelli e 4 diversi temi. ",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-03-10",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/6ac2d3ea2255235b417cc5f6e3a829553976c4064adb5729b3eed02014829265.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9024d269d0ce75f6f8a31f20e158a199952d05709d03084e945bbde31b904a32.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6c7371806d1e63994d91e9848386cdd661cf88bfe96c6579a16bebc3c849c499.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/20945671fed8d6d67e255f078b4e0027d46596a0e32f421afc9d5ee9f508f024.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/14eb065e04b5d27eba4d592d92afc3def65a5241ad6945a724edcb090423fc3a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c38ace3864c863e7ba4f188dc8fc81276b35bc147cf2dbff6fc08c522d7bb32e.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/579ce8adb4bae46b6e9c13069b0a0559c32a8c2b086b49c44a6ad2dce1a99b4e.jpg",
+			"name": "Dreamals: video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/564719929dd85552dd976116a33e8a3f0f3cdb69774f13a2c303d574cb235838.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "90"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a00e8162c993109c8d6e3770fea6c83b9e84c16462bc3b889c44a038a2c5f486.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "90"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f6580f386ae690d562ebdf218d0e13f734647929fbe8cbae15808c88fd9c085d.jpg",
+			"name": "Dreamals: video del gioco",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5dbe0175b94d92d33786e077cb07736afaea35e792a9a32fdcfb009f49e615a5.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "152"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6d2db2c569eeb76a299df9fa361645af628dac9a80713f1111dcbbe7f6ea29a2.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "152"
+				}
+			]
+		}
+	]
+}

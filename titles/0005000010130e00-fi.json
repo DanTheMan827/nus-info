@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010130E00",
+	"eshop_id": "20010000002150",
+	"product_code": "WUP-N-JBAP",
+	"name": "Mega Man™ X",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 39,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0ddb4ef67a142157aab6dd4070426c36631f3ff563efab3faba3f421b20edb6d.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/fb5c35b6e0ed164b3ca3cae14be695ca5ca81ed261baec01f2a07c2accbfbe93.jpg",
+	"data_size": "41255052",
+	"description": "When the Mega Man series made the technological leap from NES to Super Nintendo, so too did Mega Man himself. Set one hundred years after the original hero's adventures, Mega Man X stars a more powerful generation of robot known as X who - along with the maverick Zero - must take on a new threat: the reploids. Like Mega Man, X must battle through each thrilling stage and defeat the boss, to capture its weapon for his own. But unlike Mega Man, X can dash, climb walls and collect armour to upgrade his abilities! If you own this title on your Wii™, perform a system transfer from your Wii to your Wii U™ to receive a special upgrade price. This is the US version of the game.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-09-19",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/f6e808e13e6722ec3d828e7a0a11bf7669a762c08b7d7a41ce0db1257a945250.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/72cf7812186607b268f64f151e084ab4d22c3f9f47820657dabb5840e944da36.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6b8f914c3d033a4dfc42a320272f6588338c720a275c38f7a3472af787ec5dee.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/67f34369be7ad6479d5bdbfedc66e4ea73d09590c11ee17b5d1831c9b4476bb0.jpg",
+			"name": "Mega Man™ X: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1ef5f4e1e592f1a428fca85eeded6492fe3e1afeeb57a530d0403e3846a53a49.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2f2ed9bd0a2b2dc5d3502771e5fc7a629cae039ce88100c0b30683cc94209ebd.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				}
+			]
+		}
+	]
+}

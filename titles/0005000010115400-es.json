@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010115400",
+	"eshop_id": "20010000001243",
+	"product_code": "WUP-N-JANP",
+	"name": "Kirby's Dream Land™ 3",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/51c9c6a5642f5d3c3ee2f013723045f8f72018d8dc8dce47f35200d8c8e1d442.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b9b4ff742eb7e861cf8e757d28cbad48a05960fff590027b7096d509f8e493b8.jpg",
+	"data_size": "42696844",
+	"description": "Un espíritu maligno ha poseído al rey Dedede y está sembrando el caos en Dream Land. ¡Solo Kirby puede detenerlo! Kirby puede tragarse a sus enemigos y absorber sus habilidades de fuego, hielo, piedra, etc., pero además ahora podrá llamar a algunos amigos como el hámster Rick y el gato Nago, además de a su amigo de lengua larga, Goeey, al que podrá controlar un amigo o la IA. Sus coloridos gráficos 2D, clásica trama y adorables detalles hacen que Kirby's Dream Land 3 rebose encanto de la vieja escuela. Si posees este título en tu Wii™, puedes realizar una transferencia de datos de Wii a Wii U™ y obtener una actualización a un precio especial. Esta es la versión estadounidense del juego.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-07-25",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/6ab4b911638dff4a28aa54c52d06459ba91463dbf9cca89bd4e784962f155a6c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/80121834b7f56c1da4809f7b2d95716d271e8fba185357fe15cea30462605a9a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d9f7f03568561d9357908d3808926d7fbe1c7280bc1801010327e58ce4f5f3ff.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/98bd552000567ab11dbbb8e80ac14c710ca44b9733f4b369aa60bb655751b89c.jpg",
+			"name": "Kirby's Dream Land™ 3: Vídeo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ed3b506d8fe36940884fb1ef6d8b2495223ccaa8f095263fd0fb76f437bfd835.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "55"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3ceb2ec9527ff86844a98deda59d13bc0df63141d719cbcc3c572a8607ea6c46.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "55"
+				}
+			]
+		}
+	]
+}

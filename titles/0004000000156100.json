@@ -1,0 +1,87 @@
+{
+	"JP": {
+		"title_id": "0004000000156100",
+		"eshop_id": "50010000030896",
+		"product_code": "CTR-N-KMTJ",
+		"name": "マーセナリーズサーガ2",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 1279,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8e58e1e106857c811e2f0cc9885ef7ff38b6a3ed10f746255d94611360fba555.jpg",
+		"data_size": "181324644",
+		"description": "『マーセナリーズサーガ2』は騎士隊隊長クロードをはじめとする多数のユニットを操作して敵ユニットを戦闘で倒し、ステージ(章)クリアで進行するタクティカルシミュレーションRPGです。 手に入れたポイントを使ってスキル習得やクラスチェンジ、フリーバトルでレベル上げなど、やりこみ度満載です。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-02-25",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d6617ae12ed36f1c45a8c80af6c506e542e56f301d5ac6b8a481328abba2f4ff.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/327659909a05f8dc0882e7e6aa2127ee08e50e73797f1848b97f7eb1cd3c01ed.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2d5d38b68e6bd39bb1278e4372452b4297722480ece0f2ae5a651a1d4a3101c7.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/3625639639dc45cc7f8f6d5c6962bf236b22e39744541efb01487f7de19a0a7c.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3c71e327bf99c87697a580555703db7139ed47abab7df45d9aa0517f1f830439.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/77cd33365dd4189e95eecdbe7dca1a66755599a7cd779884056a4be697bfce62.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c578f62ad5f4a354263874554c945223b0eb51fb572528653f651d2bf757acbc.jpg",
+				"name": "マーセナリーズサーガ2 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5ed52931fd5f50094e8326b8fdda99ab3052263c35f3bd89378d8f3e7e82df10.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "88"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b9ded2c113d9805d906002f663c43ce46f971f01c8bfa209c447da94e49f4d95.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "88"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/daae449a728681f1b800f5a12ebd90bd2119015538d6934b6ba587c819e37001.jpg",
+				"name": "マーセナリーズサーガ2 紹介映像2",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9a5a4dd94afd81522e5ae315d7857bde4fc95558722e745fd5432bbc52743cc0.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "168"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ba29b8430d008d34b543f398e6c60ebf92398b3e177cd89e4c0ac5ed49b7580b.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "168"
+					}
+				]
+			}
+		]
+	}
+}

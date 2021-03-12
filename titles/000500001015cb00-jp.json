@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001015CB00",
+	"eshop_id": "20010000011507",
+	"product_code": "WUP-N-PNYJ",
+	"name": "デジタルチャンプ ",
+	"platform": 166,
+	"platform_device": "WUP",
+	"publisher": 1465,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/11c20025e812fccf158d85d12fc6e49b64f954b0ba54b49690ab56dd58346959.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3b3572712f60ea3fb53d5aabdde871a49103025c25071cdd00176e107ba4baa1.jpg",
+	"data_size": "83427468",
+	"description": "テクノロジーが発達した近未来を舞台にした、一人称視点の臨場感あふれるボクシングゲームです。 マザーコンピューター「ゼア」による人類征服計画を知ったあなたは、計画を阻止するべく敵地に乗り込み、ボクシングで闘います。 試合は1ラウンド3分で最大12ラウンドまでの間に、KO勝ち、または1ラウンドに3回ダウンを奪うとTKO勝ちで、次の対戦へ進めます。左右のジャブとパワーをためて打つストレート、フック、さらに「ダイナマイトアッパー」や「サンダーブロー」などの3種類の「必殺パンチ」を駆使して攻撃します。上下のガードと左右へのスリッピングで防御しながら、立ちはだかる敵ボクサー「マルシアノ」「ミック」「サムソン」を倒していきます。 数々のテクニックを使いこなして勝ち進み、最強の敵「デジタル･チャンプ」を倒してください。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-12-17",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/478759ba431dee593a4d8c1fed12ac1b7eec2e8b318d00acb4b54dfa53793381.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a00982a2a4e4c78c32f906f93a0abdfbb7b6f17d2f691a764befc660af8d984a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1cd2c3a3242304534fcf8b8724ea63f7fefeafb906f48dc9223b1ebd017540be.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ec730fac8d56338d2b2fb467d48baecdaf7cdbe604f20db6675ece66cb817d20.jpg",
+			"name": "デジタルチャンプ プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/267fbe6237ca44ebbe4f6f8904402e12b2f7ee8d49dc9ab2f67aff14004ba009.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "48"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/44406ead7192d2d0fd031f3adf022c76d4d17f9fcf6c8b75f3faf569804c3fb3.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "48"
+				}
+			]
+		}
+	]
+}

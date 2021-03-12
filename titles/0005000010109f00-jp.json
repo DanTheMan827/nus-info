@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010109F00",
+	"eshop_id": "20010000000826",
+	"product_code": "WUP-N-JAFJ",
+	"name": "ファイアーエムブレム 聖戦の系譜",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/712ef3d6ee5b87f972e17d849951a629c10b3da21a95164814f34e87b1e242fd.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/60a5fd41270b17f753e2c04291781cf21d03344d3f142f55ce2c864fb49eaaad.jpg",
+	"data_size": "44040332",
+	"description": "このソフトは、1996年に発売されたスーパーファミコン用のシミュレーションゲームです。 主人公であるシアルフィ公国のシグルドは、仲間たちとともに次々と巻き起こる戦いを乗り越えていきます。親子二代にわたるストーリーを楽しむことができ、時には登場キャラクターどうしが恋に落ちることも。子どもへの能力を引き継ぐことも可能です。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-04-27",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/3a949ac5a1311f09b0bb5b7be291713bfde26200ac78e2857631fe96a29d8c97.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/81e47f59a77b96859652e60d09d6242dda9b918dc9e0f1af94758b098816a931.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8254f8bd20b52b5a95adbe85a887c759348309bcfab64823a6234f5c85cbbd01.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cf0d85805bb15712e29f21009a3b4d1c56eddccbdf69851c1740aa7e179cd3dd.jpg",
+			"name": "ファイアーエムブレム 聖戦の系譜 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e7bca91671c58a26b54d3942b92effe188ffc41e8b577ffc5107d06334e32626.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "54"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d5abc0fc7e0e5b24975a618bb1b67a4c471eb39b5f7b339133daef4a0584afbb.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "54"
+				}
+			]
+		}
+	]
+}

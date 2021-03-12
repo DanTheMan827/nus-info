@@ -1,0 +1,67 @@
+{
+	"title_id": "0004000000052500",
+	"eshop_id": "50010000009927",
+	"product_code": "CTR-N-JKTJ",
+	"name": "おきらくカート3D",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 19,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/35437fed880e127517d3a82f618306cb522ddd50596f50c90a01a7295fc3d6f8.jpg",
+	"data_size": "59214692",
+	"description": "おきらくシリーズに爽快レーシングゲームが登場! キャラクター8人、カート8種、コース12種、難易度3段階のボリュームで 「グランプリ」「フリー対戦」「タイムアタック」を楽しめます。 また、「タイムアタック」はネットワークランキングに対応、全国のライバルとベストタイムを競い合う事ができます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2012-04-11",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/9b2b9e3a5adb89eb61ff87624ca491cfb2be2d44e90d943d25056be3e05da457.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/31e63b4e3267120c9674951ca68c0d46b34b39c0ae636cf0b3145bac27843dd0.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/37ec3e7921a79403d79a93318a01f2dabe02ce94d94df3002b52332fa3490e5b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1f82de54020ab87013818653ffcffe65ec14a30f1daa3ee3884cdd5874bd327c.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8bcca1c8e546680be06b5d38e97257e591b647912feb77605fa0a22d3c4ccf32.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2c54df328ad4e49ae2bbc651c24a762b064a618eca8463af85ce3a2f3d6a7670.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c65af96dd6cedcb1e866823761f83ce65daee887613c2a2d7b2d9b2619bd023b.jpg",
+			"name": "おきらくカート3D プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0da80acf0b3b51ef9ab6df9cef734dbbac321011e86675ce739636c565119789.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f2813183128a756dbbe51b085eed40407e738d8292aa55a21473d9d9624cd68a.jpg",
+			"name": "おきらくシリーズ 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/43980479d5b81ca71e33092405bf58ce910f77ededfe47317e9b9610245ba0c4.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "259"
+				}
+			]
+		}
+	]
+}

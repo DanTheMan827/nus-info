@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000015C600",
+	"eshop_id": "50010000035776",
+	"product_code": "CTR-N-JFQE",
+	"name": "Flick Golf 3D",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 1455,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ea224d18a47288e7d4fe516d0f9bf790e2e97874a4aed535273cb487340fd653.jpg",
+	"data_size": "93178724",
+	"description": "Welcome to Flick Golf, the world’s most addictive handheld golf game now for Nintendo 3DS™! Flick, spin and curve your shots with pinpoint accuracy to sink that perfect hole-in-one. Turn up the 3D depth slider to add a whole new dimension! Beat high scores across six unique and challenging courses in Quickshot, compete for trophies in World Tour, or put your golf skills to the ultimate test in Quickshot Pro. Experience Full Fat’s award-winning ‘after touch’ controls for the very first time on Nintendo 3DS™!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-07-30",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d4589b647875b34569860dd913ff7286122968f8209b74a2ccc612d447b63008.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6d0092928bc962756f128a3995ac33d1b58792e830f26336b6a718417abb7f76.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/155f3e66bc5504efdd478586189961681aee8e9aaf984d2d2fa9c7a7ad048d55.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d0864e294e97376e28bdc5201b04bcddf4cb85bc2f30f8f1acfcaef26fcc61d0.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7acec02b09d5f060ff7274ac09f2bdb0de9c28f93287619f9180587b63e756aa.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/fcf5a164d6afba66246d7fc0efa857a996abde45f9672bb45fb9e4d6927ef591.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/aa17c668ca20fd9eeda5253766522471d2a99d278cc7639d8da54c731bf6568c.jpg",
+			"name": "Trailer de lançamento Flick Golf 3D",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/48c62cd2da5f10b2a4666d1465d6cc02b9b7411c5f471d0d7acaa56b1969276f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ba68b7330cdb602a61f580b08ebaacdd3b834b198903d7dd9ad5568891d8a4f4.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				}
+			]
+		}
+	]
+}

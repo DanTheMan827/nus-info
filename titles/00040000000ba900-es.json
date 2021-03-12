@@ -1,0 +1,85 @@
+{
+	"title_id": "00040000000BA900",
+	"eshop_id": "50010000014012",
+	"product_code": "CTR-P-APDP",
+	"name": "Pokémon™ Mundo misterioso: portales al infinito",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/2212bc416c986a12b5b6a5fbfbb6a364a464a519154590a9ef28212faa665098.jpg",
+	"data_size": "885996388",
+	"description": "¡La saga de Pokémon Mundo misterioso llega a Nintendo 3DS! Los jugadores se pondrán en la piel de un Pokémon y explorarán un mundo lleno de emoción, aventuras y mazmorras que no dejan de cambiar. ¡Enfréntate a otros Pokémon y reclútalos después; transforma Paraíso Pokémon en una ciudad floreciente y usa las cámaras exteriores de tu Nintendo 3DS para descubrir Magnoportales que llevan a nuevas mazmorras!",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-05-17",
+			"retail": "2013-05-17"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/9139f949e75709326201d0c9f405618ef8a0b73b59b70a7e9b9fecefcb1b53b8.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/381b53ae340809c7a6b9462a8a6c9db51ca2325e74770692f2613752d0d85411.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e1e936a36f979d92f4f2eade9706eab7d89c09cb1c6ba2c9ae169624a510137f.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/40b807f3cbb4239bdcb4e2a7ff0da979d3ba260308547a4b74a743688237520f.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7887167e94158fb8dc68f95e7bccf54c0e850525e67c0fb5a5237233a3a614db.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8a305d066fd55a244821cf2e81218f261f07229e6e221263302ce3e27857da6f.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5215f8770778f2c70ce6752ea9c54995c1456755e0baec0ebf505410aa5d1e98.jpg",
+			"name": "Pokémon™ Mundo misterioso: portales al infinito Tráiler 2",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8e556fad9c04ca7894d39542933690c584b2b8d514c29659428ae24556efc460.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "80"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/89e1314a09cbfbc84f3de72e211ab98728b9e38139462f51d42043bd7b5fc93f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "80"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5215f8770778f2c70ce6752ea9c54995c1456755e0baec0ebf505410aa5d1e98.jpg",
+			"name": "Pokémon™ Mundo misterioso: portales al infinito Tráiler",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/febb25ffecfc66cbcd7240bff59a734407b78ac89a4dc9b97363f1631e7be273.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "66"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f6ca3ded220c718e57688863d1efea05f16a0d44561d115af0396089f5422fb5.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "66"
+				}
+			]
+		}
+	]
+}

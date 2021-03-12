@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101F8F00",
+	"eshop_id": "20010000022868",
+	"product_code": "WUP-N-WM6J",
+	"name": "6180 the moon",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1292,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6af7b777488b96f52d3b5323042350e59372f8dc8d9ca311b787814abe8fa52a.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f510eb32e60dd384b9099bed03a7e54e735d34f47d339791a5bc6301ee73f33b.jpg",
+	"data_size": "238944396",
+	"description": "このゲームの主人公は「月」。突然消えてしまった 「太陽」を探しに、「地球」、「水星」、「金星」などの太陽系の惑星を探索します。基本動作はジャンプのみ。障害物に当たると進む方向が変わります。 Wii U GamePad画面とTV画面が連動しています。「月」は両方の画面を移動し続けます。画面の上下はつながっており、画面の上に飛び出した「月」は、画面の下から現れます。パズルを解くように進むステージも用意しています。 ・GamePadとTV画面が連動した、ユニークなアクションゲーム。 ・心がほんのり温まるようなストーリー展開。 ・ゲームの舞台は、それぞれに特徴をもつ、「地球」、「金星」、「水星」などの太陽系の各惑星。 ・合計100ステージを収録。 ・条件を満たして、実績にチャレンジ！ ・なぜ「太陽」は、消えてしまったのか……その謎を解き明かして下さい。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-07-06",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/480e47626b23516040d98861304ab5c1a44bcdb3f92959d8957970a239e8aa4c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/805d8cdf75869ac88cc56dc6f8fecbe8dcdcf3a2cae868b50c2d25b899755a28.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f8ec7607276c9b6cf784e5471573f7fe15ee23829fdc8d1f370d164659355c99.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/63011b430e287c21490c51cf39182f8e00c87714e159ca87fb10ba5fdc5f68f5.jpg",
+			"name": "6180 the moon 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ce33c01c14fdb67772a7065c6ec2f2c05bebf2ffd17d0e33a96cd4a86cfa3efa.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "110"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fd545e19d1f2c156eb6200c4bf349af1159b62760e83e63c4c6bb78e178cbf8d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "110"
+				}
+			]
+		}
+	]
+}

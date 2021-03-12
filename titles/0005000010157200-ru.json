@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010157200",
+	"eshop_id": "20010000005710",
+	"product_code": "WUP-N-PADP",
+	"name": "Metroid™ Fusion",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2e890d5c66d85e30aba910a576b73303a5f749475f89a528d83f5179939614d5.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8845711ddd596efab9c70da186de841a5920a62e9ed33090370142c3e6e10f5a.jpg",
+	"data_size": "100302968",
+	"description": "Выполняя миссию на планете метроидов, охотница за сокровищами Samus Aran пережила нападение смертоносного паразита и спаслась только благодаря ДНК метроидов. В результате она не только оправилась от полученных ранений, но и приобрела новые способности... они пригодятся ей в борьбе с новым врагом – паразитом X. Metroid Fusion развивает сюжет предыдущих игр серии, сохраняя основные черты жанра: как и прежде, вам предстоит истреблять сотни врагов в ожесточенных битвах и исследовать игровой мир в ",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-04-03",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/1e2e2d94bbeba2707f16745322c10ceb62d8b52678ac3578c16a81857ddc5e95.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b6b6d1c1f6077c4622300cf9966912ca8a8d0e0aefcdbce6e67c4c94611d13df.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0aa8069b94a385f3803260d9071d1e5548681a03e8f348a90f40b13cdcb96da5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/80a7f51f43af8da25edea73d87c3a8e7890448208a58af4eab6f5dd5b247c1bb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c85112c2c214b69b4485d42ce0ef1aa46e4610d872eb7ffad8f958a0fd751292.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b3fd336427cb002f2dccf72d0570df222dc9a48f1ac5830e477b3b9dff67e79c.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ec339c751437eff5be221c538998169de991a0435d2fed444288caab5cdba908.jpg",
+			"name": "Metroid™ Fusion: видео",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5b5f59003a28bbf4ac2eef5fe9be14c1bf5945a41eae3302c65033d4abf50863.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b96bc02745ed213887cb6bbba53c77153ecf7cefc4a1c84e039a271fd5b2dd4c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				}
+			]
+		}
+	]
+}

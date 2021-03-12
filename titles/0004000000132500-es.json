@@ -1,0 +1,85 @@
+{
+	"title_id": "0004000000132500",
+	"eshop_id": "50010000029435",
+	"product_code": "CTR-N-AY6A",
+	"name": "Code Name: S.T.E.A.M. ",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c931c82cc95fb3d7647bda0a1e2388378aafa0ba7b6c014a82c394131a835876.jpg",
+	"data_size": "1098505060",
+	"description": "Code Name: S.T.E.A.M. es un nuevo juego de estrategia para Nintendo 3DS y 2DS de Intelligent Systems, desarrolladores de las series Fire Emblem y Advance Wars. El juego tiene una atmósfera única con una ambientación steampunk y estilo de novela gráfica. El jugador selecciona cuatro miembros de un equipo de agentes, cada uno con su propia personalidad, y liderados por el 16º presidente de los Estados Unidos, Abraham Lincoln. Juntos lucharán contra los alienígenas invasores. Visita amiibo.nintendo.eu para consultar la lista de amiibo™ compatibles y la información más reciente. El lector/grabador de NFC para Nintendo 3DS estará disponible más adelante este año.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2015-05-15",
+			"retail": "2015-05-15"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/372e564034c35930b1effd53c09504b9f061b4daa2045bd59768258118d77206.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/db699108f688aa9300753bc101a39c9bf9aa3295a1585f2cb48c2117fee321e7.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/44049008ba0cc6ca31787e657f44829d09be7a8ee8f6976f0d584b2ea05a794b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/afa2ed65a6d9337501075d2dc4d606a9159ce0d90e7fdb5d02c52a4e958ded14.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/24d50173dfacb18605fa73a732cfa55fbf68fa521979693958fe4d6ed09cd373.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/72aeb1d17c906acbed4d8887745306a7f558bba8a2234468f4179b7122aff15c.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/187c43f9daf0295839941a25bd71a0f12d640942fb04eb57f3e68d7ba2d65ae8.jpg",
+			"name": "Code name: S.T.E.A.M.: Tráiler de lanzamiento",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e23748faccb59772199f6218177d731ce951b4715d066044e26cd473ae2ec71f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "110"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c38309ab1ab732e450e479291c0c21f4763fc104d99a4a55d874276ba84056e9.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "110"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/187c43f9daf0295839941a25bd71a0f12d640942fb04eb57f3e68d7ba2d65ae8.jpg",
+			"name": "Code Name: S.T.E.A.M.: Tráiler karaoke",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a11e724c8a29945966d1dade941e4a55605b53db10928967cab070d4da82d59c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "147"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/424e24f8d406b962672a16cfa85101ef575111411ed058a52378607c427ced43.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "147"
+				}
+			]
+		}
+	]
+}

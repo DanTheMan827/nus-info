@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010128900",
+	"eshop_id": "20010000001624",
+	"product_code": "WUP-P-ASAP",
+	"name": "Game & Wario™",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/89c8da7cb30d8cce40864a1189879e57e3228d36755caa9b9890699c634b7b2f.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/80c72aaa4c7c885f45c0e629b17def0d13747e1e8da073c7ed534c64dfcb1771.jpg",
+	"data_size": "3556344188",
+	"description": "Wario und die Diamond City-Gang sind zurück mit einer Sammlung brandneuer Spiele, welche die vielfältigen und einzigartigen Funktionen der Wii U-Konsole demonstrieren. Bis zu fünf Spieler können mit dem Wii U GamePad abwechselnd in Spielen antreten, die das exzentrische Temperament der WarioWare-Serie widerspiegeln.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-06-28",
+			"retail": "2013-06-28"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/61f0d1d3f0620d85426b65fd9bb4d8870d1565e83b7b62f4cd24effb6045e4dd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c56aeb75ae49f87bb8cd0f85d7c908a0b39bd5c68c561d4c72bcdbe854ed4514.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/adff244032ef0f04ccdb6ca58eaf882a691f9c6d071b8ad731c98ebaa6e22e4f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f8383fcf33fd144d29c0b7033e35a5de4b01ef1f048e4dcf525b0801e9e0eebb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a7baaa6d767e8b828127af6f5541fe5a4a2cefb141455b03fe7d058cba53cff5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a4abb89ec94f0d52595f3e6a8db849f5d484e32f4482177574bd69d63a51f360.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/62ebfc42394645afc5f45c5415fe9150e818bb0cbc1a5435b85090e6f25e5258.jpg",
+			"name": "Game & Wario Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2814cb06eedba8c3091961b9a83eb686d43404a5c10ffffaaaaef0d2c3d2f9b7.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "112"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/83c5877e571d62340a706c69d9ee6e4413c6abab21e95e396d0ae627a86a8130.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "112"
+				}
+			]
+		}
+	]
+}

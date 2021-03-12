@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000A9000",
+	"eshop_id": "50010000012390",
+	"product_code": "CTR-N-ACLP",
+	"name": "Nintendo präsentiert New Style Boutique™",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4a989d326b86375629c5132b1d5e82b26bb61176d2975b7438ba27f76748d352.jpg",
+	"data_size": "1688324964",
+	"description": "In „Nintendo präsentiert: New Style Boutique“ schlüpfen Spieler in die Haut eines Verkäufers und arbeiten sich auf der Karriereleiter nach oben, bis sie eine eigene Boutique besitzen, indem sie Kunden beraten und Ensembles für diese zusammenstellen. Du kannst aus Tausenden von Kleidungsstücken und Accessoires auswählen und deine Outfits bewerten lassen – ideal für alle, die ihrem inneren Modedrang nachgeben wollen! Erklimme den Modehimmel und erobere die Modewelt im Sturm!",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2012-11-16",
+			"retail": "2012-11-16"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a080953e379b6af3dfda426a0d4da27ccbef5450412751d569a790d2ea111e1f.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/499bf5f53e0ef99016fa3e0cab520a7bb4a18a9c541cbfd546ff17adc893f496.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ac150f9ffbeb7fd8694bb2d6f25852c22fe9b2d2eb23d5fe6c91d5fa410810fa.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/897d775ff887f1fd7ff80abd373dd1033a22e26e510df1d41d076587b6cd0e0f.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3816597dcf76c9c843cb31b22601a3aff45b4f2f6322b2c68abfe0c4bc6282b3.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f7659c1d03e6c219269688c1c9459f85b71234d77a7e2a6b3d1153626e8debf3.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/789ef2bf374ec0ab0163e8037e8ae4ab4b2c32402d09d24642fcfce29deac97e.jpg",
+			"name": "New Style Boutique™: Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b7f2572e1d6dae7c4478ca1a1edb49fadfd81d7978d6c754299d3a8bc54e56fa.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "178"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c63536b2768d9dfb69c97929b030d8d3e2bfa9e381092558b996c889d40e7051.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "178"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"title_id": "0005000010149900",
+	"eshop_id": "20010000003565",
+	"product_code": "WUP-N-FBLE",
+	"name": "Baseball",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b4e6a26f2fc66872209bc025949f9087df58c3637d684f4259a255d7ada76d10.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/135c6af45125ec89b637ce95e683c030ebd6719ae8f7c73dde38f2489e04b6cf.jpg",
+	"data_size": "36503692",
+	"description": "Play nine innings of fierce sandlot competition with classic NES graphics, featuring close-up and overview field perspectives. Select your team and step up to the plate against a computer opponent or a friend. You control the swing of the bat, the speed of the pitch, the hits, the steals, and the double plays! Hear the roar of the crowd as you hit a home run and race across the plate to score! Whether you are a huge sports fan or a classic videogame enthusiast, you will definitely enjoy this game!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-10-24",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/bee3af2e3ce454ea176d4264bac10c0364a450d7e6346ef42556efe59d8f52e4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/19b386aceb18728d03c4db6732d152ec090065ba3d60728a244980a1176ab41b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4e4e0e6df33b80e2f760b2e3a6ff23b1a6b8fd3735a928e8aa959284dab3d7e2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/aa8aa2b45cffc45c5f18d1b5194db7c4ef7387484411bc5aa3ac9806252d450e.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c5cc3f04833fd0a9ab411be020f13fb0b0f848c3c52fe74f80793453fca6da7e.jpg",
+			"name": "NES Baseball Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0c9e76856a3c647c6f4d7c69bf8d0dba9f3f078eb866974a4643f7159b00e642.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "16"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/77973ae38fbea0bb9a7c4f9e6cca64bfa8ac357b5995ec9b834e75513af1dc30.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "16"
+				}
+			]
+		}
+	]
+}

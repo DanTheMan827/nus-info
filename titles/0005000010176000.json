@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010176000",
+		"eshop_id": "20010000007648",
+		"product_code": "WUP-N-PA5J",
+		"name": "Castlevania 白夜の協奏曲",
+		"platform": 168,
+		"platform_device": "WUP",
+		"publisher": 149,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c00242c5423cd9fcef904d3be7e1454cea101cf4fc6b336cfbe74e655bc9c5bf.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/07ab3690b6cfd8821dae9e0af9a16eab18171a78fd4b10896556f630cd6b3d09.jpg",
+		"data_size": "87195768",
+		"description": "このソフトは、2002年に発売されたゲームボーイアドバンス用のアクションゲームです。 シモン･ベルモンドがドラキュラの呪いを打ち破ってから50年後の世界。プレイヤーはその末裔、ジュスト･ベルモンドとなり、さらわれた親友リディーを救うため不気味な謎の古城で悪魔たちと戦います。 ジュストの武器はムチと6種類のサブウェポンです。さらに本作では、新たなシステム「スペルフュージョン」が加わり、サブウェポンと魔道書を組み合わせた強力な魔法攻撃が使用できます。さまざまな攻撃を使い分けながら、迷路のような広大な城を探索してください。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-01-21",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/f09530d58a3bec23f32e404f6109ef65a28dab9cc441e9de6297384bd1493ad3.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/c8422f79fb8deb27a3703bfb0e353a6b747e1515f991a4af742c7433d40a4029.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/0782dcd91457bf2b400cd94fb90dd809b3198c2873a4f316e3ec47e19ccbbe67.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1e0d95b18504bb3179efe3e913791f499768e47e932e2b9f76ec06359d933ee0.jpg",
+				"name": "Castlevania 白夜の協奏曲 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/362ff9bccaad4c60df37ce9971603e54f8e4bc52a576fff8989a56cb6abdc1fe.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "45"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9d002f906a523d27be019c9c8d02ed32263141677d4a652a598c2fd0d5b50c18.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "45"
+					}
+				]
+			}
+		]
+	}
+}

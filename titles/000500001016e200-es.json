@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001016E200",
+	"eshop_id": "20010000008746",
+	"product_code": "WUP-P-WEXP",
+	"name": "XType Plus",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1259,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e9832efd590487a75b005988dcebc288ae7567a8e66001bcfc58985f23425572.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/af7616cd0000bbd8567dfe1b3c517d94b56dd3c203b47bda0088e2e439fd2c7a.jpg",
+	"data_size": "75366560",
+	"description": "Colócate en el asiento del piloto de la nave de ataque XType y defiéndete contra la creciente fuerza enemiga en este Shoot'em'Up inflexible. XType Plus combina la acción arcade clásica con un estilo moderno y único. Las batallas contra jefes generadas proceduralmente proporcionan siempre nuevos retos. Cada vez que derrotas a un jefe, llega otro más grande y perverso. Tienes que esquivar cientos de balas, láser y misiles mientras liquidas al enemigo parte por parte. Compite por la puntuación más alta con tus amigos en una tabla de clasificación mundial o mira las repeticiones de la élite mundial y aprende técnicas y trucos nuevos. XType Plus incluye dos modos de juego distintos: un Modo clásico de estilo zen y un Modo plus repleto de acción con movimientos más rápidos, bombas EMP y enemigos incluso más peligrosos. Los precisos controles de joystick analógico doble te permiten dominar hasta las situaciones más difíciles, mientras que la vibrante banda sonora, las enormes explosiones y los atractivos efectos te pondrán una sonrisa en la cara.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-07-31",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/7ac7ae6fe7b004f4a2f8645a61c517f52c16668a3163945e5466c748a6fcee5f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a4f76d091a36550065e3320262adeffdbddd7c1136290d2fcfa29c03a2af31af.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/27bbdee22bd6664013956c97fe861ce4ff39fff81d54fe474500644673c44a4b.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1cfe8a933b92759db32074a1995a1ccd25cbfbfa503f31c58d8f6bde623aa3af.jpg",
+			"name": "XType Plus Gameplay Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7ca292df5280b9c21286dd93517b4eb8d010f5591448435885da8edf2fa889fb.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7fb076849e15128edf22858fd370b154824339ac794c34644629ab9a850ae3f8.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				}
+			]
+		}
+	]
+}

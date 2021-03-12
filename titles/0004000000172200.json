@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000172200",
+		"eshop_id": "50010000037216",
+		"product_code": "CTR-N-BLJJ",
+		"name": "LEGO®ジュラシック･ワールド",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 483,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/963518d63e3de74b5235820b5f92bb37ac99aa529221d1ea40e39c1c2739feda.jpg",
+		"data_size": "476924772",
+		"description": "世界中で大ヒットの映画シリーズが1本のゲームに。 大ヒット映画『ジュラシック･パーク』、『ロスト･ワールド/ジュラシック･パーク』、『ジュラシック･パーク III』、そして全世界で大ヒット中の『ジュラシック･ワールド』。『LEGO®ジュラシック･ワールド』はその4つの映画を体験できるゲーム。レゴを使ってTT Gamesによって制作されたこのゲームは、映画の有名なそしてスリリングなアクションシーンをユーモラスに描いている。イスラ･ヌブラル島、イスラ･ソルナ島の広大なフィールドを冒険可能。",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-11-05",
+				"retail": "2015-11-05"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0613d650764b4a692520032e76c88936aca56f1c63a573471a10d57fe9355e6d.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/022349c41ba3ee43759d8fd0522e6399fea3693c675dd600fab35975e3374e3a.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/077eb70db74957d2dc90aa1ce12e2f5fc950b360601bd719583802de46d42e38.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e0a2a2bb18856687a09ff1f18290f056610cbee43156899fc8e5b5f640c84330.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5a8ea69d427a13e509875033441307718d3eb2414c73650088b1231d0e3c1029.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/95972cc739c5e3dda6fdd0504a0a878dfde8a41170738aa1b4215ab4feb91a5c.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0c62e1c64cf505415a6993345c262e020aa380553c511b094633151a1e126a36.jpg",
+				"name": "LEGO®ジュラシック･ワールド 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bbf53ef3117a05b3bd89be7eb0ed6e8b08ca4e3a67a0bd36f6c92f90a1b9891d.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "96"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7617c25d218e0ee0d080b5e2dd82e46163df8ea88c2a947df32073b4fba766fa.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "96"
+					}
+				]
+			}
+		]
+	}
+}

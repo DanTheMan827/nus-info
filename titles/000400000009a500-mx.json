@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000009A500",
+	"eshop_id": "50010000012838",
+	"product_code": "CTR-N-JHNE",
+	"name": "Johnny Impossible™",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 280,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/591a0342344cc4c6816d2961a059f4b0ce526c490fe5401e99bd31a6649bbbb0.jpg",
+	"data_size": "41802596",
+	"description": "¡La banda del Señor Wang ha vuelto otra vez! Toma el control del super espía Johnny, ¡y acaba con los ambiciosos planes de la banda del Señor Wang! El Señor Wang ha instalado un súper láser en un satélite espacial, ¡totalmente listo para destruir la ciudad! En este emocionante y sigiloso juego de plataformas de desplazamiento lateral, tendrás que encontrar y utilizar todas las herramientas a disposición de Johnny para infiltrarte en las instalaciones del Señor Wang. ¡Pasa el control de seguridad, evita las trampas y enfréntate a los robots enemigos para salvar la ciudad del súper láser del malvado Señor Wang que se encuentra en el espacio exterior!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2012-12-27",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ff7b2a86b9389cedfff4d04678c967191b795447b2f2e214450f9010bda042e1.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f0f4b28742112344e5841e509c60dc4a2fc7d3bc920a68598b5c59bb14008364.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/763ddaf0a1954fa2c4679fabf22f3f5cc7dcf2266d83a563ac8b3dd4ebc8a844.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f8d169c961e467706f59708258e27c0188f41009c1a71835b03d55a2f07bd080.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bc60a5a50968f5f1022adf58fe3af97fe6c13da48fcfa5e59206afbcfe0836f9.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a6bc13aec1bda259047c15a96093c8104f9c496616d3c8c1819a08a87f4225de.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/afc5c51be98147baef7332769b3125fb0307b512f35be3bd1b254d261a21d286.jpg",
+			"name": "Johnny Impossible™ Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b3dc4cb151686b13e0b2f09c6651fdc8e0e8a8fdfadb3cad216dace40518ab0b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "80"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/24f5fd6073ac61a4132be68eff1170b33822f493f72af997e4e6587b72c1c5c1.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "80"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001011A300",
+	"eshop_id": "20010000001965",
+	"product_code": "WUP-N-JAVJ",
+	"name": "スーパーストリートファイターⅡ ザ ニューチャレンジャーズ",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 39,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/89fb44615866b8f74de9ec043b1fac3d77eac9ebe912ccd9cf484fe19b307014.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/bb7bb3a5bbd450fb933b4b02b83d85f163f707239cf449228dd877940f3fc27b.jpg",
+	"data_size": "43909260",
+	"description": "このソフトは、1994年に発売されたスーパーファミコン用の格闘ゲームです。 これまでの『ストリートファイターII』シリーズでは、12人の格闘家たちが強さを競ってきましたが、本作では新たに「キャミィ」「フェイロン」「ディージェイ」「サンダー･ホーク」の4人のキャラクターが参戦します。また前作までの3つのモードに加え、団体戦やトーナメント戦、タイムアタックが追加され、これまでと違った遊びかたで楽しめます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-06-25",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/b372e5bd2187a9f2abd5818a87c88b10c4fe7afd3987b1e2f35c1fae93a26ee2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/70f61102b420bc4e81876a1d7a7168b91695e74eb774d2e928a1dc4e32edd7ba.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0e5255446ef1b34130f488ea4a8dae5c0cc1a73d052be9ac444576529f171189.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5b61192aafd5a4245c5666a1aca9859dcf2a869eb8df3bbfedccc489ef90d89b.jpg",
+			"name": "スーパーストリートファイターⅡ ザ ニューチャレンジャーズ プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e06b12a2310ea61e8eb903cbf66676acb4407c424ddbfd1bec5ded9161c3f26e.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "66"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c974cce530ece5c4c5a47a1e3e6c9d15f28c1b93da0e86e8f57d37bbe9e730f5.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "66"
+				}
+			]
+		}
+	]
+}

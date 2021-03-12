@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101E9A00",
+	"eshop_id": "20010000021427",
+	"product_code": "WUP-N-BS6J",
+	"name": "Astral Breakers",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1517,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b7794daeab31e7b3383a5f780f5b7f24e0599a324b46791558a8ff15a25b74ed.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a0389b6f6c8201e23cefec138b1ce68a14c8ecca4a28fcad147264429744c281.jpg",
+	"data_size": "357433504",
+	"description": "スピーディで幻想的な落ち物パズルゲーム、『Astral Breakers』が登場です！ そこまで遠くない昔、けっこう近い銀河では平和が続いていました。 そんな平和な銀河で、ある日突然なぞの爆発が起こって12星座たちが暴れだしました。 宇宙に危険が迫る中、あまのじゃくな星のキラが宇宙を救うためにあなたに声をかけてきました。 エキサイティングなパズルバトルでスフィアを壊し、 たくさんコンボを決めて宇宙を救いましょう！",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-03-23",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/7d64f52f783fab0773a26ef1ff1b478c58e2c40f2e83c7df5eb6e7e07ea8e61d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8b7277c874151e4f32964abea387566fb28cb615668e0f0e284a852233f365d1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/eda5686300e80e6446154218394a1d3206511407c66181e38863864a51e46537.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/64dab0aabeb3654c34235b4fe88f50227210d26bcbcb95803b0e9f1b3ce38e86.jpg",
+			"name": "Astral Breakers 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f5138d84c7edbbd5d3cbeaac36fb8d78572cc4cae866cb591f89bf2d20e0d99f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "74"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9742593638b3e5b9ff8dd308728b038a670264c805af91cc9b6c2bfb4a8c3b73.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "74"
+				}
+			]
+		}
+	]
+}

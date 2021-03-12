@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010114400",
+		"eshop_id": "20010000001107",
+		"product_code": "WUP-N-FANJ",
+		"name": "ロックマン",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 39,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/df0d79bc6c9f141a0df70eb29e0d7dec9e46d4bb43386ff37b2834a538277bc9.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b53539a0bd6ee4f2c794e84a9d2fd341a9f1f6365fd4584ce8b53fef2e95929b.jpg",
+		"data_size": "36601996",
+		"description": "このソフトは、1987年に発売されたファミリーコンピュータ用のアクションゲームです。 6体のロボットと、彼らを率いるDr.ワイリーに挑むロックマン。敵を撃破しながらステージを進み、最後に待ち構えるボス（ロボット）と戦います。ボスとの一騎打ちに勝つと、そのボスの使っていた武器が手に入ります。状況に応じて武器を使い分ければ、強敵とも有利に戦えます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-06-12",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/2b8b8ad6e40e1e506243319edf8606b159fa116bddeeff0e8536ddd6613741ce.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/65075d700b8b948aeb623bff0a7d5c906065b3f98e5cf91e99a07cbf49f8f92a.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/278878995a558c1b2e224109b41bd6df7784b5ab5d70badb696ddbaf5b1ff309.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8921f3c5c14d714defa6acdc89b60c5163555a89958cc68067cfea51fbbc1596.jpg",
+				"name": "ロックマン プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/affea94c745ca3b6d9ac5749fecfc5b666674f1e4f717f5ae9b941cff6ed3bf5.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "51"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/69fa02fd10407e92d15c3fe58b33f21fba01957eeb2018a1f5ff2a0c42de9adb.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "51"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010162F00",
+	"eshop_id": "20010000019487",
+	"product_code": "WUP-N-ADPE",
+	"name": "Just Dance®: Disney Party 2",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 278,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c98e784e92e8baeee4c6da75ab4f671d789543b37e691fe8d3e17dc77105c2f1.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d406e0eb8137c0466e3e6226c94395cfba771ceeb43dbd7765ec3bc476bb2927.jpg",
+	"data_size": "5683348096",
+	"description": "Just Dance and Disney are back together, bringing the greatest dance game for the whole family with music from the hottest Disney Channel shows, in Just Dance®: Disney Party 2. Dance like the stars from the most popular Disney Channel shows and movies. With a great selection of family favorite songs, fun dances, and kid-friendly gameplay, children of all ages can dance along with family and friends.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2015-10-20",
+			"retail": "2015-10-20"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/b6cf0269ec40c8d681196f764b71bad6c3c256e03249bdfb02019fa69f8e3d2c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7c666428338281c7bcbabd653d2cd041d29a44255b90a8a568c5b523f21501b8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ff5f784451c6cbd3d83775d60541f0b0ac6ac493c647072261a7de5fbf77836e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b07f8deb1ee42e607a025a911280fb3c099c8e52633ae56d796a719a4f4daed2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/25c6e865e7d3067f5bf3328a1c2437464e704ec456ef71f973716af454d43a3b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7df8d240da43430d0fd05fe97625d4902beaeae73119bd91b662d2f4fcab59ab.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/799d35d3e896197a3c75e72b7d37f9eac99a0755d2afdbd31d93b5c809529be2.jpg",
+			"name": "Just Dance®: Disney Party 2 Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/dea23f2c38571999ba1d04a7ed820ef1d0236bdf73e4f1bcce1cef87bbdef7c5.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "43"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/702e204ef3249a75f5f53221000d53598cde44a410a3a2632d752473a5d6d387.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "43"
+				}
+			]
+		}
+	]
+}

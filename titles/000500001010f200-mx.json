@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001010F200",
+	"eshop_id": "20010000000103",
+	"product_code": "WUP-N-ARGE",
+	"name": "Rise of the Guardians: The Video Game",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 57,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9007ccebcf47314bbced5065df73c6a947edaf58c67ed024a18f770239812620.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d669bb1dbf1ed48bbe9788284785258021b61e2b884bc4ac33aeab60483f69f6.jpg",
+	"data_size": "3503718780",
+	"description": "Deja volar tu imaginación en El Origen De Los Guardianes jugando con una de las leyendas clásicas de la infancia, como: Norte (también llamado Papá Noel), Hada (el Hada de los Dientes), Bunny (el Conejo de Pascua), el Creador de Sueños y Jack Escarcha. En este juego de aventuras repleto de acción, cada Guardián tiene un conjunto propio de capacidades extraordinarias y mejorables que te ayudarán a enfrentarte al espíritu maligno \"Sombra\" y a sus contagiosas pesadillas. ¡El Equipo de Guardianes y tú trabajaréis en equipo para proteger las esperanzas, la fe y las imaginaciones de los niños de todo el mundo!",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2012-12-04",
+			"retail": "2012-12-04"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/cfa6f6a981aeb41b46383742d52c6ee20d207b46d37867ae9bff05d32e575029.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bfde08b133abfa8e1b505f5fbf5e535b0983ae0ccf549d2498500e1c16c3c606.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/330c122f5b3dd1a8fb1851a0fea70e3821a3fd232d5d490b480054b92c7b126a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4499373652a5776cbf211c85b8065ec53a88954ebb6f1178ff6e92346ccd10eb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/fe3ea82c1f2181db3a30271f79928ac660613eab8934a5d1e056c0cf50dc2d44.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2ab29bddb70d5446f197b6dd53452803b06595212808b1c43c5a6da37cce2d87.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/755a840d1e161d89512b895a27186f0ca645ba5b7711084192840cc7fcf26882.jpg",
+			"name": "Rise of the Guardians: The Video Game Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2b10ab29b6fa8b40d2f70246d8c63434ae7d35940f5ba80cc7a2eab831b9c6c7.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "55"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d79aaa4b189356ac6c48821a15e01f1919f8dc7d3c16949d40928aa68b339219.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "55"
+				}
+			]
+		}
+	]
+}

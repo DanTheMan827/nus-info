@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101C8500",
+	"eshop_id": "20010000018588",
+	"product_code": "WUP-N-DAUP",
+	"name": "Mario vs. Donkey Kong™ 2: La Marcia dei Minimario",
+	"platform": 169,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c92c57644efcde87637faf16bef91e98a7fea141fa99a3a48c44352fec5efe62.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c0ea1187441c5c49554f9a32472ef9db99343efb62aef22d98df2922da72036f.jpg",
+	"data_size": "75661432",
+	"description": "Nel primo Mario vs. Donkey Kong™, Mario era alla ricerca di tutti i Mini Mario, ma adesso tocca a loro sistemare le cose! Usa il touch screen per guidare i Mini Mario attraverso dei livelli emozionanti e pieni di ostacoli per salvare Pauline, catturata ancora una volta da Donkey Kong. Proprio come le statuette Mini Mario, avrai anche le statuette di Mini Donkey Kong, Mini Toad e Mini Peach a tua disposizione. Sfruttale per completare 80 livelli pericolosi, evitando gli scagnozzi di DK e persino il furioso gorilla in persona!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-09-17",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/f102731e3189e31b0884918c59cfa23cd8aa23b15bdcfcd8af3db42fb02deb49.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/257b65dcb9a1d8bef1b09ce85b0f8e2d416b03f286746c06fc900442799be3af.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/71c5f8f2b1cf5839bfe38b292e1041838ea9c016269c5bfb68f69917fbfb136a.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/59be0d82c8b153f1015c2af9106be4b6a8c7d2fc37e4197075c793139a69f993.jpg",
+			"name": "Mario vs. Donkey Kong™ 2: La Marcia dei Minimario: video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/876b69831b1e5dcbe646223db154a401713de2cc0fac9b80d9c87db143740fb2.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5a37b7284ed200caa2f74ce5c2ef26d8e4ec09a6d59720f9ae80fdcca2015268.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				}
+			]
+		}
+	]
+}

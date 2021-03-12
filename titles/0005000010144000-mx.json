@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010144000",
+	"eshop_id": "20010000004007",
+	"product_code": "WUP-N-ADVE",
+	"name": "Adventure Time™: Explore the Dungeon Because I DON’T KNOW!",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 57,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/64ded6d892925451cbf90f3eda3ac78ed26c92554a35c349a2c0c20399e82588.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5f7fecb6c2c0fb650a8752c38fd225e22c1ff9e49edd0b90a488b9a3ee024217.jpg",
+	"data_size": "1096024264",
+	"description": "La Dulce Princesa convoca a Finn y a Jake para investigar una serie de robos y secuestros que han plagado el Dulce Reino. Ella cree que la causa ha de encontrarse en el calabozo real secreto, donde sólo los más repugnantes monstruos y criminales son encerrados. Si han encontrado una vía de escape, ¡la tierra de Ooo estará en peligro! ¡Pendleton Ward, creador del show, se une otra vez con el desarrollador WayForward para crear un juego de acción totalmente nuevo! Elige a tu personaje favorito de la serie, incluyendo Finn, Jake y muchos más. Júntate con hasta cuatro amigos en modo multijugador cooperativo y adentrarte en el mundo de Adventure Time a través de animaciones de pixel hermosas con las voces del elenco original de la serie.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-11-19",
+			"retail": "2013-11-19"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/8b8cf41e8e152e837750db82e9ff79ffcd8b0512d03089c0efe32ca9bd982e08.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3f04e1880a83e20dce05cf0869a7e81f5b20bfda04e01b5e9dbbd725d85b5d32.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4fbd9a64fe823142fd7894a877760f893c6a32438dfe4c8436b6954ca7ba0f58.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/93d5077d4aceeef69261743a5b23490a2a7f830327805bc9edc503fcb310c3c7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c8f50dc705624ae4724f9e6940a9507fcd36b4ddf28f04bfb5011e5f06ee79a7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d4757e51546e4494e2ff10a78da003c021ef10d3993d66cdbae9ede6eff9aebe.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c7c92bb3f5b98b7b5a9ae030d33f3d620448e50ef642478a3077d6ca1d16ff87.jpg",
+			"name": "Video Adventure Time Explore the Dungeon",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d8c54a12dc42f117adc895f7280891481eb76c78f98a99f980f8ecd1cc81a02b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "72"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/10e9a17547f29f975091cf1881c085f3b20e4f07f1553baf193c25d154f67105.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "72"
+				}
+			]
+		}
+	]
+}

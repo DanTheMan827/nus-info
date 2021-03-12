@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001016C200",
+	"eshop_id": "20010000010686",
+	"product_code": "WUP-N-FC6E",
+	"name": "Gargoyle's Quest™ II: The Demon Darkness",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 39,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e892f7263b0a59ef1fad029e5f274a2f9c46d30e71dd9373aefdf4ba84fdfc77.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ee41642ac13cd5eab668b150f80daf864aade23a3750746d2b18be42bf13b06c.jpg",
+	"data_size": "38830240",
+	"description": "En la tierra de Etruria donde los monstruos conviven libremente una gárgola decide restaurar la magia del reino de Ghoul Realm. Únete a la gárgola Firebrand en una peligrosa aventura para averiguar el origen de una misteriosa luz negra que destruyó su hogar. Explora el mundo y habla con otros personajes para adquirir objetos mágicos que incrementarán tus poderes. Después empieza la batalla y esquiva ataques mágicos, trampas mortales y astutos oponentes ¡que no se detendrán ante nada para proteger su espantoso secreto! ¡Demuestra que tienes lo que se necesita para resolver misterios mientras luchas por sobrevivir!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-10-30",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/807e5716ed1002efe123c89ca8e0f45a2239b70e7192c0bf576de91ba98f2ea6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/101bed6ee1477cd6613aa1a5a088e07ed0a8317b19acc07a6e32633e093f1940.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/fa4a95d17b9b3cc7efeef6f532ecc336d897d5782785c0d542822df0195571a3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/188f9db97f890cf16010f01b94768d6a32caa4f8bcccbbe923e8ed905920a080.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/31343268be347f87dc2a233b76a2f2da4a57b53b93059ab378df55fe83ed75a3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d8b3a57382d4337126ebad070f1542e10870d1a03f823c3a26a87f5ffef2640d.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9ca6d8dd48016934db0cfa6d1d0c457dfa4e55528ebf3d9828af884d102e7869.jpg",
+			"name": "Gargoyle's Quest™ II: The Demon Darkness Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d0d56f824977d1cd777a4891758aecb6fa73a1193d2f909560af241cbfe250b1.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "38"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/485542a182c5fb361cec714c431bbbeb0608e2ee145e13fe5f3bff0ba386b2cb.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "38"
+				}
+			]
+		}
+	]
+}

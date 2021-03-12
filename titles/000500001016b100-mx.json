@@ -1,0 +1,54 @@
+{
+	"title_id": "000500001016B100",
+	"eshop_id": "20010000007326",
+	"product_code": "WUP-N-WGVE",
+	"name": "Gravity Badgers",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1270,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fb42ced65668507b484dab8799714a8106c8aaa27671b1dbad769639890d9834.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/528ac3f15b3ab4a99f8867a45f2f1b2d474e57a83af871a3d3807fdb48c3a0aa.jpg",
+	"data_size": "361562272",
+	"description": "Adéntrate en el traje espacial del valiente tejón de la gravedad Capitán T Bayback a medida que se aventura en las profundidades letales del espacio para salvar a amigos, familiares y a todo el universo de la amenaza de los mortales y malignos Honey Badgers, alias los Hellsett. Por primera vez en la historia, un juego unifica los emocionantes elementos de los tejones y la gravedad para crear un puzzle impactante basado en la física que te transportará más allá de los límites de lo posible, de la imaginación y de la lógica, ¡hacia el reino estelar de los GRAVITY BADGERS! ¡Lánzate hacia la gravedad de los planetas, esquiva asteroides e inquebrantables enemigos finales letales durante cientos de niveles de aventura y peligro en el vacío, todos enlazados mediante el impresionante estilo artístico de tus dibujos animados favoritos de los 80 junto a una punzante banda sonora de mullet rock!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-05-29",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/ec3e80cb83f3eb47ccf594e1a1adfb32a308e72a007d2c5d42be7b1fdb837cc0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2b429c6bf5ff71472f8d0af40816fbc24966314f3c990950119f8b8b4582d85e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/94ab58b5c0e5887e4aac1c81b9d5cf5bf5c944f5572622c35654258787c791a1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/cb8079b80c7033f684614f01964b56519f20e49ba94d05fa10ee3636fe9285dd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/637c67a68ba3a722041d0a65d733a839dabd8dbeb3f6dd9608bb743163ac4099.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a6e599e1ea6e6528bc37123824f622b6a72c39371d7007bf3bbbfb6a2c228f98.jpg",
+			"name": "Avance para lanzamiento Gravity Badgers",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cdcf14ae3d298895f02349c26104c20d5f42e762569693bd39e07c2e21025262.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "63"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/967bdc950cfa1271517590d336217b3af186040c7664be5d441c48d301ebf619.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "63"
+				}
+			]
+		}
+	]
+}

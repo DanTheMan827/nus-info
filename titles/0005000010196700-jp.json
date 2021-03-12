@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010196700",
+	"eshop_id": "20010000011549",
+	"product_code": "WUP-N-JEMJ",
+	"name": "晦－つきこもり",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 27,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c0270c142b47701b08b9c5281c0030bb43094f1a443fa2268d1f8be9abb23ae3.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b0201d82698cf02072767659a0a19baa79d14628a7944bbc1e675b96ab728f96.jpg",
+	"data_size": "47218848",
+	"description": "このソフトは、1996年に発売されたスーパーファミコン用のアドベンチャーゲームです。 登場人物たちが語る怪談を読みながら、選択肢を選んで進めます。人物と背景は実写が元となっており、リアルな演出を味わえます。 語り手となる6人の登場人物から、それぞれ順番に怪談を聞きます。語る内容はその人物を選んだ順番で変わるため、同じ人物からさまざまな怪談を聞くことができます。 話の中に出てくるいくつかの選択肢によって、物語の展開と結末が変化します。選択肢を変えることで、200種類以上の展開が楽しめます。さらに、選択肢の選びかたで隠されたシナリオが登場することもあります。選択肢が多い怪談や、違う展開が見てみたい怪談があるときは、セーブデータを残しておくと便利です。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-09-07",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/891e8e02be6333c2491c7abc69a62e46f0d1b2eefd104742415cde434ddcbd35.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6b2b5af5bb7d90fa0d532854d731f829249f90fb25658a39f40162a8d2223307.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b2f5e49e829a99a3234f48fb938c4555f5512eaa18fde664232c74d96d054ba3.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3c91097d932b68020ab53c48ecbf879800fa38a6de98d8187e29008f8fa7d580.jpg",
+			"name": "晦－つきこもり プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d15fc6a504fc4a0ee1b1ac2ad5ab7b22b5deeaee90a936fce6b794355e082eda.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "67"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9e7829ebfc37786f7d307cb666ac6138e360c55ba371f24e51af3c266df083f3.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "67"
+				}
+			]
+		}
+	]
+}

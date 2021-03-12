@@ -1,0 +1,67 @@
+{
+	"title_id": "00040000001B4F00",
+	"eshop_id": "50010000042844",
+	"product_code": "CTR-P-ADQP",
+	"name": "Miitopia™",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/321c9e0b3a962390eb8fc22ae2261a96692cef97f816612d0c89d3aa2f8316e2.jpg",
+	"data_size": "907389796",
+	"description": "Wen würdest du auf eine verrückte Abenteuerreise mitnehmen? Deinen besten Freund, deinen Schwarm... und vielleicht deinen Lehrer?! Bei Miitopia begibst du dich mit deinen Lieblings-Mii-Charakteren auf eine unglaublich lustige Reise, bei der an jeder Ecke Überraschungen auf dich warten. Die große Frage ist nur: Wen nimmst du mit? Unter amiibo.nintendo.eu findest du eine Liste kompatibler amiibo™ und aktuelle Informationen. Um amiibo auf Nintendo 3DS-, Nintendo 3DS XL- und Nintendo 2DS-Systemen zu benutzen, wird ein Nintendo 3DS-NFC-Lese-/Schreibgerät benötigt.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2017-07-28",
+			"retail": "2017-07-28"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/47f6d3dd8edd550456b7ba6bbb5db4b36b41b1f64da0f2a0f76a7a7e51a32180.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6e38a307a07062beed9db46b07a42359bf52d201e19dc2d3ae9240e83656e002.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3d97b1d43766a5deb8e8c1f39ae182f706e8d27878bbffa799ee3d6bdd48163d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b9fe423918b2277c905a0bec52a5a0268cb5e3580edd147232cee9a7c020b137.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f8afdd13ce21188270ccc9cc54f18d7d1506550acdeffbe80c796a115458edde.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d6198ba9108e10790a688e305ef9253b78b6880c84708c09f2de9c04cb3e691a.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c62731db1e89d7fafba26f2cd53224e3e24a0536150f0506781d8e7e6bba8255.jpg",
+			"name": "Miitopia Demo: Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cb62436264a64f2fac83a86b1284481657f8ef2378af3740467d6755273be251.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "211"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c62731db1e89d7fafba26f2cd53224e3e24a0536150f0506781d8e7e6bba8255.jpg",
+			"name": "Miitopia: Trailer zum Verkaufsstart",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9506de51cc40507505472421c4d0ae1665be3cb6b6909efaf799eff0d82d0c81.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "183"
+				}
+			]
+		}
+	]
+}

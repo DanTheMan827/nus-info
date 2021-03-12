@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000015FC00",
+	"eshop_id": "50010000038395",
+	"product_code": "CTR-P-BTSP",
+	"name": "Story of Seasons",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f889b1aa43426daf1f629a4f19f6c56044b119f78cdbf6d244fa0051e6e89344.jpg",
+	"data_size": "759917412",
+	"description": "Etwas gelangweilt von der Monotonie des Alltags fällt dein Blick auf ein faszinierendes Angebot auf einem Flugblatt: Eichbaumhausen sucht interessierte junge Farmer, um neue Energie in den regionalen Handel zu bringen! Es ist eine Kleinstadt, aber sie verspricht ein Leben voll von lohnender Arbeit und wertvollen neuen Beziehungen. Nachdem du in der Stadt angekommen bist, bringen dir die freundlichen und aufgeschlossenen Stadtbewohner das Leben als Farmer näher und du erlernst jeden Tag neue Fähigkeiten. Du züchtest Pflanzen, pflegst den Tierbestand, expandierst deine Farm, exportierst Getreide in andere Länder und kümmerst dich sogar um Haustiere. All diese aufregenden neuen Erfahrungen stellen alles bisher Dagewesene in den Schatten! Kannst du es als Farmer schaffen, und dieser neuen Stadt, die dich so herzlich in ihre Gemeinschaft aufgenommen hat, etwas zurückgeben? Welche Art von aufregenden und lehrreichen Erlebnissen erwartet dich?",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2015-12-31",
+			"retail": "2015-12-31"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e77b1eec60225b0a1bee7dc6479855308f01dbeda326eefb3606e4d59f9c45c6.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5d88ff45d4cb38fb18776529019d9c9a7f4f85a134dd9675bf094a4181b11621.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/167997cd21b1be50c3f6b8619b9fde0c84ad4e0c5d4deb0623f79d68a92f9422.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/96404a1f2049135748d9a3d8ed94c014bcb1977759683ff7b4d218478c336615.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c406c3d40adfd5840c2581d2162d97b2024e93cb61508fc7b36a16ca0fc56b24.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1d907d1bf982596068104cd16e898eb54ea1b49647fa99571ac250930c74b1cc.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/625d9b0e0884763bd0777621fa7def5728b60af3db1dfd5b649528dabfd142fa.jpg",
+			"name": "Story of Seaons: Trailer zum Verkaufsstart",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0bc72d966f92eea8d7fe8f877f6474808ddcf140e017b7df2359f20aadf9c5da.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "111"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b244ebb9c57aacb1ef9c3e2515d617a1adfba28db2c410205f4d456811a11182.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "111"
+				}
+			]
+		}
+	]
+}

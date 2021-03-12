@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010153D00",
+	"eshop_id": "20010000004505",
+	"product_code": "WUP-N-JB4J",
+	"name": "タクティクスオウガ ",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 246,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6a596d4609f2ceeed00cc238686fb17ceb02c0ac5fac58ff75c3817ef74c2252.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ef05a7ebe06ef440c0822492369234c6f1e6ffad049c88d4685fd88a1865095b.jpg",
+	"data_size": "43122828",
+	"description": "このソフトは、1995年に発売されたスーパーファミコン用のシミュレーションRPGです。 舞台となるのは、ゼテギネア大陸の西に浮かぶヴァレリア諸島。島の民族紛争に巻き込まれた主人公が、人との出会いと別れを繰り返しながら紛争を終結させるまでを描いています。ゲーム開始時のプレイヤーへの質問や、ゲーム内の会話や行動によって主人公の属性やパラメータ、性格が変化し、ストーリーに大きく影響していきます。戦闘フィールドでは、「草むら」や「石壁」、「水路」など、さまざまな種類の地形パネルが存在し、ユニットの攻撃力や防御力、移動コストなどに反映されるのが特徴です。「敵の殲滅」か「リーダーを倒す」のいずれかの勝利条件を満たせば勝利となり、敵陣を占拠することができます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-03-12",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/50411320b482675ea74816925beeb845b9803226c6503bb5196095a0952872bf.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1ed70634415c6f452eca4f935c3e323dee84579fb2eade49f6410ef1028d4752.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4a04b94eebeab4b506e32841ca4648fd3b7d69029d9d7657e0d67b56966ab066.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4f8a88b35d61e266699bca496fe0d617b640f9862a9a826187e01de47b7a5631.jpg",
+			"name": "タクティクスオウガ プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e406a66aed4c2dbef2b29d234ddb3f72c2bdf89956343ee786e5222f875079de.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "53"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b4e7606b338a1e27e4bb3df8efb41cb726fcbafbf90e7ba866cb7034fcc9c45b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "53"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010134000",
+	"eshop_id": "20010000007226",
+	"product_code": "WUP-N-FBGJ",
+	"name": "高橋名人の冒険島",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d896345637beb0599b739b0c140884e00737725b58eb1b44c6ab6985536228dd.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/49ace8a201a98b38f95118d34c6e39d81afbd1212bf9e8ff6d07e343bbe81e18.jpg",
+	"data_size": "36536460",
+	"description": "このソフトは、1986年に発売されたファミリーコンピュータ用のアクションゲームです。 「高橋名人」は、1秒間にボタンを16連打するテクニックや「ゲームは1日1時間」の名言で知られる、実在の人物です。本作はその高橋名人が主役となり、謎の「冒険島」を駆け回ります。 バイタリティは時間の経過や一部の障害物に触れることで減りますが、道中でフルーツを取れば回復できます。バイタリティが0になったり、敵や一部の障害物に触れたり、穴に落ちたりするとミスになります。出現するタマゴにはいろいろな役立つアイテムが入っていますが、名人の嫌いな「なすび」を取るとバイタリティを減らされてしまうので注意してください。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-09-24",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/526f34ecf20958c8e4d345526adfe730910a92aa48c56b13cfbb8c4fff6636da.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/eb00d2fb5298086718ed3f911337f4b8a8a8471d50fdef0036562eead187b80e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/12b9ea27af8c94f65375d91fd8ae1849f1dd7bcb1bfee76a4db42ef8926f7a48.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d985f0a0b361a00a45809a84154a008b9e9b8002fb7ae7decfa1823e4035b634.jpg",
+			"name": "高橋名人の冒険島 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/246a29748a92c7b7b554b31666adbe6c9c4bebc785e8afc5f23cfc3f99bcd024.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9cdb6d5a94706689b5ca01819fd63e779d6732d207ecdd1b153fb7f7462b78ac.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				}
+			]
+		}
+	]
+}

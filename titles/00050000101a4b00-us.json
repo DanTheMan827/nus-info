@@ -1,0 +1,53 @@
+{
+	"title_id": "00050000101A4B00",
+	"eshop_id": "20010000013031",
+	"product_code": "WUP-N-BL9E",
+	"name": "Blek",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 36,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7edd3795b4198b003e47710341968c4b8f57d2e8d3e818b3963fd64f64bf2578.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/679254e512c56e1da5eef0dbe943c37936d78cb4d0b292c81864d15a171ae4fa.jpg",
+	"data_size": "87490700",
+	"description": "Blek is a unique, award-winning game about imagination and personality. Everything you draw keeps moving - and watching your creations move is like watching magic. The goal is simple: shape a line that collects all colored circles avoiding black holes on its route. There are no specific moves that you need to master. To every level countless solutions exist, from delightfully simple to exceptionally deep and complex, yet always elegant. Truly unique & entertaining experience Incredibly appealing and clever gameplay Includes 60 amazing levels Blek can't be explained in words - watch the video trailer.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-02-12",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/fd824e6752ccd85e0178e322cff8a0d7982383809895947fc71f9154e250f8a2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/42070af0890d8077719c54bbcd46fffe76fe4569486536d67e3b5ce25d328291.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/cad8ad7541186631d9f4d667545499d04c6c763cfc6425ffbb23018301c2d6be.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c253dd315cdfb83ba0b770b186df8ad30c66e3e28b5cd65d2dae7bccc3f88813.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ae894363aa816d5e1d2c9742361bb1225c393f824def336704f28a7919af5844.jpg",
+			"name": "Blek Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f0408815cec290813c4c7c5d3008748bc50ec2ccd3d638156fd70950026f62b6.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "66"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/51ac68a0cabda46ffdfd1e4419b324e05a3bf92b001ea144e4e06a0880cb2a0f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "66"
+				}
+			]
+		}
+	]
+}

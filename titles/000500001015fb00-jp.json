@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001015FB00",
+	"eshop_id": "20010000007406",
+	"product_code": "WUP-N-FCMJ",
+	"name": "飛龍の拳 奥義の書",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 416,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/347d0cc9c6fdea0d3871d4bf7c9149312983b04d4629fb20e51d38de0cc6af5d.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4fcd695b73da2b54a57bcfd6a4c32b6cf298a18cfda1a3026d2b0c03183b03f3.jpg",
+	"data_size": "36569228",
+	"description": "このソフトは、1987年に発売されたファミリーコンピュータ用の格闘アクションゲームです。 中国の秘境に暮らす少年･龍飛(りゅうひ)の育ての親、寿安老師(じゅあんろうし)は、謎の組織「龍の牙」に襲われ、必殺奥義「飛龍の拳」の奥義の書を奪われてしまいます。龍飛は5つの奥義の書を取り戻すため、異種格闘技世界大会に挑みます。 大会の会場にたどり着くまでに、いくつかの「道中」と3つの予選大会である「試合」で敵と戦います。道中では鍵を手に入れ、どこかにある扉を探せばクリアです。試合では表示されるマークに注意し、攻撃と防御を使い分けてください。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-09-10",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/5539436a9f7ac3653669742333d0098dda327b49875673b106c21c76d81b13cf.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/59e38be354f92064448ccec1220cb306718e7ac8d02ddd238cf223d8fe573ff1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d01cfe5f879e67cf012635885e2a93d7fc1bf9c7f90a4403b0eee35354b24eba.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2f0d8e44f3b827b639386cd95fbcee225d94e30af2e27683706e7de8650f0bb5.jpg",
+			"name": "飛龍の拳 奥義の書 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9bc4b7eb7291ac05e4e91cd27f8f1ca508730782b323982daca7ace3a3bfc592.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "48"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e29d74248f19502c7b635f376e144e5416998e6af363797287ae70ea72c0e6c1.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "48"
+				}
+			]
+		}
+	]
+}

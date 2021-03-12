@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010199300",
+	"eshop_id": "20010000013950",
+	"product_code": "WUP-N-NAAP",
+	"name": "Donkey Kong® 64",
+	"platform": 170,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/861056c96afc37df716bbf4ef4f57685b09a42459af4b03a60e3537db9aa6d75.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/56b01f62f5a6f92d64b258f5b990c79025f98112dff31386e20ad313b5532ac9.jpg",
+	"data_size": "80609400",
+	"description": "King K. Rool™ heeft zijn zinnen gezet op het veroveren van Kong-eiland, en enkel Donkey Kong en zijn behaarde makkers kunnen hem tegenhouden! In dit eerste 3D-avontuur van DK moet hij zijn vrienden bevrijden, gouden bananen terugvorderen en zijn thuisland bevrijden. Speel niet alleen als Donkey Kong, maar als familieleden Diddy, Tiny, Lanky en Chunky. Elk van de primaten is behendig in unieke vaardigheden, zoals de Pony Tail Twirl van Tiny en de Pineapple Launcher van Chunky. Met een enorm avontuur voor één speler en een doldwaze spelstand voor meerdere spelers sta je met Donkey Kong 64 niet voor aap!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-04-02",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/2d511c1a965576ce22e419c9d13eac5a7c07b4b64c907d52ce594175d56da077.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2e3d6e07b3e88b580097200a02297744d64daacc9cce6aee72327b30ea4b628a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/02f7b96b143a55c41150fe0318ca2c16ef86ad71efd70ea91670b7df866a3bb7.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9198aa7f5760419dc0c5848cf41032f95319e0cb6a7f59e5c817efb2a531a558.jpg",
+			"name": "Donkey Kong™ 64: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5fecaa56d025ddfbd1fdc779b4c003ead7e307ab43d9e7a1cf6cb2bae32f499a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "81"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/498b1aa8dc79ae5a9f35c0852badf907c8e34b4eca903f2de2b3627edcbb039b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "81"
+				}
+			]
+		}
+	]
+}

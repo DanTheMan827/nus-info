@@ -1,0 +1,85 @@
+{
+	"title_id": "00040000001C3100",
+	"eshop_id": "50010000043195",
+	"product_code": "CTR-N-BVBJ",
+	"name": "ベイブレードバースト ゴッド",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 442,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4dc4ff6a1973f5b6bdbb5cb51411b136ca7c54850b2f4a70ccb5d9cf1c8e823c.jpg",
+	"data_size": "454806420",
+	"description": "▼ベイブレーダーの頂点を目指す、ベイバトル育成ゲーム！ ブレーダーの育成ができる！ トレーニングと特訓でブレーダー達の能力を伸ばせる！ ▼ベイのカスタマイズがボリュームアップ！ 登場ベイ数が前作比2.5倍！ 「ゴッドレイヤーシリーズ」も登場！ さらに一部未発表のベイも収録！ ▼バトルパートをパワーアップ！ ベイバトルも超進化！ バーストフィニッシュ、得意技はもちろん、ベイのゴッドアビリティも再現！ ド派手な演出がベイバトルを盛り上げる！",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2017-11-23",
+			"retail": "2017-11-23"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/dc77bebd8138e3dc10cb4dd5bb092cc916865ee3b491b0a23f02748204b08b7c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/af36cdf2c78ce1fd7d642dff6234bcf2534b4dcf457eed0c0ccfc43cee4b3794.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/43d5152457f3e1e31d8e2b761e69001d8c567a9ffa69b70fb026c2a83a092d89.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/db409d48325b3c6c905cb6af5400c939c9de258107b415e3e0ccd517eeab343f.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1014071786f9c80132941c85748820ce7142aa49dba805b16746ae1a85404d43.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e04a359a818661e532aeed0e849a4efc4a09934895c618f4d71dda6737d0f78f.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/81a18870cce552b9de654b86a1fec5ddd1c244450643f4baa957898794b0eb6d.jpg",
+			"name": "ベイブレードバースト ゴッド プロモーションムービー",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d27e0d8cf9d7b264fdcb1ad6a6ff7c85a1bdf35e1ccf57ce7e581c33b3bd71bf.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "67"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4c73d155dd0035723d8a4b5c81ff56497dc7314f51cb1e55cbc23e12685fb4ad.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "67"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9a185ebd654fc5ac21a92130e681d0a44b2a5575efb7a554519782246c68da49.jpg",
+			"name": "ベイブレードバースト ゴッド テレビCM",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e82cb5fea842a03c6621ede4b56fbb931c6660ca071b03d9dd2eb8df5dea6c20.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/92435839a832ec7b8bcf82d29a0dd9998a5cf7e1c861b98e367bb120f0060f8c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				}
+			]
+		}
+	]
+}

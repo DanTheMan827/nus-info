@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001012F600",
+		"eshop_id": "20010000002066",
+		"product_code": "WUP-N-FA9J",
+		"name": "スーパーマリオブラザーズ2",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/045b8f49e3d9c087a70c0a2437a49056cb3f1facc79d8b7bb00bf0ed864fe243.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8a70e93ccd98214c707e70215dd1a37ba30ffa2e1e83690953a932f7537ab7ff.jpg",
+		"data_size": "36569228",
+		"description": "このソフトは、1986年に発売されたファミリーコンピュータ･ディスクシステム用のアクションゲームです。 さらわれたピーチ姫を助け出し、キノコ王国を甦らせるために新たな冒険に出たマリオとルイージ。操作しやすい安定した動きのマリオと、高く跳べるけれどちょっと滑りやすいという個性をもつルイージ。特徴の異なる2人が、個性を活かしてゴールを目指します。取るとミスになる毒キノコが出現するなど、前作とは一味違った冒険が楽しめます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-08-08",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/ba3a1f1a14d923e9201f910ca59aa8dca1dc39f2e193898aa4ad984b610040c4.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/558c64f84879d486ec4996374845b6095a55ce8f28a3dc3b52b092a0bb84c169.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/ab7c7db87b8eb991ab0039f8170a5e206bb60471ac7aeeead31fa5346746eec0.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d0ea263091e0ddaf4dcfcdd171de3e9429eb8812db3b50e1c12706c9c1a4e962.jpg",
+				"name": "スーパーマリオブラザーズ2 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/413cf6b5219e171e91315c6e3574c34f3410fbfa8575dcc61a199945444cc2b6.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "44"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/44d6e02a6b777ee2a16fb545f011db2c7b666a831a0e4e9d0181c362e16c4d43.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "44"
+					}
+				]
+			}
+		]
+	}
+}

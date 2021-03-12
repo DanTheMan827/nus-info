@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000170800",
+	"eshop_id": "50010000034336",
+	"product_code": "CTR-N-BH3J",
+	"name": "ほっぺちゃん ぷにっとしぼって大冒険!",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 367,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/843fc0fd56e5c7b5b899662387861cd1e1922c3679a701d70592aa652961097c.jpg",
+	"data_size": "217394068",
+	"description": "スイーツ王国のピンチをすくうため、ほっぺちゃんと一緒に大冒険! はじめに、ほっぺちゃんをしぼり出して色やサイズを決定! 大きさによって、冒険の楽しみ方が変わるから、いろんなサイズをためしてみよう! 大人気のほっぺちゃん作りも楽しめるので、冒険の途中で手に入る、たくさんのデコアイテムで、自分だけのほっぺちゃんを作ってね!",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2015-07-23",
+			"retail": "2015-07-23"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6b9028922f72603737da053c2c4fafb4315ef235a39c40071bbdc5292aef27b5.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/766daa8d43771f61ba367d8105f3849a0c44b30de88efe8d73b253e97cc9003d.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/582fae44815e34124b7d092ff804cbfe3c06d5b319604bb7e078031c6d79ba82.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/77e03d65b3a6f3c86249634f22f5279a94d0d053ceb4e4db9ae7f159ac889999.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f18c79cfc037a26685e32c1a54bbc2f66ecdbe7bb39d30f98ae00393e2c35b9f.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8a9449bf2cdf4abc570d2e4a7b68483c128bf9905539998280ccdc28329940ef.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2b34f85c3631ca5533bbbe0e2989eda59cda2a290b294bd8bdb8906b9bfc37a7.jpg",
+			"name": "ほっぺちゃん ぷにっとしぼって大冒険! TVCM",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6fba21029aa666734d50bc71de756d0899bbd02303f117126c11dad250a1a8bc.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/afd14a57ebe289e3ad56d96e3aaeb07dc8f6ad0374f6f132d3b8b6788ecea1ad.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				}
+			]
+		}
+	]
+}

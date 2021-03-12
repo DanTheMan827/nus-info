@@ -1,0 +1,54 @@
+{
+	"title_id": "00050000101D6300",
+	"eshop_id": "20010000019728",
+	"product_code": "WUP-N-AKSE",
+	"name": "Ascent of Kings",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1555,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3a61e6cf4b705ca84082862a474a57185f57b57d7345d4605ce20f2e243ac07b.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/dcbdf0329499ba1ebe5adfbc86801196808501ae95c644cf2509caa2402a7994.jpg",
+	"data_size": "99451020",
+	"description": "The death of a King. An epic challenge to choose a new ruler. Will the youngest of four brothers turn out to be the strongest? Will a boy become King? The answer is up to you. Classic adventure-platformer gameplay. Explore and encounter strange creatures - some harmless, some not. Navigate dangerous passages and evade deadly traps. Seek out elemental shrines and receive upgraded abilities.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-10-22",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/7090a16096b60dc54e8e17734ea3a66d83300aa56829dab94b07fd79a61b3e7e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/65e8cd751bf84b41788759a38b1a59d081b09eb6d063a67a39d91f511a322798.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5530ba2b81554050e184c2e1ffcfde6b0e5219c8f1926123f6798cce9624d9ec.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f1da7c5499b95e0fe98f652dffadac5ea65e204eac6337693b590123cf574887.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/163d82262b4b6ee05bb0f32ce77de31ef98b5fd34c73f4383550ad6daa3b56df.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b898c936965f96615695a31029b6e0009f9be08ebf12dcb8663fda14927b4ad1.jpg",
+			"name": "Ascent of Kings Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/587a2a9fd1b24fd6d9d4a940b6fc45ae8cc957528008fc14d1fd097e2bc044ea.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "96"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f16931c5fe86b09c3802de4258e47c1e08622a21347190feda534722f7df27f7.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "96"
+				}
+			]
+		}
+	]
+}

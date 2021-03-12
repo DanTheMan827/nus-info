@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010159000",
+	"eshop_id": "20010000004346",
+	"product_code": "WUP-N-JB8J",
+	"name": "スーパーパンチアウト!!",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d7cc6713ae488f2d8d2622d3ae678147b794231dc4ad5fd6d3f1ec0a3d2f16b8.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c662cbcbdc7728a1080b0caf7158614e00d3a92e822c0e17209fec3187ad5199.jpg",
+	"data_size": "42369164",
+	"description": "このソフトは、1998年にスーパーファミコンのカセット書き換えシステム「ニンテンドウパワー」より発売されたスポーツゲームです。 ボクサーである主人公が、世界各国の個性豊かな強豪たちに挑戦します。パンチやダッキング、スウェーなど、本格的なボクシングのアクションを簡単な操作で行うことができ、強烈な威力のスペシャルパンチも繰り出せます。相手の動きや特徴に合わせてこれらのアクションを駆使し、チャンピオンをめざしてください。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-04-09",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/5bd260b1d46345b2d3d666c6649dff00860f02f2e8c461722feb503a301b1f9c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ac0b8330ac9a1aac11396d448c29f23e81192223beafd0e5cdddee1214edf469.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/321d41612c54ebe9ebfdd4928bf9f8a45bbc6bf96783e6695b2dfb2509cd763f.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/38df8dc32b39b3c281812378dc6d3c5fa159681732402391d0a4b9196fd8d33d.jpg",
+			"name": "スーパーパンチアウト!! プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4cbdb238babb6f21e483afbf452b994684483b54ed76eb8867627cb1cca967e3.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "43"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5b339adb46d0fa82f8abf027602ebcbeccf453883d95123ff8a2377fe1646602.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "43"
+				}
+			]
+		}
+	]
+}

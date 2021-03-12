@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000F704000",
+	"eshop_id": "50010000040921",
+	"product_code": "KTR-N-UAZJ",
+	"name": "ストリートファイターⅡ ターボ ハイパー ファイティング",
+	"platform": 1004,
+	"platform_device": "CTR",
+	"publisher": 39,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b4a5bcbca1623ab3bde029f2b5b28b0d806c0f07fd0946a2d03a0be50b2ef1e7.jpg",
+	"data_size": "6093668",
+	"description": "このソフトは、1993年に発売されたスーパーファミコン用の格闘ゲームです。 勝利を求めて闘いに明け暮れた格闘家たちは、限界までその肉体と精神、技を磨き抜きました。彼らが新たに習得した必殺技は闘いに変化をもたらすでしょう。本作では「M.バイソン」「バルログ」「サガット」「ベガ」の4人がプレイヤーキャラクターとして使用できます。「TURBO」モードではゲームスピードを5段階から選択でき、スピーディーなゲーム展開を楽しむことができます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-07-20",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/57b8b0c0a3d4ba84e2eb8baf7908cdb6e9e2cd84b3e1facb29842ef62ea6c008.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0204e3c998317df4d025d088e9bdc19c6755985ff1501c3f828f67cdb166218b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a8fe2638ec81500def47e0ab586518d00f99ba453fc9260328c47e9467fb40db.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a0dbe4c96ad710224006a8af298cd48dc2cb0744f7695fefbdfa7297d57d2642.jpg",
+			"name": "ストリートファイターⅡ ターボ ハイパー ファイティング プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0f1c041a82ee094589192f781c03ad6475a70f8261fe59a07914a9fc91d71b40.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "71"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2dd5da3c7d98c4051926fd9f4fa6c3a98f73320c8d7f104220f8a7a075a75779.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "71"
+				}
+			]
+		}
+	]
+}

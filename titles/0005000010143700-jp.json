@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010143700",
+	"eshop_id": "20010000001869",
+	"product_code": "WUP-N-JBXJ",
+	"name": "聖剣伝説2",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 246,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/04c734494cbeeae86f0e73833c44eb1ea4f668c8f895cf6a1590a0ddc7764c26.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a0281d75de1fc6b5d7a3927194ed43eec36ae891ae5e04335a749b709c92a0ed.jpg",
+	"data_size": "41877644",
+	"description": "このソフトは、1993年に発売されたスーパーファミコン用のアクションRPGです。 伝説とされる聖剣を偶然引き抜いた主人公ランディは、仲間のプリムとポポイとともに、暴走したマナの力を封印するため、世界を巡る冒険の旅に出ます。敵との戦闘はリアルタイムかつシームレスな｢モーションバトルシステム｣で進行。特徴のある8つの武器を使い分けたり、魔法や必殺技を使い分けることで、戦闘を有利に進められます。画面を切り替えずにアイテムを使ったり武器を変えたりできる｢リングコマンド｣が、シリーズで初めて搭載された作品です。 ",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-06-26",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/c4a463609ce19b9ae9a04000979d216d70252834393a3f10382081dede91932e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/02ae31b10d21bc2d14f6163f2967ef40a73d6fe2de157379a5138ccd5baae7c1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/348575deadb380ee7648aedae7c0f9527de4019c6fba03630b1d953f6a683ae8.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/80dc8a6014f1d962b4a8f2da9fed61c6293bcae1ec98d166637af1f83bbd9929.jpg",
+			"name": "聖剣伝説2 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f1111e282da45e984d9a2ca025a287c6471b80fef004e979d97223d110bc5254.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "47"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a7f0154a9e93722d8e5c8d99599cd7c7353282129c4a0fb91dcd71868e395fdf.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "47"
+				}
+			]
+		}
+	]
+}

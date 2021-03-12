@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101AD500",
+		"eshop_id": "20010000014107",
+		"product_code": "WUP-N-PCRJ",
+		"name": "ソニック アドバンス 2",
+		"platform": 168,
+		"platform_device": "WUP",
+		"publisher": 231,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c20c2b08c8f1e0ddd8d33e7fda25dbc074eb8c63437d4702b7d23e3fc5da7deb.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/217a5b1ae6516b8d1e86c054255e74cbc86dfe5b2bf555a4da38be38e17f02fa.jpg",
+		"data_size": "75464844",
+		"description": "このソフトは、2002年に発売されたゲームボーイアドバンス用のアクションゲームです。 前作『ソニック アドバンス』からさらにスピード感が増したほか、マップは約6倍の広さへ大幅ボリュームアップしました。 各キャラクターにはオリジナルアクションを多数追加！ 新しい「トリックアクション」を使えば、行けなそうな場所に行けたり、取れそうもないリングに手が届いたりするかも……？ さらに、かわいい仕草が大人気の不思議な生き物「チャオ」を育てられる「チャオのプチガーデン」がバージョンアップ。新キャラクター「クリーム」と「チーズ」も加わって、ボリュームたっぷり、バラエティ豊かなジェットコースターアクションが楽しめます！",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-02-24",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/818f7aff1bc9d6424785e58e1780faf9d2f656117d5ea36eda98593971e59e88.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/0978ca4a24941d5c764d1d79ed34603b9a7ac386e1cad6cf9459597e506565e5.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/ca88ce8d4d708e8d11ec0003ddacddf2967296039d0dbb905bfdcb829a770983.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3873b9eb324165e79095fc57c4bb4939e4444cdfd3e984f52a0cf36ffc908696.jpg",
+				"name": "ソニック アドバンス 2 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/67127d96e383fe44735aa90ec4fc625e9cb98a8035b6842713c20a381d54c0ce.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "62"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f8704299466c800d5382ddd71b9b7d6aa0f78969bd87de380cba1ea7fa5b0ac5.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "62"
+					}
+				]
+			}
+		]
+	}
+}

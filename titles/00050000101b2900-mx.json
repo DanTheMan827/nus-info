@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101B2900",
+	"eshop_id": "20010000022309",
+	"product_code": "WUP-N-AFYE",
+	"name": "Dragon Fantasy: The Black Tome of Ice",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1381,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/259ae42266bd4c962f4a12d99909fbc195aaf1c2fda6b8850c70044b6d0bad86.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9ee15efcd56fe1c36155648c8abe9fc13c0d9994518fddfcc8ff30c0f400e7d7.jpg",
+	"data_size": "493748384",
+	"description": "Únete a Ogden y a los héroes de Westeria en el clásico juego de rol japonés Dragon Fantasy: The Black Tome of Ice, atravesando los páramos helados de Tundaria, participando en combates plagados de acción sin encuentros aleatorios y utilizando ataques con un AdE basada en el entorno y potentes movimientos. ¡Viaja en barco pirata y defiéndete de tus enemigos en apasionantes combates de barcos llenos de monstruos! Derrota a oleadas de demonios y a gigantescos enemigos finales que amenazan el mundo de Dragon Fantasy.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-05-26",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/6d17647d75daa92c6f68638d2c89b6e2417c4cc989f5161a737b3699fd8d8a2f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1f3c6b3d7e758bc8c45ce9ed83d2e099aa218d8d5b3a9d49b2a610bc998dec6b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0e4367ae1cb30f14c2dc4af9dabd2d4db1a264381be1a92ce14ba4549d27f647.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/55e05acf33ed862750792313342fee782d05519dc360dc23400ce9eb5230f3c3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5b7969d4621ad4a5bafdc1a909d29f1d4fccb52ce73620b045c31cd5131be4d3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d9c29d6cef3cd477b9964bca82746c1b899eeaaca8d606e350a06d10e7a01f0c.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fc08228c64a009dbebf9a8d18fa659e056e16996da3dbbcdaeca12bea6d61367.jpg",
+			"name": "Avance para lanzamiento Dragon Fantasy: The Black Tome of Ice",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7d1730ae8ed07a81312826e4b1a3c7b48be0522be87bd8dec9af474b38158dbb.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "86"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2816ffe88b49fabc735fbc517c4bb5f9e04d9d5ec9b9697bfe320c7a4e6ee03d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "86"
+				}
+			]
+		}
+	]
+}

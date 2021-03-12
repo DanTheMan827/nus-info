@@ -1,0 +1,54 @@
+{
+	"title_id": "0005000010110600",
+	"eshop_id": "20010000000242",
+	"product_code": "WUP-P-WASP",
+	"name": "Nano Assault Neo",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 235,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/84092be964bf17ec0574d6687c18f2d0880fdf7c153770e1272bfe82ecd1da25.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ff6e75fd59ec61b33bd8b313dfa47347c32074d949ab4ac7b29ab5c809fc29f7.jpg",
+	"data_size": "84443256",
+	"description": "Stop the deadly Nanostray virus from spreading in the nano cosmos. Traverse a breathtaking microscopic world. You are one against millions. Nano Assault Neo is an all-new unique twin-stick style shoot 'em up game for Wii U.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2012-11-30",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/c4620c4104c29c1f1451b88491f63f8fb50f55c25eae732a12da168013ec5bf7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/02cdf91e7b4d6c2a2b97a48fcfc6faa32f1a71c5344735d7c5514c1507ac880f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7a001958a6c31181913d5d34cc1ebf07812cbffc920d5bc0cb803fa696cb9a0b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/18fe5f3aa26371e677d49a7061ff8a84bff8b8a8e52b5841b76d855dafdec120.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/48e13f31a2d067f4a64f2b69909c5b18361f41ef27abd52f63fb01e4aaf51b47.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/02aa23f21a40d43741ce6ee0875ff92e761c0a8df6bd1f0a913f4356c852bbd2.jpg",
+			"name": "Nano Assault Neo: Vídeo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b0243a3177f21445671855a0f27358d2c7c44bd87c610f2482b5430d79f6c80e.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "63"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/63302075c45ab900012f595a4c5c3c606fa91e3e29839245d6707323860823c9.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "63"
+				}
+			]
+		}
+	]
+}

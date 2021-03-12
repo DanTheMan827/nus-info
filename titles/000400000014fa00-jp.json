@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000014FA00",
+	"eshop_id": "50010000026096",
+	"product_code": "CTR-N-BS8J",
+	"name": "クッキングママ :わたしのスイーツショップ",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 414,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/65899b8e8989813fab49765043260eec14a1118cf666aafcd22807c9d70e21a5.jpg",
+	"data_size": "181287828",
+	"description": "『クッキングママ:わたしのスイーツショップ』は、かわいいスイーツを作って楽しむことができるお料理ゲームです。作ったスイーツは自分のお店にならべることができます。自分のスイーツでたくさんのお客さんを笑顔にして、お店遊びまで楽しむことができます。 今回のクッキングママは、女の子が大好きなスイーツをかんたん操作で遊べるお調理ゲームで、だれでもお手軽に作って楽しむことができます。 作れるスイーツの多くが、自分の好みで自由にデザインできるので、同じスイーツでも何度も作って楽しむことができます。 また、作ったスイーツは、ゲーム内で撮影し保存しておくことができます。保存画像にはシールなどのデコパーツを貼って飾ることができるので、お気に入りの一枚を作って楽しむこともできます。またスイーツは作るだけでなく、自分のお店にならべることができます。お店にはスイーツを買いにお客さんがやってくるので、作ったスイーツをお客さんにわたして笑顔にしてあげましょう。 お店遊びは難しい操作やルールは一切なく、新しいスイーツを作ってならべるたびに大きくなってゆくので、スイーツ作りを楽しむ流れでお店遊びも楽しむことができます。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2014-11-06",
+			"retail": "2014-11-06"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/74fe0ead096d41af7229b86c61a84d576408964fa2db826b3a5ddb1e25ef38ac.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/87c902d58349f1f804dd98950aebd34cebb2fd0605ff5fa9148c9461dc34fefc.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/4778395a7b55c15774dfe2d09f23311da1c9a8b4b1793da060460498e996577c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/62056fb76e2f953a1feb83c09d789456f0eedb59397eed620f5434a6359f5e4e.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3bc5168adcb07a39f790ad3698cd7dcac5d7094c204e915726ad18614fa4607d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/fe8a34bfa99a2802e1072a2d18d9a5a83a6fc1c42a638f0e488791e6fc439a0e.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b18fd7f124e52e1bcdfb89635744001d006a62f30dde6b421b286c01706f5850.jpg",
+			"name": "クッキングママ:わたしのスイーツ ショップ 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6e413d51f61c2667b7104bed030c91546f800da8c0ae9974c20353ca1162bb16.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "180"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f69559969e78bdc87938a050d61033ef4ca21b94f6aa7388c085c64ac3af55e1.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "180"
+				}
+			]
+		}
+	]
+}

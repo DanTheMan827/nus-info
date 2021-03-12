@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010141900",
+		"eshop_id": "20010000006009",
+		"product_code": "WUP-N-JBUJ",
+		"name": "ファイナルファイト タフ",
+		"platform": 164,
+		"platform_device": "WUP",
+		"publisher": 39,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ef6fbdacc8ade14a6a61b4782a337af4ae309cc69f01429d44bc1aa5997ae63e.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/72c671a807c53ab3c0d0e8bd0126eb6d2f4db481af31bb98df157fe3b9f98f30.jpg",
+		"data_size": "42336396",
+		"description": "このソフトは、1995年に発売されたスーパーファミコン用のアクションゲームです。 メトロシティで暴れているマッドギアの元下部組織「スカルクロス」を壊滅させるため、「ガイ」「ハガー」「ルシア」「ディーン」の4人のファイターが立ち上がります。 各キャラクターは、基本となるアクション以外にも独自の得意技を持っており、多彩な攻撃で敵と戦います。中でも「スーパーメガクラッシュ」は敵に大ダメージを与えることができ、使えば強敵との戦いが有利になるでしょう。本作は2人同時プレイが可能で、1人でもコンピュータが操作するキャラクターと協力して遊ぶことができます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-10-29",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/98866b0f1ba889d1aa18cce7e030d43126181f6e797160f512cc49d29a7af149.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/b6897ddbb6c32530f652812ffa6cf2d73630a06d6867989358f9fb09d1a143a6.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/43e39f41822400113f84e829100c70bbc3d25aa8f4cd4ab73ac46f72b9d25b72.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/eaa4f9aba45d6a58db7fe782f122502724b30dd103b6016348b90849294c8903.jpg",
+				"name": "ファイナルファイト タフ プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/750cf7ee796bbe89059797d84630aabc13702a3d8bf1db161d2212899ecd21c7.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/591402db11465d477dc240ed2ed31923cdcb4d68eb3fe110cc1eaa872b3bb4bb.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					}
+				]
+			}
+		]
+	}
+}

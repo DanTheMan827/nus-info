@@ -1,0 +1,79 @@
+{
+	"title_id": "000500001018A100",
+	"eshop_id": "20010000009526",
+	"product_code": "WUP-N-WGDE",
+	"name": "Teslagrad",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1408,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cf2357029a8eec54ec2a727d4c3d3ace17c722df8894b2ffc52b02d52f7dec6b.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8b7b7f64512052c4fb4f2675e869e82ce81aa7fe70722520453b49182687c819.jpg",
+	"data_size": "1098186952",
+	"description": "Teslagrad es un juego en 2D de plataformas y puzles con elementos de acción, en el cual el magnetismo y otros poderes electromagnéticos son claves para avanzar a lo largo del juego. Descubre los secretos que aguardan en la Torre de Tesla, abandonada por largo tiempo. Gana nuevas habilidades para explorar un mundo no-lineal con más de 100 hermosos entornos dibujados a mano, que conforman la reinterpretación de una vieja Europa distópica con tintes steampunk. Juega como un chiquillo que se ve envuelto sin quererlo en una conspiración olvidada, y descubre el destino que te aguarda como el último entre los Teslamantes. Lánzate a una aventura narrada sin palabras, escribiendo tu propio capítulo. Armado con la vetusta tecnología Teslamante e impulsado por tu propia ingenuidad y creatividad, tu camino yace a través de la decrépita Torre de Tesla y más allá.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-09-11",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/1e61828ec58126c9b30e16cccbb730f6c5f2e7fba77b6149428f5950cef9f3c8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/21e2721c7433b9654d4aa328d1c3051f378b9a26d75579dc8b3f45e8d432fe0e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/905d9840b98ed5dcd22648463a4afb0b7059358cf7b0b821968827099cef1ef6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1bb3109cd1cc738448264fb26ea1778c8038382bfeb7485b367cb5c29c593ceb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/cc88e204a89bb4c5036e2348a89c462d6b4fed81f401530e9708bd247712e4e1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2cd6f455af1588a8268f180ab1557668a062e383799cf9e86254e53fb161660f.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1c0862aa6b26056d27c41a3f0e39938c7a3c3caa1d7df08a3558e29b7a3e48b9.jpg",
+			"name": "Avance para lanzamiento Teslagrad - Mood",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/de69e19161a72d378611f9437a499c7f5cc98bf1e45187a53b8f51ddfec0fed2.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "80"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/93fc5e73ee41297b3f0e74d68dfe422fa0bc805a9d7de790731637e8ccd7d73d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "80"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c7f881dd545b71a06c6b608fed9e6b9f23fab9b70fd620a3b45330d847c2b0b9.jpg",
+			"name": "Avance para lanzamiento Teslagrad",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0c3bd7f24ed11bff78460d257c0be2f29549f5530d16bed74f2c3bba5709d514.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "97"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a600478a400a7a180178f8d34c738519eaa9d5f7e75ed5629cf25dc59e6a658b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "97"
+				}
+			]
+		}
+	]
+}

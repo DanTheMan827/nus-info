@@ -1,0 +1,87 @@
+{
+	"JP": {
+		"title_id": "00040000000FB800",
+		"eshop_id": "50010000018714",
+		"product_code": "CTR-N-JSZJ",
+		"name": "SWORDS & DARKNESS",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 19,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9ae3720a82331f8cc89fc22d7b9dc1dcf363c804a3235e627bebc19bd8dda1d0.jpg",
+		"data_size": "76061540",
+		"description": "『ソード･アンド･ダークネス』は簡単な操作で多彩なアクションが楽しめる2DアクションRPGです。 多彩な通常攻撃に加え必殺技を覚えることでアクションを増やすことができます。 またアイテムスロットに所持品を装備すれば、戦闘中にも回復薬やナイフなどをシームレスに使うことができます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-12-18",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a138e1bf297695a19de42bd27aecb013556bae715ca22b59fc45a11349a919de.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8a2c2384f9be7b6a977e739572733c829b5446a85bba5999679531fa433c0a29.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6849e9f72a9f358f224acfd0c521556baf4e9c24efe0ac0381be85b71c229f39.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/bf99539a9464d879f1b10f810b223ec6935455bb1087c9f02f512d104943a8a6.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/fe380b74ffeba94d23ea6cf342b48c9a5291ecab106992bedf1dfe06222f80fa.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5486f825a28184e387156bf6620d06863e3475663af8ddea1538b45dfb732b62.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5da1b1bb543c4076e8bda615332421d5f4a0ca9ff6b412680da2843dfe2ece84.jpg",
+				"name": "SWORDS & DARKNESS 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3a191ee4b6cf7ec89781c37425a62b107410fe1877a7ba53dc103ad2f672f40e.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "142"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d7503a7eb73c30f7db0223d79ed9230f65a833f141cf3658d0d73e3c144a4b85.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "142"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/32f86adff2528786d521ae8dbb3ddf9a09d61f70d367d4f99fd5c89a45df6a12.jpg",
+				"name": "SWORDS & DARKNESS プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/541776a219645069b52f60130e88bf237330bea217a5963166d21bb11826f07d.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "44"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8c7937a02047bca7dd1832bdfeccd421a24630faf67ac33e2029fafb31e372a4.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "44"
+					}
+				]
+			}
+		]
+	}
+}

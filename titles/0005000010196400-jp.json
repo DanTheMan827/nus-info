@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010196400",
+	"eshop_id": "20010000011548",
+	"product_code": "WUP-N-FEJJ",
+	"name": "スターラスター",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 27,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a259a33d78e58e6c73a720d0b833812a83b99878cfff8c9d3722024daa50b505.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/1f2abd5f679dde7f04ed99f3da83b36338ca60e7349fbe4a49481b88398e4a55.jpg",
+	"data_size": "38830240",
+	"description": "このソフトは、1985年に発売されたファミリーコンピュータ用のシューティングゲームです。 ビックバン(宇宙の始まりの状態)を起こそうとする侵略者「バッツーラ」を、高機動戦闘機「ガイア」で迎え撃ちます。味方の基地や星を守りながら、勝利条件の達成をめざしましょう。 「マップモード」でさまざまな場所にワープして、「コンバットモード」で敵と戦ったり、基地を訪れて補給を行ってください。ゲーム内の時間は自動的に進み、敵もマップモード上で移動して基地や星を攻撃してくるので気をつけましょう。 「COMMAND」と「ADVENTURE」では、基地を訪れて「ロックオン」すると自機をパワーアップできます。また、「ADVENTURE」で暗黒惑星を見つけるためには、特定の条件を満たしてそれぞれの星を訪れ、ロックオンする必要があります。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-11-04",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/427a4d80ac89df4a01feaa442492028b69e685783ef55b4de9e7df06db29d7b2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/66e24c0449af1c23fb0bbb44b9a222f517bbda2f701d0e6a01367a2762ec7bed.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/24e58804c7211cd7b36e92f8a729753c01c5f3c2d5726a37d1eb5f25fa30fcc8.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b755396d790d54ade59a58fa154c3c70b994dcbce2d6c18b9558ff26bc81d9c8.jpg",
+			"name": "スターラスター プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b263d7de7cebfb7152e619d69bfd98046dd4468e3a7e0fc206a8b83f631d8799.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "72"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4f2a83aef640bca961a2544da6f37c7f6b923ba9e16ff5889be417f35c21f193.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "72"
+				}
+			]
+		}
+	]
+}

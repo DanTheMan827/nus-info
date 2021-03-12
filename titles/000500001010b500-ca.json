@@ -1,0 +1,76 @@
+{
+	"title_id": "000500001010B500",
+	"eshop_id": "20010000000066",
+	"product_code": "WUP-P-ATRE",
+	"name": "TRANSFORMERS PRIME™",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 7,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4b758561ad69d0b32dc28b74ea1133d7515a82da03272fe4e8a574d30c61c063.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/38cfd32189ae0d758818ff0d881334e21b9992ca8f36be2a6e7ff73985375f3e.jpg",
+	"data_size": "2158493976",
+	"description": "Help OPTIMUS PRIME and the AUTOBOTS join forces with human friends Jack, Miko and Raf to save the Earth from MEGATRON and his new secret weapon. Play as one of your favorite AUTOBOT characters including BUMBLEBEE and BULKHEAD as you battle through unique vistas around the world to help defeat the DECEPTICONS. Continue the battle against your friends in Multiplayer Mode with 11 playable characters. TRANSFORMERS PRIME is a third-person action-brawler with a mix of shooting, driving and melee combat. Change form and power up each AUTOBOT as you battle against the DECEPTICONS.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2014-12-02",
+			"retail": "2012-11-18"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/63d3e4ccc32fa41a8e1e110b62d1314813dc13643555a6b7124c75e7bea0337c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d0b836157c36592b27c8c05a0377ad04751bb47889f472e5a8ff4bb236dc88e5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7e4765315680ce3abab66dbfa22ec5aa8201973276362e3ca4e5ef6a6e415864.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/642958e4c973d5e243f46453dbb0c66f9e4ba16c131bb18b6c0ac8dd39a92f22.jpg",
+			"name": "TRANSFORMERS PRIME™ Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0749a6d3b1cac1ac1e7e390411058792d5f40e5e08a710deefc7772e6c310234.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9b4da77cfc3230eeb2d7ea0efd909f946e8a357b897f26636e3faafde392422b.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b34d7c2844db61f77be480699faeb5bca76cc9d1251ea2cd288c01fbbeea053d.jpg",
+			"name": "TRANSFORMERS PRIME™ Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b141ec4aec76bd6ed6914adf8b6e0ff83b8e75b4c5abedac487702bb1ea851ce.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "59"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9e07f9b73cbf73dc7d0ee669d3c789fb6bbf3eacbf06145aaa1926e1144e92dc.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "59"
+				}
+			]
+		}
+	]
+}

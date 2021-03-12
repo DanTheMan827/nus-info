@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010152200",
+	"eshop_id": "20010000004105",
+	"product_code": "WUP-N-WEDE",
+	"name": "EDGE ",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 277,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/81a57eb110eed53bdba24e4a03cf68b4c08da55a736b9eb21a9747f611a0f954.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/fc0d441d146a1a72de914dd3208258319275c4271c7116b41eba704ff9344e34.jpg",
+	"data_size": "140017784",
+	"description": "EDGE es el segundo de los tres clásicos de Two Tribes que llegan a Nintendo eShop. Los otros dos juegos de esta colección son el rompecabezas de plataformas en 2D Toki Tori y el rompecabezas en 3D RUSH. En EDGE, el galardonado juego de plataformas de inspiración retro, el jugador toma el mando de un cubo que tendrá que hacer rodar por las docenas de niveles del juego. Busca todos los prismas, encuentra los atajos para mejorar tus tiempos. Plataformas de estilo retro. Banda sonora inspirada en los clásicos de 8 bits. Más de 100 niveles (originales, de bonificación y extendidos). Rendimiento de 60 cuadros por segundo en 1080p.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-11-21",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/4dd97398ceb6c45d0670aed44cea120a05507ca2afbee887eeac6d4cd8c91a51.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f29595436e9be7db45cff9d7c45e4844959a5c5abfe6af2b7de15e6cfa890915.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/27d903ef498e1f360d9373dd91eb09a4df4c7fea35874f9d0e733af254442291.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ebe5f2e766379250410439aaba9f91953174999431158fbdc85f86817e3f641b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4b9ecac78ffb9bd31758592e777664516801eb3a2ed45005d4e1daaccbe3b31c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c943201b2795c2e0be2c376d5864fc3471813696e57406b104bdb74f69ffe28d.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/62ffa58f846d9e9a6e8e219f4b5f61b88854820a9f06943a4d2807a87110bea4.jpg",
+			"name": "Avance para lanzamiento EDGE",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0b9940f681fa66246e889c03b177ca66e6ade681548febc6fb5554311ea9bec2.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/132b79ebc7a5bf580f9cab8d8812765704c57e714ccf5ff1ee71bddd0e1162cb.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010130600",
+	"eshop_id": "20010000006007",
+	"product_code": "WUP-N-JA8J",
+	"name": "ファイナルファイト",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 39,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bc68d741d862e28801e2b53e95aa944d334cedeb746df0d3ec66878ca172e6c2.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/1a487162a9218f44eed9923d8c9c098584413885613116e43d04458bf38dc96b.jpg",
+	"data_size": "41058444",
+	"description": "このソフトは、1990年に発売されたスーパーファミコン用のアクションゲームです。 犯罪都市メトロシティの市長ハガーは、正義をもたらすため暴力集団「マッドギア」に圧力をかけますが、その報復として娘のジェシカが誘拐されてしまいます。ハガーはジェシカの恋人コーディーとともにジェシカ救出に向かいます。 2つのボタンと十字ボタンの組み合わせによって、多彩な技が繰り出せます。多数の敵に囲まれないために敵を片側にまとめてしまえば、効率よく戦うことができます。ステージに置いてあるドラム缶などを壊すと、武器や食べ物などさまざまなアイテムが出現します。うまく使って有利に戦いを進めてください。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-08-06",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/ba4c0bfd968859013c06e7294a53080f59897b72d7f121beb508eed663bcb176.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b628be5c266142890d18443f8341cffb1933ec6876f4b36418193573584425b7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0a4109b1e9d2c90716b0965cf9f71dcd549d2fed80938b9817867dece4e58bdc.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ebced83e86874571c043557177b9697c18c8bdcbe98d1ed03a85d17d6aa49eac.jpg",
+			"name": "ファイナルファイト プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ab7470459265c081380755f8d074685a7942b6f93463dba3cf332a2ccff8e0e4.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/874fbae459104eaea54ef5ee4b43690845bf39da7957f9a471289c2747f43480.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				}
+			]
+		}
+	]
+}

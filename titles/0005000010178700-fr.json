@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010178700",
+	"eshop_id": "20010000010036",
+	"product_code": "WUP-N-JCUP",
+	"name": "Natsume Championship Wrestling™",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 179,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/91d601fd5d22731c00ae1a1b5aec2a6c36decb1ba58179b2569858eb51187557.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6337b68a87accc785cf33bb1f16426be4bcd99343415937e235fce6a8b2774a1.jpg",
+	"data_size": "43450528",
+	"description": "Préparez-vous à affronter 12 catcheurs délirants et mettez-les K.O. ! Déployez l'incroyable puissance d'Asteroid, les frappes-lumière de Viper, les attaques sournoises de Phantom et bien d'autres rois du ring ! Grâce à son système de prise robuste et avec plus de 50 mouvements à maîtriser, Natsume Championship Wrestling vous livre le catch le plus profond et le plus réaliste de l'ère 16-bit ! Testez votre puissance contre une IA rusée ou affrontez jusqu'à 4 joueurs dans les modes amical, en équipe et round robin. Si vous possédez ce titre sur votre Wii, faites un transfert Wii™ vers votre Wii U™ afin d'obtenir la version améliorée à un prix spécial ! Ceci est la version américaine du jeu.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-11-20",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/d2d406b1885f880efd866fb3dcf27469aa31c25d6f1d025bc593e4bb927e03e9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/535a4ea8f933c1190e5a83a2906952a0d4c0fbed3b931a3ee5cad488ece3f158.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/aea1e3f3937d19c09988d3c01e1a70a91a67234336f1e7543a3ee921e66c85b4.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/46ec8f91ee930687904703af9a295d276a6ff56ae159c23d979d6cfc708a1ede.jpg",
+			"name": "Natsume Championship Wrestling™ : vidéo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f222427a4293ca086f51c146f17763fc3f64cd2e03329de28918312b3c16b4e2.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "61"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/60e22b5ff9152eff51261f7a9fac8f87b62c3ee16586f2c1e55d9208c5400fe9.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "61"
+				}
+			]
+		}
+	]
+}

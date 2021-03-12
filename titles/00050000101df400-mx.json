@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101DF400",
+	"eshop_id": "20010000021053",
+	"product_code": "WUP-N-APKE",
+	"name": "Pokkén Tournament™",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e7c4a338397fce27d548fbea421cc3e51339d44ab66de9212b6709b8ed13af65.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/758de3e0d15915853ef702249f8da375f8ec9b27b5080f8afafb402f40bdeffb.jpg",
+	"data_size": "3759571364",
+	"description": "Combate Pokémon como nunca antes en nuevas arenas de combate llenas de acción. Gracias al intuitivo sistema de combate podrás devastar a tus oponentes con increíbles combinaciones de botones que te harán el campeón del más esperado torneo Pokémon. Aprende diversos estilos de combate Pokémon como el de Pikachu, Charizard, Lucario, y muchos Pokémon más. Cualquier fanático de Pokémon podrá aprender y ejecutar clásicos ataques Pokémon con tan solo oprimir un botón. Da un giro al combate y llama a más Pokémon para desatar una racha de devastadores ataques que noquearán al oponente. Emocionantes batallas te esperan para llegar a ser el inigualable campeón del más esperado torneo Pokémon.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2016-03-18",
+			"retail": "2016-03-18"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/15133c13906b1efefdc446950bf70144316ac8ec155f13b676f8cbb3817cb191.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/19d89df1a6a448a3f5cb2e57377d688b8824a31e765d104667ea51b34ea6928f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c1be0ab5b54a39c060dedd4f9070fb84fb9ac8fb737a5f21bfd4c0c0396b7008.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ce8146998a6a658a823f65352b44808c2397d49a497eb53f7665523f61eb251c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f1b2bdaea46665b2337fdc8bbdec3903181c592f19eab912a5223e75e4b6deb1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f8df0efe72d980951ab740dec7a1696c398fee2f86b2dc1ce4e3c17f13e23ff7.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4e49df403d8afec41a21ade0a89acf607f82a7c661ff2b9cc574fecd406779f6.jpg",
+			"name": "Pokkén Tournament™ TV Spot",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/39ca9d953d96a2b9170decb5e1b345961050aa7cffeb072b5d6f42af9b241eb5.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ea9933a4a1a38cf80d350eeab6b6292f9cc50d2e8b0698ace0455c2ba05bed86.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				}
+			]
+		}
+	]
+}

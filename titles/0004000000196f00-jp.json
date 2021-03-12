@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000196F00",
+	"eshop_id": "50010000042835",
+	"product_code": "CTR-N-JHUA",
+	"name": "カービィのすいこみ大作戦",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/2d54ac65cc5df69d58293eb1211ae910216f6aef01fa00ecd084600e1009c895.jpg",
+	"data_size": "97995620",
+	"description": "自由自在に動き回れる3D空間のステージを舞台に、カービィを操作して次々と現れる敵をすいこみ、「星型弾」で倒していくスクロール型の3Dアクションゲームです。 敵をまとめてすいこむと、体の大きな「まんぷくカービィ」になります。強力な「かんつう星型弾」を放つことができるので、敵をまとめてやっつけてコンボを狙い、ハイスコアを目指しましょう。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-07-04",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8da7e53021208c2d848e9ab4e52a2dd8fd71a5b57db2ae72383cd98d7d4ff98e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/82df86d0017db2bf130b780118d5dcfb5a07df7c7d599a9c21b0a60ca83d08ff.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d8eb85db2456f32bc349b1c7b30aa676cfe2c5cc409e36746e213f700c10bb7a.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d73bc00bc464928797a175fcc4a1849e8f0cdc0963275504ec38366ad57cf87c.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/54ef18ffb2a55248c6c428ac701b6fbf39d27df052a4aba1d724e2a383577681.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0f4a40c3f15107c98aa4d65ad1af713a55a78da9ee544487d26ecd3865710e9e.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/69487e626de42c06202a2acf9814b1dc35c441b6f9d81fedf90b6e32502cd249.jpg",
+			"name": "カービィのすいこみ大作戦 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/035e3d4f96556dd1f8b5b7158fcadfd6d97060cf997f2c9912e426e4e820c0d9.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "176"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/84dd597247d75f81d0e3d218d65af8cce8e23e5997a33f3e3f08c0232907fa4a.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "176"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001018E600",
+		"eshop_id": "20010000011910",
+		"product_code": "WUP-N-PBTJ",
+		"name": "ロックマン&フォルテ",
+		"platform": 168,
+		"platform_device": "WUP",
+		"publisher": 39,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4114f0089fcb49186180b031c6be91a8235f5ebb08eed1eae0ffd729fb31fff8.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/2f99e993ff403a6b8ea44e097c011dd99ee9c973a6d3657fbeadfe7dc1e959fd.jpg",
+		"data_size": "73367692",
+		"description": "このソフトは、2002年に発売されたゲームボーイアドバンス用のアクションゲームです。 ロックマンとの戦いに敗れ、基地の爆発に巻き込まれて行方不明になっていたDr.ワイリーの消息が発見された。 再び世界征服の野望を実現するために新しい城を建造していたのだ。 そのワイリー城が何者かに占拠され、Dr.ワイリーは自力で城を脱出し、Dr.ライト研究所に保護された。 ワイリー城を占拠した首謀者は、世界征服をたくらむキングと名乗るロボットで、博物館からロボットのデータを盗み出し、みずからの軍団を編成した。 Dr.ワイリーは一時的にライト博士に協力することを約束し、ロックマンとフォルテは調査に向かったのだが……。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-02-18",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/d8224a52b9a3a8e3cc494a56039199576848f33799caba47abf8654d28b0ad6c.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/bfeadd8e12edd344aed862823354a7af946be4820f146ee01b3d01aeeea8d9c5.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/76d696becd6a80708cd73998e769cc1aafc78023677f3794c69b3fe89ef52bb1.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/11b0636a965b5fbe5caa38ed93d77c25e7e3c0af5edeee6f7c62b762af2c4d44.jpg",
+				"name": "ロックマン&フォルテ プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bdd439e316154b66af1ed4609c729b1486addb73860a982fdb6fad565b618498.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2421da4aa40c6fdfa80aa5190ae1803be79425da53831659c4f0b4a4c0702660.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010137300",
+		"eshop_id": "20010000002071",
+		"product_code": "WUP-N-JBHJ",
+		"name": "はじまりの森",
+		"platform": 164,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a6fb2568ffd1c82740a4b145e0bcda07643b76d755981e32a2aa15154fbe18ad.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/38cb24122cebeb612bf6b033455e57fc0e157ab537087848cc71c38317310489.jpg",
+		"data_size": "43253900",
+		"description": "このソフトは、1999年にスーパーファミコンのカセット書き換えシステム「ニンテンドウパワー」より発売されたアドベンチャーゲームです。 夏休みにおじいちゃんが住む村を訪れた少年「ぼく(主人公)」は、そこで不思議な少女に出会います。誰も知らないという少女を探す過程で、「ぼく」は村の人たちと交流して成長していきます。メンコや魚とりなど、懐かしい遊びのミニゲームも用意されています。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-08-21",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/610da989d49bc252f7a86a0262db29d07f62ebbe26cd79a259a6fa57ca6c264f.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/820ffc0e25ebf18150d02559cfdf6a9d0c43388d2f6660df8e629b86bec29434.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/4b96ae13a64a452bd6513ec92f49a2f27dc46b914185f9c6afdf5f171e3c6802.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c31f91f50922248fc1f3e9da44a5c1a845d83c3cee2f2f2c73171fccd702e0f8.jpg",
+				"name": "はじまりの森 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f6556aa447311faabeea3b8a65d3482edddde8849c81d2e1cbed7759371e4002.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d1ec5dcec651a69149a575a98f6d0868b9fb7a0fc2b84b094df4a43dbbe8486b.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					}
+				]
+			}
+		]
+	}
+}

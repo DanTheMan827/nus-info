@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101CC400",
+	"eshop_id": "20010000021051",
+	"product_code": "WUP-N-DAWP",
+	"name": "Pokémon™ Ranger",
+	"platform": 169,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/24005428c927fe6f1f27b79bbdc2d16d962dc24b5bf92487e08e65c48257e38d.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/28e15596f4f04bc8a7cb736ce36bbde56efc7c4e9dda260a42a9414c7561af13.jpg",
+	"data_size": "58491000",
+	"description": "Pokémon Ranger est un jeu Pokémon d'un genre conçu tout spécialement pour la Nintendo DS. Au lieu d'incarner un Dresseur de Pokémon, vous êtes un ranger chargé de protéger les Pokémon dans leur habitat naturel. La méthode de capture de Pokémon a également été totalement revisitée : vous devez maintenant utiliser un Capstick pour attraper les Pokémon en traçant rapidement des cercles autour des Pokémon convoîtés à l'aide du stylet. - Incarnez un(e) Ranger, préservant la nature et protégeant les Pokémon de la région de Fiore - Utilisez les spécialités et pouvoirs de chaque Pokémon pour vous débarrasser des obstacles et pour capturer d'autres Pokémon plus facilement - Capturez et interagissez avec plus de 200 de vos Pokémon favoris et remplissez votre Navigateur de capture ＊ À l'exception du mode en ligne et des fonctionnalités d'extension, ce logiciel est une reproduction sur Wii U™ du contenu du jeu original. Veuillez noter qu'il est impossible d'utiliser ce jeu en connexion avec d'autres titres Nintendo 3DS™ ou DS™.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-02-25",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/7acd50b3a0753e0376566e2d09ab728313a773cd1ff1c82eb2d1a9c88f371d88.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/fd0fccf15ee69c20afe63aa459213ab2adf4025fe0ccdf8822df48b9e16a4016.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1064716472b66b7e818a0972f8662377d6e097c46768bfa0a7a3d517f7d3fc4d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8ad27b54dc70d8f09f4281b95604e76e4510b31d93b1ebd3b7fb13020f4e3afd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a32adc242eb5cdfbcf6817e1b71766d2727fba4cc5f8691f8645cec2767d88f3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6f0acc38f9efd24a10d221167fd9b29930c31f2c5700788af01740727eddbfd1.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/59212b51f093d3b208419c2ecf747decc25fe44a709e97d5169aedd2643688b0.jpg",
+			"name": "Pokémon™ Ranger : vidéo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/aa352c693ec5ef5331c107a2277da876bfc6d65b89f980ff83327d98e6ae00dd.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/487ffbdae4148603f9bbf6ac28233d7a9a522ed11251f61c3776dfbfd1752d95.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				}
+			]
+		}
+	]
+}

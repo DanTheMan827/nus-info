@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101EC600",
+	"eshop_id": "20010000021067",
+	"product_code": "WUP-P-BDFP",
+	"name": "Defense Dome",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1358,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c3e929491936303e241e17dfe91f01277a387d2ad1bbd9570d12acba32233bae.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/69ff439be94cd61d3bd94fc14d442598d11bae5771748b6f12af28f664dde2ab.jpg",
+	"data_size": "75235488",
+	"description": "Defense Dome es un retroceso a los tiradores estilo arcade clásicos de la década de 1990. Apuntar una embestida de los misiles enemigos usando el Wii U™ GamePad como un ámbito con zoom, controlado por el giroscopio, y lanzar contramedidas para defender a su nación. La pantalla del TV proporciona la vista toda el horizonte y todos los misiles enemigos en el campo de juego. También muestra un rectángulo de movimiento, que representa lo que actualmente muestra el Wii U™ GamePad. La pantalla del Wii U™ GamePad demuestra el actual campo de vista de la Cúpula de la Defensa (Defense Dome). Esta pantalla contiene también una cruz y un velocímetro digital (HUD).",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-02-25",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/a55f2a01050f9467a884f821fe96c36edcdcf6e97369098663d6c0941c8c042f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c0722ba25c9d01ddfa0cae438e8ecc83ae18e4cf9c8e384728d8d21db7555254.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/256f59a3dcc203c694948d0eff1c4bf0520a8a587d00ed16fdb416ab14bc9561.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5b04e0e15e95854aa84efe4aa370bc0f4a71c2a863453a5bce8166197a1be14b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/77c4835cf99cbcccca7ff2cff5e87a409f3fce734ef66f3a74be058dc9a56ddc.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/273f3c6fabcfd3c2888e01aa3da8440ec5206e9135af7b2dce40e52f33937b84.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1180e6477b1f85fde10d1c7dd8f9f1754b1affb07f74824797baf824ceee4794.jpg",
+			"name": "Defense Dome: Vídeo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/658702641fb6143bc4449f54b1010d6749c1827e186929216bab4d76e85e7997.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "51"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/08b043b0a24e1935ddd8c68528ddcaac10caa6631ba70b6cb14d2217728baef2.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				}
+			]
+		}
+	]
+}

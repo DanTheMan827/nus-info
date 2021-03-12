@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101C3800",
+	"eshop_id": "20010000020047",
+	"product_code": "WUP-N-DATP",
+	"name": "The Legend of Zelda™: Phantom Hourglass",
+	"platform": 169,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1d21e6f10a99fab22f038e95899ba1558bddf0566eb3536789c069f6d966f2c5.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5a0af9201640638ce0c9c9800908c7fc24c1f9e38890094283848d49f040a07c.jpg",
+	"data_size": "94863480",
+	"description": "In The Legend of Zelda™: Phantom Hourglass, hit sequel to The Wind Waker, Tetra is whisked away on a ghost ship, leaving Link to scour the seas to rescue her. Featuring the cel-shaded style of its predecessor but simple yet effective touch screen controls, you can move and battle with just a few swipes of the stylus, and trace a line to throw your boomerang. You can also scribble notes and clues as you progress. Set sail for adventure in The Legend of Zelda: Phantom Hourglass!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-11-13",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/f453dfad1f9641c8390e482c0241f4e97ae9481f7cd0c5d147e1212d8e80979b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d1bfb85f30385324e6535e7ece32145b3bcaba61fc92587150865069a65c9d14.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c2b3c6462ea95dddd9279f4c55de386488a1a815b49ac0743ddb5a5066c32fdd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4e05700dd84da64508036c26ed05e06192b16109acaa0dd86fde24aafd6299a5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5ada1b7897a04c80c862edb7f9d96cec005b04f50ec9735ab961287be3adfc78.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c518ec96d9a2a20bc8541b7209d06540ed675835a21d08ecd21c142dce98642e.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/91ed6802c36a45c0d2f3335e164c4e4fe88ce8132edc29f5dfcfab1bcd63343b.jpg",
+			"name": "The Legend of Zelda™: Phantom Hourglass: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fec8ec8fac038f94c0daa57b08a73102952704631ccf340e9d8446a98ef183c3.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "70"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b7da4b0351b0d4d0d091e6c993d27fda1c2256da9bb92cef571609f3997647e4.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "70"
+				}
+			]
+		}
+	]
+}

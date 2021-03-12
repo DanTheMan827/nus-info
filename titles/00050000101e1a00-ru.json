@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101E1A00",
+	"eshop_id": "20010000020287",
+	"product_code": "WUP-P-AHMP",
+	"name": "Human Resource Machine",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1022,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/02120df3daf6f97eddb02d959f8b23b987c747f5f67950c17a151fcf2257a0cd.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0f434b5310df0346ccfc7e3afb5887e1ab49100b47a08f4f1b24de1b84445315.jpg",
+	"data_size": "111018124",
+	"description": "клерка. Если Вы преуспеете в этом, то Вас ждёт подъём на карьерной лестнице для ещё одного года работы в обширном офисном здании. Поздравляем! Не волнуйтесь, если никогда до этого не имели дела с программированием - это всё равно что решать головоломки. Если убрать все нолики, единицы и страшные фигурные скобки, то программирование окажется простым, логичным, прекрасным, весёлым и доступным для понимания каждому! Возможно, Вы уже эксперт в программировании? В таком случае мы создали дополнительные испытания специально для Вас! От создателя World of Goo и команды, стоящей за Little Inferno. Веселитесь! Руководство не дремлет.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-12-03",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/f5109bca6a9c3d96da22d7083b550d9b0961dc48734906625573544264d9d73c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7b862fb31b3a3a6e48e16d67b558d8760f7a40ea17ef9a0b80b8f7bfc9d46513.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5d93885699ea5b7a98830aded611238de5da6f1809412a4fed7cd733790089e0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/588b881e63b9c31f5fa675d2702b452ac67e5f96f9036430cda87f9190bb202a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ae2464c780990d766b8c25705875f2adb8b3158287ade0a9e05f5dd41c583097.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a82d3afe1d904f4ef4c3ba762a68418b6ea98e0845ae95030420bef1183430da.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2fcf8a43789a6ee14015f758d46e77cdd96d67002724ec4efc8a388ff0b7aafe.jpg",
+			"name": "Human Resource Machine видео",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e0bf6787ddacd62c9531c4ca77e69a0681da427f857a1623aea7f937d5bab84e.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "59"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e0a2b2e55633c948cf9b2abfb32e74db991c366bf56441cb91d492d7a23a945f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "59"
+				}
+			]
+		}
+	]
+}

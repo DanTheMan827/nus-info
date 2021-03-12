@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010168100",
+		"eshop_id": "20010000004604",
+		"product_code": "WUP-N-MNAJ",
+		"name": "パロディウス ",
+		"platform": 167,
+		"platform_device": "WUP",
+		"publisher": 149,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/946476623d53312db8f3f6d83b0ac9bbd8dd61c243b1eb3acb5037229b303e9c.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3b5865f7bb23410a5f916b8df5f7cde938a875c81b0e84e07aeaf758854c11c6.jpg",
+		"data_size": "76513400",
+		"description": "このソフトは、1988年に発売されたMSX用のシューティングです。\"夢と希望のプログラマー\"であるタコが、地球に夢を取り戻すため、4人のスペースファイターとともに、敵である「バグ」退治に立ちあがる! 『パロディウス』シリーズの元祖にして、今なお評価の高い人気作。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-12-25",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/a897f674aa1b767ed4384f3f8f03240cde5f4a56da40c2879e019559220f4325.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/a359fd8ba93894d04e03aab32763774d6729833b2eae0c092b82dca638a493be.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/d694d560f3e041295a4074b675c852ee201c39982f44a03d01e56a375cb898f7.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b1949c7015651f794223697d22e6e5bd03b2a1eda821b5e94da9f6cf827b92dc.jpg",
+				"name": "パロディウス プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/540b0f8b956095e50fc776688387eaf099bb4a0ebaf0e92fe19d85f23697e470.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "45"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5857b021f5924f4d4ea8144078ebed3b28cc1ab24fcb4751afb7f77faffc5cb9.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "45"
+					}
+				]
+			}
+		]
+	}
+}

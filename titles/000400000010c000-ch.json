@@ -1,0 +1,109 @@
+{
+	"title_id": "000400000010C000",
+	"eshop_id": "50010000021213",
+	"product_code": "CTR-P-BALP",
+	"name": "Kirby™: Triple Deluxe",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b78a199ec4ec79a9f5556b28c33e829b06747f5086cb6f755e599b5a58b5e081.jpg",
+	"data_size": "631294868",
+	"description": "In Kirby: Triple Deluxe für die Systeme der Nintendo 3DS-Familie kannst du Kirby nicht nur seitwärts, sondern auch von vorne nach hinten springen lassen. Somit kann Kirby sowohl im Vordergrund als auch im Hintergrund neue Bereiche erkunden, Rätsel lösen oder Gegnern ausweichen. Aber Vorsicht ist geboten! Die Bösewichter lauern somit in allen Richtungen!",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2014-05-16",
+			"retail": "2014-05-16"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/55eb94ad08ba3156b7530a74593f15939258f2c9a268c3f7dcc71a00fdd23432.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/12cf0fb5045bcbf70c19fbba4a4c583140a971b28eb30551a0043bd5a9fc3c20.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6c58385622b8a20c079cf19e08da54d6ac40a98245579c490d1fc604d1b6249d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e91fd63a03798dc4900002e033aaff172c32476b577d1c28e71e1faaf1253907.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/9eedf70874a609b89604ee382548569c6f3bd24c2530dfdc9fa89321fc602336.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/519925f09ec8576ac93c5187bddb00fc67cd9878819a0e10396ce334a99d5d57.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1622aa4f1bd8026f254a1f99a82227ca1216e3a2ff662d0d307c1385ca2e1dfc.jpg",
+			"name": "Kirby™: Triple Deluxe: Trailer (13.02.2014)",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6ad99f4aea549798762104e75230b0a695a7431da211556143f972161e2fa3ab.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "71"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e086149943c7b730da4fd440d5b79216973be103c6e36b8aca236723e2b3bada.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "71"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1622aa4f1bd8026f254a1f99a82227ca1216e3a2ff662d0d307c1385ca2e1dfc.jpg",
+			"name": "Kirby™: Triple Deluxe: Hier kommt Kirby!",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9cc53eb93ebb015ec110dbb73338fb3eefe42b4951663e53d6fe86ff4107c358.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "119"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bb94fb0545481d3ee1a6f0d524ac2eb64d3bc82a65eee1150939f8e462cad4e5.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "119"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a48fdf3d4ede5acabee124a4b4832ec77ed37fb667643d4cc9d95be95fc38c5e.jpg",
+			"name": "Kirby für Nintendo 3DS: Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/be96fdf1b61069837695dc4ddae12d193811d5796ee2180e656036e3795b993d.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/071c37b1709763b1f6227f338aa2e871f8260772a9d8e578a48f7ee38ba2e1bd.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				}
+			]
+		}
+	]
+}

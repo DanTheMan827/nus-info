@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010190300",
+	"eshop_id": "20010000022527",
+	"product_code": "WUP-N-ABJJ",
+	"name": "マリオ＆ソニック AT リオオリンピック™",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3aa06b3eb39c0504342586c9b795b9fb3219baed96ac4ec6ffbdf546bef52c7a.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ec87c25ed84905d3d89293b73e400c81b997fe832d4f0801fcd791495dcf2530.jpg",
+	"data_size": "3018424680",
+	"description": "2016年夏にブラジルで開催されるリオデジャネイロオリンピックを舞台に、マリオやソニック、そしてその仲間たちがさまざまな競技に挑戦する、オリンピック公式スポーツゲームです。 「100ｍ走」や「アーチェリー」、「卓球」などの定番競技はもちろん、開催国のブラジルで人気の「サッカー」、7人制としては初のオリンピック競技となる新収録の「ラグビーセブンズ」など、さまざまな競技を最大4人まで一緒に遊べます。 また、正式競技にマリソニ独自の遊びをプラスした「バトル競技」や、自分のMiiで世界各国のプレイヤーと疑似対戦し、実際のオリンピックに参加しているような気分で楽しめるオリンピック大会モードなど、多彩なモードを収録しています。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2016-06-23",
+			"retail": "2016-06-23"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/7a01b6637ca6e4ce1d5efa79bd49f2d7c37309865489d259098016cab23dc5f7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/98d9de247a13b6197bee4545680990accf48e14f625ffd8b6a08989cb929d4ca.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3df4d45fa33633a6eb1f100a6b50e1a95d954bbf68aa12bc43b04cda34240d66.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c5ceeff41f5e7b230870abb4e59cfddd29ccd0e1c4a39700bb4791c60c2fe87b.jpg",
+			"name": "マリオ&ソニック AT リオオリンピック™ 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6a1868eaf2fe1a6b87f724643aef8c2a45104d51486ac398073d90a722fb0232.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "292"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e5c53afc8f6053627d1771a3c6cf66c3e54e9f9206b9a1b9d58641dd38b35121.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "292"
+				}
+			]
+		}
+	]
+}

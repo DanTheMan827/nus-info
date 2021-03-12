@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010137600",
+	"eshop_id": "20010000002204",
+	"product_code": "WUP-N-JBKE",
+	"name": "Harvest Moon®",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 179,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2c5b7f29f91cd76164d103c70904f058595e620fc87ee60f54fb03b770ab081b.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3ffc613a224038dac6d19fc4a0d06042e625e8ad91be2240356958f1dd96c9bb.jpg",
+	"data_size": "41517196",
+	"description": "Contempla la belleza de lo natural y respira el aire fresco del campo en este fascinante juego de granjería simulada. Experimenta de primera mano la sencilla vida que se vive en una granja. Tu desafío consistirá en construir una vida como granjero a base de trabajo duro y dedicación. Tu propiedad cuenta con construcciones pero estas necesitan de ganado. Tendrás una casa modesta, pero si la soledad empieza a molestarte tendrás que llevar a cabo una remodelación para poder atraer compañía femenina. El éxito en este juego se mide con los frutos del trabajo, ¡así que recuerda que siempre se cosecha lo que se siembra!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-08-01",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/678f259833a35b58b901d5a18293937df3597cef6c342cecda450b29bceb4425.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2464d68eef1dafdb5e1ae6c9314c6ae59df7b878e17ad5a1ab053540e4fb0135.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1b9319a1f4a9d28348b5e561ca8a951f11a5a00feb2215e16c1890d5f9bd0a4f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/da65679ccfefc903b0bb73bfb969f3b1802c7b9a0696a3db4d6d8974d093b527.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/63dd7b167a2bafb8446a8a3fc03d68bbd27bd94e5e60fb7c61aa05d1460f273c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/aa9f700453129a59e7880539728a4a8adfe4b4ee4dcf6e114e945e507fc6278e.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a3c92b878ac37cc25647a5e86339d70355c586e9820a68d60bdc4f2e4b5f5e85.jpg",
+			"name": "Avance para lanzamiento Harvest Moon®",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/74ada5884894f60005e556ba2b689248e3d43e64dbd1a1fda7e6a89cd0459003.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ceacdc39e3ae86c19bb4f4d5f4f65f0379668b189b67ad93e3d892252f2dfb70.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				}
+			]
+		}
+	]
+}

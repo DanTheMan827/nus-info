@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010169F00",
+	"eshop_id": "20010000005787",
+	"product_code": "WUP-N-PARJ",
+	"name": "ワリオランドアドバンス ヨーキのお宝",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e107b34d6f5d2d273452204b7e40f4efdf5a4a6de4cdbddd085ac0a9ba8b6f55.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9316f983b8c599f714aa11fbc6436b416bdb6a40f15755ed47608dd40a06ab9f.jpg",
+	"data_size": "87916664",
+	"description": "このソフトは、2001年に発売されたゲームボーイアドバンス用のアクションゲームです。 お宝をめざして黄金ピラミッドに乗り込んだワリオの前には、てごわい敵やしかけがたくさん。「バルーンワリオ」や「コウモリワリオ」などのリアクションをうまく利用しながら、ピラミッドの奥にあるお宝をめざします。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-04-30",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/46a41c4477f9f46b0fe972d232de1ddbdfccd9414e498f3a8dac454aa488a28e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/de6c57e125b4ca266771c8d011c28e8dd40add6dd5ed3bcddf0f0e5f7282db84.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/383ad5a2754a4e5d0b1b7c82ca38e8977302a1da7ac1f3f9a544f0d457a2437f.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3545bfdf9e376a40b9dd70a710c9e2f527dac24731d938cd4f9c614e0a52dc44.jpg",
+			"name": "ワリオランドアドバンス ヨーキのお宝 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/af7d766bb75f81e5708de34185f33fe0c1299de8deaafc66cf0e3a51fca4e988.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2b12a65873fcdc07c650b640986003b77f1bef0ab88ff9c7b372756aa7ef4829.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				}
+			]
+		}
+	]
+}

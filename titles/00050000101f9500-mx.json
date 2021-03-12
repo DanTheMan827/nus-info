@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101F9500",
+	"eshop_id": "20010000025810",
+	"product_code": "WUP-P-BM5E",
+	"name": "Mega Maze",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1630,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9b963ac9d85ec7c434f01c9e5cc7a49f02677adeb6db029b4ffe46489c65fa3e.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f5a54ed47275089720f31b7d471a2c3ff9a7d734a5142c74245c28b6ae51ed60.jpg",
+	"data_size": "148865164",
+	"description": "Entra a los laberintos virtuales de Mega Maze y desafía tus capacidades de concientización espacial para no encontrar simplemente la salida, sino también para encontrar una manera de desbloquear el camino hacia ella. Utiliza las paredes transparentes y los senderos para migrar por los laberintos mientras recoges las llaves y abres las puertas. Entra a través de tele transportadores y salta por el agujero ocasional a medida de que creas el camino a tu destino. Construye tus propios desafíos para otros jugadores usando el editor de laberinto con todo a tu disposición para hacer un rompecabezas de varios pisos. Comparte tus creaciones en línea y compite para ver quien lo termina más rápido. Tiene 60 rompecabezas de acción, tablas de clasificación en línea, un editor de laberinto, juega y comparte laberintos personalizados en línea, múltiples pisos, llaves, puertas, agujeros, fragmentos clave, tele transportadores de una y dos vías. El texto del menú está en inglés solamente.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-01-19",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/2aa6956f37cd40a6c51743e4a6e4c337581ec3c0e1e549f497dc882685c23729.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6160eb48558ff2a967b4966a24392facdc31ec700dd2dda60f5e222a1c83df05.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7953e03157fb6fc030e42e6f14fd2f6f3d9ae230aa6078fda1bc32628b931d8c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/463eeec540672c1af663611c5dd9be002135d1035b6b6b420179abbcfe82049b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ff3e9924e31af8f3c908d8f05158bf69189dac993341b21a07d370a91103705e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3ba3dce25b8d1ae675e636329f5997c2696d65fdc83796cb62dba6b59c1ee5c7.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f046a5d4d6419b0fac69c95cbe857ebffd8c10290ed171f1c426720620766151.jpg",
+			"name": "Mega Maze Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e7631804faa619a6029d73c6bb770de3aa2a80b768e5389d7d88d5562f826c21.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "79"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/851a5580fd078a49f6ce9b760b4f0035cc90932c4b0bceafc2daacd2fef0b225.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "79"
+				}
+			]
+		}
+	]
+}

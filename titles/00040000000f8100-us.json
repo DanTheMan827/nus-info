@@ -1,0 +1,85 @@
+{
+	"title_id": "00040000000F8100",
+	"eshop_id": "50010000017735",
+	"product_code": "CTR-N-ATSE",
+	"name": "Mario Party™ Island Tour",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a2eb9dea3c5b1c1eac6548f41e73fcec96f3fc48e5b3b5d48866449e652eb89f.jpg",
+	"data_size": "245210004",
+	"description": "In this ultimate showdown you can take on the road blaze through the 7 new game boards, some of which take just minutes to play. Wrangle goombas and blast out of cannons as you tilt, tap, and draw through new minigames harnessing the unique functionality of Nintendo 3DS™. Compete in new multiplayer modes including mind bending puzzles, minigame challenges, or enter a whole new reality with AR Card play for up to 4 players. Whether in single or multiplayer, this is a portable party that never ends.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-11-22",
+			"retail": "TBD"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0fa4566b18dcdc121ea770a3990c0d0337344bdbf501dd9bd9c7805e98e6f32d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/21c9b1e392f11e2b4d964c62472ff466ca5f62a53db34438367fd5620caa8e2a.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ac70a7f75c494eaa11d86807b862c87488acb293c1ed5b5378f4f8a8d12cb58a.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e5b526ec089b5fa668f5ab97b39d2ec10870819ea62fea50d07137110bf28586.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/18a0bb6fa7a28296315b9c55cdf8981101080655157021a3537042079257f2d0.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/931fdf5cfbf8f2ba3c982cbc6f9b63b4fb4450aec2bb26da80dcdb6465362e77.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ea251d292470df9fc478ab045a5955bea5b7d1813eceb7f264afc173c737cad9.jpg",
+			"name": "Mario Party™: Island Tour Launch Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c67b28886967c2f53d5f269767b615a5e9f7619db1df16e6d27c7da7a281ac8f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "106"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/67c13e9ad8167b864d5db99af321209c658b7d1f5b774b620942f270f95d147f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "106"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4eb83b812da0604991fd5b211c621c0f63613d173bb1711500ad04018bf6c864.jpg",
+			"name": "Mario Party™ Island Tour Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0c9f9866e1e5cceec06e6943a79e28c915c6fa4738244aa3a315e6fa1964347f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "74"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a0deed275578a27fd2e86423c2fa7f7f28f95cb6e229f87a07ca09fd7b543c44.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "74"
+				}
+			]
+		}
+	]
+}

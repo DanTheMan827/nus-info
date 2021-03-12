@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001012CD00",
+	"eshop_id": "20010000009007",
+	"product_code": "WUP-N-AJEE",
+	"name": "Jett Tailfin",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1346,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b6ca07811953e64c5cae0f8508024669457e0f4796efe4af4e2ca957d29aabe9.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/cbd4e6f1d3d452ac750802cc425658a43d3c60d1e63e75358de78553352e9ea7.jpg",
+	"data_size": "2090926360",
+	"description": "This is the challenging and dangerous world of underwater racing! As a fast fish, you will run through several track trying to be first in the speed challenge. The player must be one of the first to qualify and proceed to the next race. Accumulate enough points through the 16 tracks and become the Champion! You can also face the other racers in special bonus rounds where they will do their best to let you eat their dust... or bubbles.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-08-07",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/4862f2f3a5598620044270e4848f0873818c899ef104b88bd2de1a6e07b76d0b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/58fe4b24b47d0e1865dc1222f7042b68efdd4024166f681b702381932e13b5ac.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/000b39ad3170425da118bda348aca05ff858daa999d954d47f7ab159d0bc0ee5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a246ad385b5e95617cde30e5f865d9b83eb570cfc295c61d0deedca5549f8e5c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/54b9d41e3ca78aa29a6f9a7aee7864a9b446427298655ca1045ef878de5d40df.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/41f585c92a6dcbfbd4d54355a1caa7db97db618a0f6ec59e437a5c489dc66e71.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5b01f6d43981354829bb11a62a19c9d072e8703f7d2579421e5e94bb0e699081.jpg",
+			"name": "Jett Tailfin Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/54cf541279232e2babf433bc164e1b0057937e6f1d34ae972276dee72e6a0313.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "240"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e2a78629f19447aac9cbc41fad657ef19589464be929da942e3a06f1f1b09684.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "240"
+				}
+			]
+		}
+	]
+}

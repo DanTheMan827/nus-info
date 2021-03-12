@@ -1,0 +1,85 @@
+{
+	"title_id": "00040000001C9A00",
+	"eshop_id": "50010000043196",
+	"product_code": "CTR-N-B2PJ",
+	"name": "アイドルタイムプリパラ 夢オールスターライブ！",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 1206,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7516cb628a6211a99222599786dada477080053a9dc8fb17de545b44f424e501.jpg",
+	"data_size": "913046372",
+	"description": "自分で作ったマイキャラでゆいやらぁらたちとプリパラのライブをしてスーパーアイドルをめざそう！ 好評のマイデザイン機能もパワーアップ。できるコーデはなんと1億通り以上！ デザインしたアイテムはお店のゲーム機で使えるのはもちろん、コインショッピングに出品してほかのアイドルが使うこともできます。さらにオリジナルのチケットに印刷も可能です。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2017-10-26",
+			"retail": "2017-10-26"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/96189fc10885a49a1edd6f81dcb9153ab689da646d4ca0e03770c5c91c933af1.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5e707fbbc33a62203377440df32281e441a1e78fa196b33b16a89ccb9bbc4a8e.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/85d80f83a69878647d147e42fcce1e37d28f3875d0d49ac1109e4e3b4ba50151.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1fba736460e534ad6184624260b0b404cf540a0ad10dbf6ae8b4b3c1fcd49112.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8ade3c38c6c7bd4c0d9b6a1fa32cb3bbb2636225ecd79fa720bf22d52b13aebe.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/dc58f49062a33955d1f20d423ec134b311b90259df15b000078e09cbe762a55a.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8aac3a30ae6ae13078fc5c38fbff57a4a92434f7bd0966326c7e31fa123df41d.jpg",
+			"name": "アイドルタイムプリパラ 夢オールスターライブ！ 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/70f350f06cd25b66dc59143d7927fc45495bd9935c5f8ad0ac2d56eb79e71532.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "206"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/352c472a468def68dcd455e48da3a23dc33e97a039eda71591c03846b421d74d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "206"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/95b06b80a3adb16e9ec5c744e6898bcd993b495fb5b45b2aae3921b03d78ae91.jpg",
+			"name": "アイドルタイムプリパラ 夢オールスターライブ！ TVCM",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4df383b5c52775882134fca6aae8771907614482b801738fa3bd99dcb0b32402.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "15"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5edb488893545e0c479bf173049ab2e50b6bd38f5d7ff7f57f5802a715381933.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "15"
+				}
+			]
+		}
+	]
+}

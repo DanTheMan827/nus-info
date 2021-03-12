@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101C8300",
+		"eshop_id": "20010000017167",
+		"product_code": "WUP-N-DAUJ",
+		"name": "マリオvs.ドンキーコング2 ミニミニ大行進！",
+		"platform": 169,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f05b406c67c89926a436423b5c5221639781abde86ab60632dbc50f0cbccac68.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3aa814fc2e7e281b5396a464d67a964395736d6a264eca2b1a793c211051292b.jpg",
+		"data_size": "73433208",
+		"description": "このソフトは、2007年に発売されたニンテンドーDS用のアクションパズルゲームです。 ぜんまいじかけのおもちゃ、ミニマリオたちに、進め・ジャンプ・止まれなどタッチペンで指示を送ります。うまく指示を出して、ミニマリオたちをゴールに導けばクリアになります。 先々に待ち受ける仕掛けを利用し、敵のおもちゃの攻撃を防ぎながら進んでいくと、フロアの最後にドンキーコングが待ち受けています。ミニマリオたちと協力してドンキーコングをこらしめてください。 ※おすすめの画面レイアウトは「縦レイアウト」です。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-08-17",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/419bcd0294c2685c5c3da98af7ceb3e2994647459e6aba3ad15ca461aa66cf41.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/e7d0b38c1cf3da907aee76f8731a133eff975bb87574d5b6467511d5b1118234.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/de0e737730543829bbc6c5e3b821aa0f069f69a78764e5eece67ab53ab721434.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5cdd1610f1427008cf6ce4997bf879d46f9476f86a1d9e2f7f17ace9bc2537ad.jpg",
+				"name": "マリオvs.ドンキーコング2 ミニミニ大行進! プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3e5aef64e7e60f9d1c9ae33aa1d6dbff909a6d673300af2d9b969f05f123aeb8.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "81"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c0de206ba0853a274c97f47a0ffe19a2d86f44a607ebd60d9e8f25e0ff128b39.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "81"
+					}
+				]
+			}
+		]
+	}
+}

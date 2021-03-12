@@ -1,0 +1,85 @@
+{
+	"title_id": "0004000000114B00",
+	"eshop_id": "50010000021138",
+	"product_code": "CTR-N-ACUJ",
+	"name": "タイムアベンジャー",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 19,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9ce513d802564100eb8da4e4622e41e309d38f45519e143ea6c0c77c41e07809.jpg",
+	"data_size": "334150500",
+	"description": "『タイムアベンジャー』は、復讐のために旅をする主人公「フレイヤ」を操作し、ダークファンタジーのステージを攻略しながら、魔王「ベラディム」を倒すことを目指す横スクロールコンボアクションゲームです。 時を操る能力で主人公の危機を回避したり、ステージ攻略に役立てることができます。また、装備品や新たな技の習得で、主人公を成長させることが可能です。主人公の復讐の旅路の果てに待つものは……。 ■タイムコントロールアビリティを駆使せよ! 「フレイヤ」は、時を操る能力「タイムコントロールアビリティ」を使うことができます。 死を回避する「タイムリバース」、周囲の時間を巻き戻す「タイムトラベル」、瞬間移動ができる「タイムワープ」を巧みに駆使して難敵や難ステージを攻略しよう! ■物語のテーマは「復讐」 「フレイヤ」の故郷の村は、「ベラディム」によって滅ぼされてしまった……。唯一の生存者である彼女は、仲間のために復讐を誓います。謎多き女性「ヴァーニア」、お調子者の青年「ゼビル」らと共に、数々の試練を乗り越え、時をも越えていく壮大な旅が始まります。果たしてこの復讐劇の結末とは……。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-03-19",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/000865ff3fb84b551801762c7fbecfd0a824462fdf891f4e2c4fcb68dc1ae045.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ae93d5d4e34f93b0ad2311dd7a20f88792cac9bd89d9873b5980a8f51cef28e5.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/fefbba92708f84ed30d2e4b1ca7b784aacbb3693189abc8b57b4b9c5be73d525.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b6c361ef837040654b9ba804b24a18a8a14eddb9a7df735dca2fb635db49f616.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6e5da4f938589fee5e241c966dfe86ed8cd2be110babd2910f0526e2fe39cc9e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/fe3dbbf7e6aa7f81af149ba5851aa03538f1b0349616f8687fd79ffcdfd6fa5e.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/93ba9bd93399240f69bae29f1c48c2a42bce3b41f4b23aed30544e612b53a960.jpg",
+			"name": "タイムアベンジャー 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4825206ca276ce9c83c40b94cfbddf0f782c45ae181eae7d2ec8e4c116427b3c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "143"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9f01e9babfc4ccb196f4610124deee7739b4e180bb719af485bbae3b16d2ea99.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "143"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/81e6ab1eb7c7e4d699554237e42f99d04712eae8f92ff8b380547d74aeabfd18.jpg",
+			"name": "タイムアベンジャー プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e6f72599ada9cc00e8c0d6bacc131ef146aeb9cf1a8167e45c3f5a340722a7a7.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "47"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/589a60fc1722c2bc3e73c08a52c211490bae6c12223ea77a9c40c5ca7c19d414.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "47"
+				}
+			]
+		}
+	]
+}

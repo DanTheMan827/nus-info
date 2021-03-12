@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010205B00",
+	"eshop_id": "20010000024807",
+	"product_code": "WUP-P-AYRE",
+	"name": "Retro Road Rumble",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1777,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3c587a5cef9f712dfe975d83c54d7f60aae7027af81f71e9de176333bf5fdb64.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3368dd2dfd4c7741da9fdc5e106828de69e184b214e76785db2beeb65f972828.jpg",
+	"data_size": "539820192",
+	"description": "Retro Road Rumble es un juego de arcada como los máquinas recreativas clásica. Dos retadores corren en 8 pistas con el Wii U™ GamePad. O, un jugador puede correr en contra de el reloj para ganar los tanto superior. Retro Road Rumble da jugadores la oportunidad a tener una experiencia se puede encontro solamente en el Wii U.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-10-20",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/58b5087d1c695cf752cd15aa116cb37f8bbd6dd6fe3dfaf8f0f1d6d8cea5676f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1fc50e51e640f72783a232990ad08ac347556af5c40153a4cb5b77fe83cd6ef1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d8e472948f8eb9b1ccadbfd07e2ed0057fba851b41778626afe78d4bd229cfbe.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/26c73f2716b0aa87377e826c1157c5f8a0b6168337e9d632cbc19e1b66dfb5c4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0c13ee851fb0598958df4e24f408f0360f289bbc6a1fa99f4e66fcd11ff3deff.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/874b6148411383858de13c8e450e42fbed0d885d429ed15d50475e212319c6bf.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1156adff319a3c14fe5483ab36964820dfd5a656df7b60c0c02f5b316e585403.jpg",
+			"name": "Retro Road Rumble Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/64ac8d307ee1063f8c9492ed2041cfd1a3c3408cd450d7a0757c17127bb6ec3d.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "62"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d949acbd063252cf57da5b3df788dea7ba66560c907c28be0aada771974f2651.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "62"
+				}
+			]
+		}
+	]
+}

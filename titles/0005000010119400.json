@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010119400",
+		"eshop_id": "20010000001226",
+		"product_code": "WUP-N-FASJ",
+		"name": "スペランカー",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 802,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2c80e11d4436cc8ec473c4db3ff38afcdd97d351cdab34ee1238d3845bf697e4.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9093e9ceea6d201cf35bfe4ab89d27400b60f64032cb40ad788b71aab0705585.jpg",
+		"data_size": "36536460",
+		"description": "このソフトは、1985年に発売されたファミリーコンピュータ用のアクションゲームです。 探検家のスペランカーが、宝物やアイテムを集めながら洞窟の奥深くにある伝説のピラミッドを目指します。洞窟の中は毒ガスや落とし穴、ゆうれいなど危険がいっぱい。大岩をダイナマイトで壊したり、フラッシュでこうもりを倒したりと、アイテムを駆使して進んでいきます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-04-27",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/e06014b5b07a413e8b2b2fe3e4386fc0b50e85f6435b9c48e7c7709f5fd1e262.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/a5ffd7be4c15d5e98ed8569a8c39ab4d5cd26ddccc1a65a608122343ffd9389a.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/88306ab01e8d0310295250a85886788b8b2601ad74497b18b41c878d8d63142d.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c044e4701491ce6eedb2dacc610e50caa621e553ed27faafe41f88b5f84e1d40.jpg",
+				"name": "スペランカー プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a6b2149408ae886d0c0f022344a6aef7299345bc9cc921a7157d1c5b3b18bdf4.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "49"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/10bedbc682730e8c3f90afde8d4b26361881d7906a4f2bfd678a9bb02a7579d9.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "49"
+					}
+				]
+			}
+		]
+	}
+}

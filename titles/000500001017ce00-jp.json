@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001017CE00",
+	"eshop_id": "20010000008308",
+	"product_code": "WUP-N-PBBJ",
+	"name": "ファイアーエムブレム 聖魔の光石",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/489e552edd141c46083246beb3bdd52b965a8c28811a6efb87c652b53a9e80b0.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c17918678facc8602a7898dd9186ca44c08552ecf618d76fe5e7bb26e5ee61ea.jpg",
+	"data_size": "96174200",
+	"description": "このソフトは、2004年に発売されたゲームボーイアドバンス用のシミュレーションRPGです。 双子の王子と王女･エフラムとエイリークが、戦いの中で多くの個性あふれる仲間たちとの出会いと別れを経験し成長していきます。プレイヤーは自軍ユニットを指揮して戦いながらユニットを育てていきます。戦闘で失った仲間は復活しないシステムで、緊張感あふれるバトルが楽しめます。さらに重厚なストーリーが融合した『ファイアーエムブレム』の世界を存分にお楽しみください。 ※当時のパッケージ裏面に記載された文章をもとにしています。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-08-06",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/70d92c345ec8ec8c5f6dfd8c0aa35647718de5ff9331bfd18660310911f69666.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e751353c4b60f1850bc30c59a5de739d1cdfa1650b5c8cfc3a5e9c063421f2aa.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/901ed8ff147cb138292be3a124c27acc86aaafeda6607636e4618607a6ee92bf.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5861b5b57be6680dbbda0dfab053afcd1a365068692b63a63d0f04067c9a894b.jpg",
+			"name": "ファイアーエムブレム 聖魔の光石 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/693b8fa08f95a76079021851779e95ac63fe061d0effa5eb7074053a222b0f4a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2d7036839477699d5865bf5664d1812e6d9e1342bbb89b97e3e6d52e722aa20a.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				}
+			]
+		}
+	]
+}

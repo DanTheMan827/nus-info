@@ -1,0 +1,85 @@
+{
+	"title_id": "000400000012B600",
+	"eshop_id": "50010000021953",
+	"product_code": "CTR-N-JN4J",
+	"name": "熱血魔法物語",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 19,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0e8b758ea736e4a949a106527fb79b0b6cf6d5779c5f90229bb5971b3de6cf52.jpg",
+	"data_size": "82791268",
+	"description": "虹色に輝くクリスタルタワーが深い黒雲に覆われ、光を失って数年がたった。 混乱が続いている中、“救世主が現れる”という伝説が突如として各地に広がり始めた。 混乱の波がようやく押しよせ始めた辺境の村に、1人の剣士がふらりと現れた。 彼の名は「クーニー･ヴァルフォード」。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-04-30",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/da34265dfef3777a09ba9e042fbe8908727826d7dd5d30e4520fee7e6676e1aa.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/fa784729b2c2aa0fae25abb28bd146475fc0d001134635d6f07640ab7462c729.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/54f4a9934e0baff74d89459f4436aef3641f9ffd240dad4049bf89d6b498b6cd.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d69de2649b1986e104e4f4f471f30bfdc11e273f277c7d99ebbe071c03538e0a.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5e58d6e8c993f7b37b7e75adc8e11944e31520cffbd4c955aa68cbb5b705d190.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/052445f24355d6e2d425989495a1567cd22755705cca759c6038d88cfdac0931.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1a288d6f372fb14307d5827bcdbe255b08c3c849a7d5a8214d65b31a598014bc.jpg",
+			"name": "熱血魔法物語 オープニング映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ebf10cd32e96389fee4597109b09286a65630e4d2047ceb88994452c72191f34.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "86"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9923f3de593585472f4cbe902dc54e5e2a357fdc612f4e0c5682fd220d11ee9b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "86"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/207b56f6e3fc8b0ab852467af964205a13771829756f57994a955118a79a63fe.jpg",
+			"name": "熱血魔法物語 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/eb9ca4fdbf47a1925146d383b78042682d11f9cff44f4fe0d3c8adde54f4664e.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "47"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3559e2bc9e5ca21d534b5ff32aea37a54bf0bcc426efd498577d68187203fe19.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "47"
+				}
+			]
+		}
+	]
+}

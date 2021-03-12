@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101C3A00",
+	"eshop_id": "20010000018847",
+	"product_code": "WUP-N-PC5J",
+	"name": "ロックマン エグゼ 4.5 リアルオペレーション",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 39,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/098086b1e9de25fab0d98b372105052d8db339a1b87fbaf640938904ddad16d3.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/610de168fd56a06d59f2ef96894c85b3919391da47ed3abd6cd80768e2d215fa.jpg",
+	"data_size": "74219660",
+	"description": "このソフトは、2004年に発売されたゲームボーイアドバンス用のデータアクションRPGです。 200X年……。インターネットの急速な発展によるネットワーク時代。 人々は誰もがPET(ペット PErsonal Terminalの略)と呼ばれる携帯端末を持っています。 PETは200X年の便利アイテムです。中にはネットナビと呼ばれる疑似人格プログラムが入っていて、ネットバトルからあなたのスケジュール管理まで行ってくれます。 特にネットワーク世界においては、あらゆる行動をあなたの代わりに行ってくれる大切な存在です。あなた自身でナビを選択して、PETを有効に活用してください。 このゲームは時計機能を搭載しており、現実と同じ時間の流れにそってゲームを進めます。あなたは未来の携帯端末「PET」を買ったばかりの初心者ネットバトラーです。好きなナビを選んで自分のスケジュールを管理させながら、インターネットにプラグインしたり、ネットバトルをしてナビとの生活を楽しむことができます。 目標は土日に開催されるオフィシャルトーナメントに出場し、優勝することですが、それ以外にもさまざまな楽しみかたがあります。 ※ナビセレクト画面でLボタンとRボタンを同時に入力すると、オリジナル版で「ナビデータチップ」を読み込むことで出現する8体のナビを、本ソフトでも使用できるようになります。 ※オリジナル版で対応していたバトルチップゲートには、対応しておりません。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-01-13",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/b66ed1176c971d89e0260a23a017b6931cc69d138e4d1ad4d2881d2c65209f2e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4810bac65fb543ee280cf1388cfc147ad854c88623484870658de9d2eff16bb6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/91767daceab4be971313ab8cdea5b102a803608b15854e22cd2da528d4b032d2.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7861d236e828ce48e3799fe0f1681f89b111e303cfc19f1101eef9ec3c684663.jpg",
+			"name": "ロックマン エグゼ 4.5 リアルオペレーション プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/125cbfe55103455ae50c764406a32f4a93c53e1549d9bacaed3065d77a6504df.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e45284373607197d1a60e32da372a13127b51886f3574aaeb4298e2c2fd5c5c4.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				}
+			]
+		}
+	]
+}

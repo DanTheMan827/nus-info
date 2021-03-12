@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101E4200",
+		"eshop_id": "20010000020388",
+		"product_code": "WUP-N-WMRJ",
+		"name": "Master Reboot",
+		"platform": 124,
+		"platform_device": "WUP",
+		"publisher": 1517,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/85053f7237779e4f7d319c3c0faaffddbe2f60f5793e0c9c3badbd2d18f379ca.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/bbb496be4c8c3a81ff689d170cafd998a6261fc8c8cb45e3748989f7299fb3da.jpg",
+		"data_size": "1273594076",
+		"description": "死が終わりを意味しない世界をご想像ください。大切な思い出は保存されて永久に楽しむことができる世界を。ここはソウルクラウド。魂をサーバーに保存して、おくつろぎください。あなたの一部は永遠に生きられます。お気に入りの休日、子供の頃の幸せだった瞬間、特別な誰かと最初に出会った時。こうした思い出は全てデジタルの魂に保存され、あなたは家族の元へ何度でも訪れることができます……。 『Master Reboot』はこのソウルクラウドの内部を舞台にした、1人称視点の不思議なSFアドベンチャーホラーゲームです。美しくてスタイリッシュ、シンプルだけど素晴らしい映像とともに、ミステリーと好奇心をそそる物語をお楽しみください。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-12-16",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/1ca8a38bce146a2df7d9135e708026b59a198860293584eb7b5857b8ba87e235.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/7aa90158b89d63e3a6188b70d32e94d0dbd8b7889d404b1270a9882e33163b49.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/4d1690f16a53de320a8f91dc3f678f38cf9ec068beb0ccc8c31e3bd1da323d47.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2ede7dd0b587cc1ac7d80674be11a97b4ddf50ca093202c8be479b11aa06fb6b.jpg",
+				"name": "Master Reboot 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/98ac0d1defe9b4f887a634650918a49e31e8d402e30d597284bf103809e1c1ed.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "80"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5053336479870c2cb87ddedfa761cccdc90873268f9bf1cab61c4d262798dd38.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "80"
+					}
+				]
+			}
+		]
+	}
+}

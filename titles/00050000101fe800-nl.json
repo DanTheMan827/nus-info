@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101FE800",
+	"eshop_id": "20010000026088",
+	"product_code": "WUP-N-NAZE",
+	"name": "Bomberman™ 64",
+	"platform": 170,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a39c344ffe5f64842a1a3ecd3cd790e2f7e7ae2a25ea70d567a377176cfc3dd3.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/15f72d664cac360c0c96b2ad5bf03ce7c3682110191459b16a79eab5e884c847.jpg",
+	"data_size": "54427768",
+	"description": "Hoeveel banen zijn er waarbij je betaald wordt om bommen in het rond te gooien, om alles in je pad op te blazen? De kwade Altair heeft de Omni Cube (die zijn eigenaar de ongekende kracht van het universum geeft) in zijn macht, en het is aan Bomberman om hem terug te krijgen. Dit is de Amerikaanse versie van het spel.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-03-09",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/6841870d305cc30ce079858948a04d165a2ecef6efbca9897823defd04d960b7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/49f4adfaa759844e666333b9944b031e42e67f6cfe358aa4105342227863e6f9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1833b9e4703ec8426f4fe01378f2b62db9070bfbf6845327efbb2cebe83d43ea.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e362f63b9dcd78285d13565860eb8e06c704e43bbb4981c9e89ac4d4f94aca36.jpg",
+			"name": "Bomberman™ 64: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/319f0a8d1f0aab9b00af4ed9caf5be668c0ef527a79ada9aa6067cf3016e811a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/57fc0de2975c856828eb344d127af9fd83e52fdf44d3b9f5774fdcacb929faf3.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				}
+			]
+		}
+	]
+}

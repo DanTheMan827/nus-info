@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010177900",
+		"eshop_id": "20010000007528",
+		"product_code": "WUP-N-FDJJ",
+		"name": "五目ならべ 連珠",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/efb3cd2dae2d8902030bd0d2e2cbc6e4f56adc7bf842d78b958ba0c7aa35aded.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f39e64d07944022a2359bb56f8b128497d2b0108e5569e45b3bd9b1d34c40a7c.jpg",
+		"data_size": "38699168",
+		"description": "このソフトは、1983年に発売されたファミリーコンピュータ用のテーブルゲームです。 初級から上級まで、3段階の強さのコンピュータと勝負が楽しめるのはもちろん、2人で対戦も楽しめます。 先手は黒石、後手は白石を交互に打ちます。タテ･ヨコ･ナナメのいずれかに五連(5つの石)を並べた側の勝ちです。負けを認めて投了するか、「上級」で持ち時間がなくなると負けとなります。 続けて6局行うとゲーム終了となり、最終的な結果が判定されます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-10-29",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/de6ddabfb160f8bb8c58ca8b91eec2d3ee55d90e98996ebf655b6cbb46b4d051.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/0dc1cba6acb350bcce6866edcef5eed81e7676bdc1e4431ea5bb1fd83f82e733.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/afb5d69018073b500e9cc8f7a1e20e536eca385e62444647557ffd81f65cdaad.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fb538f5880455c836947829eb41b6d96d401a0861bc0429a1dddd875c9eabdfe.jpg",
+				"name": "五目ならべ 連珠 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/41565ba99d866731822156c9f90c95e09d1a1ed5dc11ee0df16c1eacc58fdd4f.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "46"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3b65db5f50ec8060d7b935d8fd688cd3b11f3fd4b1a60d2545f9a88c36d1e637.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "46"
+					}
+				]
+			}
+		]
+	}
+}

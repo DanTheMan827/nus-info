@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001017A100",
+	"eshop_id": "20010000007647",
+	"product_code": "WUP-N-PA7J",
+	"name": "ナムコミュージアム",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 27,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ba07f465ff5bcc1214bed490b0761eac3ac95a12a053e589ecff3231ebfdb528.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/341c859af81dfedeeae562537d8d9366b7922dd8a1b286c17e4ebd97674de9c5.jpg",
+	"data_size": "84115576",
+	"description": "このソフトは、2001年に発売されたゲームボーイアドバンス用の名作ゲーム集です。 1970年代後半から1980年代前半。ビデオゲーム草創期とも言えるこの時期、ナムコのアーケードゲーム群は世の若者たちを熱狂させました。その数々の名作の中から、『ミズパックマン』『ギャラクシアン』『ギャラガ』『ディグダグ』『ポールポジション』の5タイトルを収録しています。「単純だけど奥が深く、一度やったらやめられない」という、ゲームの本質を楽しめる1本です。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-12-10",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/ba98d9cd76c6fff1c578a86e4a7b228a5985371e7d2c2ab65a46472d75e809ca.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a5908c0a65ceb97accde187b70665feef03da67176f82f96fa13b105be046595.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6c9a8316cbc29172856c76e52e996232135a4df6c3c06e04d9773c05d96be78d.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6fda48e2ca707d889fc68d328b4c7a292316adc0096ceee9021efd24f0d982d5.jpg",
+			"name": "ナムコミュージアム プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3d6afb91f65286c3b1ddff213427f52713b4e9c942126c13699ffd9fc3ee5725.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fb38376a60bc6c4dd5eaded006eee748f9196dcef50583f17409a32586ff5e05.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				}
+			]
+		}
+	]
+}

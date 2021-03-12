@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000188100",
+	"eshop_id": "50010000039397",
+	"product_code": "CTR-N-KAFE",
+	"name": "Alphadia",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 146,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a58a33e9ba887bbf2c52fadcea9be682182ed21e74cb0b4557f111b0dcba12d3.jpg",
+	"data_size": "43408228",
+	"description": "It has been almost a century since the end of the Energi War. Yet despite the armistice agreement signed between opposing sides, the Schwarzschild Empire has once again begun plotting world domination as it starts to conquer and occupy one nation after another. It is during this time that Ash and Karim, two residents of a small town on the frontier, rescue a young woman and her escort as they are being pursued by foreign soldiers. But who is this mysterious girl and what fate is in store for Ash and those with him as they attempt to help her fulfill her mission...? Find out as this dramatic story begins to unfold! Employing an orthodox turn-based battle system, Alphadia evokes a feeling of nostalgia with its classic RPG style. In addition, its refined game balance and simple to use interface make this game accessible to players of any skill level while at the same time offering 30+ hours of gameplay.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-02-04",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0414e16d86c0a9f571b0ed96b2e5515acf1cef638851852c3949d8bb630a8921.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5f7c5f1710c1b98921148ba085ddf1addcf9a5afd8fcc69705a6b9e4da969af5.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6ca90a572c710e60c1257dbc3acfa69df4803ab15542f0f9e2ed40575d326ff6.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6fd08bae8542d1a04a1350e0d4351beb00bc09f37f49efa716303a7a646efa3f.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/896713e317559a0f2151fc65f51feb445d67fe0f3da0f17c42523f68b24ab051.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6a01278aa957e2c611ce1f1cd971573cc08d27ff9f355d2e64639c1e1c643c46.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1f6a3a69f10a9e5b1ac09e4cf65d44892c7e0cc08bed330441e02b190b588c63.jpg",
+			"name": "Alphadia Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8f1f4a8a333edfffa5309bcc51648e36c7d64e2c7257900f2c9e5402a014e86a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "77"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/66d6eb55004ba05c0e4e9cac7b39f19d25878505417aaf136043d8219ab13c96.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "77"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001015EF00",
+	"eshop_id": "20010000005044",
+	"product_code": "WUP-N-FCFJ",
+	"name": "バレーボール",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b2cdd93cc4e72d9ab86856ac16dbbafb10dd6cdadaf52ac7ea7ac4cdb0e46350.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/62a70fbcf055b4014e0706147e822c5b8a7ba7b0ff1652a92ba4c53276ff8de2.jpg",
+	"data_size": "36536460",
+	"description": "このソフトは、1986年に発売されたファミリーコンピュータ･ディスクシステム用のスポーツゲームです。 バレーボールとは、両チームそれぞれが、自分のコート上にボールを落とさないようにパスをつなげながら、相手コートへアタックを打ち込むことで点数を重ねるスポーツです。トレーニングで練習したあと、日本チームを操作して強敵揃いの海外チームに挑みます。本作は、サーブ権を得た状態で攻撃を決めることで初めて得点になったり、15点制だったりなど、1986年当時のバレーボールのルールに準じており、現在とは異なったルールを楽しむことができます。2人プレイでは、2つのチームに分かれて対戦できます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-03-12",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/e3b37a8760053e1387f15fad6a66638fe930225ac99d45648372f60800a4f0a4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/db15c3eb407339a8575bf783eafb9249d5bda228f79250b6ef6988f3b91113a4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d31014dba4068f8a96c5da247a0ace8af57d65f2d8c4e74a209b92ee6f42ff26.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/62ca19f6f5a71c27c2337feda0e3d359bc5a1480140955afe63e84ae8e773686.jpg",
+			"name": "バレーボール プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bf3b7370956ee0fbf2fbd8c68087c4ae89bf92aeb68e887a036360fecc228e61.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/49beeae3391dac9c3c9084a6424c99b69e6c92d6da6a9cf5e93ec0bacd6f9aa5.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				}
+			]
+		}
+	]
+}

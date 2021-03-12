@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "00040000001AF100",
+		"eshop_id": "50010000042038",
+		"product_code": "CTR-N-JL6J",
+		"name": "新みんなの塗り絵 Little Twin Stars",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 358,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7997c63860cf41e24d3ded9590038baf095ecde2419626dad99ac2907588360b.jpg",
+		"data_size": "166939492",
+		"description": "クレヨンや色鉛筆がなくても、ニンテンドー3DSだけあればすぐに塗り絵（ぬりえ）が遊べます。 お部屋を汚すことだってありません。 さあ、リトルツインスターズのかわいいイラストで気軽に塗り絵を楽しみましょう！ 用意されている見本絵と線画のセットは20種類。 簡単なものからちょっと難しいものまで、いろいろな塗り絵を選べます。 スタンプやコロコロツールの種類はとっても豊富。かわいいデコレーションだって思いのままです。 また塗り絵だけではなく、絵を勉強したい人にはトレーシングペーパーを使ったような線画を自分で描けるモードもあります。 ローカル通信機能を使えば、できあがった作品を見てもらえます。何度も交換ができるので、一緒に協力して作品を仕上げることも可能です。 『新みんなの塗り絵』シリーズなら違うタイトルのものでも通信できます。お友だちが持っていない塗り絵を送ったり、お友だちが作った自作の塗り絵をもらうこともできます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-12-07",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a4d3f02ceb6cedd43e5be15847ea2228a2945368db3bf44b5d5a4b25e80052f1.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5bced63f3df50493495842aa75833ab1827b0ef76c5b2de567aa758ded21df52.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/fa4523a478ca710db9fa56e00a4b64726fe81ef98fca8ae9684c220d33d0f748.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/cfca3d5bd5a43f02a27369aa81b25a4dcd0f4307fe79a9d33ba516f5acd22579.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/edca6a5e7c61b9e9901538dc8a066510b1fc14dafaacfa551cdb8468b74d5c67.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/552048cd6fc9ff3a9daa4f7b8d3dd3070ac30cbd07106472746c61daf5e1be25.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9168409c43ba5944c16293df1fef91c7942b20f9236ceeaa0a174698257720ec.jpg",
+				"name": "新みんなの塗り絵 Little Twin Stars 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/77cc2d115f4e15387e7ab4e90bfe27bdccac8a817ae33ebb822ea80c0c6f6594.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "70"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ae2dc01fd6c989865644b81bbfad09e9c87e53c9780ac4cd1cfaf2af39799a17.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "70"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001017C900",
+		"eshop_id": "20010000007107",
+		"product_code": "WUP-N-WEDJ",
+		"name": "EDGE",
+		"platform": 124,
+		"platform_device": "WUP",
+		"publisher": 1292,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f2f95a2b502a170050ff1644a618254de4805cbe60556873aeff87c6b8b7061d.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/faaaee80c093c165724986ae8071ce9d0483a6587c92f2af39b31930bbf34247.jpg",
+		"data_size": "140509324",
+		"description": "シンプル操作で、キューブをゴールまで転がそう。100以上のステージには「移動」、「落下」するブロック等、数多くの仕掛けとトラップが待ち受ける。プリズムを集め、短時間でステージをクリアするのがポイント。キューブの端でバランスをとることでボーナスタイムを獲得。GamePadのみでも遊べる!",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-06-04",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/8c1afe806984323c96ae1696e86e0447bab899ec53355608cb1b7197d0814621.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/aa30a568fe9f66d02a182ae79ca3473b9830fa6de25de2e15e36440f962ce28b.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/2c3f8875e7e34619db85c5f27feecaae142f971a9edff9936af5ded5147fc75f.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/06a188c2d9de4e9a2404bfb02168c9edb49ca49b3c6c49fef9157c5e3bdc4be2.jpg",
+				"name": "EDGE 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4c02b9fb3d1f8fe2f2741ef3f34353c5ad3040bc8edc15f97967f9da683234d9.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "80"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/70dcd75691ee01f7ca7eeb81776207c9a70b3d131de86c004fabfd4682627f4c.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "80"
+					}
+				]
+			}
+		]
+	}
+}

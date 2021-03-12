@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "000400000F704400",
+		"eshop_id": "50010000040906",
+		"product_code": "KTR-N-CAHJ",
+		"name": "ひよこまみれ",
+		"platform": 1001,
+		"platform_device": "CTR",
+		"publisher": 1364,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d672468a7b31d6709b99db0ac7bb48d8aaf9983f44af97d6acc28e4dfed96a6e.jpg",
+		"data_size": "56564580",
+		"description": "「ひよこまみれ」は、かわいい「ひよこ」たちで遊べるコイン落としゲームです。 遊び方は簡単。パチンコにのった「ひよこ」を、ペンでグッと引っぱってはなして発射するだけ。うまく巣にひよこを落とせば、「レアひよこ」をゲットしたり「エッグボーナス」や「ピヨピヨタイム」といったボーナスイベントを楽しむことができます。また、ゲームオーバーはありません。「ゲームって楽しいけど難しいのは嫌い」という方でも、ゆるゆると遊べるゲームです。 そして、登場するひよこたちは100種類以上！ どんどん「レアひよこ」をゲットして、ゲーム画面を「ひよこまみれ」にしちゃいましょう！ またゲーム画面はいつでも保存可能！ Miiverseや、ニンテンドー3DS画像投稿ツールでSNSに投稿して、みんなと「自分だけのひよこまみれ画面」を共有できちゃいます。さらに、Miiverseの画像投稿では、「ひよこまみれ」のオリジナルハンコも使えます！",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-07-20",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2551dc63c61e2f69db44accf5e2b2f239cff3e706a914c9207c582e0786e6ffa.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/588fadec8411444446d7685ed4c88f2ef3c467c1c77113966cedbf61ecd83ef0.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b25dfcc3c3ddc0970e84c1312242c78d8f4dfc707bd0ff8128f2ee3c33b7ef70.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/aa13a9bc7a6b760f63d553d05fd6b7ee3017c8d8f12f30914ac9e44ff178e332.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e9459f7edd520aff773c8f25f4d66982c7c8b7d475ba5f701ad504d81edf6a03.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f079b2b8b294c185d031663f719bcda64ad447148c32d7b2f1c9ce9a8b2ad39f.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/90c5a8a5ef607ddf43d0d046bab48e35ae495fad439af4c752c6f234dd35633e.jpg",
+				"name": "ひよこまみれ 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/312ed90452675ef939b6a8d762385f54d07769bd2949f23bcc943c8426fa6439.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "37"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/019fb2588ee0eb66b109696546701020fc6e527e2c1b072e4032b502def8d2bc.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "37"
+					}
+				]
+			}
+		]
+	}
+}

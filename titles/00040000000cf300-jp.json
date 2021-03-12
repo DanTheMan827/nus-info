@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000CF300",
+	"eshop_id": "50010000025356",
+	"product_code": "CTR-N-JCMJ",
+	"name": "カスタムモンスターズ",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 358,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e6943bff7e4725d66f5f4f363248f50c3798d6da44bf3601511103f80349b8b2.jpg",
+	"data_size": "95263588",
+	"description": "『カスタムモンスターズ』は予言を実現しようとする者たちから学校を守り抜くタワーディフェンスゲームです。 一癖も二癖もあるモンスター「カスモン」を召喚し、迫りくる凶悪モンスターたちをやっつけましょう。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-09-03",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/09477cc2490b4cbf6fcf1f5b23966d9184a4314a2d588471cf4e005c314955f5.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/233a4d33fb42741609f38257528c868112f79a777ccf22e23af2b4bd718d7fcf.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8a32c7e1fdcdb587a35a03e95ba7271644e30bfe89ee4d294cdbcf3fdd796c04.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7c36462f30ce5a4096b9574ebb519091d91bec4dce28734145d547f3932b8223.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6b64d889fb66403a11fc0539edc0885e4e6af6fe8a843fa1f998953158dbca93.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ce6f6fb789cdec3977770ca146690f4658f07f8c5ce29a6ec90c3b767b8e1d05.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/662e8bba6d14551286da6fa15f6520dcf992e20a926012a0345cdec7c90cde3f.jpg",
+			"name": "カスタムモンスターズ 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5c5ee48888ac1acf9446982a244d9bae7f72f3d8ce436479ff7162974e8319a3.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "117"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f9af292245e6387234c49adcca58b78fa4d4af42350e9863e8c293ae4e64f7fa.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "117"
+				}
+			]
+		}
+	]
+}

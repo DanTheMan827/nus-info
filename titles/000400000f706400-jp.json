@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000F706400",
+	"eshop_id": "50010000041708",
+	"product_code": "KTR-N-UBFJ",
+	"name": "スーパーファミコンウォーズ",
+	"platform": 1004,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/53954d6963cdff257f6446cbfceae5f8cc00e49248fa35392233682e55acc8cc.jpg",
+	"data_size": "5688164",
+	"description": "このソフトは、1998年にスーパーファミコンのカセット書き換えシステム「ニンテンドウパワー」より発売された戦略シミュレーションゲームです。 プレイヤーは部隊を率いる将軍となって、敵軍と戦いながら自軍の占領地を増やし、目的地の占拠や敵の殲滅といった勝利条件の達成を目指します。便利な能力を持ちながらも鉄道の上しか進めない「列車砲」や、ほとんど誰にも攻撃されずに海中を進める「潜水艦」など、多彩な特徴を持つ部隊をどのように活用するか、プレイヤーの戦略が試されます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-11-28",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e60e59fe88770d075ace3971ac60a8ffa51ec817c9bc0105249d15b055bba233.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a1fe73e077e7b51d3cceaddff2b8734e0d0fad3a8d54d70318602008219f8dbc.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ac743e61916faa74cbdae810c4d5bbb8af8417aee8bc558e98fa73634764aa5d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6934de1afb62336f2811d858cfdf478e5aaf3e6e51b0afd06093866de94456c0.jpg",
+			"name": "スーパーファミコンウォーズ プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d8e5ba3f521bc2ee41e7108397ec41a7f163ec805774cc2ac5a808bd31bcd605.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f4bf64cbb778c326bb0fc5896b7dd8e27aece6fd8df517456987a0484cf2be34.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				}
+			]
+		}
+	]
+}

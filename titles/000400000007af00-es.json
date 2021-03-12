@@ -1,0 +1,85 @@
+{
+	"title_id": "000400000007AF00",
+	"eshop_id": "50010000011307",
+	"product_code": "CTR-N-ABEP",
+	"name": "New Super Mario Bros.™ 2",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5f7f91f4664cbc66abffc4e0f8803d5736e8541e66a0c0983d0073042db3bf39.jpg",
+	"data_size": "358767460",
+	"description": "Mario regresa a Nintendo 3DS en una aventura de acción y desplazamiento lateral repleta de potenciadores y con muchas monedas. Los jugadores podrán disfrutar de la acción clásica de Mario con el toque añadido que supone intentar conseguir un millón de monedas. Además de jugar solo, también podrás divertirte con un amigo gracias al juego local o probar un modo en el que el objetivo es hacerse con todas las monedas posibles en un tiempo límite.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2012-08-17",
+			"retail": "2012-08-17"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e1ff45781c01adf181433fdcffb00559110d8dbc7260fd7182f15e6456069101.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5c0460e55f6d8080e3c1201d21e6e1fd9edde48d1356bf32815c967d0fd53ad2.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e34d1f6c9951e945a68644f6b83fc5efe24d8517309c21a8567a449aeabe21bf.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8ff2f0294d2f5212bc70dd29d5857bf713b849f66e058ce97835d7a130f6baf8.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ad98dd31e71596e75ba995bcd6d63f95d1b1d0c0cdf3132f58e1486c7c63dba1.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9f75cfea7dcfcbaf51bea783c3772d485abdef4b8ee868d6bce8f81b1624c6e0.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9fd4eb53befcf241a31855156cd808b262d073e4f5ed122183abdca9a7c915ff.jpg",
+			"name": "New Super Mario Bros.™ 2: ¡Nuevos sets de niveles...",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5db6e35bb2917039a02578d9f73832969d7109af8a46219f8dac988c6eb88bbe.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "225"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3bc5543f02f74fa91210f3caa128085520c496c0e46c7f26a0c35d0ea057a3d0.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "225"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9fd4eb53befcf241a31855156cd808b262d073e4f5ed122183abdca9a7c915ff.jpg",
+			"name": "New Super Mario Bros.™ 2: ¡Nuevos sets de niveles…",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8314fbd26e12fdb2db635df0e03a0222d2810525515e5f4bd520f27972595f01.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "218"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9bf8bda9d42fc3e113cd90bc398b3bac092fe943591beb324b88b4a450cdb700.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "218"
+				}
+			]
+		}
+	]
+}

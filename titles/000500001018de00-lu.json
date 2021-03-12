@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001018DE00",
+	"eshop_id": "20010000010029",
+	"product_code": "WUP-P-ATCP",
+	"name": "Tetrobot & Co.",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1699,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c07d8a604f3ad1401e15aa46acd431bd30ddae9ee70fd16c1bd2b87bb9e81d72.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/aae13d1453e8b34f731eb687433c40daec348e74f09357968c5052211592174b.jpg",
+	"data_size": "614236340",
+	"description": "Tetrobot est le plus populaire et le plus robuste des robots sur Terre, mais la perfection n'existe pas. C'est pourquoi moi, Maya, j'ai construit son petit frère microscopique Psychobot. Aidez-moi à guider Psy à l'intérieur des rouages et des circuits de Tetrobot : en absorbant des blocs de matière et en les recrachant, nous pouvons tout réparer. Apprenez comment fonctionnent tuyaux, lasers, ventilateurs et autres appareils électroniques, comment modifier les propriétés chimiques des slimes, et collectez tous les blocs de mémoire que vous trouverez en chemin. Les propriétaires des Tetrobots endommagés du monde entier comptent sur nous, car nous sommes les seules personnes capables de réparer leurs précieux robots.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-10-30",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/dcba4bb9d88c3284c73c8f8d325a5d5dd7e724e0035ade011d0432ecae234598.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/74a1d6a699941c57ba90b048f24eda541fdd94317f5f037094c9c4dab8ed7827.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9457dc3f4654fb3aea677e33f1d9b2ea124e4110c5fe6d1bbc741bc408f9044a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/91008cba2da9c8828c2f72b7b6426070932d7989c0078d8b23f688370bffae95.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/dc26e4fabf15257d474b7c39100c8d64051bd5662422f6c86064f1b7ff2b1ca5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6e721546dfba6da5e19981101ad706cf9b5c94bf582fa7e28e13ae2522de015e.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e0883711219d7d1f9a3a7a3a9d2a0103717269425c94bcbd5c8b9d2e9233902e.jpg",
+			"name": "Tetrobot & Co. : bande annonce",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b6e04cc7ec93375ca05a2231174d50453c102379713ffa2c1432c8c5f2cbe4b2.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "68"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0deba67e91b133c573d2afed943ae92d0ee86fb11fcd1d34575e7533bc98d698.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "69"
+				}
+			]
+		}
+	]
+}

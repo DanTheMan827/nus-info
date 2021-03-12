@@ -1,0 +1,78 @@
+{
+	"JP": {
+		"title_id": "0005000010136500",
+		"eshop_id": "20010000001873",
+		"product_code": "WUP-N-ARYJ",
+		"name": "龍が如く 1&2 HD for Wii U",
+		"platform": 125,
+		"platform_device": "WUP",
+		"publisher": 231,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/534ef14c8950ce5c3ac5326f23b7dae26a178cd48f1b119812b9a96dd6fea1b9.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/127b7a0633a9ad66077de1b5f9af06d33e4181380f925fc5dd26f09503675ffb.jpg",
+		"data_size": "19736790672",
+		"description": "ゲームの常識に挑み続ける『龍が如く』シリーズの原点が、遂にWii Uで登場! 練りに練ったシナリオ、細部まで徹底的に作り込まれたリアルな世界、迫力ある人間ドラマを実現した豪華スタッフ、セガが贈る大人のための最高のエンタテイメント作品『龍が如く』『龍が如く2』です。HD高画質のグラフィックやWii Uオリジナル機能を追加し、更に快適に遊び易く生まれ変わりました。 ",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2013-08-08",
+				"retail": "2013-08-08"
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/3a540893adee38627e51f57c503698ab7b6c5a60602468be8630619ccc8e9d45.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/9e501b260b644536281f1c6723c1b5a06bb03da9b94ad2235baebd08bd991499.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/7398f2b62ef8c6ebf8e7113d80cf150724fb0b6b3950bc9d8e45854d84e71282.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c03b145d07d732b886161fbbaf94476dd7daa670502748ab88213357dab509f0.jpg",
+				"name": "龍が如く 1&2 HD for Wii U 紹介映像1",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e06c6723a406de81a155a0086908210892b29bc343dc9174b8dcd0d6394b6d6c.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "162"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/af4958eb0a8f68b3bd1bb315523a9a3e5cabd5415581fd501fa26bec7e328130.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "162"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/faff9adf4f482390311d0250abde801da3147557be7cfea843c9c8cddc38e178.jpg",
+				"name": "龍が如く 1&2 HD for Wii U 紹介映像2",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6e8415b1d07a2c742db447f82578d401eb4f1fc0bd2125934d4c407ac451036b.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "132"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b117b66ffa5943efad55fa599397abefc773d54924930ea1c3bdbfc037adb67d.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "132"
+					}
+				]
+			}
+		]
+	}
+}

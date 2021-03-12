@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010109700",
+	"eshop_id": "20010000001003",
+	"product_code": "WUP-N-JADJ",
+	"name": "ゼルダの伝説 神々のトライフォース ",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f4561e63d1672623f5ac1dff5fc106bd47e8bc20af26e476b472dd939b156d87.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/2d8261d0de39f8450e0de1ec3429f1ab2de9b4073864be69e39cf70ad67ef848.jpg",
+	"data_size": "41025676",
+	"description": "このソフトは、1991年に発売されたスーパーファミコン用のアクションアドベンチャーゲームです。 邪悪の王ガノンを倒すため、主人公リンクを操作して、フィールドやダンジョンを冒険します。剣での攻撃は、回転斬りやダッシュ斬りなどさまざま。ブーメランや弓、爆弾など、冒険の途中で入手できるアイテムもたくさんあります。走る、泳ぐなどの基本動作のほか、ものを担いで投げる、引っ張ることもでき、これらのアクションを状況に応じて使い分け、フィールドやダンジョンに隠された謎を解いてストーリーを進めていきます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-02-12",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/d2126a77b6f655a88a172ebeae9f9356f3e29dc0c48c78e5a644662a3f1c10ef.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e3c21d8e3ff6bfaf174307c23a25773cc361db6e417c1b752a5e9abaf4942bd7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c202a2e1adfc46b1802b895cc526a7b46e1cf7efd248a8a6089a3981cedc8aef.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/143c4973a1bbaea7828812a36b0b034e293161f0a318b851d4af42ec168a50be.jpg",
+			"name": "ゼルダの伝説 神々のトライフォース プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0593d21582a2c0cd96bfe2a60d4a0158afa7493242b987c116fa8b1edbeb565e.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/caaeecb53243ecc91bae033082d743361ca311d343b6fc77463cac04e43c335d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				}
+			]
+		}
+	]
+}

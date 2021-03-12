@@ -1,0 +1,53 @@
+{
+	"title_id": "000500001014A500",
+	"eshop_id": "20010000003384",
+	"product_code": "WUP-N-FBQE",
+	"name": "Clu Clu Land™",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/aa4004f7f833d16719b0cfe9933685e6d830923f4c93f57328dfdd3a1a10258a.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d15cdc13ac5907b556889d9523c9fff5123e7d3405aef8c1bc6a572a601a84c4.jpg",
+	"data_size": "36503692",
+	"description": "Unos codiciosos erizos marinos han robado todas las barras de oro de Clu Clu Land y las enterraron en diversos laberintos. Jugando como Bubbles, un atrevido pez bubble, deberás encontrar todas las barras de oro en cada laberinto. Debes ser cuidadoso: los erizos marinos perseguirán a Bubbles de una manera incansable. Evita además los peligrosos hoyos negros. Bubbles no está indefenso, tiene la habilidad de aturdir a los erizos de mar con ondas sonoras y cambiar de dirección rápidamente enviando mensajes dispersos a lo largo de cada etapa. Adicionalmente, la localización de las barras de oro en cada laberinto forma parte del patrón de otro objeto, una vez conozcas cual es el objeto, sabrás donde encontrar el oro. Con 20 etapas para jugar y con condiciones que incrementan su complejidad en cada etapa (como tener que pasar por las barras de oro dos veces para conseguir recuperarlas), tal vez sea mejor contar con la ayuda de un amigo.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-10-17",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/2e8398f647ceb5b0e223315ec785eae2cdeec4c20bdd09d31f87a8f046ed3a5f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d75b41a50ca78f0299b0e4f54857fe2878d468d19c0506bd71888b157c30f9de.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/23298c6adf09ad923e67758ad2076c01d3f5b21c3be3aee3a276b1214bfdba47.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/cecf0af1acb8412001fa563e7bf7a937cdc9d9bad46ee8f27fa6e305bba1dea1.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/38edf642a738ab3aac101c0cb4f63ad02f6a0bd7e7e1ec07b4467ead7cbd2cba.jpg",
+			"name": "Avance para lanzamiento Clu Clu Land™",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7763b564600f1fdc55fbfe215e6e3da304f1e2b933262cc43db506bb60978371.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "20"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/16fbdbb04fc2ed8eb375a692eea7b7926901432974269b18c021832cc85d3742.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "20"
+				}
+			]
+		}
+	]
+}

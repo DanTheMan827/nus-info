@@ -1,0 +1,109 @@
+{
+	"title_id": "000400000018F200",
+	"eshop_id": "50010000041963",
+	"product_code": "CTR-P-BQ8P",
+	"name": "Dragon Quest® VIII: Journey of the Cursed King",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/62bfb903a0ace05ec9144dfbe48e27551de2a20968de7e88f64f6f63012776bb.jpg",
+	"data_size": "3199757156",
+	"description": "A história começa quando o bobo Dhoulmagus chega ao castelo Trodain e rouba o cetro do rei, cujo poder utiliza para transformar \"Sua Majestade\" num troll, a princesa num cavalo e os habitantes do castelo em plantas. O único que consegue escapar incólume a este ataque é um guarda do castelo, cuja missão será agora salvar o reino que jurou proteger.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2017-01-20",
+			"retail": "2017-01-20"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/df9b9e09bf78a6072b090300553ea631e3185119fa8880a3825674e53d55df57.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b8fb3306b0e01cb494ee081af4bf7304f6a0b39cb92ba5a8a56cccfd5b01679b.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2c2e533cb0db24a10d5a7ded09d28ece0fc34e1958842c9194b7612b32ff9304.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/81eb686dda6959937a3818bd7426ea202605750e768987a9f78c318241b655d6.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/720e2faca7acaed4bea1b9b307cea05b8ebc5f10c4e72cdb14ee1dbeb68def84.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4787ca2ff945a32d81ddf517e63bf601680b246c108b529a59be278464187212.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/557dcbc50557bd5bb441158859a9ef89ce068e13c1402e72ee6f573b6739a313.jpg",
+			"name": "Dragon Quest VIII: Trailer de lançamento",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/73db5e2cf2ac7becc4d469f7086d83fdda6d11e235bae56f09498e157e584af0.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "155"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/61b80945dc5b2d16dec34cbef8584d13fec5b923297d3d91858c2786ff9b9166.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "155"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/557dcbc50557bd5bb441158859a9ef89ce068e13c1402e72ee6f573b6739a313.jpg",
+			"name": "Dragon Quest VIII: Trailer da História",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/75af024d3815ec87a2735cfb38628bf4c995ada97febef901855af1fff59838d.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "155"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/65244a24bfe190441aa340fbcf8f56aab906e54a448230a2b66bc848db723976.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "155"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/557dcbc50557bd5bb441158859a9ef89ce068e13c1402e72ee6f573b6739a313.jpg",
+			"name": "Dragon Quest VIII: Trailer de novidades",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/73ace97ef55560e56bde6827b281499cacccff39eede4b1fc628800ae6908ae6.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "138"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c1e63be866c8f37700cb3e643c58c51125a036dad4e6a23cce74516218c701a2.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "138"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101CC900",
+	"eshop_id": "20010000019707",
+	"product_code": "WUP-P-AFEP",
+	"name": "Freedom Planet",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1508,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0906babbbde67539c34febad5b9b69c4d487360be21d41e0d2e6dc9ee5bae420.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e42dd69a1eb5ea39d5c4ed108c21c211d83e7f2a7eaad2f9f0917161b3236fbf.jpg",
+	"data_size": "370606240",
+	"description": "Fight your way across the celestial world of Avalice where cats are green, motorcycles drive up walls and monster girls do most of the buttkicking! Freedom Planet is a cartoony, combat-based platform adventure that pits a spunky dragonoid and her friends against an alien attack force. * As Lilac, you can whip enemies with your hair or use the Dragon Boost to fly through the air at high speed like a comet. * As Carol, you can bust through foes with a flurry of punches and kicks or summon a motorcycle that lets you ride up walls and ceilings. * As Milla, you can summon blocks to throw at enemies or reflect their attacks back at them with a psychic shield. Help Lilac and friends save their world from war in an engaging Adventure mode with fully voiced cutscenes, or skip the fluff and play each stage in order with Classic mode. Do you have what it takes to save Avalice from the wrath of Lord Brevon and his robotic minions?",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-10-29",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/03916df7e884f850f183ce6cd896144c0d33de1008ecc29f38044c5519cbcf63.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/99c4d99621508121c82d64501503c9387ce0ed951554556402786a49b31e6eb3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5a6d16e6456c5715c3cf3cb3305463f301c735c816d7840c6d10b63248d5efd0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/39bef8f655e4aba634d106f0af14dd807350f3aeb9dd5c77346c4468e7ac0aec.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/40c058ede42b67afc486e165e55a5eee0354e98804dad5e5924875126c9c78e0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/43d8c25438317896f35242cec87f1ac88b5e0e00fe3ca13ef38706cbf042afa4.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c34ec3892b60f53f77b2d6606d60dab070aef27a79b5fb1742a7948f47bd61ae.jpg",
+			"name": "Freedom Planet: Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/04fc9abac08e9908380418404f23578fd1a123fd502f87dbab09c47f528efa30.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "124"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8edb5aed36043cf39197d53b14af25a131a6f87787c1d44dc17b43c62192af66.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "124"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,69 @@
+{
+	"JP": {
+		"title_id": "0004000000052600",
+		"eshop_id": "50010000006749",
+		"product_code": "CTR-N-JACJ",
+		"name": "オセロ3D",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 19,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/229ed1f7fa2341112527049eae37ecf723dff19dcbf2e09d89279ef3585dc7ad.jpg",
+		"data_size": "33954660",
+		"description": "コンピュータの強さは12段階。初心者から上級者まで好きな強さのコンピュータと対戦できます。 本ソフトを購入済みのニンテンドー3DSが1台あれば、順番に交代しながら打っていくことで2人対戦が楽しめます。 対局終了後にリプレイデータが保存できます。対局を見直したり、途中から始めることが可能です。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2011-06-07",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e5ddc756beefbdbf2f04e68c8bd6d923e4cc3ded70be087d02745f397ac3dbb1.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7c95721dab79626cb92475a104645c1dafdf2d6f34bf218e0214f1cba815bc8e.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e51e829c114b4cb091ad2d00bb2fa091c6c6c1a2a6b7afee7d6bc37441dd8bad.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4fb14eeb771cfac865eca12cb5a2de3cb6196e62f76b3562ed94d4134e391859.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7b5f05e120d5f0cc1339d7ead2bd0ee508ee29952c36b4bc38ebe0519d41c7e4.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/be7e33348b3815beeb28ed42d33f9a36cd2193da830776f65fe800996a5275bb.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b73b714700d522ca602f326c7781993b599075ffc4fee000b181c142365c4436.jpg",
+				"name": "オセロ3D 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/77bf82ad6e0fae437e00e34a7fc18e4ba4de6325b4d7dcf3e0f1bee8e63ed2d1.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "104"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/deb691af8f3aadf0bdb6875ee26c82a9582735e369454ff71f22653cb69e8ffd.jpg",
+				"name": "オセロ3D プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f43fa27dbe146b7a646441d827b9c27db50b0849c9d429d066d384e47673e41e.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "44"
+					}
+				]
+			}
+		]
+	}
+}

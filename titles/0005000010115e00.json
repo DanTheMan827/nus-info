@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010115E00",
+		"eshop_id": "20010000000644",
+		"product_code": "WUP-N-ADQJ",
+		"name": "ドラゴンクエストⅩ 目覚めし五つの種族 オンライン",
+		"platform": 125,
+		"platform_device": "WUP",
+		"publisher": 246,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0defe97f2585dfc0b525ca64cb469c4ca5b55e4c355f99b92e743fdabaa640a0.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e80b4ddf31549dd1365b873c4874eaa61e63371147bb740cd5b4692b480fa80c.jpg",
+		"data_size": "71106680",
+		"description": "Wii版発売から8ヶ月、ついにWii Uで『ドラゴンクエストⅩ』が登場です! Wii U版では、高精細な画面とオーケストラ音源で冒険の臨場感アップ! さらにWii U GamePadを使用して、手元だけでのプレイも可能です。 また、Wii版で遊んでいるプレイヤーと同じ世界(サーバー)で冒険をお楽しみいただけます。",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2013-03-30",
+				"retail": "2013-03-30"
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/44f24ebb553129b5f32439561a85fe8056ec96725e2bc8c98ed3d2d25901a2ac.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/910b445052d9fafe65602364459c028d59066b03004021d4df2cba7f1f8b6fcb.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/cc25986122c00a7920d1b7ca4d5d74fdb70dfe4ead31b604a4973a4f5ba0c245.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a3cf6679f1b9ff1ccfb12e1db8e7efdd1171314cdd36a88560cf9b372be58e7d.jpg",
+				"name": "開発者が紹介する ドラゴンクエストX Wii U版に向けて",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d266ddf8739b16ce7e6adcaeafb1e91220c1ee62786c517f4c7234ed26b73f76.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "537"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5edd2a75aabf8c079df6dccf73f7879b8739b1f1f6ed48558c895458f76a15d6.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "537"
+					}
+				]
+			}
+		]
+	}
+}

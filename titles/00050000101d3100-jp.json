@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101D3100",
+	"eshop_id": "20010000018627",
+	"product_code": "WUP-N-WDUJ",
+	"name": "Darts UP ",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1402,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/949154f529e9a2f9cf7af84eb983b1b552321475ec7c209e2b38699b1b037ab4.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6baad7857ead088f1cf259d30f145f45d415964b74b6a1cb5524c648d4264904.jpg",
+	"data_size": "121864332",
+	"description": "『Darts UP』はひとりでも、家族でも気軽にダーツを楽しめるダーツゲームです。ゲームモードは「Classic」、「X01」、「Combo」、「Arcade」の4種類を収録。初心者から中上級者まで手軽に楽しめる内容となっております。対戦は最大4人まで楽しむことができます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-09-30",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/5d405c51f868d7362ba0810ce543fe66e6835a6ad02325aa43b5505bd0543a03.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c40e3719a82817acca186649008211f79341d340533aa76eb58f4cffb78105b4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6d5e4f3656f165152b939179a534d7b10e8e0973e4dbba6a79851049247f1da0.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c10ef0e0f84cdce91adc2a1edd4ccb00295d8741edde174f33515984b3282b89.jpg",
+			"name": "Darts UP 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5bfe87956ea1d0c767367fef75fca3e34ceee11dc8ad5fff9c2f23d27327a9f6.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "86"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/25e3bd9f18ca41749e99c255e402eae66a74816328d08761f4170043d1fae51d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "86"
+				}
+			]
+		}
+	]
+}

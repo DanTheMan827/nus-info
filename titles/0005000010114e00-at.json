@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010114E00",
+	"eshop_id": "20010000004804",
+	"product_code": "WUP-N-JALD",
+	"name": "The Legend of The Mystical Ninja",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6e80becea60339d73da9b6fd158cc5e309b23da25e74160b3a1c194f6fb644ad.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0f2f4966b005b2c25b918c7a66d7934986be497e9139c9c5b5b1ae243da213cb.jpg",
+	"data_size": "41222284",
+	"description": "Das Dorf Horo-Horo wurde mit einem Fluch belegt und die geliebte Prinzessin ist verschwunden. Die letzte Hoffnung ruht auf den Beschützern des Dorfes, Kid Ying und Dr. Yang. Dieses Action-Adventure aus der beliebten Goemon-Reihe ist eine unbeschwerte Geschichte für ein oder zwei Spieler. Du und ein Freund können in Städten nach Hinweisen suchen, Minispiele bestreiten und neue Techniken lernen, um dann in packenden Jump'n'Run-Abschnitten den Endgegner des Levels zu besiegen. Mit einer Menge Humor und japanischer Folklore ist The Legend of the Mystical Ninja ein wahrhaft skurriler Klassiker! Wenn du diesen Titel bereits aufdeiner Wii™ erworben hast, führe einen System-Transfer von deiner Wii auf deine Wii U™ durch, um ein Upgrade-Sonderangebot zu erhalten. Dies ist die europäische Version des Spiels, die vom Entwickler ursprünglich optimiert wurde, um Musik mit ähnlicher Geschwindigkeit abzuspielen wie die US-Version. Das Spiel, die Demos und die Animationen laufen mit PAL-Geschwindigkeit ab. Das Bildformat wurde für diese Version korrigiert.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-01-16",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/fddad65229d3352c76481a40fef8c3d9a043d14847d4d57eed803a17a7a1ab22.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/da26f0922ddd0211511f080f80700271c470aadf9b8f6d2979651d5163a2c346.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9c01614c12fa3fa9f686f0a70c4fec6ca7f7985692885de88b2b0ae82bc9be7f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/870862ab5c6f071104e5765248787263c36d53b80c3ed64809075189cb376f48.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/83bdd2c1e172dddd1d424b7ca83321e33f8686859a12b086195e09172d6af3f1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f06910b3423cfd363e7c96d40ecde959e954a9c26729401c7fcc29a82340a03a.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/90677fc7f395b35f25d5a11dbcaaf9b7713cd2780b8e711acd1189a78a90a67f.jpg",
+			"name": "The Legend of The Mystical Ninja: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7f662d7ca39a45432310670c905a10e7cc5f13b3fb5c20ba9723541bdd616683.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "51"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/62dee451e08f33e7e149312505daca8c3573174a9e1c6a6f43936f227cea1d02.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "51"
+				}
+			]
+		}
+	]
+}

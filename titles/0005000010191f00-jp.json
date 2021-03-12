@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010191F00",
+	"eshop_id": "20010000010726",
+	"product_code": "WUP-N-BSSJ",
+	"name": "ソニックトゥーン 太古の秘宝 ",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 231,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ab2926e732387386a964533544c9d6636ab8126f17c84c5c42a35e1cec542c53.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9fb20b8b7b95c1e87a7895ef85c45b76e241b6d88dcee58a3b6cb3a0757d2ea4.jpg",
+	"data_size": "8810300252",
+	"description": "秘宝をめぐる時空を超えた大冒険! 新ブランド『ソニックトゥーン』が、Wii Uに登場! 超音速ハリネズミのソニックが繰り広げる壮大なアクションアドベンチャー! 仲間のテイルスやナックルズ、エミーの4人で協力し、世界の滅亡を企む新たなる敵「リリック」に立ち向かう! 本作ではWii U GamePadを使っていつでも二人同時に協力プレイが可能。 仲間と力を合わせて、困難な謎解きや強大な敵に挑もう! さらに最大4人で協力してゴールを目指したり、本編で習得したテクニックを駆使して友だち同士で対戦するチームチャレンジモードを実装! 友だちや家族と一緒に楽しむこともできます。 ※ゲームをプレイするには、Wii U GamePadが必要です。 ※1人プレイはWii U GamePadを使ってゲームをプレイします。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2014-12-18",
+			"retail": "2014-12-18"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/d61f7ff75ad435e0cc596da53b2502f39b95ef76d67c3eb85c5b26afc34d577e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4b73741f2750ae9d56f806a066d29cb798207c6b90f1a45e86839e2801e161b9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1147038d5b22299c2bda5af9855f0664761556ee9993402406cc552d1cee3ae5.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8fdd8148bd31b73b685efed365ae293f4f018a12da583a8e5a7dc49e1927c72f.jpg",
+			"name": "ソニックトゥーン 太古の秘宝 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2aa656b988271c6bf5876c543e6526a9c113d6367e9d35ccd893b6df85da64ba.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "138"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e358f213b37fc7858f5263321ae6ab13c57012903793c5e2724ea1d3a0020975.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "138"
+				}
+			]
+		}
+	]
+}

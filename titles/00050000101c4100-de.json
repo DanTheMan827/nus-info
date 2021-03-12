@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101C4100",
+	"eshop_id": "20010000015248",
+	"product_code": "WUP-P-AFLP",
+	"name": "FullBlast",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 76,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5400a48d7ef007b0cfe18f1f3f33235895aad45a565186bbad1f93e5802e7e7d.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/1039a06aab2875940f7b1b97a8f1140ee2d030354888fdbab2e46c8b92a35e18.jpg",
+	"data_size": "210927756",
+	"description": "Viele haben es versucht und dabei ihr Leben gelassen... Alle dachten der Krieg gegen diese Mistviecher würde eine Spazierfahrt werden, aber es wird mehr brauchen als gedacht, die Menschheit braucht dich! Du bist unser Held, mach sie fertig!! Fullblast ist hochfrequentes Aktionspiel, geh und rette die Welt in atemberaubenden Levels voller Aliens. - Fantastische 3D-Grafiken - Power-Ups und Power-Downs!! Pass auf, was du einsammelst! - Heavy Metal Soundtrack - Achievements und Highscores - 2 Spiele - Spiel ohne Fernseher.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-06-04",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/2f92c7a07f358baa190149258c748adf52b87935dbb888269c5d99b3f39f7c02.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c37f8a544d3561866db89dbd58952cb96a0367fe9ea52be91233b91029fe147b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6e75a66ff34ce2fc2e9ecf20645ffa78d92f750e1c2338d642897416f6dbe201.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e3db849ba0ee41bc41b6467471193e4874c99f99ba34e9bd423b2d35e5132cea.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/263db9842b0ec9220cc26c9798a701b94dcdd9f9c5bae77f1c88d9ef4a5725cf.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/585bf5d9a329b0a4d466dd14daac4479b3f0b4d7637357f895a07a3b0a9ed504.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b0a0b003710de6e182a361837abfb192c25cfff54e1f235521cdcce8e3eab2e5.jpg",
+			"name": "FullBlast: Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/180f666455ee61c6f24d0e4a17ba96009a9dab767d965d69f0848592e785bbcd.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "109"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d1aac02f8f81b52eec87e414c1121c88d3797c05853554539d670372db0c2d5e.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "109"
+				}
+			]
+		}
+	]
+}

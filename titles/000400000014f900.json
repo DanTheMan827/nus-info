@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "000400000014F900",
+		"eshop_id": "50010000030496",
+		"product_code": "CTR-N-BKVJ",
+		"name": "ドラもじ のび太の漢字大作戦",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 462,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c6e3c97d083b531e7d38fe3b918ab83bf8e37130138784eea871b1572140e7a9.jpg",
+		"data_size": "154168164",
+		"description": "『ドラもじ』は、ひらがなや漢字を書いて字魔(じま)と対決する書き取りバトルゲーム。 書いた字は、書き順、字形、はね･はらいの正確さにより点数化され、その点数が字魔への攻撃力になります。 レベル選択は、幼稚園～小学6年生までOK! 『ドラもじ』でゲームを楽しみながら、正しいひらがな･カタカナ･漢字をマスターしましょう。",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-02-26",
+				"retail": "2015-02-26"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/fa17b6dc7fe5025b1ea7f39316515d79418cb95729f043a3660b0a37dd121da7.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/24348f0944b46714614f99b96a3d38a9978c0b3b1a65359265fe9822a5289ddd.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/808eaddd7ab72c766178a6d6aeaca6a1dbb70eed87a2a7fbe4f6e5a4bb0de243.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f9acc033a8343a6e46826af5861ba0c89585875d849f94313c1b2f44fc58db88.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/23a237a5791bb23bd1d2c2f3648d366f48aa9b3554a162739adb6f6a833174cb.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/41ff51991f857a284cf7a549461b09d9f9cbab229aa78ba39ceee78342977621.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c0e9988044c8e1e555ca0fcf6980ead81fc9d2efe6c22ad7805f142086b277f7.jpg",
+				"name": "ドラもじ のび太の漢字大作戦 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8c784c394c98229eddfb0a9d3e997ca12c06ab818c1d747bcc2789a9917483dc.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "164"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f90e41d03e73b75e16b5ee15d755dc10c8354f3e68bf67a2828c1dfa67a40192.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "164"
+					}
+				]
+			}
+		]
+	}
+}

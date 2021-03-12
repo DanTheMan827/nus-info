@@ -1,0 +1,87 @@
+{
+	"JP": {
+		"title_id": "0004000000125E00",
+		"eshop_id": "50010000031819",
+		"product_code": "CTR-N-JWXJ",
+		"name": "サムライディフェンダー",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 1212,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/58f47caa900b82bf084f8fbaede90b11a8e2a99be9f081544acb8a0d1c3e7208.jpg",
+		"data_size": "49978212",
+		"description": "『サムライディフェンダー』は、戦国時代の世界観で、次々と攻めてくる敵兵に対抗するため、自軍の指揮官となって兵を操作し、城を守りきる「戦国ディフェンスゲーム」です。 タッチで弓兵の射撃照準点を指定し、タッチ&ドラッグで援軍を召喚! 迫りくる戦国武将を跳ねのけ、お城を守り切れ! カンタン操作でありつつ、後半のステージになるにつれ、「敵の大群vs.自軍の大群」のバトルになり、「ワラワラわちゃわちゃ感」が楽しめる作品です。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-03-25",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bfa9b7a6bbdeec54d41ff4c75ff1483cd191848747839f49b4bc59bb32e464a6.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/dfa12fd98b1888484a3d42ce69a40cf602f7175a5e1fbe252c47f611c8a0e754.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ae3c341d41851c8b438eba7f6d9ff0f75f215559ece571a77c22d469d8f5f76c.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/17c88f7e234bdd381a0b8ebee83e743d8be662df4bcae5248f8b774bde2dec7d.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/4a44bcc2ce0a8e207111fa5a2a0e363ee96712ca7f4ec996f9eb119fe1a7ac58.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b38f4898200ef2bc06777096e4131c7b006196b2e6ead5263808a83998e66757.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0fc51c12d111b118ac0f39748b1d9417489d0e1de351501415c37bc814f4e1bc.jpg",
+				"name": "サムライディフェンダー 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c01f735f54da468076476e268ab908378e47793b774cd8a63b09056bb3638ec6.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f4e0b2ca199c686624b79cd0bc83eb6fbae85c32cbf46b36f5bfbd7b3eac5442.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/57733235f483905fe41d13913c63c7625dffd4fa34bffd51dfcffca4b26ede2f.jpg",
+				"name": "サムライディフェンダー 紹介映像2",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/741f7a960f9332c97e2992ea2113b8dd3dc148ba53012d7e6c235ce3369e09b5.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "101"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/823770f5ff88c440b3c5888e70f17c579c39cfdccbcfa286b1544d8adc975474.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "101"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001016BA00",
+		"eshop_id": "20010000006446",
+		"product_code": "WUP-N-FC2J",
+		"name": "燃えろ!!プロ野球",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 1800,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/258591e0ca7cf9759be1af95f1903f8192776b82bd125e12245a5cd14cfde879.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ad2f2d6bdd61db7d199b3022d4d3afff947fb14762f8a4ccf921a94a5f5aeb0a.jpg",
+		"data_size": "38797472",
+		"description": "このソフトは、1987年に発売されたファミリーコンピュータ用の野球ゲームです。 個性豊かな12球団から1つを選び、ペナントレースでの優勝をめざします。当時としてはリアルなグラフィックと音声で、プロ野球中継さながらの臨場感を再現。2人対戦では、VSモード限定のOBチームが選択可能。往年の名選手たちが試合を盛り上げます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-10-22",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/e37d56e24c4d8033d55cd68b20fab42d807912dd427a7c984370bd2622cd56b3.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/1c5c2344a0c6ba5b8f3951e532ac0dbaa8c88ae8792a68e31e4fe855b14dd0f4.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/54535dc0e81189a161d2aa235221f730e0e7a5b9f91fc338feb3cb133116adc6.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/20c9c329ea7c6e16a64451c557f9d5312b4bb9a17766c5f41d3bca1741f217c1.jpg",
+				"name": "燃えろ!!プロ野球 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ddc34cc7daff309ed02e38bdeb8f126dee3cf6fbfb20a1146c2143d19f84056a.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "45"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1af91142343ba4455af025b6612d44de5d8fb1e31bb0efe8f302056b043e2e96.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "45"
+					}
+				]
+			}
+		]
+	}
+}

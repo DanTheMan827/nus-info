@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010180400",
+		"eshop_id": "20010000008566",
+		"product_code": "WUP-N-PBEJ",
+		"name": "ロックマン ゼロ",
+		"platform": 168,
+		"platform_device": "WUP",
+		"publisher": 39,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8cc244fca459d69c76323a1762daa1dd25fa298235c07db4aacbbd1e7a9da1d7.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5d2e9ecd95fcd93188b8830deb489b16485b0df955e47e1870df0749640b459c.jpg",
+		"data_size": "85164152",
+		"description": "このソフトは、2002年に発売されたゲームボーイアドバンス用のアクションゲームです。 レプリロイドを凶暴化させる∑ウィルスの発生が発端となり、長きにわたって繰り広げられた「イレギュラー戦争」。その永遠に続くかと思われた戦いも、ついにはひとりの英雄「エックス」の活躍によって終わりを告げ、世界は復興の道を歩み始めた。人間が幸せに生活することができるユートピアを目指し再生の拠点として築き上げられた都市「ネオ･アルカディア」。人々はようやく笑顔を取り戻せるかにみえた……。 しかしそこではレプリロイドのイレギュラー化を恐れる政府が、不当な理由で次々とレプリロイドたちを処分していた。 このままではみんな死んでしまう! 元科学者の少女「シエル」はある場所に今もねむっている伝説のレプリロイド「ゼロ」の名を思い出した……もし伝説が本当なら……。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-10-22",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/4c9ad14f3a33f88eb4b3c07872f65b50ba59f611ee2c98257b57ccb88c447144.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/4c03eea13c2465cd85ee83dd671bc0b51c8ee10c7c0b7c2778e8b289c4f429f8.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/b1a3fda262493ecb944e39389a0f4f88fe020480309db962295f1927f0389be4.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f6559b1289eed89378b4c100fa60ae64c81de819bb455412295a839e46a30e3e.jpg",
+				"name": "ロックマン ゼロ プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3f2cb5e58c2e7a1d4d54055566f1f2b3d4b92fd140d7214c5a4fa9042700954f.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "45"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/821c9a81dbfb5c9c054c4ff1dbe610588f8ab09ad7db41eb6fadadcc97fa589c.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "45"
+					}
+				]
+			}
+		]
+	}
+}

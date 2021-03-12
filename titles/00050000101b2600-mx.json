@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101B2600",
+	"eshop_id": "20010000025812",
+	"product_code": "WUP-N-VAXE",
+	"name": "Excitebots™: Trick Racing",
+	"platform": 171,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5c91e7e319616e575268165260076908d5c9dcae2073c8b7fbf9e6f3fc726c39.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/dab943c4d3ed1680a263f303d363c1836daa926928f595d0284008478fc7467d.jpg",
+	"data_size": "956530948",
+	"description": "¡Carreras a otro nivel! Pilotea robóticos vehículos en forma de insectos y animales a toda velocidad. Da increíbles saltos, trucos, y vuela por los aires mientras atraviesas obstáculos de lo más alocados, ¿Qué tan alocados? Pues digamos que te puedes topar con cables de alta tensión, manos de póker y bolos, por mencionar algunos.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-12-15",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/b42fcf635c99493a75f4dadd44b051d9b586be80e04eb1c572c5f8a1f14d4d16.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/08401d6bc30db283b9450d93f3c3ec73178be2ba9f57ce0b2cc8a98dc7f1c1b2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7971e8e03bbe856f852d90bbc39a3e8893f6247ab4c5b165c41d386764afef9b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/716ce5dea51eb74a0a18c51c52ccf9a5abc8b1c95b07faaafc2783ec8313c7dd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/39e2ccd0c17a0cc5b048977a914764527db929340dbff054d950a62dedfd8db7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d312622d575899cb75aa14e1b6fe18d01e4f82b4803d7c8b1c9f81ba7c12b933.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fee639348f9a946e7ea769e468d8ddd71a0ad80fa146071a99a3a6ba2bf95a68.jpg",
+			"name": "Trailer de lançamento Excitebots: Trick Racing",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/69bc4840c9391fd1b28a29eae31c4fd7c32fb144e869d7b1d7d18908d42bea61.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "53"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/81db3f61949b3ccb8583b2e97c77470061ec0263553b20ebd6488c2aa2133487.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "53"
+				}
+			]
+		}
+	]
+}

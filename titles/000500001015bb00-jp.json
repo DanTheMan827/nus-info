@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001015BB00",
+	"eshop_id": "20010000005607",
+	"product_code": "WUP-N-PNGJ",
+	"name": "PC原人2 ",
+	"platform": 166,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/43805bf008a1ace4c49aa885e5646b5b0f2ff2e0e5c5ed6198e97c928025f905.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7346d55f0e7ac13205e2667bfea4c7634938a7e97e7121667a5a07efa00dda22.jpg",
+	"data_size": "81461368",
+	"description": "主人公が「石頭」を武器に大活躍する、好評の『PC原人』シリーズ第2弾です。さらなる繁栄を遂げた「恐竜王国」を舞台に、おなじみの「PC原人」をあやつって敵の親玉「キングタマゴドンIII世」に立ち向かいます。 ゲームは「ジャンプ」と「ボンク（頭突き）」を武器に敵の攻撃をかわしながらゴールを目指して進んで行く、横スクロールタイプのコミカルアクション。 前作と同様に、原人はステージ上に出現する「肉」を食べると2段階に変身し、攻撃力も2倍、3倍とパワーアップします。ゲーム中に隠されているボーナスステージは全部で8種類。これに加えて、ボスを倒した後に出現する「恐竜列車」のグレードは、それぞれラウンドで集めた「スマイルマーク」の数で変化します。 「三角とび」や「大車輪」など新たなアクションも追加され、バラエティーに富んだ全7ラウンドの冒険が繰り広げられます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-03-12",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/030a81e8e05e03a9ecaf01988f09344b04618cd098f0207dcdb27f1f5e7b93cc.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c354beba2727175269873bf7573112585d3eaec3687e70a589ceb3fc68dec494.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/71d34e5bb07cf81ab4d71846e79a7676c62928440f2a0950ac62fb5336969ccf.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/df9772213c890646ac0a4266cc5a1ae31da27f9bb9a1febda5f6929e30a2554b.jpg",
+			"name": "PC原人2 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/94ff4e2b5721c440ddda443af7042662ce07362655383ae0bf7b9abc0f146749.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "40"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7665c48f32e174bf8509f05b7d4a85300eda3651277c8e7adc731362b914a680.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "40"
+				}
+			]
+		}
+	]
+}

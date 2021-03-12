@@ -1,0 +1,76 @@
+{
+	"title_id": "0004000000103100",
+	"eshop_id": "50010000017463",
+	"product_code": "CTR-N-BSDJ",
+	"name": "難攻不落三国伝 ～蜀と時の銅雀～",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 1106,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8b93b21b434e63b33addfb3c15359150a169dc15d458b606e5e2b66901144ab3.jpg",
+	"data_size": "429079396",
+	"description": "2017年8月21日(月)19時に、本ソフトの配信を終了いたしました。 ------------------------------------------- 本作は、パラレルワールドの三国時代を舞台に繰り広げる、新感覚防衛バトルゲームです。 プレイヤーは軍師となって「兵士」や「武将」を戦場に配置し、ルートに沿って侵攻する敵軍を撃退、拠点を防衛します。 兵士を強化する「陣形」や、局面を一転する「計略」など、様々な要素がバトルを盛り上げます。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-11-28",
+			"retail": "2013-11-28"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/805cc57955c07c92b48aa5385cf227bb7020269a6cc07df78fb2f4ead041f6d4.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/abeb8c1af8bd076f61cc1fce1cd4d30883ea218f97bec3ce7cf836755db3da77.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b9bdc86765da5b43b91521aeeacdc2b57921718fc0e5a4ec2214354155dbb3c2.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e323a50647d666bb3c6d9e598ebc04a558f79ae64cbd94fcecaf568fd232ef29.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5273e6fa0596c6d19e62fce2604f6bf232e627d239ad229fba2599503350afd5.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7c9a57d148de29a278f5f8c7921d348db80ddeaf88af46dc790f3ab253996cfd.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/aefc847e44be7733ca1020999316cba7710d212f5e462ca879ed4a61acae270d.jpg",
+			"name": "難攻不落三国伝～蜀と時の銅雀～ 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fcba1d0580bd19fdb99edceddfa3c63318660ec24c7bb560edb2c513c8d01727.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "131"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/32be1edc3d6e67d84c14d5d178acab8a8d867acc9407d843c5090239177d573e.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "131"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b456cb7663b3cc6ca491baeafc3cf0be549cd6eb8917e33820174edc7a6f4249.jpg",
+			"name": "難攻不落三国伝～蜀と時の銅雀～ プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d49b8380551ac63fe38362c383be55819c521383a49547ed37b5cb8592126284.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				}
+			]
+		}
+	]
+}

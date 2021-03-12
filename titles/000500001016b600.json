@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001016B600",
+		"eshop_id": "20010000005786",
+		"product_code": "WUP-N-FCYJ",
+		"name": "ジョイメカファイト",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/25bfd8c98ee4ac0dbbc1a6b532cdfe8900bf6e8ac3c735db5c23e9240fcc17b6.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8f7b20fa550f33698ef45f1aef136812da82dc6ee4781062ade765ce68aeb0f8.jpg",
+		"data_size": "38895776",
+		"description": "このソフトは、1993年に発売されたファミリーコンピュータ用のロボット格闘対戦アクションゲームです。 ロボットによる世界征服宣言をしたイワン・ワルナッチ博士に対抗するために、リトル・イーモン博士の作ったロボット「スカポン」を操作して立ち向かいます。対戦に勝利すると使えるロボットが増えます。各ロボットは技の種類やスピードなど特徴があり、それぞれ4つの必殺技を持っているので、敵ロボットに応じて使い分けて戦います。ストーリーを楽しむ「1Pクエスト」や友達と対戦できる「1P vs 2P」など、さまざまなモードが用意されています。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-05-28",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/79d12eaa49ca76dd6bb89017cc95ac7198921247d24747d071930abf7f80c76e.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/8afc079994822d0e6305d8e14465bfa094cb60d0947a8058b2e7f1f82df2f9f1.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/23f4376cf52cc886237324133e29dc10a0f585546ee64ee3350b2f4cae60e4f4.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1e2e6fb26ffad2cb47eab935f6b961f89e5e212e4a0bea4e83dfffe6222fe909.jpg",
+				"name": "ジョイメカファイト プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/aeb7c893748a9887cf3b62ece2cf085a9f72d96d45ee96cce495a3df61b02de3.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "49"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/26448836f170f51dd86a09ed2bac279216273e4c5fe4cc2ef2c2c21930038470.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "49"
+					}
+				]
+			}
+		]
+	}
+}

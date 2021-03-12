@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000F705100",
+	"eshop_id": "50010000041539",
+	"product_code": "KTR-N-UA8J",
+	"name": "ロマンシング サ・ガ",
+	"platform": 1004,
+	"platform_device": "CTR",
+	"publisher": 246,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d55534a9c160c09c39b93c9a9d1cd243942c24f2c2043c11dfe8f54f4f070fe2.jpg",
+	"data_size": "4184932",
+	"description": "このソフトは、1992年に発売されたスーパーファミコン用のロールプレイングゲームです。 境遇の異なる8人の主人公から1人を選んで、目的の達成を目指す旅に出ます。ゲーム中に登場する町やイベントに挑むかどうかはプレイヤーに委ねられているので、自由度の高い冒険を楽しむことができます。 向かう先々で起こる戦闘では、さまざまな場所で出会う仲間とともに、縦横3列ずつの9マスからパーティの陣形を決めて戦います。 キャラクターは使用した武器や、術によって異なる成長を見せます。術に特化させたり、武器の攻撃を得意にしたりして、陣形と合わせてバランス良いパーティを組み立てることが勝利のポイントです。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-11-21",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/397ba3da380a8450b16a4205534c31b1f872fb47915ad4082298b49343cff007.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d8f9e8b4cac0fe8995f9be5c1484a2639793d4bd25c6be13ac145343d02a6daf.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3e6e4ece71fbb93640f6a3d806758ccd38a7fe6b5b2888c383ac331f6db20131.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/77dff6b4b04649a226677f5d850ece92c55f1f57d0ac24b9851a3f8f64503d26.jpg",
+			"name": "ロマンシング サ・ガ プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fa48f62ce00451f40072defe1646cb467834888a973daa25bee80c92cd79b4dc.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "87"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f8e19fa579b4b7001600b9398247148f59591aa5eaafea39c1820289a59bce77.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "87"
+				}
+			]
+		}
+	]
+}

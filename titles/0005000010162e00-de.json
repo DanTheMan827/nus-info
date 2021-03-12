@@ -1,0 +1,103 @@
+{
+	"title_id": "0005000010162E00",
+	"eshop_id": "20010000012967",
+	"product_code": "WUP-P-ABAP",
+	"name": "Mario Party™ 10",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6e61fe1dda6f21288e840027c450e6ad9edd92b3edf44347cb016a34c164fda0.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3a5bdf0a85157ec86eaf669faa34e3b052f922e448d6e574ee6bf68bd4729041.jpg",
+	"data_size": "3167256936",
+	"description": "In diesem, von Brettspielen inspiriterten Wii U-Spiel für bis zu fünf Spieler sind Mario und seine Freunde die Stars. Im einzigartigen Bowser Party-Modus übernimmt ein Spieler mit dem Wii U GamePad die Rolle von Bowser und muss gegen die vier Spieler in Team Mario antreten! Im amiibo Party-Modus können kompatible amiibo als Spielfiguren verwendet werden. Da bleiben Überraschungen natürlich nicht aus! Unter amiibo.nintendo.eu finden Sie eine Liste kompatibler amiibo™ und aktuelle Informationen.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2015-03-20",
+			"retail": "2015-03-20"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/78ccb996b7b85a2eff81730fe443af0a1d8280b6b8e819d812e111ab5c2cf180.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5723b230c4c953db474c20da6d75bc2a26e31ba2cce2e711e773bd1707ce70d9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1464ff53f617dd22e27e3bdea041ef152e81e05f2b6ff410bf085483b033551b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c5f8c1f4f4adb2f6184068c93e0ac909bb30c9dd88bbdac6b22b8a8a93823551.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/08cb108dd260cf9a0c7a170ae4755dded0230da45a2425847e4fee7c533a88c6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5042988e2ea6db31d24465247e26c3f1aa64d179025b48da2034661193ded529.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/57fdd316b2340175b5788726e1755b7f2ebae22c84880a1d8db81fb8ce0ca5ac.jpg",
+			"name": "Mario Party 10: Trailer zum Verkaufsstart",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f303bc3d9c8803456403968a46988d1b08325f5b7377821de2352dedc2e13cbe.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "167"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d639d9b568f7f18fc1b05da6c850e6663a6d436eb1e569a2e60698a7d219f6ef.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "167"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/908f6bbeb973133a8cee0b2d6bae286fdd12de1d94311d73cd68da450e9ec0e1.jpg",
+			"name": "Mario Party 10: Trailer (14.01.2015)",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/aa09d4742b4bf159c568f4732806dfc4fcb296b94309870f4f96498ce5d69fba.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "92"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/08e15185141997f1a47a7bb5adede851309f6de851e96a97a29740f939b0b2bd.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "92"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/908f6bbeb973133a8cee0b2d6bae286fdd12de1d94311d73cd68da450e9ec0e1.jpg",
+			"name": "Mario Party 10: Trailer (E3 2014)",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ab7ad8df9c2cad03dddc3e0efbec93efaa8896f15e66974de2b3afaa56458cd3.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "68"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fd718db64d9860213a1b60d979752a0bd82141a98b3a758e41b799f5023a1ce6.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "68"
+				}
+			]
+		}
+	]
+}

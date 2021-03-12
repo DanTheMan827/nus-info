@@ -1,0 +1,54 @@
+{
+	"title_id": "000500001016AE00",
+	"eshop_id": "20010000024391",
+	"product_code": "WUP-N-WGME",
+	"name": "Wings of Magloryx",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1234,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/05f305ced80e456163bfca82bf00f031ff98c7cda178121b26bced1b721164b9.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/82d74a3c598fea8e7be5941b88853b1602d163290dfcf40b0a8a7cfed0f938fa.jpg",
+	"data_size": "856621256",
+	"description": "Estás Magloryx el dragón. Debe volar, usar la magia, y el combate para destruir castillos, recoger el oro y recuperar sus cinco reliquias robadas. Cada uno de los cinco mundos ofrece un nuevo reto. El oro puede ser utilizado para comprar hechizos y mejoras que le ayudarán a lo largo del juego, especialmente durante los combates contra jefes desafiantes. ¿Puede ayudar a Magloryx recuperar sus tesoros y volver a casa? ¿Se puede devolver la paz a los HoverRealms?",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-09-22",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/b352e79e7550931a4e338796de6c7be2a04b7f498163c4bc4df0e0f83f814034.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b7db5a222c4fb9b2f7d63ddf6f4104cb51d1451452312d8e0fc67fdabf1e5ba4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ff18211c9dec84d714f4b785ef85fc151589b8b3a50196676538a389093e0768.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/81a4d9ffecdbb81e728c4c7e51df3cc78af3d1c5c68c3706ae905d183e807dc2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2a3f8f5626b8f2af140d7675d4f896c08bc907a15c5025b0b2f4d20cef29e997.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9352b35d24b6bd1ab68afe34131f1663b920a8dd2f009e30ead767c7f3fa2fdb.jpg",
+			"name": "Avance para lanzamiento Wings of Magloryx",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c5a44bf83d172865f289ce1dd80b8ac80849549af892a9aedcd107ef67248423.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "59"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4cf5b678c4fc38ba4aa50e2729100bd1d03320d25d55de63913c0fcfcb4ff04a.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "59"
+				}
+			]
+		}
+	]
+}

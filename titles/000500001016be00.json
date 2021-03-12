@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001016BE00",
+		"eshop_id": "20010000006246",
+		"product_code": "WUP-N-FC5J",
+		"name": "ロックマン5 ブルースの罠!?",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 39,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8670edcb1341220fed57a591bd3b06c10505394cf74bed9cb6f7e2ed59634e08.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ecb24609445db5b710ac991200e8c6bfa721d98b81d916ab6984768f8e0db96a.jpg",
+		"data_size": "38961312",
+		"description": "このソフトは、1992年に発売されたファミリーコンピュータ用のアクションゲームです。 さらわれたライト博士を救うため、ブルース率いる謎のロボット軍団に挑むロックマン。パワーアップした「スーパーロックバスター」や倒したボスの武器を使って、多様なステージを進みます。ある条件でサポートロボットのビートが登場。敵に体当たりしてロックマンをサポートします。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-04-23",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/aca4f0160383f9cc0e0e8cb2bac0b5e555cacb04d21742ec11fb11330170b538.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/3f05b3e261eb68b6d7943f110ccdb53d42a154867fd1ac2cf3303dc37ab2c42d.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/2c7fb283f5e7f154397901c6fc281dbe82e5faab96a66c720898ef0d1fe35a48.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5fc45d6b57dc2751eb400c9cd0a3472878ab7b600a60988d40358afc03db64ea.jpg",
+				"name": "ロックマン5 ブルースの罠!? プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/117878df747387c2398fc6a47f303c7ea79bfd5d235b00f558b2703045088e5e.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "43"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c3c2e7e06790285bf007d7e7ed3662923d8914863772801587d2c34336407091.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "43"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001017D000",
+	"eshop_id": "20010000011807",
+	"product_code": "WUP-N-PBBP",
+	"name": "Fire Emblem™ : The Sacred Stones",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9330efbfd94561ee82fa2dddeb72be2d104a2087f7b2eed54ba3094b6b516314.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e649b93677803928dd208bc9a0725e83c718fda10fdad2dca5c29220940beaca.jpg",
+	"data_size": "109412472",
+	"description": "Le paisible royaume de Renais a été attaqué par son allié l'Empire Grado. Les héritiers du trône de Renais doivent maintenant libérer leurs terres et éclaircir le mystère de la trahison des Grado. Encensé par la critique, ce chapitre de la célèbre série de jeux de rôle stratégiques apporte une nouvelle histoire passionnante et de nombreuses fonctionnalités inédites. Dirigez vos armées, de l'habituel Chevalier pégase aux nouvelles unités comme le Chevalier mage, et combattez sur plus de 20 niveaux épiques remplis d'action, de sorcellerie et de combats à l'épée.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-01-01",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/084960d315939545cb2cc1e7b7cf798c6c996d2dfb03d720fdd707ef89180d1b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/78a3de98f07cb6101a61ed0a3fc90ede46dd5d74cc40c0a672944fc64c6c4e0d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/febde3f62dec22186caf227f6a75e16deab0f1e6e432df2e6ed578f3bb56a31a.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/877c832d0331b259198f80f4d0ad10f0086153b8b2712fe7a72a2b7a4a13fb80.jpg",
+			"name": "Fire Emblem™: The Sacred Stones : vidéo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2f97be9bd2e9d1527afdbb9ce115cfc602d880c08c9a21f19ab30d01f2f59a1a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "47"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fa5fb5a7a234102d1bbebee10f8e438f3f1d073428a8d2679fd163253776a202.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "47"
+				}
+			]
+		}
+	]
+}

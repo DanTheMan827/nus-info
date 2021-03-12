@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000126800",
+	"eshop_id": "50010000025215",
+	"product_code": "CTR-N-JCPJ",
+	"name": "ハコボーイ!",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/de469dfb122a9ff2695b92a8d42fbdfec81f6b2c65842217a6cadabc8e823db2.jpg",
+	"data_size": "81468308",
+	"description": "ハコを出すことができる主人公「キュービィ」を操作し、ハコを使って段差や穴、仕掛けなどのさまざまな障害を乗り越えて進んでいく、パズルアクションゲームです。まっすぐ積み上げたり、階段状に出したり、フックのように引っかけたり。ハコをどんな形で出して、どう使うかという、ひらめきが試される150以上のステージを収録しています。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-01-15",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/15c164b3a0c12d2b1093d7b292c38dbcf78f2cf5a383dc7d61454b2772512133.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1eefe4217a8514b3557a018c7210d1168050ba7e3bb67ceb6e0b3775f43acba1.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ec3458af5d3b62a6d6f73f97b720a141c1f7621a318a5dc947567ddc8dedc179.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2c64ac142e8bdf56303cb7caeb5eaf792d65e1a49f7cdac2aef2ee4ef2596a45.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/4fd8442fc546bc1508d2d77a4383819b96ae7aa9c1f0dc64382cc99e4536b797.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/16e5221a3f0ba4f04f82dc4db3210fb6043cdb1e6cfe3680da01857b26a79885.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c2feae624622258a83020e0375716c304b515d6bded4277012f97e8cdf923e30.jpg",
+			"name": "ハコボーイ! 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/144bfc66570681a19999d50fc3033bb2bf96457f5171fd9912d4c364f6fbb972.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "150"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b78db67030336a0a7833ea63c66492dd577def1cc2637be62065d748933bcfca.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "150"
+				}
+			]
+		}
+	]
+}

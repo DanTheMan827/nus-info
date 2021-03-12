@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101E5E00",
+	"eshop_id": "20010000021128",
+	"product_code": "WUP-P-WZHP",
+	"name": "Chasing Dead",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1276,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4c06cd05ece171849dbb0ceea63d605f69870ea6678762e979f4b42e7a65793d.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c58957168f5166d2bb87bdc73607fc57e6d775d5187c58e546c98c1ed6f8c0a2.jpg",
+	"data_size": "3054174608",
+	"description": "Patch Notes (Latest Fixes, Features and Improvements): - Performance improvements, GPU & CPU. - Various crash bug fixes. - Difficulty adjusted. (Easy is now easier and Normal is not too difficult). - Invert-Y and Sensitivity added to camera movement option. - AI: Improved Animation & Behavior, Clipping through objects fixed. - AI: Helicopter changed to Drone. - Weapons: Lethality & accuracy improved. Clip sizes increased. - Weapons: Held weapons stay in possession properly on progression. - Audio: Less frequent more unique one-liners. - Audio: Weapon sounds FX better and more unique. - Audio: Audio & Music volume added. - Various Visual bug fixes. The game begins with a strange phenomenon in which another Earth appears in our skies. Curiosity and fear of a doppelganger planet initiates multiple missions in order to make contact with the duplicate Earth. A team of agents, astronauts, and scientists were sent 955,600 miles across space by NASA and the US Military, however all contact is lost a few hours after their arrival. You play as a marine named Jake, who is sent on a mission to retrieve any research and data left behind by the original survey team while fighting off hostile forces. As Jake, you must traverse the zombie-ridden lands of the alternate Earth as you battle endless hordes of the undead, frightening mutants and insane soldiers.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-03-03",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/fc7f0871974c1b547d0d17fc5a142834ec07896b7dd38f48edacf8457d4e64e1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b35e929a9f0031f1f4e9576f7e5feb1ecdeb47324a4a3f5ee380f87a590c3494.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/46deef4176f0a794b240426fd989649bd227979255a0f90e01592903f1c5f372.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a51d4c49ff5f6f4bcad17ef68bd609ac4021edc41353bbb81479b25d2798dd42.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f875649865f4781081a4de300936d22db7bb772488ded09d4fb536338c188cf1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c842a92b41f21eae259756657a18b458cdfff091c773a89e9a52ed223269cbd5.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/39ee3db41c9f8d55655955320a013fed6dd89c1bb12bdcd9a951c4c367976c8a.jpg",
+			"name": "Chasing Dead trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/15331e94df5d1cca9c0deb7537fb619c574c8f367c5e6a9e2de0c7fc67389e49.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "102"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1976f04149790b34fbb00edd049bf9b77b997fd141352f9d58b5581638c7a91d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "102"
+				}
+			]
+		}
+	]
+}

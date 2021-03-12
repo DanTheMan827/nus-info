@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010171B00",
+		"eshop_id": "20010000006748",
+		"product_code": "WUP-N-JCLJ",
+		"name": "SUPER 信長の野望･全国版",
+		"platform": 164,
+		"platform_device": "WUP",
+		"publisher": 267,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5c3833ff4168614ca48f8dc18b01902941b005eaaa130043b79822012d167425.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9ecc3e7379b768a417593c59a24a2b8103b44becbde4ffe8f9c4e6dc5e159681.jpg",
+		"data_size": "42827936",
+		"description": "このソフトは、1993年に発売されたスーパーファミコン用のシミュレーションゲームです。 群雄割拠する日本の戦国時代を舞台に、50人以上の個性的な大名の中から1人を選んで天下統一をめざします。町や田畑を開発して収入を増やし、その資金を使って兵士を雇ったり訓練したりして戦争の準備をしてください。戦争に勝利できれば、領土を拡大することができます。内政と戦争をバランスよく行うことが、天下統一への近道です。本作はひとつのコントローラーで8人まで同時プレイができ、コンピュータ戦とはひと味違う、戦略を駆使した大名同士の対戦を楽しめます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-10-29",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/247d047259c056f4d033f68eda0ac777547227126fa7b634dac893fa34baf55c.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/b65436cdd88bccce24007c1fc040d2c812d34c41f0b419fd01564c6f674aec81.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/80f9f3ffc84ec4b415a593976b725274b91eb2e70c40e28a8853a20885d2381c.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bbbb2944457f9b117ef89b98d3937ce5cca32cb89da8aca5cfd8c5e51275dd89.jpg",
+				"name": "SUPER 信長の野望･全国版 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c4f76b7050696df64406ab9ab0bb5bde7a5d5e6789f0739270a8de5e28d411ef.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "47"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3f7b6da2b124478198aab85d492ff4f74229d9616c0d67e93d1b7e3469db9f39.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "47"
+					}
+				]
+			}
+		]
+	}
+}

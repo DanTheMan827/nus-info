@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010176100",
+	"eshop_id": "20010000010206",
+	"product_code": "WUP-N-PA5E",
+	"name": "Castlevania Harmony of Dissonance",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/858d356f1f976ef7af0b1a2925e7700bee0969cb5944df0cd3bf685adce611ab.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/34b0f9cdbecc355294bf24545f4629b7778e8fc6237785a66aef1e34b21f3cc9.jpg",
+	"data_size": "89292920",
+	"description": "Han pasado cincuenta años desde que Simon Belmont liberó a su tierra de la maldición de Drácula. Ahora su descendiente Juste Belmont tendrá que ir al castillo de Drácula y encontrar a su amiga perdida Lydie Erlanger. Explora los terrenos del viejo castillo mientras te enfrentas a horripilantes monstruos usando tu siempre confiable Vampire Killer y una variedad de armas benditas. Fusiona hechizos y armas para crear hasta treinta nuevos ataques. Adquiere las reliquias de Drácula para detener su próximo ascenso, aclara la desaparición de Lydie y resuelve el repentino caso de amnesia de tu amigo de la infancia Maxim Kischine. El castillo regala misterios embrujados y peligros a aquellos que se atrevan a entrar en él.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-10-16",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/8124bc5bb78f9d7d68ff6902df2bc74c83a1cf43edddcfafa46d83a0736d1087.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e929ae892e5e6ec03788f44a4e8b555c024bb29f8ffe78b026ddb3b07bc6379a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f27bbf3aed1d5caa10f388f0949e1503d9947eeacfbd5c6b71619b69fec8170c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/32adad0a68d8995154b64e6341e8324e38bc0e6fe2be9e1e406225bb3e7a45ab.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a21fe5329630a6eb511f42e5457849413aa3757d18fe6aa232e9b8d2ec4ea22e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/054776987d2da23d30df8adf5d97c1a59ee266592f46434d840d91af34b5ee84.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/780fb8c80620e1fc7b7a5a997c96bc7153d7b40d29a0891ca028fd246d90b859.jpg",
+			"name": "Avance para lanzamiento Castlevania Harmony of Dissonance",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/344f00bdc2efa9a2e8b232299670b21ecde49952865a7aecd4d05ff1c7c55271.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "53"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c30e9e0a4e6d82226fd78e00511848756e94d37d8023bad339d9dea76bf02358.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "53"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000160C00",
+	"eshop_id": "50010000038531",
+	"product_code": "CTR-N-BX2E",
+	"name": "Project X Zone 2",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 27,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/430ab5d65b7bec8308bc57f0b215624855f01c55f165bcabbe555164ccde6c33.jpg",
+	"data_size": "912374628",
+	"description": "In the sequel to the original world crossing adventure, legendary characters from Japan’s most prolific video game publishers come together to create the biggest mashup strategy game ever! Developed by MONOLITH SOFTWARE INC., Project X Zone 2 gives gamers the opportunity to play as their favorite characters from a multitude of franchises and form teams of characters hailing from classic and current franchises and engage enemies through strategic turn-based battles. Featuring characters from YAKUZA: Dead Souls, the Sakura Wars series and Virtua Fighter series and more from SEGA Interactive Co., Ltd / SEGA Games Co., Ltd, characters from Capcom’s franchises including the Resident Evil series, Devil May Cry series and Megaman X series, and characters from the TEKKEN series, Tales of Vesperia, and .hack// series from BANDAI NAMCO!",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2016-02-16",
+			"retail": "2016-02-16"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e03d0ee0105a8264fc138c8ff221c8ae0894230b20899772debbf655a301a47c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5e145b9f8acaf510e24f41596223194277514bf49274c55b28d14e863a69ab1f.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a86dcc4425fc107e3247f567d64a57e6c7452799279a78262d902b358c93738f.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a8973f8a9920e59cb06281e3b036a332b3b65407d0458d073464a188d155f037.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/45a870a96810f6aa5bba1c692c8ad2e29ceda0144d5ab40d2525985057bd3034.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f23962d8b47b5d7ea50d78cfc6217815c58e7c721197c69b432a5b19f2f7db03.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/322cb23533886e52c6024b47c55585e7d4fcc68dd9f35d28c881abacf01cda34.jpg",
+			"name": "Project X Zone 2 Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/63d966aba02a07c2d8e8669fd9fecd925c8e5089880a3b12e605af0dc6dbc440.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "170"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/728a5f328bf799dc00e679ef7991dd52ed3e96aceac23cc055028049740ce96b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "170"
+				}
+			]
+		}
+	]
+}

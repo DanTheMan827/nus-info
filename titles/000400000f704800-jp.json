@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000F704800",
+	"eshop_id": "50010000041167",
+	"product_code": "KTR-N-UA4J",
+	"name": "ファイアーエムブレム 聖戦の系譜",
+	"platform": 1004,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4a0f9427dba7f42cae5163728293b449d7dfffeff9441897cc26c43faa6c9e30.jpg",
+	"data_size": "8395620",
+	"description": "このソフトは、1996年に発売されたスーパーファミコン用のシミュレーションRPGです。 本作で描かれているのは、ユグドラル大陸を舞台とした戦乱の物語。主人公であるシアルフィ公国のシグルドは、仲間たちとともに次々と巻き起こる戦いを乗り越えていきます。ゲーム後半になると、主人公はシグルドの息子セリスへ代わり、新たな世代の勇者たちが物語を引き継ぎます。 シグルドが率いる軍は、さまざまな「ユニット」で表されます。ユニットたちに命令を出して敵軍と戦いましょう。相手の支配する城を制圧すれば勝利することができます。 男性と女性のユニットは、ゲームを進めると恋人になることがあります。彼らの子どもは親のスキルを引き継いだり、親に似た能力を持つようになるので、恋愛関係にも気を配るとよいでしょう。 新たに導入された「城内」のシステムでは、城下町に行くことによって、さまざまなアイテムの売買や修理をしたり、闘技場で戦ってキャラクターを育てることができます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-08-27",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/19a40aa1adcee0365307fa2a73ee1bdff30ac499df093ebf61fddd0a2a673b80.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/79c962b4b40279580aaa65df6aff8f0191e55aade7d99fa6b064aa635025ca50.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/25c91b69a8ad41e0eb65be7a72215cca41a910a41d228427b2e1438ecd947abe.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9de2ec368e788006575df03265765ebff0389435ac2e4628356ab26d49c9296d.jpg",
+			"name": "ファイアーエムブレム 聖戦の系譜 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/98671f7e3cba666012960084e6bed290e0568bdd4f0b8a7c26484e516fc61c7a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "78"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9337b259d784a2cbe603c14652a363f71351a0596caff46d26c32944a619874a.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "78"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,76 @@
+{
+	"title_id": "0004000000129A00",
+	"eshop_id": "50010000021453",
+	"product_code": "CTR-N-JKJJ",
+	"name": "SKYPEACE",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 244,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/dead30660cc242aceb23558b5f04d877de175720e33d93fc684970b4297b7ffa.jpg",
+	"data_size": "9833316",
+	"description": "『SKYPEACE』は次々と現れる敵を上手く避けつつ、ステージクリアを目指すハイスピードアクションゲームです。 かんたん操作で大量のコインをゲットする爽快感! 連続コインゲットで発生するコンボをつないで、ハイスコアを目指しましょう。 さらに、いろいろな条件で獲得できる「称号コレクション」でやりこみ要素も充実! 空を舞台に繰り広げられる爽快ハイスピードアクションをお楽しみください!!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-04-09",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ccb0ec0cc2e71634834ea4dc913104819028c4176f5361b360f86e51ce13a96e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/68c398f7bc7c5ca8394f9301872b2d2156479d03654c78665204e826a5d55daf.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7eee5f01e29a25f49eb378dcff1082f410798a37ae0622104ed3f6030a8a212c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/654dc2bdd759a70487e1a25ae6e6f2b3fd056d906a7a525799f711350da99de5.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1736b5f19dc8aa4f572cf0b1b0d7ea9d0f6c8af0e74fac6083da22d1f2e824d0.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/654dc2bdd759a70487e1a25ae6e6f2b3fd056d906a7a525799f711350da99de5.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/27cb2ff8bf159d53633b469c310c01f4699216ba0aa67838313db79adc8b9d19.jpg",
+			"name": "SKYPEACE 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4e24b6cdf9654782f993d55d3fa5bb1ca26576e4048f4aaa9ae1bdfbaf0e9554.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "76"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0778a5da487c2be13e15d89902d7bcb9e4f86ab1671aee8adb7e68d43df9b1ae.jpg",
+			"name": "SKYPEACE プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7a4c1ffe04cee7cc2b18b2a1b7fc9f519e7e84f5eb0c0b43e2676942967efd59.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4a25b05295311ff01ce9ba64c23652a04743ff0b3fad37c0cca4262e86823b4b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				}
+			]
+		}
+	]
+}

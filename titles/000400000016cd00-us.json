@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000016CD00",
+	"eshop_id": "50010000036335",
+	"product_code": "CTR-N-BDVE",
+	"name": "DRAGON BALL Z: Extreme Butoden",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 27,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/db20f2483811be71f1223b0cc2f21d7e88cc53b951a52e8fafa68b1af0f60d85.jpg",
+	"data_size": "376929124",
+	"description": "2-D Dragon Ball Z fighting returns with fast-paced, hard-hitting action in Dragon Ball Z: Extreme Butoden! Featuring over 100 characters from the Dragon Ball Z universe, feel the destructive power of bone-crushing blows as you execute and chain together multi-hit combos. Command character specific move-sets and unleash epic Super Moves to deal devastating damage! ",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2015-10-20",
+			"retail": "TBD"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e0343d4a37634e3a2e056195e3e573424387e5755b1e2c82072e538ad6e46353.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/96b734538f0851f00d49197181702209b3d010f969da522e3f807042af949a65.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6cf2278f9876c18c47d738ffd4fb6aed7f322a3cc1e695eeb9fbb7e605ca3be5.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/79548381084e7356e32f73c8452e3a6137c82602c29538f1b6be8d2c4b4c9892.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ab559052e0eec381ca946d0d7a1a2cfef3dcee42f0084d4e0f1a862040a06eb3.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d6017228cdb744cbe9777d286cb2a46f029e9c8d351b64f34d5f25537f6daa68.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/af7a852e4bcf81457edbd0eeefff6a90fa01ec248aba05daa30cbac68aa7088a.jpg",
+			"name": "DRAGON BALL Z: Extreme Butoden Full Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7e36386e6eba4e0c10c78a7a462b87bd6eea2f3c1578496156908ba2de6940ad.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "117"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/72098a763ea74c47a0de15222ff834e2921d6567ab19c659d6bacf7c4b90103e.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "117"
+				}
+			]
+		}
+	]
+}

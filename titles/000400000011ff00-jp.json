@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000011FF00",
+	"eshop_id": "50010000019956",
+	"product_code": "CTR-N-AG2J",
+	"name": "上海3D",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 19,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e77dea5f561b756e6a39b71360554bdb9aa5b3ad78a9219a92fa7b4a17a0f377.jpg",
+	"data_size": "34290532",
+	"description": "『上海3D』は名作パズルゲーム「上海」を様々なデザインの牌や牌山(レイアウト)で楽しむことができるパズルゲームです。 ゲームモードは、デザイン、レイアウトを好きに組み合わせられる「フリープレイ」、200ものステージをクリアしていく「アドベンチャー」を収録! 気軽にでも、じっくりでも、その日の気分に合わせて上海を楽しむことができます! また、本作では通常の上海ルールの他に、独自のルール\"リバーズルール\"を追加! デザインもルールも変えて、いつもとは少し違う上海を楽しめます! 好きなときに、好きなデザインで、好きなだけ上海を楽しみましょう!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-02-12",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/81761dd3db9f8532c5de0f45ed78c9c51dc40a98ebe9f7f206ea6da6582dffb3.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0e1f275031581013a9fcaa3b5fe7737f0af26ca6d28fd9cd739ae9d3283bbf90.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1fdf5fb3152fa457b6b40d6236344354316a98979004ee1f55a1c9eb4fadd42f.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4d54e7f7fc1372de6aec417dfe2428d0b3c8206e94b8a9d1bcf8fe3339d20844.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e24640cc5e55e0f6153c49ce1febc74103a470f00786dbdf8404c50a5acf96ea.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b44d3cb64aba5829228826f35b22bc94464709d02f69fee10d566847f89afd0b.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ff7cca54f4bcf46b68d42435b0925101d7ac1915f1c3303ecfdb23df9b222fdb.jpg",
+			"name": "上海3D プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/701a5020bdab7888ce6f1c41a3f63a6406b0313649446d45d84b988de240037f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5b7523bdd72bdf85388eb69ab61aa95c6296e21291018007440d54b2d25a5624.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001014AA00",
+		"eshop_id": "20010000003604",
+		"product_code": "WUP-N-FBSJ",
+		"name": "ゴルフ ",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4ad3418c06f22c87060ac202a8bbaaa2adb0f510877bec753887eb95386bd38b.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4ebe5f6a5d26448b471f5579a1e8e3d5bded276cb6c84c3f205f6eb7205de4a9.jpg",
+		"data_size": "36503692",
+		"description": "このソフトは、1984年に発売されたファミリーコンピュータ用のゴルフゲームです。 ゴルフプレイヤーとして、風向きを読み、適切なクラブを選んで、個性ある18ホールをアンダースコアを目指してチャレンジします。本作は任天堂初のゴルフゲームながら、ボタンを押すとバックスイングを開始し、もう一度ボタンを押すと飛距離が決まり、さらにボタンを押すことでインパクトの位置が決まるというシステムが確立されています。2人対戦では、18ホールのマッチプレーとストロークプレーが楽しめます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-11-13",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/c56199a89337918941677017a4f0f55b5c2094cce7eecd5f542da2a6d52b67ad.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/57a998712f27affb795e99aa731955e84ee078ca3f37d71ba7981f109f4d5c6a.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/44c698192dc1e880beae560d02238de7f902e66fd0cc0ed8940e2ac3be4e6645.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/29ab83b34be218179f18b9da7dbfaca3f32677bfe7616ee3102bf5ebbb902344.jpg",
+				"name": "ゴルフ プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/52d74adc84cf190705410d9c7f898c4d2a61afc1e85b5b101c803b2ef8371a02.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "47"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8018789ccef04593844e559eb386e48b243cba15a0f3d6cf70d912fbcdadc612.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "47"
+					}
+				]
+			}
+		]
+	}
+}

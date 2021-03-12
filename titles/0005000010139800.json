@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010139800",
+		"eshop_id": "20010000001685",
+		"product_code": "WUP-N-FBKJ",
+		"name": "ドルアーガの塔",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 27,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8f4ffd8785e95d4ff733a779749676fa48a156b9c662682bab4547ad7584b8f3.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c969ef039a0eb80093084bcb265a24b892c754f1dce1740b792c066bf45331dd.jpg",
+		"data_size": "36536460",
+		"description": "このソフトは、1985年に発売されたファミリーコンピュータ用のアクションゲームです。 ドルアーガが支配する巨大な塔の最上階を目指して、制限時間内に鍵を取り、次々とフロア(階)を進みます。各階には戦いを有利にするアイテムやドルアーガを倒すために必要なアイテムが入った宝箱が隠されています。宝箱出現方法は「特定の敵を倒す」「特定の操作をする」などさまざま。敵と戦いながら、あれこれと試行錯誤する楽しさが味わえます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-08-21",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/f9e24eca56cb0c26df46d4b0511abf476ba86831de0b117a86fe65f2a86f55d0.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/f38647eba08b89071f944b301f42681f677d40c58202189bdae7fd3a593e5f56.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/4abe596915c66e645201d80acf1f0b07bdc1bfd532035c273fb09197a939e2bf.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6d46c3104794cdc772cf9677e2f6fbe1133a07647db235163e86601fd2a9b1bb.jpg",
+				"name": "ドルアーガの塔 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/80bbc867387954d57882eeec40e74f40e62d89b636bafe1e9e270b1da8df5a5b.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "51"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/65d3e57b9f5a58a3903ef0ed23a2fc400b0dd79429805e8018932a27f70bbd4e.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "51"
+					}
+				]
+			}
+		]
+	}
+}

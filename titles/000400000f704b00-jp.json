@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000F704B00",
+	"eshop_id": "50010000041376",
+	"product_code": "KTR-N-UA6J",
+	"name": "ファイナルファイト2",
+	"platform": 1004,
+	"platform_device": "CTR",
+	"publisher": 39,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/1a2dcca886e3618ac048d61fce933da236b32723261a532cb4a0de470a5accc0.jpg",
+	"data_size": "4000612",
+	"description": "このソフトは、1993年に発売されたスーパーファミコン用のアクションゲームです。 平和を取り戻したかに見えたメトロシティ。しかし、マッドギアの残党が世界征服計画を宣言し、ガイの婚約者･レナと、師匠の源柳斉を誘拐してしまいます。市長ハガー、レナの妹マキ、ハガーの知人カルロスは、救出のため危険な闘いへ向かいます。 ステージ中に出現するナイフなどの武器は、それぞれに得意なものが用意されており、キャラクターに合う武器を使えば素早く扱えるなどの利点があります。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-11-21",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b252707ec235794cb4e3465ed54c020bec80d7d9ef494371df79e9fab3486718.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b9e46b7e31517c205866101d99d92fb4782dcd92e5f74cfc92404894eddde986.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/efb7eac6788f142a57edc26d30e03d72a0600b9959ec3971164f59896dde44ac.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/278fc769f71d48603f0a8701609b12ee3293709238ada05e43f50473be206206.jpg",
+			"name": "ファイナルファイト2 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9cd6b233c1aa9c2c92ccb1145ed3b07ab0357ae28068aa791ea3c1cedcf4dcc9.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b5bc9807f7f79b75e82fc8604d454675c5e63b85d842d822c1ec5456d71f9c69.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				}
+			]
+		}
+	]
+}

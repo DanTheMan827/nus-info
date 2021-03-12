@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010109C00",
+	"eshop_id": "20010000000844",
+	"product_code": "WUP-N-JAEJ",
+	"name": "星のカービィ スーパーデラックス",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1a818ec5153b32321897f55e1d303a159a7487bbedc1c81fc1868fc00ec735c8.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/918e80deed0406ee9e34d5ee7010146de04a3f96a196edd1d500168d91b693d8.jpg",
+	"data_size": "43352204",
+	"description": "このソフトは、1996年に発売されたスーパーファミコン用のアクションゲームです。 6つの異なるゲームモードが用意されており、それぞれ違った冒険を楽しむことができます。カービィの仲間としてさまざまな能力を持ったヘルパーが登場するので、ヘルパーと協力してステージクリアを目指してください。ボタンをタイミングよく押したり、すばやく押すだけのカンタン操作で楽しめるサブゲームも用意されています。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-05-01",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/79c85791cdec0114f8622b6bab7489817ff713b452f442b454fcc56bb8fc719c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d8421ee938a934c6dde239d2f9c2bfd09376b65b571ceff0a4cd5cfd46d3e991.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/57d781f78dde8f773ff599bcadcdf33913e75c7291892672eb126501b5e4c814.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/04e4d8d50fa457b854b52bcdb86de44c35d05851233c99a3f07afb0b0d23b237.jpg",
+			"name": "星のカービィ スーパーデラックス プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/156b6167c4eae9fc948f171e601e3f5c5f2c692cae72b2c52b79fe73abf64190.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "54"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/002b1259f9911d72e4900322b5cca4b049c9d646aa850ebac76a56e4f3f871ea.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "54"
+				}
+			]
+		}
+	]
+}

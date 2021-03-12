@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001011B300",
+	"eshop_id": "20010000000371",
+	"product_code": "WUP-P-AFBZ",
+	"name": "Funky Barn",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 263,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cf668df295eb39ce07454fbb0f60db81ab13298ff02ee1bb7d19c95bc47fa807.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3ae2381e18dc4f8a091cdd4217938b5c96a73d04f6b9949edccda6517fc8b173.jpg",
+	"data_size": "479723660",
+	"description": "Progetta, crea e personalizza la tua fattoria, riempila di simpatici animali e macchinari folli e scopri le delizie di Funky Barn. Personalizza il gioco dando un nome e un aspetto distintivo a ciascuno dei tuoi animali; e assicurati di visitare la zona coccole per un po’ d’affetto. Nel momento in cui hai abbastanza esperienza, puoi persino decidere di prenderti cura di animali esotici come l’alpaca e il bufalo. Lo sviluppo della fattoria richiederà il tuo impegno in tutte e quattro le stagioni dell’anno; prenditi cura delle uova, tosa le pecore, mungi le mucche, raccogli la frutta dagli alberi e immagazzinala, costruisci recinti e strade, pianta i semi, il tutto mentre pianifichi gli sviluppi e le novità. Tieni alla larga le volpi con il tuo cane fidato e proteggi le mucche dai rapitori alieni con la tua forza aerea privata. Tre livelli di difficoltà consentono a tutti i membri della famiglia di godersi uno stile di vita agricolo; inoltre due fattorie non saranno mai identiche. Che tu preferisca agricoltura e allevamento organici e naturali o le magie tecnologiche di una fattoria completamente automatizzata, troverai sempre lo stile che fa per te. Dai, vieni a divertirti con la fattoria! Questa è la versione scaricabile di Funky Barn, edito da Tantalus Media.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2012-12-06",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/607efdb36e92c59c93038115688583152b7dc213fe5132c4a2af5c47c6a0148c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/72c455658397b366689a949e44c291abb24540bfc773a053bcee10475f7c548c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e4f3ab80e46d44b6acba29fe928ac0a003de02e41ced7c88eba235c1ed5f8b0b.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5394c5c47b4b84ac9f5e39ced9af5ce6084614dc089d6d29d940de54ab7b9ef7.jpg",
+			"name": "Funky Barn Gameplay Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/697fa91bce6ae5795c40897a3af90f020125374da748c07e66eb1cfe9571e907.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "48"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c653efbae465735a43dce3b3ba355ae4585f06c49b637f7ef2e6b97942d39e9a.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "48"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001016B400",
+	"eshop_id": "20010000007086",
+	"product_code": "WUP-N-FCXE",
+	"name": "Adventures of Lolo",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 117,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/28e635bf872955b35d248aaf36ee8f8514d3a28581389395627ca1218838bc82.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ef22b957465bc68e37aad3461b4531c409edf8f13c0d02d135d63264e3092986.jpg",
+	"data_size": "38699168",
+	"description": "Supera los desafíos de cada sala en el castillo del malvado rey. La aventura comienza cuando Lolo se lanza a rescatar a Lala, su gran amor, después de que es secuestrada por el malvado Rey Egger quien la mantiene captiva en su castillo encantado. El recorrido será peligroso ya que el castillo del malvado rey está resguardado por un enorme ejército. Pero Lolo mantiene algunos trucos bajo su manga y puede mover cubos para atrapar a sus enemigos, despejar el camino o bloquear ataques enemigos. Además podrá usar sus disparos mágicos para convertir a sus enemigos en huevos. ¡Pero será mejor ser precavidos porque un solo contacto con cierto tipo de enemigos puede ser devastador! Con una combinación de escenarios en rompecabezas con engañosos enemigos y un cautivador estilo, ¡Adventures of Lolo es un verdadero clásico!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-05-15",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/465cb9d2f30c810fe77616d23f3d67493652fe9dc52eb8398844d66c0f656601.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/abcd85550ae55aae99fd32f18d295ec46711513bfa3bdb3e2381df6784bcbae6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b11a6bb6e54ea51a981014769a604e3c89af8f4b83fa30184f0704822a464edb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ce04b0cb8f05b8ddbd1c0145c5cb09f18706a0ea39887614d9a686cfc315302e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8a2b4daeaaa12d597cf1a17a0b4c5b28751a91d74e86c20a67e6c57ac792bcea.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/eea9aefcd66c186eaac0432392914e1962c884b2610cccb4e92f07416ea6adf6.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5b865cc8479520593fbee3c5cbb64a7b8fbb3ae443ef5f68764e5fecf303cad3.jpg",
+			"name": "Avance para lanzamiento Adventures of Lolo™",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f8b16fe57a68c1ce81ccd80862d181059b62db109626b989f4e9773d99977335.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "38"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/06b204a4bbddc0c04ca9bd815eea5299544f36447c3fc6a396d6b406db67bd93.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "38"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010172F00",
+	"eshop_id": "20010000013407",
+	"product_code": "WUP-N-PAWP",
+	"name": "Metroid™: Zero Mission",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/263ca0626e50dc2dc556e4f7098a27b532b9f7f817a44d4f02d2857ae673a874.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/715bc274e9a0cabaad8f2c811247dd6af9e009530a8dc20e8d9e2e006359573b.jpg",
+	"data_size": "97615992",
+	"description": "Samus Aran è tornata nell'acclamato seguito di Metroid! Segui la cacciatrice di taglie nella sua inedita missione sul pianeta Zebes per sconfiggere i pirati dello spazio e sbarazzarsi di Mother Brain... Ti accorgerai presto che non tutto è come te lo ricordavi! In Metroid: Zero Mission i labirintici scenari di sempre sono stati reiventati e arricchiti di elementi come i propulsori della sfera morfica e nuovi sistemi di trasporto, ma sono sempre brulicanti di nemici e boss! Ah! Anche se sconfiggi Mother Brain, la tua missione non è finita...",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-03-12",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/601a927f22bea37c2d913c1e43dddcc045ffb2906493a340608381574472b8d8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/948c653e60000744070f42f3ddaa2db3a55ff0f34d7b40c9f7ccac331afe46d2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/73853ee3b1c098cc5c951dc60025302160f9997dcd648e55f8816e656866f4e0.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7c596b6836389df408729a42f73d5234669197bec3884b5e2aa2a1f75ebfb636.jpg",
+			"name": "Metroid™: Zero Mission: video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/be3a5dae282665e969be03d8df0b58ea59355385c100bb78e826b4577ec132fc.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/65ae911dfd4a8bb9834bf5185846fcf29d7ac5421a098a5ac28bd4cf60d6aa12.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				}
+			]
+		}
+	]
+}

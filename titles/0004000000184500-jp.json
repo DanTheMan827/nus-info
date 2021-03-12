@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000184500",
+	"eshop_id": "50010000038816",
+	"product_code": "CTR-N-KDHJ",
+	"name": "脱出アドベンチャー 神降しの占い盤",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 19,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a89d35515ed954e3152dc95892adb5489b46ade880d242cfc46a3d76a8e96c35.jpg",
+	"data_size": "138910564",
+	"description": "本ゲームは物語を読み進めるアドベンチャーパートと、とある謎を解くため、またはとある場所から脱出する探索パートで構成される脱出ゲームです。 主人公「ワカル」は廃団地で見つけた“クノカミさまの占い盤”を使ったことをきっかけに、さまざまな事件や現象を体験します。探索、謎解き、調査を行って密室状態から脱出し、物語の真相を突き止めよう。 ――動き出す盤上の駒 幽霊や、呪い、祟りのたぐい…… 様々な噂の飛び交う廃墟群。 通称、《お化け団地》 広大な敷地内に立ち並ぶ数々の建築物は荒れ果て、見る影もない。 そんな場所に眠る、ひとつの古びた箱。 そして三人の少年少女たちの出会いが止まっていた時計の針を、動かし始める。 《神降しの占い盤》 《謎の少女》 《九つの供物》 次々と起こる不可解な事件に翻弄されるワカル、トビ、ハカセの三人は、 果たしてその奥に隠された真実へとたどり着くことができるのか―― それは神のお告げか悪魔の聲か――",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-12-22",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b3290d75ec9b3a57201423c8adde8a17a5ddc52aa90dfdd27aea47708cc46489.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/045d90085d02fd41feae315624033c1bc9549eaf546e2d097ae5631acd546064.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c0977e05094696ebede43610e91956a84e5aecac6c92efe712a1ebf3feb8080d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6c98025e782a7e5c24f75c00bd04d45f7ec67cbd684e31fbdfffca52605234b1.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/4ed15ff354daa1739b2c897880ed5b8d48cad3fe880ba4165bac0309fc95e111.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4d172ba838fae48b16b3c90312bdf3c6bb9c489110742087891fe83660a5e8c1.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/151124d026fc9c0eb22473eaae8695e3057e78ac4d0a2bb1907de1c20d159e4e.jpg",
+			"name": "脱出アドベンチャー 神降しの占い盤 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8a8449d57a83e09b39ffbf22433ed68784ccb0e66bef0bcae4fb0eb4a993d11d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "120"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/13a5b488e930c7bdb4f88fe7eb0f0f71d709dcd4c9b7f8ddcf840ee1fa58118f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "120"
+				}
+			]
+		}
+	]
+}

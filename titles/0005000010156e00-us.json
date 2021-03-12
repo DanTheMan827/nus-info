@@ -1,0 +1,54 @@
+{
+	"title_id": "0005000010156E00",
+	"eshop_id": "20010000006048",
+	"product_code": "WUP-N-PACE",
+	"name": "WarioWare™, Inc.: Mega Microgame$",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/091e35701419284ca27415b445de5d0b0b3877cb05c7b787fc491f847f794e54.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/443e555a11a5c6f5d83561f5f94ac855824f3aad7c2581425ec347be95504bb1.jpg",
+	"data_size": "90472568",
+	"description": "Wario is venturing out of the game, and into the video-game making business! And he'd like to put your quick reflexes to the test. Prepare for lightning-quick game play as you blaze through over 200 bizarre microgames designed by a crazy crew of Wario's cronies! Ultrasimple controls make each game in WarioWare, Inc.: Mega Microgame$ easy to get into...until the games start coming faster...and faster...and FASTER! Think you can outwit the master?",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-04-10",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/7095ea21fac98c3e690a52a6bec06c85711fe9a278daa7ae95efa971a3fa0e8d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/459950e1a2ba25d0e34cf81e4a81f056d37c7b7b104a400e97c077900d4a0427.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a6d27c91e1065a19763a2fb100d2c4c45a8e704afd81851358d3bf9a92b8adc5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1b745e41f8e030f824e336a5cae32df7f8a87c598ebc492438585cb037331ecb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/76e2d03d8f55acd01acfa0ad5ee5f49f794711ab3226b0243e722043dd623069.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/20078b4a81ccf5cfcbdb10a02241274237828f0480f079ec4bb33046a46c2d68.jpg",
+			"name": "WarioWare™, Inc.: Mega Microgame$ Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ed4c026356b7acf3b252904864bc4e8f749a5e4cb4c0f94a9c685958f0a63a67.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "36"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/181ebbc70df0970040d137e7462d4cca761741b1f64b572f4fa45d1cf639f3e2.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "36"
+				}
+			]
+		}
+	]
+}

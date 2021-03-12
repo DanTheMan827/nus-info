@@ -1,0 +1,87 @@
+{
+	"JP": {
+		"title_id": "0004000000139E00",
+		"eshop_id": "50010000023015",
+		"product_code": "CTR-N-KPQJ",
+		"name": "ピクロスe5",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 142,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f5e28a047798c8a6fe1a9fe5f95f10c875c4f9a2fe7d50e4842917b059df77f9.jpg",
+		"data_size": "18029412",
+		"description": "ナビゲーション機能を搭載した、ピクロスeシリーズの第5弾です。 前作から引き続き「ミクロス」「メガピクロス」「20×15ピクロス」の全モードを搭載。 充実の完全新作問題150問以上をじっくりと遊べます。 チュートリアルやルールのカスタムも充実。 シリーズ初心者の方でも安心してプレーしていただけます。 『ピクロス』は、数字をヒントにイラストを完成させる「ピクチャークロスワードパズルゲーム」です。 シンプルで分かりやすいルールで、誰でも手軽に楽しめます。 また、過去の『ピクロスe』シリーズのセーブデータがあれば、追加のスペシャル問題が遊べます。 ※スペシャル問題は『ピクロスe』『ピクロスe2』『ピクロスe3』のセーブデータがあれば追加されます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-06-11",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/db430e2fe81d7bc205399fd38bcb309e97fe6a0eacaf0d0c96074268102f894e.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/88cf9303f561a2d7e71728b56745f476da0634f411d5fd069945deee18571477.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/492139dba2a03ae0856471048736a7be2220f3b09130f2542aedb43323bcf238.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/891114ac8e608e467084714f8307a0e8458631b60e7215a3aec2933594f23220.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1d0bdc66f7b161c819ab8bcb1b302eba450c6f36992f23628abc1199dcfcf715.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/40ec235a419710a3a6134e30415232a123cc4de1c6964448fab6817d307f307f.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b3026ae1a0a389e0bc484250fbdd3afddfb2d82a2d2be17ad14c47fd465df0bd.jpg",
+				"name": "ピクロスe5 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1b9005dcb4e54f0b4c290049501e50a157984521c40eddaa53adb16372a8cbc7.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "101"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/45bf9d2d2cc2c26e9701179b5bf77cc954e3cf40bce5fb2ab473d1722342df1a.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "101"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5806c9265255fa6b2bf277b2ef16861efbd750bd1837e5c13f711902181549f2.jpg",
+				"name": "ピクロスe5 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ab2be48d3efd7b969f04afd5614f7a77522b56f7a288ebbbc523a245a84005ff.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "53"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ab7cea02cf513d1a3f1d76b8e1a0134bdd956396d7cd7f7e8517005a5d1220d1.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "53"
+					}
+				]
+			}
+		]
+	}
+}

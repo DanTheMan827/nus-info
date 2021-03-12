@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000196A00",
+	"eshop_id": "50010000041543",
+	"product_code": "CTR-N-KGBE",
+	"name": "Azure Striker GUNVOLT 2",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 1308,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/70f2f20d774f6415e44dafb3bf9906e1c08d3c380d0de810b8a546f0b29b0b77.jpg",
+	"data_size": "487562084",
+	"description": "O estilo old-school de ação rápida 2D que te lembras de Azure Striker Gunvolt está de volta! O rival de Gunvolt do primeiro jogo, Copen, retorna como um personagem jogável! Características do jogo: 1. Prevasion Esta habilidade permite que Gunvolt neutralize os ataques inimigos ao custo da sua energia EP. Copen tem uma habilidade exactamente como essa. 2. Kudos Kudos é um sistema de pontos que aumenta quando danificas inimigos. Ao receber dano os teus Kudos são reduzidos a zero. Quando ativas um ponto de guarda, utilizas uma habilidade especial ou completas uma missão, os Kudos são convertidos em pontos bónus. 3. A canção da Musa Enquanto mantiveres 1000 ou mais Kudos, a música altera e Lumen, também conhecida como A Musa (Lola, no caso de Copen), cantará para ti! 4. Anthem Quando o HP de Gunvolt ou Copen's chegar a zero, o poder da Musa pode reanimá-los com poderes adicionais. Nesse estado, a música altera para a canção da Musa.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-09-29",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c357cceb86034fe410b7d5e6fa3a5b04f8fd912fa8ca6eb05f4f52c3c0cce25a.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/77b9c8090fb0c47b50b1f4bba2187428b7d2787cbf703299fc170cf0972f00b2.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bd12383a107cdd54a8044ccfef585ea752aebba3b3b001f0e0be0b54159ecb5a.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0fb17cca683698d7ca11543941e97b6487b1e6fd8a676ebf842189ee4b0255eb.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e9dfdcc067ea8e2d81210453393a787f85dbab4b002c4b747cea5128e076ca13.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0e1017afc58e96cb0a7f2445c5833a7522c2822519ca6e048fbba3a5676c6349.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2b0e726a8cfaf04b507177f8306f2926b317a83af2dc1a1366ea21dfcd68a906.jpg",
+			"name": "Trailer de lançamento Azure Striker GUNVOLT 2",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3c5ea8816833912c39694759345888532fc9b07b6f38f6c18888622b5ec93556.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "120"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/47d426cc22653343e8dd0f9a16593758e15959063da2aef18dfe28f0b93a91ee.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "120"
+				}
+			]
+		}
+	]
+}

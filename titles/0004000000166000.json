@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000166000",
+		"eshop_id": "50010000032839",
+		"product_code": "CTR-N-JHDJ",
+		"name": "ポニーペット3D",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 882,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6d0c4ba69160abc629da43b39b0dab803e811a8f58f164ba7240b49a7a8d7951.jpg",
+		"data_size": "91618148",
+		"description": "『ポニーペット3D』は、ワンちゃんでもネコちゃんでもない、かわいいポニーをペットとして飼育できるシミュレーションゲームです。 自分好みのポニーを作成して名前をつけてあげ、エサや水をあげたり、体をなでたり洗ったりしてお世話しましょう。 パズルやレースなどのミニゲームを遊んだり、トリックを教えてコンテストに出場させ、トリックをクールに決めてコンテストで優勝を目指しましょう。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-04-22",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ff834a1193c732e84facbb47a80786a0f025fcd795ffaab42d584111787067d7.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b15ab6e166c0acb0abe5b331d37c304a2d3b85229e2a5a30dc7ec241918465d3.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/56d40c4e54adaf2ebb25ad42e2a63709c8e3f0836cd606973707401909c6c877.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7244e65d4a3e2d07c09be6ab2ad5e2cdebd6c94cd5e711005341664af9073270.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a70e0c2f593d2384ae56259f0c2f9d37db8f2304f18d225b23a485309cb8e0da.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/3ddb9017d4fc805ed971e053694a1ae23548ad4a6793a2cb61933f91f77d2070.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0e7d3f096289d382c7eff9c5ec853f4901e85758a488bb68a1199b1c7dcdabb6.jpg",
+				"name": "ポニーペット3D 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/45d62507e6883256261f3e17334728b564b26276874365a12300ffaaa52ca79a.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "58"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3ec232eb21cd5ad2ab84d5777dd34882594fef636a3b51f1d223869f2ae43a6e.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "58"
+					}
+				]
+			}
+		]
+	}
+}

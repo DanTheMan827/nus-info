@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010171300",
+	"eshop_id": "20010000009866",
+	"product_code": "WUP-N-FDAP",
+	"name": "Ufouria: THE SAGA",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 256,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c64073caa261ad3e75bf18af08a333a41fb333621a0e7cd6cfcf45cdd335659d.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/11227888cacc15cbe3bfb43bcef56c1fccadec130176638a84e69cc68e7ffb2c.jpg",
+	"data_size": "38797472",
+	"description": "Bop-Louie's friends have fallen into a crater on the world of Ufouria and they need his help! Control Bop-Louie as he searches for his amnesiac friends. Unable to swim or walk on ice, Bop-Louie must find his friends to help him overcome these problems and complete his adventure; but with each friend having their own strengths and weaknesses, it won't be easy! Take all the help you can, utilising your friends' abilities and hidden items found on your adventure, and find your way back home! If you own this title on your Wii™, perform a system transfer from your Wii to your Wii U™ to receive a special upgrade price.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-10-10",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/271a25e4eab535ec1788b0e2115a2058a4a282ee553ba8c4c23b57b95e70eb35.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f22e4b8f92368f174202a12f6951525759b0fb65023e99174ebec129bea45b26.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a8857a1edde172310f9d9507ef8604ab7d04403f28ac0f1c287e7a26ac0f62f9.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/802cebba53448338269b93978bc4150abbdc620ee2492aa59badadbee1c4c49c.jpg",
+			"name": "Ufouria: THE SAGA: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5f02d0e5c74aeff64c76eb3f47047d6012672f90fa593e8f60d554f7fae82fe1.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "48"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b04990e0e1cb6c099a05cd99f1f88becf3c9c9bac7fece1bbd95978696e1958d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "48"
+				}
+			]
+		}
+	]
+}

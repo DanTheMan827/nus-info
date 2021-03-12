@@ -1,0 +1,53 @@
+{
+	"title_id": "0005000010114200",
+	"eshop_id": "20010000001765",
+	"product_code": "WUP-N-FAME",
+	"name": "Yoshi™",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/12476aac7b2bad96bb94562133d224b026b6feb8503a4ca1bb005aed8684cdec.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/62641c20682fee657ddfa061e3f405f44dbbfb70021fd4d1e9a5ee55779985af.jpg",
+	"data_size": "36569228",
+	"description": "Yoshi™ es un juego de acción y rompecabezas, en el que el protagonista es Yoshi, el dinosaurio amigo de Mario que está preso dentro de un huevo. Ahora están lloviendo Goombas, Bloopers y Boo Buddies, y tú tienes que ayudar a que Mario™ frene esta invasión aérea. A medida que las criaturas caen, agárralas en bandejas. Coloca dos criaturas del mismo tipo, una encima de la otra y ambas desaparecerán, o captura todo el montón entre cáscaras de huevo. ¡Cuando las cáscaras coincidan, Yoshi saldrá del huevo y tu marcador aumentará! La acción se intensifica a medida que los personajes caen más y más rápido. Para ser el héroe del día, ¡cambia, desplázate y no dejes que las pilas se acumulen demasiado! ",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-06-12",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/dde836aee29124f952ca8da5334d14455289059bca3b7ab3d6461c9496029eb7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d34c7c9db882a9860b5aa8e66a7ed5e85f58eabd224447cad833abb77b7603e5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/fc8eefbe3d2fcbfff1b1586299bd647d2f51c6c3a2eee97592bd59066a4d348e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/07d7ee9c71f86a1c37e126496ddec7cc57da48be9099efbf611fec5b343361cf.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/06db0859ed38be9b713eaa2e213245c1575c5eff1bb7e0d945f0de808cdb4ac6.jpg",
+			"name": "Avance para lanzamiento Yoshi™",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e55682c30894479f65ea4428c0966ee2c1095ff8f357f0c62677be4ec2baee4f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "38"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5edb3373e25715d0038154cb263f6ad33331b4fd36c7c1ae3ce5a2df3e450948.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "38"
+				}
+			]
+		}
+	]
+}

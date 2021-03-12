@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000C2E00",
+	"eshop_id": "50010000013416",
+	"product_code": "CTR-P-AQ7P",
+	"name": "HarmoKnight™",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9740a69a903dfb0fb9a1ac7559f28d3eb87eeefbc561c49b3b4198db7508dcbb.jpg",
+	"data_size": "276568932",
+	"description": "HarmoKnight associe un gameplay de plateforme à défilement latéral à un gameplay de rythme et d'action pour créer une expérience passionnante et intense. Chaque niveau correspond à un morceau de musique qui sert de guide pour exécuter des coups précis comme frapper les ennemis, sauter par-dessus les trous et toucher les plantes musicales à l'arrière-plan. Grâce au système de commande intuitif à deux boutons, le jeu est facilement accessible... mais ce n'est pas pour autant que sauver la princesse Ariana des Discordoïdes sera chose aisée !",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-03-28",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/16c9f72320de6aab048e65152f91a223ae37845028e1fd949d90ed1f03a475c6.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/58fbf838cc9ac8b56a771e134185a9a6490ba2a96b644eda21396dc7f5e4026d.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/34ad712808fb9abcec325184351eb2b232d1e96ec69f8bcbff467224f16c5913.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/58fbf838cc9ac8b56a771e134185a9a6490ba2a96b644eda21396dc7f5e4026d.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b03959d0b9249e10bc3ab9eacb027a2c5a09c23e18c60f749ceb137acfb6c60d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/58fbf838cc9ac8b56a771e134185a9a6490ba2a96b644eda21396dc7f5e4026d.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3cc27f53db7a32a26666aec08ba01583dac6e48518d0ec7cb207a1645b36bfa4.jpg",
+			"name": "HarmoKnight™ : bande-annonce",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d4c0308a4756c36b662780f8b5be7ed98cd346c16b79852b315c22ae174ef0b5.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "112"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d1d869e68062be33e93b0386e44127b7f75f984f154972c68a2d39dba0807703.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "112"
+				}
+			]
+		}
+	]
+}

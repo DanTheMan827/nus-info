@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010195B00",
+	"eshop_id": "20010000016867",
+	"product_code": "WUP-N-DADP",
+	"name": "New Super Mario Bros.™",
+	"platform": 169,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/44e02f888f8ba8988bf9eafbe9b91332bc325ef31c7b56c8f91cb4ff6943f805.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/29cd26b22df8da90065f6a33c2043d6827573c692b9cac51691aae2acd94c4f0.jpg",
+	"data_size": "59080824",
+	"description": "New Super Mario Bros. marked a milestone in Mario’s varied career. The first 2D platformer since Super Mario World™, it brought the classic gameplay bang up to date with sumptuous visuals, toe-tapping tunes, and tons of secrets and surprises. Eight worlds are yours to explore, as you seek out all 240 Star Coins. You’ll need all your skills, plus new power-ups like the Mega Mushroom, Blue Koopa Shell and Mini Mushroom, to discover everything. Plus – if you fancy a break from Goomba-stomping, relax with a wide selection of touchscreen minigames!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-12-18",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/15f2cc66dcb100e62aa172c531f9778c05151c56f030e7440b28c8cd3557a2e1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a43e968d9dabd14971a845b3396142438051e71dedb695ffc92a2e3d7c8c0609.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7ee994d1c68108650349a35963ccb4a4900cf0b247af119b837a27faff166871.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4b3d5a0fea9ad888d7e43395274d10cd80e374809bac0200b33e16c73463c282.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6819a94841611f26afe9e4264f9559748241bb1cf5e99d4de0b2ac156242efee.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/fc8c35817fbef300c35f3e98886cdbe9223b8981d9bb6be44bc817040526cac6.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e5427e094c25b1cac7e7736795ca05e93299cbb8c8b95ff01638b9021a6d3de9.jpg",
+			"name": "New Super Mario Bros.™: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/97554aaa1ed0f632a1fd99ff326ed2e7c197578ef3977ddaf94ac3545cf13379.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "54"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3f8b03ff3847e262a0e5877b6bf35cb3a577c7fcbf5defab9eb63d0c0772a559.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "54"
+				}
+			]
+		}
+	]
+}

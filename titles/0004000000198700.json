@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000198700",
+		"eshop_id": "50010000040096",
+		"product_code": "CTR-N-KBDJ",
+		"name": "棒人間チャレンジ！",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 27,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/520b543beebf8832f69defe7cc1cb2713851d4e5b130d4f1ee52ae6e92471f2c.jpg",
+		"data_size": "42548068",
+		"description": "スマホで人気の棒人間ゲームをニンテンドー3DSでゲーム化！ 大ボリュームのミニゲームが遊べる!! すべてのゲームの成績をもとに全国ランキングを集計！ 目指せ上位ランクイン！",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-04-20",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e0e9427bc9cbcd6eb1c1443779923de2ab7c21b4f477cbfb2c6153b59ed5122d.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d338473ef84f6b1eaf61dec0b19dcc7debdcd3467b6e445567a3018a8943e828.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b24b24ba62d0cb36a7984e9be5566cc5973a30d7324155d7ca963d22b25b97cb.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c33157b61fa3eb9071c830654f9098b7f6b92086ee6962ecaa9dfa331bae636a.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b534e2b63c607ba4ab4863918abf19be2b4fde41e25a1d9947162540daacd683.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/70a40c725598aa929d32d4b08506703c2e2d3c1544ea43117332d1f71d6de630.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b3246f101e97f1a5f25824f6a0a16bb59d5b24c040894410156ebee6de1f5853.jpg",
+				"name": "棒人間チャレンジ! 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fb79858997f301f08eed0a2a62f0e463a0adac63f117f2a533dcf87a32db835a.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "80"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4a7c01830c5a51b000883d82b0a2b7836dc6ac09b1370518094a5d33a116f5fc.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "80"
+					}
+				]
+			}
+		]
+	}
+}

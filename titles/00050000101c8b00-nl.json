@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101C8B00",
+	"eshop_id": "20010000019190",
+	"product_code": "WUP-P-AWMP",
+	"name": "WICKED MONSTERS BLAST! HD PLUS",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1220,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ec33077740521b54e6cc778153e4e1f8ab3a81f066b475f6451a7598a84e63a4.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ecca37cd5d5cdf14244ed16a2b4b795f4545260c9cb36d4b6e2468e0eab78e1c.jpg",
+	"data_size": "2059010328",
+	"description": "Wicked Monsters Blast is een spannend schietspel voor alle leeftijden - schieten vijanden , puzzels oplossen en kies uw favoriete personage uit een grote verzameling van gekke karakters. Speel 15 doldwaze minigames en 20 uitdagende levels met maximaal vier vrienden!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-10-15",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/aa59e94f33f3e0d1d836917347223bdbfdf4300c368153c00d5186e952fbd8df.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/99d287c9a1276f9d96a2aae6f769274480ca9513507071caaf16367471e77d77.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e63440ae1978b6ae10c5d3a920cf1ea5af1466fb3796790e81e4cfc21545aeae.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/39c77e108be8372b19b76c66f18e18179ba394d29346107e9f7916c072d4d684.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/eed206b7d639066d717329cca502e858c5e239135347e9bf2783f7480ecea1ec.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/45d3c61eb1db4264e91b48b8374f5e61e6d85ea9432ff15ae6f240be7a830e18.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f781f86f0d28a25dd384345ec97ed9e2ed900eea2f099883abd5f0e6511973ae.jpg",
+			"name": "Wicked Monsters Blast! HD PLUS: Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7141fefac218c2b6ad1da37c7174bd0f94225944528427a7d2136d06c6c04e04.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "120"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1ff1aa53da56a42c981217d6411adf7323d28a23387202eb91e9e967a0c3b1e2.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "120"
+				}
+			]
+		}
+	]
+}

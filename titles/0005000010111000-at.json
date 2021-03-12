@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010111000",
+	"eshop_id": "20010000000292",
+	"product_code": "WUP-P-ABEP",
+	"name": "Ben 10 Omniverse",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 27,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b03146d92c84cf8a5a8ad6c86dbc9cdd6c97009b0c0104f2b04873fe12932e0b.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/2d7b950e8f54b9e3c024fadd8b55116a9af7b5c7f75272561234b5ece07756f5.jpg",
+	"data_size": "3223224680",
+	"description": "Erlebe erstmals spannende Comic-Abenteuer mit dem jungen und dem älteren Ben in einem Spiel. Ben 10 Omniverse ist ein Third Person Action-Adventure mit 2 Spieler Co-Op-Gameplay, basierend auf der brandneuen Ben 10 TV-Serie Omniverse. Spiele als junger und älterer Ben zusammen mit deinem neuen Partner Rook, um die Pläne des bösen Malware zu vereiteln. Die spannende Storyline erstreckt sich über 2 Zeit-Perioden und dich erwarten zahlreiche Monster und spektakuläre Action in einem völlig neuen Design!",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2012-11-30",
+			"retail": "2012-11-30"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/4da4630682d229345cffd986ca95a4b932a34e2894844e830c689de15ef7598a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/837eeb22b7120cf5f601e7850fac654e01c5703c24b237bde3c6fca978f9439f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d523192e073a8366bcfe0bddccd086b8d82be89a50a9303867ca6b7d43f53621.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8065ad66f1aa4b07f80a89d54ee0312e4638c836d143fc69b2e7d632cfdc4ba6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/362162ad9abd4c6d0e5dd121494883f98e1c0cbf911468bbe9fa46776b902b23.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/705543c3621f52aba0bd0b14c8ceaa1ad06cd745175a72b20454830307387875.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1ac922288f996ce1501352d39942a20f5a4d1db4762d7cba53b9cf38863ac7e4.jpg",
+			"name": "Ben 10: Omniverse The Videogame Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b5fe916f4c70834a5634a1835f353a5d783f9290ffade23d6aa61e7cde1661de.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "36"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/236be1429ee4c715777c078059589f6a500d5b26e828ad2f9c80f038016d7441.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "36"
+				}
+			]
+		}
+	]
+}

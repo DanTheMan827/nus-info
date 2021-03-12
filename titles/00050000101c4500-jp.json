@@ -1,0 +1,76 @@
+{
+	"title_id": "00050000101C4500",
+	"eshop_id": "20010000016447",
+	"product_code": "WUP-N-APNJ",
+	"name": "Year Walk 最後の啓示",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6960d9187461beb4592078abe7bacc2c5f70a8f94ef82d7351cde1ff5ec17f5b.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0f18119caf06a38b6ecf2813db00ec6b81b61c93c05769f49ab45f55c83a15e1.jpg",
+	"data_size": "456392864",
+	"description": "自分の未来を知ることができると言い伝えられている儀式「Year Walk」を題材にしたホラーアドベンチャー。 雪深い森の中にある村を探索し、どのようにして未来を覗くのか？そして何を目にするのか？あなたの目で確かめてください。 気になったことをメモしたり、ジャイロ機能で仕掛けを動かしたり、Wii U GamePadを使った操作が、謎を解くポイントとなります。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-11-13",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/67c500f71a05fe228aa6bb4576d6f549bf05f685f69d2e815b3a9dfc41238b48.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c0e3960f8a0e89955c6d9ca26a75b188c6ca9f45c51251c3cc72a1a5c6d2bed9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2aa06f7205cf1d6d3fbc1c156e91ca29e48ea46c098c1f7cf5a48fc6e75f5003.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ccfce9ab7120ef453bdef0798f23b555f40d68f95520501875d395e3e5bbd3ed.jpg",
+			"name": "Year Walk 最後の啓示 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/53222655686c5fa6d1247837a8e0fc5fd0b85cb068e1b180a6dd0eae9e798604.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "116"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/924163b63c37b87ee6434c4eb85f6480e5f281ad5bb1add0c4fc32a76fbae66a.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "116"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c3ef24af7f66ff56d19e607696288bfbd531c738f025b348e621a1ec70ae5515.jpg",
+			"name": "Year Walk 最後の啓示 プレイイメージ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fe68c0567468e6c9fd395f4e3e7f7f74ceec4b3088654eade2c05c7c7d23728f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "79"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d1dcf985e5eb18e1c29633c2d7eb79fd405b07435c40ba4b75d78ef7ef3356ed.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "79"
+				}
+			]
+		}
+	]
+}

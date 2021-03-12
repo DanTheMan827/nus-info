@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010138000",
+	"eshop_id": "20010000006008",
+	"product_code": "WUP-N-JBLJ",
+	"name": "ファイナルファイト2",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 39,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2e9a38042b1b1404f4bb302433bbec868507520b47d93c8c48ee6a62834115c3.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3550f45ce5f0ea27eca8e4cbd5fa52ae00e72912fbf360b1f974cad90168d706.jpg",
+	"data_size": "41058444",
+	"description": "このソフトは、1993年に発売されたスーパーファミコン用のアクションゲームです。 平和を取り戻したかに見えたメトロシティ。しかし、マッドギアの残党が世界征服計画を宣言し、ガイの婚約者･レナと、師匠の源柳斉を誘拐してしまいます。市長ハガー、レナの妹マキ、ハガーの知人カルロスは、救出のため危険な闘いへ向かいます。 ステージ中に出現するナイフなどの武器は、それぞれに得意なものが用意されており、キャラクターに合う武器を使えば素早く扱えるなどの利点があります。2人同時プレイも可能で、協力して敵を倒す楽しみかたも用意されています。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-08-27",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/9e0a33eb1620051472d87bc407653d74adabec5c3f97a66b3bfbec748dad7d5b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b1f93d510d0729e43d44202512847257fbce2267f2134c52f2c8dbfb21a4ab55.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2672951ae973f3799f8d23604d31fa7f825e71ecfe5af55db8d14cbbed7c8601.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8d6fd6907842b058068c8ebeeaf239a5697a8823f32164bd9818b86ad0eaf991.jpg",
+			"name": "ファイナルファイト2 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/db9321f4dcb6685cd944417454922ccb4135a4b4493861b8b343d0bbd7eedda1.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "55"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/056e55a319bbf17d37d427b3c124a28fa46fb42889b7e1e6dfcd789b794d7c87.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "55"
+				}
+			]
+		}
+	]
+}

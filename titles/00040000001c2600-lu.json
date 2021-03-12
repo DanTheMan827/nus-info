@@ -1,0 +1,67 @@
+{
+	"title_id": "00040000001C2600",
+	"eshop_id": "50010000042960",
+	"product_code": "CTR-P-AJBP",
+	"name": "Nintendo présente : New Style Boutique™ 3",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b976b95f5301c2e37b5c92fb1c5a4f8ffbb6424d0fd416c455bb039aa7304473.jpg",
+	"data_size": "817015652",
+	"description": "Dans Nintendo présente : La Nouvelle Maison du Style™ 3 – Looks de Stars, gérez votre propre boutique de mode et trouvez des tenues pleines de style pour les clientes que vous rencontrez. Cette fois, les histoires de vos clientes évoluent en fonction des tenues que vous leur proposez. Incarnez une styliste de talent et interagissez avec de futures stars ! Quelles tenues vont-elles porter pour leurs débuts sur scène ? C'est à vous de choisir ! Choisissez parmi plus de 20 000 articles nouveaux et anciens, et découvrez bien d'autres choses. Visitez le site amiibo.nintendo.eu pour voir la liste des amiibo™ compatibles et en savoir plus. Un lecteur/enregistreur NFC est nécessaire pour utiliser les amiibo avec les consoles Nintendo 3DS, Nintendo 3DS XL et Nintendo 2DS.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "TBD",
+			"retail": "TBD"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d25626969516e03ca248ca7266b9a24efd5b1a60a7e484ce069458317ea3419a.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f95cfd4ac1ecaf6c1cdc75b7459d40264a4374980009ad8f7572e4b63d4dfbd6.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3ac9634c72e960bdf600763680604cce2817d0b736d754732e718f7c4b962897.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/601789e352e1847adeb561d032b0f0aee2ba6685e220caa2840c0a63afa1794e.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f0c29994f3efbb45966741752884670033095bd1f00cad1014f5f51b5e169f05.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/12a87788f05adb09217800548249d5db2405df2984fb1470dbb4f7770caf7675.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bd85dc53bfccef2c41a7eebe4479002d550439641a448f7dc38933cdd515d51d.jpg",
+			"name": "New Style Boutique 3 Démo : bande-annonce",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f6cc141bec18e54afa07832c76d9cbd841d05f186167a2a6762963265f695210.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bd85dc53bfccef2c41a7eebe4479002d550439641a448f7dc38933cdd515d51d.jpg",
+			"name": "New Style Boutique 3 : Bande-annonce de présentation",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/884fa5f34e7fe016801a0d313504bcf6566fb0d8fab1b5ed8b603f462a0eb5a0.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				}
+			]
+		}
+	]
+}

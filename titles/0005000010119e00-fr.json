@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010119E00",
+	"eshop_id": "20010000001564",
+	"product_code": "WUP-N-JASP",
+	"name": "Kirby's Dream Course™",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9abd28b9b3fe51610dcc8abb4252912d145365a3f3a8cbc770d3b7e6ad761bc3.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/fde35415386707518bdab833a886faddb81e1e81ee33aa9710cc6bddf5871ca3.jpg",
+	"data_size": "40960140",
+	"description": "Kirby’s Dream Course renouvelle l'univers des jeux de golf. Kirby joue le rôle d'une balle et ses ennemis sont les obstacles ! Triomphez dans 8 parcours différents comportant de l'eau, des piques, des tapis roulants et des trampolines. Faites rouler Kirby pour éliminer vos ennemis et visez le trou qui apparaît. Ajustez l'angle qu'il prend, l'effet et la puissance, et copiez les pouvoirs de vos ennemis : un parasol pour flotter, de la glace pour geler l'eau ou du feu pour brûler les méchants ! Kirby’s Dream Course propose également un mode à deux joueurs pour affronter un ami. Si vous possédez ce titre sur votre Wii, faites un transfert Wii™ vers votre Wii U™ afin d'obtenir la version améliorée à un prix spécial ! Ceci est la version américaine du jeu.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-05-23",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/f6798dd27552abcbf0ef45b289d478a98de086d42a55a437e77d3581385f2b02.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/83050ab452f85641135653fec52601267b642ce037d6b656544bca01e68f9a80.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f61dc907de00a1d9055959967d5883896d2ac746598a8076d0b84aba07108243.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/76a1771a87597d27cc1bc8c8f66f3f424fa3afff3e637dc2f87672896664e152.jpg",
+			"name": "Kirby's Dream Course™ : vidéo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b636a13f007040bcb9674ef59c24ac49fc77b72aca845e8ef2a2e6222366693a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "41"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9727a76b669b0127c7c94e00c204781fedfeef6040a5ca128a22954229fd0c5f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "41"
+				}
+			]
+		}
+	]
+}

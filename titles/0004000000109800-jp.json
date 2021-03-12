@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000109800",
+	"eshop_id": "50010000020413",
+	"product_code": "CTR-N-NAEJ",
+	"name": "ニコニコ",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 1107,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/83b9f05be6b01475b8d4ad5368cdf5d5556d38731dabfc84297d209e7f8c16fb.jpg",
+	"data_size": "66390884",
+	"description": "日本最大級の動画サービス「ニコニコ」がニンテンドー3DSに登場! テレビ放送中のアニメ動画や、ボカロ曲、動物動画など1000万本以上の動画が投稿されています。 また、ニコニコ生放送では、ゲーム番組やライブ中継、アニメ一挙見など、さまざまな放送を毎日配信しています。 飛び出す「3Dコメント」や「すれちがいマーケティング(スレマ)」など、ニンテンドー3DSならではの機能も多数盛り込みました。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-02-14",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/4cc67b1c27447d06e2680e4ad1a3898e864c4797983efa55960149ad7e3b658a.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ca53de156ef2b3bb0e9331be78d6f2819cb2b33a392d23613e7052cf50bbfee8.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a9ca0ad765f7514b01ec9940c41e3f104edc8bae341b2c652d3e92fa89d5f59c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1267f40a236e02784065661f439e35362f992fea7b677a6557701f1f930ac1ce.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/604e3ea7684d97a15002d867ce5ae515e1f64891280a2287f146fa8e090b3f6b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/15863f069c6b9ad44bf2cfa8a45462cacf4a7f86dbcd5d8d569d78499e861128.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e556d3366be74611bf533d28c6bc65f50996e9f21ffd447279c20fdce5853e92.jpg",
+			"name": "ニコニコ 紹介映像2",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e868ad7312e0f71800cd733976d8eae9f13bd19618be9c5a60b836d1da720193.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "184"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/34759474808bbc46646992aa0cbc9a0746ac7a6bd9722248e7f919cbff912c94.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "184"
+				}
+			]
+		}
+	]
+}

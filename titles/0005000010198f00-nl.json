@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010198F00",
+	"eshop_id": "20010000022427",
+	"product_code": "WUP-P-BTXP",
+	"name": "Terraria",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 4,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d3d3406f59eb05334b83c62bb9ead08a00696803fc020a0be90b1b1b292aebaf.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/56de94efcbf16b7d4197742307bc445d59b65854bfecbd841841a042dd7e974e.jpg",
+	"data_size": "214466700",
+	"description": "Beleef de talloze mogelijkheden van Terraria met de meest intuïtieve interface die je je maar kunt bedenken! Verken uitgestrekte fantasywerelden en vecht tegen honderden verschillende vijanden met wapens en pantsers die je zelf hebt gemaakt. Bouw alles - van eenvoudige huizen tot enorme forten - met slechts één keer slepen met je Wii U™ GamePad-stylus. Honderden uren plezier wachten op je!",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2016-06-09",
+			"retail": "2016-06-24"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/b05aca3b4d9eaf7d31d24e674787aded086024136c8e72f0860d1ff7fc68243d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8e6f36eaca744a5c591dcabbe088324c3700610a7980a91ffaa56c307b2c5f56.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/39b44961d0a8424b8a982b37324ffc0460ad5a1431a0a95598bc678d529bae5b.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6d316a3fd0b6c7246f623aef3e957aae7be59b3cd6cc1df8dea2ebf78282b662.jpg",
+			"name": "Terraria: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/552ea4b001baae8bbbae74e76b9d9535c65138f9ed7236cfac6f099eed43feb9.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "59"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7a9e352ebf6939e09928c7c0fb88a53b1d7403c8e39636ff970fa71496989ec6.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "59"
+				}
+			]
+		}
+	]
+}

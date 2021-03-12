@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001018BE00",
+	"eshop_id": "20010000012667",
+	"product_code": "WUP-N-FEBP",
+	"name": "Blaster Master™",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 256,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/28d0c855bedc02dd6ec1e8084db62bfabde11fcd50de88993069786ad89e5bc8.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c7c965395d1d74b03fd03038a86c7d9ef3c22aae64f98477604661f69c729feb.jpg",
+	"data_size": "38863008",
+	"description": "Blaster Master tells the story of Jason, an ordinary boy who becomes an extraordinary warrior on a quest to save the Earth. One of the most innovative games of the NES era, Blaster Master combines side-scrolling and top-down perspective sections, as Jason battles radioactive monsters both on foot and behind the wheel of Sophia The 3rd, a heavily-armed multi-purpose vehicle. Battle through eight huge areas, upgrade Sophia's arsenal to hover or drive up walls and rid the planet of the mutant menace! If you own this title on your Wii™, perform a system transfer from your Wii to your Wii U™ to receive a special upgrade price. This is the US version of the game.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-02-13",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/f18a569fc2a3b4b1d914b35ddd7848379aad52fc8fb386233cf253450263cb4a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1a4bcc82239ddc3326d7984f86870c507dcfffba75f9686490c18914109026ee.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1c260cadba56adcabcc04714f67a1a118fa9634285505d3d2e8295a2e2eda3ba.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f67e847abe0dc66b42b428249cffa47f334641d5930325736b497eee06642a24.jpg",
+			"name": "Blaster Master™: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/af33229d344a840ea26b60305914c0505de872a6fca3c73a2d0421f4a2d263c7.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "51"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bf42c1f71546df971841d1e958d0162060ee553202580d48b3f76bbca379c5d4.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "51"
+				}
+			]
+		}
+	]
+}

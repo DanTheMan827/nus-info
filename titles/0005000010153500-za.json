@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010153500",
+	"eshop_id": "20010000005624",
+	"product_code": "WUP-N-FB6P",
+	"name": "Renegade",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 19,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fbbd475f6479c23667d5da2f04d2d1686ba37bb6562e428905a69d9f018939a2.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/fca23571a124093a53331101df70cb4f798a75803284728b7e166fdf9a16a564.jpg",
+	"data_size": "36569228",
+	"description": "Renegade was a highly influential benchmark in the beat ‘em up genre. Step into the shoes of a vigilante who must battle his way through subways, parks, alleyways and parking lots. You can even burn rubber on a motorcycle. Pick up items like a hamburger that restores life, a heart that increases your lives by one and an item that gives your bike a boost. You’ll need all the help you can get to take out the many street punks, killer kung-fu females, outlaw bikers and array of bosses standing in your way. This is the US version of the game.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-03-06",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/dab685cc04b06d13e4f9ecd7d12a2501a471a4bbe6adfb7c1fff8ac2e1399303.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b83f5aa4b9f614de4bf6e97bd90cf8ec0535de136cabf5ddb8cfc34348db4acf.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1f7748acaf8f9cda93934e13eab6ea514736b15520b91fded43a698e56bebf4c.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/02c7bc98c42be1f4ee5c0db86160de3648685cee7ed0bd22fff1c9fdd7177c4f.jpg",
+			"name": "Renegade™: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/81646e0b149435582f9ea7d549ffbabff1b3733901fede704179a80ae5a24405.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "41"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/36e497ad9c81c5bc44e5320df18d0c8f378d74225e6bcdcc44a45669cd9f15c8.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "41"
+				}
+			]
+		}
+	]
+}

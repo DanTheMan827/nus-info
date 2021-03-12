@@ -1,0 +1,78 @@
+{
+	"JP": {
+		"title_id": "000500001014D900",
+		"eshop_id": "20010000004764",
+		"product_code": "WUP-N-APTJ",
+		"name": "ぷよぷよテトリス",
+		"platform": 125,
+		"platform_device": "WUP",
+		"publisher": 231,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5162fccf40879ba59775f60b4608818990b384865485319a647ca81f85fc425b.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/218f8ebc055438690359a129bd69610802bdef3838dd0b6989b7fc8cad9d61be.jpg",
+		"data_size": "2406220056",
+		"description": "夢の対決「ぷよぷよVSテトリス」が遊べる「VS(ブイエス)」や ぷよとテトリミノが１つのフィールドで共演する「ぷよテトミックス」など、 本作ならではの新ルールが満載! インターネット通信では、都道府県のトップを目指す通信対戦モードや 他プレイヤーのリプレイが見れるモードなど充実のネットワーク機能!",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-02-06",
+				"retail": "2014-02-06"
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/eaae9bade4461c774a219ab5762ac5bf743d3ab8bed16cf22679fb949e1f7f45.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/83d470adcba0964e6c993fef275c3420353d997b64a1fd2a67e02e12474e6cee.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/a951d7a94480598a94c6bf0b4fe017280f87743b59eb028bae90d37fa80172a1.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6b6ee8b809bd204949a08e0fe491b06cb06633a2e419d3ca0aa8d2cb034db6ba.jpg",
+				"name": "ぷよぷよテトリス 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1717d70566274c9017d7924d93822afc9d49e4b8d0e2ced5fada4cbb9c139161.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "162"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/eb5a4826657a64cbe07ca1da2f554c5147228f90817094062804f957b1472f4a.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "162"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/94b402e6ef482e2adccda57904fde9bffa95f2fee47d4a8ccd1496326bcef62d.jpg",
+				"name": "ぷよぷよテトリス TVCM",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bdb44b228c243df68cd7a677e2f7e88548c1f5cdf136f72dd29ba43526606339.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "15"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8ae84ac39ee00ac29c64ece58932b2dc890a92deca9d46ff43adcfe9b5c0d1e6.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "15"
+					}
+				]
+			}
+		]
+	}
+}

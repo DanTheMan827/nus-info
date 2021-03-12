@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101A9E00",
+	"eshop_id": "20010000022228",
+	"product_code": "WUP-N-BCHE",
+	"name": "Chompy Chomp Chomp Party",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1360,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f73798b28f31bc00732feb3dcefa51fca8ecb44d099c9e78c2d744ddf77a6604.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/04dfa059b07f170a27daa510e7253eb87bf29520ebc1058c8980b4f6bdd997e7.jpg",
+	"data_size": "475005088",
+	"description": "Chompy Chomp Chomp Party es un juego rápido y frenético de hasta 9 jugadores. Cada jugador controla un Chompy de distinto color y debe perseguir y comer al resto de Chompies en distintos modos de juego y escenarios. Persigue y Come Corre hasta el Chompy del color de tu objetivo (representado bajo tus pies). Si lo alcanzas te lo comerás y ganarás 10 puntos. De Zona a Zona El Corredor corre entre zonas para ganar puntos. El resto de Chompies lo persiguen. Cómete al Corredor para convertirte en el siguiente Corredor y conseguir puntos. Atrápalo Algo se esconde en alguna parte del mapa. Atrápalo y mantenlo lo máximo posible para conseguir puntos. Cuando alguien te come, se convierte automáticamente en el nuevo portador.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-05-19",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/8d0118d74add753672f9f95504733012612db65d951130d0deee7738e7c1286d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a0c9c78336a4b72fdfce6d2b4d06585eb65f1bbae10500b5e0185caae40f7ca0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/11f542adc921fb3a3e1e17bb3fd0c2511f0052644c344c255605cb189ad95487.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/efd2540f631947447160d4d31774e6b22396e81d4ca531723dfbd159f4526d26.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d53a7bbcabcae6a12efb590d0398e7e15af972859455e6eb09b7eab7e429f495.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/efdbd2ce008777743ec5bc3b9aefa059e467e8e37348c8d73e2eed185d6a5d3a.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6423127da4b155fa1a663ec0369acd6d158cc11480e23a5a04479a3c091ca52b.jpg",
+			"name": "Avance para lanzamiento Chompy Chomp Chomp Party",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fea257cf92186f72f371341bf0499110a6f1fd935b32ad2cba5222ca8dc1c187.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "130"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/43c10520f575e8656c6110f4776fa97ce359d7247878e90bd7df91bf3909b8a1.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "130"
+				}
+			]
+		}
+	]
+}

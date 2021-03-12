@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001015B400",
+		"eshop_id": "20010000004305",
+		"product_code": "WUP-N-AS2J",
+		"name": "ソニック&オールスターレーシング TRANSFORMED",
+		"platform": 125,
+		"platform_device": "WUP",
+		"publisher": 231,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/996c9e810f8c787c935c51271d57763c6d4d0b526f5ed593582ffa4af527d347.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/514e7344162dc7eaf2baa42350b2a028a7c3a185524db78e5941a18bd0721bb7.jpg",
+		"data_size": "5840208452",
+		"description": "ソニック、スペースチャンネル5、クレイジータクシーなど、セガの人気キャラクターが集結した、超変形アクションレースゲームが登場。 20人以上のキャラクターが、陸･海･空に変形するスーパーマシンに乗り込み、歴代ゲームをモチーフにしたサーキットでバトルを繰り広げます。 50以上のイベントを攻略するキャンペーン、レースを転戦するグランプリ、画面4分割によるマルチプレイ、最大10人でのオンライン対戦など、さまざまなモードが楽しめます。 さらにスペシャルゲストとして、ディズニー映画『シュガー･ラッシュ』のラルフも参戦。セガ･オールスターたちとのバトルも見ものです。また、ある条件を満たせばMiiもプレイヤーとして参戦します。",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-05-15",
+				"retail": "2014-05-15"
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/797693da2b23b2a9b7c50b1a54194d3c24bc014cef80a026157af59ccd06ae86.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/2e77daaeafc93b18591efc36dce6be419eaea6f7d7860ceeae77f5776311cdc3.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/4c410736f1095786ec7b15ade437d0c173921742515876bbd1857556988ab18d.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bff6cde793c6443edfed0ac4cf1d194dae881d4c7b5d8587224fbe1e9afa835e.jpg",
+				"name": "ソニック&オールスターレーシング TRANSFORMED 紹介映像2",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/99755a00dd55b9afb1d1133f5490bfb772a8d12101953b950af7a5b31a64a959.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "180"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/06069cc9be7f5a3b22c224d914d0a93aa148ee0af4aa68efb934b8808123280f.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "180"
+					}
+				]
+			}
+		]
+	}
+}

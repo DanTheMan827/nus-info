@@ -1,0 +1,76 @@
+{
+	"title_id": "0005000010110F00",
+	"eshop_id": "20010000000290",
+	"product_code": "WUP-P-AD2P",
+	"name": "Darksiders II",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 368,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/703fcb610c54751a3b1be453ad3aaefcbf5a69f845ac9f3ff8f3e33669dd884d.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6d11139b8c4cf0c40a31485f4a5d872052c0bc3c0cfef9a420db5e6428ebbf38.jpg",
+	"data_size": "10038215636",
+	"description": "Конец света пробудил Смерть, самого страшного из Всадников Апокалипсиса. Лишь он сможет предотвратить Армагеддон. Станьте силой, которую боятся все и от которой никому не уйти. Darksiders II для Wii U™ включает бонусные материалы, которых нет на дисках других форматов. Используйте экран Wii U GamePad™ для быстрого доступа к предметам и способностям. Электронное руководство доступно только на английском и французском языках.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-02-27",
+			"retail": "2013-02-27"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/0c95156c94e3e7b126307a8b62b6206ed86722da50b5211352c5f64826600cb1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f8f0161c3335f05159f66f5be5086f05bd352cf05d33392e015d7f3f91982ebd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d803b4ef8d279bf287d8f843540bb872dd126b564627f3daa584f549d106bd92.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b7331846f7b4b33cf23b3d96e4a07b55d4e2dafdb71ac024eeec5f43b6487951.jpg",
+			"name": "Darksiders II Death Strikes Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fb861f9a2ce849f34d2799221c9ad13a51e6db48e226ed0069b1725342c8799f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "111"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/adc808df0e720d1c612a34f144ad9c7576d5ee39a379c4e2703ad88414112aba.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "111"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f7a0bcd0a378da626dd99f6215983bb2723aec0c521d1cb2e000dce600ffb4a0.jpg",
+			"name": "Darksiders II WiiU Advert",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b4a7e78c60dbacdc85f9a8e6829e8e59b602ac34c3124d60d00a13b8bb4bc3b3.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "19"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/72b95edb2e7d0205d5a3eaad92241b56fe2796464c8b6c8fd278d0a7e78092e4.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "19"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010148500",
+	"eshop_id": "20010000006726",
+	"product_code": "WUP-N-WAGE",
+	"name": "Abyss",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 76,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/97bcbc0d678970a04f27bfd353b1ac2e0658822178566e479ec1d64be0f9bffb.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/14cc8fd256b1aece58a4c9424bae754a6a2ca4e736c18cbbfb441aea2c5d47c8.jpg",
+	"data_size": "130089080",
+	"description": "Explora el abismo! La tierra, año 3024. Los recursos naturales son escasos peligrando la continuidad de la raza humana. Desesperados por encontrar nuevas recursos energéticos la ASAN crea un robot bio-mecanico llamado Nep2no capaz de soportar profundidades extremas con la intención de encontrar nuevas fuentes de energía. Después de muchos años explorando, se encontró una nueva fuente energética, con el nombre en clave \"Gaia\". Tu misión será encontrar las piedras energéticas \"Gaia\" explorando las profundidades. Para ello tendrás que controlar a Nep2no contrarestando la gravedad y la oscuridad del entorno con la ayuda de una Luz que irá consumiendose poco a poco. Nuevas características: 12 Misiones originales más 8 en el modo Dark. Modo dos jugadores competitivo. Nuevos Efectos gráficos y Música remezclada.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-05-01",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/74e35411ba0bfa78007184587e591bbcf7c0afea14aca3e302e1810679f6b716.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/68a178ceed01c42df1fd03a248edf78ca1f074e64bb92a12a995a27748581ff1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/46ba89ce730bd7355921786df927c12f9b32e97676f238a0c00f784a025b81cf.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b2a391a870786fbe36159f472ed49a6c611ecb0e32595563317b0eb1c327bd09.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1d3517abdad109fe959b3aed292a21cd48e2607f90f3091d685ccfd27741ae68.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2481b2c6709cb344314bb0fc8693eddfc3270ce85b3b66bf55b2b77c92cc7f97.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f3310ea3c5cac241523c8d565d6f9e6b2448410b6febc1e65a1e26c455663920.jpg",
+			"name": "Avance para lanzamiento Abyss",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/210eedd45ae02cb8169661e05bf9bba93cbf7544b1e2bf7c914e80fa77860c96.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "98"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/06f75827b489c1766dc9565a6ed50bcfeaf7971aeda89d86a7a1ebbac28c0a94.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "98"
+				}
+			]
+		}
+	]
+}

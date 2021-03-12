@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000190C00",
+		"eshop_id": "50010000039815",
+		"product_code": "CTR-N-KT2J",
+		"name": "TOKI TORI 3D",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 1292,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/842330128007a01a63569815ffc9737df133204e1670f51a033f607e51147e48.jpg",
+		"data_size": "85891940",
+		"description": "ステージを進むためには、場面ごとに効果的なアイテムを使い分けることがポイントです。橋をかける「ブリッジ」、瞬間移動ができる「テレワープ」、敵を吸い取る「ナメクジバキューム」などなど、面白アイテムがいっぱいです。 もしゲームの途中で間違いに気がついたら「巻き戻し」ボタンを押しましょう。まるでビデオが巻き戻るように、いつでもお好みの位置から、再スタートできます。 制限時間はありません。じっくり考えながら、4つのワールド、80以上のステージを探検し、全ての「卵」を集めましょう。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-03-23",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c4eb95c63c68318add944c72aa886a3308b20d61ace9a7dd6a5fc7d82c2bf540.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d88536d7272e7db483f22b647b936674360368947bf3c0e66daee3e3ed3d8380.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/38ff9063aea7f6c2ab029fdbf85b5cc2ec7f1d829de49e37d418a1cbef3110e2.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a4226edd45c93f7b579366b2b9e17ab345f3e819f02bda286de4cddc440ab087.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/489ba85ebfa766834abcd22ab304e5391d8a87af926306176194f95f938a80de.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/898d1a4ccdb8b0305fca7e5f55ad2632be07fc48d1ab9b50e1de56bd0f1399ef.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/59a1cbcef7d4405569c0c2e1e779c8e59e67fbf7c01fc12e1837e8a27809d6b9.jpg",
+				"name": "TOKI TORI 3D 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/375a9945005a0c10a2b5eb98dd68eba038f0c0fe5c6afdb5cb8f2752636ad7cd.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "137"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/86e4a1e7c616d0241ddef011f9a3f0bbbc1113c2b03c74e4120e1056897d7ca6.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "137"
+					}
+				]
+			}
+		]
+	}
+}

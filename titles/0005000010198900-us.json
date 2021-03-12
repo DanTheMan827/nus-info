@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010198900",
+	"eshop_id": "20010000014072",
+	"product_code": "WUP-N-DAEE",
+	"name": "Yoshi’s Island DS™",
+	"platform": 169,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0a1a67b03651db2d6972c359238b68d2f10374569fd55bfa7a3059d4310b8fe5.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6cea44e8727b3d1f94878402a2d43ae172913a78cff79773f94863c9499da677.jpg",
+	"data_size": "67272824",
+	"description": "Kamek and his toadies are taking babies from their homes to the castle! The Yoshi clan and Baby Mario™ will need to team up again to save the day! As Yoshi crosses the lush but perilous lands of Yoshi's Island, he will also need to depend on his baby companions and their own special abilities! After rescuing Baby Mario and Baby Luigi™ from the clutches of Kamek, it looks like the evil Magikoopa still hasn't learned his lesson. The Yoshis and Baby Mario team up again to save all of the babies that have been kidnapped. Swallow, stomp, and throw eggs at enemies in the five worlds of Yoshi's Island, while also using Yoshi's special abilities to navigate dangerous areas. Each baby companion has their own special ability to help in the adventure. But take care to not drop them for too long, or Kamek and his toadies will come to snatch them away!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-04-01",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/a981e41820f010d0e5020669722f0f096fe17a5bb047f8c8dacbe907a0065689.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7c8bd29cdc089f706beb37ecff949939b1b3c0afb4a93b2dd82e92ac6decfca6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/556a94109bf491c0948a0a4ce9fe59e2be01e4bc35751e07fa5057ea61aaeaf5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4931ab10f2c6f92f5f6c0bf4e7267563460d915d2a8b238e6f76fd7897ab406b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/41c2cba9f26d82b402ebd81c0748c574c3523b69729acc8fb7001a4909af5bf5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8f32d4688d8fad51a24194475e4ca7c7b6bbdd4dbb2786b41f99424d56fe6d3c.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0c0b8cb8b13917b14f0d71aa059b0cd8edb4cccb099a9c76047cb5e10ee84322.jpg",
+			"name": "Yoshi’s Island DS™ Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b118584609e794a2d7faaf45f729ca364d8cb372a324325373a0b176cb515814.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cc01cf2562927e10a118bf1e17f4b2bdbb3a513498e9001c6517a903f939daf1.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				}
+			]
+		}
+	]
+}

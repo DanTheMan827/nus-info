@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101B9C00",
+	"eshop_id": "20010000020392",
+	"product_code": "WUP-N-PCXP",
+	"name": "Polarium™ Advance",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c01f3b0944525abc38007b91f5734745e1918964f37528b47abfe8b98eb74332.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e3f6b26fb9d46a088324bc3118a1d9cda9ec93c2fda93de57e64921fa1c7e739.jpg",
+	"data_size": "75333772",
+	"description": "Le regole di Polarium™ sono semplici, ma, come accade per altri giochi di logica, non sono facili da padroneggiare. Ogni livello presenta una griglia formata da caselle bianche e nere. Per completare il livello, devi tracciare in un solo turno un percorso che include le caselle che vuoi capovolgere, colorando la griglia di in un solo colore! Polarium Advance comprende 365 puzzle, uno per ogni giorno dell'anno, più la modalità Contro il tempo e una modalità per la creazione di puzzle, con cui puoi creare i tuoi rompicapo da far provare agli amici.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-12-10",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/f34e2074a395dd17fbb035574ffac3a973ae0dcc4e3488da3f87acfc737d9f58.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3d66f5d11acb4f5cc84247fc96de3870274b2bc7c668bda6bc7f91097fa8dae1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/64282dba6540cef5032252b681c896234b483b0a063702109b4cfc0301b9ef71.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/69856992ecddfea0729317619ad046174831c7f35ca172090328e8fb84ae1b8b.jpg",
+			"name": "Polarium™ Advance: video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/916d2856f8277299bd8eab369d3fed21b27687dded6cde25335982bc214254e8.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/689edd1dfa1159528eff18f295ba7b43faa41c2b3a9a46276739abf6fb51c91e.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101C3B00",
+		"eshop_id": "20010000021167",
+		"product_code": "WUP-N-PC6J",
+		"name": "逆転裁判 3",
+		"platform": 168,
+		"platform_device": "WUP",
+		"publisher": 39,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ecf4789ea7de212fe0d4afa8168dbc7a7479ad2a24588ca66205ed3ae7439840.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/245996d915545b5559b80d4b0c384042804595016c76795f96b1023a66527340.jpg",
+		"data_size": "73760908",
+		"description": "このソフトは、2004年に発売されたゲームボーイアドバンス用の法廷バトルゲームです。 ぼくの名前は成歩堂 龍一（なるほどう りゅういち）。 知る人ぞ知る、実力派弁護士だ。 今回の事件は、時を超える。 ぼくの永遠の師匠、綾里 千尋（あやさと ちひろ）さんが5年前に戦った、ある法廷……。 一度は決着がついたはずのあの事件が今、ふたたびよみがえる！ 今度こそ……、真の判決を下すんだ。 それができるのは、ぼくしかいない！",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-03-02",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/ce3dba4447d5bcd82be3828207c68b5ba9eb9257d74c53a42d3e3c4656fd8a86.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/a805a864e34df378c2f6d5485c3635748d1e3b3a03d7c557d0703f3cf8852eb2.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/30cbd659c19897ce0436c73cb825d7a9bf0878c7345d14b812182f4a68114e39.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7291a2ca0cba9ee0472f04bb9b6bb95e58fbcac5654754d96160d5bc42c73ae1.jpg",
+				"name": "逆転裁判 3 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0c9bd066ceff9ba59305443407919937816fc245f29606219b68df8dc5796ecc.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "77"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/49d0176348b08c5706196037b320f4c9ed1be2dd430298c47065aada334408a4.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "77"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101A9800",
+	"eshop_id": "20010000019127",
+	"product_code": "WUP-N-PCJE",
+	"name": "Pocky & Rocky with Becky",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 179,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a62c59fd6c21f2054d5e6598a210655643e09ca9d49a350a83e1d623a7579f13.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4b7e2a8b036a53d5879f93d79edee737e49dc7da4a92ff9ea503444f8497561a.jpg",
+	"data_size": "71205004",
+	"description": "When an evil hydra monster is awakened from its long slumber, fearsome mythical creatures are unleashed across the land. It’s up to the heroine Pocky, her racoon pal Rocky and their new friend Becky to stop the evil hydra’s plans! Choose from one of three characters and embark on a fantastical but dangerous adventure. Collect magical items and power-ups to battle your way through fearsome bosses and finally to the ultimate showdown with the dreaded hydra!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-10-08",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/408b2ee2438471498e432a75b8319118acf9798a68b8a2d79b3c151a82dbe894.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/af6fb5002290f112e2a24f8dc26081789e46c94e5f11b5084caff839a1350586.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b140898faaffacd006ffb23354fde454afffd57a2a17f5f61572a828dc09fc67.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c18e1294d8ec72c747faf44e41a5a1136e67d6d6cca8469b64829ac2ad0749dc.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3a12e1f113bb56f801255bda4f282c5c2d6d76de5bb6ca5240afa30a4b4193ae.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6506ad4ac6959c7ef36adcd273ba519206112a9daa0892742e0050d8294e38d4.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/955eb6f32e4f32e8ccc9b304df9ee2c3c3917168cbe91d44a93a77e410b0767e.jpg",
+			"name": "Pocky & Rocky with Becky: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3ef58c6425649c948905832523c53dfb1cd2aa1ebe8a6deda7fda0c5491e56ea.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "37"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c550256310897c4f35eec7fabc4d0a6d69788518b71d2abf4c5746c7e2e7cd3b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "37"
+				}
+			]
+		}
+	]
+}

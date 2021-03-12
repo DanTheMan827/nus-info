@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101B8800",
+	"eshop_id": "20010000015447",
+	"product_code": "WUP-N-DAQJ",
+	"name": "タッチ！カービィ",
+	"platform": 169,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5811f339d153f162612f41a5c79068b2dc351ca3f730c289ee4dc1500241c276.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f6d8aa0aa8c03d43e37a6c01740ced1bc9517c59eeae091c821a97a70a8a9392.jpg",
+	"data_size": "68616312",
+	"description": "このソフトは、2005年に発売されたニンテンドーDS用のアクションゲームです。 タッチペンで描いたラインは、虹の架け橋。 空にも、水中にも、どこにでも、思いのままに道がつくれます。ボールとなったカービィを虹に乗せてスイスイ転がし、カラクリいっぱいの「絵画の世界」を大冒険！ 11種類のコピー能力を駆使した、カービィの多彩なアクションが楽しめます。 ※おすすめの画面レイアウトは「下画面 重視レイアウト」です。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-02-03",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/c562ee49bbefd98cc18275dffe2dee8d793884cd632bc4437bc574b6b692bfc9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/22d9c69d7fe5f17addbb5eb5e964d93fa6591e65bcaf611e396e5cb593329d6d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a34676b489b3cc4ac8672cff8982c81711267296d13ef6da1c5088afa33949fc.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cbe0f98165023e85917f0590830f18e21aee9d7eef8820ab3f876740db12d444.jpg",
+			"name": "タッチ!カービィ プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/66df8ac32581574d2a28003eb61211ef0e1a028b9b790e6a0a7cb9856ccca113.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "75"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8da2b2968588399ad8b26f8bae8ef18d6ce2810beb6e07798464c5dc8d180abf.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "75"
+				}
+			]
+		}
+	]
+}

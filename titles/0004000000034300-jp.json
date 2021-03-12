@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000034300",
+	"eshop_id": "50010000000223",
+	"product_code": "CTR-N-AQNJ",
+	"name": "Cubic Ninja",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 384,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/33eec8abee8e75935a719d30830bf5f71f9115c09c3266400be2fa8a5d31da31.jpg",
+	"data_size": "87022436",
+	"description": "2014年11月19日に、本ソフトの配信を終了いたしました。 ちょっと変わったプレイスタイルで楽しむ、新しい遊びの世界へようこそ。 操作方法はとってもシンプル! ニンテンドー3DS本体を傾けるだけ!! 以上! 前後左右に上下、果ては斜めまで。さまざまな方向にニンテンドー3DS本体を傾け、ゆすって、また傾けて。 きっと、素敵な笑顔と満足をあなたの元へお届けします。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-03-28",
+			"retail": "2011-04-07"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f9ed127e9594267dd76ffc0463b91c2a4c7f0237a2bf48c1d0fc77beac807d42.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9759ccc3e727b02a0b638a38485c9efd408b3707b34a34947c3819d144a27b7e.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/333e9d209ca4f4eb85bb9ebabb9c172320ea1b7f3923baf66f5148899dadd6bc.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/aaebf9e4c38f0625d4438c216cc185aeace6d33790e5c9b2b7d8001d209fa0c8.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/79c20c512e3f89d527845f2040b43616245bcaed1b8c2aa57fae061a86ee7632.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/bbebb8f19b138781b7efc0849344c5747acdaf72c0a71d86e88c86f15fa0042f.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/40b49d36ef96e75f76f3b895f311027f44bf351d9f1a9ba8db48bf2ac0ba399f.jpg",
+			"name": "Cubic Ninja 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/372f21d67786b25e93a4c1f0a95aa90933acfb4aee51090b3fd4a12563ae55d0.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "131"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/49cc7e7f032f2bf715f7447e851c0f0e20ca355ca8210a1b44c1b5161dc8365e.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "131"
+				}
+			]
+		}
+	]
+}

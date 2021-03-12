@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001016DA00",
+	"eshop_id": "20010000014827",
+	"product_code": "WUP-P-WHLP",
+	"name": "Nihilumbra",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1263,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/665cb52164d0e014497f9429cda7022ee70d0987ae74dd3a188951920e82a46b.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f872add9217ae17fc9a9eb47bca990c39691d43d8746fedf48f871ea66e49be3.jpg",
+	"data_size": "1828716804",
+	"description": "Entdecke die riesige Welt von Nihilumbra und schließe dich Borns Abenteuer an, sich selbst zu finden, während er versucht, seinem unvermeidbaren Fluch zu entkommen. Born wurde aus der absoluten Nichtigkeit gezeugt. Als er die Leere verlässt und in der Welt auftaucht, beginnt er eine lange Odyssee, in der er lernen wird, die herumliegenden Farben zu nutzen, die ihm mächtige Fähigkeiten gewähren; aber er wird einen hohen Preis dafür zahlen. Die Leere muss eins werden. Sie will ihn zurückholen und wird nie aufhören, ihn zu jagen, während sie dabei alles auf ihrem Weg zerstört. Um überleben zu können, wird Born die Welt verdammen müssen, auf der er geht, und lässt sie für immer verschwinden. ",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-05-14",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/8e861a5aab616842aff4000a3f001f551028895d9823832a391be167411f53fc.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/46c78cfa2e5593f670dcfe682b2673f035d5a1e93a3e6384a4e25eac043c4eff.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6d02b8d13e7d2d998b3f8082bd6bcbd468139064bf423baab91fbe3fa052a3bd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/113140fb41a20e8cd25900bf45ee90c17b04a7397c650d2d481b1297fd129e27.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/184fcc512b2c56c69483087b21583149f3f7094c762617a12b053b674df50c49.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1aa9a682da1119982046a384f2da11e862b87b44b4279acb8854e2ebd63816c9.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/240bb60b747c831fea65fc10f3e29591985cd6a6a0281aa05b04c7ac4e74af7e.jpg",
+			"name": "Nihilumbra: Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3b9fd86adbc79e9a9aecf9a8589b36b506c994ce9f76169545cc28f2ff527e84.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "119"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0e724962221bac6c9d8fa6f76d31e07de0de79027afa50e80d3d6b87917bef52.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "119"
+				}
+			]
+		}
+	]
+}

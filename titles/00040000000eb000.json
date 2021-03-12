@@ -1,0 +1,69 @@
+{
+	"JP": {
+		"title_id": "00040000000EB000",
+		"eshop_id": "50010000015104",
+		"product_code": "CTR-N-JVAJ",
+		"name": "ソリティ馬",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 95,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/1ba2a3ed9a2cf8cd5db959206f34a45d324e598c3884580c6f1f1d88118dfaa7.jpg",
+		"data_size": "110451556",
+		"description": "『ソリティ馬』はソリティアをプレイすることでパワーをため、そのパワーでおウマさんを走らせる競馬のゲームです。ソリティアと呼ばれるゲームはいくつもありますが、本作のソリティアはとてもシンプルで直感的なルールになっています。 かわいいキャラクターと簡単な操作で、競馬を知らない人でも勝負の興奮を手軽に味わうことができます。 ●多彩なキャラクターたち 馬主さんや調教師さんなど、ゆかいなキャラクターがたくさん登場してゲームを盛りあげます。 ●ヘンな馬も出てきます ゲームを進めることでちょっと変わった姿のウマも登場します。どんな姿かは、自分の目で確かめよう! ●目標は、すべてのG1レース制覇! ワガママな馬主さんの期待に応えてたくさんのウマを乗りこなしG1と呼ばれる20種類のビッグレースをすべて制覇できるか!? ●おたすけQR機能 どうしてもあのレースが勝てない! という人のための機能です。うまいプレイヤーが育てた強いウマのデータをQRコードの形で受け取って、その子ウマを作ることができます。強いウマの子はやっぱり強いので、レースに勝ちやすくなります。 ●友達と対戦! ウォッチモード QRコードで受け取ったウマと自分の育てたウマでレースをさせることもできます。このモードではウマの操作をせず、馬主気分で勝負の行方を見守ってください。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-07-31",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c9d53f9bd3ed54865cfffe56b5c6f9ec17c27430e9e65e4441371a493b6c52bc.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e97932624e40cfba67a89cf3e2bbc77f8fa2e3c56a399d37607a5d9670c2b0cc.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b39cef8d1ca392705ae2b808b9cc53f493ded2061698487e39733923ff6ac189.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/bbc17ffc264d7de612faebda5c00ee026e4ac5da37eee6da612ac0b9142fc4f8.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8d18129200d3debe48ef397c5d0997b4de7418ac3c7f9a5f8aaa63cf8d911ed8.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f7e117bad4b2a42e3a387e44a3bf8abd57ee0c127c26cfc091d54f05c45e5924.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b01ee77b8c69388a745f6beb72d9108001785e6d13510444ff30186dc09c00b7.jpg",
+				"name": "ソリティ馬 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1979a8584fb408bce8da3fdb1b700f9ddf5bdf15593367dbf21c21bec4b078ca.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "139"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e934bdb327fb165ce0abdb74b1a68b8c5b836c7d9c801d4785089e30a328f0f4.jpg",
+				"name": "ソリティ馬 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/72ebd4dd7e0b96c6ae25b00f7417aecf735beeffce10b339a1188eb902b4fe20.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "45"
+					}
+				]
+			}
+		]
+	}
+}

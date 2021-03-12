@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001014D600",
+	"eshop_id": "20010000003624",
+	"product_code": "WUP-N-WBDJ",
+	"name": "TRINE 2 三つの力と不可思議の森",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a0b00df339baa153666aab94a4d3e900280ccb89a73d904981025e1f9b58fd36.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a64299362420502229b0f7717692e97442f96ec2d398182b4fcc95b7e2a5a26b.jpg",
+	"data_size": "2334753088",
+	"description": "魔法使い、騎士、盗賊、3人のキャラクターを使い分けて進める横スクロールの謎解き2Dアクションゲームです。人間を狙うゴブリンの群れや巨大な竜など、ファンタジー世界の怪物たちが3人の英雄の前に立ち塞がります。マルチプレイではオンラインでもオフラインでも3人までの協力プレイがお楽しみいただけます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-01-22",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/0c096c18d2ef7e8dc35cc2edb8960e4a09cfa5492e93059446f728a8e13dea86.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5a5f1fd90e20ea740ef3b5da21a08aff603fcd9074a743c8d62692e19314a2e5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8a7178ff4f1ba17dc33cd0cecf4fac70675e07cf24d23ec92efbc6ee6120bb33.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3fcb4b9087f60afec4dbcd9415fd07a4b5a86650717a557f5fb3bc6de67033f4.jpg",
+			"name": "TRINE 2 三つの力と不可思議の森 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/001f29f57c54ea4e588b4fcf58858f5b533b0747f8c658d98aa813f37973266a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "152"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/15582bc545952793c9779d567fe31f266971f33c611d631897ff32e74a481a79.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "152"
+				}
+			]
+		}
+	]
+}

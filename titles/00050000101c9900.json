@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101C9900",
+		"eshop_id": "20010000018990",
+		"product_code": "WUP-N-PDDJ",
+		"name": "川のぬし釣り3＆4",
+		"platform": 168,
+		"platform_device": "WUP",
+		"publisher": 167,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bb92f15cb4ed610177837ab891f90de84a0340a32141de2b1b45f5b8f3a37697.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7171acc64db0553ee4ee5a2327aaeab41e72bee855df4b2609c7af0354e4ae39.jpg",
+		"data_size": "70484108",
+		"description": "このソフトは、2006年に発売されたゲームボーイアドバンス用のほのぼの釣りゲームです。 『川のぬし釣り3』と『川のぬし釣り4』がリニューアルされて1本のソフトに！ 川や湖、海をめぐり、「ぬし」を釣りあげよう！ ・投げ釣り、ルアー釣り、フライ釣りのほか（川のぬし釣り3）、船釣りやトローリング（川のぬし釣り4）までさまざまな釣りが可能!! ・「うおっち」モード（川のぬし釣り3）で、魚を育てて進化させよう！ ・魚だけでなく、虫を捕まえたり花をつんだりすることも（川のぬし釣り4）。 ※当時のパッケージ裏面に記載された文章をもとにしています。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-05-11",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/d626a8414a108d21c85b83a10efab6800eab25e06a95e102a7659ceac8ad5a56.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/fb34eb1845a67564164bf01b44a7bfba44982cabd9de8a588d30c4773b785904.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/2192b86c71d01b9ff5c2836dfd7b155a0bb6c1b91ce85c9c38087fbc6c95ac27.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a8581783a4d9f9c8ac4d109ba24cf87fbcbe3faea24ddb3748966e64d2b677ce.jpg",
+				"name": "川のぬし釣り3&4 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/28b84555bd3027ba65ae4fe34ddaa986588015a585c0ea55dfed10a0db7144ec.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "68"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9e6beeffd688eb7c2346d5f7bff43161fd5dec33b32adff8934b31fd01ddc6a0.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "68"
+					}
+				]
+			}
+		]
+	}
+}

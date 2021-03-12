@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000167D00",
+		"eshop_id": "50010000032596",
+		"product_code": "CTR-N-JZDJ",
+		"name": "Shizuku Memory",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 1212,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/90278cbb9ebb5baf92791547d4e8b194f088fd6e4719a95731a1efc54e521f49.jpg",
+		"data_size": "100526948",
+		"description": "『Shizuku memory』は、水滴(Shizuku)を操作し、パズルを解いていく「純粋思考型パズル」です。 『Shizuku』の続編にあたる本作では、さびれた家を背景に、記憶をたどる、パズルの旅に出ます。 アクション要素無し、タイムリミット無しの、完全純粋思考型パズル。 たまには、こんなゆっくりまったりなパズルで、まったりしましょう。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-04-22",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/286f81d74d368d6d0528cc82adb50d1eeb2b739768860efe9bec90ed092a912e.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/21b1acd4845ea9a1691998fe9f7955e70afdfd324be79e0924aef06dcb641fda.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ff848f6c629b8830447122ce16297565785fcdf297503a03625644a071b54ccd.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/dac559d6e5f651aea044a29dc59fc0bb0d022169cbf74f3040b3a94e05566558.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/25a6b61f61e132364ff5d5756146dc024196bebf1902b17bd2e71a2db1376d74.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/06b538c5cbafe7fbd744405f0a8ce1c37fff7db97c1b682a2fa9126292850f66.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ee4c475d63671e67feb998e4da8d4fb492918c11f504f04eb3c011a741ba57bd.jpg",
+				"name": "Shizuku Memory 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0b2a19eddc7822a3522573b0d35b45d8bd4c70eef8b1117fcb4e19311af8d4aa.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "112"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9ce7fa7b249add67145f226d56f276e7421a7e919312fa3427287b957e669e7f.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "112"
+					}
+				]
+			}
+		]
+	}
+}

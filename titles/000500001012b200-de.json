@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001012B200",
+	"eshop_id": "20010000002844",
+	"product_code": "WUP-P-ADXP",
+	"name": "Deus Ex Human Revolution Director's Cut",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 247,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/74ef3451ea4111275356147d389fd3c24da9df78a5bf0deeb440a1ab1e37a641.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ae86f8cc7b24e19ce372b6823f29b690c54cdfb32fb04c596472a71cba3353b5.jpg",
+	"data_size": "16591783288",
+	"description": "Um sein Leben zu retten, wurde Adam Jensen gegen seinen Willen kybernetisch verändert. Auf der Suche nach Antworten findet er sich inmitten einer globalen Verschwörung wieder. Seine Entscheidungen haben direkten Einfluss auf das Schicksal der Menschheit.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-10-24",
+			"retail": "2013-10-25"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/17ee3e46af026559bfe24c1dff820085e9712dd3fef0ec202831562cd68e35c2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e37bad87f224b2900ec330675e8e79656d2bde80dd4a1adc88f26df4447c2368.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f37ee8621e5f98029eb557c63365674dc3e64492ca43128668a303a8da7ae0cb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/913ce6b108f8fb92e64ff27d2031821251bcf6008a30c61bfd3efd1bb701d305.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e0f94da1dbe52be5833c8280d6ca507b0abb0c76008a0fdfe016b8c7938d350b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/dd4cd52ba9c23e2020b4f59f4b837e00c899be35d51f0235c8ce7f2040f1c2f0.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b4a3ae25e775994d22b9b6aead78c947e341005f43fbba764c4d139db0ac9efe.jpg",
+			"name": "Deus Ex Director's Cut Feature-Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a1499878f1c12a0c742216e08fb1d8a1e9debd426b852b5a68a7b48c36e2d59f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "143"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/868f45a0fe453ed560494eaccb8db1286a3ba280cbe74f735004a755863c2451.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "143"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101B4700",
+	"eshop_id": "20010000017471",
+	"product_code": "WUP-N-NAMJ",
+	"name": "罪と罰 地球の継承者",
+	"platform": 170,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d16c084bdbbd8a6a107a1215c34e791de882e6c65978b3583277d55c3e12490e.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/aa7432eb94410bba90d409137880a8c4976239e4ff3c24d971224baea5529e0d.jpg",
+	"data_size": "78938232",
+	"description": "このソフトは、2000年に発売されたニンテンドウ64用のアクションシューティングゲームです。 息をもつかせないシューティングの連続に加え、 難解にして高いストーリー性を兼ね備えた『罪と罰 地球の継承者』。 シューティング中心にプレイするか、ストーリー中心にプレイするかはあなた次第！ この物語の終わりにサキが見つけるものは何なのか……。 そして人類に希望はあるのか？ ※当時のパッケージ裏面に記載された文章をもとにしています。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-04-27",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/899dc0f13e2d0fb4c4a3499588dfb39c8b42f25615aa76f0551526a8e51ee304.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a207ec99f1abe094266a7716284c4eedbc58f63269f3fc2e7e2c2e621ddc9c76.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9ab5f8b9ff8960b109839934c6f7ede71a52ce32ff12cbbf063f918fce085bc1.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d56f52f72d3e475b3fda156a84e807cc0857ff06b76188b5abb43c7e118cc8cf.jpg",
+			"name": "罪と罰 地球の継承者 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/137b4ccb8a32a3ccda89feb71109986c7aa8d359489c704891fc4f44ecb64de9.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "96"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ad2b5ce782c91e843c54dd9bbdae72538914381b74f25b12c339a04da46846c9.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "96"
+				}
+			]
+		}
+	]
+}

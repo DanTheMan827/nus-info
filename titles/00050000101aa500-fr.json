@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101AA500",
+	"eshop_id": "20010000020189",
+	"product_code": "WUP-P-BKFP",
+	"name": "Kung Fu Panda: Le Choc des Légendes",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 1186,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/96771def1d81400dd0e1e9eebd3385927a38e8f5d142a1a2dd72f56d34ddba55.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/26a7b923709c9d3bee20614ef251292d52faa3372a4d12b03e937702282a9c78.jpg",
+	"data_size": "1534034160",
+	"description": "Rejoignez Po, Tigresse, Singe, Taï Lung, maître Shifu et tous vos personnages préférés de kung-fu Panda dans un passionnant Choc des Légendes. Jusqu'à quatre joueurs s'affrontent dans des lieux emblématiques de la Vallée de la Paix et même au-delà. Participez à un tournoi homérique où tous les guerriers kung-fu luttent pour la gloire et l'honneur.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2015-11-26",
+			"retail": "2015-11-26"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/c3b8a5fb18eec30ca7f463dc85f5a08ce97691fa43f1f9dc9bbb92045980b270.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/440fa4eb2da547bd4a7b3a8458a981e83b837fc58ce94e9db90bfb7afe1cc92a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3fbc481a184b940ef67b11c75fe5cb09b1cb3f91b8a09393b21ef5472d22c2a9.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1ca3908ce662a34ef68daf858ec64a1cb263f6e727b360efb06b505bd9522d76.jpg",
+			"name": "Kung Fu Panda: Le Choc des Légendes",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e47e35118139cda3bab41333223f1eaab36e9156240d8753c473a75fa221ae64.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e15507f46a17adebbe665e44f50c6a31da542e437a0c7a3df92721fa932d339b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				}
+			]
+		}
+	]
+}

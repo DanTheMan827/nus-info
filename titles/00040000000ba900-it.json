@@ -1,0 +1,85 @@
+{
+	"title_id": "00040000000BA900",
+	"eshop_id": "50010000014012",
+	"product_code": "CTR-P-APDP",
+	"name": "Pokémon™ Mystery Dungeon: i portali sull’infinito",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/2212bc416c986a12b5b6a5fbfbb6a364a464a519154590a9ef28212faa665098.jpg",
+	"data_size": "885996388",
+	"description": "La serie Pokémon Mystery Dungeon è arrivata su Nintendo 3DS! I giocatori vestono i panni di un Pokémon ed esplorano un mondo ricco di emozioni, avventure e dungeon che cambiano continuamente! Combatti contro altri Pokémon e falli entrare nella tua squadra, trasforma Poképaradiso in una città fiorente e usa le fotocamere esterne della tua console Nintendo 3DS per scoprire i Metaportali che conducono a nuovi dungeon!",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-05-17",
+			"retail": "2013-05-17"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/9eb0a5d9551a3127d714d29f0ca6802592c2977dc4ef5b8d7cc161b0d80c4480.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5d0141968420b6a1b1ba24c8dac15198e4a7500b3d2101a3da3cdd6023a421bc.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/50fe087043ccc3b955640f9a00d68fc96c89fc8055e6ab46ad7a6082478ac533.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/84689db84c5b49c2da4098f64f76d0bb3650b8da6392f666ca804b0ba3f796f6.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/654cff8312168fcd2de3da59f02456ec5969c3ad9cf02d029adaff2f52bf15e7.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8a305d066fd55a244821cf2e81218f261f07229e6e221263302ce3e27857da6f.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c488d44c264e10093d2ae37fa0f52644f770ac693e3121e19cd87c46e8dbe053.jpg",
+			"name": "Pokémon™ Mystery Dungeon: i portali sull’infinito trailer 2",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2259694da1c93d2829249d29e196c99979f9736b095723be5c76e228c14046f1.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "80"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8e05173a7e964155e366ef715b381c9e2504f84093d02592ec7b063b7fdf5ba6.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "80"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c488d44c264e10093d2ae37fa0f52644f770ac693e3121e19cd87c46e8dbe053.jpg",
+			"name": "Pokémon™ Mystery Dungeon: i portali sull’infinito trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/be7c3d1cf47cb2a47efcdff6ce9f15fb2e0fca2a1bbbea7acbb382fb921cbcab.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "66"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/405f97a8f50ed12f9fdb6e919ae23c5a386bf4724070858f57c0e5712d2b07c2.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "66"
+				}
+			]
+		}
+	]
+}

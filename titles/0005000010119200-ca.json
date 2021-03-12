@@ -1,0 +1,53 @@
+{
+	"title_id": "0005000010119200",
+	"eshop_id": "20010000001386",
+	"product_code": "WUP-N-FARE",
+	"name": "PAC-MAN® ",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 27,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f93997c56742db6169b264a8f3923f7499a56e7eb012c96cc8cdcefa57a63258.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b8842e10e51ca9d4ccdf3652c3d83f777825072eabfd11dddcd14269026bac07.jpg",
+	"data_size": "36536460",
+	"description": "You control everyone's favorite iconic Pac-Man as you navigate through mazes, eating Power Dots while simultaneously avoiding the devious Ghosts. Warp from one edge of the maze to the other using the Warp Tunnels, or eat a Power Pellet to turn the tables and make the Ghosts vulnerable! In order to clear the stage, you'll need to eat all the Pac-Dots! See just how far you can get through the stages before losing all your lives! Fruits, such as cherries and strawberries, will give you extra points to help you reach the highest score!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-05-02",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/0e5f5bc3d293fb5f540b5576903865c50a993565e30a86f31fa3a232aec13317.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/39b978caa028a69bc0fb174e53346518af6a21225fb355718e7ddd0b2991d2ee.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5c0da23be8a5fe60295ed2adf326812e59d15e14cba5878219aafbac779427d7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/66c2d8ba4795742c60b1ba256551836b254acab98cebcff0d8b6a549218559b9.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b2c084e6ed42d05652b7002fd4463eb5ecfccd078ad96c126ed74f52cf7036ec.jpg",
+			"name": "PAC-MAN® Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/81c9bbac010c4ff64581a4516cbae82f8497d23c83207dbff6f0b1eb6a0f5f83.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "28"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0a0f56f3bdafba720ba04b658797668d3d385e1905110f90463cf2b097026055.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "28"
+				}
+			]
+		}
+	]
+}

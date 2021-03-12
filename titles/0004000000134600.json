@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000134600",
+		"eshop_id": "50010000028575",
+		"product_code": "CTR-N-JWVJ",
+		"name": "バッジとれ～るセンター",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/26b204fe05ad7ecca6c9d97a13272f23879ae0d40ab26392ba36fa2cf42cb593.jpg",
+		"data_size": "36461412",
+		"description": "クレーンゲームのような「バッジキャッチャー」を遊ぶことで、ニンテンドー3DSのHOMEメニューにかざれるバッジがゲットできるゲームです。マリオやどうぶつの森などたくさんのキャラクターがバッジになって登場します。バッジキャッチャーは毎週入れ替わり、5プレイ90円(税込)で遊ぶことができます。ゲットしたバッジで自慢のHOMEメニューができたら、Miiverseに投稿することもできます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-12-17",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b29a62f5c07a2f16b1f4358e11ae02b6f3f904f5fcdd4ecc93bc0bf25bae7b22.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b8bc86eea2598c8b7e9e29e7e953910e004d649cd7a2fd47202ffd9884870440.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d562da34d30003e266c245cc6f1fb90b642f92d7b9637ebbf25ff4fe4421c9fd.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5e9fe311de441f1b2ee9e74541532e53d7e5a8485692724e62e883ecba003d94.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/86a66d871a7f31c863f3e1afcf1dce425237d2e390068b2eb39d0123b2a6a0f1.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ba98eebdd8c194dfbf4ea6c4a2030a7b711a64cae1b8a5a6b8b69f25d4dac11a.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d221172bc57a2862d2d635575ef0aa91a0aa03e9e889d900ddd4882727e503d4.jpg",
+				"name": "バッジとれ～るセンター バイトがおしえるテクニック",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/38834aef2e01d82c1b41b07df3294e26e120e5d420b1b02f15f01b063668aea1.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "252"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/dfc20fa05197df4f1ce43b652c6c1e5f3673803ccbc0ed0d5d2e74c09453feeb.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "252"
+					}
+				]
+			}
+		]
+	}
+}

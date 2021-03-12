@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000015FC00",
+	"eshop_id": "50010000038395",
+	"product_code": "CTR-P-BTSP",
+	"name": "Story of Seasons",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f889b1aa43426daf1f629a4f19f6c56044b119f78cdbf6d244fa0051e6e89344.jpg",
+	"data_size": "759917412",
+	"description": "Stanco del tedio e della monotonia della vita di tutti i giorni, ti imbatti in un volantino con un'offerta allettante: il villaggio di Querciallegra è in cerca di giovani aspiranti contadini, desiderosi di portare prosperità all'economia locale! Si tratta di un piccolo villaggio, ma offre la promessa di un lavoro appagante e di una vita ricca di rapporti umani di valore. Giunto al villaggio e supportato dall'amichevole popolazione locale, cominci a imparare i segreti della vita di campagna. Coltivare i campi, prenderti cura degli animali, apportare migliorie alla fattoria, spedire i raccolti in Paesi stranieri, godere della compagnia di animali domestici... Tutte esperienze così diverse da ciò che hai provato in passato! Riuscirai ad avere successo come un giovane contadino e a ricambiare la gentilezza degli abitanti del paese che ti hanno dato un così caloroso benvenuto? Quali divertenti ed elettrizzanti esperienze ti attendono?",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2015-12-31",
+			"retail": "2015-12-31"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b793f4fc1f0ffb494877c77099b3744efcfd2626ec7d938be2b71e887c381a29.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/261c333f18f545d87026472e54c2c2db50cdd34aa868e3045184f6e74eb813f2.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/82a46ed943dc4fe99db9b987e6707cdc352abcc88b9568d3c5b9f9783838ab6c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/54639c34d3eafa0ecf088b043e15bec08ff74dd6da2ee94619d870699c7167d4.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/cb8286a9df6db4e2a2f55cec6dbe9f39140d3e71149235ca0bcbe915f4279e98.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/cb16bcec926f10984a5487198d312f0ae02542eeb5b91bacfde73fa2c0547d79.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/625d9b0e0884763bd0777621fa7def5728b60af3db1dfd5b649528dabfd142fa.jpg",
+			"name": "Story of Seaons: trailer di lancio",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/47f56f506e9990dfa08bb12937062381996ea11eef26b7cc12f8caf55b6149ce.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "111"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/69d945e87cc4828be635fcd2bbb580700f51482480e39f64969b39687af05093.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "111"
+				}
+			]
+		}
+	]
+}

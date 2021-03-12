@@ -1,0 +1,85 @@
+{
+	"title_id": "00040000000CC400",
+	"eshop_id": "50010000016813",
+	"product_code": "CTR-N-AHNJ",
+	"name": "初音ミク Project mirai 2",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 231,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3575bf16b210e829ccf5b01fc04dca3620f4b0ecca9dbda3b0b9d1d48256869d.jpg",
+	"data_size": "2012416868",
+	"description": "2015年5月27日(水)23時59分に、本ソフトの配信を終了いたしました。 ※有効期間内であれば、ダウンロードカードによるソフトの引換は可能です。 「初音ミク」をはじめとする人気キャラクターたちが登場する、リズムゲームと3DPV鑑賞を主軸としたゲームソフトです。 かわいいキャラクター、豊富な楽曲、更に楽しくなったリズムゲームと、前作からパワーアップしたコンテンツをお楽しみいただけます。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-11-28",
+			"retail": "2013-11-28"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/725d05674ea167f95bffdbf96228428b25ea06de0f0c51ca047864ad4010b412.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/95dc24d8f44c4479f1676296a9a3c214ac612617f0b77db59875f900004d9d13.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/57c9e968b878046c77047ade4d2f9f6d99fa748e990d68c4d2bed874a0c3fbfc.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1ef4ee60af2cbe94dbad3f83733ebfe0fc61fcd16ae10edd65e440d8039bdefd.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/fddc58135418a3a33ca0275081bc4da0eea60e1b2dd50fc0316706d7fbf27cce.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5afd569b13b6c19de8a1afd4d00407eef01543a19980227ad92a262d0c8e1e48.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0fbae45d6a455e06b5b965aed807e37a4e2596a83b549155a62c296fb51e6a3c.jpg",
+			"name": "初音ミク Project mirai 2 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7f77cfa29a8d5d3ea6a302a3f5f9f5800b9d7497674249fd144170329e7f12a8.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "233"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/99023af4b18303df1d1c22310782adcd0ec5a4816b024dd91e2be3a4f7f179a0.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "233"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7756c803ac0ad180184ac7157ff9cd449be8fcab55f018b233e41a93afe3b31c.jpg",
+			"name": "初音ミク Project mirai 2 TVCM",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4f86600d96501b126e59343ffae62a699ff0e0a000b30abfd9b84b5e33b31516.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "19"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/23c6a379f9cde0bfef491a963bfc9274dde8f86f06439259b8a2f9b733e3c446.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "19"
+				}
+			]
+		}
+	]
+}

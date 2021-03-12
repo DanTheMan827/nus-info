@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001016C100",
+	"eshop_id": "20010000006247",
+	"product_code": "WUP-N-FC6J",
+	"name": "レッドアリーマーⅡ",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 39,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bf35ee65d7f65035f447fea7ccd430ff65b7dd49453d0cd7d33230d7789dbeaf.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/dcca6acf61532fc50eaca57da89e60e507f23c1a5361b4e4b64f468a8c592ac0.jpg",
+	"data_size": "38830240",
+	"description": "このソフトは、1992年に発売されたファミリーコンピュータ用のアクションRPGです。 主人公のレッドアリーマーを操作して、魔界で猛威を振るう黒き光を封印するため戦います。レッドアリーマーの冒険は、各地に移動して情報を得る「RPGモード」、敵を倒しながらステージを進む「アクションモード」で構成されます。ジャンプや空中浮遊、壁への張り付きなどのアクションや、魔力による攻撃を駆使して、ステージをクリアしていきます。アイテムを手に入れたり、謎を解いて物語を進めていくことで、どんどん成長し強くなっていきます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-05-21",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/4853860e3911ba0876fc3f6d516585dac6b46a7c3d59385ec92b4e0cd2721e01.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d397abefa5ca4a025c4fa66dba20b9ac69a1214def7a974d19d6c206e01c6c71.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ae65a0ec0fa9f66ff5b25e82bccc915e6a115c4d67bbe264cfb211cc12eb8800.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9f9772df97f3b92c6baf12bc7ebd8d1af2a5051999d9f5a2fb6c97123663a174.jpg",
+			"name": "レッドアリーマーⅡ プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/318cf0fa216d0493dd1c0ea4f3ff54ec2948b73d6214c0fa6e5502ff0570f850.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "42"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7466b82b09a19ce86f757147f2ac1c99eb281149d38645f58f4b0102574c12ba.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "42"
+				}
+			]
+		}
+	]
+}

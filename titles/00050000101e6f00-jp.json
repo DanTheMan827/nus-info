@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101E6F00",
+	"eshop_id": "20010000023022",
+	"product_code": "WUP-N-DA9J",
+	"name": "ポケモンレンジャー 光の軌跡",
+	"platform": 169,
+	"platform_device": "WUP",
+	"publisher": 210,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6437ba75a304f2a18e61eb90eb0b919c862836ffde175f468261f40c3f948812.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7473f2290f8b0f195ec8324f581a79c95058b81ba023e81fd0e32540997674dd.jpg",
+	"data_size": "130842744",
+	"description": "このソフトは、2010年に発売されたニンテンドーDS用のアクションアドベンチャーゲームです。 舞台は多くの遺跡が眠るという島々からなるオブリビア地方。 主人公はポケモンたちの力を借りて自然と平和を守る「ポケモンレンジャー」となり、さまざまな事件を解決しながら、悪事を働く謎の集団「ポケモンナッパーズ」に立ち向かいます。 レンジャーたちは「キャプチャ・スタイラー」という重要なアイテムを使って活動します。 タッチペンでポケモンをグルグルと囲み、心をかよわせる「キャプチャ」に成功すれば、ポケモンは仲間になってさまざまな形で主人公に力を貸してくれます。また、特殊なサイン「レンジャーサイン」を描けば、伝説のポケモンたちを呼び出すことができます。 ※おすすめの画面レイアウトは「下画面 重視レイアウト」です。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-08-03",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/a83d88a6fb0bce1e80997d2bfb6b68b1c6802a461705cb0665dd2dd1fd44ace3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f786fc849bd1d953be24296a78af2d17cc990b0ebfd9cb06057e69f85eeb1280.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d1433572d7f9dd161d16cae20e63b83015e591b80012a068ab389df83f5c73f5.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8771e744a8a2b7cedb1d54a367e9263e3e8700b25463b2f067b01d7c0387e39e.jpg",
+			"name": "ポケモンレンジャー 光の軌跡 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/da836cfbafb591c4ec6549286ce4e6b88a0a3e9fa7da87c95704d12beefb9d6a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "77"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a129f4c9eb86ca57614400f00e4d8063c3d86e2ec91fb75793c0c373f04579ae.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "77"
+				}
+			]
+		}
+	]
+}

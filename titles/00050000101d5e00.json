@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101D5E00",
+		"eshop_id": "20010000021687",
+		"product_code": "WUP-N-PDSJ",
+		"name": "ファイナルファンタジーIV アドバンス",
+		"platform": 168,
+		"platform_device": "WUP",
+		"publisher": 246,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5472b345934ccf9bf9762fc620bdaa3990ad0f1ace9ee014818958d9705325e4.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/69e0000be4c3273546deaa6f87ec04119435bdcabae149cb15f5fc836cfd28a7.jpg",
+		"data_size": "73695372",
+		"description": "このソフトは、2005年に発売されたゲームボーイアドバンス用のロールプレイングゲームです。 心優しき暗黒騎士「セシル」。セシルを慕う白魔道士「ローザ」。 そして、親友であり、ライバルである誇り高き竜騎士「カイン」。 数々の登場人物が織り成す「愛」と「哀」のドラマ。 クリスタルが語る「光」と「闇」の物語。 グラフィック、サウンド、システムがより洗練され、 ストーリーはよりドラマチックに！ システムはさらに快適に！ ハイクオリティになった『FFⅣ』が楽しめます。 物語の後半で好きなキャラクターでパーティを編成できる「パーティチェンジ」。 キャラクターの新たなイベントが満載の「追加ダンジョン」など、追加要素が満載！ ※当時のパッケージ裏面に記載された文章をもとにしています。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-04-13",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/1b85a9c598659666cb3c44c92a2a9037c7f08e800e6b2a809efef79b6e3f2c89.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/676ac9f46f8c59ecfbac8c57e120803060768888deabe9c83b09b1d14ad1f2af.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/dfc254951301627c6f1d6a0c70f252c4e670729903bbd9afcda80bed530c8588.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/94942e7afe77dc200c40d6dce9dd5a7ad0d29a2ec2263785a7f46cf0b9ee87dd.jpg",
+				"name": "ファイナルファンタジーIV アドバンス プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3e31e2eba4f1f3d28ca1c221579d7af3cca2f5da89e5fdab401b5df6975885e4.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "75"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/056c742e7998b2b2a71427e3c2c9e16185d114e4ab94e488320909859fdd1feb.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "75"
+					}
+				]
+			}
+		]
+	}
+}

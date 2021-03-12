@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000008C500",
+	"eshop_id": "50010000013553",
+	"product_code": "CTR-N-EC6J",
+	"name": "トモダチコレクション 新生活",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9e1cbc57f5bab680adc416c673882d9226a07b438621fa7cabf21e5970df114e.jpg",
+	"data_size": "383036260",
+	"description": "登場人物は、自分や家族にそっくりなキャラクター「Mii」。仲良くなったり、ケンカをしたり、時には恋をして悩んだり…、海に浮かぶ小さな島で思い思いに過ごすMiiたちの人間ドラマを見守ります。 ニンテンドーDS版の楽しさはそのままに、新生活にふさわしい豊富なイベントやさまざまな施設が充実しています。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-04-18",
+			"retail": "2013-04-18"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b1186dd872aabbb1a1466e5d9a32c851890dc0e63b1369a6c8725af2e8cf2ca3.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c76dfd279085da350ee879856d2afabe2bf85632753f0dc0fd68db589ce74813.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a396edeefbbbec3ae16637164e70e20e0f1d89181e67862e64fa7e3f3e623f11.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/799ce5bfbaa07158bb994950ef05a7e09dc0a4e28161aedef3e469fdc7323cc0.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/581d33d3a34c66792409ac327da8de9719960277634862be0724b08350d1618c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/bd56993429801f08a447b20584c6f3c0963701b0e4e1a517e18af8ad6de4572e.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/082e21bfb5fe0676592d12e75b07c384a40ff8a55c766a345b72adfc05431ab0.jpg",
+			"name": "トモダチコレクション 新生活 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/68330de94a6181336b36ae81fcadcbe0449b8cc56e3a17a9a8f87a7522483848.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "331"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a70010213634d3efe11f020585b12763d8c3f8f6240c9772bca05b0656135dd6.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "331"
+				}
+			]
+		}
+	]
+}

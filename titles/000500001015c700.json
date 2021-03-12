@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001015C700",
+		"eshop_id": "20010000010026",
+		"product_code": "WUP-N-PNUJ",
+		"name": "パワーゴルフ ",
+		"platform": 166,
+		"platform_device": "WUP",
+		"publisher": 149,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b87e88bd3dd28d17c448b1fc58e7cbb0003587a7199d91a28191801752e6a030.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/179baea658293cd198f78abd6a9b23bf0ca613e3f0d56e5a9eec8bc7e11f08a9.jpg",
+		"data_size": "84017292",
+		"description": "シンプルながらも本格的な操作性と、全編を通じてのさわやかなグラフィックが魅力のゴルフゲームです。 自然豊かな18ホールを舞台に、1人プレイ専用の「STROKE PLAY」、ホールごとに勝敗を競う「MATCH PLAY」、競技会形式の「COMPETITION」の3種類のゲームモードで競い合います。プレイヤーは、平均的、初心者向き、上級者向きの3人から使用するキャラクターを選んで、風向きやグリーンの傾斜を考えながら、それぞれのホールにチャレンジします。 「MATCH PLAY」モードでは通常の「NORMAL MATCH」に加えて、勝者が敗者からクラブを1本奪うことができるというユニークなプレイ方式「HELL MATCH」を搭載。「COMPETITION」モードは最大3人までがエントリー可能で、実力差が気になる対戦でも「ハンディ制度」で白熱したプレイが楽しめます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-10-22",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/6ecee77e8fb8f88f0732f079197e012274cc41ac8ab8035f63b11bf3dcb02540.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/e87b293c90c26dcf66c7369b801f8366121f18a9d184ad181c16ecb5f551872e.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/2e92e2c4e9e66be199753c24dc567cfcd273db8cea9a721d2bbb5770123a1c87.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f43ca2ba12b65dbfbb1b384e9901987b579e996195f6a8dd3e62549daa33c5fb.jpg",
+				"name": "パワーゴルフ プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bba7f2f5dfbb9a9589b85ad586134e0169573563008e819319315f4973ba942a.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "68"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/77cd5c65ec3ad23c0b38d16939c403f70b5865d43c8bab9c63d68d9cb92b5deb.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "68"
+					}
+				]
+			}
+		]
+	}
+}

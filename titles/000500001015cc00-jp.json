@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001015CC00",
+	"eshop_id": "20010000012168",
+	"product_code": "WUP-N-PNZJ",
+	"name": "BREAK IN",
+	"platform": 166,
+	"platform_device": "WUP",
+	"publisher": 1465,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a8462f8ca2113ebdda0da343af53039a60b7db6742f0c83ae76440c780b96396.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b0eb359dcde4237c1fd4d5cd604f3d0a2b53254d86f6fb9477ca69e49795c70e.jpg",
+	"data_size": "83427468",
+	"description": "最大4人まで遊べる本格ビリヤードゲームです。ポケット競技の「9ボール」をはじめ、「8ボール」「ローテーション」「カットゲーム」「ボーラード」そして「四球(よつだま)」といった、全6種類のゲームが収録されています。 これらのゲームは、指定された位置やパワーで正確にショットできる「シミュレーション」モードと、実際のプレイで起こりがちなミスショットが再現された「アクション」モードで遊ぶことができるので、初心者から腕に覚えがある上級者までビリヤードの醍醐味を存分に味わうことができます。 また「テクニックモード」では、決められたボール配置での練習や、ファンシーショットにも挑戦可能です。 この『BREAK IN』でルールを覚え、ビリヤード場でのプレイを満喫してください。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-01-21",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/cd76758200f55f3dc742fae6d43c5b9da8c9b9099c79d675cdab4c3f65c74db8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/945c4bc66d641139ecad7c049f1d1040a76ec86cb08a2a62afd59f66afe81463.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4a317fdd41b7c61dc2543ac60d4741b8a67b69e051303f6eb669bf750ce5e816.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0f8df70bc0b4cb1819f12208ce45b2922cb11726460f3eeb0237835cb2b14f4b.jpg",
+			"name": "BREAK IN プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4a27c58ce596c2cd5a8ae73c994ca7471ab18ab0fa90eff5717f7379f9ebd8ad.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "42"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/67a755101ad50d8956d8021272319ac9eb8edae5be954d4cbfc818466bf4a2cb.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "42"
+				}
+			]
+		}
+	]
+}

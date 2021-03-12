@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000001A7100",
+	"eshop_id": "50010000041552",
+	"product_code": "CTR-N-BACA",
+	"name": "Pokémon™ Sun and Pokémon™ Moon Special Demo ",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 210,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/66eadb9a8b6e8ed4de3682a661fb57c3f4e384e8a01c3a9f09544a97b5b33f28.jpg",
+	"data_size": "399154020",
+	"description": "This is your chance to meet the Pokémon that can be found in Pokémon Sun and Pokémon Moon! Ash-Greninja, the Pokémon that appears with the hero Ash in the animated TV series Pokémon the Series: XYZ, will also appear in this game as a member of your team—you can adventure together! You can bring Greninja, which is able to turn into Ash-Greninja, to your full version of Pokémon Sun or Pokémon Moon (after launch) once you’ve completed your adventure together in the Pokémon Sun and Pokémon Moon Special Demo Version. ",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-10-18",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b5e020327ef5df28e9bc577446b407b8893d137f2c01ad378a80f20c1c1180fa.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a0e4fe5cb2289671159a3c5c41743d1b5d934c01eea96d57f9ab81f3abc6878d.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5329628bc8a33e04566a2f6365580141c25125b6cdb057763d02e45f1ab8ff2e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a69ae402eed6647e004d2f410d85bce17d99091ebab981ad4d3f2d5f2753fc05.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/27c7d68406936c3293c6832cf6799c5a9c69d4dfa9f75a6665f1561744577719.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d8d2f2949d42486add4463d7ad763be1b21188638c061cbc027f91e781fc450f.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/39dcf67c20191a7c18e70e9d57cf4dd81087c279f1d2701189e99d0fea0b9b05.jpg",
+			"name": "Pokémon Sun & Pokémon Moon Special Demo Version Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/edb6a7afbab130b0dc009fe64179076f82ef901d8399d5cc0b5948ede937ada6.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "118"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b11d9a5f711c2893114e303b8ef3272df6945281cf22ace2964a5b8aa0dfba40.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "118"
+				}
+			]
+		}
+	]
+}

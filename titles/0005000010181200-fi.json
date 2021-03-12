@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010181200",
+	"eshop_id": "20010000011528",
+	"product_code": "WUP-N-PBFP",
+	"name": "Mario Party™ Advance",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9c752314a22aac103d04e6b0ddbdfb85ebd4083bab39095e25e4b37dfb98dfba.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/04638c4a7edee9ce3cdf0bb39e8b6cc462a84d7dadcfa4772f01d95d9583bae3.jpg",
+	"data_size": "92602508",
+	"description": "Mario and friends bring the party to Game Boy™ Advance with a dizzying range of activities for single players plus their pals. Mario Party Advance also introduces Professor E. Gadd's Gaddgets: wacky toys and tricks that bring the fun outside of the game. Bowser has crashed the party and scattered all the minigames around Shroom City. Collect them all by completing the single-player game boards. Once unlocked, minigames can be played as often as you like. Earn coins to unlock Gaddgets such as the Compatibility Meter which lets you see how strong your friendships really are!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-12-25",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/b2a131a4136e14940cab2e3a2483405314a672c2d68ea807c30c19c7e491191b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9eb282d34feb0b97b5ce148bbb9638bbf14761db5bce5fe62ac15d8c80a083ec.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/34605b6e3f1fab54b106ca9ad548fa4c5620e803699f9f881e3d0f910e3e6984.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/588ed64af4bec082fcf03775be7014f5f64cb8eade1f4263bc688cdf7e1eceba.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/754f28a14c51937088a9d112045cf6f3e95e2dee78be74ff4216b31a2904e3ad.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ce8b0fa618d4d8bce712513a88b9e37063920f5705dde4f0d0d9ba796d9e9b06.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/92287854d12aeaa124fe230cf8d28678e473795ac325035f233303cd43f5857a.jpg",
+			"name": "Mario Party Advance™: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0ef71c165ff92a4638cb949e8369be83420b1617110dda8d81bd6878556d5356.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "62"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4a93a2490f141c898d6fd82401980a21de83442fd10ebca57c15c0fcd6e1b270.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "62"
+				}
+			]
+		}
+	]
+}

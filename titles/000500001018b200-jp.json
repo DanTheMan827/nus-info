@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001018B200",
+	"eshop_id": "20010000010706",
+	"product_code": "WUP-N-FD4J",
+	"name": "ESPER DREAM(エスパードリーム)",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bfdcd5be4d9d9ca4e74898181a92c02898396db40ae6c99db3498433da9182c7.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ea13e0cb4a7d24fad9a30cdb4346de9384d9bdb0043a5119f197e209a9414a00.jpg",
+	"data_size": "38797472",
+	"description": "このソフトは、1987年に発売されたファミリーコンピュータ･ディスクシステム用のアクションRPGです。 本の世界に入った主人公が、邪悪なナルシス族にさらわれた村長の娘「アリス」を救うため、5つの村と5つのワールドを行き来しながら冒険します。地面の足跡に触れると敵とのバトルが発生。主人公の得意技「超能力」と武器を駆使して敵を倒します。アイテムの購入や、レベルが上がることで、冒険に役立つさまざまな超能力を身に付けることができます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-07-22",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/877e38596a29b443e0c8e3093063178e1a5f74b24cd9a0df7a92a93dfabe15e5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/77203f96a40655d0a23a4b66d7d79d49a2fcf272d30e17a6487f98f71bf3f9f1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d11415721437b0d5cc4766b54359e9d16d67cedf3a4e11617ec8883600b1000e.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/637172e97ce6c34caa589093bf506ce71c09a69a5f571abd07779856d4c0e8bb.jpg",
+			"name": "ESPER DREAM(エスパードリーム) プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/632c524d5234cdd8c9e063198e88e2aa73fa9096b444b30162b5e1882c7d1adb.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "65"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/60ec1ec9802892e2a37c935acdd9df8c2075e01a4c50698528e7a64c280dcbf3.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "65"
+				}
+			]
+		}
+	]
+}

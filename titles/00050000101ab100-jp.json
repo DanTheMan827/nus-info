@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101AB100",
+	"eshop_id": "20010000012267",
+	"product_code": "WUP-N-WEUJ",
+	"name": "Outer World 20th Anniversary Edition",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 30,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6a9475170855ed57bdca3c9d70a59834535b69b8350d057c6bc85ab290c23374.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f197c2c401f77956e5228ebdf94a159d2ca3023d219137c30ca497c2a6a341d8.jpg",
+	"data_size": "201752736",
+	"description": "1992年当時、ポリゴン表示による斬新なグラフィックと世界観、そして難解な謎……。すべてのプレイヤーに衝撃を与えたアクション･アドベンチャーゲームです。 今回オリジナル画像と、よりクリアな画像の切り替えが可能となり難易度の設定も可能となっています。 フランスのクリエイターEric Chai氏が2年の歳月を掛け、ほぼ一人で制作されたこのゲームは、その後多くのクリエイターにも影響を与えて、2012年にはニューヨーク近代美術館(MoMA)に初めてコレクションされたビデオゲームのひとつに選ばれています。 言葉も通じない異世界に飛ばされたレスター教授が目にするものとは? 数々の失敗や挫折の果てにたどり着いた先とは? ぜひプレイをして、最後まで見届けてください。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-01-21",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/b5bb0abf3855f6db687dd6763f0996ecaa6fd48b7c3d5ba697c534be262031d9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e48d73e38255119753a6c397b5a427359ef0bf9664c0d7e4c51df54ecaa17b80.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6f0124befc29ee8769ef085d0450fe9192777787c4085c576167e3c5bbca9620.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/076e636972b7bf591f56b9908f410d437f90fb9c81a5987030ab3445a130482d.jpg",
+			"name": "Outer World 20th Anniversary Edition 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8daf44bf232904f693695bf34fb57458e63040a596df28663593cb19546860b2.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "64"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/41b96f63d82bd7bdb54d80528dc328a983ffc8528c61b4c02c20ce2d74fda5b8.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "64"
+				}
+			]
+		}
+	]
+}

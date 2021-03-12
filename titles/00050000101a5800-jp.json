@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101A5800",
+	"eshop_id": "20010000016847",
+	"product_code": "WUP-N-NAGJ",
+	"name": "マリオゴルフ64",
+	"platform": 170,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d32f32f6d98acffbfe2125fcf85cf398efb1524287183d117681c0050b71edfc.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d59bfa2f07693b10147c5790d8b69c55c873e395a438ee1c70e205674f89a21e.jpg",
+	"data_size": "78938232",
+	"description": "このソフトは、1999年に発売されたニンテンドウ64用のスポーツゲームです。 マリオやルイージ、ピーチなど、マリオシリーズでおなじみのキャラクターたちが登場します。 ルールはとても簡単で、ゴルフを知らなくても、ショット画面でゲージを見ながらタイミングよくボタンを押せばナイスショットを打つことができます。ショット前にクラブの種類や打点などの細かい設定ができるので、操作に慣れた人やゴルフ好きの人は、情報をよく見ながら設定を行って、好成績をめざしてみましょう。好成績を残して「コースゲットポイント」を増やすと、新しいコースが遊べるようになります。また「キャラゲット」で対戦したキャラクターに勝つと、次のプレイからそのキャラクターが使えます。 最大4人のプレイヤーで対戦できる「ストローク」や「クラブスロット」などのモードもあり、「ベット」でポイントを賭けてプレイすれば、ますます白熱した対戦が楽しめます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-09-02",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/9e799abd5745e72fb32ff052751f4405de5d22a6c1d4eb00c107d6c078a3906e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a9d782ba3387b7bd1ea18cd6cb99ba3b7efbb74bcc2b7eaf7e60d2c8189a41c2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1492b327752a191b68f908b980a69e7b0c22919a9fb4e18ef07425e86b158882.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bb55bc383529f41a8b9fe89bc582de5a32be0f56dee9d92ce986841cf915404a.jpg",
+			"name": "マリオゴルフ64 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/53d7bb210865ac2ac89d7c73a3c24ab04b9d738e19c94122a63f952b0b9fa5e7.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "79"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f6ce9f8289ce2a1889dbf846ddd3d6574d1ac6d100b9b49abe85936f850d7200.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "79"
+				}
+			]
+		}
+	]
+}

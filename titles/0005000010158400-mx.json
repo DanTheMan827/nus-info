@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010158400",
+	"eshop_id": "20010000006546",
+	"product_code": "WUP-N-WMSE",
+	"name": "My First Songs",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1240,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/682c67a754243d7e94339cb910a991708daf8ec6648228e5871fec7a2a120ed5.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b37acdbd691cec4bbec03d55d2c62137062a4f2cfe71d703b739496e1bd0dd68.jpg",
+	"data_size": "818774196",
+	"description": "My First Songs para Wii U™ es un juego de karaoke que incluye las canciones en inglés para niños más populares de todos los tiempos. Un juego pensado para disfrutar en familia y aprender inglés al mismo tiempo. Características principales: 15 de las canciones en inglés mas populares. Animaciones coloridas en HD. Modo solitario: Canta usando el micrófono en el control Wii U GamePad. Modo dueto: Canta con amigos y familia (se requiere un micrófono de Wii U para este modo). Juego sin uso del TV: El juego puede jugarse enteramente en el Wii U GamePad. Fotos de la interpretación: Se pueden tomar fotos usando el Wii U GamePad durante la interpretación. Lista de reproducción: Baa, Baa, Black Sheep The Farmer in the Dell B-I-N-G-O Old MacDonald Three Blind Mice Twinkle, Twinkle Little Star This Old Man Alphabet Song Hickory Dickory Dock Mulberry Bush Itsy Bitsy Spider Yankee Doodle Michael Finnegan She’ll Be Comin’ Round the Mountain Mary Had a Little Lamb",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-04-17",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/dcc7cf5e34a149c2e005b08c584ab0bc4c1bef1f45ae76c14dbf2101cfa421d2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bfaf46b76be75448fade4cbfb392e83ee1e7b55ed26ed9f2efff22e5c2ddb6a5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8574832dfb28202ba966940774c55c4dff82149df835376b07676cb1d6f86975.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/731c76c08d288918eba854f36a9dbef9ef0e09f403e7d43e909778e4da2401e7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/741d6af8bef8e8efbb935aa6a08c79eeb3c9427a657619ecf81245c4a5c2cfdf.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0bc48a5aae76f0abfeb56f0be32ec43e0603a81c9da30baa391827b002a0c5bf.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/849dbddb3f2b8a3768fc1704c095fd9f6ad2c55954adeb79552418e998d27e0c.jpg",
+			"name": "Avance para lanzamiento My First Songs",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/494f5903bca1ea6bb69daa9414f5f0e93c7a9c97f33553b7ae60fe712e797a52.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "116"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c98ad5ef8d46c9a8dbbca33c3e037afd1473ced279bbcf1462982394825593ab.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "116"
+				}
+			]
+		}
+	]
+}

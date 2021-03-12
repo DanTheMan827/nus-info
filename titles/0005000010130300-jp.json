@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010130300",
+	"eshop_id": "20010000001546",
+	"product_code": "WUP-N-JA7J",
+	"name": "パイロットウイングス",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/44cd5e40c935e768f874fedcc5813c085d5af25c437cd796964cd4ce60f9bdf5.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/29ee9afaf8002f05787fb7c2d4eec0907b28154403318417b9349bedfb925319.jpg",
+	"data_size": "40534156",
+	"description": "このソフトは、1990年に発売されたスーパーファミコン用のスカイスポーツ･シミュレーションゲームです。 スカイスポーツスクール「フライトクラブ」の受講生となり、さまざまな種目に挑戦します。ライトプレーンに乗り込んでうまく着地させたり、小型ロケットを操作して上空のリングをくぐったりと、スカイスポーツならではの種目が収録されています。目的地を示すレーダーや燃料の残り具合を参考にしながら、カリキュラムを達成してください。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-05-29",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/0a6eec29fe2cea0576d2d023cca91a517352db27b7bb97ff5ea14ee078b91cd6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f955add7c193f3b315ef81e42888355d4ea582ecb018673f388093245a6b082f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/151129eadaa6859eed4c4c97f82d9263e793b7e9794ebed717ef5c3e6daa03dd.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/acfa1b3632dbb76ef189ff50000c58f0bd93ffca30ae43301f82683ed1562538.jpg",
+			"name": "パイロットウイングス プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/84b4989bd9acc53dccd13f2a77201c052900c2d86b1dbe68ea78ce55a49dfa52.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d3aacdf5ee01e52c0d4f8e12f7edfc744641126926c0b2618a1663a2b7d21bb4.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				}
+			]
+		}
+	]
+}

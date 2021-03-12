@@ -1,0 +1,53 @@
+{
+	"title_id": "0005000010177300",
+	"eshop_id": "20010000007247",
+	"product_code": "WUP-N-AFME",
+	"name": "Fit Music",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1302,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2f3841d843c94fda3da02fa1a86318c3e82a772d5dc5d7b50773a0881693cdf4.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4d60a6db227389c00352a59dfabb6b33fa256b4519737a6a861c6d63b52f1c2f.jpg",
+	"data_size": "11206034548",
+	"description": "Are you tired of the gym? Bored of the same exercises? Do you want to have a physique everyone will envy? There is Fit Music for you now! Train all of your muscles with DANCE music doing fun, professional exercises. Bring the gym into your living room, forget the stress and join the party! The champion of fitness, Patsy Salviato, will be your personal trainer, guiding you through different game stages, with personalized difficulty levels, created in collaboration with SHRO of Philadelphia and the Human Health Foundation with whom Fit Music participates in the Fight Obesity campaign. Each section offers all the typical phases of the workout with warm-up exercises, an intensive training phase and a final relaxation phase. Thanks to a simple and intuitive interface for the new Wii U and a rhythmic and involving soundtrack, burning calories and toning your body has never been so much fun.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-05-22",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/3b89b47b275a7cc5eb7087da8cda81b56c9f3647d03cfd64c458ce497289d2f1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/fc6f70832373e188863995f5d17a9004a6792adaa20e2631dec5c9802e16230a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e950523bce92f71c13324ff5c465e4c7b3dfd6504fb9fb8c46f8b7f677ae89b6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2d59d7fc47e6233e0232c2a7fe943fcbec542a614cbb3248419c744df18ff678.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e67637f68deb28d25ab2e538ad00004abb1af487645cbd7d33cb90e4d4ec4184.jpg",
+			"name": "Fit Music Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/432aa5830b23a3e45f734fd1dc10e3e6816a82fdcd80f6305aa4c5784bde000f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6d08157d4d8f91b681a7c35e2cf571cb20a192772ed0800c1dbbb850fbbe8abe.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				}
+			]
+		}
+	]
+}

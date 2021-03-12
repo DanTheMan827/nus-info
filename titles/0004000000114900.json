@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000114900",
+		"eshop_id": "50010000028635",
+		"product_code": "CTR-N-JFTJ",
+		"name": "異史戦国伝宿業",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 409,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/923562c92e1ac750729fe0a36d99251f36edae5b3d948aa2a7b885fed636494d.jpg",
+		"data_size": "340392804",
+		"description": "妖怪や怪物が支配する戦国時代を救うべく、あなたの分身となるキャラクターが、無数の雑魚、そして巨大な敵と果てしなき戦いを繰り広げます。キャラクターの育て方は無数にあり、自動生成される膨大なアイテムのなかから好みの装備を身につけることができます。時には業物と呼ばれる伝説的な武具を入手できるかもしれません。 ■特徴的なゲームシステム ･パネル総数1000以上の「五行図」でキャラクターを成長させる。 ･キャラクターごとに異なる動きをする「気」ゲージ。 ･自分の育てた、他キャラクターを連れて戦える「与力システム」 ･すれちがい通信で「与力」を入手することも可能。 ･敵を倒すとたまる「業」で「宿業」の力を解放可能。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-12-17",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/29d09430960c8567380b3038b3072a9eaf5efe103a5192cb4000343b7e1806f3.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b3ca0734dc0a12e301d9b72e6d8ada49ad031386ee0733ec34eb31899d82f411.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/17b244566fddbcfb610dbe7aedd0f3f51dc570cd3c0b5f3f7fdd3d9e1b5f031f.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9d5d4b0e9ffbd59d360d37742d0b19ee46e041f53f4df6b85b83221512a98c7a.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1bae5d0c8e7c52e77d543969c2bb074180314c3778cac017c68697f4e076a410.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/872854a4d27ddb718bba009473789ef79aff55d6495af02961dab80063da3150.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/539aeeed7d10c20ac3352e3eac5df6ac2bf487a14da1218760ada4fe1f8b5f4c.jpg",
+				"name": "異史戦国伝宿業 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e77fb4de228e151ad13c6860da4dfc632a602dda62be464e3512ee3d24fd2aab.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "98"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/737403a28dd66daac58d9c6989b721741a959f268a73562af9430a29f2fb014c.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "98"
+					}
+				]
+			}
+		]
+	}
+}

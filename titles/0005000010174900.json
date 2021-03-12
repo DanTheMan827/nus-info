@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010174900",
+		"eshop_id": "20010000007448",
+		"product_code": "WUP-N-FDFJ",
+		"name": "ドラゴンバスター",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 27,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7332524a3f5ecf59ac9f6e543c1a1c0bb828c32de7dfbe1b6aff9bd2ab7872ed.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/724b0ed16f47c43020287f2086be7794c3401f04c819c72f644e6dccd39d50ca.jpg",
+		"data_size": "38731936",
+		"description": "このソフトは、1987年に発売されたファミリーコンピュータ用のアクションアドベンチャーゲームです。 プレイヤーは主人公クロービスとなり、剣と魔法でドラゴン退治を目指します。兜割りなどの剣技とファイアボールを放つスクロールなどのマジックアイテムを駆使しながら、ルームガーダーが立ちはだかる廃墟や山を次々と突破し、人間界の支配を企むドラゴン山のドラゴンを倒すと、王女セリアを救い出すことができます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-01-21",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/bcc1fa1b1829c3ec873aa87349966cd8ce2fb34df3845add60edd506dacefc17.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/4b2d1d1970cbc7f373675adb2740e46a8290e9ac67a69b5e3cfa445da31d7bf3.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/f7e66e8349919e7d203c20279e07fdfba1846863438951e4fd8acf677b4dc119.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/37fda7086380ab1c8b9bce2e2b95e9b32fe6f9068810962692eb2daabef86833.jpg",
+				"name": "ドラゴンバスター プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ac1081bb646630a4606fb498f9f462cbfaf0c7811aff2298284d8e4160e46400.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "50"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cf23adf1a9dc0aedd9d85356d6f95cd8ae443e1a81532b13b3419399d92a086d.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "50"
+					}
+				]
+			}
+		]
+	}
+}

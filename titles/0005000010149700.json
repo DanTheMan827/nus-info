@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010149700",
+		"eshop_id": "20010000007586",
+		"product_code": "WUP-N-WAUJ",
+		"name": "役満 鳳凰",
+		"platform": 124,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2ecb0929c7ba0fec6d440fc26bfa64eb982c3cbcb63855b23e84a68a4e9f4b1e.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/2903c67303b7ef6b04188ee488832d68866a3cffc55b1bb3fda5daf7a7432dd3.jpg",
+		"data_size": "365723808",
+		"description": "Wii Uとニンテンドー3DSの両方に対応している麻雀ソフトで、自宅ではテレビの大画面、外出先では3DSで遊ぶことができます。また、流れに沿ってルールを一から学べる入門モードのほか、対局中でもWii U GamePadに麻雀用語やアガリ役などを一覧で見ることができるので、初心者でも安心して遊んでいただけます。 無料でも1日1回に限り対局できますが、会員券をご購入いただくと「プレミアム会員」となり、対局のプレイ回数制限がなくなるほか、成績によって段位認定を受けたり、自分でルールを設定して大会を開いたり、オリジナルの牌や卓を集めたりといったことが可能になります。また、同じWii Uに登録されている複数のニンテンドーネットワークID(NNID)の間で会員券の権利を共有していただくことができ、同じNNIDをご使用の3DSでも同じくプレミアム会員としてすべての機能をご利用いただけます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-02-18",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/bdbb61cbb3ce7650c10a80bc72124028b6ac6793edfbc1dcd65bb6bdf2883cf9.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/c1bda45ebcc833134041d86b3a55b3f7cb42ce3c3a9a021540c91f52dfc527b8.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/5b3fbcf7ae49ac7d0f0a3a26e8ac3090c2cc162276d464af81eddacfad0981a0.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e5b88a441a1b1fd570153dbfc15d2cd7c0191c24e4b63c311361891850f96042.jpg",
+				"name": "役満 鳳凰 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/81e94d4b883aa4abf94289a1bb7c5f117404c92d873a1b7ee3c99b10ebd1392e.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "217"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5756b8e34f9fd2b3ff2ec428b87fa3bd4809b847ad94b931bebe1e288a703c00.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "217"
+					}
+				]
+			}
+		]
+	}
+}

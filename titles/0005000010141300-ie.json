@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010141300",
+	"eshop_id": "20010000003626",
+	"product_code": "WUP-N-JBQP",
+	"name": "Uncharted Waters: New Horizons",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 267,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/99e2a86fc94688e6aefb172aea2eeaa1b8e4b1a193b013cafcc8cb8c622cb972.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/1c63cbec37af05087e21bb6045d93df20375509b8ac9e744bf01e77210750bae.jpg",
+	"data_size": "41713804",
+	"description": "Uncharted Waters: New Horizons is an action-strategy game set in the Age of Exploration, the golden era of European global exploration in the 16th century. Set sail as an ambitious young hero or heroine, choosing from six different characters with unique backgrounds and motivations. Seek adventure as an explorer, amass a fortune as a trader, or become a fearsome pirate. The game offers the freedom to play as you choose. Travel the world’s oceans, engage in sea battles and even take part in sword duels with enemy commanders! This is the US version of the game.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-11-28",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/7dd835bd781a59f1630b34be47ed29876e3c8280665ce23d46ce10656c3c438d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a0c21814e28a0ae2ca0587beb8e16f081cdfd7bbaa2bb90c4f8e73717d8fc225.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/51c74191b0acf342e8d54b9fda592fdc6fc83414b97de2cd7c12692ef45346d5.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/dc09f2912e6f30c5aab89fd942321f99cc6618c7b465c4c2541586118986e96e.jpg",
+			"name": "Uncharted Waters: New Horizons: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d4546f67f728425980a4ff2da4272815de707469129e5e1ae6148529e7b8231e.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "69"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b011e57c287f480aff550f4fb657562673fad0058f7ec42eb85e180d770147a3.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "69"
+				}
+			]
+		}
+	]
+}

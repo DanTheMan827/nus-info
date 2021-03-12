@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000F701800",
+	"eshop_id": "50010000039697",
+	"product_code": "KTR-N-UAFJ",
+	"name": "F-ZERO",
+	"platform": 1004,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d2e5d0c23de9b3d0b1191ae628abc76bf47604e37bf03dc70bd3bcd8c9b23005.jpg",
+	"data_size": "3283812",
+	"description": "このソフトは、1990年に発売されたスーパーファミコン用のレースゲームです。 ホバーマシンを駆使し、9つの惑星都市、15のサーキットを走り抜けます。マシンは個性豊かな4種類から選択。触れるとダメージを受けるガードビームや、スリップを誘発する特殊コーティングの地面などのトラップをくぐり抜け、グランプリ制覇を目指してください。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-03-04",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/aed02eb93eb74949d196d930bbada290ea20f9205f2aaab18b3ba42585bdbd1c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/68de1a6da339a90a2ca0d6a42c6e2c0dc555a5cad5ff82932fc52178f25390f7.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/aec3a311d0d4c4b84915fbe1b4073a91ba14bf94c479b490720e68d66cb87cac.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b90ad0fe7585558dbfb41316f24c9049ad2aba1d6974dff039482f2be97e72bc.jpg",
+			"name": "F-ZERO プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/85c541748161997703edea0be1c2ba4b4a80ad314036251c7f7ad4c643075961.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "74"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9d12dddd26f3d0cdd6664f91ea7034768daaddef933c8984c9bca9cb8949cce2.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "74"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "000400000011E600",
+		"eshop_id": "50010000025095",
+		"product_code": "CTR-N-JMTJ",
+		"name": "アクアモーターレーシング3D",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 1212,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3a18c5fca966d4e3f010546850f862a6bf5b09250d2ab65645e7478cc475ad07.jpg",
+		"data_size": "96189332",
+		"description": "『アクアモーターレーシング3D』は、全24のコースを舞台に水上のレースを繰り広げる「ウォーターバイクレーシングゲーム」です。 波によって変わるバイクの挙動! アウトインアウトの熾烈なコース取り! 一発逆転のターボブースト! さらに、最大6人で参加可能な、ローカルプレイ対戦機能、ダウンロードプレイ対戦機能搭載! 夏の暑さは、水上バトルで吹き飛ばせ!",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-08-27",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0a858acb6e5139a6240e93856c5b683def1a700f059efca316eda9430c7bcfd3.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2fb1d02454bbc1c398f5321b92a0b8c58ca9ace08ad8947851536b8dcde0b857.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5b3207d9e4a37696ba84bbdf0c50d844d71f1c605587e1014e72afc0c10b5739.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9accb4f6288b1879623c5b067563221c8bec0661fe27a243b271a3ff3a2f3aa2.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b5aa2f35e84949b1a69f38aa6ae1c6f225cb57c37bcc96ac480e8dfbb78c6d6b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/28ba2d2eb81d38682b465e81372bcb6aa6529b8c48f29a593ff28041ce9d1c76.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5921cb1441d638d6dea87fe93d2b8913df4c4598a0bac4423f1121ec75fe54ec.jpg",
+				"name": "アクアモーターレーシング3D 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/248832d13debc6a994b3e13d9780512233cb217ab1a01481f419d1ee9f7d439b.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "112"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/571d1054ce1086b60c4cf0784296a73f97fb31eff0e90ba081c90eb977c1e099.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "112"
+					}
+				]
+			}
+		]
+	}
+}

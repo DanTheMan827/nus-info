@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000064D00",
+		"eshop_id": "50010000010348",
+		"product_code": "CTR-N-AGAJ",
+		"name": "マリオテニス オープン",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/99ba09804421040638103d67dbf8c7421cafc6d908b7e4fb757a16a23d055a2b.jpg",
+		"data_size": "260602772",
+		"description": "シンプルな操作で多彩なショットを打ち分け、誰でもラリーの楽しさを味わえる『マリオテニス』シリーズ。『マリオテニス オープン』では、対戦や協力、すれちがい通信、Miiのカスタマイズなど、テニスを軸としたさまざまな遊びを、ちかくの人ともとおくの人とも、みんなでお楽しみいただけます。ニンテンドー3DSの特徴を活かした、直感的でダイナミックな操作も加わり、テニスならではの駆け引きを彩ります。",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2012-11-01",
+				"retail": "2012-05-24"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b1b0991645eb18a60fed01cc61fe601e3a16e9f32a9e2b24c843dc4639c18a94.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c6a0f8df7eff1c69e5c323b1bc69dc826cde055f6736bbafebcb8225cfab67c0.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/9d4a8eed3d55bed8712d55e4e115f0003dad5ccbe9424f9c59f41da7cd7c6664.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4d9efb99653237f862a917f57cc2e0a059d183aa7059238d545c3b78058a5407.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3fdd1a6f926b8715c2958f5dc7f586dbbe943d256ac9e08884d21e30b1918578.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f08eb933c16a92fa2a1da9b2df3406cb7a10dff1ab4bbd33411fa363bfa14c3b.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/85172ce1e59c2190cebf0774d5e28cdaa7629a442fb958a6d865a77909946905.jpg",
+				"name": "マリオテニス オープン 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f461b57909ed39d353717263e2729142931248648ecf189455907fd27ed97805.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "205"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/798f9d2fdaab89fa061e4237d2e96b379ec2c0c467a2b0eedc7dd44edf20ad02.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "205"
+					}
+				]
+			}
+		]
+	}
+}

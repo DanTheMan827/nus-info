@@ -1,0 +1,85 @@
+{
+	"title_id": "0004000000187000",
+	"eshop_id": "50010000040615",
+	"product_code": "CTR-N-BXXE",
+	"name": "Monster Hunter Generations™",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 41,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7602f13741459430f1f9459abc1d03fc290c49586d770bbeea12c1adf21752fe.jpg",
+	"data_size": "1634450276",
+	"description": " Experience the most dynamic Monster Hunter experience yet! Take on the role of a fledgling monster hunter and face down larger than life beasts as you journey to become the ultimate hunter. Along your journey you'll defend each of the game’s four villages from new major threats—the Fated Four - powerful new monsters that have emerged. Monster Hunter Generations introduces all new gameplay mechanics including Hunting Styles and Hunter Arts that allow you to fully customize your playstyle. Take to the skies and attack monsters from mid-air using the Aerial style or perform deadly counter attacks using the Adept style. Master a variety of Hunter Arts to unleash devastating attacks against your enemies or generate powerful buffs for you and your teammates. With hundreds of quests in store, there are tons of challenges to tackle in a solo adventure. But remember, don't hunt alone! Form a party with up to three other friends locally or online to take on the toughest challenges together!",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2016-07-15",
+			"retail": "2016-07-15"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/83e5892fc0252a6a6b504b0f6a3676a67f8f7fa6d2a2e10cd9a8fb66d8fe2b78.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0b3798497099f7e00605a48d9e705bbc47790beb180516cad14a8bd513a383a2.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/28d506bfd1b11562757004875b61fb478282df62b0a60c28228073c65a5de78e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d5c10dc7ee915a1391fc90c41cf70a55ae2aaa6f8d130473079af634f3d24de9.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/31d92ecb344f233c352f82bb783881dad51748c7fab10482c3b4d649dee41e27.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f1f2965cb466cdb1de2349cd2acc48552b7541d27d175d05d17cfe6b2663d0b5.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9e2090d8ae514149bdd1e455b1e7240ec6c4aea15da1f1acecc2cad55a0f5887.jpg",
+			"name": "Monster Hunter Generations Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/81aa9bfa4f9ba79e8ca2d4211c2178ac5d79deb9d40f7adf40290f7fb914546f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "72"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/75a5834d416fee5947dfc36deefcab806ea37e581d266149901611df1b7d0b9d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "72"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9e2090d8ae514149bdd1e455b1e7240ec6c4aea15da1f1acecc2cad55a0f5887.jpg",
+			"name": "Monster Hunter Generations E3 2016 Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/af531dd2dab99285c8da6e0b3ee688d9b968d72c278aa9b7b621ed40212dae85.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "53"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6d7be2a62ca5f3d6a50a503726b5789815f0da0887ef6dae59ae3dc664914ca7.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "53"
+				}
+			]
+		}
+	]
+}

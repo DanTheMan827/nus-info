@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010108A00",
+		"eshop_id": "20010000000867",
+		"product_code": "WUP-N-FAKJ",
+		"name": "パンチアウト",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/23c0e2a8fd8b9e46af3cbf3c15573c2ec5577cbb10e5adcbb1f7fae7acabd6ba.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7f512a5d8b52685c056e5f08668051abaafa181c7d76b8ba85b2687853d76add.jpg",
+		"data_size": "36667532",
+		"description": "このソフトは、ファミリーコンピュータ用のスポーツアクションゲームです。 チャンピオンを目指し、サーキット(大会)に出場した「リトル･マック」。得意のパンチで、個性豊かな強豪ボクサーたちに挑みます。試合は1ラウンド3分間の、3ラウンド制。ガードが甘いときは、ボディブローや顔面パンチで攻撃し、相手からのパンチはブロックやスウェーで回避します。相手にはそれぞれ動きのクセがあり、大きな隙が生まれることも。すかさずパンチを叩き込むと、連続攻撃をヒットさせたり、強力なアッパーカットが打てたりします。 1987年にゲーム大会の賞品として配布され、後に製品版が発売されたソフトです。 ※このソフトは、賞品版を再現したものです。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-06-05",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/f13e4496d6703983125849891c5e0c4717f9ea5a938e2f637783b0216350ad60.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/34d6ddd29a50ba396e8dd28d904aecb34e0f59eab845bad2131db571927dfdc0.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/41be092d6af843ed23ea8f5f3c70548ce1855880737e0ace73952adf209d401d.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0997cfdbdbe07c176d9bff7a74fd16f06c2fbe1d0cfa71c764f8ade788856f6f.jpg",
+				"name": "パンチアウト プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4c3be275a3a0ab16103df56ef8f547a668461a08d3a2df324dafc829671bf13d.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "46"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/746ef8f69fceb73ada7084db6d1192ffd4bc926df63a3ce64fffa989d32a5718.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "46"
+					}
+				]
+			}
+		]
+	}
+}

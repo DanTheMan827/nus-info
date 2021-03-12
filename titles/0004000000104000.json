@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000104000",
+		"eshop_id": "50010000023455",
+		"product_code": "CTR-N-JPGJ",
+		"name": "@SIMPLE DLシリーズ Vol.30 THE ナンバーパズル",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 57,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ea437740a9cf16c2efe9ff4fb64406e28643c7e9d97629b94d5961d0917b00db.jpg",
+		"data_size": "16702308",
+		"description": "定番の人気パズルゲームが『@SIMPLE DLシリーズ』に登場。簡単なルールで間口は広く、遊ぶと奥が深い、どなたでも長く楽しんでいただける内容です。 便利機能や遊びやすさを追求したシステムで初心者も安心。 すべてのマスを埋めて正解を導き出すことができるか、あなたの頭脳が試される。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-06-25",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/fe6cdd46ac85c4f204cf91619f6f621f817b623b8cfdd6c684059cabbed42c5d.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/891f353ac9dc8642d997445b20512fbead69e5c61881d23f70b77dc532df8046.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/9fd67620f938b130b579820d171561d7ff4df36cb92898f816342a1ec51c78a9.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/3b30b462171d9056ae9762f23e24bb26f900469d4166603295cbea195c4eb3d7.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/21605afdc9fe00f2483614e36a2dc01051abe633d78417395dffba8a5011d391.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5ea5cdbc6c7d9f449b21ed269e6864564e57c0741b27f625d21bcaf1171d8fdd.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/514ef4669286f2252d6fa1c98ef9231807d4f590a53fc23e259802ec2d4bb7f4.jpg",
+				"name": "@SIMPLE DLシリーズ Vol.30 THE ナンバーパズル プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/dd47f4d7b7ace0805ed9761e712d264f5a1fc3056108395a745397a0ea8e384d.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "44"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/89af70fdba2778bcf0ea84a1dcd95f8536196cf7621986b036f0a5b2e6cac8f6.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "44"
+					}
+				]
+			}
+		]
+	}
+}

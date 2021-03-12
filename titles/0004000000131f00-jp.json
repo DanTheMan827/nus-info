@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000131F00",
+	"eshop_id": "50010000025795",
+	"product_code": "CTR-N-BFRJ",
+	"name": "ファミコンリミックス ベストチョイス",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/414cedee1cf2bfbb488efa2e9d86bcbbf10396c4a53c795dd6420d29c5f86f9d.jpg",
+	"data_size": "118045540",
+	"description": "ファミコンソフトの印象的なシーンだけを集め、新たなお題やしかけを加えてアレンジした『ファミコンリミックス』がニンテンドー3DSに登場。本作では、収録しているすべてのステージで、オンラインランキングに対応。プレイ動画もあわせてアップされるので、これまで以上にランキング争いが充実した内容にパワーアップしています。 ＜収録タイトル＞ 『マリオブラザーズ 』『スーパーマリオブラザーズ』『スーパーマリオブラザーズ2』『スーパーマリオブラザーズ3』『スーパーマリオUSA 』『ドクターマリオ』『ゼルダの伝説』『リンクの冒険』『星のカービィ 夢の泉の物語』『メトロイド』『パンチアウト』『ドンキーコング』『ドンキーコングJR. 』『エキサイトバイク』『バルーンファイト』『光神話 パルテナの鏡』 ",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2015-08-27",
+			"retail": "2015-08-27"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/becd51ac7bf3ecefcc4aefa52e667639e41a71585686354a565c040a04c6f529.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8b445954b279610a6aeb06a1ca715eee93b1493f0a001ec4995e888b2579c9f7.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ad028c07f744faf7f54406e99bb833ad31b326bde356f3a79e9a531e84667521.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f8e27137cc35255b60a09431b21e71779ce8b99b11fc3f71ef72e51cdbd82e24.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7644c9662b8f1865abbc88a82449f5fca9a20e66576909430bab3166d7145ec2.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9bd1bbe2dd4e1e1a036c47008ec885c3c8bf6e0da59369717ef92a244d378d36.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ae8cdfc67dc0164e763a59de4d6901ba5fbe8cc9c35e2234c5a4f61733c14869.jpg",
+			"name": "ファミコンリミックス ベストチョイス 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fecd7dae077308c3a4e426207232ed304d5f4b9866b51dd249f9d082810ec098.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "250"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7a0056ed370f0d8759d3ce980dd1416aa8fd81a253f4e06a8db076e98660a342.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "250"
+				}
+			]
+		}
+	]
+}

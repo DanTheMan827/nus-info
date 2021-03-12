@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001015DC00",
+	"eshop_id": "20010000005711",
+	"product_code": "WUP-N-PAGP",
+	"name": "Mario vs. Donkey Kong™",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/86b9aac86871cb47507065ea57a01f531325118bc7ff62211b0c8c2ad2861889.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e5df2e543e7121d7ef2395cd7f55768a5b191e0c53da5cdff79821c39fdd7864.jpg",
+	"data_size": "94994552",
+	"description": "Mario vs. Donkey Kong enfrenta a la mascota de Nintendo con su archienemigo en un juego de plataformas, el género que los hizo famosos, pero con un toque diferente. Donkey Kong ha vuelto a hacer de las suyas y ha robado todos los muñecos Minimario de la fábrica de Mario, así que a Mario le toca ir a recuperarlos por seis mundos llenos de obstáculos. Deberás superar los niveles resolviendo complicados puzles y poniendo a los Minimarios a salvo. ¡Al final de cada mundo te espera un combate con el mismísimo Donkey Kong!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-09-17",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/55a4b26c1e65bdd5dc87a43498c7ec69647632dbc6567bfe8869489f70deecdb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/744dbdde3855cbd48cd9d2e9d9e0852778013098a61d0fbbacbd36be8eab42a7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f67848e92ce0c44e7045378a13311d79b9cbea20305a4d982a2d248819f92131.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7a866faa0950d26a83f29c132d2aa77323e4a78ea9854654b54877bf93ef6ce2.jpg",
+			"name": "Mario vs. Donkey Kong™: Vídeo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0bd0590d743b69dd0e0c0423bd811ecb64d10ac5e8520462ee4592e08802f260.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "54"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0e63cc3bad00d9ad94c024c458f8a008e7111fbfe9ce33e14b2fa640c0e1b918.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "54"
+				}
+			]
+		}
+	]
+}

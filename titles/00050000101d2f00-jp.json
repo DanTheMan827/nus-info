@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101D2F00",
+	"eshop_id": "20010000020988",
+	"product_code": "WUP-N-ABKJ",
+	"name": "バードマニアパーティ",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 882,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3e83e86cdfde3641b0d462340cc3977ef1600a6ae235ddc38a6a20e592579a91.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9a800d45cf600b9782fde36a2f762cf3c536184ea922a44898e13c63c18e544a.jpg",
+	"data_size": "236060812",
+	"description": "『バードマニアパーティ』は渡り鳥「モージョ」を操作して星を集めたり、障害物を避けながら高得点の獲得を目指す横スクロールアクションゲームです。 低速から高速へと徐々に変化するゲームプレイ。ダッシュで複数の敵鳥を倒してマルチコンボで高得点につなげよう！ プレイヤーのスコアは搭載されたオンラインリーダーボードでほかのプレーヤーと比較することが可能です。 2人で一緒に遊んで高得点の獲得を目指す協力モードを搭載。さらに、最大5人で遊べる対戦モードを搭載！ 友達や家族と一緒に誰が一番高いスコアを獲得できるか競いましょう！",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-02-17",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/82bf7b2ebebc82a46155e2d41c52aaad6a035893b4ff9a0485f9018d94f7c49e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a80ad1ed9586af1b77cf5e251e1c844e4e6ca1148475fc72f6d3a3ee4a7db10b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/707c9b467ecbfd208cc8a06bc0dff8e7fe895f7e0ccb9046444dd52af95f8b68.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/30259472418343811e622083481bb311f1c6283cdcda75e65da194b61bcd4d10.jpg",
+			"name": "バードマニアパーティ 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d185988378f3ffb76108f177d5f2fc1cc0b62c80c5571c18141722fc0789f9fb.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "40"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/63c550f52931db1f30618f87f6261846d9999d7b34c30fcd4b03c86e2a099c61.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "40"
+				}
+			]
+		}
+	]
+}

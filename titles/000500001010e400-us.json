@@ -1,0 +1,54 @@
+{
+	"title_id": "000500001010E400",
+	"eshop_id": "20010000000039",
+	"product_code": "WUP-N-AGPE",
+	"name": "Game Party™ Champions",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 1004,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/af052f804ddfad2d9bc04899ba63e5c84da113a61bd0b0492351c7cb399b0c6f.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/1732a94d0e45ee9f45aaa25e7807f32eded05ed2e5c344a5dcba9fbee8e48fe8.jpg",
+	"data_size": "1801912560",
+	"description": "Tilt, turn and touch the Wii U™ GamePad to play your favorite arcade, sports and party games in an entirely new way. Game Party Champions is packed with exciting new modes that will ignite your competitive juices and really heat up the living room. Whether you’re battling your way to the World Championship Stadiums, wreaking havoc on your friend’s score or simply looking for a quick minigame fix, this game has something for players of all ages and experience levels. Key Features EIGHT CLASSIC GAMES: Ping Pong, Skill Ball, Water Bulls-Eye, Mini Golf, Table Hockey, Football, Hoop Shoot and Batting Cages. NEW AND CLASSIC GAME MODES: Quick Play: Pick any game and start playing! Story Mode: Vanquish colorful opponents and advance to the World Championship Stadium to see if you have what it takes to win it all. Party Mode: Take turns playing on the GamePad while others attempt to wreak havoc on your game with up to three Wii Remote™ Controllers. RICH HD GRAPHICS: Eye-popping 1080p graphics",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2012-11-18",
+			"retail": "2012-11-18"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/88c7ab12352bed88925a388b5aa69f50864dc6c4cb730f81399f1bc73bf3af2b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/cd08ced79bfb74d746d22e0abe4420caf96e811ed3497441951b710d4a348968.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a9fa7e2cf6413007cd6ff47a1761eeec83d96bc02e2c5535b96ea375bc8095cf.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b59a0d60a3037c1f072c05ea543f9c1989deda29b394591c6d08dcc04d0b4a6a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/145b3060c75a2ca49127130daa225e91c010b19fc51e0e32dc71cd3e675b13c7.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2773ebb9b0c3128db75a0f3a429884f594789d8b1fac588a2b4e9ce0caf332ad.jpg",
+			"name": "Game Party™ Champions Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8dcea70ee48b78cbc3bebfb71311111aafca2518573ff99e922d636b77f94d84.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "75"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c11b7010b719dca65a60039cccd59b66ef287db402f1650d31935b36c0bd9329.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "75"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001015D800",
+	"eshop_id": "20010000006406",
+	"product_code": "WUP-N-PAFE",
+	"name": "Golden Sun™",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/066f0094e7fdc2f8ffbdb0239588153c617c34dc9f1bd0228cb97f00d5972e28.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0c3e6dc28dea10fbd1eafd77270f07869af3fc2bef445952f089cd34db5e9b18.jpg",
+	"data_size": "96043128",
+	"description": "Alchemy served in the building of Weyard's great civilizations. But when war began to consume the land, the power of Alchemy was sealed into four Elemental Stars. Forces of darkness are now pursuing the lost art of Alchemy, and as they draw ever closer to their foul purpose, mankind hangs in the balance. You and your companions are the last hope. Use noble weapons, magical Psynergy and elemental creatures known as Djinn for the upper hand in dangerous battles. Combining Djinn in different ways will allow you to create powerful spells and attacks against deadly foes. Can you prevent the oncoming darkness?",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-04-17",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/54fbd80963c84bd1ef6be9871af62e0cfbaf85a8c809638e47dc74743ad00ce4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/22df85349c1563f84abbd6fdb082c8a23b66700ede1dcdfc2ef7b21f17328944.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/da4f0984aa3c2c2acaed2b7d9d2a58e924bf1decfd059d0914a65fbbe1fbb85c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2a129d1c986ea33d13f63fe98e0e107d710dd99dcc776e372c83ab15fcf85e65.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/99a8a48f025e93d49927a64d7af7ff53130b3cc1989218a4a18bd04bb7de053c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/129ce1ca4c43df1928b26ddc505ea11b62871bc323cd20d2b8b4c858e997dc7e.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a45328b546e0366bf05fb9a43128627bfa11b272df9d18629f992f7ce207d23d.jpg",
+			"name": "Golden Sun™ Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/dca98a783205ba37df793783463da6c6c50f6ae714c6ec73e710cae104b2e1b9.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6b86fd50e75550444bba6951a7d27272054a31555d37bf9115fc0a9088e034ab.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				}
+			]
+		}
+	]
+}

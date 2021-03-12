@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010197E00",
+	"eshop_id": "20010000018988",
+	"product_code": "WUP-N-PB5P",
+	"name": "Medabots™: Rokusho",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 179,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/456e98235a4dac36d78348d9661056bb73d679cadb83c7d761da5bac754795a0.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b84c6ae14c2f2b30fbcb48d5b4d2ce367f6317e97e04659e51f4cb27fc4ac00c.jpg",
+	"data_size": "82083980",
+	"description": "В Medabots™: Rokusho детишки проигрывают свои призовые Медабот медали и Медазапчасти зловещей команде Медабезумцев! Помогите Ikki и его друзьям выяснить в чем проблема и победить Rubberobos в их собственной игре. Модифицируйте ваши Медаботы, используя сотни разных Медазапчастей, и создавайте ваши собственные тактики для Медабот Робобитв. Таинственные приключения и напряженные Робобитвы ждут вас! Rokusho версия включает в себя эксклюзивные Медазапчасти и медали, уникальные для данной игры.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-10-01",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/7a2d8ab54a475433a7e673d0c231f82441d931061860ea8a462c361e7c61b3f1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a577ad7a148d5220116ade61ae1a6b86a70cd44019dd971410d2cfe62fc5bbad.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/99291dc3a6d13d858a11e647262d432ff17b61273fe92ceed5744fe573e65c2e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/613ead25e04eb117a67d4651cf720f69e16cd16bac7c3f9443ac00da4874a01c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5ed63719e20ca1c797acb6e276fb22a121ab123d66710b7ea349413405225ede.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c5e6031c99cba8849a0cc9e97c2ca4cf7b5bf1c988c37c2dac07003b4e8e02a0.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/dedbbb041e1852e17b9f5beaff1f2df60752feed2be662e21ee7eaf356afcecf.jpg",
+			"name": "Medabots: видео",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/db1cefd74b4fa2096f912693bb7ba652ec5585a543a7ae4972b3abd81560a0b2.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3057b04b8768185935f603154b72d1a88c67c11df067394c64b36d574828879c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "53"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101A2000",
+	"eshop_id": "20010000013947",
+	"product_code": "WUP-N-DAGP",
+	"name": "WarioWare™: Touched!",
+	"platform": 169,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4dab7bf036934643ce74f4d7e2bcbebb9c88e96b6d50910806a83d694ce4a18d.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f64bb2ab75a3811740dc4d67102be59e4825f66def15721947a67e928ea4072f.jpg",
+	"data_size": "65634424",
+	"description": "Wario™ en zijn bizarre kameraden zijn terug, om je touchscreen te transformeren naar een speelplaats van mogelijkheden, met 180 wilde microgames. Doe met Mona, de pizza levering diva, mee voor snelle rondes syluspen snijden, of strijd met Jimmy T in de club voor wrijven-gebaseerde games. Jonge heks Ashley vindt leven vervelend. Krabbel door ninja kids Kat en Ana's games, neem een rit met Dr. Crygor's rotatie attracties, en vergeet 9-volt's Nintendo klassieke games niet! En wie is de mysterieuze Wario-Man en waarom ruikt hij naar knoflook? ",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-04-02",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/c5a3aeb80325a66822bc1b2ca1054ec8e518e940c2798f7d761d956d18b76208.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/31661101603b5d72cf399dcfe2bb681bca163bdf81a8d7ff3423856e17f85e2f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7cb7cf88e1782502ea082e5e6a9c87db074fb9e73e60591fe2360c335d181aea.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6c8df83b429eab4d02a1eea8b3b6d130da09286e2a7f4f5f21a8d76adbdc5323.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9cb19d27188ee3e8f2e7994e89f1dc7d1a997808d2bea5502dcc9e875afadcbc.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/75ed560e617619cdcefe7507ae82be5f8976cb4ea70e134d4718e10c0e10ad06.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c36dec4f4e4764290561657b271ec9452c7bb5ccb1156437a2d25f3d6a9ccf51.jpg",
+			"name": "WarioWare™: Touched!: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8583d76812aa377f4a1a1984cf633a72d2505026fdfbe8d8676f730470366e61.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "66"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a6660f2d7c18203294d2587af7a5b485ae5e4060128fb85db4b0679a9fbb04ec.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "66"
+				}
+			]
+		}
+	]
+}

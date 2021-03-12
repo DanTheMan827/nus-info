@@ -1,0 +1,100 @@
+{
+	"title_id": "0005000010135700",
+	"eshop_id": "20010000002484",
+	"product_code": "WUP-N-ASNJ",
+	"name": "ソニック ロストワールド",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 231,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8963349e183c8b3a84c2d019f48969b1522612514c6fe8ba5fa394814b7e72d1.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e1707b6586d0dada11e8d296089df8bd51c6c6481ceebacb97cedd404d2285c4.jpg",
+	"data_size": "6933775036",
+	"description": "未知の大陸で繰り広げられる全く“新しいソニック”の登場! 奇想天外な360度アスレチックフィールドをハイスピードで駆け抜ける高速3Dアクションゲームです。 そして新たな敵として最狂軍団「エッグマン六鬼衆」が登場! 新しい「カラーパワー」や2P協力プレイを駆使して、未知の大陸を守れ!",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-10-24",
+			"retail": "2013-10-24"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/f8fe5c7ee09fe885485b3a21c2adbd3ff35e1f88dc7370c166341ae31906ccd5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0c1939d6ab7c375d3551a7e4b079cc55dd241b30df75a732384451a199950557.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9b26359e742b2e8d5bfae10350d7f74233500b120bc44c190c8a99f36f496a3b.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c55548f4d977aa2b7ee1b5b6816e18436c4bccea3fcf3825d5a71baa2274bff6.jpg",
+			"name": "ソニック ロストワールド 紹介映像2",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a9261edc1fa129948e66d77444cb996c35976c0112d86c7af3cfcca5a0f8441f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "231"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e69488ee99f1466b4cfa2cb2b70b21fb54d3f26d32f7c066c9c5d5cac98df6c4.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "231"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/eb7391d73055abf360dff48f3e31c695abc887113e51c482cf6b6322f52d3c3c.jpg",
+			"name": "ソニック ロストワールド 追加コン テンツ(ゼルダの伝説 Zone)紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6d3cf593d4a4cb589f5cd95d5df26482ab28f881380a4988fc540fda0c6d5984.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "63"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0b377eff06ab2095fdd040b8ea9eaa0d66226c44fceaa357697a7f0acd82cef3.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "63"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/654b5d708e47ba456660f81547db4e53ce071678930e44fa1b70784912aaffe7.jpg",
+			"name": "ソニック ロストワールド TVCM",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7a81f8ba7bc4755a3b4ea17eeb61369ebc8d5736a4f8e63c0d3822a6bd7ebcc0.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fab9615177b8f5b3320dc1c7f0647bdc582aafd25067189df5f77f7be69cc158.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,78 @@
+{
+	"title_id": "0005000010176B00",
+	"eshop_id": "20010000007486",
+	"product_code": "WUP-N-WM9E",
+	"name": "1001 Spikes",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 186,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a344725cc8baabe23a0aabafa84adc1b4d91faa18dac53fc5cb3ab406433d15a.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/50bea854499c05a78e6c5f0724f51983a1c03c6a07b1c20c556e2ac161869edf.jpg",
+	"data_size": "247627916",
+	"description": "Jim Hawkins, the world-renowned archaeologist, has gone missing while exploring the frozen reaches of Antarctica. Before his disappearance, he entrusted his daughter Tina with a map to the long forgotten ruins of Ukampa Temple in South America, along with a letter warning that death waits behind its every corner. In that letter, he posed a challenge to his estranged son, Aban Hawkins: to venture forth into the deadly ruins in search of a legendary treasure rumored to lie behind the Golden Door of Poko-Mum. Can Aban survive the endless traps of Ukampa and surpass his famous father once and for all?",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-06-03",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/df402660c9fc158736bebbbfaf505416b87898136568768a11aa4845caa7748f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0a1df5aeb96ecd0da55a0a89a2758d3b790eb6b8890c1941f3e634e2a837d164.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5e18e6e4e5cc6954d2634f365b78e13312a940eb71246d61a28ce652892cb541.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a067042ebed81e7e9ccb7b8e04f27f611c910a16c5013b694127a1798b51cc0c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d18f507d5b572508325c38ce79c7ad29c6699a9519b463311f75e0af85cadee5.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6ca53da6e7962bdb7b4e99399417f47bcc10824c806cca8d82fc9451c7fd1c24.jpg",
+			"name": "1001 Spikes Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7d3bd736e36f1dcc5ad25472b56a2232f0267c163bdae7c8b77325dd9ad5c558.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "164"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/edcb07c458a7a77e5daa14a3893fad3f850f9efd1041ebe066164182b061ac78.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "164"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/31172d6aecd63fe427c601e70b77c40f194a2212550c82d2eba48c97c62a6cd0.jpg",
+			"name": "Nintendo Minute - 1001 Spikes Developer Chat",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/63ac873e43ba7e79fc84547ed223022f506421d62cbfcca5b7b93cd77e61c29a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "343"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/67639c22f450772f416ba2a4c4e02f5a141ed4a639c0a1463241de6ee3f93e08.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "343"
+				}
+			]
+		}
+	]
+}

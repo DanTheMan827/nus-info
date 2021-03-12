@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101D3B00",
+	"eshop_id": "20010000020830",
+	"product_code": "WUP-P-AL2P",
+	"name": "Level 22",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1214,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7f727bd9fa98f16888ce32caf9a6e6cb2bbd31734cb317ef1970e0369b96bf76.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ca2946516371b4b643147a1c595bf06d62a06e2d05fa95112973e1adeda8c5e7.jpg",
+	"data_size": "256835724",
+	"description": "LE PREMIER JEU D'INFILTRATION ADAPTÉ À L'IMPITOYABLE ET TRÉPIDANT MONDE DU TRAVAIL ! Vous êtes en retard au boulot ? Et bien, planquez-vous ! Gary est un employé de bureau qui, suite à une soirée un peu trop arrosée, est en retard au travail. Là où tout se complique, c’est que ce retard est loin d’être le premier. Gary risque de se faire renvoyer si quelqu’un le surprend encore à arriver à son poste après tout le monde. Il va donc devoir faire preuve de beaucoup de ruse et de discrétion afin de gravir les 22 étages qui le séparent de son bureau, sans se faire repérer. - Cachez-vous dans des placards, rampez dans des canalisations, rasez les murs… personne ne doit vous repérer ! - Utilisez tout ce que vous avez sous la main pour parvenir à la fin du niveau : cachez-vous derrière un journal, défoncez un distributeur automatique à coup de pied ou encore appâtez les agents de sécurité avec des donuts. - Envie de faire tourner vos collègues en bourrique, de les assommer, de les empoisonner ou même de les irradier ? - Envie de piéger des photocopieuses, de vous balader planqué sous un carton ou de distribuer des laxatifs ? - Envie de régler des comptes avec vos boss ? Depuis les souterrains jusqu’au bureau du patron, en passant par les labos de recherche et développement, explorez le petit univers loufoque de LEVEL 22, Gary’s Misadventures.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-01-28",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/a82d5677536d88325bda7bfc7d51e93c9a84ccea0d8c9201bb387b85415c560e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e0d7ed201f323b6f6385f29ace5157644a26210d1dab5014bf4dd452526f6b7a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8f171b1b285bcb98ab9395cb23d68ea0194c8d572412c33483b87c2bc78ff4d5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c9d012d5827e0ddac5fc325663f5d1f2dc667cdcd6585f89fa758c49707f68de.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/cce13ee227a93eb557965e6238cca475488d8fc3c353560859e4c4ad2254559d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c411636c70baeca29397004dba05fc922c5c6d2cedb263ee8e965f20a5850a0a.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ed8416adad51b89c38523aa2b28ca55c62e36b34fd4aa86d9596450bc22541d4.jpg",
+			"name": "Level 22: bande-annonce",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b03862992e34acf074cc24bd38a47ecbe0340f381f14463c6dbe4bce77d17991.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/01ea5976aadef3430638e4a7dc757be2366dd4acbca165a8cd6611654219fc09.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				}
+			]
+		}
+	]
+}

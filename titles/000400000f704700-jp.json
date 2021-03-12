@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000F704700",
+	"eshop_id": "50010000041035",
+	"product_code": "KTR-N-UA3J",
+	"name": "パネルでポン",
+	"platform": 1004,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/17f8a6caaaf80fe314494311944f6b73482f9641c81e163ce521f45fc3533a68.jpg",
+	"data_size": "4205412",
+	"description": "このソフトは、1995年に発売されたスーパーファミコン用のアクションパズルゲームです。 隣り合う左右のパネルを入れ替え、3つ以上の同じパネルを縦か横にそろえて消していきます。数あるテクニックの中でも重要なのは、パネルが消えていく間にほかのパネルを操作し、次々と連鎖していく「アクティブ連鎖」。うまく使えばスコアアタックでハイスコアが獲得できたり、VSモードで相手に大きなおじゃまパネルを送ったりできます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-08-09",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a289b79764c17873648455d81ab7e63e122a00841bbb9a4443bb108c6b4ed70d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/291cd8a03a5fe3a65b266d6387ead8c1daee709a9ba55d353809a05d5c93dcfc.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/84f6e0c7954ba91951a2975cc18ae6b1b8b8c2e10671fbc1a786350c5ffc7b89.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/059f6d60c440a9e12b6ca2047aca0215919c812c246d699f759b9d7847271cc4.jpg",
+			"name": "パネルでポン プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/12e4d66b4ec276cc5af4edc6509eb8e5262f792a9bdfbca3987d72293f394f37.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5b06be68ac1d981927c1b789e4cb786950db83cbd497a69d1842fa28e2f9a3c5.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				}
+			]
+		}
+	]
+}

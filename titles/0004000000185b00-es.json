@@ -1,0 +1,85 @@
+{
+	"title_id": "0004000000185B00",
+	"eshop_id": "50010000040123",
+	"product_code": "CTR-P-BXXP",
+	"name": "Monster Hunter™ Generations",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 39,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8d4f0d13608ad376fcef1ac61ae821d535af173c85806e0d41a8213ec65f6d8d.jpg",
+	"data_size": "1642920804",
+	"description": "¡La caza está a punto de comenzar en el mundo de Monster Hunter! Ponte en la piel de un cazador que debe buscar y vencer a un tropel de criaturas colosales. Por primera vez, tendrás la opción de luchar como un Felyne en modo Gatador, gracias al que podrás ver el mundo a través de sus ojos gatunos. Personaliza tu estilo de caza, equípate con una nueva armadura y ¡defiende a los aldeanos de la amenaza de los cuatro malditos! - Crea un cazador único eligiendo entre cuatro estilos de caza, 14 tipos de armas y una gran variedad de increíbles técnicas de caza. - Explora nuevas aldeas y mapas, así como otros grandes favoritos de aventuras anteriores. - Caza en solitario sin conexión o continúa la aventura con tus colegas cazadores, ya sea como cazador o Gatador, a través del modo multijugador cooperativo local o en línea. ¡Disfruta de la caza!",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2016-07-15",
+			"retail": "TBD"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1c778a5078496c6457f829c908bba934049512ca7c1b2eb33b65847f54e47405.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/bb1746c6aafb284583c4d69c214961b2b442ec2c161fae61ec7929437fe379a0.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6600ff396238aa0f2e6bf249117d5eac01c867f10ccd19f7ab6f950850a34d06.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2c0d215845282fa113e483a22a610e2c7d0a9e9c2ccff302677b389255eda87d.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/4d2e3648d1492bdf8ecd0157b8f28271449e9801369d5ba3fcb9bc9bdbf7b435.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ecb23ab7cea53ece98f04a471b35d799e9a4e1ba966969dd800d6fdc8291ae24.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/53274707108a02f366ccdd4ca7e89e11e7c051623569ec406d37ecedc924cebf.jpg",
+			"name": "Monster Hunter Generations: Comienza la cacería",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d5ac4fa2a481968613f3130e2d5ba9419bc6da853fcecb3a9aa221b31de725d8.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "69"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c1f3332b46c008a436a3e8a89cd2c683ee05b012f5bffb00e29464be12ff6d1d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "69"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6945ddd1bd4f0e95443c2e27fc8d5199c018e9b01e5937efee22280cb61424e2.jpg",
+			"name": "Monster Hunter Generations: ¡Cazadores, uníos!",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c16000b716a99d848624720fd44010fe7a3728526ce0eb9d95390809fcd5da2e.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "94"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/13a11f726c2f12e1e040bb33a5eb4f6e4c1c647b6f7e0da2d9da489030c7c6ed.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "94"
+				}
+			]
+		}
+	]
+}

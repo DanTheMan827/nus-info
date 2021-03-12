@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101BB200",
+	"eshop_id": "20010000021567",
+	"product_code": "WUP-N-NAPE",
+	"name": "Yoshi's Story™",
+	"platform": 170,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e40e376d2e38661d52ae2d6387219edcda64bf887d862dcc4ae0418a50b80f7d.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ab26f10305bb280f0964e47d2efeab2bbfb4ee7b0712dd6abe4aa6582afab073.jpg",
+	"data_size": "63078520",
+	"description": "Bebé Bowser se ha apoderado del Super Happy Tree, y ha dejado un encantamiento en la isla Yoshi. ¡Ayuda a los yoshis a regresar todo a la normalidad! Corre, lanza huevos y revolotea por los aires mientras atraviesas un colorido mundo en forma de libro. Una vez que completes el modo historia, ¡ponte a prueba en Trial Mode!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-03-24",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/2f964307fc52cec63dd4be48edd4bc5b453a4fbc5d330696d92a4f8cc4d486e1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/60d438b2abb2ce0afa21153520209e2e8a6af5d332fda3145253a27f037abec6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ec99b389b3104ede2aa3e7b4e061ef237726d5051923464610c7eaacfb4b673b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/23446e7b370877f8ea24760de875635ef03e47fd6146a217f95ff184eaa7b4d4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/008544f07e3837548e92858f7ad1843fd1f12f5b88685ddae2a6870fb08a248d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0772c3cf722edb65cc089ed9951913ba4cac8b9b9399033dad24747ec5e339a8.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/373de72cb78fcbeabe227a46d9d13a67a5db1af2d38bc543365f71f51a8cd506.jpg",
+			"name": "Avance para lanzamiento Yoshi's Story™",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e5a12e29a0f0a2b56f237eddb61fb5b2d9129ae77ba8f7e1e72178c38c9cd569.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "48"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/39f3a68f106199f06c1d111d76a737c370bff1be4080dc715ecee335ae325f2d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "48"
+				}
+			]
+		}
+	]
+}

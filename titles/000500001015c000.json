@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001015C000",
+		"eshop_id": "20010000008607",
+		"product_code": "WUP-N-PNMJ",
+		"name": "ニュートピアII ",
+		"platform": 166,
+		"platform_device": "WUP",
+		"publisher": 149,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6de4bb075206c22718f55cf6acbe183c5d7232dd6153b0dd27e29aad6a34874f.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/64ff3f55ac23bb22530d151dc8db58b071e70d46f643518ad15b2296ff05b5ee.jpg",
+		"data_size": "84803724",
+		"description": "アクションロールプレイングゲーム『ニュートピア』の続編。平和を取り戻した世界に、再び魔王復活のきざしが現れはじめたところから物語は始まり、プレイヤーは前作の主人公の息子として新たな冒険に挑みます。「魔法のコンパス」と人々からの情報を頼りに迷宮を探し出し、そこに待ち受けるボスを倒していくシステムで、フィールドや迷宮内にはさまざまな仕掛けがあり、重要な情報やアイテムが隠されています。岩を動かしたり壁を爆破したりして秘密の部屋を見つければ、冒険をさらに有利に進めることが可能です。セーブ機能への対応はもちろん、初心者でも安心して遊べる適度な難易度やスピーディーな展開、そしてグラフィックや操作性もさらに向上し、本格派RPGがますます身近になりました。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-07-30",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/e39cca9d0026f58865066b68e95fff5b39e4d6618bfd65df4f656136899310c9.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/5728c2a377fc4625e79e5c9a8634117579a7a501f939f4dfca66bb4cabcb97bc.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/86863d4d3663ff8dd3a7f25c9c94093d9d9c00cea28c7f7c1fe8b896f3fd1f1b.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9e2411af0158ab57be1c0e001da8f957ece9469a55b393336221c32fca8e34db.jpg",
+				"name": "ニュートピアⅡ プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1a42039623ae96326ddc4c4571ae5d235b48a6c4885c157e91f5e6100db80edc.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "50"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d25323debee8c5c19285f89c68cc79b8f6f4247bcdc7baaafcd0e366d0c4104e.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "50"
+					}
+				]
+			}
+		]
+	}
+}

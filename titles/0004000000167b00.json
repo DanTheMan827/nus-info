@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000167B00",
+		"eshop_id": "50010000031818",
+		"product_code": "CTR-N-KPBJ",
+		"name": "パズルボトル",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 1292,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0cdb4cb3c35384a8938de042a4b191ae5a0416f28cf7d0394c172fde5e705532.jpg",
+		"data_size": "61655908",
+		"description": "ニンテンドー3DSを上下逆さまに持って、カラータイルをタッチし、グラスボトルにタイルを落とし、ボトルの中の絵を完成させましょう! 正しい絵を完成させるために、タイミングよく下画面のタイルの色に合わせて、上画面のタイルをタッチしましょう。 海、森、電車、花、雪、などいろいろなジャンルの絵を収録しています!",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-03-25",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/15643ee18fa59b4cc4fa1fd67becbc4921d6e8c5cad717ab7d5245f251ece34e.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e415b545cf7a845159987e269a9a057eed9219386bee5743094cf8797370e2e8.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/411089f56ccb29fc1e45e03fe53c82df12c7d453cea23198982e06248964272b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f99d4cf65155443a5fb6831463fad29afa408916a732dd36892f30db2f8f7739.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/9d26f63c218a7ae4b9ec478bf6ecfed01721775f48d6ed1318d868de18f29b19.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b67aa07acefcf0931e3664e985bfaaf23913c87a2dd973211330fff05803c3af.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b328f56b64544a86b49ebfa7dec08c34f69d208f68eabe8ca525107162440f67.jpg",
+				"name": "パズルボトル 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/792caff145b81a68669a1c59f5c540e9eceda03d60562a102aec3318cd95042f.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "107"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b51a67f25d15a290a3275891859ccf30abb05b7c7ac566ac2bc474459872175f.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "107"
+					}
+				]
+			}
+		]
+	}
+}

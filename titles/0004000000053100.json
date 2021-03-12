@@ -1,0 +1,69 @@
+{
+	"JP": {
+		"title_id": "0004000000053100",
+		"eshop_id": "50010000007143",
+		"product_code": "CTR-N-JBVJ",
+		"name": "VectorRacing",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 19,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0733a0d7d7e3796748cf29c43528f35b0f2a8082633f795e23a044422df5fbd2.jpg",
+		"data_size": "8170340",
+		"description": "レトロコンピューターゲームを連想とさせるビジュアルのハイスピードレーシングゲームが登場! 6種類の個性的なマシン、緩急入り交ざった12コースを「GRAND PRIX」「SINGLE RACE」「TIME TRIAL」「VS BATTLE」の4つのモードで楽しめます。 また、「VS BATTLE」モードは通信対戦、「RECORD」モードはネットワークランキングに対応しています。 ",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2011-08-10",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/133cff38f55bc50eebe5f10349ce187083efe50d039975d00a1ab3e17bbabe8a.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9a18dc350a3fa9e91958330c11168c832e73ac23908a3a9bb17abae7afe4283f.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/810d09370cb7a6a837b104fb6c6d52bd53afeb6a6b484b90519ca6b7b84ef7df.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/488bb7ed4e9c710166bd4e748eb2e93d7f2767cbaf9af702026ee9869118d4e5.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/787e78094f9a3238e8aa253dcce55aa1a3b4646b4f8068ebeba68ac0cd227903.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4e6e6fa295465eadc245a07fd43766cfad3b1ab8154921e177acf81af917b63b.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9956f9a37d21ba2980420f957519d70d3a2b4f54c33cf9a234b4c5e75e10c4c0.jpg",
+				"name": "VectorRacing 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d96eb212e1a1b48bd51ca0cc7f5bd343d1fbb817181ef77f8f6177179e8386a8.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "126"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1f0994cecb22255db49b685212015b3c3cdc72252caff0a54d684deed6378dae.jpg",
+				"name": "VectorRacing プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6b7922f392ebb5a90a9ac81e6938c53f401a9487889a09d1ce47361d34395d82.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "44"
+					}
+				]
+			}
+		]
+	}
+}

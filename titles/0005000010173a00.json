@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010173A00",
+		"eshop_id": "20010000006806",
+		"product_code": "WUP-N-PAZJ",
+		"name": "ファイアーエムブレム 烈火の剣",
+		"platform": 168,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d0e2a8f3ce4b3404bd1c6c516501d06102e4f34fa01c6b069d9e8296283f7321.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6221f447afd2fe5e9012b50e4d0d7629d27450a79be006248b40199176989e12.jpg",
+		"data_size": "97419384",
+		"description": "このソフトは、2003年に発売されたゲームボーイアドバンス用のシミュレーションRPGです。 リン、エリウッド、ヘクトルの3人の若者が、邪悪な敵との戦いを通じ仲間との出会いや別れを経験し成長する、壮大な物語が描かれます。ゲームを進めながら自然と操作やルールが覚えられ、わかりやすい解説で初めての方でも安心してプレイできます。キャラクターを育てる楽しみはもちろん、戦略性が練られたマップに、美しい戦闘アニメーション、そして重厚なシナリオがあなたをエムブレムの世界に導きます。 ※当時のパッケージ裏面に記載された文章をもとにしています。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-05-14",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/4027980d8df66b6dbde2a3864e9913e5d00656fbb9857b334381b7916769bd01.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/125008e6f89a407b9a04716fc053464d6fa26c8b2f335b0c32a80e2f189bf8a7.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/e01a83e805078b0793a32a41ce00566bb93e9577cf8e34f441fcf2397dcc31e4.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e1f9407fe99218959137f48c59f074f972ead66cc212daa0e5376118999dd215.jpg",
+				"name": "ファイアーエムブレム 烈火の剣 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e0ff092e31d0c0b1b47172a34ef28b6dedd36cd5f40c05c5e8f14a49f4b2f0c3.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "49"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c02195c58723aaf0bbde0631ba800d08446b137e624be675fd07b18138fc9e49.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "49"
+					}
+				]
+			}
+		]
+	}
+}

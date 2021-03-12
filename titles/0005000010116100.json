@@ -1,0 +1,102 @@
+{
+	"JP": {
+		"title_id": "0005000010116100",
+		"eshop_id": "20010000012607",
+		"product_code": "WUP-N-AX5J",
+		"name": "XenobladeX ゼノブレイドクロス",
+		"platform": 125,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/88cc2ae6d1d03d1936a4ea54f193b3d1bfca512b77f340761b3e765cbe3bb24e.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/dc74395f17f7a32c545b431654e443a50b138bbd5af568f7e730fc16cc903626.jpg",
+		"data_size": "20937508636",
+		"description": "見渡す限りに広がる未開の惑星のフィールドを自由に駆け巡りながら、シームレスに移行するバトルで強大な原生生物に挑む、地球人類の種の存続をかけた壮大なストーリーを体験するRPG『XenobladeX』。 プレイヤーは、異星文明同士の争いに巻き込まれ地球を脱出した人類の一人として、“ブレイド”と呼ばれる民間軍事組織に加わり、敵の追撃によって降り立つこととなった惑星“ミラ”を第2の故郷とするために各地を巡りながら調査を進めていきます。",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-04-29",
+				"retail": "2015-04-29"
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/7674daf1ee6bc9eeadbaa41f06bc399c735ddd706512a7c4443638fbfe3484fb.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/29e2f0242f4addceb9a125b4b8083223c56494836495bf4bc5741a79cf5e2994.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/c8734a20d95da02bb9adff97cce63c9a37bfdcac90a797643e0e578ace443703.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a209421a7b415b06024e500fef6aa441c29408a5b0580f3a7b5d0de05376bc82.jpg",
+				"name": "XenobladeX ゼノブレイドクロス 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/220aa5ac532f69c59bc8dc699e4799a5e137a86aa644ef459f1bb62d212066ca.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "382"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/103b13fc4b4197fd087dd08e0bcb84abb5c1c6d2d8614105fbf28d1f3c732362.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "382"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/93b0adb4961338888be7a4c0d9217dc9e957eda7f87b06b7150c3975c683bc71.jpg",
+				"name": "XenobladeX ゼノブレイドクロス ストーリー編",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5cf7fdf2a502b69e589171533196a9092f470eb32bde02c48c2cfe6c393efa51.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "183"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/99bde507591e520c8df96699a4671ba36bd2d37bb64c055aa0d44f90c92e323c.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "183"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ce27fb397ec1281997ac2cb024d91414ac5499cd6a9d6d7c490401b752533ee4.jpg",
+				"name": "XenobladeX ゼノブレイドクロス フィールド編",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/90725092029a895f88263233416f6655b779c3806754c32cfe80143f56d1ef7c.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "157"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/813afaaa482133809f08afde75870f7e86a0a29706589ea6abcf445711ca442f.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "157"
+					}
+				]
+			}
+		]
+	}
+}

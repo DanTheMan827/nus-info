@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000191400",
+	"eshop_id": "50010000040118",
+	"product_code": "CTR-N-KSMJ",
+	"name": "ツナガレ・ナンバーズ",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 1292,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0e4fb64776c3a4dec58562733b659f296d137868f4b8e57955776f78ff721c58.jpg",
+	"data_size": "13445988",
+	"description": "タッチペンで、数字をつなげて、「ターゲット数」を目指しましょう。 上から落ちてくる「数字」を「計算記号」（「+」「-」「x」「x2」「÷」）でつないでいきます。 作る式が長ければ長いほど、高得点が入ります。また、「計算記号」に応じたボーナスも加算されますので、できるだけ多くの数字をつなげ、同時に数多くの数字を消していくことが、ポイントです。 より長い式で数字をつなげ、ターゲット数になったとき、その全ての数字が消える瞬間がたまらない、思わずハマるチェーンパズルゲームです。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-04-20",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e7f395468a7a939cbeede460ef8ea20fc8c206aa7fdc3ce113856f40dd28b6e0.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d2ff24934b943a3f9bc14f94682017b6e70b3920e508e19ee05b79fdaf07a6a2.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1bd1618aa31f702ab4c7be1857357e5e0e30f3fff6267bb10006ffbfdf606492.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/3d659218eb769259b1628fae50426bdb1e06b34e5ea6bd6f8aa39e6196e4fdd6.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2c4ec0e32ba19f9e149b83372569e69dc95b288b676e93fd956fe6cf8008de28.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7dff519f1256d06b1a39becba62753786b721f97cce7aa37faee815ff7955501.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bbd9f79c96d7d5681bb9f05ff02c05a752c3deca071eee47c5b9e35527796d0c.jpg",
+			"name": "ツナガレ･ナンバーズ 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6d0b8f2c3cd1295ebcefa76e0e8a90ffd0aa9adc1032801843571b16e5c1f309.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "70"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a909f6dd9dca654a58a7d3758313914afa32c4ace37ded32d4da02356d77587a.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "70"
+				}
+			]
+		}
+	]
+}

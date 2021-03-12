@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000179300",
+	"eshop_id": "50010000040335",
+	"product_code": "CTR-P-AKMP",
+	"name": "Teddy Together",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/39c18731f59e3cd9ebf8636d95c4a317a7386dde5042c76e17dd545bb63a8c73.jpg",
+	"data_size": "403733348",
+	"description": "Become best friends with a teddy bear brought to life in Teddy Together. Take care of a special teddy bear who can talk, walk and play games in a title that’s ideal for parents and children to play together. Who hasn’t dreamed of their favourite toy coming to life? Visit amiibo.nintendo.au for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2016-08-11",
+			"retail": "TBD"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8256fd669533523944afddf17f65c26936a50530e858a8c034f9e9552d7b6b74.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5060007206c09488ed049fa9fca57381229021fa2dd250eebfef8f7f52d17484.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/befe84dea671eaadf4f27934d8335b4f7aa3e941c54df6bf12a1a06f5ca2a17d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/52e194931449920f871ce4deb68fa91c4fd1f393024d6a04ffc4c90e53febdc0.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5e45631b6fa1507fdadb5c5c83618882a1123d544423030645e76ef12e1d1447.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d87663bc1cc47b47ade0f6a43004372b6e7cc5050e79db6cf657007a0dd07e65.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7f1bae592f9c88172951f6f89251fd734df152731127db6e31d2420954c4d682.jpg",
+			"name": "Teddy Together: Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/aeda106d3edd3d7fdd8f50dc25863dce611f765e80f75e61ab7c3369d8a1700c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "141"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/892d1f0530d212be0a470e4006cf00365aad3b843460092c8c1ba6bbc791ae10.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "141"
+				}
+			]
+		}
+	]
+}

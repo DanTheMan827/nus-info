@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "00040000001A3300",
+		"eshop_id": "50010000041794",
+		"product_code": "CTR-N-JKCJ",
+		"name": "いかちゃん",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 1586,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/135dc0ecef6bb59576bb205ed495dafb798bc97f0ca6db336d1ab8895189b854.jpg",
+		"data_size": "2685796",
+		"description": "主人公のイカに似た不思議な生物の「いかちゃん」。 彼が目を覚ました場所は暗く深い海の洞窟。そこは地震と崩落によって外洋から隔離されてしまった世界でした。 いかちゃんはそんな世界を泳ぎ、探索していきます。同じように洞窟に閉じ込められてしまったたくさんの海洋生物たちは迫り来る惨事のことも、それを回避する解決策も知りません。いかちゃんは魚を捕獲することや頭突きで敵を倒すことで経験値をアップさせ、海の住人たちとの会話からゴールを目指します。 この海の住人たちの運命……それはいかちゃんにかかっているのです。 ・『洞窟物語』原作者開発室Pixelこと天谷大輔氏の初期作品を移植 ・泡を噴射して泳ぎ、頭突きで敵をやっつけるシンプルな操作 ・迷路のような海中洞窟を進み、閉じ込められた生き物たちを救いながら脱出を目指す探索サバイバル要素 ・かわいいドット絵と海中を漂う雰囲気を味わえるBGM",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-11-30",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1da36dd725f3429c755eb95857bfda42bb63ef7f84b4127c6cb0b253ca4c81fc.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d1c9477b052efe89a5abfef824bc2136fc2154af7d063da5a6d69eabe1685131.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/fa71f5b36c4738ac267221f0a6fe90f204529106e8a46a790cf93451ad8a707c.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9b2204b653d5152bd7c05338b9e37b923f82f6e910f17140a79a8901e2e58895.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e0b5028907477c564233f72599744ba56f45cd3439b2043e3175a7c0180df471.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/08963ca0e2fddd3fcff75eff2917055aefe37e87b134394e8bcdae04778e2068.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b516f62bbe94f64c63adc1883bd706fb63469b537b050b702b5d871b5320ff6a.jpg",
+				"name": "いかちゃん プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/afa4822dfb3ae3e1624686603b763b7e9a63a0fcfaa9ac2dcf58aa2d5f0484f9.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "45"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/63ef0d6dadfd945d98c0de610bc9b85ae8a65875119ecafd3d867641e6d733e2.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "45"
+					}
+				]
+			}
+		]
+	}
+}

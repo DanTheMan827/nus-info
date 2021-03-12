@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001019FE00",
+	"eshop_id": "20010000015307",
+	"product_code": "WUP-N-FENP",
+	"name": "Flying Warriors",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 416,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5d905f84cb3a019facd18dc90b6623716ecef7c9e6a5c0aacae354829495ea77.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f7b7ac053ef13dee3291738e9552210a258c6583d152dbb918493a6d2dce7c02.jpg",
+	"data_size": "38994080",
+	"description": "Dans ce classique du jeu d'aventure par Culture Brain, vous incarnez Rick Stalker, un maître de kung-fu qui doit vaincre les Tusk Warriors – des soldats du mal désireux de ressusciter le seigneur démoniaque, Demonyx ! En solo, combattez à travers une série de niveaux en défilement horizontal avec le mode aventure et affrontez vos ennemis en un contre un dans le mode combat. Transformez-vous en guerrier volant pour utiliser vos pouvoirs magiques ou utilisez un allié quand la partie se corse. Essayez-vous également au mode tournoi au cours duquel jusqu'à huit joueurs peuvent s'affronter. Ceci est la version américaine du jeu.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-05-28",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/b684b6a0e499012b3aad81e4152e5a4997735a75a166099168cf46ef8d017ed1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/50ec3833119f35816518f87c7cf32cb00144dd3397542fbb24fb3f442cea807c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d23c96a145c835d796a3df6f6d12136a7a05effafbdf1ec36015066908cbba49.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4b27753e93601b7622fe37d092cb3ec6dadc3fabd1461dd2988ef241053571bf.jpg",
+			"name": "Flying Warriors : vidéo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/740afb2172a2463f3079617644c770bc13065aceb82b3a1f91c0253202758bbb.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "58"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/06c069f22ece8fed350d6c9953c780b98cf54d4e42b4178aed443bb530dd5924.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "58"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101FDE00",
+	"eshop_id": "20010000022547",
+	"product_code": "WUP-P-ALQP",
+	"name": "STEEL LORDS",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1610,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2584718518885dd71c2d4fa06a75c1f72e9a676bd63ba768933b1b65175accd5.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/839c48a643b78270052ffbb7357dcb11bbce269a053f1a47b52200cf6efdf4f4.jpg",
+	"data_size": "273186956",
+	"description": "STEEL LORDS is a game of strategy and fighting, combining elements of a boardgame with elements of a fighting game. The factions of LIGHT and DARK are engaged in battle and you will be in charge of one of them. Play against the AI opponent or another human player. Supports off-TV Play mode.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-06-23",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/61dc5b5dcfe4bfa9fc9bb4640fd0dc5d924773d0f8b705acec8ebe63b7409593.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0c4f2bd0e817e177b2722ca4b83e6dc513588263a662e2ca12099acc1f9a768f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/34093f77fe3e0065fcf85dcaca073929cbaaef08fdb0f8868bb3d0572fbcb7f4.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4be9480afac7669e1849d1e73ab6acc4a46536b290f67a6ce0e9674bfe3502e2.jpg",
+			"name": "STEEL LORDS: Vídeo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/deb3ea0efc08bac3ef92c7931862eb49fa49677cde1701d051ae3bc0aa6f93c3.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "68"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5ebd066d9d943af4d043a2e342c397a2b36851cc795b731379ea2fbdcd6d6120.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "68"
+				}
+			]
+		}
+	]
+}

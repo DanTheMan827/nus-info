@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001018B600",
+		"eshop_id": "20010000010069",
+		"product_code": "WUP-N-FD7J",
+		"name": "すごろクエスト ダイスの戦士たち",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 19,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0d67355c36e37c9f873fc59f1a425fdc678b8ddd45156915369ad5a11028dc8c.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7bd3c7f8d1bc099d920fbfc264d326ea00cb28c41aed7fd94f1d6777c5a03492.jpg",
+		"data_size": "38863008",
+		"description": "このソフトは、1991年に発売されたファミリーコンピュータ用のロールプレイングゲームです。 ファイターやエルフなど、それぞれ違う特徴を持った4人のキャラクターから1人を選び、いろいろな国の困りごとを解決するため冒険に出発します。すごろく風のマップシーンではダイスを振って進み、止まったマスによって敵との戦闘やパワーアップなどのイベントが発生。敵とのバトルシーンでは、ダイスを投げ合い、数の大きい方が攻撃権を得ます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-06-03",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/3daab98706478266482e2a3b6f5d9ea7d27544d8d6edac15dd1a204017b83104.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/0ab4f16162588cbec45243e9c401cfb35f07e88595ff32f4b6cafa9e58cb59d6.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/3d11f2275a16ec7f3aaa34991e17799d7348a46378a144dc9e7f47e98f15ab54.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/38687a7d16f83038d1328e6336d74b8f80f524627f06c5db3db0f65bc669639e.jpg",
+				"name": "すごろクエスト ダイスの戦士たち プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3f576a220cff6e20649e5ebb458166b4c4711cb3125037cf483be3f2959d3571.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "79"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0bab38cdb46eff9cbc73e0712ab4f857e6091a61de0ffbe0c130d4264b4fd4a3.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "79"
+					}
+				]
+			}
+		]
+	}
+}

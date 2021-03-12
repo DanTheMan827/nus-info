@@ -1,0 +1,52 @@
+{
+	"title_id": "00040000000B4700",
+	"eshop_id": "50010000011982",
+	"product_code": "CTR-N-JEBJ",
+	"name": "どこでも本屋さん",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 943,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/562955294731c2d364460eb432206836951ded7d4d441578a494d492c4869308.jpg",
+	"data_size": "74562404",
+	"description": "『どこでも本屋さん』は本をダウンロード購入して読むことができる電子書籍サービスです。ダウンロードした本はSDカードに保存されるので、いつでも、どこでも読むことができます。 本を読めるだけではなく、すれちがい通信を利用した「マンガプロフ」や、いつの間に通信を利用して定期的に無料のお試し作品をダウンロードできる「週刊いつログ。」など、さまざまな機能で新しい本の世界を提供します。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2012-12-12",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/4f708b9283879bbdf63c97852273b0a38779b7c7153d2763bb62504ba1d0ca81.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8a0a023f21a8e2f9332107aaa6fff1ee3a857267e3eb938c9d57113115ae20a3.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/92109fc3bd0cc7a6bc51929afd866b4dde532c7a707126f424a3c5fadf02eade.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/01246b0a74d032c1760ed6d790270f2cdb3aaa8d8c8fe404097ae2b534ba86d9.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/92ec06cf454a88353df33b11185683d96f96f587cc8e19a46e99e1afadd6cab6.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/edc10fbae63cdb99ed2555d6ddc51cc7897ab79be8fb5207ac8323f59245b00a.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1f0e5b8fcaa13ef4299444dae68c05d80f92239e58288b97f1c7448c6534e7aa.jpg",
+			"name": "どこでも本屋さん 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/761a8cde822b9b2d6b6f88ea5d48b5f204820d2a7c940326a9238baa2991d85a.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				}
+			]
+		}
+	]
+}

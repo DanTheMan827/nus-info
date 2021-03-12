@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010129600",
+		"eshop_id": "20010000000783",
+		"product_code": "WUP-N-SPGJ",
+		"name": "Wii U Panorama View 予告編",
+		"platform": 124,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/62089003ebe613373430e45ac39beb5cb56300115e03cdbd9a4c6cd9ee8450e5.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5fa8b04d43b9dda2a46bc79fc462f5cb2e6e4ab2a7d88b3080e062d0fbde0c5d.jpg",
+		"data_size": "150405240",
+		"description": "普段見ることのできない景色や、さまざまなシチュエーションを映像で疑似体験。Wii U GamePadを操作することで周囲360度を見渡せ、まるで自分がそこにいるかのような臨場感を味わうことができます。本ソフトは、配信中のWii U Panorama View 「ロンドンバスでいこう」「京の町ゆく人力車」「鳥の飛行隊」「リオでカーニバル!」をダイジェストにしてご紹介する予告編です。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-04-27",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/335d2ef406bbdc04f008f743a5ffd8348f4473867b6ccae7c9a899cfb5d2502a.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/ade0563cb022f7ecfe98032f0798505ae0ac7209d7e268549251503a2ba24964.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/d72ac93ef3e2b4eb0931cef835fa7d01e36024b96f7fee5e12f85f0653a7bd28.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7112ad000b7842e33fb11f98c6c59c4d85201da41d4b4f7537927ddbfc9e276e.jpg",
+				"name": "Wii U Panorama View 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6f534bd6be63bccd11b23557512aa60f2e78fec313d697ffb3018c06ff76a3da.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "103"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f8708cdae7154a29c6fa4e8586948e7a6e6ae511a54ee9cc1d7dd83b1d44c783.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "103"
+					}
+				]
+			}
+		]
+	}
+}

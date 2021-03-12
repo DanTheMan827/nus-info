@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010108400",
+	"eshop_id": "20010000001044",
+	"product_code": "WUP-N-FAHJ",
+	"name": "スーパーマリオUSA ",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e034aaaccb4ae4821d2c6c3756f5c3d2b438884fdb84763ce64519b61f9c45b6.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3d963ac017ec83d37bfa046d85741284edf6aace1d3759668ae68f06bf1b0d18.jpg",
+	"data_size": "36601996",
+	"description": "このソフトは1992年に日本で発売されたファミリーコンピュータ用のアクションゲームです。 夢に出てきた世界“サブコン”にやってきたマリオたち。野菜を引き抜いて敵に投げたり、魔法の薬を使って裏画面へ移動したりと、不思議な冒険に挑みます。選べるキャラクターはマリオ･ルイージ･キノピオ･ピーチ姫の4人。各キャラクターでジャンプ力やものを持ち上げる速さなどが異なります。 ",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-03-19",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/f8cd3f0b6765edb8b1e093dad7a97d02bc6c89b6ed72de7031d3067038f9ff0a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2a6d1fc64623823e2384fc617df7ae6b783c69100bd301d21a71a91aff4daf66.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/12409714aabb3cf7143acb9921f586698731de701e5b1ac110684f4db3c3dc69.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e2b656f34af7c9360485fafca2c62b0951a89f8c09908bc70b82f644e84bcc27.jpg",
+			"name": "スーパーマリオUSA プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bc76db2cad713c01416b266a4d33a8a19ad28f5d345fe39cb56c8fff8784d287.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3c2567bce3dab6c150bc56b452ddfc2c1828a1a15097cd61aafd4bd950258c3f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				}
+			]
+		}
+	]
+}

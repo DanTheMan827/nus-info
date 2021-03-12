@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010129000",
+	"eshop_id": "20010000002184",
+	"product_code": "WUP-N-WDKE",
+	"name": "DuckTales: Remastered",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 41,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8af743fcf8ce1faa89d994c824a5409722f9a48fa4b346748f8f4cc3290772bc.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/34c6e5d6a6b62a20887e86b0e59b6a98d811a171a9f0dc948aa6be0bea34f49b.jpg",
+	"data_size": "834338996",
+	"description": "DuckTales: Remastered is a hand-crafted, beautiful reimagining of one of the most cherished 8-bit titles of all time. Embark on an authentic DuckTales adventure, as Scrooge McDuck and his three nephews; Huey, Dewey and Louie travel to exotic locations throughout the world in their quest to retrieve the five Legendary Treasures. Go back to one of the golden ages of gaming, but now refined with a level of detail that will please the most devoted Disney or retro Capcom fan, alike. Featuring hand-drawn animated sprites, authentic Disney character voices talent and richly painted level backgrounds from the classic cartoon TV series, Scrooge McDuck and family come to life like never before. The gameplay retains the authenticity of its 8-bit predecessor, simple and fun, with slight modifications to improve gameplay flow and design.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-08-13",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/796b37261af3ffabeaa2d39ff6f204a41acd6ee75a51f7221c67fc7570fafc51.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2cca4f9e7de2ac51e82c965c0e8e2f9d8b4a916d9b902396976d22b30bbac305.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/68458e3cb2d8a572c9cdc09bc0e96894538b6fe265170fdc58589ba318dc391d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/721f06e3aa481913983cb4c1e5ce36e7ef1139df2fa1c79c59fe6e8dfa551ec7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e377ee80eed36604863ae2cfbd9daabcf43c57b4df8d82666b2f24cf1c5b3f06.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/600217e2e76bb20c680528c3134659e62f9c941087808024c7e1a9b339c490cc.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3e38b092fb29454e23e5c34f01b51641dfbb27c2b6ff4f60bd338c23bd9c9fe8.jpg",
+			"name": "DuckTales: Remastered Trailer ",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/684dca2c1624d69b8ea71446cfeb4d12066f0d1abe375c1b8e38500e4b56fc4a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "75"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/676ba151320c6f1c1eb748ef97de7eb40ff983d7755644562ebbaa96ee48fbfb.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "75"
+				}
+			]
+		}
+	]
+}

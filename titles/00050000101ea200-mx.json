@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101EA200",
+	"eshop_id": "20010000022168",
+	"product_code": "WUP-N-BUTE",
+	"name": "The Book of Unwritten Tales 2",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 368,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d139d9d899ad31f341117ac56c02c5fbef8d8944c9185b66d81b821152c31374.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a337578f1235a608d09f63847a339515ef082ab24502b3ffe2ac2e175ad03dd3.jpg",
+	"data_size": "8757740460",
+	"description": "Una nueva aventura de KING Art, creadores de The Book of Unwritten Tales, The Critter Chronicles y The Raven – Legacy of a Master Thief. Una historia de fantasía con la que podrás pasarte más de 20 horas haciendo clic. Conserva su característico sentido del humor e incluye encantadoras parodias de sus favoritos mundos de fantasía. Cuenta con cientos de rompecabezas extraños, pero con mucha lógica. Jugabilidad multipersonaje, ¡no falla! Ofrece una mezcla de personajes nuevos y veteranos, a cuál más estrafalario. La tecnología de proyección de mapeo aúna el mérito del 2D y la técnica y el estilo 3D. Su épica banda sonora contiene todos los clásicos y muchas composiciones nuevas. Vuelve a ponerte en la piel de los cuatro personajes jugables: Wilbur, Nate, Ivo y Critter.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2016-06-07",
+			"retail": "TBD"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/e7f6381477d776a779673ed737c571d7a7ea22a7d382ca40cf838eb02260d90b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6ff4be9eaf0ab3aa315fb5f0a9bbaf59e438a50c49b7c59ad23cd7afc25ace9c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/baa9b31ad1793a804473ed8aa6a8ebb63c1d55bf9d36e2cd852951709012ea2e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a54e9f70b7549b3a8921f7858180afbe5cbd8920fbc5344c3196e299a4f80e3c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5f2aaaf2670fa131fa21c49f234b7c784c0daf1ec9dcb4a5f39a311a0068c62a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2b8650d715b4a7e6106247799408e879cb83f229870fbcd125e3c552111a4674.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/59936f8296d9db4a93522c7694ba2aee9f95060d831577bd70225c309acc958d.jpg",
+			"name": "Avance para lanzamiento The Book of Unwritten Tales 2",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8e691844b320613f065eb7f32dd3d29e492cd304f2c0346a02bf59f414f228fc.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "118"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/128fcfd90169b0399360df1bba59ee493d21808069ec8ae9a4070093012cb903.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "118"
+				}
+			]
+		}
+	]
+}

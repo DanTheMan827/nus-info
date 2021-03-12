@@ -1,0 +1,69 @@
+{
+	"JP": {
+		"title_id": "000500001010EA00",
+		"eshop_id": "20010000000041",
+		"product_code": "WUP-N-AHBJ",
+		"name": "無双OROCHI2 Hyper",
+		"platform": 125,
+		"platform_device": "WUP",
+		"publisher": 267,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4f226d59e0206098cb8abbceb157d950c98abf6db0f36ec4b76c81fb7a3a97c0.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/31e6232002b390a562fb1d9c7b4ca7bfa5b8dedd587f1e4ccfd0eb87c3e2e5d5.jpg",
+		"data_size": "16721380828",
+		"description": "『真･三國無双』と『戦国無双』両シリーズの英傑たちが活躍するオリジナルストーリーで、一騎当千の爽快アクションが味わえるタクティカルアクションゲーム。新キャラクターの登場や、対戦とカードバトルの要素を融合した新モードも搭載し、本作ならではの遊びをWii Uで楽しめます。",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2012-12-08",
+				"retail": "2012-12-08"
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/8f6857b42a43b88ac57d31e3da245d007bc185a4d3c394791f2cff81b4b05bf8.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/67b26dce7b5cc7900715af107cd5d83f6ad164414de37d9c417a312093e504d1.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/3b65ec49484336dfef63fcaff92b69c864c0290a98fe02d2750456eee11fa443.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d73488aa0438b37de441907f4fe106325e16201ed74c36f3eadf127895e88dd2.jpg",
+				"name": "無双OROCHI2 Hyper 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6962979ab627c5c01c03c14387e8cfa7eeeb26d37a3382830a7ff19d332bbebf.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "157"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/059ee75ab263df58a02712dd68c1f2d14ff0d94803b0547b645c394c5f85e2c4.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "157"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/33b29db1c4b306be8f1a6e302d3ac91811851960084f144df5b611cac891dfa2.jpg",
+				"name": "無双OROCHI2 Hyper TVCM",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c70b50da1ed3f1f85ef9a99278a1b0d87187ae91e941e0e8b8d258062f1212eb.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "15"
+					}
+				]
+			}
+		]
+	}
+}

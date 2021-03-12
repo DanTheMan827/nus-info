@@ -1,0 +1,79 @@
+{
+	"title_id": "000500001012B500",
+	"eshop_id": "20010000000567",
+	"product_code": "WUP-P-WCVP",
+	"name": "The Cave",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 231,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8dca0a1ea7f969bc707ce2f0a9ab8e0dd017e3d165dfe5c5f1165a917fa0853e.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/1cde2ae4a37eea973027f18518d07d9477028963cf64c443f74b51cc57d26653.jpg",
+	"data_size": "1438482672",
+	"description": "Stelle aus sieben Abenteurern mit unterschiedlichen Persönlichkeiten und Hintergrundgeschichten ein Team aus drei Protagonisten zusammen und steige hinab in geheimnisvolle Tiefen, um dort fantastische Orte zu erkunden. Entdecke einen unterirdischen Vergnügungspark, ein mittelalterliches Schloss und eine fertig bestückte und abschussbereite Nuklearrakete. Die Höhle erwartet dich.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-01-23",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/2819b0e4aaf84930df005db911238f0f1773b9f1f63447c603476e6e8c56eccb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/740bc67a4e74bb89cb2f1ce4968092f98818f46e472ab12ff5a6193d96c1c26e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1442c90767c5dc13cda2466731ae8749f3a177426b6bc3c3841b07a8725c8489.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/468a853609a34aa257b2449a8c2ee04c105910b0f4783675d0ee1d0630f43e79.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/697a13e57f0f2b23d6eb9ce2977660a096305532adc651cd12c30d7f3ce43546.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5065f40752f2eca7afa35cb3b3c0d3f5745b7cc1131b62f4725e28ea2978e7a2.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/be4f3e2270f2b71496c1bf51b250202e8bb92da14b99acd57af01c3f73bd1f16.jpg",
+			"name": "The Cave: Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b5c5ba1afb30827c2e5dce6725fa113259098a94edb3581d0516e5766bf87cd4.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "90"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f17215933dcb76fe199b5f4789edc37104df4ae3f7fb92a65ecf458bd45cff22.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "90"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2c37ae97ac62ee056536e746b937f82d8528ca3ab8a57cbb8ea92a4017938c5a.jpg",
+			"name": "The Cave: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/205668017e138cb4acb3d6feb068a5cb8d4c476789358a07b6e6f9a2a7783144.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "130"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/589609ef49b57afae5a247a4848f24f8a08dd29066a3f4f5df97c3f63b48a047.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "130"
+				}
+			]
+		}
+	]
+}

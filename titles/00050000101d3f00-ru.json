@@ -1,0 +1,103 @@
+{
+	"title_id": "00050000101D3F00",
+	"eshop_id": "20010000018227",
+	"product_code": "WUP-P-AL5Z",
+	"name": "Project Zero™: Maiden of Black Water - демоверсия",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/24458d577a4368a7f03e5b3d879cd5b18b9019d1753530f872a407b733568201.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6b0ea04a06b933fca7edcd4a2a2c3fdd3eff2384a5fb8f382236ac3c959bd83b.jpg",
+	"data_size": "6653510272",
+	"description": "В этом ужастике для Wii U контроллер Wii U GamePad становится камерой-обскурой, таинственным артефактом, позволяющим фотографировать призраков. С ее помощью игрокам предстоит отбиваться от нападающих духов и раскрыть загадку жуткой горы Хиками. В демоверсии Project Zero: Maiden of Black Water вы сможете ознакомиться с прологом игры и первыми двумя главами совершенно бесплатно, прежде чем принять решение о покупке остальных глав.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-10-30",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/c186fcb8805a53bebbf108a9ddfb6871a648b356cf216f0f206a29ec988226bb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/cd747483f6560794bf62723128c45954aefb47fdb4818d9d62c800377e18a4fe.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/62662291cb1c043633e51a61e40e138fe056907541ed5c56f6709f21fef10de0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4003626063db013295a1a1d4c5f12b416fe73b5754d21c78c8191eb66170b61a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/635214ffd517f50cfee480d55bc3986f20ba7abe2a89e75071c8a3d84d805930.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/724682133ee3910541c46c0e23c424310b747d223aca194bf2013a756d7dfe1c.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5252376ee1649ad4d01d7ce6b99a58c103ce4a12a6cbebac505ea7604e04032e.jpg",
+			"name": "Project Zero: Maiden of Black Water: трейлер к выходу игры",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/617795929ae2b490b11dd71e771a3055503b42948de01ee5e5e971f805718c42.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "135"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/369a8034e610086d35174ee9d76b17a5b7d6e9262a3777cc2479d9affe619285.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "135"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5252376ee1649ad4d01d7ce6b99a58c103ce4a12a6cbebac505ea7604e04032e.jpg",
+			"name": "Project Zero: Maiden of Black Water: трейлер (E3 2015)",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f72855826a187f42ecf00aa49c514109f500fef92f53fde86257e6214f96c524.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "83"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/93a0445f817ee6fb3892a61d4f0dfac792b81bc755ac0c7a4f7ce734639f9d2f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "83"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5252376ee1649ad4d01d7ce6b99a58c103ce4a12a6cbebac505ea7604e04032e.jpg",
+			"name": "Project Zero: Maiden of Black Water: ограниченного издания ",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1da0dfd0ac767243b721cf092d266927405103f15cfcfb07955a90d5cdc83b54.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "29"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f8f11b17dd034eb595b519492f745665c3feef44940981c03c4a2bead4da7865.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "29"
+				}
+			]
+		}
+	]
+}

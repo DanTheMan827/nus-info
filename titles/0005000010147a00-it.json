@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010147A00",
+	"eshop_id": "20010000003984",
+	"product_code": "WUP-P-AC2P",
+	"name": "Monster High™ 13 Desideri",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 1186,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/95a465c65a0cea5267fdbc9802fe6b9d14ab9b8e9cd68996bf735923178f9552.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a17efa99d459cb7eef96a45d3ea905a84aa884d632fc680c0162394cb7bd435f.jpg",
+	"data_size": "4133683700",
+	"description": "Dipendera da te aiutare Frankie Stein e le sue mostramiche a rintracciare i 13 frammenti dello specchio magico in grado di rimettere le cose a loro posto – prima che sia troppo tardi!",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-11-21",
+			"retail": "2013-11-22"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/ad4c3b9b1cf5dc1fe632085cfb6141fc82951551f60308ef31636e1ea047c58d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/dc806e1b083b913d24341f9753da3d8c7dd77c05410e19ee661c91aa1b5944ea.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5df969143a16fa779220a1cc5cd11f96b200595d6054b5552fa3ccfb9dcb7250.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/dfebb4a4024780f8cb3a6aebf10f41f837ec3df953779aa8063bbda2cd2c2d19.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/977d03a2b6ca5a84855897aceb8da92e961cc0600cd818ff5b080bdd9af61e64.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e25b97320ebc6dbc7ac38f67e48d8a36302ab8e8add2c0487bbb8ec3c9c83496.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/81e92ed2c429e6c51da2c6bbd8463279ad619ee566daeac2295fa1e361da7d35.jpg",
+			"name": "Monster High 13 Desideri",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f32260015b8048aef526a10cd0bb1864277fdf3290d2121f0496d2065080b28b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b7b49480da4663eb9abb077e75fc84d976b3cb327dc7d8f4ab57764b7e6bbaa6.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101C6000",
+	"eshop_id": "20010000021609",
+	"product_code": "WUP-P-BDPP",
+	"name": "Epic Dumpster Bear",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1428,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/eeb44677d2d6f63fea1bc027fdc05bc2edf5965381e1889ebf29a1455b6b5a51.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/18e67f518640d064ff3a696e450f670b4a6cc0f7087a388b0717abe1665fb70b.jpg",
+	"data_size": "1204748508",
+	"description": "Une organisation malfaisante a détruit sa forêt, le forçant à faire les poubelles pour survivre. C'est maintenant son tour de réduire les ordures en poussière.” Epic Dumpster Bear est un jeu de plateforme bourré d'action inspiré des classiques de l'ère 16 bits, dans lequel vous incarnez un ours affamé et déterminé à prendre sa revanche. Plus de 70 niveaux remplis d'embûches, de boss difficiles à battre, et de passages secrets à découvrir. Plus de 35 tampons Miiverse™ déblocables et des niveaux bonus à travers le jeu entier qui exploitent à fond les possibilités de la Wii U™ et de sa manette.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-04-07",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/69b102de94bd3c210a8f0d18cb4abab357cba6174a3050fb1a7421f645b5a97e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d2330daa7e0f4e240daefbb2616de669539741d87762de8541ae6f7d7a347f83.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/47e4a2f37adae2ba3bce9b21189116e7c6a23c3052efa21b6fda8255d4b2ff60.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/73ecea8404e9ee31542548ec9cd0e92be101e9bf461cda3751b1a03cfe5bb419.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/96e39420ee5b6b343684541e2371a887601cf4559726374237c97e813776be1b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c0213855773fe596182421921c45a722b4a91c7b36b103e8455851535bda3404.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cba7bf64c69e4e45b86141c9729f0f995811e82a016ac5252ff60c9ec9021a45.jpg",
+			"name": "Epic Dumpster Bear : vidéo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6c078dbb3a47d38408f6b0fe9863f89b3225a30a4ce417f86d75b8cfbfda8a66.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "64"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4cf43d3146906333753ee2cccb83964f1e260a5cf3a9dad72a15af42611b0e6b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "64"
+				}
+			]
+		}
+	]
+}

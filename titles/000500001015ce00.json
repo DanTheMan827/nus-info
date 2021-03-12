@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001015CE00",
+		"eshop_id": "20010000016648",
+		"product_code": "WUP-N-PN3J",
+		"name": "ダンジョンエクスプローラー",
+		"platform": 166,
+		"platform_device": "WUP",
+		"publisher": 149,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c4087a3cf4d14441655f8075c20e583e3604d6543ad0008f0e93ab53c5794f6b.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/978dc06e880c1c5de22531ae4d2503873aaf7d50edc77367ba24aa69cd70f64d.jpg",
+		"data_size": "83984524",
+		"description": "地下迷宮を舞台にしたアクションRPG。ダンジョン内に仕掛けられたトラップを攻略し、次々と現れる敵を倒します。 キャラクターはファイター、シーフ、ウォーロック、ウイッチ、バード、ビショップ、エルフ、ドワーフの8種類から選択可能で、使える魔法や攻撃力、移動能力が異なります。 それぞれの特性や敵の弱点をうまく利用することがダンジョン攻略のポイント。最大5人まで遊べる多人数プレイではチームワークが勝利のカギです。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-07-22",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/5e5631350dd992c7ac6622e21ef96f19404e7a0e3aaa1938e239675f210dd19e.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/00e18433bd9de22fe0aea854167bb723d673e44919bc6328522ad5c3e352ff3c.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/b789f4c335958ccf843db90b8987182fd57759a4f7bdcde5959ff2a7df71d740.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1027fd8830fd49c6ff9b96241b09935d5434088dac650e6e12886229c47a51d2.jpg",
+				"name": "ダンジョンエクスプローラー プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/982828715120cb3f60696345fcddbcbf54618e656cbaa5d6e3657fbf1dbe5751.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "57"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8bdeb3d77f02479399a10faff0a78e508bfd5e651b3b09cdc0f42d6f3588c249.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "57"
+					}
+				]
+			}
+		]
+	}
+}

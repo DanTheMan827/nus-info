@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "00040000000FB200",
+		"eshop_id": "50010000015893",
+		"product_code": "CTR-N-BNBJ",
+		"name": "信長の野望",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 267,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5f2d0660ad6bb7adc4a129e32ba37d605eaa5b38aeac511d6e30c223a38c6c35.jpg",
+		"data_size": "359164772",
+		"description": "歴史シミュレーションゲームの金字塔、「信長の野望」シリーズがニンテンドー3DSで登場。今なお高い人気を誇る『武将風雲録』をベースに、「群雄争覇」モードや「史実武将編集」、通信機能などを加えてグレードアップ。総勢800名の登場武将、シナリオ全10本とデータもさらに充実。戦国大名の1人となって天下統一を目指そう!",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2013-09-19",
+				"retail": "2013-09-19"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3474550ce47f3bca8577b474517127b4fc4e718f987238a5a6337e0916a7a090.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e6ea7a3ccf3c6ed8a900f771fd636c5432f0b7c278b673085a33e17371e38201.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/46429e06f3d9d1e74b62313282ecd52cf5faa736cf23fe1bf80ee96db4a4b58f.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9ef652afa9cade7a6d09c039890c55a421b65a202a25a7b424f92ccf8384caf7.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2e8fd998ba3b70f2ed998b0f2a1c3a2aaf2b81fdd892c2c871752d60f870d15b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/34b9862ea22579d95039dc4ccc828b7c17c7bf7658df3743f643bbe3bb966695.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/18f9382c9d139f48f6c66578cdf7edbe60302df6d03db796b7b4871807045f6f.jpg",
+				"name": "信長の野望 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1a323b066104f1592e2b83e9e1012c1e716b63c4468064b25bb27affb2fac13a.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "176"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bef5e08d3531c1fe585f7f71f3e291384becea11a3cde9717f052fcaf75aa886.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "176"
+					}
+				]
+			}
+		]
+	}
+}

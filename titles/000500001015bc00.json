@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001015BC00",
+		"eshop_id": "20010000007966",
+		"product_code": "WUP-N-PNHJ",
+		"name": "PC原人3 ",
+		"platform": 166,
+		"platform_device": "WUP",
+		"publisher": 149,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3d18f3e46ef683f6d38ae634f4201eece7c9be66b5e85236ccff1e0f1604b448.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5ad0dc97c29b7a66707f229e71a80dfb1b1e1e5f7b8fd2d1f3a0f00de727fd22.jpg",
+		"data_size": "85426316",
+		"description": "敵の攻撃を避けながら、頭突きで敵を倒していく横スクロールアクションゲーム『PC原人』シリーズの第3弾。毎度こりない悪の親玉「キングタマゴドンIII世」のたくらみに気づいたPC原人が「恐竜王国」の平和を守るために3度立ち向かいます。 今回の恐竜王国は全7ラウンド。随所に遊び心満載な仕掛けが設けられ、可愛くてコミカルな敵キャラたちが登場します。8種類あるボーナスステージは「プチフラワー」を入手するか、各ステージのボスを倒し「ニコニコチップ」16個分と交換することでプレイ可能。ラウンド中に出現する赤と青の「キャンディー」は原人のサイズを変化させる新アイテムで、大きさを変えることでステージ上の難関ポイントを突破したり取りにくい1UPを入手することができます。 「ボンク(頭突き)」や「三角跳び」のテクニックや「肉」や「ばね花」も前作から引き続き健在で、プレイヤーを楽しませてくれます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-06-25",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/5b6632ce116c8bacea0c61fdb877f5e45b657caef8740293d5d58b16c01a04b8.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/57f07361b1de9a3db96d51029a93ea529e61f78d4c0a620f128ed20ac239c771.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/dc7437cdf4de502456201975ba7c713b3daf19e189dc420c4df29e9b871e45cd.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e6b2f3e7be157f7d420c2240c1d1f2c39cbc3b059f20be0be2e3960b6cb7207d.jpg",
+				"name": "PC原人3 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/270dc257d3793a7ae900bba0b15faea50a353e7126b0d5a10f9982886c8bf4b8.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a3a507490ff9752112543bc58f608e9c1d3f5a13d8fac664ef5c8a35936a9e72.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					}
+				]
+			}
+		]
+	}
+}

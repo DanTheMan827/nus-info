@@ -1,0 +1,53 @@
+{
+	"title_id": "0005000010205700",
+	"eshop_id": "20010000024390",
+	"product_code": "WUP-N-BWBE",
+	"name": "Double Breakout",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1610,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1e7f353cf1503f06efda1d413de1622c9776ff59874c3cb4732bc95efb0c1035.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3e6be72d1ea65de5d333014335f4702b7e1c3e5d2656b18271acd35aff0873d1.jpg",
+	"data_size": "143687820",
+	"description": "Double Breakout is a breakout game for one or two players combining game mechanics from a traditional breakout game and a pong game. Play against the computer opponent aiming for a high score or compete against a friend through 20 exciting levels. Supports Off-TV Play mode.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-09-22",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/4c084cad648e8cb1274fa9a49dbecdab4cc7613bebc01e215ce9570632b88e62.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2474ab4a8919042fa16103057c9280a102c6262957c1a0ce1de2a0d1db33d5fc.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7e4446b6d93aeb013586010c13eafe890b55b6d0a6f266d06024143a4008ba04.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8761d68819ce09220f390ba06ce5978fc084a21a6ab0eb39190a1d35d2475a1b.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bc97014975f70a11587a94255831229a96796792be5a95c329ffe078ba8054d7.jpg",
+			"name": "Double Breakout Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/baa6ff43455e42a890f4b47f11ad4429b453eb053cf18ec3a557fc99d6b68ba6.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "55"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2dcb3230f58158b23803d2dbc6ba41baf61052d82f60dc5321c58ee93cc4473c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "55"
+				}
+			]
+		}
+	]
+}

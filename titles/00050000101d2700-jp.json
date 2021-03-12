@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101D2700",
+	"eshop_id": "20010000023267",
+	"product_code": "WUP-N-PDMJ",
+	"name": "沈黙の遺跡 ～エストポリス外伝～",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 246,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7d33d9fe421566e20442cb72cc326f23acd405759395948f253506ffb50a0755.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6131c44d721b2cb3c5a8615c08bc5048e435482e4de3c0716174a19f4ecf8f39.jpg",
+	"data_size": "74219660",
+	"description": "このソフトは、2002年に発売されたゲームボーイアドバンス用のロールプレイングゲームです。 主人公は元気で好奇心旺盛な少年。父はトレジャーハンターとして古の宝を求めて旅立ったまま行方知れずで、母親と二人暮らしをしています。14歳になった春、彼はハンター資格を取るために幼なじみのトーマとともに出かけていきます。 モンスターをディスクで捕まえることによって仲間にでき、仲間になった「ディスクモンスター」はプレイヤーと合体する「インストール」が可能になります。合体したプレイヤーは、強力な技の使える人系モンスターとなります。 入るたびに形の変わる自動生成ダンジョン、「古の洞窟」は深ければ深いほど貴重なレアアイテムが眠っていますが、そこにはさまざまな仕掛けや強い敵が待ち受けています。「斬る、飛ぶ、投げる」などのアクション「ステップムーブシステム」で、ダンジョンの仕掛けを解きながら進みましょう。 ※このソフトは当時の仕様のままです。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-08-17",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/e928fa8bb705e687107593f769e8bdca4e2f5f42da7571c2f4c092786e040f9b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0674c73f7281a93374f9aa9675b8f20c6071293d2e24beb8dba421a62bdd77e3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5b360f8f37cbedb4e8e5e98ee13071d0934dc5313c13145755c1112715c3005e.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/68dc8b4a923c18e38c74607bc9ab089ba1ece29757315b6d019c1e9c1df803fb.jpg",
+			"name": "沈黙の遺跡 ～エストポリス外伝～ プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4f1f616df66453a557f740921f2143061b9cd602300205a6c9a8231d3907359c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "78"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/379caf7dab9792b8c818f044b99a95ac4116aa94087093b716c9ce8e13e6c4c4.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "78"
+				}
+			]
+		}
+	]
+}

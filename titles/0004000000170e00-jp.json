@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000170E00",
+	"eshop_id": "50010000038656",
+	"product_code": "CTR-N-RCNA",
+	"name": "ポケットモンスター 青",
+	"platform": 21,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/1101bfdd2280f8f2be6fe10a9191fface6ca636ef2c50a360f68ec7e2a719e8a.jpg",
+	"data_size": "9726820",
+	"description": "このソフトは、1996年に発売されたゲームボーイ用のロールプレイングゲームです。 ポケットモンスター（ポケモン）の世界へようこそ！ モンスターボールでつかまえたポケモンは、友達とワイヤレス通信で交換、対戦が可能！ なんとポケモンは全部で150種類！ すべてのポケモンに遭遇し、ポケモン図鑑の完成をめざそう！ ※当時のパッケージ裏面に記載された文章をもとにしています。 ●このソフトは「青」バージョンです。「赤」「緑」「ピカチュウ」バージョンとは、「ポケモンの出現率」や「出現するポケモンの種類」が異なります。 ●「赤」「緑」「青」「ピカチュウ」バージョンとの通信・対戦・交換ができます。 ※ローカル通信による交換・対戦以外の機能や周辺機器には対応していません。 ●ニンテンドー3DSダウンロードソフト『ポケモンバンク』『ポケムーバー』を利用して、『ポケットモンスター 赤・緑・青・ピカチュウ』から、ニンテンドー3DSソフト『ポケットモンスター サン』『ポケットモンスター ムーン』へポケモンを連れていくことができます。 くわしくはポケットモンスター公式サイトをご確認ください。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-02-27",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/def9eb3d474b7df787d33c46408bb40026eae3dcf7d8fe751708786e6a006854.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/9f989ef90b121e43f777e77bd2e1aa29465b49458c40795d55b3c728c7f3bc94.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/58fcc953a7289a99f8613c0f65a7cec7049069b272ac7e349c4692df2abd54a1.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9ba52a58042cba298d916c57be37d30d98e599ca43c80e2a11d22f44f20edc35.jpg",
+			"name": "ポケットモンスター 赤･緑･青･ ピカチュウ ダイジェスト映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/37ff982c907527783899852718727c2c2fb8d25e62f1ea3513fe31020562c033.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "305"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cb0566a263de0efff65df65c58017a67606bc559b282f739969af1430f05293b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "305"
+				}
+			]
+		}
+	]
+}

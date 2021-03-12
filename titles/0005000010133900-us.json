@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010133900",
+	"eshop_id": "20010000001967",
+	"product_code": "WUP-N-ATBE",
+	"name": "Turbo: Super Stunt Squad™",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 57,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/eb33c9c9c0398fb2c3ad8ce8e838116f0626b05898b1ef025e2ab0c638898345.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6accd3bba41d573d1057993fc9def3a1b77da6788afaa4bc01ace5748f839ed5.jpg",
+	"data_size": "1505263856",
+	"description": "Turbo: Super Stunt Squad is a high-velocity action game featuring the super-charged crew of characters from the upcoming film. Each playable character has their own signature street style and tricked-out skills which will come in handy when showing-off and earning respect with super-cool stunt moves. Expert skills will also prove useful to earn power-ups, customize your character, win competitive challenges and discover shortcuts in the dynamic larger-than-life environments of Turbo's world.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-07-16",
+			"retail": "2013-07-16"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/441284d288161ce08215e173be85d4bcd740bcd0107847c1d889a9e11c7d56f6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d4f024ee8d000d3d2997278d3a7e6f3204ef32700bc12090e5cf89a24afbe8d3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5d1b1fbbe1be6c560f589276f239182fa66587966a7439393d4e46540719854e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9de92c8926e8fd974a92e70c4b7b70e7280403e61a25280a4249998aadebb612.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7bfb53739f572afd8af7a6cb2d32c4fee4f5f34b44aa94eba17ef276de06ac96.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5883813952e7013b9b2d2abd8384068314635884b25baa360563bd9eba9b8b82.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/27bdea24f91adcb55582c2f357323ddfedc0db8ca0b7cf69b8e9f8e394f0483b.jpg",
+			"name": "Turbo: Super Stunt Squad Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d6b8a4772ee8566a6ece97c53583517495e8ba7873e41365922ed17a9a68d742.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2db6dce3f15402f1ca4f2b48ee05f1cd91ffe6e6ab0801476bb9545103c5ddb6.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				}
+			]
+		}
+	]
+}

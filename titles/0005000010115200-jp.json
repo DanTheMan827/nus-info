@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010115200",
+	"eshop_id": "20010000001045",
+	"product_code": "WUP-N-JANJ",
+	"name": "星のカービィ3",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/eaab2e67155e6051b6ff6377b68bc565898649b314c486f3d0547a8ab436af12.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/1e16563f62df954a660b83142a1ad3190f26e24febea144c006fda09a9a1bdc0.jpg",
+	"data_size": "42696844",
+	"description": "このソフトは、1998年に発売されたスーパーファミコン用のアクションゲームです。 プププランドを襲った「邪悪な雲」を追い払うため、カービィとグーイが冒険に旅立ちます。敵を吸い込んで飲み込むことで、「ストーン」や「アイス」などの能力が使えるようになるコピー能力は本作でも健在。使いこなせば、強敵とも互角に戦えるようになります。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-05-08",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/0dc3410a7bb4f0dd61dc1ec24ac250d0241d94857cab952be04a3c05699fea87.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ca206ed3c5a9f1700cb1dd6aeef9cfdc2ff237d6ab86df1861dc3c2d12a52af6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c0400941bdddd1f5967b803b16d75a5027a9250704ceb160faeadf35524dc85f.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5a9f6ec5cf4b36a0121c974a46d65944601e0c44cc1ba8f2699266da5469b562.jpg",
+			"name": "星のカービィ3 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/17b41d18f27117c1f195529739e875fdddcc3479dda139967c267e1eb167a148.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5119160582cba064382477e36662712b89549a3b18ffca731d412c8c26532ca0.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				}
+			]
+		}
+	]
+}

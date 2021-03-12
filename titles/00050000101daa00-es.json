@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101DAA00",
+	"eshop_id": "20010000022748",
+	"product_code": "WUP-P-BLGP",
+	"name": "LEGO® Star Wars™: El Despertar de la Fuerza",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 1004,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3ed9be9e9672b74bd6807573ed32a4a86e981de4474b13081f6ccfb7d524c897.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a3283022c4bdfb906116944b872fde17c87c7bdfac251e3e798354f1de7a6f25.jpg",
+	"data_size": "5271650864",
+	"description": "LEGO® Star Wars™: El Despertar de la Fuerza supone el regreso triunfal de la franquicia de más éxito de LEGO®, con un título que hará que los jugadores experimenten toda la acción de la última película de Star Wars™ con el toque de humor que solo pueden ofrecer los juegos de LEGO®. El juego contará con nuevas mecánicas para construir, luchar y volar a través de la galaxia como nunca antes, así como nuevos contenidos que exploran lo ocurrido entre Star Wars™: El Retorno del Jedi™ y Star Wars™: El Despertar de la Fuerza, añadiendo más información sobre la nueva película y sus personajes.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2016-06-28",
+			"retail": "2016-06-28"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/51bdcfd766020809edb19bad091901b76f6a17350590f5db111b3ec24bd821ac.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f95de83658d9523aa44f6108fc94be07dd7782f1748f341bc7d7e12f19f54c7a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d644033386a5f080b196b2ccdbd850d6650e5e6cd63f501e63b1afda3ac0b60b.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3a855cc37a713b3e8ea1cc3a96d6e09de071fdebd848fffcf7611d5930b4553a.jpg",
+			"name": "LEGO STAR WARS: EL DESPERTAR DE LA FUERZA - Vídeo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9b37333bb207f05624e77db3ab74daffb38d421d43ac7fef953dc618f3fb8359.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "113"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3f6fc140fbc6710af27b9d07010d26515aece87cb8437ebd5c07cc8c0d26ce21.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "113"
+				}
+			]
+		}
+	]
+}

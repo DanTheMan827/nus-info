@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001012E600",
+	"eshop_id": "20010000001704",
+	"product_code": "WUP-N-FA7J",
+	"name": "ロックマン4 新たなる野望!!",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 39,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d923e1f9174abd4885b0945e660309ae974ee39472623d33eeb46b49b50035e5.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/02fb040d8bb9ee617e946a63e59009d076123513e0edd6d1a9c4ffa586fc4fa8.jpg",
+	"data_size": "36798604",
+	"description": "このソフトは、1991年に発売されたファミリーコンピュータ用のアクションゲームです。 野望多き科学者Dr.コサックに征服された8つの都市を救うため、強力なチャージショットが撃てる「ニューロックバスター」を手に立ち上がったロックマン。「ドリルボム」や「リングブーメラン」など、倒したボスの武器を使いながらステージを進みます。新たに登場したお助けロボットのエディーを見つけると、回復アイテムなどをもらえます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-06-12",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/e4ca1c4426f622d44f581e7f4c48fc08059ac93a630e82c7ea54ae6ceddcc306.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f6c83c4f61351c2ee1df3ca7b71302157d39c8dc19d958e4a4e1745a48894f35.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/300f8271ad7402eaca3fce504be5fff2820f17239b70ef0de03e6af5b7fb548c.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b93a261ee0263163698bb20ae4cf403ed721696c7459501d27826e22db72bfc6.jpg",
+			"name": "ロックマン4 新たなる野望!! プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6b637bc78be12b6fa60dbc88e6c87ab0d8ed7962562474a6f385ab2f111d4b09.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "55"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ff4414415d75e7ef01f1121fd27ce21783fbf74e2141baba003bd8ca1ebbc7ba.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "55"
+				}
+			]
+		}
+	]
+}

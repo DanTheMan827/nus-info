@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101C3E00",
+		"eshop_id": "20010000017088",
+		"product_code": "WUP-N-PC8J",
+		"name": "ソニック アドバンス 3",
+		"platform": 168,
+		"platform_device": "WUP",
+		"publisher": 231,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9093ac59bae421ef4a7aba63d1d821f9a38cb2305513bd4537a6bae4124d0b3e.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c3190808ddb7368fc3f91bc2ef23c0238d722e320d56c7de6ebfba9e5c34a5b0.jpg",
+		"data_size": "75792524",
+		"description": "このソフトは、2004年に発売されたゲームボーイアドバンス用のアクションゲームです。 超音速のソニックがペアで冒険に出発！ 『ソニック アドバンス』シリーズのキャラクター、ソニック・テイルス・ナックルズ・クリーム・エミーの5人が総出演。パートナーキャラとの協力技「タッグアクション」を使い、ゾーンマップ、アクションステージを駆け抜けます。 ■「タッグアクション」とは？ タッグを組むパートナーによって操作するキャラクターの能力が変化し、プレイバリエーションが広がります。また、キャラクターの組み合わせによって、さまざまな合体技を出すことができます。 最初にプレイできるのはソニックとテイルスの2人だけですが、ほかの仲間と出会うにつれ、20通りのタッグプレイが可能になります。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-05-25",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/5116a84ae85c86aab527b8898ad3dec65bc0e60d757675959166f31d0a6a8e4c.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/252ecc065ab1c817bd248cfba98ed017668d5f615cba8524bf923a0168522449.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/9d214ee0b1d3983119c5d9b52bea74fd0ca8df067dd1686ee99c494cde65387e.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/003690643da2fc40ece22f651433ebf7a7efb9c656c2c0e27f06d3ed556084f1.jpg",
+				"name": "ソニック アドバンス 3 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5b173224ab8c05293d312a3384c357e2a4314eea6d6bc4ee67ce1a9222f9112f.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "77"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cb4e0cda2e51437962c7df120967056ea8e4bbf150cdf13b2e1da1c802382c4e.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "77"
+					}
+				]
+			}
+		]
+	}
+}

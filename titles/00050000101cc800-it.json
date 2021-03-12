@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101CC800",
+	"eshop_id": "20010000021007",
+	"product_code": "WUP-N-DAXP",
+	"name": "Pokémon™ Mystery Dungeon: Squadra Blu",
+	"platform": 169,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/75db52ec32b6b4c1e1fa57ddaba3768956f21cdefadec81d216fe307954e86b2.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/93e4cac50d30d3efecca775d2631fbd7dbdcc0d8b958183b69c3ba67a76be6fd.jpg",
+	"data_size": "55410808",
+	"description": "Li hai presi, li hai allenati, hai combattuto contro di loro... ora puoi scoprire cosa si prova ad essere un Pokémon! In Pokémon Mystery Dungeon: Squadra Blu, ti risvegli in un mondo abitato interamente da Pokémon, e tu stesso sei un Pokémon e non sai come sei finito lì né come tornare a essere un umano. Ma forse il tuo arrivo ha un motivo. Ora che puoi capire la lingua Pokémon, ti rendi conto che una serie di disastri naturali sta minacciando la comunità. Ben presto diventi amico di un altro Pokémon e insieme formate una squadra per aiutare gli altri Pokémon in pericolo. La tua missione sarà salvare i Pokémon intrappolati in pericolosi dungeon generati in maniera casuale (il che vuol dire che non giocherai mai lo stesso dungeon due volte), lottando contro Pokémon selvaggi usando uno stile di combattimento basato sui turni.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-02-11",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/9dbe6ef3598cc5c72a0c16d00b5697e4adede71ddf3601eacaddb2873ace2538.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/10a85c74c8581e686f19eb00a47b21f902e672e11daf0954d4d7bb694656306b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/47969bb97f4ff691b3d47e9162ea636d66e20174bf56119a75dd6b8fe1fdf58f.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0c8f428a1a89ebd5114d0b8fcd0f4a9eb8e3117fadcae01fd1d19928c571e4a2.jpg",
+			"name": "Pokémon™ Mystery Dungeon: Squadra Blu: video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3067494e9d99faa04c0787145d5b962371477a70182eabd13118b901079a86bc.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e0547bdddaa369706080971b54788e234b546d6b2a79d4dd7dd60531dbffb3bd.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				}
+			]
+		}
+	]
+}

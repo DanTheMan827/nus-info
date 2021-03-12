@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101CC800",
+	"eshop_id": "20010000021007",
+	"product_code": "WUP-N-DAXP",
+	"name": "Pokémon™ Mystery Dungeon: Blue Rescue Team",
+	"platform": 169,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/75db52ec32b6b4c1e1fa57ddaba3768956f21cdefadec81d216fe307954e86b2.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/93e4cac50d30d3efecca775d2631fbd7dbdcc0d8b958183b69c3ba67a76be6fd.jpg",
+	"data_size": "55410808",
+	"description": "Je hebt ze gevangen, je hebt ze getraind en je hebt ze bevochten... maar nu kun je ontdekken wat het is om een Pokémon te zijn. In Pokémon Mystery Dungeon: Blue Rescue Team ontwaak je, als Pokémon, in een wereld die volledig door Pokémon bevolkt is, zonder dat je weet hoe je er bent beland of hoe je je menselijke vorm kunt terugkrijgen. Maar er is misschien een reden voor je komst. Nu je de Pokémon-taal begrijpt, ontdek je dat de bevolking wordt bedreigd door een serie natuurrampen. Al snel maak je vrienden met andere Pokémon en vorm je een 'Rescue Team' om Pokémon in nood te helpen. Je krijgt missies om Pokémon te redden die opgesloten zitten in gevaarlijke, altijd willekeurig gegenereerde kerkers (wat betekent dat je nooit twee keer dezelfde kerker tegenkomt). Je moet wilde Pokémon om beurten bevechten. ",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-02-11",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/9dbe6ef3598cc5c72a0c16d00b5697e4adede71ddf3601eacaddb2873ace2538.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/10a85c74c8581e686f19eb00a47b21f902e672e11daf0954d4d7bb694656306b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/47969bb97f4ff691b3d47e9162ea636d66e20174bf56119a75dd6b8fe1fdf58f.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0c8f428a1a89ebd5114d0b8fcd0f4a9eb8e3117fadcae01fd1d19928c571e4a2.jpg",
+			"name": "Pokémon™ Mystery Dungeon: Blue Rescue Team: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3067494e9d99faa04c0787145d5b962371477a70182eabd13118b901079a86bc.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6b80382e5a7b2f2381bc57395ad128e71ec70f417aeabc83fc232c068ebc2e45.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				}
+			]
+		}
+	]
+}

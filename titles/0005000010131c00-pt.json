@@ -1,0 +1,48 @@
+{
+	"title_id": "0005000010131C00",
+	"eshop_id": "20010000000928",
+	"product_code": "WUP-P-SPGP",
+	"name": "Wii U™ Panorama View Trailer Interativo",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/93ef0672d6f24f39f094a9a6d07470591a422317a879207e9efbc6a23ea8a1a5.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8e65ddd79c6432e159e94597efe4b869b87f612b65ad7782b735b8a47153dfab.jpg",
+	"data_size": "168886392",
+	"description": "Este é um trailer interativo para \"Wii U Panorama View\", que te permite visualizar vídeos de eventos, tal como se lá estivesses, utilizando o ecrã da TV e o Wii U GamePad.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-04-27",
+			"retail": null
+		}
+	},
+	"screenshots": [],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/36836f2f70bc549f09df88e4a37f587ccb8ca45df48f456f19a3b74ffa56f541.jpg",
+			"name": "Wii U™ Panorama View: Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ed55717842fa5d8c1719a9613190a40bd7e77ca2f20e8b547ed4a1ba4983e8ba.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "139"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8279d81f525287c918de34bdd157d2968be663e6c7bd148765fc2fd55d1e89ed.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "139"
+				}
+			]
+		}
+	]
+}

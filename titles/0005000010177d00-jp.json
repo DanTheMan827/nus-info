@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010177D00",
+	"eshop_id": "20010000008467",
+	"product_code": "WUP-N-FDLJ",
+	"name": "2010 ストリートファイター",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 39,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a4456198dc7bf2d34d4f5eb721b929d1b89dd5b1c892d1b2d61548200571db44.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a64daeff137ff475d685b52ae86f4e836b6d61b2271e22eada1b7ba0e44732cb.jpg",
+	"data_size": "38863008",
+	"description": "このソフトは、1990年に発売されたファミリーコンピュータ用のアクションゲームです。 固い甲羅を持つ装甲虫を体に「奇生」させ、同化することによって強力なパワーを発揮する敵「パラサイト」を倒すため、サイボーグ警官「ケビン・ストレイカー」を操作し、ステージを進みます。フリップジャンプで攻撃を回避しつつ、ソニックブリッドやハイパーショットを撃ってパラサイトを倒していきます。ステージはいくつかのエリアに分かれており、エリアごとに設定された特定のターゲットを倒してオープンパワーを集めると、次のエリアに進める次元ドアが現れます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-10-15",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/149906c032c6f31a2eb209ecbfc23bd5fd72a49b8cf53d5cdfd7c0903dea58ce.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/30072cf39e6cc5d991407ceb18091f1dc84ec567d87eff4132c90f0d3990e795.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6f811cd2c5dd4292fd4b36425859a4f6f9a6811b656fb4d9adb099285a029fd0.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a1790073e26f541400f2c49f486db1b68c9e9e12a1d28e494abdb8991957c420.jpg",
+			"name": "2010 ストリートファイター プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/82bb5af267a5cc4219e9bf2dc08a41609e2f9c0895dc4acfbd0c733cf7a19773.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "47"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5ba2bdd3709008508840724c19f68d4398e7ec7e21b3ceb7899f2efd65d350f0.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "47"
+				}
+			]
+		}
+	]
+}

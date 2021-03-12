@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010108E00",
+		"eshop_id": "20010000000843",
+		"product_code": "WUP-N-JAAJ",
+		"name": "スーパーマリオワールド",
+		"platform": 164,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/97e48782fed9d904c5c3118cef70f183bcd707aff4d9c549a19f726154be0578.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5488dab8cac8df23f1c92fbc063fe28825f33e7ac0fb47e04cb4ddb8e39f20e5.jpg",
+		"data_size": "40665228",
+		"description": "このソフトは、1990年に発売されたスーパーファミコン用のアクションゲームです。 恐竜ランドを舞台に、クッパに捕まったピーチ姫を救出するため、マリオとルイージが冒険をくり広げます。頼もしい味方ヨッシーとともに、敵を倒したり、マントをつけて空を飛んだり、といった魅力的なアクションや多彩なキャラクターが満載。仕掛けと謎解き要素がいっぱいのバラエティに富んだステージをクリアしていきます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-04-27",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/9012a11a9d90f12568acd500ea7d61926f34922ed611d019ccd11cb4935a2acc.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/f60514b04a02a4933ccc768b006e17e11dec068f7ce8cde4294fd922c0dd06ca.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/702b5788a61356970a287bd4092e3140858d68c33445092a77ed322964928ba5.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2e80df5404e1f5b1658c53170e0dd76ecc40684523cd0e2fb7ff1c3000eca6df.jpg",
+				"name": "スーパーマリオワールド プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c75a7c1c1271b85de4941e8f37156c0a8c6a403b2f14d3817f22df5fdcebc1d1.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "43"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/152acd4601b367f2b97b8cda1a4f84300ec5bde742385653cbae56053ee1ab4d.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "43"
+					}
+				]
+			}
+		]
+	}
+}

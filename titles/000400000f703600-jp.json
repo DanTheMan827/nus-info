@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000F703600",
+	"eshop_id": "50010000040555",
+	"product_code": "KTR-N-UAVJ",
+	"name": "がんばれゴエモン ゆき姫救出絵巻",
+	"platform": 1004,
+	"platform_device": "CTR",
+	"publisher": 149,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3f2da84f92dec78749612951ef3a45057487d3e2d88172ff4ab2328cfc9e8486.jpg",
+	"data_size": "3918692",
+	"description": "このソフトは、1991年に発売されたスーパーファミコン用のアクションゲームです。 江戸時代にゲームセンターやファーストフードといった現代的な要素を織り交ぜた世界で、ゴエモンとエビス丸が、さらわれたゆき姫を救出するために奮闘します。各ステージのあちこちに配置された隠しアイテムを探したり、多彩なミニゲームが遊べたりするのも本作の魅力です。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-06-07",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b56600a8043babf3c5ea8927f6f9d3a34fc13ca4921b68e60a185d99ed6f6a65.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/9dbe4a85cb62d6554f2966ee10d1f27adb28fabd50bde1b4648e26aa459a45d6.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7a4888414468200a83faee0b74a3d19dc640d0e44ef93cd53f6451193ed153d6.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f2968a4e7fb0e0a0c0ba243caac2b472d0b944e95caaf16a2754338e04086671.jpg",
+			"name": "がんばれゴエモン ゆき姫救出絵巻 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1142aec3289d45ae64c6147b3c0ad7d69880020abf2ad59a4300cf8ad30fdbd2.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "62"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0b60a2b5c2c1c37d55b7492642f156d1d24d13edbd93add990e627f83d483616.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "62"
+				}
+			]
+		}
+	]
+}

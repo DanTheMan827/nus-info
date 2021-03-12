@@ -1,0 +1,76 @@
+{
+	"title_id": "0005000010114700",
+	"eshop_id": "20010000001108",
+	"product_code": "WUP-N-FAPJ",
+	"name": "ロックマン2 Dr.ワイリーの謎",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 39,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1013d5008eaf1e1d7b2154d2bd7ab11459b5d4bbbefe9f37c0cb0ef4e03db691.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7f41612047d55828f321ad676d50da0199c66b45510790ce193849dfec3d0b30.jpg",
+	"data_size": "36667532",
+	"description": "このソフトは、1988年に発売されたファミリーコンピュータ用のアクションゲームです。 Dr.ワイリーの挑戦を受け、新たな戦いへと向かうロックマン。時間を止めたり、強風を巻き起こすなど、特殊能力を備えた8体の強敵ロボット（ボス）に挑みます。ボスを倒すと入手できる武器は、強力なものばかり。状況に合わせて武器を使いこなし、Dr.ワイリーに立ち向かいます。 ",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-06-12",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/5adb94b9d1bc5a77a0a5607a94a99f5285d73255356a6f5ce844650513f28c93.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/57879a013761df456ac07aa1c32004855332eea5beaa3980e9dad34614ab8419.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2bd67c76d3300f3b1af53847aac490ab0ef88e3afd0e73d73ef280653a33712e.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5166b99331a0fe5746439f1dd992c8216f84701705b16feec798156a2c1c8815.jpg",
+			"name": "ロックマン2 Dr.ワイリーの謎 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ad05f99452b98183fb68f6144a1e4235ae7ce8112ba855530c8de899f9792fdb.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "57"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/29e6ce80ccb7985202cc3ed36020c56bee71984bb8a84b9ae755a05bc85a53a0.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "57"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/179d80f667b4a22f97e408f87276484c98be5e6937f37f1d1cd81b86f3319e60.jpg",
+			"name": "ゲームセンターCX ファミコン30周年生挑戦SP 編集版",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9562a1c5f1d960584473fecd9264be0b36753bc4c1637aef5b0bbb9122a87018.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "2416"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fe725ad86409a807186b156a1a39bbdaf96e3bead3238dcddb0944f3ee8292b8.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "2416"
+				}
+			]
+		}
+	]
+}

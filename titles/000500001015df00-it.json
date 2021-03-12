@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001015DF00",
+	"eshop_id": "20010000005724",
+	"product_code": "WUP-N-PAHP",
+	"name": "Kirby™ e il LABIRINTO DEGLI SPECCHI",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9861e54509450929f450cae7d4634c323c711044227ce6a1e4f04a86c7868a58.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c789b49425ae1918dd7d2c4bb665c384b36b05b8ef629f855579d03e982d9403.jpg",
+	"data_size": "96895096",
+	"description": "In KIRBY E IL LABIRINTO DEGLI SPECCHI non troverai un solo Kirby, ma ben quattro! Il nostro simpatico eroe è stato infatti diviso in quattro Kirby di colore diverso! Usa il cellulare per metterti in contatto con gli altri Kirby! Questi correranno in tuo aiuto e insieme potrete riportare la pace nella Terra dei Sogni. Cimentati in un gioco pieno di divertimento in cui i minigiochi saranno la tua ciliegina sulla torta!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-04-10",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/87853123827a6cdc251272c6cc8a371c40752ccbe0bb602b1b428485254bb23c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/be59a93cf0752ee16a59a320ebcb6df594b27fd5145b51ce04463a6cbb4f8dda.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5c79ff271d4f4a78394bd6a7c8c13ea0ebb1c43d202eeff5352cee68ad27e280.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/dcb99595eb41c8cbf83c6d89e465d11f4764308e3ffc35279b60a6c5c580d550.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/18bc6f6164afd32a412f9be0ee08daea601841c6800a7e3b00e56cd720a50cb3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5f8b74f668205bbebd7e157fc7a64ef363e920fb43099a775a3f0048573cfb46.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/919b187fe8578b375ae97f9c5111e85945142f0da63567380cdd235f3c88dda9.jpg",
+			"name": "Kirby™ e il LABIRINTO DEGLI SPECCHI: video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5d70b33b0880c80a6856ecc6e17b6b9bafd43cce6f96cc43b4ed6eb412ae69ba.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "57"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5e8a8af4aa6f0a6931bfc917e64fb7ee613c2f37e998f363afa57514be299377.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "57"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001014C900",
+	"eshop_id": "20010000005244",
+	"product_code": "WUP-P-WMFP",
+	"name": "My Farm",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 34,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bddb99e8b0945e7499b3c64be49c895e1b1b6d5211f9a2dd09dfe8061a3372af.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/18fdd0aebdecd4360b9d08d099d16dae665ea78a48fb1ef4ecf18b33c29d16ed.jpg",
+	"data_size": "261226636",
+	"description": "At the beginning, all you own is an empty field, a few pennies and a single little hen... You need to feed the hen, take care of it and improve its lifestyle. Well-fed with seed, your hen will lay eggs which can then be sold to the Shopkeeper. With this money, you can buy new animals at the Farmers’ Market or purchase equipment for your farm from the Shopkeeper... - Be attentive of your animals’ needs: food, disease, hygiene… - 10 kinds of animals to customize at your will. - Many buildings and farm improvements to discover… - Incredible bonuses to unlock! ",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-02-06",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/2f6e747dc7e09b55f896d4d64d5d6e376b4d1fad8b3226736cad62e7c23cdb59.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/fae8f1026874e12366a4100192370ce6101204ef122b897618b429add7b07c42.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/33a06b9631a7dbe816f7ca609a189c41e688fc89a149246d9d456606924b928e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3e4d7b4d4d327252ada31aea008c619d9a4df0d75015f9431c0ebc9bf3e3d776.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bfbb91ce5aa6fbac0bb29eb005ee34a8492d57460ae101de947daee983300784.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4230800b9c72996e4b7b41647010f965871a8385af8a74adc47310ab1a09072f.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7ceaa0f90ad45cf9398b9c836fc89ab4b8e20b4605d73be550b46ad0d69f283f.jpg",
+			"name": "My Farm: Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ea3a8c642b3ab26980f1006336d5cf8b6542d7acef3efa2803fd47edd070e992.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "68"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/64bb26c7416e027e1596a5a4961b2aab439b2450b2f6e622a167e9c444c41414.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "68"
+				}
+			]
+		}
+	]
+}

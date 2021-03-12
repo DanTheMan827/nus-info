@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101A3B00",
+	"eshop_id": "20010000016087",
+	"product_code": "WUP-N-BLPE",
+	"name": "Life of Pixel",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 127,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/dbd0ec9bcf1febaa2c92eacc12899a88d1f34da8e3649c514a71dd8717ee8f34.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/2626d83cdc202d12e08f6beba25649eed0ee83846561aa3bb7c0fbb07f5b86d0.jpg",
+	"data_size": "553779360",
+	"description": "Un viaje por un mundo con más de una docena de juegos vintage. Con Vida de Pixel, te sumergirás en un juego clásico lleno de cuidados paisajes de 8 y 16 bits. Un juego repleto de trampas, trucos, saltos mortales, gravedad invertida, secretos y mucho más. Derrota a los píxeles enemigos y somete a los que intenten que fracases en tu aventura. Encontrarás una gran cantidad de gráficos de los clásicos juegos de 8 y 16 bits. ¡Montones de secretos! Decenas de secretos especiales que descubrir y probar. Busca mochilas cohete, pompas , camas elásticas, habitaciones y mapas secretos, aviones, patinetes... ¡e incluso un Sinclair C5! Impresionantes poderes especiales Dispara píxeles con un cañón, alcanza zonas elevadas saltando en una cama elástica, utiliza la Superpoción para derrotar a tus enemigos, aplasta a los malos con la vagoneta y descubre secretos con la Bomba. Chiptunes de verdad Hemos reunido a los mejores músicos para dotar a este juego de una excelente banda sonora.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-06-18",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/77b118439cf655e6f9fa0bfca28b7193b177ee3970908f5ad4e322e2a7787b20.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/da516743b7d226ba06e9cd32adc6f05c4df2f89af35751d479d4b1aea6d909e2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d3a72b339039abee62d070d1195218336d00fb620bce2ba0b8c241ea26906873.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e6d54dc8acb4f7746431c5fe84e67d94a5908b114aa94ab93b9612cf8fad8790.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ebc6ee0bbe5e132f67a63b4b4aea4d12923e07588c7c21054e2742a4739dc072.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/201dd371859ad9a6ccf820b59251d96b370f15eb44e2ee0c4ea62f0e33425089.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2b6a60a1ef6a63d2257ecb01ab14a3d81f11a59dd9e906c976f5ac4a64d78422.jpg",
+			"name": "Avance para lanzamiento Life of Pixel",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/08bd7b223ce4192ded44fe706791db05d373b64a2dceb14eb42440026bd920e3.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "96"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/23f672b50c7c6595be0d6e36de422f7c2d8cde7f189bcc3f934d485bfebc0057.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "96"
+				}
+			]
+		}
+	]
+}

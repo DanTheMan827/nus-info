@@ -1,0 +1,53 @@
+{
+	"title_id": "0005000010113F00",
+	"eshop_id": "20010000001430",
+	"product_code": "WUP-N-FALE",
+	"name": "Xevious™",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 27,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3071e54ff2350e14e070b115487814469e417f24ba931d391f718aec92ae4a2e.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/be30d93dba3546dbb2c39c748a542612caab02f24f6a08d32a11cb0e21dad81e.jpg",
+	"data_size": "36536460",
+	"description": "Control the Solvalou Fighter plane, and destroy the Xevious forces! Fire the Zapper missiles against air-based enemies, and drop the Blaster bombs down upon ground-based targets. Destroy Andor Genesis to earn bonus points and beat the high score! Unique enemies, interesting background music, a variety of vertically scrolling background environments, and many hidden gameplay features differentiated Xevious from the other shooting games released at the time. Are you devious enough to beat Xevious?",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-05-09",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/a5238d3ea5f8635f2d447cd28921a1cb8debe53002bbc3da913acefd176486d7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d053974d0662fbdad86b4561c9eb954b4931fc40bc3ad74f09daa09d2b2ab490.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e32fece0a1b03a61cc9543faaa1eef44641704216795caae6e704c843f38fc54.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2fe0c095dbc233205d34fb9aa4878ee524a774aaa4285d62fcd0f5d53cca048d.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d5439e9de95ccfaf815fc773c21c50a9151529a65b3cec8ee09eb3ddfa240ac6.jpg",
+			"name": "Xevious™ Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ffe0c3466f6e2171d3e424ed497baeb290227c42351a40d6528aa06add57648b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "31"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b2d91e7c742bd1d3218f508d2fd12d4db0e37ed66ce10ca50bd2db655ededec9.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "31"
+				}
+			]
+		}
+	]
+}

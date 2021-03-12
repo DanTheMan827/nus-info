@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001015E500",
+	"eshop_id": "20010000005746",
+	"product_code": "WUP-N-PAKP",
+	"name": "The Legend of Zelda™: The Minish Cap™",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2682490cc5e5051e14aa000d1d007adf80c0ffdbb33315ad223a018c02da1b38.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0f96b5d4da427e66b4d5656bee188430054403ed904face7f03289f268d650c5.jpg",
+	"data_size": "101351544",
+	"description": "Dieses klassische The Legend of Zelda-Abenteuer schickt Link auf eine Reise durch eine unbeschreiblich kleine Welt. All das funktioniert mit seiner neuesten Kopfbedeckung, der sprechenden Mütze! Link kann auf mikroskopische Größe schrumpfen, was auch dringend notwendig ist, um das kleine Minish-Volk vor einem großen Unheil zu bewahren. Natürlich wäre es kein würdiges The Legend of Zelda-Spiel, wenn es keine neuen Items gäbe, die es zu erlernen und beherrschen gilt. Außerdem glänzt dieses Abenteuer mit bezaubernden Nebenaufgaben und einer Fülle an Verliesen, die zum Erkunden einladen. Klein sein ist wirklich toll!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-05-29",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/1624b39084dd3eb395516ebbf9f28f8b799b41ae1580ad59b06a99682536fc11.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e1c169520532ea13f71757c8363166f118b30b411512faf19c9970e895143301.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2f988205fb7340dc807575d8d7b1a7268eda9842af5c6f4ea026e6aa22348db9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2574936219d7bc2fa56f42eae06168169877b8735edf759712df634e2422f1ba.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0953a20af8067e9908c6cac65e0087ebeffbd6b6cd66cec770e44106af841dd3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6f89d04a9a236d4d8a6ec8081d3b062643593fffe1793fd578ab9531f2669453.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9a8153eea40d292cabdff39eb226f045ffe99d85c252b9229ce90d009068249b.jpg",
+			"name": "The Legend of Zelda™: The Minish Cap™: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/db994625bc2779d36ddc1adf1fb62b5be180dee40290b2e8f4c725a5aed90516.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "90"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/30911578737a7b6d7b4366e18da6d6803ee246d476d081ce649290a396dd4194.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "90"
+				}
+			]
+		}
+	]
+}

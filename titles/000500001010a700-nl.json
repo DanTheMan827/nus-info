@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001010A700",
+	"eshop_id": "20010000000923",
+	"product_code": "WUP-N-JAJP",
+	"name": "Super Metroid",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a3f42d996aed4a2aff29e45431017d09f3d0c9074dd43268b0b424359fdf849d.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/eb1762f3e8832154a22ec51410f92f2a5db25b8c18ac9cc9a4701e7f6f8719e8.jpg",
+	"data_size": "42991756",
+	"description": "Als de ruimtepiraten de laatste Metroid hebben weggegraaid, moet premiejager Samus Aran weer in actie komen! Gebruik nieuwe vaardigheden als de grijpstraal en de röntgenkijker terwijl je Samus door de enorme doolhof van de planeet Zebes leidt. Neem het op tegen vijanden en enorme bazen met een scala aan stralen, projectielen en bommen. Super Metroid wordt gezien als een van de beste 2D-actiespellen die ooit zijn voortgebracht, en legde de basis voor de Metroid™ Prime-reeks met zijn innovatieve mix van ontdekken, actie en vele geheimen. Dit is de Europese versie van het spel. Het is oorspronkelijk geoptimaliseerd door de ontwikkelaar om de gameplay en de snelheid waarmee de muziek afspeelt zo dicht mogelijk bij de Amerikaanse versie te krijgen. Demo's en animaties kunnen draaien op de PAL-snelheid. De beeldverhouding is aangepast voor deze uitgave.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-05-16",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/368383f36a0c51b90a0ea689b92f612fece29857190695946e001a73c3cb2431.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f9f10e81cd70f3187df449df056ce0f96e0272ae56cdfea4118cf66187fa9809.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/19749fde531490c40d862ee5b761a04642fb9c04e02b400e9e89aaef476557bf.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f6be2032d737d52967147eb6c41830463978843d64d0833b60469999c4a7afa5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c684bc0c01793de1249524275f7a8b6f6b25aab38c626e116c02b91b9abf4d4b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b0443e737db435b7a5f9a8d3eff3e0dd3862948b5f421765dada7acc3470270b.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9c4f4c2d9fd00fb03fc4a8e10cc659d011ecfc2896c9977b62481bb2570bac79.jpg",
+			"name": "Super Metroid: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e6b0daa94538ab3580616f9801c896c2e49e46f2a554182f769d55d9631c0174.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "92"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b662e88a618f35664be63a03cac0f5201a463fe7e2d11ebe32bf5d18d70c56f4.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "92"
+				}
+			]
+		}
+	]
+}

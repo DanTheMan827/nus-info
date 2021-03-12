@@ -1,0 +1,54 @@
+{
+	"title_id": "0005000010111100",
+	"eshop_id": "20010000000443",
+	"product_code": "WUP-N-AJPE",
+	"name": "JEOPARDY!™",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 484,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0524ad4f94437960c281866b21320e7ee849b694e3140a01589a0e02c51652f6.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d22a6fdfe45e5a37c3f39dddfa506e196cecb210358a43482454c22c49dd0aff.jpg",
+	"data_size": "1854046468",
+	"description": "Join Alex Trebek & play as a contestant on \"America's Favorite Quiz Show!®\" Test your knowledge to make it to Final Jeopardy! and the coveted Winner's Circle! This updated version of JEOPARDY! features voice-overs from Alex Trebek, Johnny Gilbert and the complete Clue Crew! Play over 3,000 new clues and enjoy vibrant HD graphics. This... is... JEOPARDY!",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2012-12-20",
+			"retail": "2012-12-14"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/7f93ddb2249c1f44e0d29afa5559eb82e5550d33714e39a17916117e7379ae75.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/84a87f4824c32c6e365f13b482913887039b19771573de59da0411af4b393793.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/00e99e4726945e49b4517f8698227dc16d82a4b8c36b2b2cb1bb8f7788d0a6f2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/78644acef6bfc222dbf28cc3ec6b8e8425870dee4aabd9fa28954391ba4b473e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2e784bb78d9a50ebea1a905628d385ca53c3cc7126d71d3446932162ec4e01b9.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/080128f88f09d421a7f541a8e21e59a17ac30e63e7582ec1937c0fdc91a868b6.jpg",
+			"name": "JEOPARDY!™ Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/95b0c2098edacd7224a78da38184f3cc2fa2ee1bb62e0b3e3218e245e50eb6b8.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2bdf656f79353649d824013178cafd42f63fa90d09619041bd87219451a75c58.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				}
+			]
+		}
+	]
+}

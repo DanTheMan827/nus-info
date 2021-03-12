@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101B5900",
+	"eshop_id": "20010000014447",
+	"product_code": "WUP-N-JLCJ",
+	"name": "レッキングクルー'98",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/791c21e10032c51a7f8aa2761c3a06acfe5dc3ae25fa4bf2782d8d496bf07ad7.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/1de7fb65446241e37ad4b877be2d0ca9f63ab8d1ad617680397ffb3534afb120.jpg",
+	"data_size": "43384992",
+	"description": "このソフトは、1998年にスーパーファミコンのカセット書き換えシステム「ニンテンドウパワー」より発売され、その後スーパーファミコンでも発売されたアクションパズルゲームです。 ファミリーコンピュータ版『レッキングクルー』を移植した「レッキングクルー」と、『レッキングクルー』をアレンジした「レッキングクルー'98」の2つのゲームから選択して遊びます。 ■「レッキングクルー」 マリオを操作して、敵の攻撃を避けながら壁やはしごを壊していきます。すべて壊すとステージクリアです。全100面クリアに挑戦してみてください。 ■「レッキングクルー'98」 「ストーリーモード」「対戦モード」「トーナメントモード」の3つが楽しめます。 ステージをクリアしていくオリジナル版と違い、対戦型のアクションパズルとなっています。パネルを壊したり、動かしたりしながら同じ色を並べ、3枚以上そろえて消していきます。4枚以上のパネルを消すと相手を攻撃できます。攻撃の種類はパネルの色によってさまざまで、一度に消すパネルが多いほど威力が高くなります。上にあるラインを1か所でも越えさせた状態で3秒経つと勝ちです。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-09-28",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/cb7407b5dad4f169de61777f2605f89258a424e51df68ac9c977c4bad72c41b5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a3ac468e79f6a00e33fa1569d71027fbf57561a7140317497f05baed43b9a572.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2fd9db2b4c18daf8349306c062995e6cd9b7596ca6a9f57ab8cb784f917102d4.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bfb2e58733ffde04b43067e512ab062eb7090a09067a621e75bf4518db72389c.jpg",
+			"name": "レッキングクルー'98 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a0f6f215e9050bac38c236c9dfee33a0e140d0d756de7956d9c232f0975beb30.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "71"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5a2ef9cfe02f27103191e8e8e0fd241e8e154ca6d9e484ec692b5aa544f72b30.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "71"
+				}
+			]
+		}
+	]
+}

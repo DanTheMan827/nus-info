@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001014D800",
+	"eshop_id": "20010000004484",
+	"product_code": "WUP-P-WBCP",
+	"name": "Knytt Underground™ ",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1219,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9972e3c913eefef8f874548aaa5c67c54a5993da09423a9f2d6b0c62cab2d2b8.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8c873224e3a19e456a6f23cc70ab8fb6b8f52f479bb47e5e3ebb78beaa44e1b1.jpg",
+	"data_size": "555319436",
+	"description": "Пятьсот лет назад люди практически уничтожили эту планету в войне, и с тех пор этот мир был заброшен. Выжившее население, называемое \"эльфы\", живет в подземных тоннелях. \"Ми\" ― это немой, но крайне необычный эльф, которая развивает особые способности и отправляется на поиски шести колоколов судьбы. Каждые шестьсот лет в эти колокола нужно звонить, иначе это вызовет цепную реакцию, которая разрушит мир! Успеете ли вы спасти эту планету?",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-12-19",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/34594195a87df2ad7dadfc910dfaaebf9b6158d3f33093246799da87b94ff06b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/afbfbf4585c88f683113ee8e82cc32528daa80b46dc5d7d84a4cd18041c9811f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0ad2b757ee4b1217dd0ee0b5dd385c2680c0214e073bebdc6aade7a79b99777c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5939ea91580f610a52ba7ecd72e33fa1c1ede20f0affabc9590304523e05f0e2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ee815eb0eb3560656b76aafd12a9c7f12d5b0a98afe7eeb54e486ce894a078e7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f74386e2e0d8714f9d8b65f7a0f9cdd2cbce1d7a8a2a5358db5fd3c7761e1d61.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f015a4f597ba171b21b8d1ddc59c54842f4e4ba519352c981326dcc7ee733d47.jpg",
+			"name": "Knytt Underground: Launch трейлер",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/83d02821b1f8e2a4a790a852a7eda1013ad47ae709e5f9cdfe9b9142218a61d1.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "71"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/db8b78a6da720e867e3b418aad33ea44fea1b9ab51475ff9f85e4e1dd2e3b3fd.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "71"
+				}
+			]
+		}
+	]
+}

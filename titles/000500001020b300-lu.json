@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001020B300",
+	"eshop_id": "20010000026067",
+	"product_code": "WUP-P-AVNP",
+	"name": "Vaccine",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1553,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/75adc4e3135997f988b1cfc8b586a577e75b567a7f7f24cbeb40931f3d1d8195.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8642d3667195cb6738f724571f722d0eaf60699000ad733520e99d9bf5d3e645.jpg",
+	"data_size": "325451916",
+	"description": "Trouvez un vaccin pour votre ami infecté avant que le temps ne s'écoule. Mais faites attention car votre ami rechutera top ou tard et vous devrez trouver un nouveau vaccin dans une maison construite au hasard. Serez-vous capable de découvrir le mystère pour sauver votre ami une bonne fois pour toutes !? Vaccine est une nouvelle approche du Survival Horror inspirée des jeux des années 90. Les joueurs peuvent choisir entre deux membres d'une équipe spéciale d'intervention rapide contre les dangers biologiques, chacun avec leurs propres et uniques talents. Ils sont attrapés dans une étrange maison habitée par de dangereuses créatures mutantes. Ils devront trouver un vaccin pour un autre coéquipier qui a été infecté par un virus mortel. À moins que les joueurs découvrent le mystère de la maison, à chaque fois qu'ils trouvent le vaccin, le coéquipier infecté fera une rechute et le joueur devra faire face à une nouvelle maison reconstruite aléatoirement. Les joueurs pourront gagner des points d'expérience en réalisant différentes actions et les utiliser pour améliorer les compétences qu'ils jugeront plus bénéfiques, emmenant ainsi au jeu une approche plus tactique comparée à celle des jeux dont il est inspiré.",
+	"availability": {
+		"eshop": false,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-02-23",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/a132a0cee2bacebceb9d9eb57558d361d9d762ecc6d4d21ad9d791873cc66b98.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b09896ac02514dc6fdee8a585a9154f97b5416c8c7aac268320910cc2ac940e0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/84e5ef38f8b5393f3671e319fe03c31dfd20bfdb72ec7f7515d2d29d8c77db79.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2dee5559ca883d194d4c934ea1f79b47ca60b145360bf7c7561434889b7ad03d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7a2d0bad9b95c09180f97f7f750a64a3eba09939f0482432e7075020f34821b8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/187db0e565acb072af43772a434db8ba0e290b2fe52131ae1cd42dce41572523.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/672f976ac0fb00b9fb66c2589adb1dfd4df385064a0e60ed20db73ececc93fde.jpg",
+			"name": "Vaccine : bande-annonce",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4531ce122327dfc6db7953ba3905c79dcea8f6b09487b5bf935b3cbd27bbbc9c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "127"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b1b89108f7388263fe0e39d921d6e4739e4dd29784bf22b962a873530b4f7996.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "127"
+				}
+			]
+		}
+	]
+}

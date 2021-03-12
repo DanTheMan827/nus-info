@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101A0F00",
+	"eshop_id": "20010000015407",
+	"product_code": "WUP-N-NAFJ",
+	"name": "マリオテニス64",
+	"platform": 170,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d6fea4e09340e9a204a0485d2a97f9df848d0bd94716b6beae3e8e6b18d080d5.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8da8379e3be792c46915665f67f2b0f193bb0851085a85e0302b74927f4288f3.jpg",
+	"data_size": "61866104",
+	"description": "このソフトは、2000年に発売されたニンテンドウ64用のスポーツゲームです。 マリオやルイージ、ヨッシーなど、マリオシリーズでおなじみのキャラクターたちが登場し、テニスで対決します。 実際のテニスと同じようにさまざまなショットを打つことができ、難しい操作を覚えなくても、誰でも手軽に本格テニスを楽しめます。 キャラクターやコートを自由に選んで1試合だけの手軽な対戦を楽しむ「エキシビジョン」、テニスの試合をしながら、コート上に出現するリングにボールを通して「リングポイント」をためていく「リングショット」、アイテムが勝敗を左右する「クッパステージ」など、5つのゲームモードで遊べます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-07-20",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/db069dc236d5617d4968bad957ca4017e740a6a070ba33bb0b4c2fdb3db8e79b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/795ca871791abe6ff27fe17abc133e4a528cb4b248ee74b8ff9b5aeed73bec71.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/04fb9a16a88a8ae28822b5c855dddc69e233b055d751f7d1e7efeb3e2538bde0.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7ab0e7c4f76092c95605a81924a783f90cd3084eebd638c5883996b69826e44b.jpg",
+			"name": "マリオテニス64 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0458e0fd335d2dea34c7922a4e41e322782ec38ad97abc42e45174616985e999.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "66"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/be6d1b53964d6dced5720ec99b459b6ee7f0f2877805832b3c6aef26e3680824.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "66"
+				}
+			]
+		}
+	]
+}

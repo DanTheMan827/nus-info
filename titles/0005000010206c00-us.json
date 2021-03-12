@@ -1,0 +1,53 @@
+{
+	"title_id": "0005000010206C00",
+	"eshop_id": "20010000024867",
+	"product_code": "WUP-P-BBPE",
+	"name": "Pinball Breakout",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1610,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3364cdd96e26009c3602a9ba1e6a2d37a10f56aed31b0addf4ea188042c77250.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9aca5c074b0a6bbe46b621f56327d895b43e36a215532a7cd35ccec4dbb8087c.jpg",
+	"data_size": "144343180",
+	"description": "Pinball Breakout is a breakout game for one or two players combining game mechanics from a traditional breakout game and a flipper game. Play single player and aim for a high score or two player mode competing against a friend. Supports Off-TV Play mode.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-11-03",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/05b1aa1815c7cf05ff7a872fc7a1fe37f1326ee41d73ca904ed827abd58914d3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/90c8f465fef05588c2830508ccdad7dfbde5f621f998f5e9d8d507e137e9e2b5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/da6ae2434866cca2c07ec42847a7b3c54895abe396211e639f941717493a7147.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2d6f4108889b4a1bdc8f83b315846a828960cdc71672988acf8a9fbc8b499c73.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ebf94c9f528e5425ee2d59d99061fca69f3295d45d5509ad4bdac2e65e4109a8.jpg",
+			"name": "Pinball Breakout Game Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/84e1babbf33f9d2e1ea5d21b9d4df09a23a85e647e1b483527bd01d690e77fd1.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "63"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c8f29ba3699938844758ed5573bb94014881607b68ed8bd1b4edc5ad2088bd2f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "63"
+				}
+			]
+		}
+	]
+}

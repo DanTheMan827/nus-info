@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101A7300",
+	"eshop_id": "20010000019567",
+	"product_code": "WUP-N-FEUP",
+	"name": "Wild Gunman",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/58882f1d59325a7ebaa195f935e16b4ecdad9b6026f672d6f0a16d7339669c58.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f4ed3a17d16e96c0f971a47053a85048d32c1a0c63914a9bc6a51b051adb93ab.jpg",
+	"data_size": "38731936",
+	"description": "Hast du das Zeug dazu, der schnellste Schütze im wilden Westen zu werden? In Wild Gunman trittst du gegen blitzschnell ziehende Gesetzlose an, um zu sehen, ob du dich in Schnelligkeit und Zielgenauigkeit mit ihnen messen kannst. Ursprünglich ein Spiel für den NES™-Zapper, kannst du nun die Wii-Fernbedienung zum Zielen und Schießen benutzen. Pass nur auf, dass deine Gegner nicht schneller sind. In drei verschiedenen Spielmodi kannst du gegen einen Gesetzlosen, zwei gleichzeitig oder gleich eine ganze Bande antreten. Du wirst einen kühlen Kopf und einen ruhigen Finger am Abzug brauchen, um diesen Schurken zu zeigen, wer am schnellsten ziehen kann. Hierbei handelt es sich um die US-Version des Spiels.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-10-22",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/ac7f41323e623aaa590afd326b4843d5efeb32b8f3fbf25b5cdff41d27f3ea0a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/29740ea8c809b420cf040d7505e14ae03e6baf58c65e0161c01d34c6a6d4c0fd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e12ffc16f4551c1695a77cfe2e55ebd59af5d37eee63cee5122306479bbdef8e.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f826c2aa0e24f0f397ce14e0c66288d29b07d13fe371f4ef22faad535bccf27b.jpg",
+			"name": "Wild Gunman: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6adcaad706ee47e3ad24e47e6153bf4a5a2d0b5828c9e0d8f00aa00a548c2905.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "43"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8aa91f99292494dd52e19ee90e8639c0e3e6f60afb891a2887799e5a3744570d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "43"
+				}
+			]
+		}
+	]
+}

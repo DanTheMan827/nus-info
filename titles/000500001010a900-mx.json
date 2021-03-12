@@ -1,0 +1,54 @@
+{
+	"title_id": "000500001010A900",
+	"eshop_id": "20010000008786",
+	"product_code": "WUP-N-JAKE",
+	"name": "Super Mario Kart™",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d75b5630258171e295055645d16bd2bb8dcd61554729214505842d0818637d42.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a34822e65d1626c93fef741dba87d99963ba8c84deaa0bf5db26eb1b645d51f9.jpg",
+	"data_size": "40697996",
+	"description": "Selecciona uno de los ocho personajes del mundo de Mario™, cada uno con su propio estilo de manejar, y corre en tres circuitos diferentes con tres niveles de dificultad. Si ganas suficientes carreras, podrás desbloquear un cuarto circuito: la dificilísima Copa Especial. No será nada fácil llegar a la meta, ya que cada pista dispone de diferentes obstáculos que habrá que sortear y los corredores podrán obtener objetos que los propulsarán a la victoria. También podrás enfrentarte a un amigo en una carrera multijugador o en el modo batalla donde el objetivo es explotar los globos del adversario antes de perder los tuyos. Con más de 15 pistas en las que podrás jugar una y otra vez, Super Mario Kart te ofrece un estilo de juego clásico... ¡y alguna cáscara de plátano, por si fuera poco!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-08-06",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/de18ac5925af873ee86a21f9a828fedd7389724a9cd5a2b02ceea366b2e98486.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c7101f10c8db3303299f9a0c5a6cb8c5394e47dec0a6f794f974d86651ddc492.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6051bc7792b7e5d0ce192e780c8d4b7fcc928159e31792b2266ea7664dc84303.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/eb400bb54b7affd1693f00bed36e5b69a0115826ab5cd470f78aee9c9fcd0fee.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f04ca9c382a598c25b354694cc29c4eab3a5825b7e01587fedc6ad9c408e0ee0.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/56b7ec4239ea3b2791d480a0feab86a2b53650f487c368ae7271526098fc1627.jpg",
+			"name": "Avance para lanzamiento Super Mario Kart™",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c191cf2e7bed55bede76b31e7accd8e738869b5357b94da1d30a0c24202e4b50.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0b02640903afff0eb708c038240ba4f7e83dd8cb23bf3332ae200d5d66ee1f52.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				}
+			]
+		}
+	]
+}

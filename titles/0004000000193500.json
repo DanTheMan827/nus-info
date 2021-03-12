@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000193500",
+		"eshop_id": "50010000039655",
+		"product_code": "CTR-N-BTEJ",
+		"name": "テラリア",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 1236,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/05380a1f0aa580b0c06bc1b950ff70b1be5204b0ea7b5e99a15b6a9936e37a8c.jpg",
+		"data_size": "59550564",
+		"description": "『テラリア』は、土や木などのブロックで作られた広大な世界の中でブロックを自由に掘り素材を集め、アイテムの作成や家などを建てながら、世界を作り上げていく“モノづくりアクションアドベンチャーゲーム” ●掘る！ 探索を行うワールドは、森や砂漠、溶岩地帯、浮遊島にダンジョンなど、さまざまなエリアで作られた広大な世界。ワールドの地形は、木、土、石、鉱石、などのブロックで作られていて、つるはしなどの道具で壊すとアイテムや家を作る素材が入る。地下深くまで広がる世界をどのように掘り進めて、探索していくかはプレイヤーの自由！ ●作る！ 探索中に集めたブロックやモンスターが落とした素材を使って、建築資材や家具、道具、武器や防具などのアイテムが作れる。いろいろな種類の素材を集めれば、作れるアイテムの種類も増えていく。 集めたいろいろなブロックを使えば、探索の拠点となる家を建築することができる。建てた家は、アイテムを作成する作業場や探索の途中で倒れたときの復活地点として役立つ。また、条件を満たせばプレイヤーを手助けしてくれるキャラクターが住み着いていく。巨大な家を建ててキャラクターを増やし、町を作り上げていくことも可能。 ●戦う！ テラリアの世界には、昼と夜があり、夜になると昼よりも強いモンスターが出現するようになる。また、モンスターは地下深くに掘り進めるほど凶悪になっていく。地下深くまで探索する前に装備やアイテムをしっかり準備しよう。モンスターを倒すと素材やレアな装備品などが手に入ることもある。 ●釣る！ 「つりざお」を使って釣りが楽しめる。魚の種類は20種類以上！ 釣った魚は料理やポーションの素材としたり、中には武器として使用可能な魚も。さらに、魚以外のアイテムが釣れることも……！ ●乗る！ 「マインカートレール」を地面に設置すると、マインカート（トロッコ）での移動が可能に。マインカートは歩くよりもはるかに速いので、一度レールを敷けば移動がとても快適になる！",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2016-04-21",
+				"retail": "2016-04-21"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/efa112a720d720bb3c7243549c38b07044cf55dc90b44f40fd0af5fe017a86c0.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/adfcc9cbffccab15e8a191c9cc7dbe08a8ffad72ffcce953a9545c2285ece254.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2dcb2f9432b0a2606c3e38ac0b950e7a45b278e75a51e802b18d08ff5d314222.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6cbbdb54bfba97d40f3fd1a400097ebe8dedd4be9341d1ff820c32595a043a7a.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/54fbe004d3f6ee69e106f10aebec666bc643c4d40ac20e5412269b539e4f9f9e.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/76094147f5eaebe72c012cbd3929c317adc0cf94bb50142e77a01a0d9e637d5a.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ca8d3daad6f21c38fabbb57422dd8b914be4e37562437192d278cdcb7c87f27e.jpg",
+				"name": "テラリア 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5195f21cd5e0b0c99a881ed4f3c8740445805e04794bc19dc585884572df0823.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "86"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fd5736362d484927c390a9fe83388fedbce61aa513af6d8fb1aa98877b52b7ff.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "86"
+					}
+				]
+			}
+		]
+	}
+}

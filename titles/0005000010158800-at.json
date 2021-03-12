@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010158800",
+	"eshop_id": "20010000005704",
+	"product_code": "WUP-N-FCBP",
+	"name": "Ninja Gaiden®",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 267,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1cf94546904f4ef38ff093708d14d31c2eaf56e23389ffeead0d7b27b88ec0c1.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d617bafdcfd13df0a5f554d277d0374fb0d5b501f8ac3f1f8b933d871a9ecaa2.jpg",
+	"data_size": "36634764",
+	"description": "Erlebe das originale Abenteuer von Ryu Hayabusa, dem Schattenkämpfer, in diesem gefeierten Actionspiel aus der NES-Ära! In Ninja Gaiden reist Ryu nach Amerika, um die Ermordung seines Vaters zu rächen, und deckt dabei eine Verschwörung auf, welche die Welt bedroht. Die Hintergrundgeschichte wird anhand von einzigartigen Zwischensequenzen im Anime-Stil erzählt. Renne, krieche, springe und klettere, während du dir einen Weg durch zwanzig herausfordernde seitlich scrollende Abschnitte bahnst, die sich auf sechs Level verteilen. Besiege Schlägerbanden, böse Ninja und barbarische Endgegner mit deinem messerscharfen Drachenschwert und dem Einsatz von Ninjutsu – Ninja-Magie! Wenn du diesen Titel bereits auf deiner Wii™ erworben hast, führe einen System-Transfer von deiner Wii auf deine Wii U™ durch, um ein Upgrade-Sonderangebot zu erhalten. Hierbei handelt es sich um die US-Version des Spiels.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-03-27",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/cbca6fd4ba04a533aae5aec2649ee87d10a7c03a9cf58cd55380c19f4522a2f4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/fca579c2c801f877b23d6012b60dbbe018afc599d4ea8fcfed6fd0c80f634956.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a103a41d958b706a0f5d430c065626e713b179be120a2d7a3c51d2f68a4390d1.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a51255615a253c05099c9dcd7485e272c52a118d12fad0231741083730d5435a.jpg",
+			"name": "Ninja Gaiden®: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6a3fbe8c621b018832cac5b4da2727f93067c4ee53a2e45ce9ae52e819258a13.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "55"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d326c9c152639f1de7d3ac6df22bfa02f03eb805d015e34af993ac3f8f6758fc.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "55"
+				}
+			]
+		}
+	]
+}

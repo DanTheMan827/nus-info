@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000008D000",
+	"eshop_id": "50010000010375",
+	"product_code": "CTR-N-JC3E",
+	"name": "Slitherlink by Nikoli",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 118,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/87b51b89c132b86e15536a76f57d636a2e9dcbe6b13bb5100262830b62a6391f.jpg",
+	"data_size": "37587812",
+	"description": "Con la serie de rompecabezas Nikoli, puedes disfrutar de rompecabezas de \"Slitherlink\" de alta calidad, creados por Nikoli, quien le dio al reconocido rompecabeza su nombre. Por medio del Nintendo 3DS se permite la realización simple y sencilla de jugabilidad. Este es uno de los rompecabezas originales más asombrosos de Nikoli, conectas los puntos para hacer un simple aro. \"Slitherlink\" es un rompecabeza en el cual conectas los puntos con una línea de acuerdo a las reglas. El mayor atractivo es que existen números ilimitados de juegos de secuencias conocidos como \"teoremas\". Con este rompecabeza, puedes sentir como tu nivel de habilidad aumenta con cada teorema que aprendas.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2012-06-21",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1d17cf9b05cfab81c1879c2e88853f24a89482ee4c9bbb4d2b3547b3a7169441.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/de4702da0650b3a1a7ef4723dc5aa2a26541a08a7ef857cf8abf9731f34e4778.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/655a4fffb79f07bf5371d9b54eb466f65e493baac64fa72bbacff7a334d4e9c2.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/bbcf5d6cb4d61d3fc4d218fb5b0c87a95247f191231b6c9d7e2ae81c08757052.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ad23fe8c8fdc4f57826ff93783cb6ba8c269da07629a02e3cfa50c5d6e9c58d4.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d9de6a0914e934d80a4aba4d5c7c84c7ab6aff7f1fb16d8dcefe43ff8403be17.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/63c877bcd6286b0ca2697dacbf096b659004eca1758a4157bc472bb17563a821.jpg",
+			"name": "Slitherlink by Nikoli Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9049d130f58d05fabde8857b062806e2bd1b7a2d360c80be755765024ec4e45e.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "68"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/74ef3c3803c269a414379b126622c921395a9c3efd9b29bef6becf4003168919.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "68"
+				}
+			]
+		}
+	]
+}

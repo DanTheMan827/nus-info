@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010152B00",
+	"eshop_id": "20010000004824",
+	"product_code": "WUP-P-WAQP",
+	"name": "Dr. Luigi™",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7b573f9bc1115a857cf45e4642d91e9f8d9053fdce1fb1bb03aeb699a78c5e8b.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/880a53e495905f01cb9781f223fc41840ae9e89cccd7df5457e7b94387c6a43d.jpg",
+	"data_size": "160333944",
+	"description": "Der Doktor ist im Haus! In Dr. Luigi für Wii U übernimmt Luigi den Dienst seines Bruders Mario, schlüpft in seinen weißen Kittel, bereitet sein Stethoskop vor und stellt ein kniffliges Rezept aus. Du kannst das klassische Dr. Mario-Gameplay genießen, deine Fähigkeiten im Mehrspieler-Modus unter Beweis stellen und einen neuen Modus kennenlernen, der speziell anlässlich des Jahres des Luigi entworfen wurde.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-01-15",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/5709cbe84ccb58ce873e9d278faf61cf0ef64220663e60fb20484470752d82ba.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2d771f4dff6fc27defec3162876090478d0e0f626a25bfb3ff198134f5dd7836.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b7b8bf2ff18295bb0161da5cfe8408d953c6c294cda790ac5db87b8895672e4c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a45638cab7e6073219e47b44d9e6f72c34e127bdb6aadbaad48b0ec01831da28.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/247f9176f4bc04b7ca2f322b3682991287060c2c1c383b7291b6f00732e95dd2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/35d2847f206a0a197aed32c2f2860e75c08d37059915879d878b6706fd6b5e35.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1fde08b3d09118b9930fac23748e4ea827a71a7c8fe40d1556a3b650e6ae4fab.jpg",
+			"name": "Dr. Luigi: Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3b99c0d1b17d3c99d6d92d11227169672bcaca8a67e9d99b0ac8175cc835d64d.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "96"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8bb036703243d6d41106f8086a20f76193bf103b82d2bb916c9a7011c92dab79.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "96"
+				}
+			]
+		}
+	]
+}

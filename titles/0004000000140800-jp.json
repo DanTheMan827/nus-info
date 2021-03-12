@@ -1,0 +1,85 @@
+{
+	"title_id": "0004000000140800",
+	"eshop_id": "50010000039415",
+	"product_code": "CTR-N-KWHJ",
+	"name": "魔女と勇者Ⅱ",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 1212,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0ce4e9576ea453b8dbf8a3ad50b5ac1d69273eb901aad58532e34c9abaf0dd65.jpg",
+	"data_size": "107916132",
+	"description": "『魔女と勇者Ⅱ』は、ちび魔女とちび勇者を同時に操作し、 敵を倒して進んでいく「8Bit」テイストアクションゲームです。 ちび魔女がやられるとゲームオーバーだけど、 ちび勇者は何度でも立ち上がる！ 体を張ってちび魔女を守り、 ちび魔女の魔法でピンチを切り抜けろ！ レトロな8Bitテイストのイラストとサウンド、 そしてシンプルだけど奥深いゲームルール。 誰でも簡単にプレイすることが可能です。 後半のステージでは敵がわらわらと大量に出現し、 それをまとめて倒す快感がハマります。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-02-17",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f9dc4390b0c0183720eab46185e36a70488be8242ff2bf422692516c66f057aa.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/bd0ea55e4855f98076b1f2f7684364bc655e24a7b8d8409e86420024246075b8.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/76e09a05ff9b710aa5b50756f7b5a2d03d5af6e81f54d2bc75a9704b77ae4854.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/13a21bdd6848b04095959ea9ba6517540d44ce21fed5c7f4ab888afb957be09b.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/fe679a05ba6be1089e0ebb874b47517c569da7bdf9b22a61cc94102914bb2691.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0118c7adb420b0a4d82de750f4fa025caa5b91539bcbd823503335b3930c0728.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c25548b036643924d2a436fa2163173f209a8087d21c547234facd3ab139a442.jpg",
+			"name": "魔女と勇者Ⅱ 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c1a33d45eab397f34461817b059cbdd2f2af4564eceb5b3edb7fac995edb225f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "106"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7d73c0e01efb0d7f5ce24570ddb0a2aa72f388c8d401678cf5d79c9f3f695cf4.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "106"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7ad127a7443e344cc91c59210788323eb37ee3678316953c6ff677952a28612e.jpg",
+			"name": "魔女と勇者Ⅱ 紹介映像2",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b38c5391825c0cda48c9a3103a8a83bcbce2e885ef606d59a5f9f4ccc671c813.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "169"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c25d10cbbc4f0de76f47d868194ef0202cdac0aa939f0daaf480d2581b2d610c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "169"
+				}
+			]
+		}
+	]
+}

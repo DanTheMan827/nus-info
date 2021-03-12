@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010119C00",
+		"eshop_id": "20010000001369",
+		"product_code": "WUP-N-JASJ",
+		"name": "カービィボウル",
+		"platform": 164,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/444582b991040ca1427a2a47db1378c75c940320bfac7a460b6a3924c9efad66.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ac22c9242be831e4cd15d08dfa615043a28f6c2fcfa8bc904a6838678c23d0b3.jpg",
+		"data_size": "41058444",
+		"description": "このソフトは、1994年に発売されたスーパーファミコン用のアクションゲームです。 プププランドの夜空に輝く星をひとりじめしてしまったデデデ大王。きらめきを失った空は真っ黒に! きれいな夜空をもう一度プププランドに取り戻すため、カービィはデデデ大王の住むお城へと向かいました。ピンクのボールになったカービィをショットして、ステージを縦横無尽にころころ転がしてください。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-05-08",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/9503645ec62c040112cc078ecb4caac80d1a0b0c272cdc6772fafe1233d08fdc.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/d53eca5c087623bd25d0d99d9efeb2fe7c9308d874b2c4b1401a5491e4386c66.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/863e2f93c95a8020e776cd7d360a255984652354805a6e5515b72c986b60443c.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fb0a3bb8b9c9c2c4462bd4722e96c330bc49b99b44fc0568c5aba0b9294e4a51.jpg",
+				"name": "カービィボウル プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/880406c289bffcc2f8a488612f49aefdd9c1d1fe871bfd96e3e595d9b2e55a5e.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "40"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/463101b955a0fe3132012d64e3b28ddcd5e08253f22216e2270b6791dd8f2784.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "40"
+					}
+				]
+			}
+		]
+	}
+}

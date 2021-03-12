@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101FEA00",
+	"eshop_id": "20010000026129",
+	"product_code": "WUP-N-NA2E",
+	"name": "Harvest Moon 64",
+	"platform": 170,
+	"platform_device": "WUP",
+	"publisher": 179,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/30c5636f4ee4eae55e5565304c9601c67e1ad8a44c3bc837ddb1bf57682639ef.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d0b5d7a9d8c74d9a2486cf17af8cdfe40a2414d0a66d0725ba09702b082a459b.jpg",
+	"data_size": "62947448",
+	"description": "In Harvest Moon 64 werk je hard om je eigen leven op te bouwen op de vervallen boerderij die je geërfd hebt van je overleden grootvader. Je hebt zorgvuldige planning en veel hulp van je buren nodig om de seizoenen door te komen, en om als meesterboer te slagen. Dit is de Amerikaanse versie van het spel.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-02-23",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/184e69da7663d2be9d2e7d10c155f8b11ee59f06a6485be5caaccf460a5a5a94.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/248de9e03fdabe3534cf9cf60e9b22081942649667f634c4230b32ccc11e4515.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/15f5647b6c9bf0bb64512af9e1603ed59f3c2a6bca44112ecaa7d7ca380e12cc.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3a407fdb1de833491ddd050a8c88789718e6421d2b15ec6043ca277ae24e1e99.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ebd7a19b0735a7f966174e6ba17e0bfcbc132cad8285ebb51e9415333962390b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/333cf11f74d9d1b7a4167d11cbae20b42ba52230297f24d047198db6509c925e.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d7178d11b2c3daed31404a075862ba4973e7d860a6d55801e2fb489bf76e7675.jpg",
+			"name": "Harvest Moon 64: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4b98bf0bf7356edb71ba21387190f5cb8c8fbcb04e28a15c2a418d68fdc9ce44.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/17652a800d5b5b7df391a9fc38668fcd5bc132526896d3a2c10b822cb479f5fc.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				}
+			]
+		}
+	]
+}

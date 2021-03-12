@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000007AC00",
+	"eshop_id": "50010000009123",
+	"product_code": "CTR-N-JELP",
+	"name": "SpeedThru: Potzol's Puzzle™",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6e584a248152112c714c426ad12dc9da3afc065542abc8592b99c045b3b783c2.jpg",
+	"data_size": "35961700",
+	"description": "Testez votre ingéniosité et vos réflexes dans ce jeu de puzzle révolutionnaire ! Kaotl, le dieu de la destruction, a volé le cœur de Creatl, le dieu de la création. Contrôlez les pierres flottantes gardiennes et faites-les passer à travers les ouvertures dans les murs pour récupérer les cœurs et ressusciter Creatl. Relevez le défi dans plus de 90 stages en mode un joueur, ou bien jouez avec un ami via le mode sans fil local ou sur une seule console Nintendo 3DS !",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2012-04-05",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d6b77f5a537fc677779a9e3113110e78d08a8237ced1c23757f35d8b44c9adac.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/42799d27201682050e5a633e104aa5540407662703837e86527c73c50756d1fc.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b8235e4127891c2ee3edb1d7c4ffe478a187ec32c1c4a49f6c6de64e4a941749.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/42799d27201682050e5a633e104aa5540407662703837e86527c73c50756d1fc.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f58318cc5bea7db03205c2dc10e5483c32a527e98fbf746903fb767eb4451b12.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/42799d27201682050e5a633e104aa5540407662703837e86527c73c50756d1fc.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e0f6f08098ea077fc2558fca5b07ec885fa674dcc6b2214655cdbaf23b334fdb.jpg",
+			"name": "SpeedThru: Potzol's Puzzle™ : bande-annonce",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7a91fe671c4553832dbcd0767daa193fd604c0a9400d5d2e2baa145f37a4e034.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "66"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f644af2db4c67f9e2c5ad29dc6229210a33c590eab861cee72ed77ab01a35656.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "66"
+				}
+			]
+		}
+	]
+}

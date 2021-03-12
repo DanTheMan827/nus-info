@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010178B00",
+		"eshop_id": "20010000008469",
+		"product_code": "WUP-N-JCWJ",
+		"name": "デモンズブレイゾン 魔界村 紋章編",
+		"platform": 164,
+		"platform_device": "WUP",
+		"publisher": 39,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d7c35287051d2958a41dc9a6cf6551967629af3e6f245dd191555ac2f84b84c1.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/37c201772ed810642b208af3ee7718a4229621e95bd34e2e3a4873d905f2b0e8.jpg",
+		"data_size": "43810976",
+		"description": "このソフトは、1994年に発売されたスーパーファミコン用のアクションRPGです。 かつて、6つの紋章の持つ力に魅せられた者たちが繰り広げた「紋章戦争」。その終わりのない戦いを終焉に導いた「赤き魔物」が卑劣な手により封印されて以来、魔界に偽りの独裁者が君臨し始めました。今、1000年の時を経て「赤き魔物」･レッドアリーマーが目覚め、その力が解き放たれようとしています。 世界に散らばる「紋章」を入手すると変身できるようになります。変身した姿に応じて使える魔力や特技が変わるので、空中で滞空する「ホバリング」や壁に張りつく「ヘルクライム」と合わせて使いこなしてください。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-07-08",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/3febda7eae1a4bab26eaea0ec45510c01742d5a2d5721791074b50085f5664e6.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/4986e3e66fd3fd6084024e761134783bc4692e19619bad288ea21631470d5354.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/a56d41bbdb7a1c77488d80d78811de2eb318fd22b6a41b748d2ad0f97efa5ecf.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5ad2c04cfc796aafbc7ec8391af72c055c3bcc901547ad249704f390d1e7cb34.jpg",
+				"name": "デモンズブレイゾン 魔界村 紋章編 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7f42d91e764250957882364c596170228f66d7a04f10897d66e0aea2c36cb23c.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "71"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7be4ace54fafef354a6200b3145e019f6f5900476b59ba9f2cc4af513352b1f7.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "71"
+					}
+				]
+			}
+		]
+	}
+}

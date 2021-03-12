@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010130E00",
+	"eshop_id": "20010000002150",
+	"product_code": "WUP-N-JBAP",
+	"name": "Mega Man™ X",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 39,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0ddb4ef67a142157aab6dd4070426c36631f3ff563efab3faba3f421b20edb6d.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/fb5c35b6e0ed164b3ca3cae14be695ca5ca81ed261baec01f2a07c2accbfbe93.jpg",
+	"data_size": "41255052",
+	"description": "Der technologische Sprung von NES zu Super Nintendo modernisierte nicht nur die Mega Man-Reihe, sondern auch Mega Man selbst. Einhundert Jahre nach den Abenteuern des ursprünglichen Helden übernimmt Mega Man X eine Hauptrolle in einer mächtigeren Robotergeneration, die als X bekannt ist. Gemeinsam mit Zero, einem Jäger abtrünniger Roboter, muss er sich einer neuen Bedrohung stellen: den Reploids. Wie Mega Man muss sich X durch jede nervenaufreibende Stage kämpfen und den Endgegner besiegen, um sich dessen Waffe anzueignen. Im Gegensatz zu Mega Man kann X aber auch sprinten, Wände erklimmen und Rüstungsteile erlangen, um seine Fähigkeiten zu verbessern! Wenn du diesen Titel bereits auf deiner Wii™ erworben hast, führe einen System-Transfer von deiner Wii auf deine Wii U™ durch, um ein Upgrade-Sonderangebot zu erhalten. Hierbei handelt es sich um die US-Version des Spiels.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-09-19",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/f6e808e13e6722ec3d828e7a0a11bf7669a762c08b7d7a41ce0db1257a945250.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/72cf7812186607b268f64f151e084ab4d22c3f9f47820657dabb5840e944da36.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6b8f914c3d033a4dfc42a320272f6588338c720a275c38f7a3472af787ec5dee.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/67f34369be7ad6479d5bdbfedc66e4ea73d09590c11ee17b5d1831c9b4476bb0.jpg",
+			"name": "Mega Man™ X: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1ef5f4e1e592f1a428fca85eeded6492fe3e1afeeb57a530d0403e3846a53a49.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2f2ed9bd0a2b2dc5d3502771e5fc7a629cae039ce88100c0b30683cc94209ebd.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				}
+			]
+		}
+	]
+}

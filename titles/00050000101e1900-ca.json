@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101E1900",
+	"eshop_id": "20010000022289",
+	"product_code": "WUP-N-AR6E",
+	"name": "Rynn's Adventure: Trouble in the Enchanted Forest",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1642,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a759df62d30d7713df6d789259043c4ee849ac7175b1acb9bc69b7d2b3148854.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c56c50efaf9f3d800950e9271f685c9efdecd477e482c6acd51a06d05147b8f0.jpg",
+	"data_size": "981827784",
+	"description": "The Enchanted Forest and its animal denizens are under siege. The invaders are a marauding army of fierce reptiles whose unopposed ruthlessness will destroy the Forest. Meanwhile, an evil wizard has kidnapped the king and queen and has them imprisoned in his dark castle. The only hope for the forest dwellers is Rynn, a spry young fox who also happens to be their princess. Rynn’s mental and physical agility, along with power gained from magical fruit, will allow her to halt the siege and defeat the evil wizard. Rynn’s Adventure is a 2D platformer game in which the player guides Rynn through a variety of environments teeming with magic and danger. The player will help Rynn combat the many enemies she encounters and outwit each of their fearsome generals. Rynn will eventually face off against the evil wizard himself in order to free her parents and ultimately save the Enchanted Forest and its inhabitants.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-05-26",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/b9cbe1f5f1ffcf9034f97fc29b95e331f49953abdea5a81d69da005b716ef9fb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/fb74c036e07bbf071f59feddc225ae752925b774bd0e0573fb4b085d232f1ea3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/990e65d85cc8d1aa84a87906fdf8b5e0f4d71467729aced9dd0ab3000d76ab1d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3e5cf0658446e861060e79d984cc4906a00ebe5428e3c877a79c20641ece1353.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7d1e03a89eb6dae9a5d5bcbb7d74f4bffb12420c2a5767874198e5f5aead7cb4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/973cafa8edbf49d74e4214d90de463d240a12a845de3417a2a284496a556f546.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f45b23a6c907bda23841521ac7d171ce963c5b1d83132a165a52bcadb860ec3f.jpg",
+			"name": "Rynn's Adventure Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/458be8b4b0cb2ffbf1ba980d3dffb2d990fca4ac1f7a1469687d7bf02e2062ae.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "42"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6b48924faae4b0c37a69a3bfcebb8d47bffea5f05e27ad13817dd5d68a2893b2.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "42"
+				}
+			]
+		}
+	]
+}

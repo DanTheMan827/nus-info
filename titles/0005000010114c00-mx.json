@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010114C00",
+	"eshop_id": "20010000004324",
+	"product_code": "WUP-N-JALE",
+	"name": "The Legend of The Mystical Ninja",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/37004140cb1cef8d4693707d7eb81986c5d5ae089363dbeaf9d59cee0b0b1c49.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9211369347accbb9c8bc16cd8bd73629beecf2605b2dfa3539309066ea8430e5.jpg",
+	"data_size": "41222284",
+	"description": "Toma el control de Kid Ying y Dr. Yang en una aventura de acción a lo largo del Japón feudal. Una maldición ha afectado la villa de Horo-Horo y su querida princesa ha desaparecido. Kid Ying, un ninja místico joven audaz y el Dr. Yang, maestro de la transformación del espíritu invencible, deberán superar 10 niveles de Dragonbeast para salvar a la princesa Yuki. Cada escenario contiene zonas intensas en 3D y 2D, donde la pareja deberá realizar docenas de ataques y resolver problemas mágicos y rompecabezas antes de avanzar. Enfréntate a enemigos graciosos como el Carp Meister, quien aturde sus víctimas con veneno de peces de pelea, Tanaka-U-Out, un artista del nocaut que golpea a sus oponentes con un martillo demoledor y el Sumo Tag Team, reyes del invencible ataque panzón. Recolecta monedas para comprar equipo nuevo y recibir pistas, juega minijuegos en la sala de juegos o prueba tu suerte y aumenta tu fortuna en Quiz House y Horse Races.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-12-05",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/365bfb3369d497294d54e9a4aac44c5204d782041c1bb9d8f4d6eac0f7921463.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d3ce541f4e06a7e214a0a4df4f19a6fd1f8716e7bfb9ef078c4d8b55ca490b80.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ddd3f935a277e62b97c40edcbc482c5c7c5740668bc5a1b78dd1150e24db996a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/130e5a96e59d976f744ea5be8b24cacf5ab5c70e88c3b1f54992daf7224e9675.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ec3b0ddd7ee7441cfc27c1ed314e20b2fec611613bc94b8d4cf17f852dc1e773.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9f7681c8b5908adaac7b027ce2e387b91dc28778840054b3adfc1e55caec7656.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8add7a76c19a7ccc9e8daf881aaac595686f492d2cd09883a9ea27ec54f3fec6.jpg",
+			"name": "Avance para lanzamiento The Legend of The Mystical Ninja™",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fb8891157ef2baef872e4e7a5959615052ff69a06ebba8b10bbd8820c0aad250.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "39"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7aa199a9ad0853713a9c335ce10b476d4c6ae40e72df9bba0cf5024a169910da.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "39"
+				}
+			]
+		}
+	]
+}

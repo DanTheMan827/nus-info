@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010168800",
+	"eshop_id": "20010000005805",
+	"product_code": "WUP-N-MNHJ",
+	"name": "魔城伝説 ",
+	"platform": 167,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/df0074789df05e39651b9ef3e1458032ed125d793748ddc61aa07b3567563728.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c5954dbcbb26dcb3f38deb29784b79bd5e97f2e394e06ba5bd551a11b1fb1c75.jpg",
+	"data_size": "76447864",
+	"description": "MSXオリジナルの縦スクロールアクションとして1986年に発売された作品。後に『魔城伝説II･ガリウスの迷宮』『魔城伝説III･シャロム』とすべてシステムの異なる3部作として完結した長編の第1作に当たります。幻の魔城を背景に繰り広げられる愛と戦慄の壮大な物語。超過激難度のゲームを堪能できます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-03-19",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/74848ec7906bfff75f05d16ce94931897c72ea4faa74e2b6f225591f10b5c8f5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/cbfcf8f50f0432585746f1de51ca2aae5854d71db5d43c061e70839b55f78256.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ec84310a347c9ade28232ff150a0e40fdabb8e95cd8089d84ea0428c811fb2a3.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/eb683fcbba7dd074fd5d5878981271ac449a0106391736363b064881794a71ed.jpg",
+			"name": "魔城伝説 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/29fbfa59a46c9d7ae739384b808bd0846677eae900bc48745825f1f02099227f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "37"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3a4935efb2b66a752ecab5f0805b0f5b84814b44e36eb4db99e0327232c3a1dd.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "37"
+				}
+			]
+		}
+	]
+}

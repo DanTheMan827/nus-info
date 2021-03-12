@@ -1,0 +1,45 @@
+{
+	"JP": {
+		"title_id": "00050000101BD000",
+		"eshop_id": "20010000015568",
+		"product_code": "WUP-N-VBBJ",
+		"name": "スーパーペーパーマリオ",
+		"platform": 171,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9d585dea872091cc806f97ca3ea4e160d0b781390286399e4c560522f41a9383.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0a2c49f4b1930657571c2e8c908445472a59270f76e93288e4aa9adf92bc8f7a.jpg",
+		"data_size": "445677788",
+		"description": "このソフトは、2007年に発売されたWii用のアクションアドベンチャーゲームです。 見方を変えれば世界も変わる。ペラペラマリオの不思議な大冒険！ またまたピーチ姫がさらわれた!マリオとルイージは、クッパ城へと急ぎます。そこへ登場したのが、ピーチ姫を連れたノワール伯爵という怪しい人物。伯爵は異次元空間の入り口を作り、クッパやルイージたちをそこへ吸い込みます。1人残されたマリオはピーチ姫たちを助けるため、アンナという不思議なチョウチョの案内で異次元の街へと向かいます。2Ｄの世界を3Ｄの世界に切り替えることができる「次元ワザ」を使い、2Ｄでは見えなかった道やアイテムなどを発見しながら、冒険をすすめることができます。ストーリーが進むと、ピーチやクッパといったおなじみのキャラクターも仲間に加わり、異なるアクションを楽しむことができます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-08-03",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/9d3d8575a01d3cf166e538f6c3a1eefd1a77f82d734e7b7724335c52f6f18994.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/5d166be16f02c29889206df3fd32fb1792b0cd41c37411605033f9d23da6c0ca.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/432ad5574e88bb67795bfea40dab209f89ef5f24feb48dae01b2dbbc5c538821.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b133d589e3b387eb7adf69d0ca3ba31371eb06f0a700f2a2dba449ae5d7a4157.jpg",
+				"name": "スーパーペーパーマリオ 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/20ce26a5315edc9f30311e79fc793645b1c7e5d42238d22bd307325237d6d447.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "114"
+					}
+				]
+			}
+		]
+	}
+}

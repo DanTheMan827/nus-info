@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001019EF00",
+	"eshop_id": "20010000014887",
+	"product_code": "WUP-N-PCAP",
+	"name": "Mega Man™ Zero 4",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 39,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/72cf332b0b35aeeadaeef0964970c900c7449494a6e7eff2ad625824c94d2dea.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5b9cdd56239aa21cfb569f4a8d5807c234e8aba4d1be94f341079174cf68491e.jpg",
+	"data_size": "93421708",
+	"description": "En la cuarta y última entrega de la saga Mega Man Zero, Zero debe evitar que el malvado Dr. Weil se apodere de Neo Arcadia y ayudar a que los humanos supervivientes se pongan a salvo en Area Zero. Mega Man Zero 4 introduce el Z Knuckle, un nuevo puñetazo poderoso, y la habilidad de mezclar y utilizar partes de enemigos que hayas derrotado para mejorar tus atributos. Incluso el clima está bajo tu control, ya que puedes aumentar o disminuir la dificultad de los niveles alterando las condiciones. ¡Mega Man Zero 4 combina los mejores elementos de la saga en el enfrentamiento definitivo!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-05-14",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/c0494f9de724ce24079e0294cf0448068e0514a0becfc3467ed342e9a8c0fa90.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/708311ea11814fd2295809bdde0ff15a1bff952cde9f6791509a7ce1048305ae.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3b245e62e859d7f4209c8572ffca3c1eaaef7564864b9d41a5fdfa74b4245584.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9929c8fa8cb0728394c8e92ad3dc3052734571c31763ab6fe67a28a23c79ca36.jpg",
+			"name": "Megaman Zero 4: Vídeo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/309e32502a5a3cb072708aa03c5d2430cf6d5e98a9c947eeb7e920cba3008f47.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/50e694abee9c5825d46f767d250855a4e5c30d8e3d15d6f6c4d47230386a9fa9.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				}
+			]
+		}
+	]
+}

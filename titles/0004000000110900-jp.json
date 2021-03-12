@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000110900",
+	"eshop_id": "50010000025177",
+	"product_code": "CTR-N-AG8J",
+	"name": "Gardenscapes つくろう!大庭園",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 19,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/23c83125f1e92b38b8468aa9f23c1fbc5063972799aa473ad869a99fe4f282b4.jpg",
+	"data_size": "82062180",
+	"description": "ある日突然、おじい様の大庭園を譲り受けることになったあなた。 しかし、美しかった庭園は、今ではすっかり廃れてしまっていました。 それを残念に思ったあなたは、執事のオースティンと力を合わせ、あの頃の庭園を取り戻すことに決めたのでした。 本作は、すっかり廃れた大庭園を復活させることが目的の箱庭&物探しゲームです。 ■庭園をリフォームしよう! ベンチや噴水、花壇などさまざまなデザインの施設を設置し、庭園を美しくリフォームしていきましょう! ■ガレージセールを開こう! おじい様の邸宅はいらない物でいっぱいです。 ガレージセールを開いていらない物を売り、リフォームの資金にしてしまいましょう! あなた好みのデザインで、あなただけの庭園を。 さあ、オースティンと一緒に素敵な庭園を作りましょう!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-09-03",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6ce69214b37093b0158999a48fb91ddb9ab817d94d102d098b469b4cd0ab12da.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/fc3dee61a5e9114fc219e060298cc0f64a59f57ba0f41946eb41650e06fe0aa3.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6d75c7c8219b5b3a475af022046e4efb1da40f05268bcd5935e1f66bcf7d7846.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ef33103c47f19bc1ea0c536b351d940c183f20255ea456ceff2bb1146508b4ff.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/9a8049380a709eddb3da01c3e2b67c8553c6a055035ab8bede0e3eba22bced07.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/60a73f46103791e30f9aa5346e62a8aa01cc25e5692fedac7ad5b1a22f0a197b.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0e149f773395fb5870067af8c92a13a1d84d2a2c0153804d3a549c03ecdaf1d9.jpg",
+			"name": "Gardenscapes つくろう!大庭園 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6d67ec491fc75d07005ba1f57b9f68707e26e9836edcb64c54ddee3d5c21ca53.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "135"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bf784636074245fe92bdb86ebbd53d0a1a6acd89328c2f93054fba6f5bc190dd.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "135"
+				}
+			]
+		}
+	]
+}

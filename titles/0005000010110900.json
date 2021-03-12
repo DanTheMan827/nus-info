@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010110900",
+		"eshop_id": "20010000000053",
+		"product_code": "WUP-N-ANGJ",
+		"name": "NINJA GAIDEN 3: Razor's Edge",
+		"platform": 125,
+		"platform_device": "WUP",
+		"publisher": 267,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b6e2c4a8105b227be4122bcc4efc2f5620cc9088248b4a8a63fbb9f3c38249cc.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/17b77a44f6cb01acaaedf91668b90336ac7ce8b4a61deec54daf495bfad48e3a.jpg",
+		"data_size": "5706711700",
+		"description": "激しいバイオレンス表現に加え、武器･忍法の追加、敵キャラクターの大幅強化など、非常に高いやりごたえと達成感のあるゲームシステムを極限まで追求。一瞬の油断も許さぬ超高速バトルが楽しめる。アクションが苦手な方も、「HERO」プレイスタイルで物語を最後まで楽しめる。くノ一「あやね」も参戦!",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2012-12-08",
+				"retail": "2012-12-08"
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/edef6088f333f85c5bf7e281376f773f49d3a1209ef4c2e790291c00baeefc93.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/180f81216623781724cf65a648c9820536b482f682efbbc0f8cd338bc41e2bf7.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/2c6f2e1a8e397e168b9f8cb82374dfd78cb9ac59a26d824519422c74f69a39ff.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ed439f436eb80ffe1327cc7feedd61a630d270a79677c52e7f7a9e0017ac360c.jpg",
+				"name": "NINJA GAIDEN 3: Razor's Edge 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/89f6487e0d281624794f377b5912a233c294ab39c9b2bbe4fb0e253debee4821.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "142"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bd395637b10824c60974a60b2ea268ecf1ea5f4ddbfe0b22768e65be34859c33.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "142"
+					}
+				]
+			}
+		]
+	}
+}

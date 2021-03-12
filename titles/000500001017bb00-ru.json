@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001017BB00",
+	"eshop_id": "20010000011567",
+	"product_code": "WUP-N-PA8P",
+	"name": "Kuru Kuru Kururin™",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6d74705002e2120bd5ffbbf77acd5a0a7bcf3cc44c7805dd102ff605a3465833.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/1d161a20944dc0d21e736301d1f00d5d14fdf99ecc7746e48293694f65592609.jpg",
+	"data_size": "92897400",
+	"description": "Kuru Kuru Kururin – самый захватывающий паззл из когда-либо созданных! В этой игре вам предстоит управлять вращающимся вертолетом и маневрировать в лабиринтах причудливой формы, а посему без молниеносной реакции и стальных нервов вам никак не обойтись. Двигаясь к заветной цели, избегайте столкновения со стенами и препятствиями, чтобы не потерять драгоценное время и силы. Легкое начало игры не должно вас обмануть — очень скоро на вашем пути появятся движущиеся поршни, летающие шипы и прочие неприятности. Освоив главные премудрости игры, вы уже не сможете отложить ее в сторону!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-12-25",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/e825a82536ce3a7b42263783c9791ae38e537fd82a21be7f9ca158122cd3d4c8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/34d85a489c58e35f5e3205d1c296cf6c6c69a31c604c62695ad0f1390fb7eb3a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8bce5cf0a08cfca43eac6e33a927b9f81139a89287a910d3eca4879865f0cf57.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f5bf2d50bb15488df387b069cf37cd4efb0509c5dc34cc9ded1c02dda1a07556.jpg",
+			"name": "Kuru Kuru Kururin™: видео",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8bc17890942bfe146f486e7f38c460f678ef3bc87cb3ab241665392b00e0eaa3.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "55"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d8617e90ac0729ad42a89497c01a6f24cf4f4f5fbdf0893598c7cf8ed31ac9fc.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "55"
+				}
+			]
+		}
+	]
+}

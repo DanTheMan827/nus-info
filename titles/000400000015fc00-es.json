@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000015FC00",
+	"eshop_id": "50010000038395",
+	"product_code": "CTR-P-BTSP",
+	"name": "Story of Seasons",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f889b1aa43426daf1f629a4f19f6c56044b119f78cdbf6d244fa0051e6e89344.jpg",
+	"data_size": "759917412",
+	"description": "Cansado de vivir en la misma rutina, recibes un folleto con una oferta intrigante: Villarrobledal está buscando caras nuevas para que trabajen como granjeros y contribuyan al crecimiento de la economía local. Se trata de un pueblo pequeño, pero que promete una vida colmada de trabajos gratificantes, además de nuevas y valiosas relaciones. Desde tu llegada al pueblo, comienzas a experimentar la vida en la granja gracias a los afables y acogedores habitantes del pueblo mientras adquieres nuevas habilidades cada día. Plantar cultivos, criar animales, desarrollar tu granja, exportar artículos a otros países o cuidar de mascotas son algunas de las actividades gracias a las que vivirás nuevas y emocionantes experiencias como nunca antes lo habías hecho. ¿Te las arreglarás en la granja y sabrás corresponder a los habitantes del pueblo que te han acogido afectuosamente en su comunidad? ¿Qué clase de experiencias apasionantes y lecciones divertidas te aguardan?",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2015-12-31",
+			"retail": "2015-12-31"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5e5edd89d47a6b349353603ac7e457592fed52f7003c90f83f3a766433a04926.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c94a754d11b3d2e1e59d2eb6de55e7240212224aba5d7bd259e2c903b585c3d4.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2f55a07312350213385619490f527ec385a1513bd24b4b4c286dcce5c89e7d6e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d11dc500cac75c9ade355beac72897548a65c461626f7e62a9bc4e012f8e5ca5.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a88bc0ce835278838624fe54b967aaed67cae7e5323285b7e82267083f61566d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b0a5636aa54e870b4af5017e731b4321231729029193b8943956f845f9b58a59.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/625d9b0e0884763bd0777621fa7def5728b60af3db1dfd5b649528dabfd142fa.jpg",
+			"name": "Story of Seaons: Tráiler de lanzamiento",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5a1048332fc7a6ecd76b357bfb4b8a3d61cfca79149ea347aa2e27749868d421.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "111"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/76eea261702b0809641629e4802fd2c1e18d9021ba38d0585166857d4be4fb19.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "111"
+				}
+			]
+		}
+	]
+}

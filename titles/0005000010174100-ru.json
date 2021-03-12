@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010174100",
+	"eshop_id": "20010000009347",
+	"product_code": "WUP-N-PA4P",
+	"name": "Super Mario Ball™",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/dd0a8145d58a1c9d7808990172b95f70f335d78573d8c2e9a75241ee0f1457c1.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e7ee39cfb7aee29685ada1e37d17c989543c3f2591804d90fa1665d6d6718211.jpg",
+	"data_size": "95387768",
+	"description": "Эх, катись, яблочко, по тарелочке! В Super Mario Ball Марио™ предстает в весьма неожиданной ипостаси — в роли шарика для пинбола! А все началось с того, что в один прекрасный день во время ярмарки злодей Боузер™ превратил принцессу Пич™ в пушечное ядро и похитил ее. Недолго думая, наш отважный водопроводчик забрался в пушку и, превратившись в шар, отправился на поиски пропавшей принцессы. Пройдите (а точнее, проскочите) множество уровней, представляющих собой столы для пинбола с замысловатым дизайном. Зарабатывайте монетки и звезды, метко поражая врагов. Наберите необходимое число звезд, чтобы открыть двери в другие игровые миры. Однако попасть туда вы сможете только после того, как победите босса на каждом уровне. Итак, чего же вы ждете? Покатились-понеслись!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-09-11",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/28181cd244e32aa5e58278baecd841db57ddcc93b1546afbabffb674d325bd14.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/61a29f02de2ae168028eacf316889dd02ef6cd0f68b6f349aef2bcce5ac5ebf8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8de6d54aa8ee0dc88f14302eb29002c42e01930187136d7f5d77186e16b3e042.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ba50630922a3cb21efdea1a7a37f34f6cb8d6511ddef96f354b7f3a1c4acfd0d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/cc864c2412f38b0cb8ec1a1a16d1444625f4b44f16abd74c4cad149fab6a8ab9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/79e30002ffacb29ff2fb125426e9d670fbc582fa6cc38864e7af4643f1ccba41.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/da11b9a5ed27cf56a58fcec74c6fa4714f1883dbecfc810334c2ff7576724c56.jpg",
+			"name": "Super Mario Ball™: видео",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/eb028a80dd2373bf53f2e2a78da561797c6de433d96c7a98d6d5285cebd06fbd.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "53"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d0e82765ca41fd2df134fead2c897b30a7f6288b2e0f40d5541ead2fbb637a84.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "53"
+				}
+			]
+		}
+	]
+}

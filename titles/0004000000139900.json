@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000139900",
+		"eshop_id": "50010000030355",
+		"product_code": "CTR-N-KPZJ",
+		"name": "忍びのPAZURU",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 1402,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b7d21296451682e59c170c8ad0f9de74052c0a6a9d8b04aa0e7cc38f5d03a6c.jpg",
+		"data_size": "32254820",
+		"description": "忍者から届いた挑戦状はパズルでした。忍びの者に伝わる秘伝の謎かけに頭脳とカラクリを駆使して挑戦しましょう。 テンをすべてのマトを通過させるだけの一見簡単な謎解きに見えますが、カラクリを上手に使ったり、忍法で軌道を実体化させたりと、あの手この手とアタマを働かせてクリアを目指しましょう。 また、ただ単にパズルをクリアするだけでなく、できるだけカラクリを使う回数を少なくしてクリアしましょう。高い評価が得られます。 なお、パズル作家のように自分でパズルを作ることも可能。QRコードで出力して友だちに忍びの挑戦状を出してみましょう。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-02-10",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5af8face05ac7f7360483797a26cde31378abb45ef8c11ca14c67189ff10b7a9.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/97d07fe967c0f771f1dce454eb0ee1a1618c04330b098672cf4cb0faf3592830.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/96536a14b586f7bb1a9b74fa48ba3648a6ad4676dc26056890c9fa15cf66ef43.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/85d228a0e1aae0cb22dbe7e7269baaff0c0326c08081ecee0de95ad1c183fd67.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f93d469194069770701870fca320739492e639ab6dec5e5b7208fcfc48185bdc.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f287b2a6ded1e88e30ae5414ba283f4b84a9898030f7cffddd8643d03292232f.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c52678e53f357c376881d8d0d13d8fab16d4c87f7951a7f5d787bb7ae852778c.jpg",
+				"name": "忍びのPAZURU 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/aa7d97beb1a16cc16d8f4b3644c26668cde6e81de6c50546e47aa9ed999f3a7a.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "59"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4eb8948b9c150ecd24b1c6df462cfe20791cc950a97fc0f21f88a790c488d2ce.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "59"
+					}
+				]
+			}
+		]
+	}
+}

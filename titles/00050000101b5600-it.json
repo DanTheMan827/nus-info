@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101B5600",
+	"eshop_id": "20010000019467",
+	"product_code": "WUP-N-FHAP",
+	"name": "Hogan's Alley",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/948dcf8053e773a6519c63314787c365a081b982fc7155a3a1f258e6ac672b7a.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3e2700613de68e58d6f64043c8b670406b4735c06ea1d508f9cbd8e669f421e5.jpg",
+	"data_size": "38731936",
+	"description": "Indossa i panni di un poliziotto in addestramento e sfida i poligoni di tiro più tosti. Affina i tuoi riflessi per sparare ai gangster ed evitare gli innocenti. In origine un titolo per NES™ Zapper, Hogan's Alley viene riproposto oggi per i comandi del telecomando Wii permettendoti di mirare velocemente e con precisione. Testa le tue abilità con [ben] due differenti modalità di gioco sparando ai bersagli mentre ruotano o sbucano fuori dai ripari. Puoi divertirti con una terza modalità e testare le tue abilità di tiratore mantenendo le lattine in aria. Questa è la versione americana del gioco.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-10-22",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/07ff905f9a2df789f933f42a9634d8565bc40f6161f4ef11766c38d8cc108c98.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/96f38fb4755c335c285f83e934a5f5921d2f1337c90d2111765cd989fb8c61c4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a0ccf36e200b91f23ef07d80856ea2086472d0241027242e145873b1384ceda0.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/46087b28ebb6d9c48a7983f23bd68b30dc614a23e95f130161edc749973af42e.jpg",
+			"name": "Hogan's Alley: video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ad474c6143b6bd6a04d6578e326b2a2ad19e51bc7203e995af68ffa5a0e72422.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e7161ba0e694d37eae29e0f67c3f8275323211fc2f8fb6b241fe5cedfb112c4c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				}
+			]
+		}
+	]
+}

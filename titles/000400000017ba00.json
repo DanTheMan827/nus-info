@@ -1,0 +1,918 @@
+{
+	"BR": {
+		"title_id": "000400000017BA00",
+		"eshop_id": "50010000039137",
+		"product_code": "CTR-N-BSEE",
+		"name": "BRAVELY SECOND™: END LAYER",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ff99594fda34fbc2d6c2cb8ee6109e90533735cbb1d56142c3f361169ec403cc.jpg",
+		"data_size": "2665225060",
+		"description": "Prepare-se para a nova evolução da série que reinventou os jogos de RPG baseados em turnos, o sucessor do jogo Bravely Default™, de Square Enix’s. Nesta aventura independente, Agnés Oblige foi aprisionada e agora o cavaleiro a seu serviço, Yew, precisa salvá-la! Crie a estratégia e a equipe definitivas, e arrisque tudo neste novo e rápido RPG. O inovador sistema de batalhas Brave and Default está de volta, melhor do que nunca. Pese riscos e recompensas em batalhas baseadas em turnos: personagens podem usar vários ataques em um só turno, mas é possível que não consigam se mexer por um tempo. Vença a batalha em um único turno e poderá iniciar um confronto mais difícil para obter melhores recompensas. Aperfeiçoe personagens e trabalhos rapidamente, mas cuidado pois se for derrotado perde tudo o que ganhou. Escolha entre 30 trabalhos e mais de 300 habilidades para customizar cada participante estrategicamente. Quanto mais você aprende, mais táticas vai dominar. ",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2016-04-15",
+				"retail": "2016-04-15"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/38448b294d43708656d0d318f092b8e12923299318134c0b7d039b646dccc022.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9eb293e077cce9d2619aa561220315abb123191250ad6fbfa992f5476e9e78d4.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/898d4c0b36f0bcb00b860499b5971320a542124580f6cf9ce1f0c29e74527803.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/db542bda61ead4092a487d1ee432e99fb2503c773f710aaf6648a8da1f240a96.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/051beaacf0c510496a3c9dcdd7b340e5a9c206bf3c592ab2919d52ef683ea74a.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6b9661ee643f34f6697e45cd529d720117fd0b61aa989eb6afa170a3bd95d568.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/948233e3cbf2a69f75bf6d77e57d0d5d64c20838a3ea510fe111467d989be516.jpg",
+				"name": "BRAVELY SECOND™: END LAYER - Begin the Journey Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c4a12a7d1f1c95cdf690435735e19569a59037c9619bd43bcf190e24dbfbe6eb.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "143"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6cb7405e1febfa5d1e7dc2448eff75db28adf647c2cf6559981c65e1b769a04c.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "143"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8896c5d7bf56ad617b369b2068580099185911acb167bc9ab69d08ff80952e2c.jpg",
+				"name": "BRAVELY SECOND™: END LAYER - A Bang-Up Job Vídeo",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/226fa0fd2188542a2af661ae6e4acc909ab68f21f551c57defa6b7e342571731.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "171"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bd9af852e8f3d9e44ef0d7e7d49929c62e48a87016ba5d2625cd39782061aee7.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "171"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/645819c4bba5a91ca5eac7934ea9a360f2d71a55112899dcf3480c31fa73e9b6.jpg",
+				"name": "BRAVELY SECOND™: END LAYER - The Fires of Battle Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f873b83564461559d0eb5dff37258a33720359e83328989f25efa6e24f59a952.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "168"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b1059ce3751a4f66d814ff58c766882652ec073c45b3c97cba89b34f693132e8.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "168"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ea4462750e917233d4d4c106df4b57ee7ce108e3ddb5395048df17f7e7d660e5.jpg",
+				"name": "Nintendo Minute Bravely Second Unboxing and Giveaway",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/06bf11170fbe0900adbecee997af1325545d2986bf25a12897eeaaf559c503e2.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "486"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/314dde7525862cf7bd3eec35f8e56dbe91ea8c4e2a6fa6149c938d104193ec88.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "486"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e036d6a3f4035c62a3f0500fd0959dedc3d128d4629fc02f6477fa378bbe8a44.jpg",
+				"name": "BRAVELY SECOND™: END LAYER Overview Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8eef6895b2e0a91b65ca227a4135fc4b1d763853218add899e30124b39461a6f.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "123"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/215c35bb03044d8d469e652bfe167412ecc8a57253528073df9017868bd01eac.mp4",
+						"width": "864",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "123"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/726d6cb5859b8e85c0a288966613999de063cd228e8fe72d2a8b5133d713794e.jpg",
+				"name": "BRAVELY SECOND™: END LAYER The New Jobs Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/449f1b533a558c88bfc7059193490f1f8c3f9fcde97651f4ddbeb80c46e8baf0.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "89"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d5074c89411366e80d2d009b3a6d9e4933af00dc9dece2ca4516e512cb7a6478.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "89"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/914a90b925bdde82f527cbfd836d7cf3cff7beaf296ce5f38c8100edd46b19ff.jpg",
+				"name": "Trailer de lançamento Bravely Second™: End Layer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/658014f5f4625786f768b34d6a97ce382f6e1071de385880cbbff90d2c6b141a.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "142"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f5b58e8aa296f6698eb78e42f5e14afe228f8cb8932a83c7670cf1868cf9910d.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "142"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/79c42396ed8301e8f4b8aeb0cc6d96242fa878dc87182d04beca37da2acd1aed.jpg",
+				"name": "Treehouse Live @ E3 2015 Day 3 Bravely Second™ End Layer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c288f23614b316d73048d78c303f9062a45c14c54059777bcb6df4d66d738a54.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "1778"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c31b003fef2952d3058603763a2cfea20ece5538da4ca2f2d79dade9aecc86c5.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "1778"
+					}
+				]
+			}
+		]
+	},
+	"CA": {
+		"title_id": "000400000017BA00",
+		"eshop_id": "50010000039137",
+		"product_code": "CTR-N-BSEE",
+		"name": "BRAVELY SECOND™: END LAYER",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ff99594fda34fbc2d6c2cb8ee6109e90533735cbb1d56142c3f361169ec403cc.jpg",
+		"data_size": "2665225060",
+		"description": "Steel yourself for the next evolution of the series that reinvented turn-based RPGs—the successor to Square Enix’s Bravely Default™ game. In this standalone adventure, Agnés Oblige has been imprisoned, and as a knight in her service, it’s up to the hero, Yew, to save her! Form the ultimate team and strategy, then risk it all in this fast, fresh RPG. The innovative Brave and Default battle system is back and deeper than ever. Balance risk and reward in turn-based battles: characters can make multiple moves in one turn, but then they may be unable to move for a while. Win a battle in a single turn and you can instantly start a more difficult encounter to earn better rewards. Level up characters and jobs quickly, but be careful—defeat means losing anything earned along the way. Select from 30 jobs and over 300 skills and abilities to customize each party member in the most strategic manner. The more you learn, the more tactics you’ll wield. ",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2016-04-15",
+				"retail": "2016-04-15"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/38448b294d43708656d0d318f092b8e12923299318134c0b7d039b646dccc022.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9eb293e077cce9d2619aa561220315abb123191250ad6fbfa992f5476e9e78d4.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/898d4c0b36f0bcb00b860499b5971320a542124580f6cf9ce1f0c29e74527803.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/db542bda61ead4092a487d1ee432e99fb2503c773f710aaf6648a8da1f240a96.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/051beaacf0c510496a3c9dcdd7b340e5a9c206bf3c592ab2919d52ef683ea74a.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6b9661ee643f34f6697e45cd529d720117fd0b61aa989eb6afa170a3bd95d568.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/948233e3cbf2a69f75bf6d77e57d0d5d64c20838a3ea510fe111467d989be516.jpg",
+				"name": "BRAVELY SECOND™: END LAYER - Begin the Journey Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c4a12a7d1f1c95cdf690435735e19569a59037c9619bd43bcf190e24dbfbe6eb.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "143"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6cb7405e1febfa5d1e7dc2448eff75db28adf647c2cf6559981c65e1b769a04c.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "143"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8896c5d7bf56ad617b369b2068580099185911acb167bc9ab69d08ff80952e2c.jpg",
+				"name": "BRAVELY SECOND™: END LAYER - A Bang-Up Job Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/226fa0fd2188542a2af661ae6e4acc909ab68f21f551c57defa6b7e342571731.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "171"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bd9af852e8f3d9e44ef0d7e7d49929c62e48a87016ba5d2625cd39782061aee7.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "171"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/645819c4bba5a91ca5eac7934ea9a360f2d71a55112899dcf3480c31fa73e9b6.jpg",
+				"name": "BRAVELY SECOND™: END LAYER - The Fires of Battle Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f873b83564461559d0eb5dff37258a33720359e83328989f25efa6e24f59a952.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "168"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b1059ce3751a4f66d814ff58c766882652ec073c45b3c97cba89b34f693132e8.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "168"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ea4462750e917233d4d4c106df4b57ee7ce108e3ddb5395048df17f7e7d660e5.jpg",
+				"name": "Nintendo Minute Bravely Second Unboxing and Giveaway",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/06bf11170fbe0900adbecee997af1325545d2986bf25a12897eeaaf559c503e2.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "486"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/314dde7525862cf7bd3eec35f8e56dbe91ea8c4e2a6fa6149c938d104193ec88.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "486"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e036d6a3f4035c62a3f0500fd0959dedc3d128d4629fc02f6477fa378bbe8a44.jpg",
+				"name": "BRAVELY SECOND™: END LAYER Overview Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8eef6895b2e0a91b65ca227a4135fc4b1d763853218add899e30124b39461a6f.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "123"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/215c35bb03044d8d469e652bfe167412ecc8a57253528073df9017868bd01eac.mp4",
+						"width": "864",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "123"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/726d6cb5859b8e85c0a288966613999de063cd228e8fe72d2a8b5133d713794e.jpg",
+				"name": "BRAVELY SECOND™: END LAYER The New Jobs Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/449f1b533a558c88bfc7059193490f1f8c3f9fcde97651f4ddbeb80c46e8baf0.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "89"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d5074c89411366e80d2d009b3a6d9e4933af00dc9dece2ca4516e512cb7a6478.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "89"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/914a90b925bdde82f527cbfd836d7cf3cff7beaf296ce5f38c8100edd46b19ff.jpg",
+				"name": "Bravely Second™: End Layer Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/658014f5f4625786f768b34d6a97ce382f6e1071de385880cbbff90d2c6b141a.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "142"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f5b58e8aa296f6698eb78e42f5e14afe228f8cb8932a83c7670cf1868cf9910d.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "142"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/79c42396ed8301e8f4b8aeb0cc6d96242fa878dc87182d04beca37da2acd1aed.jpg",
+				"name": "Treehouse Live @ E3 2015 Day 3 Bravely Second™ End Layer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c288f23614b316d73048d78c303f9062a45c14c54059777bcb6df4d66d738a54.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "1778"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c31b003fef2952d3058603763a2cfea20ece5538da4ca2f2d79dade9aecc86c5.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "1778"
+					}
+				]
+			}
+		]
+	},
+	"MX": {
+		"title_id": "000400000017BA00",
+		"eshop_id": "50010000039137",
+		"product_code": "CTR-N-BSEE",
+		"name": "BRAVELY SECOND™: END LAYER",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ff99594fda34fbc2d6c2cb8ee6109e90533735cbb1d56142c3f361169ec403cc.jpg",
+		"data_size": "2665225060",
+		"description": "Prepárate para la nueva entrega de la serie que ha innovado los RPG por turnos, el sucesor del juego Bravely Default™ de Square Enix. Agnés Oblige ha sido abducida y como caballero a su servicio, será la misión de nuestro héroe, Yew, rescatarla. Prepara tu mejor equipo y estrategia, y arriésgalo todo en este dinámico e innovador RPG. El innovador sistema de combate táctico “Brave and Default” regresa con mayor elementos de estrategia. Debes buscar el equilibrio entre el riesgo y la recompensa durante los combates por turnos: los personajes pueden hacer múltiples movimientos en un mismo turno, pero esto impide que puedan moverse en los turnos posteriores. Tras ganar un combate en un solo turno, podrás empezar uno nuevo inmediatamente que es más difícil de superar, para tratar de aumentar las recompensas. Elige entre 30 trabajos (clases de personaje) y más de 300 habilidades y talentos para personalizar a los miembros de tu equipo según la estrategia deseada.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2016-04-15",
+				"retail": "2016-04-15"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/38448b294d43708656d0d318f092b8e12923299318134c0b7d039b646dccc022.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9eb293e077cce9d2619aa561220315abb123191250ad6fbfa992f5476e9e78d4.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/898d4c0b36f0bcb00b860499b5971320a542124580f6cf9ce1f0c29e74527803.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/db542bda61ead4092a487d1ee432e99fb2503c773f710aaf6648a8da1f240a96.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/051beaacf0c510496a3c9dcdd7b340e5a9c206bf3c592ab2919d52ef683ea74a.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6b9661ee643f34f6697e45cd529d720117fd0b61aa989eb6afa170a3bd95d568.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/948233e3cbf2a69f75bf6d77e57d0d5d64c20838a3ea510fe111467d989be516.jpg",
+				"name": "BRAVELY SECOND™: END LAYER - Begin the Journey Video",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c4a12a7d1f1c95cdf690435735e19569a59037c9619bd43bcf190e24dbfbe6eb.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "143"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6cb7405e1febfa5d1e7dc2448eff75db28adf647c2cf6559981c65e1b769a04c.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "143"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8896c5d7bf56ad617b369b2068580099185911acb167bc9ab69d08ff80952e2c.jpg",
+				"name": "BRAVELY SECOND™: END LAYER - A Bang-Up Job Vídeo",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/226fa0fd2188542a2af661ae6e4acc909ab68f21f551c57defa6b7e342571731.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "171"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bd9af852e8f3d9e44ef0d7e7d49929c62e48a87016ba5d2625cd39782061aee7.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "171"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/645819c4bba5a91ca5eac7934ea9a360f2d71a55112899dcf3480c31fa73e9b6.jpg",
+				"name": "BRAVELY SECOND™: END LAYER - The Fires of Battle Video",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f873b83564461559d0eb5dff37258a33720359e83328989f25efa6e24f59a952.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "168"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b1059ce3751a4f66d814ff58c766882652ec073c45b3c97cba89b34f693132e8.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "168"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ea4462750e917233d4d4c106df4b57ee7ce108e3ddb5395048df17f7e7d660e5.jpg",
+				"name": "Nintendo Minute Bravely Second Unboxing and Giveaway",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/06bf11170fbe0900adbecee997af1325545d2986bf25a12897eeaaf559c503e2.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "486"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/314dde7525862cf7bd3eec35f8e56dbe91ea8c4e2a6fa6149c938d104193ec88.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "486"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e036d6a3f4035c62a3f0500fd0959dedc3d128d4629fc02f6477fa378bbe8a44.jpg",
+				"name": "BRAVELY SECOND™: END LAYER Overview Video",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8eef6895b2e0a91b65ca227a4135fc4b1d763853218add899e30124b39461a6f.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "123"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/215c35bb03044d8d469e652bfe167412ecc8a57253528073df9017868bd01eac.mp4",
+						"width": "864",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "123"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/726d6cb5859b8e85c0a288966613999de063cd228e8fe72d2a8b5133d713794e.jpg",
+				"name": "BRAVELY SECOND™: END LAYER The New Jobs Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/449f1b533a558c88bfc7059193490f1f8c3f9fcde97651f4ddbeb80c46e8baf0.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "89"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d5074c89411366e80d2d009b3a6d9e4933af00dc9dece2ca4516e512cb7a6478.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "89"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/914a90b925bdde82f527cbfd836d7cf3cff7beaf296ce5f38c8100edd46b19ff.jpg",
+				"name": "Avance para lanzamiento Bravely Second™: End Layer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/658014f5f4625786f768b34d6a97ce382f6e1071de385880cbbff90d2c6b141a.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "142"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f5b58e8aa296f6698eb78e42f5e14afe228f8cb8932a83c7670cf1868cf9910d.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "142"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/79c42396ed8301e8f4b8aeb0cc6d96242fa878dc87182d04beca37da2acd1aed.jpg",
+				"name": "Treehouse Live @ E3 2015 Day 3 Bravely Second™ End Layer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c288f23614b316d73048d78c303f9062a45c14c54059777bcb6df4d66d738a54.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "1778"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c31b003fef2952d3058603763a2cfea20ece5538da4ca2f2d79dade9aecc86c5.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "1778"
+					}
+				]
+			}
+		]
+	},
+	"US": {
+		"title_id": "000400000017BA00",
+		"eshop_id": "50010000039137",
+		"product_code": "CTR-N-BSEE",
+		"name": "BRAVELY SECOND™: END LAYER",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ff99594fda34fbc2d6c2cb8ee6109e90533735cbb1d56142c3f361169ec403cc.jpg",
+		"data_size": "2665225060",
+		"description": "Steel yourself for the next evolution of the series that reinvented turn-based RPGs—the successor to Square Enix’s Bravely Default™ game. In this standalone adventure, Agnés Oblige has been imprisoned, and as a knight in her service, it’s up to the hero, Yew, to save her! Form the ultimate team and strategy, then risk it all in this fast, fresh RPG. The innovative Brave and Default battle system is back and deeper than ever. Balance risk and reward in turn-based battles: characters can make multiple moves in one turn, but then they may be unable to move for a while. Win a battle in a single turn and you can instantly start a more difficult encounter to earn better rewards. Level up characters and jobs quickly, but be careful—defeat means losing anything earned along the way. Select from 30 jobs and over 300 skills and abilities to customize each party member in the most strategic manner. The more you learn, the more tactics you’ll wield. ",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2016-04-15",
+				"retail": "2016-04-15"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/38448b294d43708656d0d318f092b8e12923299318134c0b7d039b646dccc022.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9eb293e077cce9d2619aa561220315abb123191250ad6fbfa992f5476e9e78d4.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/898d4c0b36f0bcb00b860499b5971320a542124580f6cf9ce1f0c29e74527803.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/db542bda61ead4092a487d1ee432e99fb2503c773f710aaf6648a8da1f240a96.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/051beaacf0c510496a3c9dcdd7b340e5a9c206bf3c592ab2919d52ef683ea74a.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6b9661ee643f34f6697e45cd529d720117fd0b61aa989eb6afa170a3bd95d568.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/948233e3cbf2a69f75bf6d77e57d0d5d64c20838a3ea510fe111467d989be516.jpg",
+				"name": "BRAVELY SECOND™: END LAYER - Begin the Journey Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c4a12a7d1f1c95cdf690435735e19569a59037c9619bd43bcf190e24dbfbe6eb.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "143"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6cb7405e1febfa5d1e7dc2448eff75db28adf647c2cf6559981c65e1b769a04c.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "143"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8896c5d7bf56ad617b369b2068580099185911acb167bc9ab69d08ff80952e2c.jpg",
+				"name": "BRAVELY SECOND™: END LAYER - A Bang-Up Job Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/226fa0fd2188542a2af661ae6e4acc909ab68f21f551c57defa6b7e342571731.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "171"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bd9af852e8f3d9e44ef0d7e7d49929c62e48a87016ba5d2625cd39782061aee7.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "171"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/645819c4bba5a91ca5eac7934ea9a360f2d71a55112899dcf3480c31fa73e9b6.jpg",
+				"name": "BRAVELY SECOND™: END LAYER - The Fires of Battle Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f873b83564461559d0eb5dff37258a33720359e83328989f25efa6e24f59a952.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "168"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b1059ce3751a4f66d814ff58c766882652ec073c45b3c97cba89b34f693132e8.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "168"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ea4462750e917233d4d4c106df4b57ee7ce108e3ddb5395048df17f7e7d660e5.jpg",
+				"name": "Nintendo Minute Bravely Second Unboxing and Giveaway",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/06bf11170fbe0900adbecee997af1325545d2986bf25a12897eeaaf559c503e2.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "486"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/314dde7525862cf7bd3eec35f8e56dbe91ea8c4e2a6fa6149c938d104193ec88.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "486"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e036d6a3f4035c62a3f0500fd0959dedc3d128d4629fc02f6477fa378bbe8a44.jpg",
+				"name": "BRAVELY SECOND™: END LAYER Overview Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8eef6895b2e0a91b65ca227a4135fc4b1d763853218add899e30124b39461a6f.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "123"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/215c35bb03044d8d469e652bfe167412ecc8a57253528073df9017868bd01eac.mp4",
+						"width": "864",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "123"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/726d6cb5859b8e85c0a288966613999de063cd228e8fe72d2a8b5133d713794e.jpg",
+				"name": "BRAVELY SECOND™: END LAYER The New Jobs Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/449f1b533a558c88bfc7059193490f1f8c3f9fcde97651f4ddbeb80c46e8baf0.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "89"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d5074c89411366e80d2d009b3a6d9e4933af00dc9dece2ca4516e512cb7a6478.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "89"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/914a90b925bdde82f527cbfd836d7cf3cff7beaf296ce5f38c8100edd46b19ff.jpg",
+				"name": "Bravely Second™: End Layer Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/658014f5f4625786f768b34d6a97ce382f6e1071de385880cbbff90d2c6b141a.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "142"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f5b58e8aa296f6698eb78e42f5e14afe228f8cb8932a83c7670cf1868cf9910d.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "142"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/79c42396ed8301e8f4b8aeb0cc6d96242fa878dc87182d04beca37da2acd1aed.jpg",
+				"name": "Treehouse Live @ E3 2015 Day 3 Bravely Second™ End Layer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c288f23614b316d73048d78c303f9062a45c14c54059777bcb6df4d66d738a54.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "1778"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c31b003fef2952d3058603763a2cfea20ece5538da4ca2f2d79dade9aecc86c5.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "1778"
+					}
+				]
+			}
+		]
+	}
+}

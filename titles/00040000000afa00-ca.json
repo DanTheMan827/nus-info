@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000AFA00",
+	"eshop_id": "50010000012747",
+	"product_code": "CTR-N-JPXE",
+	"name": "PIX3D",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 96,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/714156dee0c953096de2c516ec3109ece8eaa913d3c037263fe623bd7343bb7f.jpg",
+	"data_size": "21494628",
+	"description": "One thousand levels, 3 different game modes. Battle against time and get the highest score in the greatly-addictive pix puzzle game – PIX3D. Imagine a picture. A simple picture. A pix art picture. Now break it down to every single pixel. That's a colorful mess, huh? So PIX3D is about fixing that mess to reproduce a beautiful pixel art picture. It's challenging, addictive and it piques your curiosity. With finely-tuned controls, using the stylus or Circle Pad, simple but amazing graphics and retro 8-bit music, the game introduces us to its unique world. Enjoy three different modes, fight against time and show the world how PIX3D you are!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2012-12-20",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/03f394d75cc249530e81bb46bd876d618037237f386801b2be4cd4a2f250eded.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/293103144b8f40fd5aa9aefdd59164d223acc0adceaf9d964c82d787f6f6ded7.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/58d9cec9038edd8f3f84a257f18cf63657c1908365b579c0945146467eeed2e4.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/75fa7452e56270e63fb096520a230deabc88b3a0e60a980d2126182a7ea16de3.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3a3d7446e03d5998d34712b771af2117543b77ce3b139c9c0d12485ab39ea4b8.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8955749358ba538f409b0074436067602178d6d5149e389849e065efa5e18421.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4e7c95b6ac5909b2f30576287ec2e27e608a54acad87e72e2340b22ac070ffe5.jpg",
+			"name": "PIX3D Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7cb9ca7b875d4b5ad39cb6dd0b10b75c33e1e818baee85314bfd6f18d5e56a5d.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b9b8c1f9a064718bd3fc3a2229242d3ae122312332c37b347a2bf4f138ddc525.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				}
+			]
+		}
+	]
+}

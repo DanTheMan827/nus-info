@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000F4E00",
+	"eshop_id": "50010000019955",
+	"product_code": "CTR-N-BLPJ",
+	"name": "NEWラブプラス+",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 149,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/16cd65fd1133636256f64c26c95ae7b6907a22afec46cf06e3fc9b76feab1816.jpg",
+	"data_size": "1723874148",
+	"description": "毎日がちょっとほっこり。 カノジョと過ごす毎日を体験するコミュニケーションゲーム。 思い出の「熱海」などに加えて、新しい旅先「日光･鬼怒川」「箱根」が追加。 スキンシップが新しくなりもっとロマンチックに。 さらに前作から会話やイベント、イラストをプラス。 今までのシリーズからのセーブデータ引き継ぎにも対応しているのでカレシも安心。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2014-03-27",
+			"retail": "2014-03-27"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d4dad3cb9200700c8f8f29b6ac51eb6191cf6160653880aaa2db8cbcc02767f5.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f748fe758277679a783e2c7727875778a41290cf1e23c635b81bbfb3aba15466.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/360a69bb72f14a201d63195260f9968338631d7edfae1959869fbb19cc42e678.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7cdae9f48552070774daaea07845bd48f89b5d621b94a1a813f49b8ed8543011.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c12e74e7fc12d1547a473854a9f4d232f5d6fee6dcdb877117b08c02a5bd57fb.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d6c546a43bb42b7b2464f2138a6cdf9ca603c949b479e8528a10c9cd441c7739.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/26a4e701cbb0b91bd4fd1d80969d1c17228e8cdc58882681e1e0afc410a113e9.jpg",
+			"name": "NEWラブプラス＋ 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b2e7837a4766224bce40efb988ed262edb6cc9e254341908d51fcaead07dac92.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "239"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9b6952d065eed24c9b8609820d4c19afd8cac697af6fba45ce2464f69b7167c0.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "239"
+				}
+			]
+		}
+	]
+}

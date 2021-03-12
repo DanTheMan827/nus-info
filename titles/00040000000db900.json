@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "00040000000DB900",
+		"eshop_id": "50010000024495",
+		"product_code": "CTR-N-JZMJ",
+		"name": "奪還指令魔女ダンジョン ～主の為ならやらねばなるまい～",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 344,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/17891453f3ad8ba245dc380a58ccf55bd29fd795d3ee4cb357e384dea6d854ab.jpg",
+		"data_size": "38673252",
+		"description": "『奪還指令魔女ダンジョン』は、逃げて隠れてだましながら敵を倒すステージクリア型のゲリラ的ステルス風アクションゲームです。 すべてのステージをクリアして、占拠されたダンジョンを奪還しましょう! ■ゲリラ的ステルス風アクション! プレイヤーが操作する「クレッセ」は非力な使い魔。 敵を罠にはめる、背後から不意打ちをするといった方法で強力な敵を倒していこう! ■スタイルチェンジでアクションが変化! クレッセのスタイルを変えることで、基本アクションが変化! 状況に合わせて使い分け、効果的に敵を倒そう!",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-08-06",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/38a0e3d0aa0b9098263acda5e5a80f6e9fa420f17453070b55a116a2120d5962.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0bd2ffe018b4f61d682a6cff51663d6c5a7c1e84dbc4af9c7312d4cbb500b446.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/da76ebb2c8d658522f3018f7a22a3069961512054987c00749a745b72739971a.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/16ee2cb9d1339124a1c18b4975879a3222aa2067a380c87e5afb49aab91d8816.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/46265cebecd6eab0b0b2d9b23b6c43b8f88559ab2f681e128b1bee59bc812e86.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5a1a8797b274001a247061dc41a7fe7e1eaedfcb6afbff064fc326adca0169d1.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f9d801169c41678f2a81318563d635557298d35242474364797acc377ab77ae7.jpg",
+				"name": "奪還指令魔女ダンジョン ～主の為なら やらねばなるまい～ 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a7e8d17d20aeab5c13452ea854127cfedbe5d2f25f60f7034fa0925bc268500c.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "151"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fb4725de8a2a3fcdf29b5c719ff407937646968696aa2c2c783baf7e39a5961f.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "151"
+					}
+				]
+			}
+		]
+	}
+}

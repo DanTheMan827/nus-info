@@ -1,0 +1,2759 @@
+{
+	"AT": {
+		"title_id": "0004000000177000",
+		"eshop_id": "50010000036755",
+		"product_code": "CTR-P-EA3P",
+		"name": "The Legend of Zelda™: Tri Force Heroes",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c78b967df22b3a7c59068e8a8bc6f3332de69cdf460eb9af63785b5f534dd500.jpg",
+		"data_size": "550357908",
+		"description": "In The Legend of Zelda: Tri Force Heroes für Systeme der Nintendo 3DS-Familie könnt ihr die Kräfte dreier Links bündeln! Bildet ein dynamisches Dreierteam und probiert verschiedene Gewänder an, um neue Fähigkeiten zu gewinnen und das modebesessene Königreich Textilia vor einem grässlichen Fluch zu befreien. Eilt dem König zu Hilfe, um die Prinzessin von einem scheußlichen neuen Gewand zu befreien und in Textilia Stil und Klasse wiederherzustellen. Begebt euch auf eine Mission für drei Spieler, auf der jeder einen Link steuert. Ihr könnt acht verschiedene Gebiete des Lumpenlands bereisen, von eisigen Höhlen zu rot glühenden Vulkanen, und über 30 mit Rätseln, Fallen und Bösewichten gespickte Level erkunden.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-10-23",
+				"retail": "2015-10-23"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/231d84aef5772051919b20926965d250b096730a62f94943b43069e1992a8077.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/3cc16018bd6c10256a312d8b83e7bed4662ac938f569ba2b63c76cc7dca4e4e8.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b32d9d774d7fc8e8691f1fc2cb34001d4f857aa9593e50482de2ad676b58b34f.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/048a0a7d9600b0f5394f3268b3a336258f0d30b352f69a05e8579e40ee996f26.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ef388554201ba3a683e53bc4c5b270016c6c4452bf1827c5b8efea27ca616a57.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e2f0907ad686d1ccedd3a75ba2a6a9928d7277e948b319af8975c0d3f191c376.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6c9f1e37e42db329a9dccdd91256709ad29a1d3bd03254f612d2e82a522abba9.jpg",
+				"name": "Zelda: Tri Force Heroes: Trailer zum Verkaufsstart",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/19940849a6d78d341c486763cbd96973b0adad1b4c730200111face8ba9d96f2.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "132"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/77cccaaa462a33b306144ddafbb9e8a5346873fb9b3cf089a35f328f8830421a.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "132"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ce336fca280156d3f8ae38d5321a2e870630f00717d63dfd25915f4ceb412b02.jpg",
+				"name": "Musik aus The Legend of Zelda: Tri Force Heroes",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/424ad1d7a7a9d6faf00efb3671101075d096765500ee830d689f66bdc88e502d.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "101"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/030aae488c4044513eb2eecbedaac4f072e376de6d019b578ef932476f8e2a43.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "101"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cc1470e1aee78e0fef0bd2fad26aa2168fea2f70ee43e4f94743621d2f5ee2d6.jpg",
+				"name": "Zelda: Tri Force Heroes: Vorschauvideo",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/738f4c0a7789ae916997d9e6fa96e32889fe307714f6751f001875a67051f548.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "177"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ed821d44c4ad4901021913f6495ce49e74f351e57d4530850cc0ab08a531f278.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "177"
+					}
+				]
+			}
+		]
+	},
+	"AU": {
+		"title_id": "0004000000177000",
+		"eshop_id": "50010000036755",
+		"product_code": "CTR-P-EA3P",
+		"name": "The Legend of Zelda™: Tri Force Heroes",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c78b967df22b3a7c59068e8a8bc6f3332de69cdf460eb9af63785b5f534dd500.jpg",
+		"data_size": "550357908",
+		"description": "Combine the powers of three Links in The Legend of Zelda: Tri Force Heroes for Nintendo 3DS family systems! Work together as a dynamic trio, don different outfits to gain new abilities, and save the fashion-obsessed kingdom of Hytopia from a ghastly curse. Answer the king’s call for heroes to rid the princess of a hideous new outfit and restore style to Hytopia. Embark on a quest outfitted for three, with each player controlling one Link each. Travel to eight different areas of the Drablands, from icy caverns to red hot volcanoes, and explore over 30 levels brimming with puzzles, traps and baddies.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-10-24",
+				"retail": "2015-10-24"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/124bac6a4c200b24ad41426efe6600272c9019b2924c01db964b76ec69bef2ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c7029305840114f37d4f8b6e21a0f617102e5b792d8378ad2c009f00f74f57ae.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6045ab460ec49d8e73b4200a91626d9e4427fe8b22d8b72362c108cc30b5fa3d.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/10610b2aa4151fff71df903e848723a4d1e69e2d74ff43b3d89a2d93a1cee562.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f8e7b4823dc6412086c946ce66c0db6f5ac91a4b247d5f362e42607b03918e4b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d0c55992393789cff0be55ebc52499631fde82a21461c467f6b0fc8ab07e37c1.jpg"
+			}
+		],
+		"movies": []
+	},
+	"BG": {
+		"title_id": "0004000000177000",
+		"eshop_id": "50010000036755",
+		"product_code": "CTR-P-EA3P",
+		"name": "The Legend of Zelda™: Tri Force Heroes",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c78b967df22b3a7c59068e8a8bc6f3332de69cdf460eb9af63785b5f534dd500.jpg",
+		"data_size": "550357908",
+		"description": "Combine the powers of three Links in The Legend of Zelda: Tri Force Heroes for Nintendo 3DS family systems! Work together as a dynamic trio, don different outfits to gain new abilities, and save the fashion-obsessed kingdom of Hytopia from a ghastly curse. Answer the king’s call for heroes to rid the princess of a hideous new outfit and restore style to Hytopia. Embark on a quest outfitted for three, with each player controlling one Link each. Travel to eight different areas of the Drablands, from icy caverns to red hot volcanoes, and explore over 30 levels brimming with puzzles, traps and baddies.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-10-23",
+				"retail": "2015-10-23"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/124bac6a4c200b24ad41426efe6600272c9019b2924c01db964b76ec69bef2ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c7029305840114f37d4f8b6e21a0f617102e5b792d8378ad2c009f00f74f57ae.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6045ab460ec49d8e73b4200a91626d9e4427fe8b22d8b72362c108cc30b5fa3d.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/10610b2aa4151fff71df903e848723a4d1e69e2d74ff43b3d89a2d93a1cee562.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f8e7b4823dc6412086c946ce66c0db6f5ac91a4b247d5f362e42607b03918e4b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d0c55992393789cff0be55ebc52499631fde82a21461c467f6b0fc8ab07e37c1.jpg"
+			}
+		],
+		"movies": []
+	},
+	"BE": {
+		"title_id": "0004000000177000",
+		"eshop_id": "50010000036755",
+		"product_code": "CTR-P-EA3P",
+		"name": "The Legend of Zelda™: Tri Force Heroes",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c78b967df22b3a7c59068e8a8bc6f3332de69cdf460eb9af63785b5f534dd500.jpg",
+		"data_size": "550357908",
+		"description": "Combinez les pouvoirs de trois Link dans The Legend of Zelda: Tri Force Heroes pour les consoles de la famille Nintendo 3DS ! Formez un trio dynamique, enfilez différentes tenues pour gagner de nouvelles capacités et sauvez le royaume d'Estoffe, victime de la mode, aux prises avec une terrible malédiction. Répondez au roi qui en appelle aux héros pour débarrasser la princesse d'une affreuse nouvelle tenue et rétablissez le bon goût dans le royaume d'Estoffe. Lancez-vous dans une quête conçue pour trois, où chaque joueur contrôle un Link. Parcourez trois régions des contrées maudites, grottes glacées ou volcans ardents, et explorez plus de 30 niveaux regorgeant d'énigmes, de pièges et de méchants en tous genres.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-10-23",
+				"retail": "2015-10-23"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/cc6726a0bf1e62e71905e5ac920f6e7c9cc4f32e956129a1b28209b49098ab15.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8ca736a8997d2f245f98c917acee49d422196879e19d0cb233e6219a1e7f5dae.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/34507a4d0abed95c82e8e99686b04748544b26325f9478dc4556f593c09c5d28.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/cb5fe0f21fe88512c84c29c0a4be17e8a3a62c63a417761304292eec31d88a8e.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ebc3f5ce95ba1988634c50bf7e5a612f99fb79801c1c22e2a02bf85233136633.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4b1a05d14f7ed0ccbf5de200374de0e0fd7d6d0beef1715e9dfd051c03b58c86.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6c9f1e37e42db329a9dccdd91256709ad29a1d3bd03254f612d2e82a522abba9.jpg",
+				"name": "Zelda: Tri Force Heroes : bande-annonce de lancement ",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5954745cee8d785358593d5e9dff593a3dde2ee2ee639aeb7641a0cf74801afd.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "132"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/deef96d6b0add77d94d5f17183c09c6aaea2796b17ea73d614bcdf361d91572b.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "132"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ce336fca280156d3f8ae38d5321a2e870630f00717d63dfd25915f4ceb412b02.jpg",
+				"name": "Musique de The Legend of Zelda: Tri Force Heroes",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/baee01db539872f320915e6398168b094431714a6556ac66cce7d5f8d7196fa5.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "101"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f2ac6ec1be01c66ccb9df79838feeefb6126195283b0d0c39beae83e72aa35a0.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "101"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cc1470e1aee78e0fef0bd2fad26aa2168fea2f70ee43e4f94743621d2f5ee2d6.jpg",
+				"name": "Zelda: Tri Force Heroes : aperçu vidéo",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e8978922dcb3bcfdc380a1abeac8e49d9c44f69f79cce01f566165c103047595.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "177"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b12e9278ce066ac3a73a881d0cb3121943b6fa40cd1a76ce05d2bce10518d8aa.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "177"
+					}
+				]
+			}
+		]
+	},
+	"CH": {
+		"title_id": "0004000000177000",
+		"eshop_id": "50010000036755",
+		"product_code": "CTR-P-EA3P",
+		"name": "The Legend of Zelda™: Tri Force Heroes",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c78b967df22b3a7c59068e8a8bc6f3332de69cdf460eb9af63785b5f534dd500.jpg",
+		"data_size": "550357908",
+		"description": "In The Legend of Zelda: Tri Force Heroes für Systeme der Nintendo 3DS-Familie könnt ihr die Kräfte dreier Links bündeln! Bildet ein dynamisches Dreierteam und probiert verschiedene Gewänder an, um neue Fähigkeiten zu gewinnen und das modebesessene Königreich Textilia vor einem grässlichen Fluch zu befreien. Eilt dem König zu Hilfe, um die Prinzessin von einem scheußlichen neuen Gewand zu befreien und in Textilia Stil und Klasse wiederherzustellen. Begebt euch auf eine Mission für drei Spieler, auf der jeder einen Link steuert. Ihr könnt acht verschiedene Gebiete des Lumpenlands bereisen, von eisigen Höhlen zu rot glühenden Vulkanen, und über 30 mit Rätseln, Fallen und Bösewichten gespickte Level erkunden.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-10-23",
+				"retail": "2015-10-23"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/231d84aef5772051919b20926965d250b096730a62f94943b43069e1992a8077.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/3cc16018bd6c10256a312d8b83e7bed4662ac938f569ba2b63c76cc7dca4e4e8.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b32d9d774d7fc8e8691f1fc2cb34001d4f857aa9593e50482de2ad676b58b34f.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/048a0a7d9600b0f5394f3268b3a336258f0d30b352f69a05e8579e40ee996f26.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ef388554201ba3a683e53bc4c5b270016c6c4452bf1827c5b8efea27ca616a57.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e2f0907ad686d1ccedd3a75ba2a6a9928d7277e948b319af8975c0d3f191c376.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6c9f1e37e42db329a9dccdd91256709ad29a1d3bd03254f612d2e82a522abba9.jpg",
+				"name": "Zelda: Tri Force Heroes: Trailer zum Verkaufsstart",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/19940849a6d78d341c486763cbd96973b0adad1b4c730200111face8ba9d96f2.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "132"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/77cccaaa462a33b306144ddafbb9e8a5346873fb9b3cf089a35f328f8830421a.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "132"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ce336fca280156d3f8ae38d5321a2e870630f00717d63dfd25915f4ceb412b02.jpg",
+				"name": "Musik aus The Legend of Zelda: Tri Force Heroes",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/424ad1d7a7a9d6faf00efb3671101075d096765500ee830d689f66bdc88e502d.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "101"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/030aae488c4044513eb2eecbedaac4f072e376de6d019b578ef932476f8e2a43.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "101"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cc1470e1aee78e0fef0bd2fad26aa2168fea2f70ee43e4f94743621d2f5ee2d6.jpg",
+				"name": "Zelda: Tri Force Heroes: Vorschauvideo",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/738f4c0a7789ae916997d9e6fa96e32889fe307714f6751f001875a67051f548.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "177"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ed821d44c4ad4901021913f6495ce49e74f351e57d4530850cc0ab08a531f278.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "177"
+					}
+				]
+			}
+		]
+	},
+	"CY": {
+		"title_id": "0004000000177000",
+		"eshop_id": "50010000036755",
+		"product_code": "CTR-P-EA3P",
+		"name": "The Legend of Zelda™: Tri Force Heroes",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c78b967df22b3a7c59068e8a8bc6f3332de69cdf460eb9af63785b5f534dd500.jpg",
+		"data_size": "550357908",
+		"description": "Combine the powers of three Links in The Legend of Zelda: Tri Force Heroes for Nintendo 3DS family systems! Work together as a dynamic trio, don different outfits to gain new abilities, and save the fashion-obsessed kingdom of Hytopia from a ghastly curse. Answer the king’s call for heroes to rid the princess of a hideous new outfit and restore style to Hytopia. Embark on a quest outfitted for three, with each player controlling one Link each. Travel to eight different areas of the Drablands, from icy caverns to red hot volcanoes, and explore over 30 levels brimming with puzzles, traps and baddies.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-10-23",
+				"retail": "2015-10-23"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/124bac6a4c200b24ad41426efe6600272c9019b2924c01db964b76ec69bef2ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c7029305840114f37d4f8b6e21a0f617102e5b792d8378ad2c009f00f74f57ae.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6045ab460ec49d8e73b4200a91626d9e4427fe8b22d8b72362c108cc30b5fa3d.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/10610b2aa4151fff71df903e848723a4d1e69e2d74ff43b3d89a2d93a1cee562.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f8e7b4823dc6412086c946ce66c0db6f5ac91a4b247d5f362e42607b03918e4b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d0c55992393789cff0be55ebc52499631fde82a21461c467f6b0fc8ab07e37c1.jpg"
+			}
+		],
+		"movies": []
+	},
+	"DE": {
+		"title_id": "0004000000177000",
+		"eshop_id": "50010000036755",
+		"product_code": "CTR-P-EA3P",
+		"name": "The Legend of Zelda™: Tri Force Heroes",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c78b967df22b3a7c59068e8a8bc6f3332de69cdf460eb9af63785b5f534dd500.jpg",
+		"data_size": "550357908",
+		"description": "In The Legend of Zelda: Tri Force Heroes für Systeme der Nintendo 3DS-Familie könnt ihr die Kräfte dreier Links bündeln! Bildet ein dynamisches Dreierteam und probiert verschiedene Gewänder an, um neue Fähigkeiten zu gewinnen und das modebesessene Königreich Textilia vor einem grässlichen Fluch zu befreien. Eilt dem König zu Hilfe, um die Prinzessin von einem scheußlichen neuen Gewand zu befreien und in Textilia Stil und Klasse wiederherzustellen. Begebt euch auf eine Mission für drei Spieler, auf der jeder einen Link steuert. Ihr könnt acht verschiedene Gebiete des Lumpenlands bereisen, von eisigen Höhlen zu rot glühenden Vulkanen, und über 30 mit Rätseln, Fallen und Bösewichten gespickte Level erkunden.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-10-23",
+				"retail": "2015-10-23"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/231d84aef5772051919b20926965d250b096730a62f94943b43069e1992a8077.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/3cc16018bd6c10256a312d8b83e7bed4662ac938f569ba2b63c76cc7dca4e4e8.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b32d9d774d7fc8e8691f1fc2cb34001d4f857aa9593e50482de2ad676b58b34f.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/048a0a7d9600b0f5394f3268b3a336258f0d30b352f69a05e8579e40ee996f26.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ef388554201ba3a683e53bc4c5b270016c6c4452bf1827c5b8efea27ca616a57.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e2f0907ad686d1ccedd3a75ba2a6a9928d7277e948b319af8975c0d3f191c376.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6c9f1e37e42db329a9dccdd91256709ad29a1d3bd03254f612d2e82a522abba9.jpg",
+				"name": "Zelda: Tri Force Heroes: Trailer zum Verkaufsstart",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/19940849a6d78d341c486763cbd96973b0adad1b4c730200111face8ba9d96f2.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "132"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/77cccaaa462a33b306144ddafbb9e8a5346873fb9b3cf089a35f328f8830421a.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "132"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ce336fca280156d3f8ae38d5321a2e870630f00717d63dfd25915f4ceb412b02.jpg",
+				"name": "Musik aus The Legend of Zelda: Tri Force Heroes",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/424ad1d7a7a9d6faf00efb3671101075d096765500ee830d689f66bdc88e502d.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "101"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/030aae488c4044513eb2eecbedaac4f072e376de6d019b578ef932476f8e2a43.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "101"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cc1470e1aee78e0fef0bd2fad26aa2168fea2f70ee43e4f94743621d2f5ee2d6.jpg",
+				"name": "Zelda: Tri Force Heroes: Vorschauvideo",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/738f4c0a7789ae916997d9e6fa96e32889fe307714f6751f001875a67051f548.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "177"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ed821d44c4ad4901021913f6495ce49e74f351e57d4530850cc0ab08a531f278.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "177"
+					}
+				]
+			}
+		]
+	},
+	"CZ": {
+		"title_id": "0004000000177000",
+		"eshop_id": "50010000036755",
+		"product_code": "CTR-P-EA3P",
+		"name": "The Legend of Zelda™: Tri Force Heroes",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c78b967df22b3a7c59068e8a8bc6f3332de69cdf460eb9af63785b5f534dd500.jpg",
+		"data_size": "550357908",
+		"description": "Combine the powers of three Links in The Legend of Zelda: Tri Force Heroes for Nintendo 3DS family systems! Work together as a dynamic trio, don different outfits to gain new abilities, and save the fashion-obsessed kingdom of Hytopia from a ghastly curse. Answer the king’s call for heroes to rid the princess of a hideous new outfit and restore style to Hytopia. Embark on a quest outfitted for three, with each player controlling one Link each. Travel to eight different areas of the Drablands, from icy caverns to red hot volcanoes, and explore over 30 levels brimming with puzzles, traps and baddies.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-10-23",
+				"retail": "2015-10-23"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/124bac6a4c200b24ad41426efe6600272c9019b2924c01db964b76ec69bef2ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c7029305840114f37d4f8b6e21a0f617102e5b792d8378ad2c009f00f74f57ae.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6045ab460ec49d8e73b4200a91626d9e4427fe8b22d8b72362c108cc30b5fa3d.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/10610b2aa4151fff71df903e848723a4d1e69e2d74ff43b3d89a2d93a1cee562.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f8e7b4823dc6412086c946ce66c0db6f5ac91a4b247d5f362e42607b03918e4b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d0c55992393789cff0be55ebc52499631fde82a21461c467f6b0fc8ab07e37c1.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6c9f1e37e42db329a9dccdd91256709ad29a1d3bd03254f612d2e82a522abba9.jpg",
+				"name": "Zelda: Tri Force Heroes: Launch Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7df51eec270fd30a88290dcbb1e40c1606806a918431ef4be310a1bc43c7af50.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "132"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/014ceed13a851f57b2c0347072184a03dc9742ff3714f2c40bcbdeadeac6789c.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "132"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ce336fca280156d3f8ae38d5321a2e870630f00717d63dfd25915f4ceb412b02.jpg",
+				"name": "The Music of The Legend of Zelda: Tri Force Heroes",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ff38b48e09ea0aafeaf7e5be5a3a253ed3a5af8ed76493f6c5c22446f9be61f8.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "101"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/63e28af063eb140743d2f6190966d85a455a08d13494d0bcea53def2a7d87574.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "101"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cc1470e1aee78e0fef0bd2fad26aa2168fea2f70ee43e4f94743621d2f5ee2d6.jpg",
+				"name": "Zelda: Tri Force Heroes: Preview Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7264b2c56d368705faa768338ea817b3088d54a5f317406c29c94ce224394718.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "177"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ffa5c61e94ad908d5cf442bd061fb5c88568a78f85c1c57d09b4c9662025cdff.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "177"
+					}
+				]
+			}
+		]
+	},
+	"DK": {
+		"title_id": "0004000000177000",
+		"eshop_id": "50010000036755",
+		"product_code": "CTR-P-EA3P",
+		"name": "The Legend of Zelda™: Tri Force Heroes",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c78b967df22b3a7c59068e8a8bc6f3332de69cdf460eb9af63785b5f534dd500.jpg",
+		"data_size": "550357908",
+		"description": "Combine the powers of three Links in The Legend of Zelda: Tri Force Heroes for Nintendo 3DS family systems! Work together as a dynamic trio, don different outfits to gain new abilities, and save the fashion-obsessed kingdom of Hytopia from a ghastly curse. Answer the king’s call for heroes to rid the princess of a hideous new outfit and restore style to Hytopia. Embark on a quest outfitted for three, with each player controlling one Link each. Travel to eight different areas of the Drablands, from icy caverns to red hot volcanoes, and explore over 30 levels brimming with puzzles, traps and baddies.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-10-23",
+				"retail": "2015-10-23"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/124bac6a4c200b24ad41426efe6600272c9019b2924c01db964b76ec69bef2ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c7029305840114f37d4f8b6e21a0f617102e5b792d8378ad2c009f00f74f57ae.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6045ab460ec49d8e73b4200a91626d9e4427fe8b22d8b72362c108cc30b5fa3d.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/10610b2aa4151fff71df903e848723a4d1e69e2d74ff43b3d89a2d93a1cee562.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f8e7b4823dc6412086c946ce66c0db6f5ac91a4b247d5f362e42607b03918e4b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d0c55992393789cff0be55ebc52499631fde82a21461c467f6b0fc8ab07e37c1.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6c9f1e37e42db329a9dccdd91256709ad29a1d3bd03254f612d2e82a522abba9.jpg",
+				"name": "Zelda: Tri Force Heroes: Launch Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7df51eec270fd30a88290dcbb1e40c1606806a918431ef4be310a1bc43c7af50.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "132"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/014ceed13a851f57b2c0347072184a03dc9742ff3714f2c40bcbdeadeac6789c.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "132"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ce336fca280156d3f8ae38d5321a2e870630f00717d63dfd25915f4ceb412b02.jpg",
+				"name": "The Music of The Legend of Zelda: Tri Force Heroes",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ff38b48e09ea0aafeaf7e5be5a3a253ed3a5af8ed76493f6c5c22446f9be61f8.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "101"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/63e28af063eb140743d2f6190966d85a455a08d13494d0bcea53def2a7d87574.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "101"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cc1470e1aee78e0fef0bd2fad26aa2168fea2f70ee43e4f94743621d2f5ee2d6.jpg",
+				"name": "Zelda: Tri Force Heroes: Preview Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7264b2c56d368705faa768338ea817b3088d54a5f317406c29c94ce224394718.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "177"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ffa5c61e94ad908d5cf442bd061fb5c88568a78f85c1c57d09b4c9662025cdff.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "177"
+					}
+				]
+			}
+		]
+	},
+	"EE": {
+		"title_id": "0004000000177000",
+		"eshop_id": "50010000036755",
+		"product_code": "CTR-P-EA3P",
+		"name": "The Legend of Zelda™: Tri Force Heroes",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c78b967df22b3a7c59068e8a8bc6f3332de69cdf460eb9af63785b5f534dd500.jpg",
+		"data_size": "550357908",
+		"description": "Combine the powers of three Links in The Legend of Zelda: Tri Force Heroes for Nintendo 3DS family systems! Work together as a dynamic trio, don different outfits to gain new abilities, and save the fashion-obsessed kingdom of Hytopia from a ghastly curse. Answer the king’s call for heroes to rid the princess of a hideous new outfit and restore style to Hytopia. Embark on a quest outfitted for three, with each player controlling one Link each. Travel to eight different areas of the Drablands, from icy caverns to red hot volcanoes, and explore over 30 levels brimming with puzzles, traps and baddies.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-10-23",
+				"retail": "2015-10-23"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/124bac6a4c200b24ad41426efe6600272c9019b2924c01db964b76ec69bef2ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c7029305840114f37d4f8b6e21a0f617102e5b792d8378ad2c009f00f74f57ae.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6045ab460ec49d8e73b4200a91626d9e4427fe8b22d8b72362c108cc30b5fa3d.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/10610b2aa4151fff71df903e848723a4d1e69e2d74ff43b3d89a2d93a1cee562.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f8e7b4823dc6412086c946ce66c0db6f5ac91a4b247d5f362e42607b03918e4b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d0c55992393789cff0be55ebc52499631fde82a21461c467f6b0fc8ab07e37c1.jpg"
+			}
+		],
+		"movies": []
+	},
+	"ES": {
+		"title_id": "0004000000177000",
+		"eshop_id": "50010000036755",
+		"product_code": "CTR-P-EA3P",
+		"name": "The Legend of Zelda™: Tri Force Heroes",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c78b967df22b3a7c59068e8a8bc6f3332de69cdf460eb9af63785b5f534dd500.jpg",
+		"data_size": "550357908",
+		"description": "Combina las habilidades de tres Links en The Legend of Zelda: Tri Force Heroes para la familia de consolas Nintendo 3DS. Forma un trío dinámico con dos amigos y, vistiendo diferentes atuendos para adquirir habilidades especiales, salvad a Pasarelia, el reino más fashion, de una terrible maldición. Acude a la llamada de auxilio del rey y libera a la princesa de una terrible maldición que la obliga a llevar un atuendo increíblemente feo. Así Pasarelia podrá dejar atrás esta pesadilla de mal gusto. Embárcate en una aventura hecha a medida para tres héroes, viaja a ocho zonas diferentes de Harapia, desde cavernas heladas a volcanes al rojo vivo, y explora más de 30 recorridos llenos de puzles, trampas y malos.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-10-23",
+				"retail": "2015-10-23"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/adc5c5e80561d10a299530b58357a33cd0440913439450cc3c3af907080a4bd4.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ba7eead5b5093eb9aa5d1a189d2fd3618e69bf56cb793d31dcb790f47843605c.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0c1392040d4beddeb08c618c0fb1dca2bfb07e79b5e5daace29880afb6802b80.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ae854793dadbff33d0de3cf2afef16c15307c8cadcad7c733e5366862f1a78e2.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/858d6bae64048c2ecfe67453607a28f6bc1abdf1436aa0968b5f2a1f53d1942a.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2654e2fd31f5b08f05e22dfd19cb9eb71521b69720ad93716b3aa7d0c1e25acf.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6c9f1e37e42db329a9dccdd91256709ad29a1d3bd03254f612d2e82a522abba9.jpg",
+				"name": "Zelda: Tri Force Heroes: Tráiler de lanzamiento",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c0e0c3e7678ae85a09ba42da0cde1c0c0c2c2510be09b3b910e1cfa4e7382b3a.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "132"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a1dba19f27f49e1914b8b32ee81b2cf944f60c32d4e866a220784ee99077d377.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "132"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ce336fca280156d3f8ae38d5321a2e870630f00717d63dfd25915f4ceb412b02.jpg",
+				"name": "La música de The Legend of Zelda: Tri Force Heroes",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/96e1062c58b026091b69051b66d2357c2e1cc718bae2457842fb87e2dad95284.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "101"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a91703fd137c2faf0b8211a944d424f14cfc13f59ef560b63d9d63788648c828.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "101"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cc1470e1aee78e0fef0bd2fad26aa2168fea2f70ee43e4f94743621d2f5ee2d6.jpg",
+				"name": "Zelda: Tri Force Heroes: Vídeo de preestreno",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0aa6a3f39800fc48c1415fce8affc3ca90aba6efb63dab4e5240cdb313b0aa0c.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "177"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a7084224b2846a98ef340cb932fa4b4d4af936a34e453abe708cbfb888eb59ff.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "177"
+					}
+				]
+			}
+		]
+	},
+	"FI": {
+		"title_id": "0004000000177000",
+		"eshop_id": "50010000036755",
+		"product_code": "CTR-P-EA3P",
+		"name": "The Legend of Zelda™: Tri Force Heroes",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c78b967df22b3a7c59068e8a8bc6f3332de69cdf460eb9af63785b5f534dd500.jpg",
+		"data_size": "550357908",
+		"description": "Combine the powers of three Links in The Legend of Zelda: Tri Force Heroes for Nintendo 3DS family systems! Work together as a dynamic trio, don different outfits to gain new abilities, and save the fashion-obsessed kingdom of Hytopia from a ghastly curse. Answer the king’s call for heroes to rid the princess of a hideous new outfit and restore style to Hytopia. Embark on a quest outfitted for three, with each player controlling one Link each. Travel to eight different areas of the Drablands, from icy caverns to red hot volcanoes, and explore over 30 levels brimming with puzzles, traps and baddies.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-10-23",
+				"retail": "2015-10-23"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/124bac6a4c200b24ad41426efe6600272c9019b2924c01db964b76ec69bef2ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c7029305840114f37d4f8b6e21a0f617102e5b792d8378ad2c009f00f74f57ae.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6045ab460ec49d8e73b4200a91626d9e4427fe8b22d8b72362c108cc30b5fa3d.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/10610b2aa4151fff71df903e848723a4d1e69e2d74ff43b3d89a2d93a1cee562.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f8e7b4823dc6412086c946ce66c0db6f5ac91a4b247d5f362e42607b03918e4b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d0c55992393789cff0be55ebc52499631fde82a21461c467f6b0fc8ab07e37c1.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6c9f1e37e42db329a9dccdd91256709ad29a1d3bd03254f612d2e82a522abba9.jpg",
+				"name": "Zelda: Tri Force Heroes: Launch Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7df51eec270fd30a88290dcbb1e40c1606806a918431ef4be310a1bc43c7af50.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "132"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/014ceed13a851f57b2c0347072184a03dc9742ff3714f2c40bcbdeadeac6789c.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "132"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ce336fca280156d3f8ae38d5321a2e870630f00717d63dfd25915f4ceb412b02.jpg",
+				"name": "The Music of The Legend of Zelda: Tri Force Heroes",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ff38b48e09ea0aafeaf7e5be5a3a253ed3a5af8ed76493f6c5c22446f9be61f8.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "101"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/63e28af063eb140743d2f6190966d85a455a08d13494d0bcea53def2a7d87574.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "101"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cc1470e1aee78e0fef0bd2fad26aa2168fea2f70ee43e4f94743621d2f5ee2d6.jpg",
+				"name": "Zelda: Tri Force Heroes: Preview Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7264b2c56d368705faa768338ea817b3088d54a5f317406c29c94ce224394718.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "177"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ffa5c61e94ad908d5cf442bd061fb5c88568a78f85c1c57d09b4c9662025cdff.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "177"
+					}
+				]
+			}
+		]
+	},
+	"FR": {
+		"title_id": "0004000000177000",
+		"eshop_id": "50010000036755",
+		"product_code": "CTR-P-EA3P",
+		"name": "The Legend of Zelda™: Tri Force Heroes",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c78b967df22b3a7c59068e8a8bc6f3332de69cdf460eb9af63785b5f534dd500.jpg",
+		"data_size": "550357908",
+		"description": "Combinez les pouvoirs de trois Link dans The Legend of Zelda: Tri Force Heroes pour les consoles de la famille Nintendo 3DS ! Formez un trio dynamique, enfilez différentes tenues pour gagner de nouvelles capacités et sauvez le royaume d'Estoffe, victime de la mode, aux prises avec une terrible malédiction. Répondez au roi qui en appelle aux héros pour débarrasser la princesse d'une affreuse nouvelle tenue et rétablissez le bon goût dans le royaume d'Estoffe. Lancez-vous dans une quête conçue pour trois, où chaque joueur contrôle un Link. Parcourez trois régions des contrées maudites, grottes glacées ou volcans ardents, et explorez plus de 30 niveaux regorgeant d'énigmes, de pièges et de méchants en tous genres.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-10-23",
+				"retail": "2015-10-23"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/cc6726a0bf1e62e71905e5ac920f6e7c9cc4f32e956129a1b28209b49098ab15.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8ca736a8997d2f245f98c917acee49d422196879e19d0cb233e6219a1e7f5dae.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/34507a4d0abed95c82e8e99686b04748544b26325f9478dc4556f593c09c5d28.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/cb5fe0f21fe88512c84c29c0a4be17e8a3a62c63a417761304292eec31d88a8e.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ebc3f5ce95ba1988634c50bf7e5a612f99fb79801c1c22e2a02bf85233136633.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4b1a05d14f7ed0ccbf5de200374de0e0fd7d6d0beef1715e9dfd051c03b58c86.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6c9f1e37e42db329a9dccdd91256709ad29a1d3bd03254f612d2e82a522abba9.jpg",
+				"name": "Zelda: Tri Force Heroes : bande-annonce de lancement ",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5954745cee8d785358593d5e9dff593a3dde2ee2ee639aeb7641a0cf74801afd.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "132"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/deef96d6b0add77d94d5f17183c09c6aaea2796b17ea73d614bcdf361d91572b.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "132"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ce336fca280156d3f8ae38d5321a2e870630f00717d63dfd25915f4ceb412b02.jpg",
+				"name": "Musique de The Legend of Zelda: Tri Force Heroes",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/baee01db539872f320915e6398168b094431714a6556ac66cce7d5f8d7196fa5.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "101"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f2ac6ec1be01c66ccb9df79838feeefb6126195283b0d0c39beae83e72aa35a0.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "101"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cc1470e1aee78e0fef0bd2fad26aa2168fea2f70ee43e4f94743621d2f5ee2d6.jpg",
+				"name": "Zelda: Tri Force Heroes : aperçu vidéo",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e8978922dcb3bcfdc380a1abeac8e49d9c44f69f79cce01f566165c103047595.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "177"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b12e9278ce066ac3a73a881d0cb3121943b6fa40cd1a76ce05d2bce10518d8aa.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "177"
+					}
+				]
+			}
+		]
+	},
+	"GB": {
+		"title_id": "0004000000177000",
+		"eshop_id": "50010000036755",
+		"product_code": "CTR-P-EA3P",
+		"name": "The Legend of Zelda™: Tri Force Heroes",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c78b967df22b3a7c59068e8a8bc6f3332de69cdf460eb9af63785b5f534dd500.jpg",
+		"data_size": "550357908",
+		"description": "Combine the powers of three Links in The Legend of Zelda: Tri Force Heroes for Nintendo 3DS family systems! Work together as a dynamic trio, don different outfits to gain new abilities, and save the fashion-obsessed kingdom of Hytopia from a ghastly curse. Answer the king’s call for heroes to rid the princess of a hideous new outfit and restore style to Hytopia. Embark on a quest outfitted for three, with each player controlling one Link each. Travel to eight different areas of the Drablands, from icy caverns to red hot volcanoes, and explore over 30 levels brimming with puzzles, traps and baddies.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-10-23",
+				"retail": "2015-10-23"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/124bac6a4c200b24ad41426efe6600272c9019b2924c01db964b76ec69bef2ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c7029305840114f37d4f8b6e21a0f617102e5b792d8378ad2c009f00f74f57ae.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6045ab460ec49d8e73b4200a91626d9e4427fe8b22d8b72362c108cc30b5fa3d.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/10610b2aa4151fff71df903e848723a4d1e69e2d74ff43b3d89a2d93a1cee562.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f8e7b4823dc6412086c946ce66c0db6f5ac91a4b247d5f362e42607b03918e4b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d0c55992393789cff0be55ebc52499631fde82a21461c467f6b0fc8ab07e37c1.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6c9f1e37e42db329a9dccdd91256709ad29a1d3bd03254f612d2e82a522abba9.jpg",
+				"name": "Zelda: Tri Force Heroes: Launch Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7df51eec270fd30a88290dcbb1e40c1606806a918431ef4be310a1bc43c7af50.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "132"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/014ceed13a851f57b2c0347072184a03dc9742ff3714f2c40bcbdeadeac6789c.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "132"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ce336fca280156d3f8ae38d5321a2e870630f00717d63dfd25915f4ceb412b02.jpg",
+				"name": "The Music of The Legend of Zelda: Tri Force Heroes",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ff38b48e09ea0aafeaf7e5be5a3a253ed3a5af8ed76493f6c5c22446f9be61f8.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "101"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/63e28af063eb140743d2f6190966d85a455a08d13494d0bcea53def2a7d87574.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "101"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cc1470e1aee78e0fef0bd2fad26aa2168fea2f70ee43e4f94743621d2f5ee2d6.jpg",
+				"name": "Zelda: Tri Force Heroes: Preview Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7264b2c56d368705faa768338ea817b3088d54a5f317406c29c94ce224394718.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "177"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ffa5c61e94ad908d5cf442bd061fb5c88568a78f85c1c57d09b4c9662025cdff.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "177"
+					}
+				]
+			}
+		]
+	},
+	"GR": {
+		"title_id": "0004000000177000",
+		"eshop_id": "50010000036755",
+		"product_code": "CTR-P-EA3P",
+		"name": "The Legend of Zelda™: Tri Force Heroes",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c78b967df22b3a7c59068e8a8bc6f3332de69cdf460eb9af63785b5f534dd500.jpg",
+		"data_size": "550357908",
+		"description": "Combine the powers of three Links in The Legend of Zelda: Tri Force Heroes for Nintendo 3DS family systems! Work together as a dynamic trio, don different outfits to gain new abilities, and save the fashion-obsessed kingdom of Hytopia from a ghastly curse. Answer the king’s call for heroes to rid the princess of a hideous new outfit and restore style to Hytopia. Embark on a quest outfitted for three, with each player controlling one Link each. Travel to eight different areas of the Drablands, from icy caverns to red hot volcanoes, and explore over 30 levels brimming with puzzles, traps and baddies.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-10-23",
+				"retail": "2015-10-23"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/124bac6a4c200b24ad41426efe6600272c9019b2924c01db964b76ec69bef2ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c7029305840114f37d4f8b6e21a0f617102e5b792d8378ad2c009f00f74f57ae.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6045ab460ec49d8e73b4200a91626d9e4427fe8b22d8b72362c108cc30b5fa3d.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/10610b2aa4151fff71df903e848723a4d1e69e2d74ff43b3d89a2d93a1cee562.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f8e7b4823dc6412086c946ce66c0db6f5ac91a4b247d5f362e42607b03918e4b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d0c55992393789cff0be55ebc52499631fde82a21461c467f6b0fc8ab07e37c1.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6c9f1e37e42db329a9dccdd91256709ad29a1d3bd03254f612d2e82a522abba9.jpg",
+				"name": "Zelda: Tri Force Heroes: Launch Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7df51eec270fd30a88290dcbb1e40c1606806a918431ef4be310a1bc43c7af50.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "132"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/014ceed13a851f57b2c0347072184a03dc9742ff3714f2c40bcbdeadeac6789c.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "132"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ce336fca280156d3f8ae38d5321a2e870630f00717d63dfd25915f4ceb412b02.jpg",
+				"name": "The Music of The Legend of Zelda: Tri Force Heroes",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ff38b48e09ea0aafeaf7e5be5a3a253ed3a5af8ed76493f6c5c22446f9be61f8.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "101"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/63e28af063eb140743d2f6190966d85a455a08d13494d0bcea53def2a7d87574.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "101"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cc1470e1aee78e0fef0bd2fad26aa2168fea2f70ee43e4f94743621d2f5ee2d6.jpg",
+				"name": "Zelda: Tri Force Heroes: Preview Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7264b2c56d368705faa768338ea817b3088d54a5f317406c29c94ce224394718.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "177"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ffa5c61e94ad908d5cf442bd061fb5c88568a78f85c1c57d09b4c9662025cdff.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "177"
+					}
+				]
+			}
+		]
+	},
+	"HR": {
+		"title_id": "0004000000177000",
+		"eshop_id": "50010000036755",
+		"product_code": "CTR-P-EA3P",
+		"name": "The Legend of Zelda™: Tri Force Heroes",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c78b967df22b3a7c59068e8a8bc6f3332de69cdf460eb9af63785b5f534dd500.jpg",
+		"data_size": "550357908",
+		"description": "Combine the powers of three Links in The Legend of Zelda: Tri Force Heroes for Nintendo 3DS family systems! Work together as a dynamic trio, don different outfits to gain new abilities, and save the fashion-obsessed kingdom of Hytopia from a ghastly curse. Answer the king’s call for heroes to rid the princess of a hideous new outfit and restore style to Hytopia. Embark on a quest outfitted for three, with each player controlling one Link each. Travel to eight different areas of the Drablands, from icy caverns to red hot volcanoes, and explore over 30 levels brimming with puzzles, traps and baddies.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-10-23",
+				"retail": "2015-10-23"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/124bac6a4c200b24ad41426efe6600272c9019b2924c01db964b76ec69bef2ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c7029305840114f37d4f8b6e21a0f617102e5b792d8378ad2c009f00f74f57ae.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6045ab460ec49d8e73b4200a91626d9e4427fe8b22d8b72362c108cc30b5fa3d.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/10610b2aa4151fff71df903e848723a4d1e69e2d74ff43b3d89a2d93a1cee562.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f8e7b4823dc6412086c946ce66c0db6f5ac91a4b247d5f362e42607b03918e4b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d0c55992393789cff0be55ebc52499631fde82a21461c467f6b0fc8ab07e37c1.jpg"
+			}
+		],
+		"movies": []
+	},
+	"IE": {
+		"title_id": "0004000000177000",
+		"eshop_id": "50010000036755",
+		"product_code": "CTR-P-EA3P",
+		"name": "The Legend of Zelda™: Tri Force Heroes",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c78b967df22b3a7c59068e8a8bc6f3332de69cdf460eb9af63785b5f534dd500.jpg",
+		"data_size": "550357908",
+		"description": "Combine the powers of three Links in The Legend of Zelda: Tri Force Heroes for Nintendo 3DS family systems! Work together as a dynamic trio, don different outfits to gain new abilities, and save the fashion-obsessed kingdom of Hytopia from a ghastly curse. Answer the king’s call for heroes to rid the princess of a hideous new outfit and restore style to Hytopia. Embark on a quest outfitted for three, with each player controlling one Link each. Travel to eight different areas of the Drablands, from icy caverns to red hot volcanoes, and explore over 30 levels brimming with puzzles, traps and baddies.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-10-23",
+				"retail": "2015-10-23"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/124bac6a4c200b24ad41426efe6600272c9019b2924c01db964b76ec69bef2ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c7029305840114f37d4f8b6e21a0f617102e5b792d8378ad2c009f00f74f57ae.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6045ab460ec49d8e73b4200a91626d9e4427fe8b22d8b72362c108cc30b5fa3d.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/10610b2aa4151fff71df903e848723a4d1e69e2d74ff43b3d89a2d93a1cee562.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f8e7b4823dc6412086c946ce66c0db6f5ac91a4b247d5f362e42607b03918e4b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d0c55992393789cff0be55ebc52499631fde82a21461c467f6b0fc8ab07e37c1.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6c9f1e37e42db329a9dccdd91256709ad29a1d3bd03254f612d2e82a522abba9.jpg",
+				"name": "Zelda: Tri Force Heroes: Launch Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7df51eec270fd30a88290dcbb1e40c1606806a918431ef4be310a1bc43c7af50.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "132"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/014ceed13a851f57b2c0347072184a03dc9742ff3714f2c40bcbdeadeac6789c.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "132"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ce336fca280156d3f8ae38d5321a2e870630f00717d63dfd25915f4ceb412b02.jpg",
+				"name": "The Music of The Legend of Zelda: Tri Force Heroes",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ff38b48e09ea0aafeaf7e5be5a3a253ed3a5af8ed76493f6c5c22446f9be61f8.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "101"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/63e28af063eb140743d2f6190966d85a455a08d13494d0bcea53def2a7d87574.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "101"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cc1470e1aee78e0fef0bd2fad26aa2168fea2f70ee43e4f94743621d2f5ee2d6.jpg",
+				"name": "Zelda: Tri Force Heroes: Preview Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7264b2c56d368705faa768338ea817b3088d54a5f317406c29c94ce224394718.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "177"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ffa5c61e94ad908d5cf442bd061fb5c88568a78f85c1c57d09b4c9662025cdff.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "177"
+					}
+				]
+			}
+		]
+	},
+	"HU": {
+		"title_id": "0004000000177000",
+		"eshop_id": "50010000036755",
+		"product_code": "CTR-P-EA3P",
+		"name": "The Legend of Zelda™: Tri Force Heroes",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c78b967df22b3a7c59068e8a8bc6f3332de69cdf460eb9af63785b5f534dd500.jpg",
+		"data_size": "550357908",
+		"description": "Combine the powers of three Links in The Legend of Zelda: Tri Force Heroes for Nintendo 3DS family systems! Work together as a dynamic trio, don different outfits to gain new abilities, and save the fashion-obsessed kingdom of Hytopia from a ghastly curse. Answer the king’s call for heroes to rid the princess of a hideous new outfit and restore style to Hytopia. Embark on a quest outfitted for three, with each player controlling one Link each. Travel to eight different areas of the Drablands, from icy caverns to red hot volcanoes, and explore over 30 levels brimming with puzzles, traps and baddies.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-10-23",
+				"retail": "2015-10-23"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/124bac6a4c200b24ad41426efe6600272c9019b2924c01db964b76ec69bef2ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c7029305840114f37d4f8b6e21a0f617102e5b792d8378ad2c009f00f74f57ae.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6045ab460ec49d8e73b4200a91626d9e4427fe8b22d8b72362c108cc30b5fa3d.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/10610b2aa4151fff71df903e848723a4d1e69e2d74ff43b3d89a2d93a1cee562.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f8e7b4823dc6412086c946ce66c0db6f5ac91a4b247d5f362e42607b03918e4b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d0c55992393789cff0be55ebc52499631fde82a21461c467f6b0fc8ab07e37c1.jpg"
+			}
+		],
+		"movies": []
+	},
+	"IT": {
+		"title_id": "0004000000177000",
+		"eshop_id": "50010000036755",
+		"product_code": "CTR-P-EA3P",
+		"name": "The Legend of Zelda™: Tri Force Heroes",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c78b967df22b3a7c59068e8a8bc6f3332de69cdf460eb9af63785b5f534dd500.jpg",
+		"data_size": "550357908",
+		"description": "Combina i poteri di tre Link in The Legend of Zelda: Tri Force Heroes per console della famiglia Nintendo 3DS! Collabora con altri giocatori, indossa costumi diversi per ottenere nuove abilità e salva il regno di Hytopia da una terribile maledizione. Il re ha bisogno di eroi per liberare la principessa da un terribile nuovo vestito e riportare lo stile a Hytopia. Rispondi alla sua chiamata e tuffati in un'avventura pensata per tre giocatori, dove ognuno di essi controlla un Link. Visita otto diverse aree della Terra dei mostri, con paesaggi che vanno da caverne ghiacciate a incandescenti vulcani, ed esplora più di 30 livelli pieni di enigmi, trappole e nemici.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-10-23",
+				"retail": "2015-10-23"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/51f529a9e73e250390a15eb3fb53a39cdcfff757da18422f0cf6a2bad9c0e2e3.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/dcff51b8dcf44ab4844e51601a910c2851c9a8896e8570948a85691bb56d98d2.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8bffcaebcaa3fd909e59c51bfcc5b73234660d53c6ff284707397858ce669a31.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/fdb88c2c201fc5d73675f3b6fc09e811a5af67e73dceceb4a0a953b0ff554d66.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/113411b15766f31f2bc2fd445c0f46845fe0ba5a24e627832a9b7a278202f33f.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6f7845babd97c4e408906b4c4d3ff356d63fdb5c02096eb8bf9da83e08a53469.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6c9f1e37e42db329a9dccdd91256709ad29a1d3bd03254f612d2e82a522abba9.jpg",
+				"name": "Zelda: Tri Force Heroes: trailer di lancio",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/01a7903228294d3870da7cdf132e167eb51ce8cbe5243704fda40939ab2f2e4f.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "132"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/79e974bc1e49fa9ebde4c5e69bb7ea217fb92c479f0a596d2beb40a778daf3e7.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "132"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ce336fca280156d3f8ae38d5321a2e870630f00717d63dfd25915f4ceb412b02.jpg",
+				"name": "Le musiche di The Legend of Zelda: Tri Force Heroes",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f03c352cd7421050712bdcd862ddeda81b9ad4327dc7aeb272d8066a4667becd.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "101"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/731f8b317415676b724f855531b7178ae6318d9b56e8439c18206399ab746f30.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "101"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cc1470e1aee78e0fef0bd2fad26aa2168fea2f70ee43e4f94743621d2f5ee2d6.jpg",
+				"name": "Zelda: Tri Force Heroes: anteprima video",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e77b5dd751e3d47c5b8f74290c65940f78b1ab64a88cf020b60a092dd9ddfdd1.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "177"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1c41322a208465fa9fd63529a2fc0573e40f03cc8e600ef3e4a3fb9fba522302.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "177"
+					}
+				]
+			}
+		]
+	},
+	"LT": {
+		"title_id": "0004000000177000",
+		"eshop_id": "50010000036755",
+		"product_code": "CTR-P-EA3P",
+		"name": "The Legend of Zelda™: Tri Force Heroes",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c78b967df22b3a7c59068e8a8bc6f3332de69cdf460eb9af63785b5f534dd500.jpg",
+		"data_size": "550357908",
+		"description": "Combine the powers of three Links in The Legend of Zelda: Tri Force Heroes for Nintendo 3DS family systems! Work together as a dynamic trio, don different outfits to gain new abilities, and save the fashion-obsessed kingdom of Hytopia from a ghastly curse. Answer the king’s call for heroes to rid the princess of a hideous new outfit and restore style to Hytopia. Embark on a quest outfitted for three, with each player controlling one Link each. Travel to eight different areas of the Drablands, from icy caverns to red hot volcanoes, and explore over 30 levels brimming with puzzles, traps and baddies.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-10-23",
+				"retail": "2015-10-23"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/124bac6a4c200b24ad41426efe6600272c9019b2924c01db964b76ec69bef2ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c7029305840114f37d4f8b6e21a0f617102e5b792d8378ad2c009f00f74f57ae.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6045ab460ec49d8e73b4200a91626d9e4427fe8b22d8b72362c108cc30b5fa3d.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/10610b2aa4151fff71df903e848723a4d1e69e2d74ff43b3d89a2d93a1cee562.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f8e7b4823dc6412086c946ce66c0db6f5ac91a4b247d5f362e42607b03918e4b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d0c55992393789cff0be55ebc52499631fde82a21461c467f6b0fc8ab07e37c1.jpg"
+			}
+		],
+		"movies": []
+	},
+	"LV": {
+		"title_id": "0004000000177000",
+		"eshop_id": "50010000036755",
+		"product_code": "CTR-P-EA3P",
+		"name": "The Legend of Zelda™: Tri Force Heroes",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c78b967df22b3a7c59068e8a8bc6f3332de69cdf460eb9af63785b5f534dd500.jpg",
+		"data_size": "550357908",
+		"description": "Combine the powers of three Links in The Legend of Zelda: Tri Force Heroes for Nintendo 3DS family systems! Work together as a dynamic trio, don different outfits to gain new abilities, and save the fashion-obsessed kingdom of Hytopia from a ghastly curse. Answer the king’s call for heroes to rid the princess of a hideous new outfit and restore style to Hytopia. Embark on a quest outfitted for three, with each player controlling one Link each. Travel to eight different areas of the Drablands, from icy caverns to red hot volcanoes, and explore over 30 levels brimming with puzzles, traps and baddies.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-10-23",
+				"retail": "2015-10-23"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/124bac6a4c200b24ad41426efe6600272c9019b2924c01db964b76ec69bef2ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c7029305840114f37d4f8b6e21a0f617102e5b792d8378ad2c009f00f74f57ae.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6045ab460ec49d8e73b4200a91626d9e4427fe8b22d8b72362c108cc30b5fa3d.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/10610b2aa4151fff71df903e848723a4d1e69e2d74ff43b3d89a2d93a1cee562.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f8e7b4823dc6412086c946ce66c0db6f5ac91a4b247d5f362e42607b03918e4b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d0c55992393789cff0be55ebc52499631fde82a21461c467f6b0fc8ab07e37c1.jpg"
+			}
+		],
+		"movies": []
+	},
+	"LU": {
+		"title_id": "0004000000177000",
+		"eshop_id": "50010000036755",
+		"product_code": "CTR-P-EA3P",
+		"name": "The Legend of Zelda™: Tri Force Heroes",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c78b967df22b3a7c59068e8a8bc6f3332de69cdf460eb9af63785b5f534dd500.jpg",
+		"data_size": "550357908",
+		"description": "Combinez les pouvoirs de trois Link dans The Legend of Zelda: Tri Force Heroes pour les consoles de la famille Nintendo 3DS ! Formez un trio dynamique, enfilez différentes tenues pour gagner de nouvelles capacités et sauvez le royaume d'Estoffe, victime de la mode, aux prises avec une terrible malédiction. Répondez au roi qui en appelle aux héros pour débarrasser la princesse d'une affreuse nouvelle tenue et rétablissez le bon goût dans le royaume d'Estoffe. Lancez-vous dans une quête conçue pour trois, où chaque joueur contrôle un Link. Parcourez trois régions des contrées maudites, grottes glacées ou volcans ardents, et explorez plus de 30 niveaux regorgeant d'énigmes, de pièges et de méchants en tous genres.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-10-23",
+				"retail": "2015-10-23"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/cc6726a0bf1e62e71905e5ac920f6e7c9cc4f32e956129a1b28209b49098ab15.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8ca736a8997d2f245f98c917acee49d422196879e19d0cb233e6219a1e7f5dae.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/34507a4d0abed95c82e8e99686b04748544b26325f9478dc4556f593c09c5d28.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/cb5fe0f21fe88512c84c29c0a4be17e8a3a62c63a417761304292eec31d88a8e.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ebc3f5ce95ba1988634c50bf7e5a612f99fb79801c1c22e2a02bf85233136633.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4b1a05d14f7ed0ccbf5de200374de0e0fd7d6d0beef1715e9dfd051c03b58c86.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6c9f1e37e42db329a9dccdd91256709ad29a1d3bd03254f612d2e82a522abba9.jpg",
+				"name": "Zelda: Tri Force Heroes : bande-annonce de lancement ",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5954745cee8d785358593d5e9dff593a3dde2ee2ee639aeb7641a0cf74801afd.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "132"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/deef96d6b0add77d94d5f17183c09c6aaea2796b17ea73d614bcdf361d91572b.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "132"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ce336fca280156d3f8ae38d5321a2e870630f00717d63dfd25915f4ceb412b02.jpg",
+				"name": "Musique de The Legend of Zelda: Tri Force Heroes",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/baee01db539872f320915e6398168b094431714a6556ac66cce7d5f8d7196fa5.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "101"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f2ac6ec1be01c66ccb9df79838feeefb6126195283b0d0c39beae83e72aa35a0.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "101"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cc1470e1aee78e0fef0bd2fad26aa2168fea2f70ee43e4f94743621d2f5ee2d6.jpg",
+				"name": "Zelda: Tri Force Heroes : aperçu vidéo",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e8978922dcb3bcfdc380a1abeac8e49d9c44f69f79cce01f566165c103047595.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "177"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b12e9278ce066ac3a73a881d0cb3121943b6fa40cd1a76ce05d2bce10518d8aa.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "177"
+					}
+				]
+			}
+		]
+	},
+	"MT": {
+		"title_id": "0004000000177000",
+		"eshop_id": "50010000036755",
+		"product_code": "CTR-P-EA3P",
+		"name": "The Legend of Zelda™: Tri Force Heroes",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c78b967df22b3a7c59068e8a8bc6f3332de69cdf460eb9af63785b5f534dd500.jpg",
+		"data_size": "550357908",
+		"description": "Combine the powers of three Links in The Legend of Zelda: Tri Force Heroes for Nintendo 3DS family systems! Work together as a dynamic trio, don different outfits to gain new abilities, and save the fashion-obsessed kingdom of Hytopia from a ghastly curse. Answer the king’s call for heroes to rid the princess of a hideous new outfit and restore style to Hytopia. Embark on a quest outfitted for three, with each player controlling one Link each. Travel to eight different areas of the Drablands, from icy caverns to red hot volcanoes, and explore over 30 levels brimming with puzzles, traps and baddies.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-10-23",
+				"retail": "2015-10-23"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/124bac6a4c200b24ad41426efe6600272c9019b2924c01db964b76ec69bef2ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c7029305840114f37d4f8b6e21a0f617102e5b792d8378ad2c009f00f74f57ae.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6045ab460ec49d8e73b4200a91626d9e4427fe8b22d8b72362c108cc30b5fa3d.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/10610b2aa4151fff71df903e848723a4d1e69e2d74ff43b3d89a2d93a1cee562.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f8e7b4823dc6412086c946ce66c0db6f5ac91a4b247d5f362e42607b03918e4b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d0c55992393789cff0be55ebc52499631fde82a21461c467f6b0fc8ab07e37c1.jpg"
+			}
+		],
+		"movies": []
+	},
+	"NO": {
+		"title_id": "0004000000177000",
+		"eshop_id": "50010000036755",
+		"product_code": "CTR-P-EA3P",
+		"name": "The Legend of Zelda™: Tri Force Heroes",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c78b967df22b3a7c59068e8a8bc6f3332de69cdf460eb9af63785b5f534dd500.jpg",
+		"data_size": "550357908",
+		"description": "Combine the powers of three Links in The Legend of Zelda: Tri Force Heroes for Nintendo 3DS family systems! Work together as a dynamic trio, don different outfits to gain new abilities, and save the fashion-obsessed kingdom of Hytopia from a ghastly curse. Answer the king’s call for heroes to rid the princess of a hideous new outfit and restore style to Hytopia. Embark on a quest outfitted for three, with each player controlling one Link each. Travel to eight different areas of the Drablands, from icy caverns to red hot volcanoes, and explore over 30 levels brimming with puzzles, traps and baddies.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-10-23",
+				"retail": "2015-10-23"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/124bac6a4c200b24ad41426efe6600272c9019b2924c01db964b76ec69bef2ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c7029305840114f37d4f8b6e21a0f617102e5b792d8378ad2c009f00f74f57ae.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6045ab460ec49d8e73b4200a91626d9e4427fe8b22d8b72362c108cc30b5fa3d.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/10610b2aa4151fff71df903e848723a4d1e69e2d74ff43b3d89a2d93a1cee562.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f8e7b4823dc6412086c946ce66c0db6f5ac91a4b247d5f362e42607b03918e4b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d0c55992393789cff0be55ebc52499631fde82a21461c467f6b0fc8ab07e37c1.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6c9f1e37e42db329a9dccdd91256709ad29a1d3bd03254f612d2e82a522abba9.jpg",
+				"name": "Zelda: Tri Force Heroes: Launch Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7df51eec270fd30a88290dcbb1e40c1606806a918431ef4be310a1bc43c7af50.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "132"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/014ceed13a851f57b2c0347072184a03dc9742ff3714f2c40bcbdeadeac6789c.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "132"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ce336fca280156d3f8ae38d5321a2e870630f00717d63dfd25915f4ceb412b02.jpg",
+				"name": "The Music of The Legend of Zelda: Tri Force Heroes",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ff38b48e09ea0aafeaf7e5be5a3a253ed3a5af8ed76493f6c5c22446f9be61f8.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "101"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/63e28af063eb140743d2f6190966d85a455a08d13494d0bcea53def2a7d87574.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "101"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cc1470e1aee78e0fef0bd2fad26aa2168fea2f70ee43e4f94743621d2f5ee2d6.jpg",
+				"name": "Zelda: Tri Force Heroes: Preview Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7264b2c56d368705faa768338ea817b3088d54a5f317406c29c94ce224394718.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "177"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ffa5c61e94ad908d5cf442bd061fb5c88568a78f85c1c57d09b4c9662025cdff.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "177"
+					}
+				]
+			}
+		]
+	},
+	"NL": {
+		"title_id": "0004000000177000",
+		"eshop_id": "50010000036755",
+		"product_code": "CTR-P-EA3P",
+		"name": "The Legend of Zelda™: Tri Force Heroes",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c78b967df22b3a7c59068e8a8bc6f3332de69cdf460eb9af63785b5f534dd500.jpg",
+		"data_size": "550357908",
+		"description": "Laat drie Links hun krachten bundelen in The Legend of Zelda: Tri Force Heroes voor de verschillende Nintendo 3DS-systemen! Werk samen als triomfantelijk trio, gebruik verschillende outfits om nieuwe krachten te krijgen, en behoed het modebewuste koninkrijk Hytopia voor een gruwelijke vloek. Geef gehoor aan de oproep van de koning en bevrijd de prinses van een foeilelijke, nieuwe outfit om het gevoel voor stijl in Hytopia te herstellen. Ga op een avontuur dat je alleen met z'n drieën tot een goed einde kunt brengen, waarbij iedere speler één Link bestuurt. Reis naar acht verschillende regio's in de Drablands, van ijzige grottenstelsels tot gloeiend hete vulkanen, en verken meer dan 30 levels boordevol puzzels, valstrikken en slechteriken.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-10-23",
+				"retail": "2015-10-23"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/124bac6a4c200b24ad41426efe6600272c9019b2924c01db964b76ec69bef2ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c7029305840114f37d4f8b6e21a0f617102e5b792d8378ad2c009f00f74f57ae.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6045ab460ec49d8e73b4200a91626d9e4427fe8b22d8b72362c108cc30b5fa3d.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/10610b2aa4151fff71df903e848723a4d1e69e2d74ff43b3d89a2d93a1cee562.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f8e7b4823dc6412086c946ce66c0db6f5ac91a4b247d5f362e42607b03918e4b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d0c55992393789cff0be55ebc52499631fde82a21461c467f6b0fc8ab07e37c1.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6c9f1e37e42db329a9dccdd91256709ad29a1d3bd03254f612d2e82a522abba9.jpg",
+				"name": "Zelda: Tri Force Heroes: Introductietrailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/40e673332e33f278151f31ef0c6bdc48567fd4d5fadde3d61c6101a611bdb4da.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "132"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/09dfdea166bdd7cf0af62be2497c4fa3ce261a69a783f294799761d1193fe8f2.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "132"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ce336fca280156d3f8ae38d5321a2e870630f00717d63dfd25915f4ceb412b02.jpg",
+				"name": "De muziek van The Legend of Zelda: Tri Force Heroes",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0dd1fb6d23e9733cb362c6cc5499c692b6b482e543ad3c4a29e77a758328b39c.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "101"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3421f05ebbc8ac7378dcc9b0b61860f9e08b64c4aa67a947509a4b43251ac8e0.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "101"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cc1470e1aee78e0fef0bd2fad26aa2168fea2f70ee43e4f94743621d2f5ee2d6.jpg",
+				"name": "Zelda: Tri Force Heroes: Previewvideo",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/95d40f588d10cc60dc67079dbef206cdd9679af4e562052512e8eaffa8d1efe1.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "177"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/65c53b7d99cbaad8c9784be467c9625e5ddf0de20207daabcb0a9d976d60183c.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "177"
+					}
+				]
+			}
+		]
+	},
+	"NZ": {
+		"title_id": "0004000000177000",
+		"eshop_id": "50010000036755",
+		"product_code": "CTR-P-EA3P",
+		"name": "The Legend of Zelda™: Tri Force Heroes",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c78b967df22b3a7c59068e8a8bc6f3332de69cdf460eb9af63785b5f534dd500.jpg",
+		"data_size": "550357908",
+		"description": "Combine the powers of three Links in The Legend of Zelda: Tri Force Heroes for Nintendo 3DS family systems! Work together as a dynamic trio, don different outfits to gain new abilities, and save the fashion-obsessed kingdom of Hytopia from a ghastly curse. Answer the king’s call for heroes to rid the princess of a hideous new outfit and restore style to Hytopia. Embark on a quest outfitted for three, with each player controlling one Link each. Travel to eight different areas of the Drablands, from icy caverns to red hot volcanoes, and explore over 30 levels brimming with puzzles, traps and baddies.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-10-24",
+				"retail": "2015-10-24"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/124bac6a4c200b24ad41426efe6600272c9019b2924c01db964b76ec69bef2ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c7029305840114f37d4f8b6e21a0f617102e5b792d8378ad2c009f00f74f57ae.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6045ab460ec49d8e73b4200a91626d9e4427fe8b22d8b72362c108cc30b5fa3d.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/10610b2aa4151fff71df903e848723a4d1e69e2d74ff43b3d89a2d93a1cee562.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f8e7b4823dc6412086c946ce66c0db6f5ac91a4b247d5f362e42607b03918e4b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d0c55992393789cff0be55ebc52499631fde82a21461c467f6b0fc8ab07e37c1.jpg"
+			}
+		],
+		"movies": []
+	},
+	"PL": {
+		"title_id": "0004000000177000",
+		"eshop_id": "50010000036755",
+		"product_code": "CTR-P-EA3P",
+		"name": "The Legend of Zelda™: Tri Force Heroes",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c78b967df22b3a7c59068e8a8bc6f3332de69cdf460eb9af63785b5f534dd500.jpg",
+		"data_size": "550357908",
+		"description": "Combine the powers of three Links in The Legend of Zelda: Tri Force Heroes for Nintendo 3DS family systems! Work together as a dynamic trio, don different outfits to gain new abilities, and save the fashion-obsessed kingdom of Hytopia from a ghastly curse. Answer the king’s call for heroes to rid the princess of a hideous new outfit and restore style to Hytopia. Embark on a quest outfitted for three, with each player controlling one Link each. Travel to eight different areas of the Drablands, from icy caverns to red hot volcanoes, and explore over 30 levels brimming with puzzles, traps and baddies.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-10-23",
+				"retail": "2015-10-23"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/124bac6a4c200b24ad41426efe6600272c9019b2924c01db964b76ec69bef2ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c7029305840114f37d4f8b6e21a0f617102e5b792d8378ad2c009f00f74f57ae.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6045ab460ec49d8e73b4200a91626d9e4427fe8b22d8b72362c108cc30b5fa3d.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/10610b2aa4151fff71df903e848723a4d1e69e2d74ff43b3d89a2d93a1cee562.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f8e7b4823dc6412086c946ce66c0db6f5ac91a4b247d5f362e42607b03918e4b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d0c55992393789cff0be55ebc52499631fde82a21461c467f6b0fc8ab07e37c1.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6c9f1e37e42db329a9dccdd91256709ad29a1d3bd03254f612d2e82a522abba9.jpg",
+				"name": "Zelda: Tri Force Heroes: Launch Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7df51eec270fd30a88290dcbb1e40c1606806a918431ef4be310a1bc43c7af50.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "132"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/014ceed13a851f57b2c0347072184a03dc9742ff3714f2c40bcbdeadeac6789c.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "132"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ce336fca280156d3f8ae38d5321a2e870630f00717d63dfd25915f4ceb412b02.jpg",
+				"name": "The Music of The Legend of Zelda: Tri Force Heroes",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ff38b48e09ea0aafeaf7e5be5a3a253ed3a5af8ed76493f6c5c22446f9be61f8.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "101"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/63e28af063eb140743d2f6190966d85a455a08d13494d0bcea53def2a7d87574.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "101"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cc1470e1aee78e0fef0bd2fad26aa2168fea2f70ee43e4f94743621d2f5ee2d6.jpg",
+				"name": "Zelda: Tri Force Heroes: Preview Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7264b2c56d368705faa768338ea817b3088d54a5f317406c29c94ce224394718.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "177"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ffa5c61e94ad908d5cf442bd061fb5c88568a78f85c1c57d09b4c9662025cdff.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "177"
+					}
+				]
+			}
+		]
+	},
+	"PT": {
+		"title_id": "0004000000177000",
+		"eshop_id": "50010000036755",
+		"product_code": "CTR-P-EA3P",
+		"name": "The Legend of Zelda™: Tri Force Heroes",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c78b967df22b3a7c59068e8a8bc6f3332de69cdf460eb9af63785b5f534dd500.jpg",
+		"data_size": "550357908",
+		"description": "Combina os poderes de três Links em The Legend of Zelda: Tri Force Heroes para a família de consolas Nintendo 3DS. Joga em cooperação como parte de um trio dinâmico, enverga diferentes fatos para obteres novas habilidades e salva o reino de Hytopia de uma terrível maldição. O rei precisa de heróis! Responde à chamada e tenta livrar a princesa de um novo fato horrendo, devolvendo, assim, o estilo a Hytopia. Embarca numa missão feita à medida para três, cada um ao controlo do seu próprio Link. Viaja até oito áreas diferentes de Drablands, desde grutas geladas a vulcões, e explora mais de 30 níveis repletos de quebra-cabeças, armadilhas e vilões.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-10-23",
+				"retail": "2015-10-23"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/124bac6a4c200b24ad41426efe6600272c9019b2924c01db964b76ec69bef2ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c7029305840114f37d4f8b6e21a0f617102e5b792d8378ad2c009f00f74f57ae.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6045ab460ec49d8e73b4200a91626d9e4427fe8b22d8b72362c108cc30b5fa3d.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/10610b2aa4151fff71df903e848723a4d1e69e2d74ff43b3d89a2d93a1cee562.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f8e7b4823dc6412086c946ce66c0db6f5ac91a4b247d5f362e42607b03918e4b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d0c55992393789cff0be55ebc52499631fde82a21461c467f6b0fc8ab07e37c1.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6c9f1e37e42db329a9dccdd91256709ad29a1d3bd03254f612d2e82a522abba9.jpg",
+				"name": "Zelda: Tri Force Heroes: Trailer de lançamento",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2f03bc215694eee33c39fe11a866198d98e9f3f29764d54d621bec22f35c2aa0.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "132"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/af42487dad49a343c0940abc23ddaa37d3391938c04a5ce7ee709d3455f5301b.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "132"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ce336fca280156d3f8ae38d5321a2e870630f00717d63dfd25915f4ceb412b02.jpg",
+				"name": "A música de The Legend of Zelda: Tri Force Heroes",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/76c13f398f1a9c6765fbabbe013100c5da94c63dbe545605c86f06f1fda25ca7.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "101"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e4aa2877faa96f46b7a730f9dd9c9973f710c308f3ef4e6bcbade99887240be7.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "101"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cc1470e1aee78e0fef0bd2fad26aa2168fea2f70ee43e4f94743621d2f5ee2d6.jpg",
+				"name": "Zelda: Tri Force Heroes: Vídeo de antestreia",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d5a2542ff09168fdd263af15b3eba79cfc8d2e5bec5bd7e3ca8763807003193e.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "177"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c5cb3133e29ab2ecf6ea6b156416c3a8b5ab82dcbd24cf5b260b401d6879fa56.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "177"
+					}
+				]
+			}
+		]
+	},
+	"RU": {
+		"title_id": "0004000000177000",
+		"eshop_id": "50010000036755",
+		"product_code": "CTR-P-EA3P",
+		"name": "The Legend of Zelda™: Tri Force Heroes",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c78b967df22b3a7c59068e8a8bc6f3332de69cdf460eb9af63785b5f534dd500.jpg",
+		"data_size": "550357908",
+		"description": "Эта игра доступна только на английском, французском, итальянском, немецком и испанском языках. Объедините силы трех Линков в The Legend of Zelda: Tri Force Heroes для семейства систем Nintendo 3DS! Работайте сообща, одевайте героев в наряды, дарующие особые способности, и спасите помешанное на моде королевство Хитопия от ужасного проклятья. Король призвал героев, дабы те освободили принцессу от безобразного нового наряда и вернули в Хитопию хороший вкус. В путешествии с двумя друзьями-Линками вам предстоит исследовать Драбленд, в восьми областях которого вам встретятся такие экзотические места, как ледяные пещеры и вулканы с жаркой лавой. 30 с лишним уровней до краев наполнены головоломками, ловушками и злодеями.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-10-23",
+				"retail": "2015-10-23"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/124bac6a4c200b24ad41426efe6600272c9019b2924c01db964b76ec69bef2ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c7029305840114f37d4f8b6e21a0f617102e5b792d8378ad2c009f00f74f57ae.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6045ab460ec49d8e73b4200a91626d9e4427fe8b22d8b72362c108cc30b5fa3d.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/10610b2aa4151fff71df903e848723a4d1e69e2d74ff43b3d89a2d93a1cee562.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f8e7b4823dc6412086c946ce66c0db6f5ac91a4b247d5f362e42607b03918e4b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d0c55992393789cff0be55ebc52499631fde82a21461c467f6b0fc8ab07e37c1.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6c9f1e37e42db329a9dccdd91256709ad29a1d3bd03254f612d2e82a522abba9.jpg",
+				"name": "Zelda: Tri Force Heroes: трейлер к выходу игры",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/72f596260623d077c05bc08a76b50f9790ac6a2121fd4b66e0b968b2ad9af39e.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "132"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ee83c050172e1254104e68374287af97e432f2bd6bca5a140c4c7696eca093de.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "132"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ce336fca280156d3f8ae38d5321a2e870630f00717d63dfd25915f4ceb412b02.jpg",
+				"name": "Музыка из The Legend of Zelda: Tri Force Heroes",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/46fc434ceb246e93225683886d3e83f590abe4d8d7e6f245b4b0cfc455a28a60.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "101"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d80ba0889e5cb2808bfb515fbea91d5e272b4dccc418df0354644614f7861bce.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "101"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cc1470e1aee78e0fef0bd2fad26aa2168fea2f70ee43e4f94743621d2f5ee2d6.jpg",
+				"name": "Zelda: Tri Force Heroes: предварительный видеообзор",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9c4697219565de69911a93e59485209b21f17b835417b6b257f7f1a47c880b7c.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "177"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fd5dd9ceee226a419d6463d8945508555def8f96c5ee00e6fd3433f33bce85a3.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "177"
+					}
+				]
+			}
+		]
+	},
+	"SE": {
+		"title_id": "0004000000177000",
+		"eshop_id": "50010000036755",
+		"product_code": "CTR-P-EA3P",
+		"name": "The Legend of Zelda™: Tri Force Heroes",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c78b967df22b3a7c59068e8a8bc6f3332de69cdf460eb9af63785b5f534dd500.jpg",
+		"data_size": "550357908",
+		"description": "Combine the powers of three Links in The Legend of Zelda: Tri Force Heroes for Nintendo 3DS family systems! Work together as a dynamic trio, don different outfits to gain new abilities, and save the fashion-obsessed kingdom of Hytopia from a ghastly curse. Answer the king’s call for heroes to rid the princess of a hideous new outfit and restore style to Hytopia. Embark on a quest outfitted for three, with each player controlling one Link each. Travel to eight different areas of the Drablands, from icy caverns to red hot volcanoes, and explore over 30 levels brimming with puzzles, traps and baddies.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-10-23",
+				"retail": "2015-10-23"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/124bac6a4c200b24ad41426efe6600272c9019b2924c01db964b76ec69bef2ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c7029305840114f37d4f8b6e21a0f617102e5b792d8378ad2c009f00f74f57ae.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6045ab460ec49d8e73b4200a91626d9e4427fe8b22d8b72362c108cc30b5fa3d.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/10610b2aa4151fff71df903e848723a4d1e69e2d74ff43b3d89a2d93a1cee562.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f8e7b4823dc6412086c946ce66c0db6f5ac91a4b247d5f362e42607b03918e4b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d0c55992393789cff0be55ebc52499631fde82a21461c467f6b0fc8ab07e37c1.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6c9f1e37e42db329a9dccdd91256709ad29a1d3bd03254f612d2e82a522abba9.jpg",
+				"name": "Zelda: Tri Force Heroes: Launch Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7df51eec270fd30a88290dcbb1e40c1606806a918431ef4be310a1bc43c7af50.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "132"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/014ceed13a851f57b2c0347072184a03dc9742ff3714f2c40bcbdeadeac6789c.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "132"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ce336fca280156d3f8ae38d5321a2e870630f00717d63dfd25915f4ceb412b02.jpg",
+				"name": "The Music of The Legend of Zelda: Tri Force Heroes",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ff38b48e09ea0aafeaf7e5be5a3a253ed3a5af8ed76493f6c5c22446f9be61f8.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "101"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/63e28af063eb140743d2f6190966d85a455a08d13494d0bcea53def2a7d87574.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "101"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cc1470e1aee78e0fef0bd2fad26aa2168fea2f70ee43e4f94743621d2f5ee2d6.jpg",
+				"name": "Zelda: Tri Force Heroes: Preview Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7264b2c56d368705faa768338ea817b3088d54a5f317406c29c94ce224394718.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "177"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ffa5c61e94ad908d5cf442bd061fb5c88568a78f85c1c57d09b4c9662025cdff.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "177"
+					}
+				]
+			}
+		]
+	},
+	"RO": {
+		"title_id": "0004000000177000",
+		"eshop_id": "50010000036755",
+		"product_code": "CTR-P-EA3P",
+		"name": "The Legend of Zelda™: Tri Force Heroes",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c78b967df22b3a7c59068e8a8bc6f3332de69cdf460eb9af63785b5f534dd500.jpg",
+		"data_size": "550357908",
+		"description": "Combine the powers of three Links in The Legend of Zelda: Tri Force Heroes for Nintendo 3DS family systems! Work together as a dynamic trio, don different outfits to gain new abilities, and save the fashion-obsessed kingdom of Hytopia from a ghastly curse. Answer the king’s call for heroes to rid the princess of a hideous new outfit and restore style to Hytopia. Embark on a quest outfitted for three, with each player controlling one Link each. Travel to eight different areas of the Drablands, from icy caverns to red hot volcanoes, and explore over 30 levels brimming with puzzles, traps and baddies.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-10-23",
+				"retail": "2015-10-23"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/124bac6a4c200b24ad41426efe6600272c9019b2924c01db964b76ec69bef2ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c7029305840114f37d4f8b6e21a0f617102e5b792d8378ad2c009f00f74f57ae.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6045ab460ec49d8e73b4200a91626d9e4427fe8b22d8b72362c108cc30b5fa3d.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/10610b2aa4151fff71df903e848723a4d1e69e2d74ff43b3d89a2d93a1cee562.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f8e7b4823dc6412086c946ce66c0db6f5ac91a4b247d5f362e42607b03918e4b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d0c55992393789cff0be55ebc52499631fde82a21461c467f6b0fc8ab07e37c1.jpg"
+			}
+		],
+		"movies": []
+	},
+	"SK": {
+		"title_id": "0004000000177000",
+		"eshop_id": "50010000036755",
+		"product_code": "CTR-P-EA3P",
+		"name": "The Legend of Zelda™: Tri Force Heroes",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c78b967df22b3a7c59068e8a8bc6f3332de69cdf460eb9af63785b5f534dd500.jpg",
+		"data_size": "550357908",
+		"description": "Combine the powers of three Links in The Legend of Zelda: Tri Force Heroes for Nintendo 3DS family systems! Work together as a dynamic trio, don different outfits to gain new abilities, and save the fashion-obsessed kingdom of Hytopia from a ghastly curse. Answer the king’s call for heroes to rid the princess of a hideous new outfit and restore style to Hytopia. Embark on a quest outfitted for three, with each player controlling one Link each. Travel to eight different areas of the Drablands, from icy caverns to red hot volcanoes, and explore over 30 levels brimming with puzzles, traps and baddies.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-10-23",
+				"retail": "2015-10-23"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/124bac6a4c200b24ad41426efe6600272c9019b2924c01db964b76ec69bef2ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c7029305840114f37d4f8b6e21a0f617102e5b792d8378ad2c009f00f74f57ae.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6045ab460ec49d8e73b4200a91626d9e4427fe8b22d8b72362c108cc30b5fa3d.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/10610b2aa4151fff71df903e848723a4d1e69e2d74ff43b3d89a2d93a1cee562.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f8e7b4823dc6412086c946ce66c0db6f5ac91a4b247d5f362e42607b03918e4b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d0c55992393789cff0be55ebc52499631fde82a21461c467f6b0fc8ab07e37c1.jpg"
+			}
+		],
+		"movies": []
+	},
+	"SI": {
+		"title_id": "0004000000177000",
+		"eshop_id": "50010000036755",
+		"product_code": "CTR-P-EA3P",
+		"name": "The Legend of Zelda™: Tri Force Heroes",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c78b967df22b3a7c59068e8a8bc6f3332de69cdf460eb9af63785b5f534dd500.jpg",
+		"data_size": "550357908",
+		"description": "Combine the powers of three Links in The Legend of Zelda: Tri Force Heroes for Nintendo 3DS family systems! Work together as a dynamic trio, don different outfits to gain new abilities, and save the fashion-obsessed kingdom of Hytopia from a ghastly curse. Answer the king’s call for heroes to rid the princess of a hideous new outfit and restore style to Hytopia. Embark on a quest outfitted for three, with each player controlling one Link each. Travel to eight different areas of the Drablands, from icy caverns to red hot volcanoes, and explore over 30 levels brimming with puzzles, traps and baddies.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-10-23",
+				"retail": "2015-10-23"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/124bac6a4c200b24ad41426efe6600272c9019b2924c01db964b76ec69bef2ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c7029305840114f37d4f8b6e21a0f617102e5b792d8378ad2c009f00f74f57ae.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6045ab460ec49d8e73b4200a91626d9e4427fe8b22d8b72362c108cc30b5fa3d.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/10610b2aa4151fff71df903e848723a4d1e69e2d74ff43b3d89a2d93a1cee562.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f8e7b4823dc6412086c946ce66c0db6f5ac91a4b247d5f362e42607b03918e4b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d0c55992393789cff0be55ebc52499631fde82a21461c467f6b0fc8ab07e37c1.jpg"
+			}
+		],
+		"movies": []
+	},
+	"ZA": {
+		"title_id": "0004000000177000",
+		"eshop_id": "50010000036755",
+		"product_code": "CTR-P-EA3P",
+		"name": "The Legend of Zelda™: Tri Force Heroes",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c78b967df22b3a7c59068e8a8bc6f3332de69cdf460eb9af63785b5f534dd500.jpg",
+		"data_size": "550357908",
+		"description": "Combine the powers of three Links in The Legend of Zelda: Tri Force Heroes for Nintendo 3DS family systems! Work together as a dynamic trio, don different outfits to gain new abilities, and save the fashion-obsessed kingdom of Hytopia from a ghastly curse. Answer the king’s call for heroes to rid the princess of a hideous new outfit and restore style to Hytopia. Embark on a quest outfitted for three, with each player controlling one Link each. Travel to eight different areas of the Drablands, from icy caverns to red hot volcanoes, and explore over 30 levels brimming with puzzles, traps and baddies.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-10-23",
+				"retail": "2015-10-23"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/124bac6a4c200b24ad41426efe6600272c9019b2924c01db964b76ec69bef2ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c7029305840114f37d4f8b6e21a0f617102e5b792d8378ad2c009f00f74f57ae.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6045ab460ec49d8e73b4200a91626d9e4427fe8b22d8b72362c108cc30b5fa3d.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/10610b2aa4151fff71df903e848723a4d1e69e2d74ff43b3d89a2d93a1cee562.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f8e7b4823dc6412086c946ce66c0db6f5ac91a4b247d5f362e42607b03918e4b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d0c55992393789cff0be55ebc52499631fde82a21461c467f6b0fc8ab07e37c1.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6c9f1e37e42db329a9dccdd91256709ad29a1d3bd03254f612d2e82a522abba9.jpg",
+				"name": "Zelda: Tri Force Heroes: Launch Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7df51eec270fd30a88290dcbb1e40c1606806a918431ef4be310a1bc43c7af50.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "132"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/014ceed13a851f57b2c0347072184a03dc9742ff3714f2c40bcbdeadeac6789c.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "132"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ce336fca280156d3f8ae38d5321a2e870630f00717d63dfd25915f4ceb412b02.jpg",
+				"name": "The Music of The Legend of Zelda: Tri Force Heroes",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ff38b48e09ea0aafeaf7e5be5a3a253ed3a5af8ed76493f6c5c22446f9be61f8.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "101"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/63e28af063eb140743d2f6190966d85a455a08d13494d0bcea53def2a7d87574.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "101"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cc1470e1aee78e0fef0bd2fad26aa2168fea2f70ee43e4f94743621d2f5ee2d6.jpg",
+				"name": "Zelda: Tri Force Heroes: Preview Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7264b2c56d368705faa768338ea817b3088d54a5f317406c29c94ce224394718.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "177"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ffa5c61e94ad908d5cf442bd061fb5c88568a78f85c1c57d09b4c9662025cdff.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "177"
+					}
+				]
+			}
+		]
+	}
+}

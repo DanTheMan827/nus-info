@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001010B200",
+	"eshop_id": "20010000000058",
+	"product_code": "WUP-N-ASCE",
+	"name": "Scribblenauts™ Unlimited",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 1004,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/57762e1ab77ff27fcae1844f26b799f6f2d6db01d9029d604cc9a2664fb83c6e.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/49cd77bf9fd4398ac84863a9170397530ad27e805453f2ab6e4a0752edba8f04.jpg",
+	"data_size": "1443987716",
+	"description": "Now you can play Scribblenauts on your living room TV in gorgeous HD. Venture into a wide-open world where the most powerful tool is your imagination. Help Maxwell solve robust puzzles in seamless, free-roaming levels by summoning any object you can think of. Create your own original objects, assign unique properties, and share them with friends online – to be used in game or further modified as they like! And for the first time, learn the backstory about Maxwell’s parents, 41 siblings (including his twin sister Lily), and how he got his magical notepad. Product Features: <UL> All-New Unbound World: Explore an open universe with unlimited hours of fun using every level as your playground. Object Creator: Create original objects, assign unique properties, and share them with other players online. Use them in game or modify them as you like! Object Library: Store previously summoned objects and your own creations in Maxwell’s “magic backpack” for easy access and future use. Multiplayer Mode: Play with a friend! Drop in using a Wii Remote and take control of any object in game. Merit Board: Each world comes with a comprehensive list of hints, including the new “Starite Vision” helper highlighting all nearby starites and starite shards.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2012-11-18",
+			"retail": "2012-11-18"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/5b300361e7e410df682231e923089257d05ee1352eafcaa4d81c6d736e7c6039.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3f4a53298c8e12decca75eed3c3a1eb865a37278793e7acc1d7bef0a81523077.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8c496da8b6766b390cb93c9813eba5b7ff444c3ca6593f0213782682580d4e1a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/982496552fa0f97c0a55250400243b94828683a2b8e51bc2039013757c4bf084.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c4f0b8dd4379d2bd2d0050eafb6693e3075fa9b16fc18a6d6484cc05cde8bbb3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/42ce4843733abcb0a07c365220e0aaa73795439389ad6ceea14b56e531c021cc.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/390bbab9cd08a7aaed2fe6dacc6feb3c54b45bf55c7ca6c13ea3a52e0aad36bb.jpg",
+			"name": "Scribblenauts™ Unlimited Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/db1012bfea9b7aefea68e149a416476bbc435bbce1d7a358caf7f5191ee2f76d.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "89"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0f76773b8191e434beaaf2e1472d93c9f8f5f3809666b8a30d377157c371af58.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "89"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,85 @@
+{
+	"title_id": "000400000014D600",
+	"eshop_id": "50010000028696",
+	"product_code": "CTR-N-KXEE",
+	"name": "Xeodrifter™",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 743,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/411a2fe401797e4e1d246f478016797a60a818803bab89bfea305b26ceb16d21.jpg",
+	"data_size": "54340452",
+	"description": "Purchase this game at full price through Nintendo eShop and get a free digital version of Xeodrifter™ for Wii U. The same Nintendo Network ID must be linked to your Wii U and Nintendo 3DS systems as well as your eShop account prior to purchase in order to be eligible for the offer. Offer applies to US, Canada, and Mexico only Xeodrifter is the story of an interstellar drifter traveling the stars on a simple mission of exploration. We join our nomad as he embarks on the investigation of a small cluster of four planets in the omega sector, after a collision with a rogue asteroid damaged his warp core. Blast your way through alien landscapes, seek out valuable secrets, and defeat ancient guardians to unlock powers from a legendary supreme culture in this exciting journey of mystery and adventure.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-12-11",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ef983ca3e23179d37c0e0d03188769a202cf4bbd7032486273c15cd8106bfbec.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a8ee05d0fc0222a2766d6c77323f17dfd8ff0678b0b72d5d8221da44f33ab07c.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5c1866e31e6f2d219d94a26ce8932d535de0e701d1c73076cbbdd6c36b65f2bd.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5706d5ecc1f7423219f136bf04495e84d1011c7d1f90f28b6c19879d51bcba24.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e6130899c851ea11a820924afae61d81b7e9b8b1eac26e82f2d6b33400408598.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a92435fd7c60041bcc24a6b251507f6aace5145bbfc15d6c15c830ef099b0413.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ad5ed4030bd50a114008dc32e5d6a4eac515dd0f4f6941bd0ab1ce5682b3b3e5.jpg",
+			"name": "Xeodrifter Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/22e2d8ba208f3d54b5606f07beda3dd43bf1e51817b37dfabeb1553c68f47e68.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "75"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5b0548a017fddef54a79b82500deaf48cb68227131ac9f192e8fe3d700808906.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "75"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ad5ed4030bd50a114008dc32e5d6a4eac515dd0f4f6941bd0ab1ce5682b3b3e5.jpg",
+			"name": "Xeodrifter Trailer 2",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/21492b13abb7711250ed1178a43c7bc3082c3a22163916797b99fffc69fd0826.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "70"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0e397e5196e83bd68cb5d98f0013a2ce0b72ae45031d4e919abc7b142d21f288.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "70"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010150A00",
+		"eshop_id": "20010000004745",
+		"product_code": "WUP-N-FBWJ",
+		"name": "BUBBLE BOBBLE ",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 246,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a3a6d25a0bfdf063b12c33394a75233205e42a6efa19c309d80f2d58d3f8689c.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/95971118be86824b5c020f3e0cccb4316c9ae464214a6e700f0e70a01348e1f0.jpg",
+		"data_size": "36536460",
+		"description": "このソフトは、1987年に発売されたファミリーコンピュータ･ディスクシステム用のアクションゲームです。 魔法使いの森の洞くつに閉じ込められた「ベティー」と「パティー」の2人を助けるため、「バブルン」と「ボブルン」は、洞くつの地下100階を目指します。敵にアワを当てて閉じ込め、つのや背びれで割ると倒せます。ステージ内で特定の動作をするとアイテムが出現。敵を全滅させたり、アワがパワーアップしたり、先のステージにワープしたりと、さまざまな効果があります。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-01-29",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/6decf3c2a04e93fbc2a481ce3d081e13b3c67c122fe8b95780b50b728aa9558e.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/0c0841d84eb0e154306939b77745f0b74884d7e4a682ab783c8c2e3f89f6c92d.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/40d1601108255876bd9319350ec888dd152ef721d51af157b88584b539c3e198.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1d63d3576e8aadfd97feb0f8594f8e98ed9f26b7185f3efa33a62111f11b648f.jpg",
+				"name": "BUBBLE BOBBLE プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4f10e0445aa63ab248e265f75ac9da08a7c8d5c1af719c7a895676cea271140f.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "37"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ca9dbc70700dc26ba78b352558413a9f90ccbe57d388afeb98065c71a188fa14.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "37"
+					}
+				]
+			}
+		]
+	}
+}

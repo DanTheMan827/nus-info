@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "00040000001A0300",
+		"eshop_id": "50010000041810",
+		"product_code": "CTR-N-AJHJ",
+		"name": "スーパーマリオメーカー for ニンテンドー3DS",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8d2597ccbf96ff1832c232b04eae69fa7b872d3c8820bd319e89c1fe41abaf64.jpg",
+		"data_size": "381160292",
+		"description": "『スーパーマリオ』のコースを自由に作って遊ぶことができる本作は、Wii U版と同様にコース作りを楽しむことができ、作ったコースをローカルプレイやすれちがい通信で交換して遊ぶことができます。コースを作らなくても、収録されている任天堂オリジナルコースや、Wii U版から投稿されたコースを遊ぶことができるので、たくさんのコースをすぐにお楽しみいただけます。 ◆つくる 下画面とタッチペンを使った操作で、Wii U版とほぼ同じ感覚でコースを作ることができます。「スーパーキノコ」で敵キャラクターを大きくしたり、「羽」をアイテムに付けたり、「キラー砲台」にコインを入れたり。ブロック、アイテム、キャラクターなどのパーツを自由に組み合わせることで、楽しくコースを作ることができます。本作では、ましことヤマムラによる「ヤマムラレッスン」が収録されており、コースを作るのが難しいと思っている方でも、楽しく作り方を学ぶことができるようになりました。 ◆あそぶ 「スーパーマリオチャレンジ」では、すぐに遊べる任天堂オリジナルコースが100コース収録されています。これらのコースでは、普通にゴールするだけではなく、「全てのコインを取る」「全ての敵を倒せ」といったお題を達成していくやりこみ要素が楽しめます。インターネットに接続すれば、Wii U版から投稿されたコースを遊ぶことができます。ランダムに登場するコースをクリアしていく「100人マリオチャレンジ」が楽しめるほか、Wii U版で投稿されたコースの中から選りすぐりのコースが楽しめる「おすすめコース」で、自分好みのコースを遊ぶこともできます。 ◆交換する 作ったコースはローカルプレイで友達に送ったり、受け取ったコースをアレンジしてコラボコースを作るなど、楽しみかたはいろいろ。すれちがい通信では、街中の人とのコース交換もできます。",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2016-12-01",
+				"retail": "2016-12-01"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/21ee87df862f4373c953341a2fa9696d41826aa7b6a400d850276d1d751df62a.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2f035482201f7643003b4bc78f995aa5d2555ddb45c3933f9629e2bd03367f0a.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/fc9e3aa1c802c0a9214463e89ec970250b8115545b5464cd3d64d2560ec2a421.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e39c23571d898c786242729e3a88be3980d902d4c2579bfc6006f34ae51c7120.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/18c5223dc4bc5a0c3d040f7cbb4ebe67d3ccbbfc314c1eedd5e22d078b441320.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ba4dfce5762ecd9611d9f4bd6c7649b6bfa68b8bce97ac19e1749c41daa9cc50.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0538d21934a8610cc9e20df94570e507d3e7e10189556eee66bb8eb93ba977f0.jpg",
+				"name": "スーパーマリオメーカー for ニンテンドー3DS 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9f9e0d3cd4a0ff9d62018ce33faa9fc45a67a4058eeb9a4f7fbbbef783c8660a.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "280"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0d6a9b22e581c5cca9e7d27e50e3b0e14b24d80c83489c819da44c369fd7b2dd.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "280"
+					}
+				]
+			}
+		]
+	}
+}

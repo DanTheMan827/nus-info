@@ -1,0 +1,57 @@
+{
+	"title_id": "0004000000141200",
+	"eshop_id": "50010000030735",
+	"product_code": "CTR-N-KLTP",
+	"name": "Nintendo Anime Channel",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/785c3aa77304808920711823898d1cd2c726108e72c5acc9cc236d5f0022a109.jpg",
+	"data_size": "25492324",
+	"description": "Het Nintendo Anime Channel is een gratis video-on-demanddienst van Nintendo. Met deze dienst kun je afleveringen van animeseries direct naar je systeem in de Nintendo 3DS-familie streamen. Alle video's zijn zorgvuldig geselecteerd door Nintendo. Het aanbod wordt regelmatig uitgebreid met nieuwe video's, zodat je je favoriete series tot het eind toe kunt volgen!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-02-13",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7b3f379bbb05a310e5e731a0d87a25a50af2a53771b91d18c0b4fe6aa82ded57.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e5a6fb4ac2380cd7015a2a546f60cd3c6008fe14948fda52f2f9ff608a48cd40.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f781caae58b3bbce5432b3abb4c81bc893f8c31bc3094c05bf83f2596ccc19ea.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5e369bb7c9b6b77d580e8696018a54cdd41be4df18eb63ccc7b3de216b866abc.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f47b4b9f3fcd8f626dd4cac18f4c1629f3f5bdeb682f27513f00b9accebb994d.jpg",
+			"name": "Nintendo Anime Channel: Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6bb617740cccc1a830f37075ecdfa5486bee665062d33385c09b9444698e1f87.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "129"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8cf189ba5710ff67dc530a3efc33da06bc01a4589cebc38c762dcde73b92d09b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "129"
+				}
+			]
+		}
+	]
+}

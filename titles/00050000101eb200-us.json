@@ -1,0 +1,53 @@
+{
+	"title_id": "00050000101EB200",
+	"eshop_id": "20010000023428",
+	"product_code": "WUP-N-BJ7E",
+	"name": "Just Dance 2017",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 278,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6e8216f42fa81a3d30835b1b46324d53d818587e1b1617c35485e8448bec847e.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7a271c563c9807bde6d16f24e4f925e6aac896787344478eb0c7142685ca2b22.jpg",
+	"data_size": "13847856384",
+	"description": "Just Dance 2017 is more fun & easier to play than ever. Shake your hips & wave your hands with the Just Dance Controller App – if you have a smartphone, you don’t need extra Wii Remotes! Pull out your phone & get it started with hot tracks and fun favorites – take a sneak peek at the tracklist below: • Let Me Love You - DJ Snake Ft. Justin Bieber • Lean On – Major Lazer & DJ Snake Ft. MØ • Cheap Thrills – Sia Ft. Sean Paul • Can't Feel My Face - The Weeknd • Into You - Ariana Grande • Sorry – Justin Bieber • Single Ladies (Put A Ring On It) - Beyconé • Worth It - Fifth Harmony ft. Kid Ink • Cake By The Ocean - DNCE This game includes 3 months access to Just Dance Unlimited, an on-demand streaming service that includes past Just Dance hits and new, hit tracks added every month. Dance to over 200 additional songs! Get ready for amazing visuals and awesome dance moves that will ignite your house, pulling friends and families off the couch and into a music experience like no other.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2016-10-25",
+			"retail": "TBD"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/28a05202f47dc61b2ed4e725be2df5e7df11a624af6271e0cb0884ad16c6351d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a828a70f8a6b4825748b561559c1fa76511ac0a52dac88ba0b0db78e47d8d6c4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7b8fb7b2606efa68ed65b911554025ae66779959d3d6b848f3901011ebf3d363.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4c4db0a342eadbb533559ae38a2dc1820c5d8121b933cfc92f77bd504b62c0f2.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f9bb1ea49faa3e732ba29c16d3aca038e631fb7c57032a41d8a45d001258e5e0.jpg",
+			"name": "Just Dance 2017 Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/72806775d63befd321edbb40423fba9001582b4654cdf69baebef163e07e2c33.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6cfb2e34385369218cea21488347871f3b455350fa16bd4c60a7bbfea3902c9e.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,78 @@
+{
+	"JP": {
+		"title_id": "00040000000EF000",
+		"eshop_id": "50010000015401",
+		"product_code": "CTR-N-JDRJ",
+		"name": "電波人間のRPG3",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 682,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/260991dde9f1409eb515ebc673e712c6752e4f9dc148a472d464bac5ae63de39.jpg",
+		"data_size": "205900644",
+		"description": "このゲームは、キャッチした電波人間たちでチームを組み、さらわれた大切な人を取り戻すために世界を冒険するRPGです。本作では、モンスターをつかまえることのできる電波人間が登場します。つかまえたモンスターはバトル中に助っ人として召喚することができます。強力なモンスターをつかまえて、バトルを有利に進めましょう。 仲間になった電波人間たちは、それぞれ自分の家に住むようになりました。彼らの家はインテリアコーディネートをお楽しみいただけます。 また、インターネットを使った遊びも充実。全国のプレイヤーとアイテムの売買をしたり、電波人間の貸し借りをしたりすることができます。 前作や前々作を遊んでいただいた方は、主人公を引き継いだり、仲間を連れてくることも可能です。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-08-07",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/eafa72ceaf12be3fbaa798a580419fc3e3f0be9af91d6b3a0c945f6f51959e53.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0db00d6cfb34dcafac3c58bff56948c1a6350e1a62c6348f559a200b7af7dbc9.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0c24baceb0884569ca78cc0c51db8a8c7e8c70e6bdff10bd8c97c092f75fa5dc.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b1e8cc497cd4a8fe7e5e3733e9295a6c1db54400625d85fbc694fa934f07f0a9.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0daec007952c8f335c732b75fd51643cf987df7c2d847c14ceb99cf8238ca23d.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/afd092130745da60c97893a26e4db41f3fca1f078d3de15783bdf7e762b7ac03.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/984a0cdd1dcc5a8c67f3b450e69decba49de7e855d8694da78b3afb4f6d06d16.jpg",
+				"name": "電波人間のRPG3 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3dfeac62e6ea9f3f5eab06d51f207511b27764c4970ebb965218683f2640a5dd.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2fc8de1ccf28300a18f86984d1004758cc7cebbf148e09f1715336838850a584.jpg",
+				"name": "電波人間のRPG3 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3422a01aece6b74652fab02ab9f99bf36cf4267f54e220835d68de0f4599e4c1.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "82"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2cd3eac6357663649deb647b88fa4fbb474e10adc2c6980b58cd49a03f4b71e7.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "82"
+					}
+				]
+			}
+		]
+	}
+}

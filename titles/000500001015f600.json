@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001015F600",
+		"eshop_id": "20010000005404",
+		"product_code": "WUP-N-FCJJ",
+		"name": "半熟英雄",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 246,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6421bfc38534e8d2a78d0a3d63f60e16d07482281de67648e9841cc550135d02.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0c934ad95a4519c9087e18385b8f17993dda1f8ba8023819c60f535646d71fa4.jpg",
+		"data_size": "36601996",
+		"description": "このソフトは、1988年に発売されたファミリーコンピュータ用のシミュレーションゲームです。 アルマムーン国の王子として、将軍たちに指示を与えて敵国の城を制圧し、大陸の平和を取り戻します。戦闘では「たまご」でモンスターを呼び出して戦わせたり、「きりふだ」とよばれるアイテムを使ったりして敵の将軍を倒し、敵国の城を制圧していきます。敵との戦闘以外では、1ヶ月の終わりに凶作、豊作といった農民の報告があったり、将軍を雇用したりといったイベントが発生し、自国にさまざまな影響を及ぼします。ギャグやパロディが散りばめられたコミカルな雰囲気も魅力です。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-04-09",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/8ea9bcbb2e00e7e159953dba7828be214dda67f886de09e343ef9dae12503e11.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/b283553b29f321c99aa78356bdb58d79f7f0925635339d99dbf6edf9c4e15ead.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/75d813173d6bbbc21834656b615d952ff377bdbb424148be59400d5bcc05bf03.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7200e5883798db52f707c23e184e45cb682f58da3c2fbcc11ec5a03b3555a8d9.jpg",
+				"name": "半熟英雄 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2f2bdd7b4cc81e9ecc40986025ca386b19524499d7169ffb6a48366537dc0f19.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/478a64a3f6d20845adde40cf475f3137bd372a193b9369f78aff7760b73b758b.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					}
+				]
+			}
+		]
+	}
+}

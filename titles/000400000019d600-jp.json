@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000019D600",
+	"eshop_id": "50010000040496",
+	"product_code": "CTR-N-KHRJ",
+	"name": "Henri-アンリ-",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 1706,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ab0a885e5b90ccb1f9466cce9f86b64d4744c6c4ced230ed2d8f5d8859ddb861.jpg",
+	"data_size": "23616356",
+	"description": "針山、鉄球、巨大生物…… 数々の罠を潜り抜けて、さらなる恐怖を体感せよ！ これは翼を手にした少女『アンリ』の物語―― 左右移動とジャンプのみの簡単操作死にゲーアクション！ 死んで死んで、死にまくって、うがぁーヾ(`□´)ﾉってなって、 でもやめられなくて、とまらない!! 死ぬと経験値が入って残機が増えていく！ 何度も死にながらダンジョン奥地を目指し、 待ち受けるボスを倒しましょう!!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-06-01",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/fabf0f03f05f84a73550615964e990730bddfba02bcfadf22cfc8dffbcf1014e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6adcd16f6c7563f65ad700d459e59962b5debe132bab072bafc42619940039b9.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/aca7a3b8c8e74d73f1d2155ae9ca4ff7195475270860ece50fe3d9f9ea0b819a.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2ff346ba243b9978aae884d32e67ad0d0ed35fe4cc1af07a330e8f89086bbae9.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/48649492b8d1bf2b35428256952620fb6d5cf17134fe85426b643bd4df253547.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/db4182eb4a59f307d6625414f5bd949ca5925228b0050469b5bc2b3a05f14e0c.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b6f5182cc8d476aa463cf56bc936f760673a933fa664ccc9f9e9b110e4ed459d.jpg",
+			"name": "Henri-アンリ- 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7c6c8512fbc025844e42501e1cc316d68e9323c402d5150c23c9dc49b3243b95.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "85"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a1d0d11ae435e83ef6771af504ea3d55f29dad98bdfad63b6db9952248363da8.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "85"
+				}
+			]
+		}
+	]
+}

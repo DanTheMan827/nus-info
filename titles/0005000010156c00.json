@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010156C00",
+		"eshop_id": "20010000004424",
+		"product_code": "WUP-N-PACJ",
+		"name": "メイド イン ワリオ",
+		"platform": 168,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b2bc872a453d9510fbaecd0931044e2286524660aeb0cfc475931cd5f5549d2d.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/af8153ad2469f6c7efbd235e1526692a3724bfda15ad5c922eb36dd7a142fd14.jpg",
+		"data_size": "88703096",
+		"description": "このソフトは、2003年に発売されたゲームボーイアドバンス用の瞬間アクションゲームです。 1ゲーム5秒のプチゲームが200種類以上つまった瞬間アクションゲームで、プチゲームの内容は「スポーツ系」「リアル実写系」「シュール系」などジャンルもさまざま。操作は十字ボタンとAボタンだけでOK! シンプルで短いプチゲームを誰でも簡単に楽しめます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-04-03",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/acb017f2c839a8e1a4c04da0bfd982deb507385a7024eeccb556cc27dbe8d75f.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/57e8c46eb2d4e97ee4c8d79dd349d8a2677d0ddb6d0edc022af0c31fcf42082f.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/817f6cd50b315853a111b662a9559e25225a6a17b44a608ad28804745aaddeed.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/df7e4dc175dab2096f2df58b3a24a631f5d55134c0ca83f25c3785da26eb6557.jpg",
+				"name": "メイド イン ワリオ プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/460ccbc2aab9ef5797bfb09d5ba765fd2217f0cf31022a23c3a1bdb10aa17332.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "41"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/07643ebf7b623f6b6792f5128f6c7cda44e94d8fe0d1fc595cb202d686cef400.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "41"
+					}
+				]
+			}
+		]
+	}
+}

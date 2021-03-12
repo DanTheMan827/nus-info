@@ -1,0 +1,79 @@
+{
+	"title_id": "000500001020F400",
+	"eshop_id": "20010000026093",
+	"product_code": "WUP-P-BL8E",
+	"name": "SWAP BLOCKS",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1518,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/44b881027adeec5fca9d98d9351666f9749fcfb2cbf7744da96a0ab70a66ff4c.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4512c5538f008b3c044921c6fad50ec997a125f423162cf28df6efd7f1f39520.jpg",
+	"data_size": "263913612",
+	"description": "En Swap Blocks coincidirá con 3 o más bloques similares en un tablero de juego moviendo bloques. Juega solo modos de juego, o jugar contra una CPU. También hay varios puzzles de desafío para probarlo.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-06-01",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/2a6afdf5feca0157118c96cbcb116c47fd9aa22a73f4239fb79dd822f420b404.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/91d72c01f5a0bfe59cb56d6adaaba46cd931e42cb174db2baa353c953cd742c3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e76fd4ad1e2dcf76b40b2b5c365c39695e37fbde601594010936b4b537048aed.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f413ed4951332f743b864fcc790b61385fb91e875894df24b61205311ecf3d48.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/97c97f6fea3003bf007c56875aa5422cf213d0378fc20f89204498b484a1d67b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c8421c0ba6bbbed26282bcc6e005cfa911d6f6964c8a46a9688709ee6a33c839.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/079db5807b3094184bf44eb18459f59683901ffa02f82abd034a675afbcb24b8.jpg",
+			"name": "Swap Blocks Anuncio Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/de7e93a68c6c0e8cf4c98237181207a1c3645892203cb363a0ae878a84b32121.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "122"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3a6c9bc926c393dbf2964eb64e7030c23305c5d5576b3b2b480f7cd2ff9eecda.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "122"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d78f101e67dd25f3f63666805b29f4b1efa0d7df2d06a8a22cdd77137b293c5a.jpg",
+			"name": "Swap Blocks Update Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a28c3ce2b557b0ea0a60e20c80ae38921d1a32edfa9df9ca1e0c5e279084b16e.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "108"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d05ee0ad8442e9098d2f12ce53b3bbbcd5c92465c1945b651a83045fe9a500a9.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "108"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001014A400",
+		"eshop_id": "20010000002769",
+		"product_code": "WUP-N-FBQJ",
+		"name": "クルクルランド ",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/875442f2d54f9e77af89be3c72e94e5c22e94a4bca944f7df989ffa7f2ad52dc.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/00df1922f594ff46de26bb519882b7a14fb349353a8741ea2c141e7f98f857b6.jpg",
+		"data_size": "36503692",
+		"description": "このソフトは、1992年に発売されたファミリーコンピュータ・ディスクシステム用のアクションゲームです。 主人公のグルッピーを操作して、ステージに隠された金塊を探します。グルッピーは自動的に直進しますが、ターンポストにつかまったあと、タイミングよく離すことによって向きを変えることができます。すべての金塊を探し出すとステージクリア。協力プレイも楽しめます。 ※このソフトは、ファミリーコンピュータ版ではなくディスクシステム版を再現したものです。 ",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-11-20",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/630969f97c6bb61c4b9e59cb9a7fba96e7fd4f158cef7df9920d29a14f9c838d.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/021afe534f920b96a5c4de99470522873e790ba4a8710660b5ac2a4d8d11a5e0.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/96c3f05807e348b1f0489eb087809a9d0b38de154c2e3f60219b08852ed97286.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6c25bb4406184223c27250a388a21b699b98e4d306d6b66c87c7de4a8dbc1618.jpg",
+				"name": "クルクルランド プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/28f6d949bcf7c5194a9d44e26cb37e36c319303e5a9b0cc7bfdf80bd4aad830c.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "55"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6722a7820ae3297763c7e3e474fb555da45a5d1d9bf26bf8ccd3f072ad501202.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "55"
+					}
+				]
+			}
+		]
+	}
+}

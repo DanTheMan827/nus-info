@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "000400000014FE00",
+		"eshop_id": "50010000027735",
+		"product_code": "CTR-N-KDTJ",
+		"name": "@SIMPLE DLシリーズ Vol.34 THE 密室からの脱出 博物館編",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 57,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0c9abb90e522140d0f6352742d117ac67c1b5f1159101008506a2910432d2a64.jpg",
+		"data_size": "66431844",
+		"description": "さまざまな場所に閉じ込められ、謎を解きながら脱出を試みるアドベンチャーゲームです。 今回の舞台は、歴史的な展示物が並んでいる博物館。恐竜や化石の展示場や、神秘的なエジプト展示場、海賊がテーマの展示場と、脱出しがいのある部屋が揃っています。貴重な展示物が、ヒラメキ次第で脱出に役立つアイテムに変身するかもしれません!?",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-11-19",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/37beafb96cacb2a6986367e430089aa69602cf5eb4467fc00bde629ce60042b0.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4fa145193c88ead0b700fffc90004a452904cbd1ae940c15ec64a3eaf045fbeb.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/59f79ef8deda2a9f597e762bd1400fb85569e3d4e4c37a3f59d50a5bc5255600.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/90471f9e3a98bbe94873f9ecb084937c1b56955b3e3657a99d47b915bf6d9f1a.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6062c5a8c30aa49062d1674d80123b998c3c44e0b87869677b843a8a52ada0fb.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0ce2ff64be10bab141db02c676d4f10dcd9ebae5c06dcc663043eb5f15de7f6d.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/09ec7891ec1cc1f009e38de282bdae907e8653a9299cdfef00d9cf433444ec58.jpg",
+				"name": "THE 密室からの脱出 ～ふしぎ発見!博物館編～ 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fdfff1ea24d8cbdca12c236b0c028726e471dea3809351f8eab39e4a2c125ce9.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "98"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b94ebbe6041ae2d8f79e2fd7c60e76dafe2d7eb2a243edadacbcf4f18d0f8fbe.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "98"
+					}
+				]
+			}
+		]
+	}
+}

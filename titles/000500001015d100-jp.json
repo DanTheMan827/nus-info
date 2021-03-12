@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001015D100",
+	"eshop_id": "20010000013528",
+	"product_code": "WUP-N-PN6J",
+	"name": "デビルクラッシュ ",
+	"platform": 166,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/53213c688cfe4bf1382c9a628ee4865a2070bf8c805fc159c92d03e32fd4649b.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b7c674dc3550158a39af6f50fcd1aa95fa429002226522a3efebfaa9365663a5.jpg",
+	"data_size": "83951756",
+	"description": "名作ピンボールゲーム『エイリアンクラッシュ』の続編。「デビルシューター」でボールを弾き、左右のフリッパーや台ゆらし機能を駆使して得点を積み重ねていきます。 プレイ中に一定の条件を満たせば、全6種類のボーナスステージにチャレンジすることができ、それぞれでパーフェクトクリアを達成すれば、さらなる高得点の獲得も可能です。ステージは上･中･下の3段構成。より滑らかになったボールの動きや強化された随所の演出とともに、ますますエキサイティングなプレイが楽しめます。 「骸骨騎士」や「魔導師」といったゴシックホラーテイストのキャラクターたちが、画面上を所せましと徘徊。中段画面に配置された「大顔面」は、ボールを当てるたびに女神から蛇へと徐々に形相が変化し、ダークな雰囲気を一層盛り上げてくれます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-03-18",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/2a85d7309fbfaef5922139feae1876a74f56507d3d25e6fc00d8a14fe43e5113.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4be34e5fb7ad73134bc21b97b7b93d8aab7e60a035887b34efb63a0dcb38b348.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/028788c145fd1d6c53bd0c8d97129138a84b8c047d899820fd09c65988bf3421.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/20f4cf331d50303f75f2a9f5ac706a52a50970ddc729568d02916f828893fe39.jpg",
+			"name": "デビルクラッシュ プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ac76cca6650372c5e6d4546aefc999cfcd4a14779b90579d77911892082240a0.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "48"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/642d9d6acaf6eb28d2e42532279d300c931c41371e64806d6517e986a2eeed78.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "48"
+				}
+			]
+		}
+	]
+}

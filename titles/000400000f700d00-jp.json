@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000F700D00",
+	"eshop_id": "50010000039695",
+	"product_code": "KTR-N-UAAJ",
+	"name": "スーパーマリオワールド",
+	"platform": 1004,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/67e1385b0e7c820d26701816274fe8fc67f61c89564ddd695c32c36a9967fff3.jpg",
+	"data_size": "3349348",
+	"description": "このソフトは、1990年に発売されたスーパーファミコン用のアクションゲームです。 恐竜ランドを舞台に、クッパに捕まったピーチ姫を救出するため、マリオとルイージが冒険をくり広げます。頼もしい味方ヨッシーとともに、敵を倒したり、マントをつけて空を飛んだり、といった魅力的なアクションや多彩なキャラクターが満載。仕掛けと謎解き要素がいっぱいのバラエティに富んだステージをクリアしていきます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-03-04",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/87b35e849685422e74704a22d7e41c09f17396dd3ca1abcf1660710797100868.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/98834614f88c6bf211b66af62a74a5571d3ff9fc63c48b9e44fd05e1df9cb9b8.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e5b0bb09bd8d83b6a327fdaee67238e1f89373ce0ae471bbd0bcbfd5893ffc6e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4992b43230c8f0de782a2c09754c4b42ac6128466b9b90c83fbafda7ccf0ad1d.jpg",
+			"name": "スーパーマリオワールド プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fb2f970473a6d757330b2b5e23aa9af3587c9ae5f8042e8359fff6df7df8a23e.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "79"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/dd1fc24e96ad41d23caf1acb88e7c6400cf6e75924d1d5406420d280f8d7ba02.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "79"
+				}
+			]
+		}
+	]
+}

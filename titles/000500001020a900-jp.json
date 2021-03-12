@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001020A900",
+	"eshop_id": "20010000025809",
+	"product_code": "WUP-N-PPSJ",
+	"name": "バトルロードランナー",
+	"platform": 166,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/507cb48f9cdfe5cb6d1926389e6449dc6c107efd0bc6a58c4ee0d2777a1d8174.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/924463b7b3d8552993091091f28cbb76246e51f7ce90fa37c0b95128dccaaead.jpg",
+	"data_size": "83558540",
+	"description": "ステージ内の金塊を敵に捕まらずに回収し脱出する、ロードランナーシリーズのPCエンジン版。 パズルモード、エディットモードのほか、最大5人で遊べるバトルモードを搭載して、ロードランナーの世界を存分に味わえる作品です。 パズルモードでは黒ボンバーマン率いる一団に奪われて色々な時代に隠された金塊を、「ランナー93」が回収するストーリーのもと、プレイヤーは計50ステージに挑戦します。 多彩なステージの中には簡単に金塊が取れないような、一筋縄ではいかない仕掛けもあり、手応え充分。さまざまなひらめきやテクニックを駆使して金塊を回収するだけではなく、さらには上手く敵をかわしたり、利用することも必要です。 また、バトルモードはサバイバル、エスケープ、タッグマッチの3種類のルールを選択可能。いろいろな多人数プレイを楽しめます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-12-21",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/3262b0ddcf8443a98f69bbde6e38f716593a5c84056ed8f943b19a3d292d4c0a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ed7df83167596c7d1e4df81c468888efa95f1b6607affa5077e3358fd248acf9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1c4c273c97d97e254450709abf943ec43a037d253d6501c58d44dff6447bdc7b.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/292aeabf6baf1acab6b8ac9479405b033ed9948fa137b12a7e464d33f9e73262.jpg",
+			"name": "バトルロードランナー プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2efc2163a73d0ce96676320746b4d881e7b66887bfb384deb391c816e92a67ae.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f45627fd654fe9528f9563e4108cd13dcbffdd7b20228d7a83220a2bb76dc37e.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				}
+			]
+		}
+	]
+}

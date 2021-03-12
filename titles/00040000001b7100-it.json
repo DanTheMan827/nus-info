@@ -1,0 +1,48 @@
+{
+	"title_id": "00040000001B7100",
+	"eshop_id": "50010000042479",
+	"product_code": "CTR-N-BYWP",
+	"name": "YO-KAI WATCH™ 2: Versione demo speciale",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": null,
+	"data_size": "450870116",
+	"description": "In YO-KAI WATCH 2 Versione demo speciale potrai esplorare Harrilandia, un luogo affascinante dove incontrerai Hovernyan per la prima volta! Esplora il villaggio, combatti contro gli Yo-Kai e tieni gli occhi ben aperti per tutti i segreti...",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-03-09",
+			"retail": null
+		}
+	},
+	"screenshots": [],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/824b2f2e24fcf9fb8262707e1b04ff29182add193165989d054410cedea23a7c.jpg",
+			"name": "YO-KAI WATCH 2: Trailer introduttivo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/90b438bd3538a62815d841cc097cc111af5b25ed0494a623a7a6cfee115796d8.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "165"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fca4046a3b611a944ff8d4390c0c1267902c86214ead702efd91ea0e683384f2.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "165"
+				}
+			]
+		}
+	]
+}

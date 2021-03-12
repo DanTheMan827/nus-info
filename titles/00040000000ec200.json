@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "00040000000EC200",
+		"eshop_id": "50010000016973",
+		"product_code": "CTR-N-BZLJ",
+		"name": "ゼルダの伝説 神々のトライフォース2",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/20ed238d35dd482a867e800e89f46d3e74721616523fa3db56f50e0bf83c37a5.jpg",
+		"data_size": "708217700",
+		"description": "1991年にスーパーファミコン用ソフトとして発売された『ゼルダの伝説 神々のトライフォース』。本作は、その『神々のトライフォース』と同じ世界を舞台に、壁の中を”絵”になって移動する力を使いながら、ニンテンドー3DSの立体視で描画された、高低差たっぷりの世界を冒険します。 ",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2013-12-26",
+				"retail": "2013-12-26"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/fe0480ddf0bc3a7415ff1be7d7d6fefcbfceffab62986d7c9672e697b16a017e.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4ffc474405f10ecec55e9f69e31db9c13a0862a3aefbb5547558874240050da1.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8b163d70779d65bde44cbe74c63b129a4bdf5cdc36eee2454f8d46089f43bbd6.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/65c3bfc25c54686308c1116ce5e4950cf7d93c1cb19c877f4d492e7ccab91943.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/dec75e66c78c4160d242fcc81c2b0a9eaca4006796fcf2908bae0a4ab5d13f8b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5d219ca253d87e4823ccf1f881eeae2da32ab71f626d804897d22e06eae3bb4f.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/55def84072e6dd401a1558b41aa78eac56a83bf6ec01402930b7d6d1237ae5ac.jpg",
+				"name": "ゼルダの伝説 神々のトライフォース2 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/167f709d5ea684e7e5f8bb5805b38c1db012142ed3586a6ec3a94f3614bb49b1.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "355"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/09a95f55d13a01ce2d3976d12f901b516bce3399279e7665a0859b2e62282d93.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "355"
+					}
+				]
+			}
+		]
+	}
+}

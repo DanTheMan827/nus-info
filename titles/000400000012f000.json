@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "000400000012F000",
+		"eshop_id": "50010000023696",
+		"product_code": "CTR-N-JVQJ",
+		"name": "デデデ大王のデデデでデンZ",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3189fe78a6078a2813ef59e3f6af4e4226030e346d4719036041a525ef0db1a4.jpg",
+		"data_size": "58669924",
+		"description": "『星のカービィ』シリーズの音楽に合わせて、デデデ大王をタイミングよくジャンプさせ、上空の「おんぷコイン」を集めながらゴールを目指す、リズムアクションゲームです。全7曲、14ステージが収録されています。 ※本作は、『星のカービィ トリプルデラックス』収録のサブゲームがパワーアップしたものです。選べる曲とステージが一新されました。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-07-23",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5a3ff57e8a3d9d9e05eca66dd7381dc60b2cd54cf7f58108bc1bd8d39ecadabf.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ee70c8810dfde8f6c7439cd963c7ac348ee97fcf5c313cbac0f55e833c0b8652.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/05c3e7f8e053e6c975b53e6df79e236545756b4ca0cf4a64ccded09729f07aea.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/bc612b89dc60dce5929996292e39475f8dee3d330556629e05fb960dae140a08.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d861d0699fc10c3c484d2a01426b3e668402a5706e2df99e2df0e4dd1c467149.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0404bad9fb7aa70a6e6d3b7c860214c725633c3ef2fb9ea0cd1ddc351e27ec92.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2b1bd46a0e957f34c8962aa49efe8d9f6be7fe2cccd8dac259e31b03a5733beb.jpg",
+				"name": "デデデ大王のデデデでデンZ 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b065515d8522155cd5e4a8fe4d3519ebc412cf95500611b87a961b4938c84c2d.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "171"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c36b28dc7f40d49dffdc4c339ac550a70a0159c921d6fc1f7a27a764e8d0cb65.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "171"
+					}
+				]
+			}
+		]
+	}
+}

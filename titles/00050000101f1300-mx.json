@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101F1300",
+	"eshop_id": "20010000023767",
+	"product_code": "WUP-N-BR2E",
+	"name": "Armikrog",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1722,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7195d0b7cf8cfc412b7a88f39d703eaede5bb43f9c766e978d13efe38da1b94a.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5dae3bf747df421b544bfca444afe65f40b5b70314b8c1b4832b6d10672c74a6.jpg",
+	"data_size": "1965752600",
+	"description": "Armikrog es una aventura de apuntar y hacer clic única realizada en plastimación de los creadores de Earthworm Jim y The Neverhood. Explore el entorno y resuelva los rompecabezas para desvelar los misterios de la fortaleza que mantiene prisioneros a Tommynaut y a su perro extraterrestre ciego que habla Beak-Beak. Personajes encantadores diseñados por Doug TenNapel, creador de Earthworm Jim, y desarrollados por los creadores de The Neverhood, Ed Schofield y Mike Dietz. Un variado elenco de actores de doblaje da vida a los personajes de Armikrog. Entre ellos, se incluyen actores famosos como Jon Heder (Napoleon Dynamite), Rob Paulsen (Pinky y Cerebro) y Michael J. Nelson (Misterio en el espacio). Banda sonora original creada y grabada por el compositor estadounidense y productor discográfico Terry Scott Taylor.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-08-23",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/37aa59bd81461e58420dd2b1588fa1223a54a186ea9d4ae9e824ac243c43acf7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/fe106f96a7bcea6f270e4015d02b0db619713ba3e871c83628690ba6ca741fc8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f9de07eb2b76099fbcc38766fec0723f22ba093823a4c0157ecc1c1ff0f50518.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7964b42f5d98cb4990056ec96bcaefb5841779f9192d0f6997c3352c70e4538a.jpg",
+			"name": "Avance para lanzamiento Armikrog",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3a065f2e83f331f923deb0bea996b06c0b14b8b692bd3a50ea5f0bed24718787.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "74"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3e58d9cedca4cf568d91b7f83bc6114302d7624abe61ea504192b84caba054cb.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "74"
+				}
+			]
+		}
+	]
+}

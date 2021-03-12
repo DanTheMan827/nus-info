@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010133500",
+	"eshop_id": "20010000001725",
+	"product_code": "WUP-N-JBBP",
+	"name": "EarthBound™",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/957a00d9fc4fd3e45455bd9e1f69be111e7c014a502c29291b27eec478530f0b.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6cc8e9b19ccf9afc4d6c933e02e274fb141c91dcedb2345cfd1b15ebfa41e67c.jpg",
+	"data_size": "42303628",
+	"description": "Le jeu classique culte arrive sur la console virtuelle™ ! Jamais sorti en dehors des États-Unis et du Japon, EarthBound est un jeu de rôle et d'aventure décalé qui parodie son propre genre. Alors qu'une météorite vient s'écraser près de sa maison, le jeune Ness se retrouve malgré lui dans une quête gigantesque pour sauver le monde d'une invasion extraterrestre. Rassemblez vos amis, combattez les ennemis, résolvez les puzzles et déjouez les complots du démoniaque Giygas. Rempli d'humour farfelu, de références culturelles, et de musiques mémorables, EarthBound est une perle de l'ère des consoles 16-bit qui n'attend que vous ! Ceci est la version américaine du jeu.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-07-18",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/c3d9a1c3b8a659293926358d6665645030bd5a08ef864060565217863bcbcb6d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9d7ea8d44d445e607a176051baff80b3c346a5eecb66dd5554fe46acf5e3287f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/dd163f2026c8e0595f2f25eca98b6eb72e0ad473e71254fd943830219d64aae1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e07df69572db5c249fddbf85a3894242a67a8b1d1fbffe42086c24954854c638.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/080c39e7b951827ee5e7c1b8f7a65ecb33a87570ceeb18f4874db8f764536204.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a94ee24660ec59fa36cec893661fb9fbd22d5655378a485ffbe79e91f6fafc42.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/090d2c9a89d207d5dc92a4a98789daf2d3296cf586022a73d04b28fa92396eb1.jpg",
+			"name": "EarthBound™ : bande-annonce",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3bab3b133d6ef4c31b250b90d8a09ef12ed79cf744f511bf4271c07186686fba.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "146"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a96855c64375dd93ee836eb2f9f99b6500d4fd24aea7f83d8ced47be47a38fea.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "146"
+				}
+			]
+		}
+	]
+}

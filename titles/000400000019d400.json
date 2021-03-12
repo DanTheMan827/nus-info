@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "000400000019D400",
+		"eshop_id": "50010000040715",
+		"product_code": "CTR-N-KPJJ",
+		"name": "ドットペイント",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 1292,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0fe29e5d210550cabdd4f8c746c3ad7c6fb580e2034262817e6a5306f11162e0.jpg",
+		"data_size": "47225700",
+		"description": "Wii Uで人気の『ドットペイント』が、新機能を追加、さらに遊びやすくなって、ニンテンドー3DSに新登場！ 80～90年代のレトロゲームのような「ドットアート」を簡単に作成できます。 レトロコンソールやハンドヘルドのパレットを選び、1つずつドットを配置していきます。 例えば、自分の顔やペット、あのゲームの名場面などなど、好きな絵を描いてみて下さい。完成した絵はMiiverseに投稿して、みんなに共有しましょう。 ・パレットは「レトロコンソール」及び「ハンドヘルド」の2種類、計8タイプから選ぶことができます。 ・ 使いやすい操作で簡単に「ドットアート」が描けます。 ・主な機能：筆の「サイズ」、「形」、「カット」、「コピー」、「ペースト」、「カラーピッカー」、「塗りつぶし」、「カラー置換」、「消しゴム」 ・シェイプツール（直線、四角形、円形、三角形） ・Miiverseに投稿、みんなに共有できます。 ・SDカードへのエクスポートが可能です。 ・右利き、左利きに両対応しています。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-06-29",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bba6e81caed5e5d2a306753921e57e397c83716176a33cccbfaa9ce5998f71d9.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/96a28d36544017f3a692c48643e13a76126b7a6f06d6b34b6638ede29c3d2f7f.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/09781f00c6d39e08af3ed5e35f8968e8d3ede0b192fc696e88c77315632cb848.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/843ef775a88dd763ac30a4d18e46c2374fa1403dfc7d6dfebff8e1d3b66f1b61.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/69e74e177b480ce9e26b1b0a41985d0d54497b8b05e60ceb47052b0fdfe83a40.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a1d28a7a97b5fa05975282fbabb66e9028bc36d49e87ef358815dbc28535cdd5.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/63d466d4ae327b98f2ee288afbf1bdf86510c040f2e4cdb4e13973755da81889.jpg",
+				"name": "ドットペイント 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/297df7e9b0bc73c41258c7340b08abe69aab129dbe2883c1345961ddce096a66.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "66"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2d160284cb0ebbf5c4382a0b480ae9d2596dcbf285e1345098191998bd3c660e.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "66"
+					}
+				]
+			}
+		]
+	}
+}

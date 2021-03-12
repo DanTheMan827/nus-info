@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010176200",
+	"eshop_id": "20010000012787",
+	"product_code": "WUP-N-PA5P",
+	"name": "Castlevania Harmony of Dissonance",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2acb7ec9337b9389ec0c696d015c46b3567b614fb44a457385f8b83a1efd41af.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/1fe2203282ccef6686247be37f098c7792b00b4589aeda30019e659ce836b97b.jpg",
+	"data_size": "95453304",
+	"description": "Cela fait 50 ans que Simon Belmont a sauvé le pays de la malédiction de Dracula. C'est maintenant à Juste, le descendant de Simon, de s'aventurer dans le château du comte pour retrouver son ami disparu. Castlevania: Harmony of Dissonance dispose d'un système de fusion des sorts, permettant de créer de nouvelles attaques en associant sorts et armes secondaires, et bénéficie également d'éléments RPG telle que la progression de votre personnage. Vampire Killer, le fidèle compagnon de Juste, sera bien évidemment à ses côtés. Faites claquer votre fouet et percez le mystère qui se cache dans les ténèbres du château labyrinthique.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-02-19",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/1475d428a7050e0c50f09c041ea9bbebe9a3e48e599443cef30e43f1c67e0ba8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9f7b64c5aaf67415bfe7bcc4bc0e3e4c65a91648569e0b6c6e0ae09e1e11c5b5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3f14ee3c3fbdada1ade34bb6b76ec3200ddb619e0f3ef5f62eaf3c4d981e1739.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/749a35eef621e1efa46d15f703462c73145f8b423075fc1bc21bdba395d53feb.jpg",
+			"name": "Castlevania Harmony of Dissonance : vidéo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9a21eda95ad68ebe01dda7f78dc808dc79c06f5bc3bfb914fb0b116f2db1703b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "54"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0a04e2080b32766010eed828662884c27ccb567f8c48a45c56ff4175dbba3182.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "54"
+				}
+			]
+		}
+	]
+}

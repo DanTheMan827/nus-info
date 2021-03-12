@@ -1,0 +1,78 @@
+{
+	"JP": {
+		"title_id": "000400000011FE00",
+		"eshop_id": "50010000021135",
+		"product_code": "CTR-N-JMBJ",
+		"name": "クレイジーチキン ディレクターズカット3D",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 882,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/700291dd6c21237f993f0730b5d4801ffeee5af60c0947fa63edd3cf7a26ba83.jpg",
+		"data_size": "41438052",
+		"description": "人気のキャラクター“クレイジーチキン”が登場するシューティングゲームシリーズの第二弾が登場！今度の舞台は、なんと映画の撮影スタジオ。「ホラー」と「SF」、二種類の撮影セットの中から俳優気取りのチキンたちを撃ちまくって、混乱したスタジオを元の状態に戻そう! 映画セットの中に潜む、いくつもの謎と仕掛けをひとつひとつ解決してステージをクリアしてください。世界中のプレイヤーとスコアを競い合うことができる「オンライン･ランキング」機能も装備しているので、自分のテクニックを誇ることもできます。 映画ファンなら思わず笑ってしまうような、有名映画のパロディもところどころに用意されているので、それらを見つけ出す楽しみも。子どもから大人まで熱中できるエキサイティングなアクションゲームです!",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-03-19",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/12b1ea54130ddc288d902dfcc9127f6e885d5ee7ec60e4c211693dd79e1d23aa.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5eacbbcbcb7179490faa5e21e2d528659919a27435e577cfb596e7ece63b008e.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a1af0b2a48a48f42fe7f4cac05ced6ae4feab6ce43de34837691154d671267a5.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a05a030febcbbb4c995f4924f80b5052062951cd0427f7c22c74d7921f4f3b3b.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5ea6ac35502aa65da5b05022e5890cb9fcd4b0d0512d75fbaa000aa939673f45.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4e5276cc31aaa2a5e5df4815ae570aa9a8993e9958cb25dee381a143ca151da5.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/761fc128efac228013629e972e481374b78bd41e1ee85d0a16fb53e73105be6d.jpg",
+				"name": "クレイジーチキン ディレクターズカット3D 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6a06962d8b455c617ba6067c2640612c6075f767d0042c8aa795b40a116dedd3.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "56"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0a3d588fc7ae19c37fdbc1bce02e074efb89fe61075ce5972aab4f7ec031a3bd.jpg",
+				"name": "クレイジーチキン ディレクターズカット3D プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9eb7057d623ac81f01891cb9c8a0f2ed6dd53b7d6119270a5b16ee56c22ce98d.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "51"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e2a3960ed8ca0f2001280859fa9ee8b4a14ca255c578eb6b262e80c4192c25ab.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "51"
+					}
+				]
+			}
+		]
+	}
+}

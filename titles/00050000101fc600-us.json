@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101FC600",
+	"eshop_id": "20010000023993",
+	"product_code": "WUP-N-BHME",
+	"name": "Super Hero Math",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1447,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9bd909d7436072512db973a70c65fff1e0cba0b371132e5ed72b0ce3192ebf89.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d87cd87f565a347852737a553d4c73efa434323b523082fcbdcf12f15ffde3f5.jpg",
+	"data_size": "122257548",
+	"description": "It's a bird, it's a plane, no, it's SUPER HERO MATH! Fly around the city collecting coins, dodging mines, destroying missiles, capturing aliens and answering math problems. If you answer a problem wrong you will be frozen in an ice block. Super Hero Math makes learning addition based math fun!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-09-01",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/7bc5da19898ca29c6644a8994f4ee78fac26f4c882113018bac7b831702ea2cc.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/616cd474bcc376ec7bb75e6d61c15e22f397ae1a71595ec2ee60a3d82aae0ccd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/69074d84701cc06ae23e560e19bd720998501c84399324268bbd755e91f8690b.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2d6ca7cdd76e44593a390c4c5f1cb79710a4031368d15fd62a6b990305ab1d6b.jpg",
+			"name": "Super Hero Math Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e783447959fc1dac9c71bbdce86e52b75215e59b6a2c9d315df73b3d843060e9.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "33"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a7004cb8e80877cfa39a6a7828bb4300e31f3d09564883fd5b317b6c10db51a5.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "33"
+				}
+			]
+		}
+	]
+}

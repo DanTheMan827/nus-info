@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010154500",
+	"eshop_id": "20010000002944",
+	"product_code": "WUP-N-WGBJ",
+	"name": "トガビトノセンリツ",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 146,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/925305821ea971582e818771235f3c91aed228d84926511fe552d26ba756a42e.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/768ad36105df2a0181400f5bef4b17a2634f2397f6d0c9ffe9a26e048e2bbdd7.jpg",
+	"data_size": "118227084",
+	"description": "主人公･竹井 和馬の視点で物語を読み進めるノベルアドベンチャーゲームです。選択肢を選ぶことで、殺人ゲームに立ち向かいましょう。事件の真相を開示する「隠しモード」、過去エピソード「断片集」、デスゲーム回避エピソード「無名の断片」を搭載。11人のトガビトの物語を、心行くまでお楽しみください。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-10-02",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/22790f5d42cd306e078717a317267f941bf91f4bcf6041649a3258b29638e79a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/832be923155a349f23ae60c32c5f759756140ed5f77342ae94e604fd15140fc5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/de4de8294b16f987783ea62ac91867607173a30d381b13dcb090025fc319c309.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8154445cb8d57f4350d5faf75cd74ecbc707c696cc79b5d20998a9f49a6674eb.jpg",
+			"name": "トガビトノセンリツ オープニング映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/da5c1d06b6ab59cf57f112df83af596d568d3706d5481f5735bf8f4be7b9294d.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "166"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/649477cafdd89432087c4345b394e236ddadaf077481759d78eb5ae206aaae51.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "166"
+				}
+			]
+		}
+	]
+}

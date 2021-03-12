@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000107700",
+	"eshop_id": "50010000039138",
+	"product_code": "CTR-N-JATE",
+	"name": "Blast 'Em Bunnies",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 192,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c0b83530245390944c7627dfe2a4e9c10f578d9b806f2ccc9356440195c7d681.jpg",
+	"data_size": "111139684",
+	"description": "Mata conejitos y recoge monedas para mejorar tus armas. ¿Podrás defender tu madriguera de la masacre? Acaba con ellos usando un rifle de zanahorias, despelléjalos con la ametralladora de pipas de sandía o siembra el terror con el láser de judías. ¿Quieres aniquilar a tantos como sea posible? El mortero de nabos hará el máximo daño de área. Estos ingeniosos gazapos tienen mil formas y tamaños. Algunos incluso pueden volar, así que necesitarás todas las armas de tu arsenal para ocuparte de esta colérica compañía de crueles conejos. Cómo se volvieron malvados, de dónde vienen y quién les enseñó a volar sigue siendo un misterio. Pero no hay tiempo para pensar en estos acertijos de roedores, agarra tu arma favorita y... ¡mata a esos conejos! ¡Dispara a las monedas para recogerlas y gástalas en nuevas armas, mejoras, tipos de munición o aumenta tu salud! Lánzate a nuevas arenas de combate o personaliza el aspecto de los conejos con paquetes de DLC de arenas y disfraces.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-03-10",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ae6757055493a3023f689372edb7d05bb22390b93c9c36838bf0acf5adc71d56.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/77b8824f7fd1a0682a1f2b25490e161030a6e5ef0c7a3239f7f5bd4fec9d6788.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/fde196e438128e3bf276b9ac957c21d36a9ee9e9c79d0a9b1dfe551366970fb6.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/324ef8eeda9b95ad5ad32cdac9c1e58dbb75036ac1e6222a6bda66729c783aa6.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/611c9532f8c9b10c200bdaf248db59c9e632e18fc3d836dba17e6b5ffc332467.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6e77fca64730ded5f200d89645287781e2bdbf5a80c3d41cac86ffc6b0cc6516.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/950623d9ec773e3be42ce378d8c693825d6cb5f7269f82e9952152adae72e903.jpg",
+			"name": "Avance para lanzamiento Blast 'Em Bunnies",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d8e264a4ae07aa7aa58cee9bf1f9ef166b8094b0f397656d32fa1da6aa32002a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "89"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1febdc6bfdb51d81c836afc4f4eb2a1ef38b7f5d4a7b18e9348dece3dec54993.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "89"
+				}
+			]
+		}
+	]
+}

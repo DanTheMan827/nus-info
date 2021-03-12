@@ -1,0 +1,85 @@
+{
+	"title_id": "0004000000162B00",
+	"eshop_id": "50010000033195",
+	"product_code": "CTR-N-KSBJ",
+	"name": "シバ･カーリーの伝説",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 1433,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/13bac99357d932797b19c4340bab982fb65db43b2717c85e09fe67273f23a6c1.jpg",
+	"data_size": "36412260",
+	"description": "誰でも気軽に遊べる快感クサカリアクションゲーム。クサを刈る気持ちよさ、ステージをクリアした時の達成感、やりごたえ十分の全50ステージ+隠しステージ! エンドレスモードでは、ライフが尽きるまで、思いっきりクサが刈りまくれます。テクニックと頭脳を駆使して、あなたならではの刈りテクニックで遊んでください。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-05-13",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e18de8bc873e7940528328f00fa6b848f86405dc8f1d505e9395eb0b292c8572.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9e413f8475e55258cc4fb371ffffc7cfe52fa4bf8fa7d13176613536a932957b.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/fe34a07e6fbc16988bada83ebb8e73360afbf7c4b2321fe0cc5e4e44e27453dd.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5a7c9ad0ae969cdf1a1eb6ba382b19f0a01ecc51a0312b3c7cc2c21a33ac1363.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5861ca10ae76d931b51c411b95c1d7e5c697a32227843a56ec0c30496c26d848.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/39ee48822ed664b8315fbc4c47561556a73266c3890266e6134b81ebbaadb690.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8aac0814f8cebb6b5a819145173c9fba152c239861d0e949ee72761c022a4573.jpg",
+			"name": "シバ･カーリーの伝説 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/01e14e6c636d085fe0320faf1998a438cbcff1e949b3a35d1d3f323fca486bbb.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "78"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/dd5a4c72615ba919a772d1ff31b74ea37f2af10bea5cd32b7adb1488aafcd656.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "78"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8cccd443c38d133fe469a450a5ad3ffe3f86d14d38c1a493eceac80ce8355c48.jpg",
+			"name": "シバ･カーリーの伝説 あそびかた紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/63eb6e93370793832503c5e147cdd05fc23fc2eb83f0402c9e5e62abb403e3b4.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "176"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/27a5c902319cfe64783a6d93a2f8b126b465b09ac87b06958ddadfee93172ea1.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "176"
+				}
+			]
+		}
+	]
+}

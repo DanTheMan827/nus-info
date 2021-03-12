@@ -1,0 +1,53 @@
+{
+	"title_id": "0005000010174700",
+	"eshop_id": "20010000013029",
+	"product_code": "WUP-N-FDEE",
+	"name": "DIG DUG™",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 27,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ba8bd289d33f53a740481bf1d8a97a87569815c6b31de77f9f78358424a449e2.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8e35a337a7cb38cb5f920d395151add7c029f1917d4c04a67eb74e92ca4cac14.jpg",
+	"data_size": "38699168",
+	"description": "Take up the role of Dig Dug, the champion of love and justice, as you drill through the ground and defeat any enemies that stray in your path. Clear the stage by avoiding and defeating the persistent Pooka and the deep-dwelling but whimsical Fygars. Hit enemies with the harpoon and pump air into them, or drop rocks from above. Pass through inflated enemies, or defeat multiple enemies in an adjacent passage for an even higher score. To earn a chance at bonus points, don't forget to collect those vegetables that appear! Keep on digging, and outmatch the enemies that dwell deep underground!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-02-05",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/d7f1c7a99491a49baca075549924f90902e4649567a0c9e25b63c2c568a053f0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8a6ee0dcd65cea6759b92a871ebb94f4e7a386ee9b259f166fdf14e23a99665a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a37a03fa1847af223cdc1f58259b2198461b67220a3b70b3bebb6bc38fd0e743.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f1f5439e91fdddc5d199c7225d68ca57a915b1dde0b45e88f892ba53fe4e6e13.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/79dfbf5e709802d45ab142908cb1fd53bdc6bbd06209172ec663d86444031b2c.jpg",
+			"name": "DIG DUG™ Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1273ddcff86173c5e4b6e07cc7139f1e50f7536344f8d1a75f3071d6f843956d.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "36"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4d36f55e06c8a8708744593b6a529387d2230fd59c69137cb51006b85777a907.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "36"
+				}
+			]
+		}
+	]
+}

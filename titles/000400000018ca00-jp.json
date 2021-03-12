@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000018CA00",
+	"eshop_id": "50010000039257",
+	"product_code": "CTR-N-KBNJ",
+	"name": "名探偵ピカチュウ ～新コンビ誕生～",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 210,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/581d363873160d6fd76e376cb57d05961cd395e1a97207b642db131fde0ab54a.jpg",
+	"data_size": "648846180",
+	"description": "舞台は、人とポケモンが共存する街、ライムシティ。 ある目的を果たすため、少年ティムはこの街にやって来た。 そこで偶然の出会いを果たす、ティムとピカチュウ。 新しい物語が、ここから始まる。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-02-03",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e585fee98f96fcaa4765cfb10532bd39de6cdbc24e2c8e77d6441625065dc130.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d7d62912c9d1319b5c63d8acc98e601afcdea3037a956b402cdbf72a37bfefb2.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5b6426f1157a8265493a489a0de0e97463667483e460a5911ff3a3e517cb4f9d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/cbc2fe7308612d247fb75ce4313282660f34210875526ac396881a50f29ac06a.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8b1d7c8d396d86596b8fa23fb7f5456ddebeea62534e6979d9d701005bcdfda2.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d7d62912c9d1319b5c63d8acc98e601afcdea3037a956b402cdbf72a37bfefb2.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/16d6651da2efa126d27a238e51bfb306b15a7d1f28e0a605086ad95a5c0f70f2.jpg",
+			"name": "名探偵ピカチュウ ～新コンビ誕生～ 見たことのないピカチュウが、ここに。",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d907db933f99c28c5ac6a569684328b1f200fe33ac767bf26c22ec1879edaa3e.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "75"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bab9fa6a25edfc2732704aa99b0807a4fb1fce07367c4b575dc59aa84c901741.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "75"
+				}
+			]
+		}
+	]
+}

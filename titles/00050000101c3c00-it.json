@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101C3C00",
+	"eshop_id": "20010000020507",
+	"product_code": "WUP-P-APQP",
+	"name": "PictoParty",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1487,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f2a0c40d261473e514c2d8456546a6971bcefb072744bd4fd0f82a85db07f8b0.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d27cf620cc849a73c6a47d9c8f82df0dec53f010252f74a67d97509944990527.jpg",
+	"data_size": "112427168",
+	"description": "Gather around for a fun evening with PictoParty! Challenge your friends or family in a game of draw and guess. Take turns and draw the words you see on the GamePad touch screen – the image is simultaneously being plotted live on the TV-screen – for everyone to guess. Choose from existing dictionaries, packed with more than 700 words, or get creative and make your own lists. The possibilities are never-ending! - Up to 15 players at once – but only one Wii U™ GamePad needed. - Get creative and add new words. - All-against-all or team game. - Family-fun for all ages.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-01-07",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/b22668080ce0ed4823505883adb08dadfbec3983c22e1303ed296969d551b17f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/df0c4c46125753d89ba6eed7541a3556cd9104cd19fcba7e910acd3e717a1acb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b454b04a840fc748a8b8af74950e78b702c7610d31cd7d409498bfb8ad0e0947.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ccf927ae669d7312d8e53e1a8676ebb37c22100eb7341ffe6619a35464004afc.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/fc5fa706ffaf7e2420be9ad5ce37bc5d5a096f4987ac2b28c24f1cb7464525f4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/aec35ab0ced9f70b4a7e21a43abb53627f255374eb2b00e43362076920f9a571.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7da7dceb98ce1dd2e084d2f99210486f2c677482af7a912054a582a72c58cea1.jpg",
+			"name": "PictoParty Holiday Update Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0c328b37bf25651b3ec29eb02123c1ccff7af2252bd890d5d02ca40076357156.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/360c9d44b26f2f7d8e7c9acc560f94c6d039e1cf8fc3e98a3f7b4151b04608e7.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				}
+			]
+		}
+	]
+}

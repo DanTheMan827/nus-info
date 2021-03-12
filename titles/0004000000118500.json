@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000118500",
+		"eshop_id": "50010000025335",
+		"product_code": "CTR-N-AXFJ",
+		"name": "公益財団法人 日本漢字能力検定 協会 漢検トレーニング",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 222,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/64df5c8721dc3abc5513246604c1a5896f4d3c216b9f2189692505bd1fd71340.jpg",
+		"data_size": "100207460",
+		"description": "漢検協会共同開発の漢検オフィシャルソフト。 新基準に対応した過去問題で、本番と同様の合否シミュレーションが可能。 また、復習モードや辞典機能など、学習効果と機能性を兼ね備えた1本。 ●新基準対応。過去問題で漢検を完全シミュレート 平成24年に改定された新審査基準に対応。 実際に出題された検定過去問題を収録しており、本番と同じ設定で合否のシミュレーションが行えます。 ●学習効果と使いやすさを追求 間違えた問題を登録できる復習機能や、採点時にワンタッチで辞典を参照できる機能など、効率的で質の高い学習が可能。 検定形式のほか、「書き取り」「部首」「四字熟語」などといった分野ごとに取り組むこともできます。 ●1級～10級まで全級対応 漢検協会発行の書籍12冊と、辞典1冊を収録。 漢検全級に対応しています。 ＜収録書籍＞ ●漢検 過去問題集(1級/準1級～10級) ●漢検要覧 2～10級対応 ●漢検 四字熟語辞典",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-09-25",
+				"retail": "2014-09-25"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/29ab3d2ad7b597fc94c1ba86e0398de7be161e8526613d3bbf4821d738933eb4.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b89dd9b886e2ca1469484ad904f1c83ef598e4d02fa8f0d45c145f53f8ac0a50.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a75acda6971c0c138587d5bca5e5c5e7ba4a34369316b36805c54a8eb20c2cae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2967ec095fc1ff8f41fed3bb75356a90777d4428b43ef16d9455f4decbd8e9f4.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bec4067d4e35c0d6ee477999027bdd34b5f77003969e6208a4ffd8878ec9edb7.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e0532efddd0bf4948a15407c365a5e478d7ca7c2ad62d8e2c3204b710b9b46a6.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bddddda4ae1e582c8ce7ff2ccf8d473ba0d101e3f22b5d46dde04021a67f8888.jpg",
+				"name": "公益財団法人 日本漢字能力検定協会 漢検トレーニング 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b00e245f740e77776ea121233054124eb6ce4fd12862857eb12a4a3658c2c9e1.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "227"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/94648bc45ce4aa870ed9f7f33d7847464d6ca0b8696d588bdd7cdd883b080291.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "227"
+					}
+				]
+			}
+		]
+	}
+}

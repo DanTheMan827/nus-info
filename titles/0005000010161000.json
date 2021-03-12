@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010161000",
+		"eshop_id": "20010000005785",
+		"product_code": "WUP-N-FCVJ",
+		"name": "サラダの国のトマト姫",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 149,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b293d2bd034931b6a795caf6ac943da55bde571256555a0dd000b3dff0148f4a.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5a0e9e2ba30720512510196861dbb510d20f86475e15cc55bea3383b84430b09.jpg",
+		"data_size": "36700300",
+		"description": "このソフトは、1988年に発売されたファミリーコンピュータ用のアドベンチャーゲームです。 捕われの身となったトマト姫を救うために立ち上がった、オニオン王国一の勇者キュウリ戦士。「いどう」「みる」「しらべる」など、さまざまなコマンドを使って野菜や果物たちが住む王国を冒険していきます。「たたかう」を選択すると、敵と「あっち向いてホイ」で戦うことになります。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-05-14",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/7d3533efb8fd7d125f1a879385b25299bca0c34bfe50696903772a5271c5b56e.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/a758ad7f29a7c569bd9d28a67a482f703f6cfb2bd7ac28367ae83ff349bc39c7.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/d87f4e524eb132a845e454c35382fbac932274b23cd6c1bacaf144387f8d3ba3.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0895a2f4095412d026e8267f98fc2e81ae60a5e14a220141ac770542505c81a3.jpg",
+				"name": "サラダの国のトマト姫 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5b740f6e9b85680e3a306892c3ecb9095d8efe4e6bf6dbdca24758a4f8d3b4b0.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "44"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bfccb08940cc438d2b37b25fac4ec8d2e87ee4442040d219047fe21f9050850d.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "44"
+					}
+				]
+			}
+		]
+	}
+}

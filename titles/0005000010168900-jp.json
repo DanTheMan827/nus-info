@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010168900",
+	"eshop_id": "20010000022269",
+	"product_code": "WUP-N-MNJJ",
+	"name": "グラディウス2",
+	"platform": 167,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/29d2a81336052ed45893164b069ed51998fa6bb74b5cd498d4d29ec239019717.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4d946f782b5f53e3cd308410d845ad277851945e9e7ceb6d359301a1d302dee3.jpg",
+	"data_size": "79233164",
+	"description": " 本作は1987年にリリースされた、MSXオリジナルのグラディウスシリーズです。 最新鋭の超時空戦闘機「メタリオン」を操縦し、全14面を攻略することがプレイヤーの目的。ゲームは前作と同様にパワーアップカプセルを回収しながら機体を強化するパワーアップゲージシステムを採用し、好みに応じて、スピードアップ、ミサイル、ダブル、レーザー、オプション、フォースフィールドといった武器、装備を獲得できます。 今回は各面のボスを破壊した後に内部に侵入してコアのエネルギーを吸収することで、新システムも採用。パワーアップゲージを最大9つまで拡張でき、機体の他、ゲージそのものを強化する面白さが体験できます。拡張によって登場する新兵器は多種多様。本作品の大きな魅力といえるシステムです。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-05-25",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/52e8836f708931a1de21786ce8d0bfd3276ce72910cd07cb02b536faf225a22d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ab50264076043415b975a949d1973d51e17e7a782f482dafdbfcdc9aa1e33000.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8e050c581177b318c3aecc9b0570da502332956d501756a8fcce5fe55dfa0907.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a285d2894428d6cb9387071f7dfc385270a63fa0df7a4d641b44364d091c915d.jpg",
+			"name": "グラディウス2 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fec4afc4c6da6003d2461280db513072fe5722c0f491edc1e1c65f0c3e22bcad.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "78"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e3bf2487bfebfac4a902f6b7c546c2a3ddf7e7ef2eb113ee574d97f5d4151def.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "78"
+				}
+			]
+		}
+	]
+}

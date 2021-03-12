@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010102100",
+	"eshop_id": "20010000000281",
+	"product_code": "WUP-P-ALCP",
+	"name": "Nintendo Land™",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8bf0ced4ef1f3701ec4ea16a10a64ae6f1d48219106c0d36a784647adb8e4307.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9a16e39e7e73dda38a9410423d89d31a2b87be915c4a15ae807173c0a92da0a8.jpg",
+	"data_size": "3128328532",
+	"description": "Nintendo Land est un parc à thèmes proposant 12 attractions inspirées des plus célèbres séries de jeux de Nintendo. Jouez en solo ou dans les attractions multijoueur conçues pour cinq joueurs au maximum !",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2012-11-30",
+			"retail": "2012-11-30"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/75cba0c9cc8d656d82e9757d617580616b8d98542c51ae9b2326b408539ed657.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a04dbedb99c27b20ea738a4bf2c21e94acb88dc829118be9ea135337d8ee1fcd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/aee1204e4f6d5068bf865af130b9fa059593d6b2825409dc72f52362476e3bf3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e0f38ab123caea1879487bc3d8c29ad75bb0560b64aaf999a8f50f51dcc7896c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/07eb80908c0e7186b9562bed2f8581b6da3e17474e3419f6b8d9cc73334ec6a3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/58dad7ef76179e2b574ee5a56fee7bb6741a17a41b80abf545128a3e5be59385.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cca53cffa289e74731e1915e5eac963bdfae0ebf09cbcd09999dbbe830914745.jpg",
+			"name": "Nintendo Land™ : bande-annonce",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0f738271f15aa230bc0245b9e0535c478f5795b551a28a5c13fa31c1a1e4473c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "305"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c508ca0c64f79d3d56131b2025ca57d4275a0261b8adbcf4c2713a6eb1a29b4e.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "305"
+				}
+			]
+		}
+	]
+}

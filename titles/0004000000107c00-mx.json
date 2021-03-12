@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000107C00",
+	"eshop_id": "50010000019533",
+	"product_code": "CTR-N-JPME",
+	"name": "Chibi-Robo!™: Photo Finder",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7f513671e83decfab5ec3ed49f7269c80c171a59c222f762ef8171893e79322d.jpg",
+	"data_size": "484305764",
+	"description": "Conviértete en uno de los mejores pequeños robots ayudantes del mundo al colaborar para abrir un nuevo museo. Colecciona puntos felices aspirando, recogiendo basura y ayudando a un grupo de coloridos personajes y luego utiliza esos puntos felices para comprar una película especial que te dejará fotografiar objetos del mundo real y transportarlos al juego para exhibirlos en el museo. ¡El director quiere inmortalizar objetos de tu vida cotidiana y es el trabajo de Chibi-Robo recolectarlos! Dirige a Chibi-Robo en su búsqueda del tesoro, tomando fotos de objetos del mundo real con la Cámara de Nintendo 3DS para que él los transporte a su mundo para la colección del museo. En el camino encontrarás personajes que necesitarán la ayuda de Chibi-Robo como un calamar lanza sushi, un superhéroe de alto vuelo y un par de cocineros extravagantes. Entre más felicidad repartas, más rápido progresará tu búsqueda de exhibiciones. Asegúrate de que Chibi-Robo no se quede sin carga, recuerda que después de todo es solo un pequeño robot.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-01-09",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/67db5bbf8849092aa509dfcde739ed60e5df5db18f7d2e16fe14e4c36dcf61fa.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/69b497acc3ecd711687105b755b81dd74c28ac68a15e3ac406bbe1c8c4a2cf43.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b74c8a3e353a4df6a6629b9d61797451d69143a975f96dae5420b612dcacd523.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a26d935eadd6be270040dc3ad497ed1af0e00c69d33998633ac623304cedad0f.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/215d09a22b5a4703363ad9fcfb7b7afac6bfc775aa544e6c012f4f48f36cb323.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c2012800b69fc94ef4a4f36fc3df39f0ea4d0db48fa684ecfad5b149cbb05e50.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3c8da0ee0261ec29783a9181b6587bfb0b362d595d158f6bb7684bfe9e53684c.jpg",
+			"name": "Avance para lanzamiento Chibi Robo Photo Finder",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/871327b76542edb94de22a6109e3b7d17169009448ba95ab49e7d034ed0dd11a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "125"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/aee560eb437c35eaf5bca94b43b0d3a665d3eda39dcccf1fbe39872fda13ed52.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "125"
+				}
+			]
+		}
+	]
+}

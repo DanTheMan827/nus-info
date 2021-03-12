@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101E9700",
+	"eshop_id": "20010000021207",
+	"product_code": "WUP-P-AUHP",
+	"name": "U Host",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1306,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ee2c13320edb95d359a9fdd14604097efaf8e3bc9120346fd828284a9943868c.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d52fe1e0a44c194d707d95253a2d018a7e6ec20d2554ce4d509103589b98a024.jpg",
+	"data_size": "186908832",
+	"description": "Have you ever wanted to create your own Game Show? Well now you can! Grab up to 4 friends or teams, and throw them head first into the game show of your making! Host your own Quiz with a choice of over 1000 questions from 10 categories, or better yet, create 2 custom categories with the in-game question creator! Got an up-coming event, such as a party, baby shower, or birthday? Write some personalized questions, and add that extra touch to the event. The fun doesn't stop at quizzes though! Play all sorts of multiplayer mini-games, and be as nice or as mean as you like. Remember, it's your Game Show! You're the Host!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-03-03",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/4e82ddb1144d4f04593ea5e6965a9cb28258cabcaa9d32d2546497ed6e91d66f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e1e6526808a3e46792eb9aa4712527155622e38157601f9f8318b376bf0ee88f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/abc8edd4a644bf1c7518300c42a4278a8a5f9319771d78cc6c56240bbc5ef2e5.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/73704e98cd2e39fe9a8f84f8b85303d418bd32b20408fb3cd7d2065d18e11b5b.jpg",
+			"name": "U Host: Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/230825673f4de32c615d5d7d275a96a22f1e33eab14ea1af4d9ac660f927748a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "65"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1791c6717364a49a2c2cc55240c649be1ce3f17f8d53c8585c4a4ce4a027d0c3.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "65"
+				}
+			]
+		}
+	]
+}

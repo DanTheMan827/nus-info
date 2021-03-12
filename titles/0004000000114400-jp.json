@@ -1,0 +1,85 @@
+{
+	"title_id": "0004000000114400",
+	"eshop_id": "50010000021653",
+	"product_code": "CTR-N-JVSJ",
+	"name": "脱出アドベンチャー シアワセの赤い石",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 19,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/37e17ac3f6893f3128fff3496f07bae3729b0744a291a90e1037963fec26c3d4.jpg",
+	"data_size": "153869156",
+	"description": "『脱出アドベンチャー シアワセの赤い石』は物語を読み進めるアドベンチャーパートと、とある謎を解くため、またはとある場所から脱出する探索パートで構成される脱出ゲームです。 持っているとどんな願いごとでも叶うという“幸せの赤い石”の噂を追っていく中、主人公の時野若留はさまざまな事件や現象、密室状態を体験します。 「探索」「分解」「パズル」「情報収集」、そして手に入れた「赤い石」の調査を行い、活路を見出していきましょう。 ■物語 “幸せの赤い石” 家内安全、恋愛成就、商売繁盛。 赤くきらめく、その美しい石から聞こえる囁きに従えば、ありとあらゆる幸せが訪れるのだという都市伝説── 主人公の少女『時野若留』は、噂の真相を確かめるため、クラスメイトの彦道・秀ノ介と共に、棄てられた坑道へと探索に向かう。 その奥で、彼女たちが見たものとは──? “緋螺山の廃坑道”―― “赤い石の囁き”―― “変貌する生徒たち”―― 次々と襲いかかる不可思議な謎と密室。若留たちは無事脱出し、“赤い石”に秘められた真実を解き明かすことができるのか？",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-04-30",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/9411985f30e5215f3a7f039dda14db5f92195c978cd2180364e520d6574ae65a.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/674d1dea2d5c884fca566cac1f7faf554c8133e4c55d3128b3841e1299ca3c6f.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/fef14e12a523b17bfe0b62bef18b0d4610f3f6b8fff21c65c253f38d8b61ed4c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8bab65b94595064e986bc48315bdb9130e506fa7e8e50d46f5c83876b326d244.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/83e1b08495bec7305b5764a29927d265cb1f4b2689ebe434fcaf6cb4d71f79f9.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5617c94a8abd01ee608c1a76238c98f106894e4aea4146bac4ed8b452b4d3159.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/627599a3ae7d95badfeab5be47e412d6c3fc8b0296b5e640e93edb6397e6c0a0.jpg",
+			"name": "脱出アドベンチャー シアワセの赤い石 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/96f60a17698101f18ab3acb2d656a4388f9f9878eb4001479961f1c9c8b169dc.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "122"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3570366c7de2d003ba9bae411b9afa04f9092d229ed70da15a8b934ee45af80d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "122"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d052ffe24e5f66724137fe5d480c8df73b9fe3b9aa3068d20634c62781ee5614.jpg",
+			"name": "脱出アドベンチャー シアワセの赤い石 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1447206ebdf16b04e686195920b432113b76ceaa001f45ed9cf6f326e559149f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/783e86f46ff25d24b6b389f3c3012ccbe0454db5fa6fd59b25c65600d21cc86b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				}
+			]
+		}
+	]
+}

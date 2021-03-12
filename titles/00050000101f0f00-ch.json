@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101F0F00",
+	"eshop_id": "20010000021430",
+	"product_code": "WUP-P-APRP",
+	"name": "Paranautical Activity",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1472,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1dffdedda18c172b83c09b3112f938deb5ab8dbc5e1a4f6b54f900ce4d7e4fd4.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/bcb9434b74b482e97c2e9a4347acfcf28927baefc3d75581e57b6e03fb7d6701.jpg",
+	"data_size": "257622156",
+	"description": "Paranautical Activity ​combines classic​ FPS action​ with​ ​rogue-like elements and procedurally generated levels. A test of your precision, skill and reflexes awaits!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-04-14",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/f85bc42de437dab513020783b0972507f5e6d56fdd48f3df548e1b6c8bf36f13.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8e0b62369889fd87c043188364ee92ac0736f52c1180446be92932e44b128a07.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7be472fb228d860c57969e1689b6d53d484a1bf259c47379dc9d51c1b7d00615.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/abba019622b5c23ae2a5fc13c90b2f2870af2d4670db062f6686a10e66d2ffbb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b7d25cf27ea44ab8f3a2b7dd1221dfa97461a7563d225b4c3e284289e77c11e8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b501986ef54f1be2d757a574e36cdbe4950b2fbf89248d8f628d5116230c17bf.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/db3f1b425244d2a0e1f27170f76154decd02ca6b598075067d8ff79d21cb3ac2.jpg",
+			"name": "Paranautical Activity: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4f2968a1bdd45e2c2f23ed23fc810df7b783ea0d7255282b1c1a3b42c246f668.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/08867f227ce0d7c803ed6fe4c663c110fbb4c46d4ef43442d7579d6b9f47159f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				}
+			]
+		}
+	]
+}

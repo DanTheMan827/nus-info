@@ -1,0 +1,45 @@
+{
+	"JP": {
+		"title_id": "00050000101BDE00",
+		"eshop_id": "20010000014487",
+		"product_code": "WUP-N-VBGJ",
+		"name": "ワリオランドシェイク",
+		"platform": 171,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/70bd93d84a62a080cc6f52be9bb1a73ab61bbbd1b657dca2a3829d4778a50f32.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5444a832e18a401e8ecc88479e6e6be73a0397961413c571d359fdf543d325b2.jpg",
+		"data_size": "3852698080",
+		"description": "このソフトは、2008年に発売されたWii用のアクションゲームです。 パワフルなアクションやさまざまなリアクションを武器に、海賊たちが奪ったお宝を手に入れるため、ワリオが遺跡やジャングル、砂漠や雪原などを所狭しと駆け巡るアクションゲームです。Wiiリモコンを横持ちし、シンプルな操作でワリオを操ります。シェイクというタイトル通り、Wiiリモコンをシェイクする（振る）ことによって生まれる、よりパワフルなワリオのアクションを巧みに使うことが、ステージ攻略のカギとなります。また、本作はアニメーションや背景がすべて手描きで描かれており、温かみのあるビジュアルも特徴です。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-08-24",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/d5a998972732d1467d7e1bb39714480d61a990be4050f8ad97f5f31d15526e56.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/2e03b227e76a82afe679b4612de9c9e32f075ce34f736a6afa53bbd030593a65.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/fd7c38640a53fb593afefa6315a39c450c73d276ef1fa4fd3e27773ef9d38dc4.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b308b3cd92ad05be93a0a931359105cfa5e14c4f342dcef9117a52a4b2c9d3c8.jpg",
+				"name": "ワリオランドシェイク 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/dc6076809ff69c8ec15ae2e0099225c087b9608cee19293aa4867f11912c5e6e.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "145"
+					}
+				]
+			}
+		]
+	}
+}

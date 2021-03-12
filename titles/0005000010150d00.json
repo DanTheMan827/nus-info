@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010150D00",
+		"eshop_id": "20010000004125",
+		"product_code": "WUP-N-FBXJ",
+		"name": "ファイナルファンタジーII ",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 246,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/82dd3aa8d70b5a954bce5578e610ea7586aca59cc6b543e5e833634b0f7a322d.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5b3b81ae5a07a59c9abe56c3808d7df5ec474ce67d08d515c22f1ba4352981d7.jpg",
+		"data_size": "36634764",
+		"description": "このソフトは、1988年に発売されたファミリーコンピュータ用のロールプレイングゲームです。 魔力に通じ巨大な悪となったパラメキア皇帝率いる帝国軍と、それに立ち向かう反乱軍。圧倒的な力で追い詰められる若者４人の逃避行から、物語が始まります。本作では経験値やレベルなどの概念はなく、キャラクターは敵から受けたダメージ、使用した魔法の数などの「熟練度」で能力が向上していきます。登場人物の会話の「キーワード」を覚えておくことで物語のカギを解き明かす「ワードメモリーシステム」とあわせて、前作とは一味違った楽しみかたができます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-12-11",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/e26cb5efff1f93c926b12a5a6aab093776e3ed109b8bff976ae1d51e1caf2e43.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/acf89b87eec4a3aa3ee8556c2d5335e77dcb122086f920e1913f95d76f152c48.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/5ed85b1f36069bce7b3d9ddd275bec44283d6bf21f09d37394cea9dd205d5f52.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8fa00333e28ec3c423b495c63a0c027e2bf72d78b9167b8c5af3ba6cb5063ca5.jpg",
+				"name": "ファイナルファンタジーII プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cdbe480c98059556f3aba5543c58ec8efee67b94bb1ff593890732f7b620056e.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "50"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b6c15a7e23b464197b7a9f6e381794d510b5e463f873062ae612aa65c796865e.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "50"
+					}
+				]
+			}
+		]
+	}
+}

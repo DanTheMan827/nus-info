@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000036400",
+	"eshop_id": "50010000000253",
+	"product_code": "CTR-N-ARYE",
+	"name": "RAYMAN® 3D",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 278,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/2fa4e394f6140ecfc85f1a80c354b9b36e6f7ad8f99985584fd83fbd4a26a904.jpg",
+	"data_size": "194964324",
+	"description": "Rayman, uno de los más reconocidos y queridos personajes de Ubisoft, está de vuelta para envolvernos a todos en un emocionante mundo en 3D lleno de aventura y diversión. En Rayman® 3D, Rayman se enfrentará a maliciosos piratas mecánicos comandados por el maniático Razorbeard, quien está esclavizando a la población del mundo de Rayman. Está en manos de nuestro héroe con extremidades flotantes el recolectar las cuatro máscaras mágicas, que una vez unidas, despertarán al dios durmiente, que lo ayudará a derrotar a los piratas. Durante su travesía, Rayman reunirá fragmentos mágicos provenientes del núcleo de energía del mundo, llamados Lums. Además Rayman liberará a las criaturas esclavizadas por los malvados piratas y encontrará a un grupo de amigos que lo ayudarán a conseguir su cometido.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-02-07",
+			"retail": "2011-04-10"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/fae875e5f26e57438d3d24bcf8c6bbcf907bf242b460b57410caf7ac66220686.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7a641c71bebe838fa93f8e50ccecc959ff020876670605ba67fa31e5f682d778.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e95d5d9168c9acae68c6755795cb76964384849c75f21b97625cd18814a20bea.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7a641c71bebe838fa93f8e50ccecc959ff020876670605ba67fa31e5f682d778.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1b35c0b8744c7695f8987d613e1a67e472a0361a8cfe926c06222c79bc78d08b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7a641c71bebe838fa93f8e50ccecc959ff020876670605ba67fa31e5f682d778.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c33ac52862f56ee0534ec6a668ecb48ab803c256b5119e6b93fc956407280f26.jpg",
+			"name": "RAYMAN® 3D Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fcb17cb0bc025a7cb129188b83b383c9926e2f0036bfa18376606fae85346092.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "66"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2ac751b38cc6218350ad2720ccb29bff4eacf7f6a637130ff2214b22657ae42b.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "66"
+				}
+			]
+		}
+	]
+}

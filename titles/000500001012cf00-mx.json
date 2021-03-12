@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001012CF00",
+	"eshop_id": "20010000001404",
+	"product_code": "WUP-N-ABHE",
+	"name": "Resident Evil® Revelations",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 41,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0829097459529d205bb22ccf033b842ec30847dd3ad60250d93ccfb87f1ee1b0.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7d686ce54e5dab4703443f8ff970ac82fc6682573601ff836043ff961cb44999.jpg",
+	"data_size": "13638108376",
+	"description": "Resident Evil® Revelations vuelve redefinido para Wii U completo con elementos visuales HD de alta calidad, efectos de iluminación mejorados y una experiencia sonora fascinante. Esta última versión de Resident Evil Revelations también ofrecerá contenido adicional que incluye un nuevo y terrorífico enemigo, un modo superdifícil, integración con ResidentEvil.net y mejoras en el modo de Asalto. El modo de Asalto, que se presentó por primera vez en la serie en la versión original de Resident Evil Revelations, permite a los jugadores jugar en línea en modo cooperativo o de un solo jugador derrotando hordas de enemigos durante una gran variedad de misiones, subiendo de nivel de personajes y ganando mejoras para las armas. Las nuevas armas, juegos de habilidades y personajes como Hunk, llevan la experiencia del modo de Asalto a nuevas profundidades.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-05-21",
+			"retail": "TBD"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/e19120d8b318761e8508c1c4df4ff5d5481766b19bfba7002ddf7ee283355d02.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ee54d1c980453de60154d89ac483c32c9000a72e487aa91496aea3ee7fb722e1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6bf9b2c651b62ad929cd93a9800f891430b1d5ef29cd9565264b8751ad048ba3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6fc389e34f9a8e126346686d35ad16975562663f60cb42d310bbb5b54a2e10fd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bf62917139621abb20c294bef68a148b07a395be3995ff30bb6c2b81d7c83854.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/89a44241e503be4c798322c1df481f4c20fdb0d673b3aefbec0dcd2985d6f0bc.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/eef87cd90c584daa395f511f9c64cddc867c5d7ac3f2d524905d441040f803ab.jpg",
+			"name": "Avance para lanzamiento Resident Evil® Revelations",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c0b537a885d055743412201a7850992a8c832011b4cd2d3ced54b0b52c01739d.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "78"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/038702606c292d7c91a3cda61b4b663d1f726c3f06593e8b00d85ac2aa7edfe3.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "78"
+				}
+			]
+		}
+	]
+}

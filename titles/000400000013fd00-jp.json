@@ -1,0 +1,85 @@
+{
+	"title_id": "000400000013FD00",
+	"eshop_id": "50010000023384",
+	"product_code": "CTR-N-JRYJ",
+	"name": "Shizuku",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 1212,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/62c869f777cd523fbce888e533bb4d804b0f2e8587e4dd779507325603cf16d6.jpg",
+	"data_size": "72059748",
+	"description": "『Shizuku』は、雨降る世界のなか、 水滴（Shizuku）を操作し、パズルを解いていく 「純粋思考型パズル」です。 心を落ち着かせる雨音と、 上画面の窓からしたたる水滴。 そしてアクション要素無し、タイムリミット無しの、 完全純粋思考型パズル。 たまには、こんなゆっくりしっとりなパズルで、 まったりしましょう。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-06-25",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b886a342fee08028c4c8c4a77bb8040603154b17ab86cd829d429001050fac15.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a705024dd93b31f1991a9a807290b33937d871c525cf12ff7425475f7fda86f1.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/4ecae9557102b67076254751e0784bf6a48917bdebfa44768134f59c745300c3.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/32efea6793b26831e22a4ecf1b0dc45e70ba4e0b3ba64e7fe3242eac540e6fb9.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/27d1f0fecbd0621a20d89bdbe2ff2950cd235cff82ecc30ac98ab5e73194d4f9.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b6ea412f550738d473b22d9e2bab895f5cec7176c11606de9cc33b98be25b46b.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fe00f48f742320ecce2b48f34a9b55161e8ad1b998955fea64c60f9852eda19e.jpg",
+			"name": "Shizuku 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/dd2b43a1d1ef23897042ffd67ada54a6d0024dd517bbaa8165a7d0f38025e8ea.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "88"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7d51a6eab93c3177f29aedfb172f052d7803d4ba03048662f8eaa91d8909a3d7.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "88"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/807391fb6e37c4e02006abb13626dc42de540972ebe7d600394eae03fd5c3273.jpg",
+			"name": "Shizuku プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f965017be54073027ad17e49c93ce312d9b5e6217e7bf002f6f614db65161efd.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "41"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/69e35e104cd5661115eb300f8215a08d46d2206376c9e7dc5dd2e8069c80df65.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "41"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "0004000000067C00",
+	"eshop_id": "50010000009201",
+	"product_code": "CTR-N-JBDJ",
+	"name": "美人時計",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 602,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/49b3770f030a0700c8c4c297e383cb2dd69d63d0dc38a177f4cff6b2bb9512d6.jpg",
+	"data_size": "145476452",
+	"description": "360人の女性が手書きボードで現在時刻をお知らせする時計です。 1分ごとに画像が切り替わり、毎時ちょうどを動画でお知らせします。 アラームやタイマーを設定したり、登録したお気に入りの画像や動画をいつでも見ることができます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2012-03-21",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3ce16967e8218052794ae7c36a9aabcda5e924c1211995e8a7a3285b5fa6e8cd.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/77a895f85ef9cdf30bbaf3d3bd0db9658f130fe3a1542cb3210ec9a5ab8c1288.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1e110a17fd2663afde1cfa905f7ff69f57499a8cce64b6bc97d056ba54569f09.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/14bf79c7fccb0630ca473d2db2b37e860816c58eac8ab52c549e56667228638a.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ad3b99bf1dcf8c0fd1fdb25707b61e0f532342568f7399495708857d18a034cd.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8a0ef9c4bb8b644789d66c02196eb33da4e2e567553bbd9298c66b7068970b54.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b4a604d3d09d519b5b5fa4eacfaeff72d2e08d7a7ed2f018adabcdc9ebf52c88.jpg",
+			"name": "美人時計 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/144a7220bf192dbdb5f465bedb29ab2ab73035758f69e8bdb3064d6002c5f418.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				}
+			]
+		}
+	]
+}

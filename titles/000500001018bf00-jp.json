@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001018BF00",
+	"eshop_id": "20010000010429",
+	"product_code": "WUP-N-JC6J",
+	"name": "アルバートオデッセイ",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 256,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6885eba14961be2b065fe823e8a32afa1f733217c9af62fce80b368a5422eca0.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b2e0de381f020093a85c9a952a247f46944798b99f0589bf8327a8ee01edc3a3.jpg",
+	"data_size": "43122848",
+	"description": "このソフトは、1993年に発売されたスーパーファミコン用のシミュレーションRPGです。 古代魔法文明グローバスを復活させ、その力を利用し世界征服をたくらむ悪の大魔導師･オズワルド。 勇者の血を引くアルバートは、オズワルドを両親の仇とする宮廷魔術師ソフィア、僧侶の修行を積むノイマンとともに、その野望を阻止するため旅に出ます。 ステータスの中でも、マップ上を移動するときに消費する「移動力」がとても重要です。移動力がある限り何度でも移動でき、敵に近づいて攻撃した後、そのまま安全な場所へ移動するといった戦いかたができます。また、攻撃を受けたときにいる地形によって、受けるダメージが変化します。敵の位置や目的地をよく見て、戦闘する場所や進路を考えることが勝利のカギです。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-07-29",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/0f15c492548170b9ded47d22037a056cab83fd8c95b8d7ea6aaf5762c77db22d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1bd74937c3b4c3dcd9ab0cbfb5eb2c728a344ac06f9da621dbbb283aeec79beb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/08ab5648ff8b0b498fc8862a719837db63bf811e11c0ec231bf769be92874d41.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/01c92e6b564b275a01bd62e10069adaada0e58ca5108d2d7b34a59f27c07cf8c.jpg",
+			"name": "アルバートオデッセイ プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1707c91b06be99a5bbc35b42cc96e98cf4ab4120def8d49f907142ba6b299d6b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "98"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b3368f0ec63a880cce648d65b20c83d923d87920cc066ec695ee3bbb854c829f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "98"
+				}
+			]
+		}
+	]
+}

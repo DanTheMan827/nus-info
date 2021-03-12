@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101EC100",
+	"eshop_id": "20010000024587",
+	"product_code": "WUP-N-VBUE",
+	"name": "Pikmin™",
+	"platform": 171,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e082efe0a3330b33fc383977743845f88cf75cd95b3961e149c0812179382802.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/93cc6267eb85a7f938aa007817c1ae30e433847fe0707cbbf40a9d31007e34c7.jpg",
+	"data_size": "2092204372",
+	"description": "Captain Olimar has crash-landed on a strange world, and his only hope for survival lies with odd creatures called Pikmin. Set out and explore the strange, lush planet before Olimar's life support runs out! Command up to 100 Pikmin, swarm predators, and haul critical parts back to your ship—all by using the Wii Remote™.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-09-29",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/b85413d17d45a33889841a04572486795113e7b3d9a8ca4fc13d1bb6eaa80f3b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5f792335621d620006f60dad2a55c41adac94c39759a1d3539fbe35b1f5ed642.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ba9842cd973a83d0ebd4f2a4c38b2d5f32125540a909dfd3d1fa495f7df7d5ce.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a9dd01cd828baabf1ae02467bba6abc5778c3086a2e746f743809ed51af50743.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c62c96e6bf09495d48adba78d9918e598269ec48018d2c4e4925a375b77ffffd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e29d4399d6abcb785f01ee4425c267ada21100c4980aa26b2463d1e3bd8c84d7.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/71c9c59e4944ca5dc5695fa9a9a70e7f0e6c03792203b647967c31ec0bbd1052.jpg",
+			"name": "Pikmin Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a3a5531f5be37259f2b3e61bfd792fe5f63d346a850cd20d66d609cd71c349f8.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "19"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/808acc6908cfce90d93e286cfa717de9359439b0b9e892a485384ad8542c54c8.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "19"
+				}
+			]
+		}
+	]
+}

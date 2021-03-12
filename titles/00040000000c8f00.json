@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "00040000000C8F00",
+		"eshop_id": "50010000020533",
+		"product_code": "CTR-P-AEWJ",
+		"name": "アンパンマンとあそぼ NEWあいうえお教室",
+		"platform": 18,
+		"platform_device": "CTR",
+		"publisher": 9,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/38069e3ebfcb66e9ed1b1824ea7a08caa0eeb8985466109d80c8b565e413ec92.jpg",
+		"data_size": null,
+		"description": "アンパンマンと楽しく遊びながら、ひらがな･カタカナに親しめる「あいうえお教室」がニンテンドー3DS用ソフトになって新登場! メインの学習テーマの「ひらがな･カタカナ」に加え、「かず」、「かたち」、「せいかつ」など幅広いテーマを収録。また、お約束タイマーでプレイ時間の設定もできるので、遊びすぎることなく安心してお楽しみいただけます。 「なぞる」「かく」の２段階の運筆モードで文字の正しい書き方が身につく「あいうえお教室」モードでは、新たに「すうじ」の運筆が追加になりました。 また、20種類以上のゲームで遊びながら知能を育む「知育ゲーム」モードでは、ニンテンドー3DS本体の傾きや動きを使って操作する体感ゲームも楽しめます。 さらに、本作品で新たに追加された「あいうえおえかき」モードでは130キャラクター以上のぬりえを収録。お子様が描いた絵をSDカードに保存することも可能です。",
+		"availability": {
+			"eshop": false,
+			"retail": true,
+			"dates": {
+				"eshop": null,
+				"retail": "2014-03-06"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2b59743d29c24d9cc8c812b7f0f327ea36925d372692e417c6cb8fd2c903f610.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b1ddc41bc4a7312f8f428a4e9a907d9ced7ad9ccbeb023e0e322ead2644a01ec.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/787ddc833234c0449be1714445ba2a996a6b4c02e187edd6cc6f19f01b9c7dfa.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a48ec346ceba80271f229b680707162508c0e5859ea0ead7abc1739aa1dbbff9.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/033d2d5cc30033f398a265471cfe5610c6b0164cd791d81a4343b8803508e575.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c0674e31f63497b2ef2c7749bfb04bf046f27540b4ec2a89fcaf0c3d5da02ac4.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/938772cfcec1397a935baee75c7de635e486b28501b8e0eed47d00bb9d363bcf.jpg",
+				"name": "アンパンマンとあそぼ NEWあいうえお教室 TVCM",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9ee52184ebedc440d7d8b8e013cd8d88f45afb135f38156e4a0b02729038b869.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "30"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7fe5f7ed4c45f95b24ef0e60cbaedef770363e26bcb0dcd23c44fc3b15f1e628.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "30"
+					}
+				]
+			}
+		]
+	}
+}

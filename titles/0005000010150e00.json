@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010150E00",
+		"eshop_id": "20010000004126",
+		"product_code": "WUP-N-FBYJ",
+		"name": "ファイナルファンタジーIII ",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 246,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/acf7cd304017163b1e133d71f99f38c804de9f96ce89cb4231ebd691554b0f9a.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b7b8eec52ff866336a4f25d05882b521227e7d2764285b83c2bb9d4810c20775.jpg",
+		"data_size": "36798604",
+		"description": "このソフトは、1990年に発売されたファミリーコンピュータ用のロールプレイングゲームです。 度胸だめしに訪れた洞窟の奥でクリスタルを発見した4人の少年たちは、クリスタルの啓示により光の戦士となり、闇に包まれようとする世界を救う旅に出ます。本作では経験値によるレベルアップと、選択したジョブの熟練度により、キャラクターが成長していきます。移動中であればいつでも職業が変更できる「ジョブチェンジシステム」、召喚者のジョブによって異なる効果を発揮する「召喚魔法」などが本作で初めて登場し、のちのシリーズへと継承されていきます。高速飛行型、空海両用可変型、山を越えて飛ぶ大型飛空艇など、多彩な飛空艇も見どころのひとつです。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-01-08",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/2e8c46856ece0a51183f2b06950a48bb32ce9e6462f5800f434a1d76f8c52a0a.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/a9cabb43b5325bd1a1202f5c70e77263b6bb79b0ffe0cc1ac6b76646182ebd99.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/35dc3305fbcc36476f0ba778c6f9f2ab016d5f2c4342c80814034b108641c196.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/69093cf074f96cb95dec8606c5c7f765d5f9998e4635566ea8bd0d68bce0a751.jpg",
+				"name": "ファイナルファンタジーIII プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8728f22711a75ba58320d6653360920457ffcea0e932ccc77923fc3300c456ff.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "44"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c20b683cb51e39bca1e6337a49103e5f0e53a85aa905f90d75c376ce57f35b3a.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "44"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001019F200",
+	"eshop_id": "20010000019928",
+	"product_code": "WUP-N-PCBP",
+	"name": "Megaman Battle Network 5 Team: Colonel",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 39,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ea2fd23aac3ecaf810bbd6e8d70047f82d4aeb6935e80f966db3b4863e140670.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/46a570757bedfe2efb3ac108be058248ffb41e38564fff7b16d726e798d09ec1.jpg",
+	"data_size": "102006924",
+	"description": "Wanneer een mysterieuze kracht Navi's besmet met Dark Chips, is het aan Lan en zijn vrienden om de gevreesde Nebula-organisatie te infiltreren en hun kwaadaardige plannen een halt toe te roepen. Het lot van cyberspace ligt in jouw handen! In Mega Man Battle Network 5 gaat het turnbased-gevechtsavontuur van netstrijder Lan en zijn Navi computertegenhanger, Mega Man.EXE, verder. Ontdek twee verschillende avonturen in de Team Protoman en Team Colonel versies, ieder met een eigen verhaallijn, verschillende vijanden en vrienden, en nieuwe Battle Chips om te ontdekken.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-11-05",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/359f5c8e4f2dd965fc01ce6a89ee3571bae27e0b229027cc625184dfd53023ad.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c7f31cbf07cddf748c84127dee0b8a73d7e4c02903ce4882b8204511b3990746.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a0a45627d1d56b7930f71dc6ce00abe99d6c0ff8c88e5fd1e83ac8fc27800e47.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fd889f4305a838f73df5f5e3905e7f400e9e74bf280953721e1ae7f5d405a206.jpg",
+			"name": "Megaman Battle Network 5 Team: Protoman: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/097a0e7067aef417f672b98df3de209d433ef4d347f9eb27f2d98378afec4a35.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "51"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/dbf0540e2ed0f71b2238e64aa748b78b1cabd58a017f3c6e1820315628d14534.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "51"
+				}
+			]
+		}
+	]
+}

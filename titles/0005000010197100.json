@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010197100",
+		"eshop_id": "20010000011426",
+		"product_code": "WUP-N-PB4J",
+		"name": "ミスタードリラーエース ふしぎなパクテリア",
+		"platform": 168,
+		"platform_device": "WUP",
+		"publisher": 27,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4ad7de825c3c18b88b02d877e42f98184880abf53130e1b36aa5ed7729210909.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/07d7e9be580fe14187f6d26b5191c21df9d09f289dbd1273657e1e59392818e7.jpg",
+		"data_size": "73957516",
+		"description": "このソフトは、2002年に発売されたゲームボーイアドバンス用の穴掘りアクションゲームです。 ドリラーたちが壊したブロックの残骸を食べるという謎の生物「パクテリア」が発見され、ススムたちはその生態を探るため「ドリドラドの遺跡」に挑みます。 本作は地底のゴールを目指すシリーズ定番モードのほか、この不思議なパクテリアを育てるモードを遊ぶことができます。パクテリアを連れてブロックを掘り進みながらゴールをめざしてください。パクテリアは壊したブロックの量や色によって変身していきます。ドリドラドの遺跡内では、変身させるためのアイテムを手に入れることができます。パクテリアの作る「ドリストーン」には、エア回復などプレイヤーを助けるさまざまな効果があるので、うまく使って攻略に役立てましょう。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-03-11",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/e83e274b19499aaf4d47ba8bb486f203f7552acb3119504df3c14280b69740d0.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/eb0d3059c7daacf8fe6495812f51334ed5b1cc3436de9e4bb194de570f73c0a0.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/d7103a76e86dfdc405e917bdd472ca4ff8593f28b05747ee018adfda93449496.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6a520109411fb56ffe3cdccb68df97d505f7ffdc05dafff047fbe9df8de274a7.jpg",
+				"name": "ミスタードリラーエース ふしぎなパクテリア プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1b97eaf2a92f82b903c467b861676bcb175d368d8a7b3736cb13af9854c0d1bb.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/869b1763e5c667ce6e93700162585ce36e5a4563c781c98165eae379baed67f3.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					}
+				]
+			}
+		]
+	}
+}

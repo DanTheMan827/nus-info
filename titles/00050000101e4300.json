@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101E4300",
+		"eshop_id": "20010000020389",
+		"product_code": "WUP-N-AMPJ",
+		"name": "モモンガ ピンボール アドベンチャー",
+		"platform": 124,
+		"platform_device": "WUP",
+		"publisher": 1292,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5850201dd441762e06f85679f6fbcd538eddc32e5d40e05a0f7b769f86269825.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/fbfd18a4eebbc48bb8579652fbcb116ab5ee62743a298b49cb33ce7b604b8e48.jpg",
+		"data_size": "771588276",
+		"description": "ボールに変身したモモンガをフリッパーで操作する、ユニークなピンボールアドベンチャーゲーム。個性豊かなキャラクターたちが登場。スピードボールで敵にアタックしたり、ゲートのスイッチを狙ったり、さまざまなミッションをクリアしていく。オンラインランキングでスコアアタック。GamePadのみプレイ可能。 ・個性溢れる数多くの魅力的なキャラが登場！アドベンチャーパート ・9つのストーリーステージ ・GamePadを傾けることで、キャラを飛ぼすミニゲーム！ ・アドベンチャーパートで45種類のチャレンジを目指そう！ ・オンライン ランキング ・10個の実績にチャレンジ！ ・ゲームをクリアするとボーナスアリーナモードがアンロック！",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-12-16",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/60b5992eb2614bbbe097b7aea0a84bb2f25ec3f61e9b29e2719c22a31234c078.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/974bd3984aa459ee7def7831ddf4ac21357028a7cf9952b3fc35bef5b17e0184.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/56bebeef2a849e6abcb52954743956ae908fb8b74ebfecf61bb9d7349459e6bb.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/883891474773e41cd00ea7ba04f4dd062facb7f8a73eb6c94bdf72903c9e7f47.jpg",
+				"name": "モモンガ ピンボール アドベンチャー 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5a2d8a2d4c1cae3f4cb2b3e69a681928bfb7590bb48af0c6144bd0e8b7e88756.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "109"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8f12ac555d758e7d2bad19fcfb4ffdfc04d5cab4357e032fbf1fd98529dc9ba7.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "109"
+					}
+				]
+			}
+		]
+	}
+}

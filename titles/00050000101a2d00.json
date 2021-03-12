@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101A2D00",
+		"eshop_id": "20010000011667",
+		"product_code": "WUP-N-ALMJ",
+		"name": "LEGO®マーベル スーパー･ヒーローズ ザ･ゲーム ",
+		"platform": 125,
+		"platform_device": "WUP",
+		"publisher": 483,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6fba12a177c6afc03ad490ccced368fd760902a8842a52098903e73a1558ef5c.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f933beaa22c7667f3eb880140ab2082af97301543d2474a9b754b0a1af4a86bc.jpg",
+		"data_size": "9830499204",
+		"description": "世界的に大ヒットしているレゴ®シリーズ作品にマーベルキャラクター登場。 レゴ®シティにマーベル ユニバースのヒーロー大集合! アイアンマン、キャプテン･アメリカ、ソーなどに加えて、スパイダーマン、X-MEN、ファンタスティック･フォーなど、ハリウッド映画の主役級のヒーロー&ヴィランが総出演! その数なんと90人以上! 地球の明暗を分ける戦いは、ひらめきを武器にして勝ち抜け!",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-01-22",
+				"retail": "2015-01-22"
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/5589409c93c5d82c6733b11099437dba74dba5cec660d885b012dc3b51f61bc4.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/a02fdc5b2adb80ac9ae26d1cf0f1abe02a2258bb10d740e21c769127c9ba9907.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/91f1c65700c47cd2163845e60370970bff422041f0a814a1bde8f4f941528094.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6fedce2ff384ccd2e59b2551d0774016bd64ff5bbb996508d6248e0a6c8aced7.jpg",
+				"name": "LEGO®マーベル スーパー･ヒーローズ ザ･ゲーム 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/43243193c94549642f3fa65ffb5301bbca219a85a0a1c9b19f2f32be297d4473.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "123"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/742857280b3871ff944b62a50ecaac15361724c291dd44b8fa30d351d428fe46.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "123"
+					}
+				]
+			}
+		]
+	}
+}

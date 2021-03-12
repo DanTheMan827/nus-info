@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001017D700",
+	"eshop_id": "20010000012387",
+	"product_code": "WUP-N-PBCP",
+	"name": "DK™: King of Swing",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/35c28221361b59b05e52db532ff1a05787ff3ecd53cd223139f5618c54809536.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a1606590fded8e004591351db49b0d6f20c8bc7957be5c959c6102895af59a42.jpg",
+	"data_size": "94011512",
+	"description": "Соплеменники Донки Конга решили устроить состязание, чтобы выяснить, кто из них достоин звания настоящего героя. Коварный Кинг К. Роль узнал об этом и похитил медали, приготовленные для соревнований! Донки Конг отправляется в путь, чтобы вернуть похищенное. DK: King of Swing — уникальный платформер, в котором используются только две кнопки. Нажимайте кнопки L и R, чтобы раскачиваться, прыгать с ветки на ветку и атаковать врагов, проходя таким образом уровень за уровнем. Помимо главного режима приключения (Adventure), вы можете участвовать в Jungle Jam, где вам предстоит состязаться с компьютером в скалолазании, гонках с препятствиями и разбивании бочек на скорость (эпизод Barrel Blast)!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-01-22",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/c9285a9028b3c59668182a96b43048832c3da2c62dff7f955fd2e04ed4f0490a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ef3a6f8d894b0569d3a2e1fa4f427cdf4d0ef6fe241dfed4cddab26484202470.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/06a3ed9f25d04d01e93e0fc6203ed48622bbcdc10eb3bde4d38d6a5da9bff9e0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8eaf715a4982a5dfb74c862b925f622fb9cc1c3efc8fa1b2462544469502d558.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5e1c0804334f760dbcdc3e4e79686b6fcc6fcd972474e6f6369d0f93189ed308.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/872f225b1b1a0e3f53fb80f1636c63c6e7f67c431d809982b0a7952cf32162fb.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4362209a801a5e7722fd5131daf6d47dc1f7e7223d9358e70fdace63a8467ff0.jpg",
+			"name": "DK™: King of Swing: видео",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8d1caf7267cb34fa69ff59749d20703fd16dec711cd029b5f3e849d2319d709c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "54"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c4437c53316b78f3b21caa56953d26022bfcab265aaf034a1a59b39e4a8dc8a7.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "54"
+				}
+			]
+		}
+	]
+}

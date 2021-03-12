@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000001B5400",
+	"eshop_id": "50010000042519",
+	"product_code": "CTR-N-KCKP",
+	"name": "BYE-BYE BOXBOY!™",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/85ce7e25dc2c21cb4fcda98e7787e94bf42a280ef57ec32c619241af95dd46e5.jpg",
+	"data_size": "165759844",
+	"description": "BYE-BYE BOXBOY! gira en torno a la habilidad de Qbby, el personaje principal, de crear cajas que puede utilizar para protegerse, alcanzar lugares elevados o encender interruptores. Cada nivel consiste en varios puzles, lo que hace que el juego sea fácil de captar. BYE-BYE BOXBOY! presenta cajas especiales y fases de escolta en las que Qbby debe guiar a otro personaje hasta el final del nivel. ¡También es compatible con amiibo! Visita amiibo.nintendo.eu para consultar la lista de amiibo™ compatibles y la información más reciente. El lector/grabador de NFC para Nintendo 3DS estará disponible más adelante este año.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-03-23",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ff3b6a388140dee6eabc0bfe1f3ece1986a18dba9c3676f550d2d4a3892df890.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9811d9ea97284f1363e711a33f354754a85af56f225f16a1161314848123ca01.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d162aca971d639f113848bb3204b06940fcab76f152fb877c982e751edcd4b02.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1ba331410ddd1ee1182031fa00d242b04f106bf12127bc861e4f71583c229001.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e054b2e3bb466a07fb22d8423c527f8e7f1923b36e896bdd2ba83ff3aa49fff3.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b91403eb7fcb948e318229fb2be073a1a146cb4b3a56f4ce821b67cabb3ac9bd.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f4496fd4523864eb6377ddef0f4efaf45fda779d64ec8253d68c5fb278dc6f9e.jpg",
+			"name": "BYE-BYE BOXBOY!: Tráiler de lanzamiento",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c421d9431293ab1a2f3f86be2e5019b3450a9e6640efb342e3c8f84fcd5d7ce8.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "162"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6572c297e2ac0ac03e28b0eb228b57a0eb769286e59b08a3643ed1e1cdcba5f8.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "162"
+				}
+			]
+		}
+	]
+}

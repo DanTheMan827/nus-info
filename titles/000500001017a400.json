@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001017A400",
+		"eshop_id": "20010000007726",
+		"product_code": "WUP-N-PA9J",
+		"name": "ロックマンエグゼ バトルチップGP",
+		"platform": 168,
+		"platform_device": "WUP",
+		"publisher": 39,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4e3dc17942094987b0d847c29d0ecd73e66b1137ab3e7e26dc4fa8f4316d0b2a.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3a5787c29f69dcb9ba48c57bebc38f8a404d9d112b1166a8ec468f6ac0d17dda.jpg",
+		"data_size": "85819512",
+		"description": "このソフトは、2003年に発売されたゲームボーイアドバンス用のカードプログラミングバトルゲームです。 「世界最強のネットバトラーを決める大会が開催される!」との知らせが全世界のネットバトラーに届けられ、熱斗とロックマンは「バトルチップグランプリ」と名づけられたこの大会に参加することになった。 チップを並べるだけの「かんたんプログラム」と「スロットインシステム」でシリーズに登場した30体以上ものナビが大激突! ※原作(ゲームボーイアドバンス版)の通信機能は、本ソフト(Wii Uバーチャルコンソール版)ではご利用いただくことができません。あらかじめご了承のうえ、ご購入ください。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-07-30",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/a066a76f4a862173a19b7c746a6baa7e6d680854ebf710f6b43e604d87357978.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/59a9d2537a161acad58d485ff774528c3639735263f97a64cb8a06575ea6f126.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/881c4d8e528e2947c2998897841b5241614fc1ff59698cb0c0cdc223d5cae78f.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d25fa993f7ff282f8b6e4ed2b6314ccc98afa950b848dc3718bb70666b79c5c4.jpg",
+				"name": "ロックマンエグゼ バトルチップGP プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/77d943f5406564bea7eba2eada7fc7d8818776ffbe031703e5b0a679f84614fa.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8e27eb433f5737069e6dfd97fceb2b84db8018d47c9dfcf2e76dc5dd8de61dd6.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					}
+				]
+			}
+		]
+	}
+}

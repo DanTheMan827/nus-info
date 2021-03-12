@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000114A00",
+	"eshop_id": "50010000020780",
+	"product_code": "CTR-N-JFGJ",
+	"name": "おきらくフィッシング3D",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 19,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7b83358da2581bf150ad2dab1d560d507794a32945ce688a26998955bfa9e97b.jpg",
+	"data_size": "97127268",
+	"description": "おきらく一家が釣り対決! 釣竿やルアー、必殺技を使いこなして釣りまくり、釣った魚のポイントを相手と競います。 勝ち方はいろいろ。 小さい魚をじゃんじゃん釣りまくって数で勝利! 大きな魚を狙って高ポイントを獲得して勝利! ヌシという強力なボス魚を釣って一気に勝利! さらには、意地悪なアイテムで相手を妨害して勝利! 釣り場によって勝ち方を変えた方が良いこともあり、いろいろな釣り対決を楽しめます。 ゲームモードは3種類! キャラクターを一人選んで他の相手と次々対決する「キャンペーン」、難易度、ステージを自由に選択して対戦を楽しめる「フリー対戦」、次々と出現する相手に何連勝できるか挑戦する「サバイバル」。 そして、キャンペーンを勝ち抜けばクリアイラストを獲得できます。 いろいろな魚を釣って、釣りマスターを目指しましょう!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-03-12",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/df7106fcf03a7771eb4001509b74a81cb6fe26c59981ea0855db36582114fed8.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/bdfb1f89e944041773a557710673416a335138df16c48ebdbd9cc3df03ca4e6c.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ed123ebd4cd468e73bc80fdca43df8083c0800080fa9175b6b90c160692fc178.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4cf50b707c2b2a2c74baf61f132dd7231a9931e24f005e95c987483c4fd18b15.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/38e9f143307194659359bfbb8f0ccd2ce9ee7b0ae30e4308970c7538b904df8e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/424ef0de8b9ce5b290593e686cbef7795d484d32a63ae6e39a612ecb497bb000.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/63d3b910dc6aaf6ee7ebc977d6a0f3669fe1328ec704edfb63e34f8917074a65.jpg",
+			"name": "おきらくフィッシング3D プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3d48bb8d331795fbd4c7f0e66dc46514623ee251de13fd06ec9c59287a6bb567.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "53"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a67e2610a44396ce0fc5ad32d387ad7d5cd1ca2d2462def12dbb31500ea14bbd.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "53"
+				}
+			]
+		}
+	]
+}

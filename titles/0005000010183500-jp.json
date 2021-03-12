@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010183500",
+	"eshop_id": "20010000009028",
+	"product_code": "WUP-N-PBHJ",
+	"name": "ポケモンピンボール ルビー&サファイア",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 210,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2dfa49d1527baf0ac8f0be5e860cb9d294ccebe2dfb0e3ef03a1195f002db2ac.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/25db2583d716dde9fed92dad40a15e5f08eb394d58a4c3834abf426355598746.jpg",
+	"data_size": "73990284",
+	"description": "このソフトは、2003年に発売されたゲームボーイアドバンス用のアクションゲームです。 台上を駆けめぐるモンスターボールをあやつって、ポケモンをさがしてゲットしていこう! 誰でも楽しめるピンボールに、ポケモンならではのしかけを盛り込んだ、お手軽で楽しいゲームです。あなたもポケモン図鑑を完成させましょう! ※当時のパッケージ裏面に記載された文章をもとにしています。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-12-10",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/a3d203bb1e32b7bd6c736583c80389de3b2927ce47ec83b35c6827a06e35ab18.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d628e9988669c7f2aa98d85b0db8b3538f3facd1bb00ef8f99e4f7745327202d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e1fd847079098659ec54e884ad907dbe30555e1a494aade32e75a1db56cf3b5a.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1feab7b434b7326c16fe91808528cb13d74adf8e7fd73cee421c819fa077b926.jpg",
+			"name": "ポケモンピンボール ルビー&サファイア プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e58948097983257af36e84d67fdb5d0a3b1c115d69f70cd586d06557bc09a67a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b7bcb1317d927a2886b87186955eb98160a0d9579e9d9df0981cdb0cdf1b42cc.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"title_id": "000500001014AB00",
+	"eshop_id": "20010000003206",
+	"product_code": "WUP-N-FBSE",
+	"name": "Golf",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/06338ca134b7d32231cff2f3302d8fe30a527ecda2c77ed01d2cab8b5bceeeed.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/97bccd7298dd4a759b25bb22263ae6a274c42f8828bc207d7ef19a36d08f6461.jpg",
+	"data_size": "36503692",
+	"description": "Featuring three challenging modes of 18-hole courses, Golf brings classic swinging entertainment to play solo or with a friend! Adjust your stance, select the right club, watch the wind and then control the power of your down-swing. Just remember that the goal is not to have the highest score, but to hit the ball in the fewest number of strokes possible!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-10-10",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/d67dbfdb278789fc16c40599a6b67f84bcf248d4f78d324ab183a45d1deaef56.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f523a1818e17c7fe58dac2d640203c6ec601d0166ba72d01ccd184bec15bff0c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/fa8d4968b1a9400e632f57ca33a48e917bf4eaec0b9a0d17288f494dbc6a9ba9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a2f43dc358dd2daab2bb9af8c4c92b126e0582565b66f8680e7ca232450a828f.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9efe2800340ee91da0215d06ed49f7e00edcfaf33986d5c45a627214bd699706.jpg",
+			"name": "Golf Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fccc7409853c304163fb45049931d65e9857fce4efcd437a93fe15f9374fbb51.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ab8c507be1505219cce1f11606bc8b4cfa22c6b538611f423571fe9f5859961e.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				}
+			]
+		}
+	]
+}

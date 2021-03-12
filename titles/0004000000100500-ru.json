@@ -1,0 +1,109 @@
+{
+	"title_id": "0004000000100500",
+	"eshop_id": "50010000020393",
+	"product_code": "CTR-P-AVSP",
+	"name": "Professor Layton vs. Phoenix Wright: Ace Attorney",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/2a86d8cea852b438bc965cd4da31a6ba66ec156c84b2789ae046b4e2340e34f8.jpg",
+	"data_size": "1732332388",
+	"description": "Эта игра доступна только на английском, французском, итальянском, немецком и испанском языках. Знаменитый детектив и лучший адвокат объединят усилия в игре Professor Layton vs. Phoenix Wright: Ace Attorney, только на Nintendo 3DS! Решайте головоломки профессором Лейтоном и выступайте в суде Фениксом Райтом, чтобы раскрыть это сложнейшее дело!",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2014-03-28",
+			"retail": "2014-03-28"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f4385a8dd46c83d3764a80e1528221f01065da6994d8af62159f67a49550b32b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a0c84c9aea24266223bf6927f9f8dea967c7f6a3d81585e6dc5188d92e152812.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/14354a759b58a0f0fef036fd7f5790eb1ed57712e7a1424a2b8980cffa9bd564.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1139bc31d8b84bc446a65782ec846a3420e5716d756d185c672fb6a59702c0d0.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bca649adaf3dc091a99b3fe08a7bfdc018c25c602fd75210520ac203e6cbb941.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/96e1d8ba2a86ce55746ce859eab36bdda47425bddb57c85089af11d1f8c18ad9.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e5c1012d14595d7b299abab6676fd4e197300334acc013fddb209e78566571a6.jpg",
+			"name": "Professor Layton™ vs. Phoenix Wright™: Ace Attorney™: лучшие фрагменты игры",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b88f9aece27d13f0673d7132e4432cc7e8f262071d199206e2d798387f7dfe7c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "35"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/afddd16f4422a400067856670cc8c6638660a7b3eaf61970ba00215f75c21a4c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "35"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/68ed8f26f77a3230948e119efeb6c91efac5a7abf168c91c662e1af8055c2ae7.jpg",
+			"name": "Professor Layton vs. Phoenix Wright: Ace Attorney — лучшие фрагменты игры",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d64f2a6d06a6ca91ea6c3c0bc0e4f68e3df3fae7b3c2840945c0796ebc4aefbb.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d9b5c7b4f45b36dae047f49030b9a2d10265b9fb667cea0af72ef7c70843a22f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e5c1012d14595d7b299abab6676fd4e197300334acc013fddb209e78566571a6.jpg",
+			"name": "Professor Layton vs. Phoenix Wright: трейлер к выходу игры",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b34fcbbc04f116cefca868d91b4f85e92c3ee195f4ded55c771ad7a01d6b0ae9.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "115"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ddf215e3e43203a4e889b0a28a30c195e87f7be6dba751c87481ad32446f768d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "115"
+				}
+			]
+		}
+	]
+}

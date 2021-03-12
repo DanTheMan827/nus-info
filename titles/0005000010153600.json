@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010153600",
+		"eshop_id": "20010000004264",
+		"product_code": "WUP-N-FB7J",
+		"name": "ダブルドラゴン ",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 19,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6d65509d6277655ea96d04aec0dd6ccf8a0c221a154bbfb10c12c1ba5d07beb9.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/dde58094c692cbf54cedc43d5d6e8201770ee8dc256189dec7eba40fdbf59e18.jpg",
+		"data_size": "36634764",
+		"description": "このソフトは、1988年に発売されたファミリーコンピュータ用のアクションゲームです。 「ブラックウォリヤーズ」にさらわれた恋人を救い出すため、ビリー･リーを操作して、敵と戦いながらステージを進んでいきます。敵に攻撃が当たると経験値が得られ、一定量まで増えるとレベルアップ。新たにアッパーカットや背負い投げなどの強力な技が繰り出せます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-01-22",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/8838be67070c23b1c242d6ce7fede236892672983d701993825d1275ff04d3be.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/fe1195af4fa05fd957e6499f5ad01ca8383abb032330b94cd3c82767fdc5b3da.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/bc2bf4570bf5174a780a4d7ccdf9c36e847709e72fbed69b31f5d949c34c6e76.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/68034e15254935412336ac90d1b81b6d82b45c7f6e5e7efa1d6f70f91cfc8d3c.jpg",
+				"name": "ダブルドラゴン プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7aa59ade38405123ed4d1e5cf464b898adbd4c56057a2a9f70afd68fa9ede83e.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a0d6b44b69fc5354b48368d397183f6354e4f2c6e0a166fa5971267ebd451a43.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001015C300",
+	"eshop_id": "20010000009107",
+	"product_code": "WUP-N-PNQJ",
+	"name": "ファイナルソルジャー ",
+	"platform": 166,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6e93d63ad8851af84d249cc2faa55e6efda6f59b9c845ab08441e80957e3c2bf.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/366208be3c5f89d74eb431415c7e598073d6d1e1f7b6dc6c658be7ca344a5524.jpg",
+	"data_size": "83755148",
+	"description": "『ソルジャーシリーズ』に連なる、縦スクロールタイプのシューティングゲーム。 舞台は23世紀。突如地球に侵攻してきた未来からの敵に、各国の科学力を結集して生み出された戦闘機「零式ドライアード」が立ち向かいます。 自機はゲーム中に現れる「パワーアップユニット」を取ることで「オプション」を装備したり、「レーザー」や「Eビーム」「ファイヤー」「ミサイル」といった多彩な攻撃を繰り出すことが可能です。敵の攻撃を見極めながら上手く武器を切り換え、立ちふさがる敵を倒しましょう。 ゲームは通常の「NORMAL GAME」以外に、おなじみのキャラバンモード「2 MINUTE GAME」「5 MINUTE GAME」も用意されています。 シリーズ中、最も絶妙なチューニングを施されたといわれるキャラバンモードのスコアアタックは、手応え十分の出来に仕上がっています。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-08-27",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/f7476bfcf018326f625df0d7e2c0a64c434985f5d73c83c0359faa892dfa33a0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/94628c9f3309ac302f4a15823ea12f2c1c0ea94e77c1c346969902f0daf63b7d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/362fe113706ff4e3572c53837a061589d730fbeb4f4cda5c10e84266b30b6ac6.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3602dd5f986479bc3cdb48ed478b48926db1e9f85591e463907eb0ce47141f37.jpg",
+			"name": "ファイナルソルジャー プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/af08e4b3167b24118efab868dcbfc192c7097ba7456e3bbefc9d6569909dcb5d.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "42"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8fcb4b4643ab00886d394d590fe3583a7a44fa6c2800b4aab868ce4cc31ab963.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "42"
+				}
+			]
+		}
+	]
+}

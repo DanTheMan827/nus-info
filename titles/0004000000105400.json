@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000105400",
+		"eshop_id": "50010000017803",
+		"product_code": "CTR-P-BP2J",
+		"name": "プリティーリズムレインボーライブ きらきらマイ☆デザイン",
+		"platform": 18,
+		"platform_device": "CTR",
+		"publisher": 1206,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9f602b5fdccbf94ba2586c9af9f4ec734fc9bfb943a84c47c31d8708efb410f0.jpg",
+		"data_size": null,
+		"description": "アーケードゲーム「プリティーリズム」がキャラクターを追加、ストーリーを一新してニンテンドー3DSに登場!プリズムショーやプリズムライブはもちろん、新ゲーム･ランウェイバトルで新しいリズムゲームを遊ぶことができ、ローカルプレイで対戦も可能です。マイ☆ドレスデザイン機能で、自分だけのドレスを作って楽しむことができます。",
+		"availability": {
+			"eshop": false,
+			"retail": true,
+			"dates": {
+				"eshop": null,
+				"retail": "2013-11-28"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/34c10c954d33b9e7c4ec05279213e61e7dcb4aa592b73eea1da8c349f35aacb9.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0eea65d98092e0525c9e28ebc0e5a3d06e330b78afeaefa8a51010613baf6b31.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8f9bcbf6414eb7ceb9d009629a35b5a407382e818cb4ac0e414a4e027186b273.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2c78986fa85c0f0a175f93d6a23e84deaef7e4cfa22019d72a6d0d7f6a0da5c3.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a320196f5528690c9082cdae0a802c1b1b1e334399c75f41665398ab1897a309.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/37c43be9f0f61d96018b1660e900549de23500cff746e6e09ae40ec7384d3d6c.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5bff6fb5621e313e444239a298075a3e98a05a1417d29066682b7ccbc560a92c.jpg",
+				"name": "プリティーリズム･レインボーライブ きらきらマイ☆デザイン TVCM",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/56e79f20f41c54aa4c5eac595b4367aabfaa5c13a7653dd0a0486ea0cc06fa47.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "19"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d9d27c17ae06f23f2eebb5dd2395270e51cff4d594f2b34f08a67add9c7e1460.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "19"
+					}
+				]
+			}
+		]
+	}
+}

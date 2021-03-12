@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000001CB400",
+	"eshop_id": "50010000043086",
+	"product_code": "CTR-N-BLFE",
+	"name": "EL MISTERIOSO VIAJE DE LAYTON™",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 456,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/38eadc039449d1fac110fb062a0667d287a806c49e533c73f296e59be8590c67.jpg",
+	"data_size": "934685540",
+	"description": "Únete a Katrielle Layton, nuestra nueva heroína, en una accidental y misteriosa aventura originada en la búsqueda de su padre desaparecido, el profesor Hershel Layton. Junto a Kat, recorrerás los lugares más famosos de Londres, desde las Casas del Parlamento hasta el Puente de la Torre, para resolver, uno tras otro, casos increíbles hasta que, accidentalmente, descubra la conspiración de los millonarios. La historia comienza cuando Katrielle funda la Agencia de Detectives Layton para demostrar su valía con la esperanza de descubrir pistas ocultas acerca del paradero del profesor desaparecido. Ayuda a Kat a descubrir pistas y a resolver misterios y puzles muy originales. Los jugadores aficionados a la moda también podrán redecorar la agencia y vestir a Katrielle con varios modelos según el caso que tenga entre manos. Con más puzles que nunca incluidos en un juego de Layton, un nuevo y variado elenco de personajes, y una enigmática historia que incluye siete millonarios y una conspiración colosal, ¿podrá llegar a encontrar a su padre desaparecido?",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2017-10-06",
+			"retail": "2017-10-06"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ec3dfb33967835abc21232ca677e05b0a75d808746be870d9a9a4fbaac3b20a6.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5061eea3402e8c822b208ada1eaebe6ad9dadf7c6e769adc23c1e5efc5041381.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/fb8d2f3e4fe2b0a7df0ce455f8b1b5465eb2cb6b3a0c096f068a3abd6abce750.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/59db87d8f823778a4e2e5546bdfff59e181a47addbba4c009445dbe53192b3eb.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1c2d4bc4608228ee283b372e0d60f41ef99fc45ef3cf6f8d2ca5f88542d4f8ad.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/324b7e5735d52e88e1c02949347f2c63e3df2a292289bab88733ea2ecb3bd4cf.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/46a569b9b21ab6b399e2c54e3ba82371863191fbe1909c00f6f02607b46f126e.jpg",
+			"name": "Solve It Like a Layton this Autumn",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/139a6df11f179b081b59184189aaa7fef83f1cef597b14b9b2a8f5e41b325181.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "32"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5c12ef3ebed83ed155a73acecb25e12e26426e08c62b2de050a4182ff0722d32.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "32"
+				}
+			]
+		}
+	]
+}

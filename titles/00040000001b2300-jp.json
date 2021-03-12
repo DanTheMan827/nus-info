@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000001B2300",
+	"eshop_id": "50010000042015",
+	"product_code": "CTR-N-KTJJ",
+	"name": "電車運転指令！ 東京湾編",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 19,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6fff9ad21e27f42dc9ea5a7d52d04eee0cae2a637a7ef08b50117b03cfc15c7c.jpg",
+	"data_size": "316078948",
+	"description": "このゲームは『電車運転指令』シリーズの第二弾です。電車の運転士となって東京駅から千葉の安房鴨川までの東京湾沿いの路線を運転していくゲームです。 速度制限や到着時間などを守って運転するミッションモードと自由に運転できるフリーモードがあります。 ミッションモードで上手に運転できるとガチャチケットがゲットでき、ガチャを回すと新しい車両やラッピング、建物が手に入ります。 ほかにもガチャで集めたアイテムを鑑賞するコレクションモードやさまざまな内容を達成するじっせきモードがあります。 たくさん運転してコレクションをコンプリートして、立派な電車運転士を目指しましょう!!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-01-11",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/dc1b6651ad80d525b9dac7c9ba420195ea72a826a4b0b217e905e5360b3d38d3.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b27703dec841e3316ee3d9d8977365a572ab2e6b9af83f448b2080b50ae30cc0.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8b1549273e0ff7aae4918cbaa8501650eb59dfb8d566e4bd4f82dafc93ef4c7e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f4ee39aa2a0d3cf62a679ac5f21d3fc1061423cdecc83679a977ac925d5b8217.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/4d964d95d5e57046cb0007979b3ff3d5683461bb8485a7002a4b09f274af0453.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/018203a67663f7517993127b7259e120af4c0d7a85cc88628fbfb562735e91c7.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7281816850fa58455a8d7c229fa0fffd6ee807c30499b14c707a114319898531.jpg",
+			"name": "電車運転指令！ 東京湾編 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d0577cdef1f11898c9dd337b76e605f5b7cc412c318e2203cd95e42a9beb1a7f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "61"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/96ec4b0c1ef6dc9a3019393bd20b18e263786d65259bec571132ed9195968592.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "61"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010172C00",
+	"eshop_id": "20010000008446",
+	"product_code": "WUP-N-PATP",
+	"name": "Kirby™: Nightmare in Dream Land",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1a0275cb2df8035fb3e8f6d18002c1794fa3a0d9d72155e81b8584c4b6e8fd32.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9ebc811763fdfa10e1b9c7c41a9e1e825d4425d3fb2a0e70b23545e94ab7c263.jpg",
+	"data_size": "97157240",
+	"description": "What a nightmare! Since King Dedede stole the Star Rod from Dream Land, everyone has been unable to dream. Only Kirby™ can reunite the Star Rod's shattered pieces and restore peaceful naptimes! As the powerful pink puffball, inhale enemies and copy their abilities to transform into more than 20 powerful – and often hilarious – forms, from a whirling tornado to a UFO! There are also lots of fun sub-games to discover, playable with only one button, like the frantic Bomb Rally or the super-fast Kirby's Air Grind!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-07-18",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/ed0f1dee1d3bff1080b89d04804ba184c38109447981b55bb98dacd70b05a140.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bbe325c1b2a2350697e42d1c5b81ea945327c4310bbd9f2fbda0d8f93fe7b25d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3bfd6d630d9c3be4f6ac0db1feae98766615cda4a107d49de1c15deca2f415e8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d7acbf53b4d271a6b4aaea4a36d3824f2820e75b4c8af01ee39bbc88e5c2ebb8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ca8fa0003a8e61db06e9b8ea6f5955b65aa010417e248be177994d24ddff9d60.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2bd4631ea7bf09de5a394f5ef8ad87a421b8df5e8a0d33a17712a67c6b20f2e8.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/de319297fe97a85616ec394cfb8a50e2a0fb426fffdbfa27db71f99c398f6646.jpg",
+			"name": "Kirby™: Nightmare in Dream Land: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3582ab621c8e45451f952c80fde45d4e6f4d473e34a9a30a2fa372040c6278c9.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "68"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1c18d13e027e354348b7ae48413e83a877e55431235c624715a1507a63a78d3e.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "68"
+				}
+			]
+		}
+	]
+}

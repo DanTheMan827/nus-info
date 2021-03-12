@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000A5F00",
+	"eshop_id": "50010000012486",
+	"product_code": "CTR-N-AG5P",
+	"name": "Paper Mario™: Sticker Star",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/008948ef49ca9c3732137140f39bfe865d64add12b4bee0bfe5416406f10da4d.jpg",
+	"data_size": "559868772",
+	"description": "Paper Mario is back, and finds himself in another sticky situation! Take Mario on an exciting paper adventure and help him repair the mess Bowser has created using the powers of brand new stickers. A cast of colourful characters will keep you laughing along the way as the familiar world of Paper Mario is brought to life in Paper Mario: Sticker Star for Nintendo 3DS! The visually stunning 3D effects make it seem as though you’re looking into and exploring a world made up of shoebox dioramas!",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2012-12-07",
+			"retail": "2012-12-07"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/92be35a48f1548e21d2919ac85b83bf782fada01d451b3963fa5c58d5bfd23ff.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e7fc8e6f24ec0e3ea9701153adb8012682391acebb087cec5c22c88265e88797.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3a3f514b2a322e70f235839f0e5935214ad8750687e9e9e7656a7db165cceb9d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ecf254b44a1a39eca37b41ee2bf73d315e9bd8ca92496d52da98b12796db2039.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2efab5f4857f79024fb665f07bf648975e7fd0a09edcdc45c37f5f0499707b56.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1e6fb0ee687604a6f42a2af5eebeed11dbfa001477417d4ff69d6ab35935e103.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f9c7ce461a7ee505cc3a371cf2836d2d60564092562061667d3dc8a2ad4d99aa.jpg",
+			"name": "Paper Mario™: Sticker Star: Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6c949471b5ec71ec6c06d28583386d3263416bf9cdd868685cb77b92c3464a08.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "170"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8f2ac06190ec1f0e6b34be4a03a29b3363403bf4aaea569296fdfa915d0fdbb9.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "170"
+				}
+			]
+		}
+	]
+}

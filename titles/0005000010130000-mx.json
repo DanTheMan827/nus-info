@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010130000",
+	"eshop_id": "20010000002867",
+	"product_code": "WUP-N-FBCE",
+	"name": "Zelda II - The Adventure of Link™",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5c345e94a61f29c337628ba1585ebfdc1479885c9fb0c2c88c234d09e49ba5fa.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3bb58636fe061ebdd3e4583f0d6ec25ee7ae086646b64a8cadad813084b33b35.jpg",
+	"data_size": "36601996",
+	"description": "Link™ regresa a Hyrule para buscar la Trifuerza y despertar a Zelda™ de un sueño interminable. Aventúrate en la búsqueda de la Trifuerza del Valor para impedir la destrucción de Hyrule. Aprende hechizos mágicos, habla con la gente de los pueblos para obtener pistas, colecciona objetos que te darán más poder y explora seis palacios donde los secuaces del malvado Ganon te estarán esperando. Esta secuela de la clásica aventura utiliza un sistema de desplazamiento lateral, único en esta serie, que permite un combate más técnico, y se caracteriza por un recorrido más profundo del mundo, a medida que Link en su búsqueda se encuentra con los habitantes de los pueblos.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-09-12",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/86457ba1d6d072f6b25ca53e6bbe9f1323072a7e2338770a6b2bbef9cbd5c369.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9049cd8f6ba62884de576518e35f2857ddd7f7c1074af25aa0d0b1564e3fa1ae.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0af17518ff1a6e5d5a6ccb110c08aceebef113f363fa6ced5485818fce96ed2a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c6e23b382e5ed20aee7273a4ba9266e56e79efbdaa8ad0b760c38ffa4b26736c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1203bf4633089a586ed5447c8204af4f7a875aaa15b52e318dd9058586c4c6aa.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/59522d7072b7008ae854f33ac4c5e6053a4810810be625e9454c5277b5205504.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/13efbde67e34f27a0ce0c60f4b4d9f1deb0f6539a72da5e916593ae34ed014e6.jpg",
+			"name": "Avance para lanzamiento Zelda II™ - The Adventure of Link™",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ab41123916f36e5d33bd5d5e7b465b8a5b979a9290d25a733973801bfcd3ecf1.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9016f179c8bd47d6d52eb12d361133125e910287b1815dd7dbe974258a3b3311.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				}
+			]
+		}
+	]
+}

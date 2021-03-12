@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101FE900",
+	"eshop_id": "20010000026332",
+	"product_code": "WUP-N-NA2J",
+	"name": "牧場物語2",
+	"platform": 170,
+	"platform_device": "WUP",
+	"publisher": 167,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/11deb10dc1038e35ee24e45ca02b8a0b24b5026f6e0e3f2586550f0cfd62ba60.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/650fe029e7bfc92c7203ac2588e727510d8ee5816837d8cb73bffe4f4f11b474.jpg",
+	"data_size": "61898872",
+	"description": "このソフトは、1999年に発売されたニンテンドウ64用のほのぼの生活シミュレーションゲームです。 プレイヤーはおじいさんから譲り受けた牧場で野菜や動物を育てながら、花の芽町の人々との交流を深めていきます。 最初は小さな荒れた土地ですが、整備して耕せば立派な農地になり、さまざまな作物を育てることができます。収穫した作物は売ってお金にできますが、自分で食べたり、町の人にプレゼントしたりといった使い道もあります。牛や羊などの動物を愛情込めて大切に育てると、良いミルクや羊毛が採れるようになり、より資金を増やすことができます。 人々とは会話をしたりイベントに参加したりすることでどんどん仲よくなれます。 そのほか、町の探検や釣りなどできることはたくさんありますが、何をするのも自由。あなただけの牧場生活を楽しんでみてください。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-07-05",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/e9f86cb7f3cf17684d2712b1b866bf5dbc88f89d141102a221737d1dd49d2d78.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4ee14db0e7026c390468167c14e7e2cbc53a2c77c059c4c2c086c28839df3d3d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/aca6f70c147feb752fe2e096bc15c3b1541fcb354d79186a97d9a24cbfaffc4a.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/48671c029b24e644e46e73767c804291c7b8660cb4d83bdb9e4bc16b66c84012.jpg",
+			"name": "牧場物語2 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/80701a36089a60c746187eeae0089a0c2d2253e947852df8dbbc8ec0da88ad13.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "85"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b6ad3c4fbf34453abd902b92333ef55c2853c5898241e641a33a5621722c6825.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "85"
+				}
+			]
+		}
+	]
+}

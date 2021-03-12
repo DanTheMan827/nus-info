@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001012FA00",
+	"eshop_id": "20010000002645",
+	"product_code": "WUP-N-FBAE",
+	"name": "The Legend of Zelda™",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/481fc5f54afeebe6190fd81912735527b42c445337481e448fbc595c3f21508d.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/fe1a5132c0ab70fe93c02a4f525c6354511fb5ab11b23633a56e1c24a1dd860f.jpg",
+	"data_size": "36569228",
+	"description": "Ganon, el rey malvado, se ha escapado del Mundo de las Tinieblas y ha capturado a la querida princesa de Hyrule, Zelda. Justo antes de ser capturada, Zelda™ pudo romper la Trifuerza de la Sabiduría y esparcir las ocho piezas por Hyrule. Tu aventura comenzará cuando encuentres una pequeña espada de madera en una oscura cueva. A medida que creces en estatura, experiencia y fuerza ¡tus armas mejorarán! ¡Ayuda a Link™ a juntar las piezas de la Trifuerza y frustrar los malvados planes de Ganon!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-08-29",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/a269c7b467f70aaf02709193907fcadfda45174572a13e3d074be15360303657.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0826ca4ca917980703b7b2ee351c3a6a9dc188c719f108f993504689ad511ad1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5be21e2a9ef8e9a2e891eb325ba12e4fbde865ed16123c5f63b31ff3acf95076.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ada2270b317ee4b6a16b41bcbdc951d07ea6f53b2323804bd7a7ddde9f2cd074.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/cdee92abda2e4f7322709f3b18cb86d621c35dc07478c619cd226b784e4600eb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b9670ba4eca39079b5a06e8d2546826149d2dd4c7013a52c3058c7b7904db9d5.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/44f982ced194d8e88a4cce3bccd4a3d2b9f0be997c38d50ef9bffba1f0cc76a1.jpg",
+			"name": "Avance para lanzamiento The Legend of Zelda™",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0b3855518ba915b1b008f05969824ca8c70393fd79cf18664d6c5fd1f6d9c1af.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9fb9635eb3aeac17d2a07d2f6085e940e002418d2529994c972c82ed8adcbb0f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				}
+			]
+		}
+	]
+}

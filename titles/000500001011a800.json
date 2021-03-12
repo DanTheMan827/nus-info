@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001011A800",
+		"eshop_id": "20010000001887",
+		"product_code": "WUP-N-ANXJ",
+		"name": "Wii Party U",
+		"platform": 125,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/97cc8177bb17e00fc63afc1644e9da8b005eb40c46e120a8168b2ff567a0b6f5.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e38d9b44a894ab0ede65dfbe6760b9e66715f0ce8beb0cfbc8daccf557966d32.jpg",
+		"data_size": "3684893052",
+		"description": "『Wii Party』に新たな遊びを加え、完全新作としてWii Uに登場。定番のスゴロクや、バラエティ豊かなミニゲームはもちろんのこと、Wii U GamePadを使ったWii Uならではの遊びも楽しめます。",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2013-10-31",
+				"retail": "2013-10-31"
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/d575a1e4bebb06189ef8ca4ba728859e5c9101fb35134e825fb536976b114288.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/f523276d97ffb7e59ddf0363ce24ef01ed349bfc24cc9dff6f739aa1d52f23e7.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/3e942e89056ff49e0ab049de1b3dc4b886060fafa3c780ae0840e25171098139.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/61e8126bfbeceaabba37c113c348e408f1e3d38594b29d1620336baab83ed7cb.jpg",
+				"name": "Wii Party U 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/775226822de432738d6d20514c28df82f2537ce3060517935f6aeb54fab59830.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "272"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/803ca0b055fcbd3e5376d0c1f99988b878b5d1d70560cd8d36ffc9122afd6f82.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "272"
+					}
+				]
+			}
+		]
+	}
+}

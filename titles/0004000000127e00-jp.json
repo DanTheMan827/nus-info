@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000127E00",
+	"eshop_id": "50010000024395",
+	"product_code": "CTR-N-JNFJ",
+	"name": "アクセルナイツ2 フルスロットル",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 21,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9716822fbd292e9308f3cc27e4ae305d5613d8a6e16d1d3c22221c7a558d3df3.jpg",
+	"data_size": "154114916",
+	"description": "本作は2010年に発売した『アクセルナイツ～汝が為我は剣を取る～』（ニンテンドーDSiウェア）に続く、対戦アクションストーリーゲーム第二弾です。 バトルシステムの改良によりさらに爽快で奥深いバトルが楽しめます。 キャラクターデザインは眞島真太郎。サウンドはベイシスケイプがドラマチックな世界を熱く盛り上げます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-07-30",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/fad9e0a986e014aa196b5a6fb20646e7030d3f9593e04df30f25b63990c5e3f4.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9e0c79df3e982997a0decfc469ac57a549e4a6ddacfc4565b19819f3ab86c776.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/fab7c4194f5b573395f48d46d0b602f77fa600d7481aa0c82c0deeb4e0a2a8a4.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/51b8858f0d1a1caa11d793356d2b2a326d10a11f98aee977cb68ea1952b2a01a.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/dff2f3fce9aeea9ddef32975ca6271b9fd9402e72a5e777ed2b73611a631110d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0ed4662c9d661065ad04413ca6c48ba15bae23415dc67cbeeadfbf4b443c31a0.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f86a6901a51fd8735035996ea31d89eb4a6d0b45dd67a7ffb3fdecdfebea0675.jpg",
+			"name": "アクセルナイツ2 フルスロットル 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1ab7bea86632850d34fd348887b3c964e1ee38b6b73ace1510da1a89309941ee.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "81"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ebe7852ce59e8cc2db95c49dc9d0e2d04736107d8ce8c14a01b8da9cdd2b1625.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "81"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000173C00",
+		"eshop_id": "50010000041867",
+		"product_code": "CTR-N-AVTJ",
+		"name": "アドベンチャー・タイム ネームレス王国の3人のプリンセス",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 626,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/34d6d1ace30c8d63592e84e6e105a229283acd7e6b5e3a85aebf8843146e48cb.jpg",
+		"data_size": "229538660",
+		"description": "人気ナンセンスコメディー「アドベンチャー・タイム」が、アクションアドベンチャーゲームで登場。 偉大なヒーローになることを目指す少年フィンと、特別な力を持つ犬のジェイクと一緒に、ネームレス王国という新たな地を舞台に、さまざまなしかけ、謎解きやダンジョンに挑みながら、3人のプリンセスを捜す冒険が幕を開けます。",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2016-12-15",
+				"retail": "2016-12-15"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0eaa2b6534d486a6f78d3ffbe26684c9529d4c5a05f37194597062d332bc8c4b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f9eba721ff8f54d6734f181589e0bf283d1a964f3410698ca853e53d1dd953c6.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/760ad85910018c294432c132a8ad7750df1566635a17c52c1506d025f0bc47a7.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/61b91f441a408890ffbb79d3057f1645684544e2bfac5c2263a17c67662a4fe2.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ed2fd2dbda7367bf388994cf15b0c953dcd950637125d67f7c68ca3dfb7b2bff.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5d0a17470ecbe07957536e90b29f46fdc49371684874a42bb5d2c14d33c2ff80.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ef332263c03ba1653ec7e7c4b5c90ca1c5a8bd217fb8eaacdaae5fa0082697c9.jpg",
+				"name": "アドベンチャー・タイム 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6058a10699781d62330872a640b89bd8fe3d286c4b95889735421bab7eb201d3.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "61"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2e424e41f3a1328ad8570ad904f961740f7f62520812deb25f4d91ac4f186c33.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "61"
+					}
+				]
+			}
+		]
+	}
+}

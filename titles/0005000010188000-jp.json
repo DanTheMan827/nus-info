@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010188000",
+	"eshop_id": "20010000010308",
+	"product_code": "WUP-N-PBMJ",
+	"name": "ことばのパズル もじぴったんアドバンス",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 27,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/94c9b239e5a45fd2d11c2607181edb72a57a9977d00970fced19dc5143631baa.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0d5b2f0596036643ae3be616e0477780d1d93eeb0178612b471a5f8386cf5af7.jpg",
+	"data_size": "72188044",
+	"description": "このソフトは、2003年に発売されたゲームボーイアドバンス用の知的好奇心くすぐり系パズルゲームです。 「えらぶくん」の中にある「もじブロック」を選んで、マスに置いて「ことば」を作っていくシンプルなルールです。左から右、上から下に読んで言葉になる場所にもじブロックを置いていきましょう。知らなかったことばを偶然見つける面白さも味わえます。長い「ことば」を作ったり、同時に複数の「ことば」を作ると高得点になります。ステージごとに決められた条件を制限時間以内に達成すればステージクリアです。 ※ゲームボーイアドバンス版に収録していた「すぺしゃる」(8ステージ)は遊ぶことができません。あらかじめご了承ください。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-03-18",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/9d4e9dad853d28376dcaf243cd872ab08caa4bed024bae9b58db879b6b8ecc3b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/df3eb367c00c24df5796197df4838c99c6f86ebb19eaf3a113e049fa792582fd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bd68e411ecd040fd830543ff0688deed4793da3052f0a083d289d5801ec90f01.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7320435d07170969030a6d9dcaa2be4596daf759f9c2c9bb786a04f3b3cfeb02.jpg",
+			"name": "ことばのパズル もじぴったんアドバンス プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/324a25be57cd5024f5abc72cd662d924c2a5ad06e28ded0d145c9176751b45df.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "58"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/08cc865aa77be1d0de43298d08342d24af1dc3ee2271f37635bd36c056a1a0e6.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "58"
+				}
+			]
+		}
+	]
+}

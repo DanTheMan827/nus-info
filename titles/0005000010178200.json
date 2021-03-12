@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010178200",
+		"eshop_id": "20010000007727",
+		"product_code": "WUP-N-JCSJ",
+		"name": "学校であった怖い話",
+		"platform": 164,
+		"platform_device": "WUP",
+		"publisher": 27,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0e825d0a8d0b75c3e80c1c7c877560220961c08e44f0147a84b4446939d83ab7.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/1af400a3bd4642a7e703ca7c2bba232bb2132326704a189fa849c03d95f5a2d6.jpg",
+		"data_size": "45842592",
+		"description": "このソフトは、1995年に発売されたスーパーファミコン用のアドベンチャーゲームです。 「今度の新聞で、うちの高校の七不思議の特集を組もうぜ」。高校一年生の主人公が所属する新聞部の部長のひとことが、この物語の発端でした。放課後、話を聞くために7人の話し手が集められたはずが、部室にはなぜか6人しかいません。漂う重い空気の中、6人の恐ろしい話が始まります……。 グラフィックには実写が採用されており、より恐怖感を引き立てています。シナリオの内容は物語の途中で現れる選択肢の選びかたや、語り手の順番によって変化します。数多くのシナリオが用意されていますので、じっくりとお楽しみください。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-08-27",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/b8c4da6f91ee95e2a7d13e15b5c147ba6fc0690ab7a4eb65e5b5a9f791d7dfda.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/116b538996b8d4812515a9d204c63fdd2fef37434be04caf53aa13db15307718.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/4e248445ad9cade4306aaa8a57b0e6e5794651b31e5448b75bfea647b6e237e3.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0dbbdb9cb27c8894791a30b519e9f6dfd6db6091b679bc4ff4fedbe5bcf89269.jpg",
+				"name": "学校であった怖い話 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e6714c54537f91d15f09d53da91d680d50cdd5223b373ea12e8f3cae814bf67a.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/649d5c78f8686f3ad22f6b20ad21c6795b0c1ff8aa5cce56593bd3b16e74e5c3.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					}
+				]
+			}
+		]
+	}
+}

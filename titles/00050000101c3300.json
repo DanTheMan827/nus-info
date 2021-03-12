@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101C3300",
+		"eshop_id": "20010000015449",
+		"product_code": "WUP-N-DASJ",
+		"name": "スーパーマリオ64DS",
+		"platform": 169,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/94f1cdb3c8a6ca3f6785af722c02c36826a8e6f238d1775ebb6f155d0ce6f553.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d201833708095b1470b31aeea033d408b2e1bcbb5afd36ddc3d0f850215a0f2e.jpg",
+		"data_size": "54132856",
+		"description": "このソフトは、2004年に発売されたニンテンドーDS用の3Dアクション+タッチペンミニゲームです。 「お城へ遊びにきてください。ケーキを作って待ってます。」 ピーチ姫に招待されたマリオは、ルイージとワリオと一緒に、キノコ城へ向かいました。 しかし、いつまでたっても3人は戻ってきません。 不思議に思ったヨッシーは、マリオたちを追ってお城へ向かいました。しかし、お城の中には誰もいない……。 どうやら、クッパにお城を守っていたパワースターを奪われ、ピーチ姫やキノコ城の住人たちは絵の世界に連れ去られてしまったようです。 ひょっとしたらマリオたちも、絵の中の怪物たちに囚われたのかも……。 ヨッシーはピーチ姫とマリオたちを救うため、壁にかかった絵の中に飛び込みました！ ※おすすめの画面レイアウトは「大きい画面レイアウト」です。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-01-06",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/7696bf480ebe4df8c9e507cd9bc9ffc7b8992fd014c6ce19f11002c2cf70a479.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/322c6460dc60233aaa3b070cefe751ea5e145e3bbe1daa9917249c8445a6da49.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/dcaa2f98a6bd2c82ce79a4b1646ed1c6e46dec1c361962dc8463ca3461e0067b.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e0acb6aa040c9e07ec7a3990f5440a2aca5599b61fb606bbe5599e1d8509a64f.jpg",
+				"name": "スーパーマリオ64DS プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0d5eb001123925c726a6e1d550d1d6a7a8e305df427242ff2129d6bbd44610a1.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "65"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/84131421d9c58c041dcfecbdec9bcdab4c7e6f4c69391f57efff3adddf443ce0.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "65"
+					}
+				]
+			}
+		]
+	}
+}

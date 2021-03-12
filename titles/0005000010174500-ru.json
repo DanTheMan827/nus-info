@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010174500",
+	"eshop_id": "20010000012487",
+	"product_code": "WUP-N-FDDP",
+	"name": "Donkey Kong Jr.™ Math",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/74a29f562ca96f08c6486a63c80fe1891c250bbfea41fa5d04838ccf56ad8f98.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d98deededf63b162fc9ed10450ebcc9b1623eddcb8078a804c271907fed09813.jpg",
+	"data_size": "38699168",
+	"description": "Помогите Донки Конгу-младшему получить высший балл на уроке математики для маленьких обезьянок! В этой образовательной игре для NES хвостатому ученику нужно прыгать по лианам, собирая цифры и математические символы. В результате должно получиться число, которое показывает Донки Конг. Проверьте, хорошо ли вы знаете арифметику! Вы можете играть в одиночку или состязаться с другом в математической гонке. Покажите противнику, где раки зимуют: схватите нужные цифры раньше него! Если вы приобрели игру на Wii™, вы можете передать ее на консоль Wii U™ и получить скидку на обновление игры до версии Wii U. Эта версия игры предназначена для продажи в США.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-01-22",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/267abc27236b81121c621bb3faa52cafdb602cc638fec3acaffa271cd7ef1ded.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3a8cc940b1b679bdba246fc8fb1886cc969cd6f54dee3de42f00c88707ec2a60.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5c2a293530ec7f7bcba1383326e2244b9ff524429725612b7ce688dc1e9d6707.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fd2986ddcade2b9531ba1092db70483a709ab60db8203b4394a088ae6c9922ef.jpg",
+			"name": "Donkey Kong Jr.™ Math: видео",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5b9f4b3b2d6e556c9b7d433dc6ae590595eafd24aa862c5493fb33109f2172c3.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "35"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/aa7f276cbce647d1df9c34461d395c60f8171c82e1878fb08852ee9fd6a76739.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "36"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001015C400",
+		"eshop_id": "20010000009426",
+		"product_code": "WUP-N-PNRJ",
+		"name": "ビクトリーラン ",
+		"platform": 166,
+		"platform_device": "WUP",
+		"publisher": 149,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/356aa59f2d15d86b8f0bf48e332561408c95ada27a69a44455b6a28c90d6132a.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5e3a8a688e11e5863ef4f554faa88c9391fc8d1068757d893378e30e584bb058.jpg",
+		"data_size": "83755148",
+		"description": "過酷な13,000キロを走破するレースゲーム。時間によって変わる背景、溢れるスピード感、迫力のクラッシュシーン、エンジンやミッション類の故障までもが忠実に再現され、本格的なラリーを体感できます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-09-17",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/4207cd36dd5fa5cfff335850977a4d2d8a06ba568f40a06d05c1675f540e2966.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/883c5b278226f6722c77458d1b3026b962ac2db65672117754a7cf6f6d8c8c65.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/977b491adf51809eac7bc0effceba2a60b05f8c404fa2cf79548daabf1447f1f.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e29dca0fc68053a03199cf52988e2e0e4209af2ba487f8d4990ac06159545269.jpg",
+				"name": "ビクトリーラン プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3be97679f49b844cd706ce24ecf864e53a61a133b62f9916610540a608ff0733.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "50"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/905f0e5f1e95e2d783d31e86d4ff20373203c30739651218ec5bb9ec672ce767.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "50"
+					}
+				]
+			}
+		]
+	}
+}

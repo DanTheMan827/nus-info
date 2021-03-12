@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010133700",
+	"eshop_id": "20010000004545",
+	"product_code": "WUP-N-WCSE",
+	"name": "CastleStorm",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 582,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fac237a58f5dd26bbc9eefebf583a749539e1859feecc97fb33765b5fa2d9b10.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/668d27835e466a675d0ddc0adb67ccc56e1c9babda71c338f923603302f716e7.jpg",
+	"data_size": "326467724",
+	"description": "Welcome to the world of CastleStorm, a super genre mashup of 2D physics destruction mashed with tower defense brawler! CastleStorm was born out of the fond childhood memory of building and destroy Lego castles. The clouds bring rumors of war…It’s Knights vs. Vikings in CastleStorm, where medieval warfare meets 2D physics-based destruction! Controlling the battle in real time, players will harness the power of medieval artillery, manage a fearsome ground attack, and cast powerful spells! CastleStorm features a story-driven solo campaign, a custom castle editor, online multiplayer, co-op modes, and more. Building castles and knocking them down has never been so much fun!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-12-26",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/9a801022b88d68018edfe17bf7daa8be16ec93421cbac2a3bd3ba5955a66a5e2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/fe04579f46f2850f3433b116d6c10c361534e85fb985c63b41c0b2be894718f7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8f24c5b8cbdc4fbfb10fe2f5ee56750448f84af81b1539656ad1d867828a5308.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/829bae06392e40310fd4c705fdce8616bd7909a99e9c92083ac5c2a5900e9010.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f189b051720c036f8c976ababad9b0d27347a9393ba2e1d9463157f92e713f0d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2a4281758f27e6a9c2ac15a0595c652fd608389bc5364817823f630b1b8299f6.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a73624b5a18db800c1898980760027eb7691ca0256edcc73ca8eccacfc32136e.jpg",
+			"name": "CastleStorm Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0f1ccd10110994105a620da533e624c8842eda50ff9ba3dbd1e04fa11940a9dd.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "92"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2add0c17852bf63bd0fbb0640ac0adb2a23ddab0446913c04be39e856b0003e5.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "92"
+				}
+			]
+		}
+	]
+}

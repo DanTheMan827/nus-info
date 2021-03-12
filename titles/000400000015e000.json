@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "000400000015E000",
+		"eshop_id": "50010000038721",
+		"product_code": "CTR-N-JRUJ",
+		"name": "オーシャンランナー",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 882,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5b177cb5be2e8600769dad3790ba4f97cb711817a67feb4e5a5e9d0b69c063c6.jpg",
+		"data_size": "40692580",
+		"description": "『オーシャンランナー』は主人公の「ギルバート」を操作して敵を倒したり障害物をさけながら海底を進み、高得点を目指すスクロールアクションゲームです。 ある日見かけた「モモニカ」に一目ぼれしたギルバート。彼女の気を引こうと花をプレゼントするも失敗に終わる。ギルバートは彼女の気を引くために海底を泳ぎ、パール（真珠）の獲得を目指す。 シンプルな操作でギルバートを操作して海底を泳ぎ進みます！ ダッシュして敵を倒すとコンボが発生して高得点につながります。高得点を獲得すると「ストーリーパール」が手に入り、ギルバートとモモニカの恋の行方を見ることができます。 海底には「ギルバート」を炎に包んで一定の時間無敵にする「ファイヤーボール」や、トゲのついたアワで敵を倒すことができる「アワアワアタック」など便利なパワーアップが多数出現します。パワーアップを利用しながら海底を進みましょう！ 海底に出現する金色の「貝がら」は集めることができます。集めた貝がらは「海ていショップ」で通貨として使うことができます。「海ていショップ」には、スタートダッシュできるアイテムやゲームオーバーから一度だけ回復できるライフベルトなど、便利なアイテムを購入することができます。さらに、パワーアップのアップグレードを購入することも可能です。 オンラインとオフラインに対応したリーダーボードが搭載されています。リーダーボードで友達やほかのプレーヤーとスコアを競いましょう！ ",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-12-16",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a6c6f08519efc6ad0655bb40ec2aad75271ecca00a5bb4abe5e99ad07c647d2a.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/47ac3443a17fe7469d193a9367f0c75495f6e8596c6c790b1a313b5e08618c22.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/22f8961ac9338f2b7eced3f9cecaf2b18e11deec461debb5933d0ed37cc4aa51.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b0bece5a25b03e17f0d8c4aa93fdd38c8d26f5561a559ffffab2af543cb96c8d.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/83a1d2e41e173303e1a02f9decd94b1cffdb0b24d5c2945807caeb68f9d04422.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5c354b2986af2e7fdc8473099ca6d1fb230206451b284b1611d510cc7039e86c.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5f78e982592f084fd1b6f51272e55c8303b9acaabc5631fc69fe6b82bbd1bc55.jpg",
+				"name": "オーシャンランナー 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/238fb01d8021f6add45d2dd9391b5d3dca2c23d4cf0fe1a1bb934581e6a9e8f9.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "70"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2cf2f88ec740df9db09bab97f280af2e2e26aaf569a9926580a536e1f490dd15.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "70"
+					}
+				]
+			}
+		]
+	}
+}

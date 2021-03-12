@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010180200",
+	"eshop_id": "20010000011506",
+	"product_code": "WUP-N-PBEP",
+	"name": "Mega Man Zero",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 39,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1918316f7b287f55918ccdb330d270ba348fdf6aa3ca4b3b4d7b3e29e3466d1d.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/86c20e2e0fd8a49f932ee1217049ae9b8292e72afac8028d516b8211086c5f09.jpg",
+	"data_size": "90603640",
+	"description": "Sacado de su letargo un siglo después en un mundo extraño destrozado por la guerra, Zero se convierte en el protagonista de la primera aventura de su saga. En este juego, que comparte nombre con su protagonista, verás al guerrero cibernético unir fuerzas con un grupo de resistencia para luchar contra un enemigo extrañamente familiar. Esta nueva saga basada en el mundo de Mega Man introduce nuevos elementos de juego como los niveles por misiones y las armas que mejoran a medida que obtienes más experiencia, sin olvidar a los elfos cibernéticos (pequeños seres con grandes poderes que otorgan una gran variedad de habilidades de lo más útiles).",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-12-25",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/c0d846fcd4367f4b21d4d89042fa0909bc63b5e654de2dc33f4921b0f3411371.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0599f06cee9ddaf01e8b5479d79fc02ab5f71ccc7859a21792b94df1a9d0fcfb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4825d375daa55e0793c610671f34783913d3adc278f821c1ec35c76dd68983bb.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4bfa9fd6ff70f49edb0f2ebe389d1b6fa7083a5492433d217a10ff3003b03502.jpg",
+			"name": "Mega Man Zero: Vídeo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/625e304ee9af8f0a74235f2b0300bde2d3ebcae4f74be0f1a76be3dd437fda78.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "69"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9ff1aaae23084cb38f52c46587d01fde01728ef51a5af5fde5720e048d3bc61b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "69"
+				}
+			]
+		}
+	]
+}

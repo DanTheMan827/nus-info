@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101CC800",
+	"eshop_id": "20010000021007",
+	"product_code": "WUP-N-DAXP",
+	"name": "Pokémon™ Donjon Mystère : Equipe de Secours Bleue",
+	"platform": 169,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/75db52ec32b6b4c1e1fa57ddaba3768956f21cdefadec81d216fe307954e86b2.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/93e4cac50d30d3efecca775d2631fbd7dbdcc0d8b958183b69c3ba67a76be6fd.jpg",
+	"data_size": "55410808",
+	"description": "Vous en avez attrapé, entraîné et affronté, mais aujourd'hui, il est temps de découvrir ce que ça fait d'être dans la peau d'un Pokémon ! Dans Pokémon Donjon Mystère : Equipe de Secours Bleue, vous vous réveillez dans un monde entièrement peuplé de Pokémon et vous vous apercevez que vous en êtes devenu un ! Vous ne savez pas comment reprendre forme humaine ni de quelle façon vous avez atterri là ! Mais il y a peut-être une raison à tout cela. Vous comprenez désormais la langue des Pokémon et apprenez qu'une série de catastrophes naturelles menace leur communauté. Vous deviendrez alors vite ami avec un autre Pokémon et formerez une Equipe de Secours pour aider les Pokémon en danger. Vous serez envoyé en mission pour sauver des Pokémon pris au piège dans des donjons dangereux, générés de façon aléatoire (vous ne jouez donc jamais deux fois dans le même donjon) et vous affronterez des Pokémon sauvages en utilisant un système de combat au tour par tour.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-02-11",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/9dbe6ef3598cc5c72a0c16d00b5697e4adede71ddf3601eacaddb2873ace2538.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/10a85c74c8581e686f19eb00a47b21f902e672e11daf0954d4d7bb694656306b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/47969bb97f4ff691b3d47e9162ea636d66e20174bf56119a75dd6b8fe1fdf58f.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0c8f428a1a89ebd5114d0b8fcd0f4a9eb8e3117fadcae01fd1d19928c571e4a2.jpg",
+			"name": "Pokémon™ Donjon Mystère : Equipe de Secours Bleue : vidéo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3067494e9d99faa04c0787145d5b962371477a70182eabd13118b901079a86bc.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/814ec0bf0ea355a52dfe8ebb944a7605235463bf1ed95e45d963e2e639b31c27.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				}
+			]
+		}
+	]
+}

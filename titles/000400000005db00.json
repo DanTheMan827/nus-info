@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000400000005DB00",
+		"eshop_id": "50010000008441",
+		"product_code": "CTR-N-JCKJ",
+		"name": "鹿狩王",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 19,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/230598ca19140eca2ee2539cf8ec08494d50b0f244af5230ad489aeb07f3ba04.jpg",
+		"data_size": "35502948",
+		"description": "「鹿狩王」は、雄大な自然の中で躍動感溢れる動物達を狩っていく、ハンティングゲームです。 ボウガン、ライフル、ショットガンの3種類の武器を使って、鹿や鳶、熊などを狩っていきます。 照準の操作はジャイロセンサー操作とスライドパッド操作を選ぶことができ、ジャイロセンサー操作ではニンテンドー3DS本体を傾けて照準を合わせます。 ゲームモードは、 ･ひたすら高得点を目指してハントしていく「インスタント」 ･設定された様々な条件をクリアしていく「ミッション」 ･ローカル通信による対戦プレイが楽しめる「バーサス」 ･現実世界を背景に狩りが楽しめる「AR」 と、豊富な4種類が楽しめます。 立体視機能に対応した美しい自然のステージで、\"狩りの一時\"をお楽しみください。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2011-12-28",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c20666abe48cbb2810fd9e8558790df17beac62f9def38e91301efc7dd9f141c.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/54bf1ce38f842aec59f21f6a6b178bf536fa97f668d91021318e8ce4025ebe22.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1131e4ea8213fb88d072cd2f50b9a50bdae4b15a6ba23929bbd46c06662c4bf3.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/200d56a2dd241cabcc38a91bbca62ad60f84bda15ec5663be1ed2daf5d2abc72.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8b54aefcd7debd26a66ffa18c23e46624c8996a13b24404fe9f5e6386b7c4b05.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2ae87a24cf0e5f96489611d5e50354c94ebbd7ab0b94c5d639cff1a42ad5599b.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/33ba4920294e2a3fba2c1e8ac6ef38435004e349483c1f42622251541515ee33.jpg",
+				"name": "鹿狩王 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/90cd619a00d9e5d8de8c44ddf9f011af5659f31df4843580b66974dda057e670.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					}
+				]
+			}
+		]
+	}
+}

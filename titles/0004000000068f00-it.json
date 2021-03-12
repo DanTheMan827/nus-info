@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000068F00",
+	"eshop_id": "50010000008021",
+	"product_code": "CTR-N-JCAP",
+	"name": "Pullblox™",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3042b1203825cd737cb1116a4097093cbe4c694947ff1d9f092d70725f7b5536.jpg",
+	"data_size": "21076836",
+	"description": "Pullblox è un platform rompicapo unico nel suo genere! Divertiti a giocare con i tuoi amici e metti alla prova astuzia e creatività! I bambini del Parco dei Pullblox sono stati intrappolati all'interno di blocchi grandi come case: i \"pullblox\". Ora tocca al piccolo eroe Mallo salvarli! Arrampicati sulle strutture spingendo e tirando i blocchi, poi usali come gradini e salva i bimbi in trappola. In caso di errori, puoi tornare indietro nel tempo e tentare di nuovo! Avrai a disposizione più di 200 pullblox e potrai anche crearne di tuoi grazie al Pullblox Studio, per poi scambiarli con gli amici via QR Code™.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2011-12-08",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8908c5f628fa404329273c8122bb01f6e0016ebdb7b3d505e6c0b3aa4a4d7136.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ae2a98ce1f5fbef55bb2b05dbe0b6958992cbf3d11343790d6a6b6a3877926be.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ed17be89e7cbdf49fe438e7b5081b26d8cc330b8ec155f693e09c0a8db3b5d07.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/bd9509484391e7cbe75deaeb7499abaf1dca0eac4603eb9a4ea5bc148c25fb1d.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2d1da99db68230e9dc96fce1b0503d5d065418641bdfa8e954e76e264dd14e12.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7a1feeb30f07ec2f6c789961605becbecff078a9164aa60470b909d335588fca.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/273047eab90e837416ee1f6eb174c72622d0ef70da2a6ca13d75a0cd9dae48dc.jpg",
+			"name": "Pullblox™: trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/dc84f6f56948ff45bee591607f7f9dcb76bf87eb0aee22ca8a5c9e75a0879faf.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "84"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d7e131b0bc2f902ab363e966a415f8621e375c41398488e3ea49dec2d8ea9e3d.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "84"
+				}
+			]
+		}
+	]
+}

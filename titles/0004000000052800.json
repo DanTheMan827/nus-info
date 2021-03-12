@@ -1,0 +1,69 @@
+{
+	"JP": {
+		"title_id": "0004000000052800",
+		"eshop_id": "50010000006762",
+		"product_code": "CTR-N-JMPJ",
+		"name": "ミステリー P.I. ～消えたフィルム～",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 110,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a76c94f5d11efb79daf4dbe196181c1696df8c0a54eef206ae3d8aabe6a458c4.jpg",
+		"data_size": "81398628",
+		"description": "『ミステリー P.I. ～消えたフィルム～』は、現場に残された証拠品を探し出し、事件の解決を目指すアイテム探し推理ゲームです。舞台はハリウッド、超大作映画の VIP 向けプレミア上映会の前日に行方不明となった映画フィルムを、あなたは私立探偵「アンリ･クリスタル」となって探し出してください。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2011-06-07",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/4f169d961184fd9fcf725989165bac887aab54f1091726e8f5a976f4140d1280.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/be9be4bdb5742e5f402771dccea22e7f2e60a34fdfdcb5d3ca4ecf9f915608da.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ce7281afe749ae865cac0a4b5b3219cef185199bf22d86dc731d4b6694cdd4f8.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/62718da6d46a4e684bd10b3fe2da80f9464aeaad4c1c50453c30d19284c865c7.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a5f43a36eaffb2c7e5f05679caf56025c351c190ea988001015f41c06000d86a.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8165b919097de54e991ee90576df26663cc29e89270eefda79fe59ac2cffb309.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0201a62f039c8d16a352eacbc6871d11a8ebb1fb688ff78415e79645c088aed2.jpg",
+				"name": "ミステリー P.I. ～消えたフィルム～ 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7cbbb948cdf41af2ab1947711adbcd8ddb2442d53bdd7f692630139d76eb6286.mp4",
+						"width": "640",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "66"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/eeb0308b7d53bfaea00053eae482be3434d83a753d23f73f14c5ba4f1afa16bc.jpg",
+				"name": "ミステリー P.I. ～消えたフィルム～ プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/15d2c735955ea03528af1697908c8eb8e6655560f87a064865ee07c261adcbb7.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "44"
+					}
+				]
+			}
+		]
+	}
+}

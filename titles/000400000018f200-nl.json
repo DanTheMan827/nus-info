@@ -1,0 +1,109 @@
+{
+	"title_id": "000400000018F200",
+	"eshop_id": "50010000041963",
+	"product_code": "CTR-P-BQ8P",
+	"name": "Dragon Quest® VIII: Journey of the Cursed King",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/62bfb903a0ace05ec9144dfbe48e27551de2a20968de7e88f64f6f63012776bb.jpg",
+	"data_size": "3199757156",
+	"description": "Het avontuur begint zodra de nar Dhoulmagus het kasteel Trodain bezoekt en de scepter van de koning steelt. Met de scepter verandert hij de vorst in een trol, de prinses in een paard en de andere hovelingen in planten. De enige die de dans ontspringt, is een schildwacht. Hij heeft een eed gezworen om het koninkrijk te beschermen. De tijd om die belofte in te lossen is aangebroken...",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2017-01-20",
+			"retail": "2017-01-20"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/df9b9e09bf78a6072b090300553ea631e3185119fa8880a3825674e53d55df57.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b8fb3306b0e01cb494ee081af4bf7304f6a0b39cb92ba5a8a56cccfd5b01679b.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2c2e533cb0db24a10d5a7ded09d28ece0fc34e1958842c9194b7612b32ff9304.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/81eb686dda6959937a3818bd7426ea202605750e768987a9f78c318241b655d6.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/720e2faca7acaed4bea1b9b307cea05b8ebc5f10c4e72cdb14ee1dbeb68def84.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4787ca2ff945a32d81ddf517e63bf601680b246c108b529a59be278464187212.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/557dcbc50557bd5bb441158859a9ef89ce068e13c1402e72ee6f573b6739a313.jpg",
+			"name": "Dragon Quest VIII: Introductietrailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4834d1f50b38999dc0cf1622a9a201aa0f1c889b14c4d693dbd910ca8917734a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "155"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2dc4731aa7646b9dc9c07b6b170c5976b9adeb188da444fd500cd808c2e3e710.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "155"
+				}
+			]
+		},
+		{
+			"banner_url": null,
+			"name": "Dragon Quest VIII: Trailer van het verhaal",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/75f67e2ee955dc92bf18fdc656e340c829b3bdc695c9bc1d514fd1292e988b3f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "155"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fbe610f1a090cd1da899fd21871b2ba07c3edbea65074a32e0a4881b4416a3fc.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "155"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/557dcbc50557bd5bb441158859a9ef89ce068e13c1402e72ee6f573b6739a313.jpg",
+			"name": "Dragon Quest VIII: Nieuwe content",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/89bc9081338ef6a46811a7fc7286a43b3431aef09dc902320003041979c3d3b3.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "138"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9032e1cbba985505def373c0687cac0529377cb380ca5b03c5924e76f62df119.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "138"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "00040000000F5400",
+		"eshop_id": "50010000016334",
+		"product_code": "CTR-N-AEJJ",
+		"name": "パックワールド",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 27,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6c7a6d3afe549b767c5407121ee82cf3c9b51db12eb597c1e002563e6b3a3efb.jpg",
+		"data_size": "132934500",
+		"description": "生まれ変わったパックマンがゲームでも大活躍! ボタン連打で連続カブりつき、クセになる爽快感! 連続カブりつきが新鮮な食いしん坊ヒーローの「横スクロールアクションゲーム」。 ●アニメ「パックワールド」の大冒険がこの1本に! パックマンを知らないあなたも、知ってるあなたも楽しめるぞ! アニメとは異なるストーリーのゲーム「パックワールド」を楽しもう! ●カブリつけ! ゲームでは、アニメ以上の大活躍! ボタン連打でゴーストに次々と飛びつき食べまくろう! 連続食いで、爽快感も点数も急上昇! クセになる楽しさ! ●6種類のパワーアップ! アニメでお馴染みのパワーアップで大変身! ファイアパック、カメレオンパック、メタルパック、アイスパックなど、6種類のパワーアップでゴーストをやっつけよう! これらのパワーアップは、アイテムを集めて強化できるぞ! ドラゴンなどの巨大な敵にもかみついちゃえ! ●アニメでお馴染みのキャラクターも登場! パックのクラスメートのメガネの女の子シリー、力持ちのスパイラルなどの仲間たち! パイナップルタンクやチェリコプターなどの乗り物! ゴースト軍団のボス、ビトレイアス! 仲間と一緒に、新たな敵から、パックワールドの平和を守るのは君だ!",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-06-19",
+				"retail": "2014-06-19"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1e32a59e31064fa1977eb6585cea4537cca886b8341d9a2b9a95acfe0d3e7a64.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1b021ea01bc59bc204ae789b9ee87cfa25db7b0235e27570acaa9419025332c8.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ecc29fb227246a171711f5be395ec20298357343ced3ce61ddc248090f38646b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/dae463f67fabe0ef76202bc0cedd0cd4639400b4477137b17ae786bbd4d5afd4.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/799ae738b11e91cacf98dbc81352cf5708d837d2f7e1146a5b77120bb976ba11.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ae3cffb604888e31beeb81e422664c294939cd37f34de89fa1345789db1f41e7.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/394bd82a1f97373beab4c8a3ae74617763437bc54cac623c54c96bd1a271c89e.jpg",
+				"name": "パックワールド 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b56bc1fd3e64dd895f7faaf3217b6a72fdfea0673c3020d1c90d9ef60648a980.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "100"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a47f5529f38f3c401ac0fd707470ec876cca47c442c342ee65a1f1f06d9dc011.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "100"
+					}
+				]
+			}
+		]
+	}
+}

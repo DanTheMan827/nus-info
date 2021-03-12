@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010149E00",
+	"eshop_id": "20010000002725",
+	"product_code": "WUP-N-FBNJ",
+	"name": "ピンボール",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2f8ad48330bab31cd5f4478e622a81eecae0739b6e44909d9dfe2dee675f0dc9.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a5a65793eef6d754b893aa31b659a90e1f78d193c63835a88cd445455c6f38ba.jpg",
+	"data_size": "36503692",
+	"description": "このソフトは、1984年に発売されたファミリーコンピュータ用のピンボールゲームです。 ボールを底に落とさないようにフリッパーで打ち返しながら、台のさまざまな場所に当てて得点を稼ぎ、ハイスコアを目指します。ホールにボールを入れると、フリップの代わりにマリオを操作する特別な台に移行します。ビンゴランプを揃え、落ちてくるレディをマリオで無事受け止めると、ボーナスポイントを獲得できます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-10-23",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/27ff9f42b36eb17182ae6fbea18c26f2d45eb289d4a51430976f40ac552bb3d8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7e0a1c9393f8d5912ef27ffc89bd452c9018753c7e107669478e6d82da1689d1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f1549b1c0185ea51dc7b8a2fa5d946e5fb198e1449e9100f6e76fee6b19c2d4c.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b321a36d4db2e806c71bcae188f15a33af474b667008054c1ff2344aea4b0a1f.jpg",
+			"name": "ピンボール プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/af28861845bfb51bed36a864d0add8593c0117fa25efe34249c617c9b0c88750.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a5bc8115d57667cdef4f811bea3a0757bf2fda6b0c3f4ba327956a917d6a29cb.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				}
+			]
+		}
+	]
+}

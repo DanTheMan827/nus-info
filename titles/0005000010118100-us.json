@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010118100",
+	"eshop_id": "20010000004006",
+	"product_code": "WUP-N-ABBE",
+	"name": "Barbie™ Dreamhouse Party™",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 1186,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/032e9032a6ea7737c53e58ee53d9a630c4344164740e7f54c7abe821d7fe44a2.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4a981b5c0216e9e0f25c566382524b8bf213e1a88a97e38942ebbc22b35e24f8.jpg",
+	"data_size": "2342355244",
+	"description": "Raquelle™ flipped a switch in the Dreamhouse™ that turned every room into a party game! Barbie™ and her friends must play their way through the house and turn things back to normal. Explore the Dreamhouse™ and play fun mini games. Collect fab fashions to dress and style Barbie™ and her friends.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-11-19",
+			"retail": "2013-11-19"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/ceab415cc1c0e5e9d614761dac2979fb5ca5537a062a2c4fd01ddec0154641fd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0ee19cd6c128815569a7d605bd7c45c93621066f7b6525c50e231472e27b1524.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5af483ac8b8c6a72f228f6f7560eb26ec19de1935eb30fbea368ba7d78544fb0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/799c43348235d1310f90cee4809ce1a771f7e975ba687f0afc3b73c98444e721.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/daa1d771bdddf69f2754459e1474d8314132e809c67460d9ccfc36af9d326702.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4c225f4bdef245a717cbddcd111cc1c431c29a74ae3e0ab0176c5cc364846a56.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8034eedfbd91ccba42780627155c22afd76b6ddd2b49df01de08892c7d06a5f7.jpg",
+			"name": "Barbie™ Dreamhouse Party™ Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0fbea13a7aaf9ee1bfb968281b222471d48002a0f7db1644d4e2a2fbe4b9f8ff.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4e570f51004a223cd8201fe29bda5f56573919479168efdb3e72f2d83d172d9f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				}
+			]
+		}
+	]
+}

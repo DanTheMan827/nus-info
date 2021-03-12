@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000104800",
+	"eshop_id": "50010000017802",
+	"product_code": "CTR-N-BBBJ",
+	"name": "メタルファイト ベイブレード 4DxZEROG",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 409,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/89b7397094e9d44de1d6f3eb11df3ab804ba33f0f4ff8b09ccd76c5c5b68f0a2.jpg",
+	"data_size": "247196516",
+	"description": "2016年8月17日(水)17時に、本ソフトの配信を終了いたしました。 ------------------------------------------- 700種類以上のベイパーツが登場します。 リアルに再現されたベイパーツを組み合わせ、君だけのベイブレードをカスタマイズできる。 ジャイロセンサーとモーションセンサーを使ったユニークな操作方法で、ベイブレードとベイ魂をシュートし、トーナメントを勝ち抜きましょう。 ZEROGのベイパーツはゲーム初登場です。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2014-06-26",
+			"retail": "2013-12-19"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/cc5325251445027d52f1aae3401626aca0dfa3d10c5f37f1d45ddd1ad6551e23.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6db23bdfe02419cab03937c5f554b25b2a6b21ed86d088d079ff4246aa3af935.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/01c615847ba35cc4c66b8caa280bac18e8b1adac5e5ac3e8f476a673117b267c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9b94ed0ce92224fbae4d4f5b06535a2da5df9bdb6d2ac35d8b1d33adb1009d37.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3d9299187a2e614faf0f9a32be7140cb0db3522730a5c40f41bae311f317458a.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/59c3962096a7f01b1180d5714e63810b6b7a83a1406dc2994a67ae637d444f5a.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7c60eeac4d9d37e9130d802b51f4e77187fb2b9db79ada200c633ce5ccf9fe05.jpg",
+			"name": "メタルファイト ベイブレード 4DxZEROG 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/390b145b81e8ae4b918dcf09a92b6a339cd08249a2d77703d098255bc3ae1a8b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "114"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/91373b0306c3c0c98c608ffcadc4425827cf2c125ba62e84e5a1047b6a171a35.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "114"
+				}
+			]
+		}
+	]
+}

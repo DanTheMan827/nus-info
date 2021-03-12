@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000103A00",
+	"eshop_id": "50010000020534",
+	"product_code": "CTR-N-JDYJ",
+	"name": "@SIMPLE DLシリーズ Vol.25 THE ソリティア",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 57,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/13610f71da67b8d59db6c6e39f22d6b3f93a051949857db31452048e3ad1e9cd.jpg",
+	"data_size": "57531236",
+	"description": "『ソリティア』と聞いて誰もが思い浮かべるカード遊び、クロンダイクとスパイダーを1本のソフトにまとめました。 クロンダイクは、1枚めくり、3枚めくり、スパイダーは1種、2種、4種のカードを使った3つのルールで楽しめます。 難しいのは苦手という方は、ヒント機能やヘルプ機能を使ってみてください。手詰まりになることなく快適に遊ぶことができます。 慣れてきたらクリアタイムの短縮にチャレンジしてみてはいかがでしょうか? 時間を忘れて楽しめること請け合いです。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-04-02",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/447b514d31800597e9c976661bfb18af07cf3ded85fae483a9740d132c5549d8.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/fc8497bfbbbd6c8d0fabc48701430858131af5dcdf57536ac9aa953d8629d5a7.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1597e12398e6d4c3f698030f823a93f6489996303c8a491d0fc3754d7ca9cb5c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/cfdece7c1cf67c171f73f0b2e3032b17f5575ec9779a22a6d94a777318198a21.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/97fb6ac81439ea97613fc4a558f48582c66e79858d767754ccdb57bfaf9a4dcb.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/67b72bcbe764ecc1c2cb7a14e49b9a7ba5731c41bb96c4d834c83fb1fc1ae997.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e2d5a7c783df1ced7888b073c754dd1be434685d10a4a3f5c21d3624a8921ce0.jpg",
+			"name": "@SIMPLE DLシリーズ Vol.25 THE ソリティア プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/68bfff613e6bf9383771963bfe0cc625f5f00aff86efad149a4c4ceeb3ec9b98.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a54b2505a6271d842d3036cbde86cc5cb5a452a66c6e4d7116b0104225dbc977.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				}
+			]
+		}
+	]
+}

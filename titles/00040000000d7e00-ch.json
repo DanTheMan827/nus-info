@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000D7E00",
+	"eshop_id": "50010000020194",
+	"product_code": "CTR-N-JNUP",
+	"name": "Steel Diver™: Sub Wars",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0c7235dc20b816c7ff3850d0906b920fc7b68b03b27e5148918c2cbe71d053d0.jpg",
+	"data_size": "205773668",
+	"description": "In Steel Diver: Sub Wars erwarten dich strategische Unterwasser-Schlachten. Du stellst eine schlagkräftige U-Boot-Flotte zusammen, um deine Gegner das Fürchten zu lehren. Du steuerst dein U-Boot aus der Ego-Perspektive, wodurch du die volle Kontrolle über Geschwindigkeit, Tauchtiefe und Fahrtrichtung hast. Mit einer ausgeklügelten Taktik und Durchhaltevermögen kannst du jede Schlacht für dich entscheiden! In der käuflich zu erwerbenden Premium-Version kannst du in sieben vielfältigen Missionen bis zu 18 einzigartige Unterseeboote freischalten und kommandieren. In der kostenlosen Version hast du die Möglichkeit, die ersten beiden Missionen und zwei einfache U-Boote auszuprobieren.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-02-14",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ac80005e63f6bd9766cfdbeed042fecab5f5c964071f484e1feafc0c18254dcf.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1ec095b8e5f97a0de540b4aaabefbdfc8512aa0aa182a9e502be15cb700dc6c7.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8faad60e8e764d259b3a4c6feb9070d7764424a33a54b29a48ca00c0b49e4ab4.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f1e2374119e908ab354c0bc400636fc4768a60b17a748dd69ea60ea1b6118ff7.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/213ecd6f20f34a15625ad73a66f55a9b11a4e5670619a41f48ff546d9c314336.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/dd4d5062a7e98095d35e975aaeda8cd0be878f20c73f451e8cf8370919ee19eb.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c62fc140a57119b2fb6a219cafa042007e6c0b101fdfbf44a55f50a90bc53cf9.jpg",
+			"name": "Steel Diver™: Sub Wars: Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/76117c5c7f18cc5cda9908585bfac21722d31f3184efda6c189d2efd2472a11e.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "111"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/71ece963e50a13dbb3802051bac006775de0d5669835c9b180a3435e4ad2f6ad.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "111"
+				}
+			]
+		}
+	]
+}

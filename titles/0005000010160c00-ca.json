@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010160C00",
+	"eshop_id": "20010000009247",
+	"product_code": "WUP-N-FCSE",
+	"name": "MEGA MAN™ 6",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 39,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/109d69e30f54d30b09bcab576d3bec6553f901c3a0f74ebd9451dfe057189f37.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0fd508d7f035d51475d64a09532d1d4123b988979dc32ea355a1116615d7c8df.jpg",
+	"data_size": "36765836",
+	"description": "From the United States, Canada and Japan they came. The world's premier designers and their finest robotic warriors traveled to do battle in the First Annual Robot Tournament. On the eve of the Grand Championship, the mysterious Mr. X announced that the entire tournament was just a scheme to get his hands on the world's most powerful robots! Mega Man must battle through 16 levels to defeat this ferocious new foe.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-08-21",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/2c55c20efbe569d6fec7e2d8c5e5983bf4da0fcb0beb290e3c3e494624e763d4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d6356447a381ca2cb555f14e2d98d1d661b2f1b2941ee631092f912d4095eae6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/80160273748f68fbad6abd5941232711f40504ff838e05e42cb27ba0e22b0a25.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/48fd17f943890a6984b7eb3cb8f6b25dccda13108e434bc150cfacbd466824e5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e5f689526d3671b195b5bc6432d3e46b78a0e22126c83519bdc71a2aec1ebeae.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7d6f3e8935bb6b21b6b65a358385a6c665465fc823263821d297d3ea5e3fed35.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3c395f4b9c05a8e51bb639ec6e9055e47046d2f551437e48adf83e35bcb082c9.jpg",
+			"name": "MEGA MAN 6 Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ca8df9ed2dbfad986a57eb7d9d63a513d6510d4c72e2243aadc82e153cbc7187.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "51"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2fd648bbfa3a5745b07fed2d274098f13425fb8c5f45b9b5d7dca2680438717a.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "51"
+				}
+			]
+		}
+	]
+}

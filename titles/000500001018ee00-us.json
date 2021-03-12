@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001018EE00",
+	"eshop_id": "20010000013547",
+	"product_code": "WUP-N-ANTE",
+	"name": "Don't Touch Anything Red",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1377,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6e593dc33c99cd84120a97473e942fbd6c36a0ee57d8b17012f98df11508fe42.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8b709aa61c025dda00f5e1df169a40127795baac50c9560c00eb7d7e2b11c5a9.jpg",
+	"data_size": "302645408",
+	"description": "Jump, dodge, and control the direction of gravity to survive for as long as possible in Don’t Touch Anything Red, a brand new autorunner for Wii U™ from Helix Games. Red things move fast, so you need to be quick to move out of the way! Dodge on your own or with up to 5 friends with multiplayer. Play on your own with the Wii U™ GamePad, Wii U™ Pro Controller, or even a Wii Remote™. You can even play without the TV, with GamePad-Only support, so you can still keep control of the leaderboards… even if you’re not in control of the TV. In multiplayer, up to 4 players play using Wii Remotes or Wii U Pro Controllers, while a fifth player can cause havoc by using the GamePad touchscreen to craft the most difficult course they can! Choose between either a 4 vs. 1 or a free-for-all versus mode. With great music from the chiptune artist Kubbi, fast-paced gameplay, 5 player multiplayer, and unlimited replayability, it’s a lot of fun! Just make sure to never forget one thing: DON’T TOUCH ANYTHING RED.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-03-12",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/5c09a42a6e287f235dff6a2d136bf811ac9fe89647a3143bd99b2b7c0c7151ef.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/11e95c5818800a30edd6f8fc4421e11a917ea0ccfdc2fa329d8a5f217d0e490a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1fab99634ac381779e2ca5b51e8a664ae2a4c5b5506d15a56d943bc0b06965d7.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b58bc1191bcec74ff013bfd010d35821187c9cb75cb28b1d00a354ade824dfb4.jpg",
+			"name": "Don't Touch Anything Red Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a04d51f9c5a76da66bd9e7492a6412235576f8c354f1bdddaa1035e9d6bde5f3.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c4556ee19f063f6db0cd297b198fb88fdb49f68e7e8781573cafc23bd81d2f8b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				}
+			]
+		}
+	]
+}

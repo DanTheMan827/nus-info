@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000112F00",
+	"eshop_id": "50010000022025",
+	"product_code": "CTR-P-AE4P",
+	"name": "Inazuma Eleven® GO: Light",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9ffaf70e7a3f1896d0207ff4ca700b68979091d089efabf8f51d240a0a5464ad.jpg",
+	"data_size": "3082156900",
+	"description": "Эта игра доступна только на английском, французском, итальянском, немецком и испанском языках. Соберитесь с боевым духом, потому что команда Raimon Jr. High снова выходит на поле! Новые звезды футбола, новые движения и совершенно новые приключения ждут вас на поле в играх Inazuma Eleven GO: Light и Inazuma Eleven GO: Shadow для систем семейства Nintendo 3DS! Итак, если вы — фанат футбола и считаете, что сможете выбрать лучших игроков среди тысячи претендентов, зарегистрируйтесь в игре Eleven GO: Shadow или Inazuma Eleven GO: Light прямо сегодня! На поле!",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2014-06-13",
+			"retail": "2014-06-13"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1e2cbb57956ba4088ae424f9b7613a1cbc639a7753198f183277e745ddd44909.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c3e8ba4634f2d7c4ac480a6c20efe1f1461659622c1af17e128e40851d23f014.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ae22e5b72d6a0617ba45c6136091019af69c06e932ae8b592174d2663719760a.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8c921c1ca3697b98a2335013e43b168cf374461b3ca3ddea558dde0dac61fd82.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/21fb64f34235d82d44e2223b266c28e6f8c10ab400425795f42febf9783cefac.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/545753cb2bbe24494ad05f4c1cb474244717d35eaf91aa22016b5bf58128751b.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8d84ae16bb763191f68535e2b5816b518aee94125fd8f9f841aab48d9635e67d.jpg",
+			"name": "Inazuma Eleven GO: трейлер",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b420981fbc49ad24b5fedbe70efd4d921d1a05297db7543dbd68c258ab193d0b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "139"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/43a1b87efe8ef0a6a9336b76ea0c052173095da1c2faeb39ac89f1fa73e6b4c2.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "139"
+				}
+			]
+		}
+	]
+}

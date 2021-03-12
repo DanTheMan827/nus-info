@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101D8B00",
+	"eshop_id": "20010000018207",
+	"product_code": "WUP-N-AP8J",
+	"name": "ヒラメキパズル テトグラム",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1292,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c97c7130a6d8f1adbc74927c667bee3f0e3be3b56af48f996ac79348c58c6155.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/bc5e7d7c87f25de00621b32ea426473742209e9564d38b66d27d0dcc621edcb5.jpg",
+	"data_size": "64487584",
+	"description": "指定されたボードの空きスペースに、タッチペンを使って、すべてのブロックピースを「移動」「回転」「反転」させながら配置していくパズルゲーム。レベルはビギナーからマスターまでを設定、また「動物」やほかの形をしたスペシャルステージを含めた合計75以上のステージを収録しています。「Wii U GamePad」でもプレイ可能。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-09-30",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/67480e8add18af6ff0abfdcf91e25c72c939ced5bc8a58edd11a207b2e947ef7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ee070998e87a6644d619607b8619d26232cc637972b19b9fefea9250afb6f780.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5b74b63b002b47ad26647b88c259829a12c7747024c2415abfb48c4d3bcf9f61.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ee8cc22dbe7c55ce830503a9969109df94aea95212ca8588d6cc228a9bc39fa9.jpg",
+			"name": "ヒラメキパズル テトグラム 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/db59bc2b4225f60bf7af24d04c862def1762df0e4c7c3e685d59a6b5b230030b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "80"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/85235aadf3ee47cf43831d87b6df44327b04c42065ecc99798141d0864ef90d9.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "80"
+				}
+			]
+		}
+	]
+}

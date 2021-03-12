@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010194900",
+	"eshop_id": "20010000010728",
+	"product_code": "WUP-N-MNNJ",
+	"name": "けっきょく南極大冒険 ANTARCTIC ADVENTURE",
+	"platform": 167,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/42253a8c38417d94c80260ff1bde791d7daecdf9afe1e3d55b7b720dd3745a27.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/39c8e7191db2459680d0a0d13529097821d55d6da0d2ffcc4e14fde55637da24.jpg",
+	"data_size": "78741644",
+	"description": "本作は1983年にリリース。プレイヤーはスケートをはいたペンギン君を操作して、南極大陸一周の冒険に出発します。 ゲームは強制スクロールで進むシステムとなっており、氷穴、クレバスをジャンプ、アザラシをステップで回避しながら、ゴールの各国観測基地を目指します。 制限時間制をとっているため、各ステージに設けられたプレイ時間が残っていれば、何度でも挑戦可能。誰にでも楽しめるアクションゲームです。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-11-19",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/da815538a9023f4b401b86ec3c8322fdc927540cd61a059e1a0bb08351b4221a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/07dd3db5810c8c4823d56b3bcf6c4e08b0a268290616a598f652ec4f5ea52a66.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/df901fcb46a15f46fa5aa4013d1337ad5baf1b6b94fa5cc227d36b2a25042de6.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1939877f0eab89b834940c1e8a92c7b23ebbad17f33e1d86add0864f737cac24.jpg",
+			"name": "けっきょく南極大冒険 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cc5b9bb1c7f2810289a01054af23f12c4cccd2b98b928d2da321e8ffbfbab7e7.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "42"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2d3cd920c70096a5df0175d86550952443c3540ea3f841dce933f6e367b8a498.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "42"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,76 @@
+{
+	"title_id": "00040000000C9500",
+	"eshop_id": "50010000013111",
+	"product_code": "CTR-N-JMYJ",
+	"name": "peakvox ミュウミュウトレイン",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 90,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9b27d7506b82b07d9a923cb6585a88777605005cbcb9b4dcdd6a9c44080c0dc3.jpg",
+	"data_size": "19929956",
+	"description": "ダッシュとジャンプだけの簡単操作でゴールを目指すアクションゲームです。 逃げまわるネコたちをつかまえればつかまえるほど、猛スピードでかけぬけて行くことができます。 ゴールタイムのランクに応じて手に入るメダルを集めて、さまざまなアイテムをアンロック! ちょっとやそっとじゃ攻略できない全30ステージで、すべてのメダルを手に入れよう! ほかにも、Miiでプレイできるようになったり、すれちがい通信で他のプレイヤーとベストタイムやゴーストを交換できたり、いつの間に通信でpeakvoxからお知らせやゴーストが届いたりなど、やりこみ要素が盛りだくさんです。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-01-30",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1762a449089d5a46a7201461117ff0d44da878a5593d511d14c9cb15a36da4fe.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e1701683454eab7da4873568703d0fc247760fc3e4f922a953452c30d022ec90.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/845441515d95af677847f9d9bb66f46ec35c906d62873ad02eb74d597730b9a4.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/69602d0fbb802eeb16f73875adcf1678348551e079e673517b0c6ac9f21ad858.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d0fd1977f5b0611d9e0a27cbae907fdd43a17ca1d7754a1b12f7958aba83cac0.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0af5c6a8561eb6ee90f57568f3d64ea017d92595fdc3ba1b21aeffdf4232cd3a.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/173bb83314a944742175f40b074ad658f0558e72644af6fa5c8aa2f2f08e8668.jpg",
+			"name": "peakvox ミュウミュウトレイン 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6524a9cd61dd17a6b0d47ac652fd8757e57dd00a23662d116b7172fe3e75719d.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "91"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f588851d4c344bdf44282382743256fa2a4202214abd3b3cfc78a4bc22cc5a91.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "91"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b68aead696017190dd16f9ca478c0142e55fec7371c87530b17dc95d2db24845.jpg",
+			"name": "peakvox ミュウミュウトレイン プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f241af36e95bf1bfccf3c9d26477ed38d83508a6b16ac554de7a99f1eced3a9a.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001014A100",
+		"eshop_id": "20010000002768",
+		"product_code": "WUP-N-FBPJ",
+		"name": "アーバンチャンピオン ",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/40dd3aa208334296beca2ff643f3c72d9afb1d256fbbff838f7d409063479a23.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/17866c60a1bf7ae4511068ef19faf34f0842ccc75e55dac2c04b999abe2cf864.jpg",
+		"data_size": "36503692",
+		"description": "このソフトは、1984年に発売されたファミリーコンピュータ用の対戦格闘ゲームです。 「アーバンチャンピオン」の称号を求めて、ケンカ自慢の男たちが都会の片隅で1対1の殴り合い。素早いパンチと強力なパンチを上下に打ち分け、相手を画面の端へと追い詰めていきます。残り数が1になるとフタの開いたマンホールが現れるので、相手を追い詰めてマンホールの中に落とすと勝利です。建物の窓から落ちてくる植木鉢が頭に当たると、少しの間動けなくなってしまうので要注意です。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-10-23",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/9594b5cd26e9998e5676a2347fe08f06c707e3caaa769cfdf6178f0d98620fc9.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/762a17a32cfd009d420df17bfc20ab7236076bc3764ccc9fac48fe8aac77c2c6.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/f302fb5999796a585aeceb7b2284ee507c17d7c65f7e798b1aea0ff697df4858.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/76711d8a9789d7aa943bc91ae61583799f1b013d9f866e8338ce17fa42dd4c9c.jpg",
+				"name": "アーバンチャンピオン プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3955930fc5e4eb6c2cd73e3536aa72af502c823d92796dbc5d9d33b52d9f55ff.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "44"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6f6dd0ebc8aea230a4898201a902cf730a0738723721894ad054d1258601218c.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "44"
+					}
+				]
+			}
+		]
+	}
+}

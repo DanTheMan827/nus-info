@@ -1,0 +1,54 @@
+{
+	"title_id": "0005000010114500",
+	"eshop_id": "20010000001385",
+	"product_code": "WUP-N-FANE",
+	"name": "Mega Man™",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 39,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/74c86c276eb55a7f162104a7cf3107770f9f200bd0ee3274436d76b012227b57.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/fb7d76d21643a8e7d85fa107956a2cfb78d9af3cdcfd3e1c320f4f63fdf96ec6.jpg",
+	"data_size": "36601996",
+	"description": "Únete al heroico robot azul en su primera aventura mientras combate al malvado Dr. Wily y a sus robóticos secuaces para restaurar la paz en el mundo. Mega Man es un superrobot creado por el genio científico Dr. Light. Cuando otro científico llamado Dr. Wily pierde la cabeza estando al mando de una armada de seis robots humanoides es el turno de Mega Man de ponerle un alto a su nefasto plan al viajar por una serie de etapas repletas de enemigos, trampas y peligrosos desafíos de plataforma. Derrota a uno de los jefes robots al final de cada etapa y ¡obtén su arma para usarla en las batallas que siguen!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-05-02",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/6ade39ae3088e3018d110beea524ceddce47851d3de5c44f71599e15f1e2f9c2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/218623c63914795963cfc5ee57b7f2e887a6729eff5813c33457916ab1d63990.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0759f776205452875cceb770180cb179b3f8ff53e2dec1f9f0f3df14233d0e06.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d5912b45a18ce5155f909ab1040e64fe19a68a4084600a0365ba938e9699bb83.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d31298b7a9893dabf9c18b1b10902f07ee4deedc71518332b116cb306b6688e7.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bdfc894458b063215b0e77d96d49614a98554ff7a57584fa586ad2c7a663385e.jpg",
+			"name": "Avance para lanzamiento Mega Man™",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/973fa91d3e8d450749ea25f9ee0934bc2751b71e3b56475af94864293a07b448.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "36"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5ee5b4e8760def4790ed2c8253bb6ac04dfa629729578d1fe896b169351c8b94.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "36"
+				}
+			]
+		}
+	]
+}

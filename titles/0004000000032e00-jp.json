@@ -1,0 +1,52 @@
+{
+	"title_id": "0004000000032E00",
+	"eshop_id": "50010000000094",
+	"product_code": "CTR-P-ASMJ",
+	"name": "スーパーモンキーボール3D",
+	"platform": 18,
+	"platform_device": "CTR",
+	"publisher": 231,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/16ff661b1be5c6fbb2ff5b0676c24aae63ce1770bd5024977f1655e1fec4b42e.jpg",
+	"data_size": null,
+	"description": "『スーパーモンキーボール 3D』は、パズルアクション、レース、バトルロイヤルと、まったく違うジャンルのゲームが1本で楽しめます。アクションでは2種類の操作が選べ、レースとバトルでは、ソフト1枚で4人までの対戦も可能!!",
+	"availability": {
+		"eshop": false,
+		"retail": true,
+		"dates": {
+			"eshop": null,
+			"retail": "2011-03-03"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/4a226cb48199a54a9a986caad0d998022e37388e1966be548e798b6749fd0610.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/20fa3b9c332de0a30fea660d1e939cce498a966ec50b737b6d83e2a90f8b3d28.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/4cc6a3a6b7e0e6aa0d08307c6902d0fcdcd1b21521352b60389a909e73d801ca.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/3e388906ee0b006326bb377d7699c0ed9fad69a4d0c130027591174103b88433.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/aa81852e311bc05f980e3d62f51297c5726acc6f7e12d932553a45f167c2483e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f94cfe6fc637ede1922c935b9d89725ca789c05779dad5af7f3c821c409a1122.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/073aab418374d66f11a8cbef1df43a24b93a54cbaa3033cd5898e39b04fe76b3.jpg",
+			"name": "スーパーモンキーボール3D 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f81b3c13cdf8ec9943e578a62843388ddcae02b5a7f51905988a70f8de128431.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "208"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"title_id": "00050000101D6200",
+	"eshop_id": "20010000020147",
+	"product_code": "WUP-N-ATHE",
+	"name": "Test Your Mind",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1393,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6bbb0a8d5983ac95b529cede105b668ff4cb593a986c630ddaa080635ec808e9.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/13ed922beb6784a3b73423178b32140f60f484e0fe25a229496c4ff65d02924c.jpg",
+	"data_size": "102367392",
+	"description": "Preguntas engañosas, puzzles, examenes de memoria y más! Este juego lleno de mini-juegos pondrá a prueba sus habilidades de pensar fuera de la caja y usar el Wii U™ GamePad para resolvar varios problemas. Las reglas vienen y van y depende de ti a descifrar las soluciones del problema y tal vez incluso lo que pregunta en primer lugar! Si logras pasar la prueba (No te preocupes, es justo), haga un amigo o un miembro de la familia intentarlo y es posible que no puedes controlar tu risa quando ellos entran la lucha para entender lo que hacen. Cuando hayas averiguado todos los problemas, jugar un juego de memoria con un ritmo rápido en el modo multijugador local y ver quien puede ganar una batalla de cerebros. Solo no hagas daño a tu mente, solo queremos probarlo.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-11-12",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/3f60406aa5a1f25c1d0456df9f2ca6019cfcd046777f4503fe35b40e72ef9838.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/85470b3b29489ebed2169a9698459dcb572a235e1a68330e911f1b11c671f4bb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/729212f6671d1646aa6b6d1603fbd8dd3e2db8a10d469eb6e37f82eaa902a086.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/97f0773c687f0adb9a7481b45358d4a61296bc088bcd3beec4481f99b22b143e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3b88a7f4107123483adef6dce041a11e50d512420baac0886212cace376b1c66.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0d99bbb4a1264f3af277122a2a2936febfd4181858b28855e24b0d6c38702c9a.jpg",
+			"name": "Avance para lanzamiento Test Your Mind",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/95ba3512cfc3682651b6319d1fff79c035212fc9cede74e7fd76281f323ebdf0.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c854fc5adacf0ea6082af1f473f5e68c1c37536a8103ac41f9644c36379b7464.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				}
+			]
+		}
+	]
+}

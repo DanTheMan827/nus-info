@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010106C00",
+		"eshop_id": "20010000000866",
+		"product_code": "WUP-N-FAAJ",
+		"name": "スーパーマリオブラザーズ",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/329fd8af9867b71dfc104a569d05a1407b8d8f7482f51580211aa09df19e6f27.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ff7c1da2a8fed029926a918aa31bfc4670ab93ca91e14542133c0e18882c8264.jpg",
+		"data_size": "36569228",
+		"description": "このソフトは、1985年に発売されたファミリーコンピュータ用のアクションゲームです。 スーパーマリオシリーズの第一弾。跳ぶ、走る、投げる、ブロックを叩いて壊す……。大魔王クッパにさらわれたピーチ姫を助け出すために、マリオやルイージが多彩なアクションで大冒険を繰り広げます。裏技や隠しアイテムを探すのも楽しみかたのひとつです。 ※このソフトは、ファミリーコンピュータ版を再現したものです。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-06-05",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/848702f2373cb698c3f4a4047491f7d2a29c15331ba9010ad9c2200074a6eb7c.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/3c8a99a043d53d08bc101be2fc43c4063cdd7fbdc12ca08cef48343cd290ae10.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/6dd7c32ab5ee3d59b07447704c236b1fbc1cf3da7ce3662b8369bd417f5ae807.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e88f33510140608fdfdbf58381ee30a56c3dbdf7552fa9625c8a9ae7ace26103.jpg",
+				"name": "スーパーマリオブラザーズ プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/09a562e83f083aaa75a14643d62e11ca23b95dcad13b184307067fefd62797b4.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "49"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/75919c2bc254bb62e3c76328aad5ce336037394f1697de763727154cc97ca160.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "49"
+					}
+				]
+			}
+		]
+	}
+}

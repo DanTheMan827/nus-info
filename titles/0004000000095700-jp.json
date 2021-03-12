@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000095700",
+	"eshop_id": "50010000011630",
+	"product_code": "CTR-N-AACJ",
+	"name": "新 絵心教室",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/fe1de85569f7fb099dfc9d10473492f638207ce0afc25573dc0005e9b6761e08.jpg",
+	"data_size": "386915172",
+	"description": "『新 絵心教室』は画材をそろえるなどの手間をかけずに、絵を描くためのコツをわりと本格的に学べるソフトです。豊富な画材とレッスンで絵の描き方を手軽に学べます。 レッスン以外にも自分で撮った写真を上画面に表示しながら絵を描いたり、自由に絵を描くこともできます。 ",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2012-09-13",
+			"retail": "2012-09-13"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6007c1b76edc2aba09618219d16986d29ff00a260bb9001c64620b932e8e96ab.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8ff280c4024a48ae91a3c3c7d094364fa2ec3abfebf017b0e3a07448f66a2741.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/20190e7819b1f0aa83cbf385fed3528a05b8c17ea0bcd1c8ecc82c3cf495aeb6.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5257f2855d0bdfd6b154137e4d1e888f735af65817048ed00772b1c4237cb132.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/32a17ad8539c0e9725a17ed629a4d88f7b3996226706c2e9eb3b933566e50bd6.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ec994477ec37102098ae604b833987021aefdf3be477c11d54ad1444b394ae36.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/75727d52c7d7d5caeaebaabe51083e167203b4d995b2c6edd5d44261220659ff.jpg",
+			"name": "新 絵心教室 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a6bba47ad0a36094ea583cc146241ecdcf6ef04ae14143ac8dcd19343b6dfa8b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "302"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5e454da397a0a11d6cb5346223064b4570ddfbf98acfdcaf2b2c99ea3cc24300.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "302"
+				}
+			]
+		}
+	]
+}

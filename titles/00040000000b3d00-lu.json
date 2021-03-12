@@ -1,0 +1,67 @@
+{
+	"title_id": "00040000000B3D00",
+	"eshop_id": "50010000012532",
+	"product_code": "CTR-P-ASRP",
+	"name": "L'Infernal Programme d'entraînement cérébral™",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/88e7d8470f241bbdcc5b5eff4a4642344e38642370db369a637c387dddd18ca2.jpg",
+	"data_size": "772914020",
+	"description": "Conçu en collaboration avec un neuroscientifique, le Dr Ryuta Kawashima, L’infernal entraînement cérébral du Dr Kawashima : Pouvez-vous rester concentré ? propose 30 exercices et minijeux ayant pour but d'entraîner vos capacités d’attention et de concentration. Votre mémoire de travail est stimulée par une fonction cérébrale importante basée sur le maintien et le traitement des informations à court terme.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2017-07-28",
+			"retail": "2017-07-28"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/36135cda3b89d64c4fc8baa8d564871e6837e015f5322fa572894c253d7c0e69.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5993800167e38f57971a1a816ea8ea4b1ee74783238af6526abeb82c4e57a348.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a5e5c59c2f9a3c21462bda5e368e9e68ab33347edf20dd96a9891a193f0eec9e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/36c446bfb8365a79802f9bbbdda64e7922c3661d5d55fbe5f2437c23419dcadf.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1c5ac773580643b266777880125c09bc81f30c946f2db8e3e0df10af5c214924.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/66c0a31cff67769434e41ef8840464d7cfce001936b82ef9145f258882090d7e.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c3acaf65ad4ce3a798432b6805bc13d4529280a9a26b2257c32333feb9210b65.jpg",
+			"name": "L'Infernal Programme (...) cérébral Démo : vidéo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4a22c877925d0be97cce2d15826beb21be478f5e3517169a9627911799f2cc6f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c3acaf65ad4ce3a798432b6805bc13d4529280a9a26b2257c32333feb9210b65.jpg",
+			"name": "L'Infernal Programme (...) cérébral bande-annonce de lancement",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/213860ec9d6b00da1eda9c2742a46456b4b7c7d8895b9017a760ba827e3508ef.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "64"
+				}
+			]
+		}
+	]
+}

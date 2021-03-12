@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101BBB00",
+	"eshop_id": "20010000017087",
+	"product_code": "WUP-N-PC2J",
+	"name": "シャイニング・ソウル",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 231,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5700ffeddd67d704c0641dcdeeed9098e6782c889353f2aee2fbc2fbaf630888.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/437e23bb74ddafe9f6d73d7659d4983e4636549e6d6606c0fc7713ab0b73b085.jpg",
+	"data_size": "71860364",
+	"description": "このソフトは、2002年に発売されたゲームボーイアドバンス用のコミュニケーションRPGです。 プレイヤーは「戦士（人間）」 「魔法使い（人間）」 「アーチャー（エルフ）」 「狂戦士（ドラゴニュート）」の４種類から1人を選択してキャラクターを作成できます。ダンジョン内をリアルタイムに探索し、宝箱から入手したり、敵が落としたりするアイテムを装備して自身を成長させながら、最深部にいるボスを倒していきます。時にはレアアイテムを発見することも……？ 破壊の化身・ダークドラゴン率いる闇の軍勢を倒すため、光の勇者の冒険が今、始まります。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-02-17",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/c55dccf93e6d02c7bae180e81179173b793c426396ad8e4d2345ad5e97999ccd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8f662f53943e1acf60350d93dfe95a71f83846d361ecefea98a931e71d35d810.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a0db032ed710530adc3c932b6f07c188a32ceec2ff65a444b4eab61bba01eb61.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9f6e02e25298c54a6abfbfdc4d4777559bef826df9f05f6ff4bfe9b552c20bc1.jpg",
+			"name": "シャイニング･ソウル プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a9120ab25d8db83eb38446c4bd35e9ce97327ad28474c2803a5f14ca108053e5.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "69"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/84266ff18121efdb0e70744a2cc9e3dce25e9092ee1ed98e08612d5323b443c0.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "69"
+				}
+			]
+		}
+	]
+}

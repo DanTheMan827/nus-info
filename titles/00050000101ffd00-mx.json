@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101FFD00",
+	"eshop_id": "20010000024687",
+	"product_code": "WUP-N-BM7E",
+	"name": "Mahjong",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 228,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/76b2e242f1326fc29d95e99aa76d7857e392ea519d95c6b81063eda81d5fdd37.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b258273a260bc5be00b69acb194da1b51cb73d0ac60026166ab3ba1e94769d81.jpg",
+	"data_size": "515375264",
+	"description": "¡Echa una partidita zen! Redescubre el famoso juego tradicional chino. Encuentra todas las parejas de fichas, procurando no bloquearte, para llegar al final de cada nivel. Necesitarás concentración y perspicacia para completar los preciosos tableros que hemos creado para ti. El mahjong tradicional con toda su profundidad y su belleza cautivadora. 70 niveles de dificultad variada y puzles totalmente nuevos. Personaliza tus partidas con distintos estilos gráficos.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-10-13",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/353c78a6acfbac5f0c4773fafda1a78b6c032a9ee9f017dca4e3bc924d7ca531.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e898eaf6f3e2887e25e747c1f5731f559bef7b0640d687cd4986ef85f6689eb6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/21ce9a9e1019816fb24dd866963aae769aa92a0e796ddaaf93f0451af4e2aa40.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b652afb45fe64e8e98710da8d005e7960ee261a156a7c5cca7c545ca29ce8fd1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/03dae1b1db1a97cea3b63d9c534c5ac07da2bd7114329b5ab1463fe9fdd2ce05.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/87932d8bf632cdcd088d0e3a31a9f77dc2dd5d613fdd36f6d62cbcbd24cf23db.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/de66c7a30487777f3fdf7c5c28d26fbf2136b7c72700b6677db3175cfa675b89.jpg",
+			"name": "Mahjong Launch Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c2e4df9923f3aadf335b1c032b48da3f6a8451dc76a71f1f026235154e71dfcf.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "38"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/09c2893a8d9b9a6fb1ef9389fb4efdf0843f60b78c6dfa982d420e287d1773b2.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "38"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000D6800",
+	"eshop_id": "50010000028855",
+	"product_code": "CTR-N-JLHE",
+	"name": "League of Heroes",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 96,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5e03d3f382bef08324e66eeb17b7ebe22baa89646bc156e30798ed6e0b5012db.jpg",
+	"data_size": "90631012",
+	"description": "¡Conviértete en un verdadero héroe y salva a los habitantes de Frognest! UNA HISTORIA SIN FIN ¡Atraviesa la interminable Selva de Frognest con la ayuda de hachazos, cortes y golpes! PREPARA Y PERSONALIZA TU PERSONAJE ¡Viste a tu personaje con numerosas opciones de armaduras y armas: luego, diseña la mejor estrategia para desafiar a tus enemigos! EVOLUCIONA A MEDIDA QUE AVANZAS ¡Gana experiencia, descubre tesoros y desbloquea muchos artículos geniales, entre ellos la magia! COMPLETA MISIONES ¡Completa 60+ misiones intimidantes y gana valiosas monedas de plata! INCREÍBLES GRÁFICOS Y ANIMACIONES HECHOS A MANO ¡Introdúcete en animaciones increíbles y gráficos 2D espectaculares! EFECTOS DE CLIMA PERSONALIZADOS En la Liga de los héroes, puedes disfrutar de efectos cambios de clima y cambio de horario durante el día. ¡Experimentarás tormentas, cielos nublados, neblina, la oscuridad de la noche y muchos más!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-12-18",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/91197d8bd02354aad1a3d1e8cb8803b4dc838e017c1b8a5719cb36aadc65269e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0d57bfb986e80566dacf2f0ffbabf4f2baf0067ea6aa947c4492afd9a6994205.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d4b9685524bf43954990ac0c1d83ea5806b5a52c9ad2a5ec96d44071653794da.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/20e025b3d8e22d8021cd44ecb2fed76532cccb73e7a469a1f0946aa4c046403c.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/eace5db03234521748307c013b52dded381824cc3cb6ab2d2b2b159887ffd61e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9f9604daf0f160d42982beae2cc71cf5b42319a3722abb33e411236784be9d19.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a44d14e72d72c7a5250ce8a3199ebc22f6b43025034232a24db70f772b3366ae.jpg",
+			"name": "Avance para lanzamiento League of Heroes",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/dde2c94c32e775d6ddc39a9a1074ccb38460c0147a7183627b51942219bf78ea.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ca20f91cb1d4496fb0971ed4d49222a0476f0d6034caac6e5e44688cb21850e3.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				}
+			]
+		}
+	]
+}

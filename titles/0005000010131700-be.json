@@ -1,0 +1,48 @@
+{
+	"title_id": "0005000010131700",
+	"eshop_id": "20010000000925",
+	"product_code": "WUP-P-WKYP",
+	"name": "Wii U™ Panorama View Pousse-pousse à Kyoto",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/93ef0672d6f24f39f094a9a6d07470591a422317a879207e9efbc6a23ea8a1a5.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/97ceb44040e780a17e54be0fe32a4e5f17f63bcded4088f91d12042c4c3bf2ab.jpg",
+	"data_size": "430112908",
+	"description": "Kyoto, Japon Dans Pousse-pousse à Kyoto, vous explorerez les maisons traditionnelles, les temples et les jardins japonais de Kyoto en compagnie de Maiko, une apprentie geisha. Le conducteur du pousse-pousse vous fournira de nombreuses informations sur cette ville historique. Cette vidéo est en japonais.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-04-27",
+			"retail": null
+		}
+	},
+	"screenshots": [],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/36836f2f70bc549f09df88e4a37f587ccb8ca45df48f456f19a3b74ffa56f541.jpg",
+			"name": "Wii U™ Panorama View : bande-annonce",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/19e4590f4a70e041bd0a7be74a3921fb83dcc3dbd608ce85bce543d85a78424c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "139"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ef476ceb7e24f110a0a372cf8fc9a969cbbd1f759c811ee8538552c63de1cf09.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "139"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010114B00",
+	"eshop_id": "20010000002665",
+	"product_code": "WUP-N-JALJ",
+	"name": "がんばれゴエモン ゆき姫救出絵巻 ",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4e476b73c7d18bf8aa329b1d7c342c97314bef3f6d92a7371176837317d3a2be.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f9ec28aa711d8be9367e2a397ca3159c0a92d6db03990768ae81edd632946bbe.jpg",
+	"data_size": "41255052",
+	"description": "このソフトは、1991年に発売されたスーパーファミコン用のアクションゲームです。 江戸時代にゲームセンターやファーストフードといった現代的な要素を織り交ぜた世界で、ゴエモンとエビス丸が、さらわれたゆき姫を救出するために奮闘します。各ステージのあちこちに配置された隠しアイテムを探したり、多彩なミニゲームが遊べたりするのも本作の魅力です。協力プレイに対応しており、2人で冒険を楽しむこともできます。 ",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-09-04",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/84d01e0d1a15bbd7cb275f5b15bd95cfa4a4d73731f5e69e1f3acea1e1101bdd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2999926c17c380e3104d02a9f8d18840900a68bd02c39503fb508b22f2ec1fcb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/dd48d827baaa18c131f5196eff3fda20761cc8b421b8324a6c8bcf3792ea2930.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2931525017138aba21c1e2bb1d3c77cbed57b75fb8b93492d9d7c809c3fac01d.jpg",
+			"name": "がんばれゴエモン ゆき姫救出絵巻 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6ce93eae8c77b51a61a75cca6df6de8dbd7ccef932692c17a0b6fce5e237ae13.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "35"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fbccf69e0e6e746299e36bf533a2b985dcdbda719e81504507a544d581573cea.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "35"
+				}
+			]
+		}
+	]
+}

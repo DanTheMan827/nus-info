@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010195300",
+		"eshop_id": "20010000018427",
+		"product_code": "WUP-N-MNYJ",
+		"name": "GRADIUS グラディウス",
+		"platform": 167,
+		"platform_device": "WUP",
+		"publisher": 149,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0bcd18d242c561d74f989ffd7625e4036531865a0bb92ea8d6f9551f78d87dc5.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/71c109f6eb5c1726906b80301c328def1034b9dce38c8fe21243cff79ac744ea.jpg",
+		"data_size": "78774412",
+		"description": "アーケードゲームから移植され、美しいグラフィックやサウンドが大人気となった横スクロールシューティング。 それぞれのステージにあわせて自機をパワーアップさせながら、立ちはだかるバクテリアン軍団を撃破していきます。各ステージの最後にはボスが待ち構えており、これを破壊するとステージクリアです。 MSX版では巨大生物の骨が横たわる「骨のステージ」と4種類のエキストラステージが追加。特にエキストラステージは迷路のような構成で、ボーナスとなる「イエローカプセル」や残機が増える「グリーンカプセル」が随所に配置されています。どこかにある入口を見つけ出し、高スコア獲得やクリアの足がかりとしてみましょう。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-09-30",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/d239f411a4403e419294d8281c842ebcf51761fa306ff631dae9f0c98f2366a0.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/99afa2d4710161b13df17d92e77b1ca3bae8ae23bdb60c77606f349802918b57.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/71f65b2e7bf5512d7495f0d357e2e702c9affc3baec95eee7e0fd1e027b343c4.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/480801c964a8209db54c250100d49000e848a4d0a13bf8284175cec91dbaf0a6.jpg",
+				"name": "グラディウス プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/359d86c4a25df90aa083b17a1631875b33a87466b9ede566aab7acacc14fdd06.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "82"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/639b15e80241a4ebdb30d4f1919860541d5b7886deffd1d6738e687e858a04ca.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "82"
+					}
+				]
+			}
+		]
+	}
+}

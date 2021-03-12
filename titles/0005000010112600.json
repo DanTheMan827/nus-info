@@ -1,0 +1,78 @@
+{
+	"JP": {
+		"title_id": "0005000010112600",
+		"eshop_id": "20010000002564",
+		"product_code": "WUP-N-ARMJ",
+		"name": "レイマン レジェンド",
+		"platform": 125,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f03e56972b3b3f19fa15777ccec0ade50b2f55f20cb0326a3f388fac645e89b1.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a5add72a59522646f017065e7d7a8d14a3cc0edd8e42a66141e50966507aa03b.jpg",
+		"data_size": "7152501396",
+		"description": "敵に捕らわれた妖精たちを救うため、主人公レイマンが5つの世界を行き来しながら、仲間たちと冒険する2Dアクションゲーム。Wii U GamePadを傾けて道を作ったり、スクリーンをタッチして敵の攻撃から守ったり、レイマンを助ける協力プレイも楽しめます。",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2013-10-17",
+				"retail": "2013-10-17"
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/2565d7c46d652b08f9c3cc20ab162be7b786b9abb88359b76beff861f108ab90.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/75cbf3946b30662ca886c82d26b64faed69092ece7993cf65f166b4bb630b5b6.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/370621fae26bbc986119ca8b9b114634bfc401b7a587560e35c08715f91befdd.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4fcb3ca6ac74607401c113a8b60e37227dd78c802250fd74065fc3323bda0923.jpg",
+				"name": "レイマン レジェンド 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4572e47609e2a304544e61395920e2e06834e356f9aab7227f6eb06caa35592d.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "226"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c1868ae2f1bd54a9e4a02f2aeaa671306eefe725a559f7f3d862eea1d9fd9309.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "226"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c72adfdf838cfadf9b267be7a2af52620bcb72a18aa70fb9e9bb15adb44195ca.jpg",
+				"name": "レイマン レジェンド ダイジェスト映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/87ac672f754b05f7be57cdb0d0b9d931303df6b679a047becde78fa95ecaf687.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "55"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/aaaa028e9c89da9fd3a9b01277de9260b38872cbe4e480598eb34225722c9234.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "55"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010189F00",
+	"eshop_id": "20010000020832",
+	"product_code": "WUP-N-BPTE",
+	"name": "Shadow Puppeteer",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1643,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b4aab04abb5b7734ba3f4f5b197dc6bdae236d0274fa2434e6f208c8f09c8fd2.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/39370348ca77ccf4a6ba50f8a693c58cab3c79d0623f7147cef7ca12cb3f15fe.jpg",
+	"data_size": "1621950724",
+	"description": "Invita a un amigo a explorar el extraño y maravilloso mundo de luz y sombras de Shadow Puppeteer, la galardonada aventura cooperativa local. Ponte en la piel de un chico y su sombra, separados por el malvado marionetistas de las sombras. Colaborad para derrotar a este maléfico villano y liberar a las demás sombras que tiene prisioneras. Ganador del 2015 Indie Prize Director’s Choice Award, Shadow Puppeteer ha encandilado a la crítica con una estética preciosa, una banda sonora cautivadora y complejos puzles que te mantendrán en vilo desde el principio al fin.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-01-28",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/42f088eae3ad0fb44b4b17fbd0591893bd1526b2b12fdfa7ec084b2a8f4d5f79.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7c61d0b8334f558a34b0a6c3431c4a634259004b9937d479607552ea64f0edf6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5395bd54d392b3d2af561015a274e6a0812286d25c7368f99ac50d89cb85244b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a46addda676e2077f69960a3a49b486e93ec4a1f55a0381b0b33ba82ee1f58cc.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e380744e4a66c53b0c658cf26d389abf9991a3c8c31a9a380bb5f3c02eeb26eb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b27a55b7ccc35286130458a81095cc7ba8ce7bcb7c3ce7c6532055e800abff50.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a7fc0c13054876c265bebf779cebff3e832c543f5ffb615669293c377cfd55c1.jpg",
+			"name": "Avance para lanzamiento Shadow Puppeteer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9fd44e4418aaa45797396ad87224949006e79c1262e28d0302ce4c0a512fab2b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "91"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1cebe9eb8e3f7907f6146ff53535ab77ce905a01b1e205adc7ab1f4b7a3ff08f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "91"
+				}
+			]
+		}
+	]
+}

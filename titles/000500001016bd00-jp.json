@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001016BD00",
+	"eshop_id": "20010000006146",
+	"product_code": "WUP-N-FC4J",
+	"name": "けっきょく南極大冒険",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/11c99815c156167528e9bd1a9c8fd820e2646e86cd47a0689923fae798615390.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/53dafda3f5decdc8dd6a089c39b880f22eced44730d4d56fb16705aa0085e8fe.jpg",
+	"data_size": "38699168",
+	"description": "このソフトは、1985年に発売されたファミリーコンピュータ用のアクションゲームです。 ペンギン君を操作して南極大陸にある各国の基地を巡ります。スケーティングテクニックやジャンプを駆使して、氷穴、クレバス、アザラシなどの障害物をかわしながら、タイムが0になるまでに目的地にたどり着くとステージクリアです。点滅する旗を取るとペンギン君の頭にプロペラ「ペギコプター」が付きます。飛んでいる間、ペンギン君の左右移動はできませんが、最大4秒間飛ぶことができます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-06-19",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/26e87b343769442721b560b280c146b68cc8b7638bb802b3dbba01cf22797387.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/00bc89879d39b796c8bd8a30a33c90adff0f270afcf115c9a7870814e8e6d0f0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/fa0ecae5ca9f1750ebca2b99e90219645ba4781dc69d9372c33791417cf55288.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2c68d3412819357530726589b670d5e7a48bafe29930d0c46d0d9d1d71f5aa35.jpg",
+			"name": "けっきょく南極大冒険 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0f2c76aa55d3aae9759af14a14960dfb9220c3d344899457fc071defb9077e9d.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bc6fa31d27639aa4bc8f2addf0810cf75b0d3661df6518d1602388c2c86c6951.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001015B800",
+		"eshop_id": "20010000005424",
+		"product_code": "WUP-N-PNDJ",
+		"name": "スーパースターソルジャー ",
+		"platform": 166,
+		"platform_device": "WUP",
+		"publisher": 149,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/95b9074f26788beef20563add017839732dfd7f1aa7c2bfaeb03c6c87a951c69.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0fab21d89be58c254fef6697bc3314e478632d7f58afd2205108da46e29d8b9e.jpg",
+		"data_size": "81461368",
+		"description": "1986年発売『スターソルジャー』の続編。小型戦闘機「ネオ･シーザー」を駆り、地球侵略を企むマザーブレイン率いる最強軍団に戦いを挑みます。ノーマルゲームは全8面で構成、ステージ7を除く各ステージの最後に待ち受けるボスの撃破でステージクリアです。連射が気持ちいいシューティングゲームの定番。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-02-26",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/0baba0a28bc954b55c5aa5ea32f27e0e99e487381a42faecd43b5b4ff6da6b19.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/f76036a73b052f70e8eff628bd5ff8a07a1663a74d274a576c0456b586c9dd3e.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/db7b82ba510260fa1f66adf7d199165a25a9d74004069e450caa5a1dd62179f5.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a3b1ecd3145677c0c8ab6f615ef9a5e09e3bcb4bb2903f059fe9870650683401.jpg",
+				"name": "スーパースターソルジャー プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fdb10a1c1613f8de4c639fbc7116bfe0a4f151095f7bacf64c9935075a45dc0b.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "46"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ed7588d7b767bdae8d13c4945c1b39eccb72cfbbe680e745a9e84956f3780c75.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "46"
+					}
+				]
+			}
+		]
+	}
+}

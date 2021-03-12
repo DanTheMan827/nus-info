@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010185E00",
+		"eshop_id": "20010000009386",
+		"product_code": "WUP-N-FDXJ",
+		"name": "ワルキューレの冒険 時の鍵伝説",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 27,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/648d2ef1a01e6a5e812ee443f370def2829c17e902fe488b47945c25823f8050.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b52fef5223d49cb3c38559093e540823f888c23e9c7f4404e592cd9ae44b423f.jpg",
+		"data_size": "38731936",
+		"description": "このソフトは、1986年に発売されたファミリーコンピュータ用のアクションRPGです。 時の鍵が奪われ、魔物たちへの恐怖と絶望に包まれたマーベルランドを救うため、神の子ワルキューレが悪の化身ゾウナを倒す冒険へと旅立ちます。剣や魔法で魔物と戦ったり、アイテムを使って謎を解いたりしながらフィールドを進みます。魔物を倒すと経験点や金貨などが手に入り、一定の経験点をためてから宿屋で休むとレベルアップ。ゲーム開始時に設定した星座と血液型によって、能力の上がりかたと成長のしかたが変わります。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-02-04",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/8f37ee509456afbf5ef2cb9b2df8e16cde510d90049c80c685ff872fc917cb07.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/966bdbdc418183028de218924efc346097bf94094db4885a94a1b04a2d66b92a.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/2a5a0ab330cde4670c7c433159f8869b21586ea583e200f3cb790fe559177074.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/503de405637a453e5da00e85a8e085e4c53216dffd2657b7a3df8134dbb3fb0d.jpg",
+				"name": "ワルキューレの冒険 時の鍵伝説 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/37d5706439f964104bc2602339ac24fd440eaf94d7ad17d73b5fad8dde048f9b.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "44"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f3fe4cd0a2920b4ad9257dfc64922b7e43697fd7e0612496fa0dcb6de64f18da.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "44"
+					}
+				]
+			}
+		]
+	}
+}

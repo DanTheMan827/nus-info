@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001017F300",
+	"eshop_id": "20010000009029",
+	"product_code": "WUP-N-FDRJ",
+	"name": "妖怪道中記",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 27,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e6006c58e3f0cc925dae1a20efccc8693a2cc933fa54c7ce8ee32854ff447c0c.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/07a9e8e71a19894a5fabc1d38913fd9dcd59d23253387141b0c0d4d7ba409e1f.jpg",
+	"data_size": "38797472",
+	"description": "このソフトは、1988年に発売されたファミリーコンピュータ用のアクションゲームです。 いたずら好きのわんぱく小僧･たろすけは、いつも村の人々を困らせてばかり。見かねた神様は、たろすけをおしおきするために地獄の入り口へ連れて行きます。5つの地獄を旅してエンマ大王の裁きを受けることを言い渡されたたろすけは、自分の運命を切り開くため冒険に出るのでした。 お祈り場でおさい銭を払うと修業のお祈りができます。修業具合に応じて能力が上がり、冒険が有利になります。たろすけの能力の中で重要なもののひとつが「パイアス(信心深さ)」で、この値によってエンディングが変わります。修業をしたり、良い行いをしたりしてパイアスを高めていきましょう。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-02-25",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/1db7fc45cd4042269c784fb468757d8adf7910b08ec973b8c4d97e28e851fcb1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/35f27c22f3360b8562b9a360e000ebd830d6a612f90d2e52cea812ab1b9c6336.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/80a5d81d52815a7f651b6459960151f418b87a0395c9bd6c5bc0f03572dbf3a9.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/55e52dd0f3a134d458c1c7a2b9cf6270e8bbac46f8a0a3d321cdb2065c6d5544.jpg",
+			"name": "妖怪道中記 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/951bae2b8bf5ab600b04acd283ad696e2a40c3ad78dce0a0966d3fa6a6176cfb.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "62"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3912323b345d17b9b8168a66ca6ccd655707cfe92691b30695022193a2e143a1.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "62"
+				}
+			]
+		}
+	]
+}

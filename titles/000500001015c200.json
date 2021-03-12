@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001015C200",
+		"eshop_id": "20010000008606",
+		"product_code": "WUP-N-PNPJ",
+		"name": "BE BALL ",
+		"platform": 166,
+		"platform_device": "WUP",
+		"publisher": 149,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6e14a46e7174572d398ba22c19d2367f1d2d4028f044a4777addef09f5cf9b80.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f0a8b04bfee8f1e7f5686594fdd3547aa36978f73fade41066f0b918ca262c31.jpg",
+		"data_size": "83755148",
+		"description": "謎の妖術師「チューマンフー」にのっとられた「聖なる塔」を舞台に、仙人の弟子である少女「リンリン」「ランラン」が活躍する、一風かわったアクションパズルゲームです。プレイヤーは各ラウンドに配置された4色のボールを押したり引いたりして、同じ色のプレート上まで移動させます。塔の中では敵配下の魔物たちがプレイヤーの行く手をさえぎりますが、ボールをキックする事で、敵を倒したり壁を壊すことも可能です。 ピンチを切り抜け、全てのボールを決められたプレートに移動させるとラウンドクリアとなり、続く新たなラウンドに挑戦できます。 また、通常プレイのほかにも、2P対戦のミニゲーム「キックボール」やオリジナルの面を作成できる「エディットモード」があり、一味違った楽しみかたも用意されています。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-07-30",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/20419f9084c5df8ccfdfbe6f6c2cfd289fb3e89ece33d652eb426da8c2cd2073.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/ed845a2f99ad380ef0adca9943067e73547c014b304969260c60cd161ac3b664.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/c9bbf094b2b882598bcd524e879eac3746832aa6cc1f5b53d174f58270415017.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/baa1615a79e61ea153b6a528832ea421558ff9fc76eccb94a313abf84adb4dfb.jpg",
+				"name": "BE BALL プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3ae715b6de952dd0f7204e36f5187d1b60dacc4fcea04f83fecd4382b662e844.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "45"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f518dffabc9b6c60f955faaf39d88f93012d812b9eac0cb4067f62fc4384ff73.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "45"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,53 @@
+{
+	"title_id": "00050000101A3E00",
+	"eshop_id": "20010000018487",
+	"product_code": "WUP-N-BDFE",
+	"name": "Defense Dome",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1358,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9ecb460fe25179055175d6fb508bff5d468dbc05fb2357062e77ecb66f2225d7.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/75105c04516809e55aeae707e5893029dd4249579ed11ca6d6aefaf81e620c4b.jpg",
+	"data_size": "75235488",
+	"description": "Defense Dome es un retroceso a los tiradores estilo arcade clásicos de la década de 1990. Apuntar una embestida de los misiles enemigos usando el Wii U™ GamePad como un ámbito con zoom, controlado por el giroscopio, y lanzar contramedidas para defender a su nación. La pantalla del TV proporciona la vista toda el horizonte y todos los misiles enemigos en el campo de juego. También muestra un rectángulo de movimiento, que representa lo que actualmente muestra el Wii U™ GamePad. La pantalla de Wii U™ GamePad demuestra el actual campo de vista de la Cúpula de la Defensa (Defense Dome). Esta pantalla contiene también una cruz y un velocímetro digital (HUD).",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-09-17",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/2cb862a544c3e807fac337f943c741bc62aff2460b9c55f0a902b9c98f9cee75.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/036fad8a339df8cf0ecb76902bb03f28248eb99774aac9f5650da6d74f38d8d4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a2c391d483512cd220d56cbf8600775846d6b1a2bda86d675e411635e6c2a734.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/98dce2e5e7769d959ce1ba46c25aab29753ab1c3ccc3542595116aa1d03ffa27.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/864c8ded72942d5ff2f10890a8fc5dde2af23e334197bfbc8abfb928bcbd0eac.jpg",
+			"name": "Avance para lanzamiento Defense Dome",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f1fc3d91db105ca4a8bad193c39431ee4be0cb2f8e7f1b9905e264e00ec0687e.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "35"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0a556046fb031f98627556b45a49dd1bcad9391e1028cfe47cf919c233f1b0ca.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "35"
+				}
+			]
+		}
+	]
+}

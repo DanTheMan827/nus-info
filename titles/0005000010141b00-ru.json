@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010141B00",
+	"eshop_id": "20010000003084",
+	"product_code": "WUP-N-JBUP",
+	"name": "Final Fight™ 3",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 41,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ab633c66bfc03392360c0845827c0a30388ffdfd262c84076cdac95769615c8b.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9b965907242ffcd50ebd7aee9101fcad8d01b6eb9ed6a25f872b64a15a7828df.jpg",
+	"data_size": "42303628",
+	"description": "С бандой Mad Gear Gang покончено, но на ее место пришла новая группировка, известная как Skull Cross. Теперь в Metro City снова царит беззаконие! Мэр Mike Haggar и герой по имени Guy поклялись положить конец серии преступлений. К ним присоединились Lucia, старинная подруга Cody, и Dean, у которого свои счеты с бандитами. Вместе они сокрушат Skull Cross! Выберите одного из четырех персонажей; у каждого из них своя техника боя и особые приемы. Вы можете пригласить в игру друга или пройти ее в режиме двух игроков, в которой вам будет помогать персонаж, управляемый компьютером. Если вы приобрели игру на Wii™, вы можете передать ее на консоль Wii U™ и получить скидку на обновление игры до версии Wii U. Эта версия игры предназначена для продажи в США.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-10-03",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/199b063d367dd0d7b57cb0fbf749088f7441507c6a7b8c9b995f22ee18ad5aab.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/60dd2ca13c60f24f7626613f9dc3be8a3a5b35868f94fe521517afae1df52765.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4c6d741c04e0b95fd2d3646264c64a42cfd5566b6a93af0f8472da38755521a3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6ebb8abd44d9917bb268571d19e77a93d791b08664aff1b3942c156bfd502002.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6a6185b99aefd6ddf9343dd8f525f943684b291e9a87d210c42968fc32eba9a4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7d6776254ddf17ec7ed2f789d74d75e05bb5c36d9c9f2fade5c34525bc82ad04.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b070931c5f94f631bd28aa36329de0e40fa4fa74e67a557080ab1ad400b7bf1a.jpg",
+			"name": "Final Fight™ 3: видео",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/467111980a6c5eb8854e7d4e4d05c98b042a5b3bb33159d070ec336049fcf9d7.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "39"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9cc7f78d2bb831305323c7f91cc30a8ea11c9358746bcc4ec59fddf3d8b833c6.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "40"
+				}
+			]
+		}
+	]
+}

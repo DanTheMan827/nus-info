@@ -1,0 +1,87 @@
+{
+	"JP": {
+		"title_id": "00040000001A2C00",
+		"eshop_id": "50010000041813",
+		"product_code": "CTR-N-KRJJ",
+		"name": "イラスト交換日記",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c90ec1d8baa4c381b088b30ac2d4606e398aa2f3b46139569cb78cc11d247866.jpg",
+		"data_size": "12430180",
+		"description": "ニンテンドー3DSで手描きの日記を友だちや家族と交換できるソフトです。 一度に最大4ページまで描けるので、4コママンガのような日記を描くことができます。 自分のMiiやゲーム画面を貼りつけることもできるので、工夫次第でさまざまな日記を描くことができます。 無料で楽しむことができますが、イラスト ストアで商品を購入すると、マリオやどうぶつの森、スプラトゥーンなどのイラストレッスンを受けることができるほか、ペンや便せんの種類も増やせるので、日記を描く楽しさがもっと広がります。 レッスンでイラストを練習して、みんなとイラストいっぱいの日記を交換しよう!",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-11-22",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6667c921e82b2321f3390bee9954f2b2b17f750eea146f20fa8bf4f95606be98.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b9a200809c054a9c6544cc50d94311b57991eeb57b5c6dc43ee49c8dd2ace55e.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a221514e4a0ef815a92f88aed694691e090c41104cc53c97a27918f0c5121e9c.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/15a00522faa3ce942beb72d56472b8ee2991617b2b7ae96831cd18d3a46019aa.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/629ffed914a67fdc6b6576c94c474a9c2f2bcb80b88bb3a73d79391799babc24.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/dba3e0bcbaf98fbb1e5b54e23f11c148b70e64c5316e6ebc231a646241f0cabe.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f5185325105189b766ce8f700ffb391f6e18216aab406f7ca4dcfa0fe0246436.jpg",
+				"name": "イラスト交換日記 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/41d8d8ae10123fb39cd1dabd238df297226258640810c5f0279b73022aec00b2.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "189"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c695da6bba96de6ae18e0d9f24fefabc60e5790eb2021d1565862f626fbfe3c3.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "189"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/386467b37e27ded4ec7b7533df9b6b343c680448016dfd3520595698043ecd1a.jpg",
+				"name": "イラスト交換日記 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/43b74ae019ce0dad715c4fa9743b87328283dd0a56ad3b3c78668dd37ac92e04.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "215"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/13b2f5d4126b6b5322efa34f82d695e3f90d515595f825727c8bc49e7fa0c5c8.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "215"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000129F00",
+		"eshop_id": "50010000023518",
+		"product_code": "CTR-N-JRWJ",
+		"name": "KORG DSN-12",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 1227,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/778bcf3c581e9a83d8114923fd9b026eebae6369a1f1a59ebf570dd5c7881f07.jpg",
+		"data_size": "12290916",
+		"description": "電子楽器メーカー株式会社コルグの創りあげた12台のモノフォニックアナログシンセサイザーの圧倒的なサウンドに、世界初3Dオシロスコープによる強烈な没入感。耳から、目から、あなたのサウンドクリエイティビティを存分に刺激します! 『KORG DSN-12』はニンテンドー3DSのタッチペンによる軽快な操作により、このアナログシンセサイザーによる本格的な音作りと曲作りを、誰でも簡単かつ本格的に楽しむことができるソフトです。 ソフト上に12台のモノフォニックシンセサイザーを搭載、それぞれ3系統のエフェクトを加えていくことで、携帯ゲーム機とは思えない幅広く迫力ある音作りを実現します。 また、これらすべてのシンセサイザーとそのシーケンスにシームレスにアクセス可能。DJ感覚で再生しながらリアルタイムに楽曲を構築していくスタイルも楽しめます。 そして、シーケンスから構成されるパターンを最大64個確保、これらを自由につなげていくことで、より複雑で奥深い楽曲制作をも実現します。 世界初の3D表示によるオシロスコープ画面も見逃せません。音を目で確認することで、音作りのさらなる興味と理解を深めることができるでしょう。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-06-25",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2637bc227219a9a986c63a9cff3cb492f80c6a1f3e9fe817030a4df5674e19f8.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/caaf6bc0a451dd5139d23457b0fdadbcf2cd841f194fc404f11248d39591b21b.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ea81709e14ced1afc126bc63d9cf96cf4a1260aace3d55aaa2016f0057e95d77.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/3358d4ae1f50f15169bce1d49b9e3efb564aba868c369b83e43d2954be2c4838.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e4d31fca8f198b4bbb631de5a6ce19400196c2b58f594d97ddc79737858ff374.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6f8a10c6ca04365bf6f8a470cfb7a33e0780c08add73e7234ae6221d4a937740.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9d258dc4019c65b163a921d7de48830c20652edd0cbb4d6c0222be39bdaab96a.jpg",
+				"name": "KORG DSN-12 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c496cb2f1db25433947087f6d8cdbf8372f074c9f97850fa4e1af4c13050e9e1.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f3db1808711fe09e21356b775613168786836717d47f2ec14c3d6578f415d7b4.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					}
+				]
+			}
+		]
+	}
+}

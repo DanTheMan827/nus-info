@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101C5E00",
+		"eshop_id": "20010000022408",
+		"product_code": "WUP-N-NARJ",
+		"name": "カスタムロボV2",
+		"platform": 170,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7de9fdec02b7cbc5c7d5914a3697a6bd863c78e59dcc91276c541cb6cbf2edff.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/1fd0c15189ff7e93a0db255be371cf5124dd7561bc6c1d81453232d52eb356ba.jpg",
+		"data_size": "61997176",
+		"description": "このソフトは、2000年に発売されたニンテンドウ64用のロボットアクションRPGです。 プレイヤーは、全長30cm程の小型ロボット「カスタムロボ」を操る「コマンダー」となって、仲間とともに冒険を進めていきます。手に入れたロボやパーツをカスタマイズして、最強のコマンダーをめざしましょう。 シナリオモードは「旅立ち編」と「激闘編」の2本立てになっています。「旅立ち編」では物語に沿って冒険やバトルを進めていき、「激闘編」では強力なライバルたちとのバトル大会が繰り広げられます。 ロボやパーツは、特定のバトルに勝つと手に入れることができます。組み合わせることができる部分は、「ロボ」「ガン」「ボム」「ポッド」「レッグ」の5つ。これらを集め、自由にカスタマイズして、さまざまな戦術を楽しみましょう。 バトルステージとなるホロセウムは40種類以上。いろいろな障害物やギミックが存在し、壁の位置なども違うため、地形に合わせた戦略を立てることが勝利への近道です。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-06-08",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/82906db65cc5181260f969396ed5dbea0916d9ee5cc7c1daa85d977214bd7702.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/937ef2a0ff547a6c7c938a586da567f3a3dbe95e88d9909a661ab85c46909a9b.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/5f7446b25b9d1fdb4b6736db97dcc3dae702af4af99bc7b3e98ed8d6a7774f93.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e549ac5b4d27e29da7633a656edf82dadd7206b0836020f15d21287c832c3b66.jpg",
+				"name": "カスタムロボV2 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/87a5a3e5c005699133784d485ac049cbf26188fefbebefe013d64f23dd31f015.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "97"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8f66a4f1b1fd936ff24b19a484012c2294e1298971ab66f88169a7488374e5cf.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "97"
+					}
+				]
+			}
+		]
+	}
+}

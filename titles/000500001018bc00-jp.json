@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001018BC00",
+	"eshop_id": "20010000010428",
+	"product_code": "WUP-N-FEBJ",
+	"name": "超惑星戦記 メタファイト",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 256,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/af18c27959a81200e9d37865b3e0f71d455192abb6e59aae4cce496ad8bc78ae.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d7eaa8fdf36ee363848152e28bbf3996c25e01f5c962b45b55bef2dd307c5b52.jpg",
+	"data_size": "38863008",
+	"description": "このソフトは、1988年に発売されたファミリーコンピュータ用のアクションゲームです。 高度な文明を持つ惑星ソフィアを舞台に、「サイドビュー」(横から見た画面)と「トップビュー」(上から見た画面)のステージから成る全8エリアの攻略を目指します。2つの画面では、できるアクションや操作方法などが異なり、超惑星間万能車両メタル･アタッカーとパイロットのケインを切り替えながら進みます。サイドビュー画面のどこかには、ほかのエリアへの入口が隠されています。各エリアを行き来しながら全エリアのクリアをめざしてください。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-05-27",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/94d365b222742bc7c249b97697556c1206e916ab8c1e24ef8984bb35478065c5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/05216a4f05bf5734c381c1ecd836274f84acc4af38b6f0b0006ff78897bbe219.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3d82e10c37fde6a12b8a3f3f3ebb91df90233f9331abf9d770ceda4215dcb603.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e41faf67ea840882ded73167d1be927f3c213f418b79daa3d918e3d0e08e9569.jpg",
+			"name": "超惑星戦記 メタファイト プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/646901929fefaa401c7c90eb635e0ac0fc2e13ceb1eae17220c31434abb698b1.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "54"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/deb2200c2c9b0c0bdda34d59c003c9f8f8aee2c5ea399de193fa714be669ca84.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "54"
+				}
+			]
+		}
+	]
+}

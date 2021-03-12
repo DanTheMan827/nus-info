@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101DCA00",
+	"eshop_id": "20010000020394",
+	"product_code": "WUP-P-AVMP",
+	"name": "VoxelMaker",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1555,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6c733cff21cf8f2859367541c287dd0eefdac71b6d45e379e0c748a288ffdda4.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/280b1c9714a0eca6379d79bbcc24b1c0fd064d3fac87573f186a8d75e3066a6e.jpg",
+	"data_size": "61702284",
+	"description": "Crea modelli 3D e renderizzali con luci e ombre realistiche. I modelli voxel sono composti da cubi 3D e creano un look cubettoso e stilizzato, una pixel art in 3D. Il potente editor di modelli di VoxelMaker sfrutta sia i pulsanti che il touch screen per permetterti di tagliare, copiare e incollare parti del tuo modello e spostare, ruotare o duplicare sezioni in modo semplice. Puoi anche inserire testi, colorare parti del tuo modello e controllare la direzione e l’intensità della luce nella tua scena. Poi, usa il ray tracer per creare immagini di alta qualità delle scene e salvarle nel tuo album o condividerle su Miiverse. VoxelMaker mette una tela 3D e una fotocamera nelle tue mani: trova l’ispirazione e crea! - Crea modelli 3D usando un potente editor - Usa i pulsanti e il touch screen per modificare il modello e allestire la scena - Fare le parti del modello bagliore, o essere trasparente come il vetro - Crea viste della tua scena modificando le ombre, la luce ambientale e la profondità di campo - Salva le scene nel tuo album o condividile su Miiverse",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-12-10",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/f962bb84326a5514da78cc96da15a454ba7ae0b8e8093ada25e782e2d1af9793.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/96051b89b9ebf9323f91cbc31d76795f045500910d46be302fe33f877b08a36f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4c8fac83695c629c6e9f3bb6eab35c5953bd537cff7bace721bf0d301e7751c6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c2f0e52b1541b7fd17ab0614844eedf420584e5daa55d40b6e6b9fd32dc86592.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5d840b42aab607acadb4525be49086760fb6d79eb098465170cd5d36c19eb58c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/291f3c85d9158a12f453b42c350c7456b88205f8c6b303623ef51a2ac08a32d9.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fcc66a722134258d71c55bd4cf87e2aed1970c8a10fa17ed78a334448e096e17.jpg",
+			"name": "VoxelMaker trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bf3b6fc05f2e9d925abd84fa26f47d36c6669f162436b8f3eaf14f6546d08a39.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "91"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/adae23a7f8a9228b8310095b66a78c6178ddd9efc697e0f98614fe9338e3ff60.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "91"
+				}
+			]
+		}
+	]
+}

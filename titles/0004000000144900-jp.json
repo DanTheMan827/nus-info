@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000144900",
+	"eshop_id": "50010000024636",
+	"product_code": "CTR-N-JQ7J",
+	"name": "CUBIT ワンボタン ランニング アクション",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 1292,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/64ba0ac25d19e4dda0f4f8507dd5fa90ab56e78aba42f9033f2311d9908f34aa.jpg",
+	"data_size": "23300964",
+	"description": "『CUBIT ワンボタン ランニング アクション』は、横スクロールのシンプルなジャンプアクションゲームです。 主人公CUBITをタイミング良くジャンプさせ、障害物や落とし穴を避けゴールへ導きましょう。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-08-06",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/16b2e9e4450766413e98a9d1aabeb8ce7987fc862883b3fe1f690227b546fe12.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9e57c37deddd6939c61b210ef9907f016e0bc168b2bcebac0cdf837729f216d3.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/db71b735394d1b9c63e883534a5fad3de74ff82a1615eaaed2c392683957718c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/74788071f452b2df6aa39301e95080d7d24c9c581f4d5e65c67e4a249c8ecadb.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ca4cc243a534c67d86c59d16b2e434563723e6e5cd1a0db4b808c10c71047b10.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/da9688a3671fd092aee0c4b17261bee00da224c0af9cfc9c7f4ab60c6d198f1b.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d07c28dc3e48b6cef0e03fa0706b60e9f9c56a1c8f5c7d739d0814dd2964f77c.jpg",
+			"name": "CUBIT ワンボタン ランニング アクション 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/21e96ceb7a64458437d84245c040910747b02dfb23c680278a0ccf93a7342a79.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "75"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/88d4cc792768f153ee4a5d8ed15f2b7953bd8259b48e605d594d87dcc578ebdd.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "75"
+				}
+			]
+		}
+	]
+}

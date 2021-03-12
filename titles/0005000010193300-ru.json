@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010193300",
+	"eshop_id": "20010000016751",
+	"product_code": "WUP-P-BLKP",
+	"name": "Legend of Kay Anniversary",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 368,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/34fdcee3c1ef9b8c323503587f1c7c2efbc1f4480945b9654189c043c117af79.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/1bfbc4a59432f4118a42f267f811b319d59a848bac965fc84ce39f714d8aa82e.jpg",
+	"data_size": "3554247076",
+	"description": "10 years after its initial release, Legend of Kay - Anniversary is a thoroughly remastered version of the original game: high-resolution textures; new, more detailed character models; modern rendering techniques and crystal-clear surround sound give this great classic a new shine. Full of fond allusions to old martial arts films and pop culture quotes, Legend of Kay - Anniversary is both an incredibly funny game and a challenging action-adventure for young and old alike.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2015-07-28",
+			"retail": "2015-07-28"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/8f979b1feba9b24d0681313b9f0b1c7f1556df6d8e74bd90b975ae3ea983c4f4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/07a208e1918493c75cf1d92bda6eaa29fabb6ea7ca8a92276ace5a4af5e20f97.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f52c5afb4381675a71def82852728e13a7ce59c873c006b337184dbfda70a588.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/59d860771c53eb73cb649e5b1f2e7ecd2f3348385370104624d6a6e6f40b8881.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6291322b8b5cd3b3b5dd3d2164d70be61661d1602e9c4eb45c7ac77bf8d0da51.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9590657c8be5c7f1a2ec4ed774c6825c2a2303185fba99dd3617befc599a8e8e.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3c101e80bc33448e7c1d78d64b9bb081bd101f40d03b44ce541b09b20feff562.jpg",
+			"name": "Legend of Kay Anniversary: трейлер",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5185b9e6e86a4a8e08078088515753fe5e5baed719d4fad9b2d9c70cbf4d0754.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "101"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2a3e7b8a75a7434601e1df7e960c2c64447e333dd04e80b4c7f4ef1315f741f8.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "101"
+				}
+			]
+		}
+	]
+}

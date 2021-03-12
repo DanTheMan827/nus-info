@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "00040000001BDF00",
+		"eshop_id": "50010000042451",
+		"product_code": "CTR-N-KBJJ",
+		"name": "BLASTING AGENT ULTIMATE EDITION",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 1292,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c9231bfc29ba94d73bdab4cd2693bb498766f7d363e67f27f68b5597bb0361e7.jpg",
+		"data_size": "17570660",
+		"description": "クラシックゲームテイストが懐かしいドット絵ゲーム！ ジャンプとシューティングを繰り返すシンプル操作！ 突如、南極でトラブルが発生！ 国際秘密結社「ナイトメア」が、世界制服を企み、火山の奥地に秘密基地を建設、バイオ工学によって作られた兵士と遺伝子怪獣による巨大な軍隊を作ってしまったのだ。 この非道な計画を阻止すべく、彼らとの壮絶な戦いに挑んでほしい！ 敵を倒しゴールドを集め、「ダブルジャンプ」や、「より大きなダメ―ジを与える」、「射程距離が伸びる」といったアップグレードを獲得しよう。 全ステージ、巨大でメカニカルな遺伝子怪獣との戦いが待ち受けます。 世界を救えるのは、ブラスティング（爆破）エージェントである君だけだ！",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2017-03-29",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3d63543b7dfc6c7371d3eedf389fe948242b0ee553455c1e9d369971bc7596d5.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/73209b30ae90125bd039f3c58c1123d0dfe29b72c9518535c00dc27621a11c1f.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ef6c221eb256ce02183b77bc3f4133576d2520d5637bb5e8417b38a5838eaf44.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/73209b30ae90125bd039f3c58c1123d0dfe29b72c9518535c00dc27621a11c1f.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bbcab9effb0ea655ddc9a4752e679769da8ca73bf293aee1224337853dec1510.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e49094b7c28e9196f1d06012b64d43cff5c201713d71debd371ad83f7d01fa8e.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5894cf1707cd81e424d65c061c941eb93609ce12c53e17a5a09f6fd491b9402b.jpg",
+				"name": "BLASTING AGENT ULTIMATE EDITION 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/87f84a943713bdd1ebf2676bca441ffb8a92c54db08040edada0900647a49cd3.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "90"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/af614affcb1f123949af3c38c3b773e170c79df3d52191f56a32427bc891ca20.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "90"
+					}
+				]
+			}
+		]
+	}
+}

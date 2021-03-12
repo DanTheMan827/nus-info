@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001010F500",
+	"eshop_id": "20010000000280",
+	"product_code": "WUP-P-AMEP",
+	"name": "Mass Effect 3 Special Edition",
+	"platform": 30,
+	"platform_device": "WUP",
+	"publisher": 69,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8730fe4a0c30a3eb567dcd88ad6a404b43d22af7ab13840df164bd951b20ac46.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c5b86aae8707acfc9c090ce3a66a5e52122c07fca0a61423dd4e48fb642c5d31.jpg",
+	"data_size": null,
+	"description": "<b>Mass Effect 3 Special Edition</b> ti mette al centro di una guerra totale per la riconquista della Terra contro un nemico apparentemente invincibile. Tocca a te scegliere come combatterla. Un rivoluzionario sistema di narrazione interattiva sorregge una trama ricca d'azione in cui ogni tua decisione può stravolgere il destino del cosmo. Tu sei il comandante Shepard, l'unico in grado di salvare la Terra dalla distruzione.",
+	"availability": {
+		"eshop": false,
+		"retail": true,
+		"dates": {
+			"eshop": null,
+			"retail": "2012-11-30"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/f379087c069df6574d001fa698060d80ee2b295a144472d6e0a7f657a0d5e887.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a3871cba1fe6875d01ec9be7c93f73ab7d47fee60f0dc1b794e0d8491839b005.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/93efd052c316cdc9db3344eb1ffead0dcc3bf84c66d7e8ea1b3e5886f7453aeb.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f28d6663f080b9cdba2ba7f8009015828ee286a08d5d95731b3d2c0f76bcfe06.jpg",
+			"name": "Mass Effect 3 Special Edition Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2b9725a8b7b949f49723c1538883fecf5e8ef2afc6b9739eb9e691f0ce77e4f1.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "96"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b88bc2303e8eb3779d0eba00e01d745c37a20cb5e933c28e3b52f93a1a6657e1.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "96"
+				}
+			]
+		}
+	]
+}

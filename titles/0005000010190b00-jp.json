@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010190B00",
+	"eshop_id": "20010000011069",
+	"product_code": "WUP-N-FEGJ",
+	"name": "メトロクロス",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 27,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/766e565efcf234026123d1735733a46d15752015a080e0de1ff2672302ef92ee.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/864f32270807ebe5248b5c9b7925445147235142ab0cbab037a8d786ea972b49.jpg",
+	"data_size": "38830240",
+	"description": "このソフトは、1986年に発売されたファミリーコンピュータ用のアクションゲームです。 「傷だらけのランナー」を操作し、タイヤやハードル、落とし穴などの障害物をかわしながら進んで、時間内にゴールにたどりついてください。ジャンプする、コース取りを工夫する、障害物の下をくぐるなど、すべてかわすにはさまざまなテクニックが必要です。アルミカンは踏むことができ、連続で踏むとスピードアップと無敵になる効果がある「スーパーブーツ」が出現します。スケートボードやジャンプ台などのアイテムをうまく使えば、さらにタイムを縮められます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-11-25",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/63848ebd1702796253c38c36d4b9d3d41dd963b81eb9346876630effe7f7751e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/753de23e5a94ee1e15d37d4ecf6a35a26a8d9e85fadfe12beab051dad328ae13.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/384a61beeff68c5c907135959da6ea6fa0f9fbdf2b789873f2d40ed19d4d1a03.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a7bdbd65a5e7335d5d6da0243b3bc21a480c117fb5241eb4ce944c7022ed3a0e.jpg",
+			"name": "メトロクロス プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d0a0d2aab90ee737299e32927d75d48703d0bfa2caa68bc890056d5fe73fb0ac.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "65"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/dc136be2d368abc782e4d71c8a73a6872dfdd781560a41a048967969d49a44eb.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "65"
+				}
+			]
+		}
+	]
+}

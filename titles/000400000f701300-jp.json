@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000F701300",
+	"eshop_id": "50010000040217",
+	"product_code": "KTR-N-UADJ",
+	"name": "スーパーマリオカート",
+	"platform": 1004,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4571eedba4248f8324462901f55a149251207b4607608cd6b0dcfcfa60d99f69.jpg",
+	"data_size": "3361636",
+	"description": "このソフトは、1992年に発売されたスーパーファミコン用アクションレースゲームです。 マリオシリーズのキャラクターたちがカートでレース&バトルをする「マリオカート」シリーズの1作目。サーキットやオフロードなどのコースを舞台に、加速重視やグリップ重視など、さまざまな特徴を持つ8キャラクターからひとりを選んでレースに挑みます。相手をスピンさせるバナナの皮や、自分のカートが無敵状態になるスターなどのアイテムも用意されています。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-05-09",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/683111d421399c2de47375c42dc1d44b0c72350591397647a760f6ba96d41b25.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/424aed723ed9f89b3c30a6c4ef9d018e84ad42438f7a01d371184a02a85cb615.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bfe05cba6a1dc10177c34b53cc4eb22eeedbd44b0892840c98e4616891d30e26.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1f992f99fbecf2fa4c246dc2c3b63572cf1c818314ef4a7f28f484f7cd260b49.jpg",
+			"name": "スーパーマリオカート プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c046724b5e5b607c19b308e62533ef329db3fcdd4aa0b3c1472f514967ee96c5.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "75"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/41514b603039abd7e768d1b2a38a5c07bcbc881c925fb3110fdbd1765ad5f1e2.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "75"
+				}
+			]
+		}
+	]
+}

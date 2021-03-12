@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000016A100",
+	"eshop_id": "50010000037117",
+	"product_code": "CTR-P-ECDP",
+	"name": "Nintendo présente : La Nouvelle Maison du Style™ 2",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/54cb4727fc93b2990a2709b01162aeacaadaf8a8f2bbaa55ae52d4657133e79b.jpg",
+	"data_size": "893815652",
+	"description": "Dans ce jeu Nintendo 3DS, les joueurs incarnent cinq professions pour devenir une figure emblématique du monde de la mode. Ils peuvent gérer leur propre boutique et trouver la tenue parfaite pour leurs clients, ou s'occuper de leur coiffure et de leur maquillage. Ils peuvent également concevoir leurs propres vêtements et devenir mannequin. Ce jeu peut contenir de la publicité et du placement de produit. Visitez le site amiibo.nintendo.eu pour voir la liste des amiibo™ compatibles et en savoir plus. Un lecteur/enregistreur NFC est nécessaire pour utiliser les amiibo avec les consoles Nintendo 3DS, Nintendo 3DS XL et Nintendo 2DS.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2015-11-20",
+			"retail": "2015-11-20"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/edde6c11f95a7e40191018ad3db2b1977645af3efd092a65540fae88842bf81e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/63f700fab8c004cf087db32d587f29ffef350e220f294b06fca951b0b156d048.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/9b8fc5306512db3327e40c3f7cee7e478ed73a382ced36651172fc397ee27154.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d17c2dbfc0c1e9d5404cd88a682b3f730f431ae29f26ef0f5bc6731fed213e11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/296c1a8b95f4d9d27a434ddf959d94c476e4578e0ddf917b41cb018e2ba2508f.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6606a1582c13268e9a0d34a8399d0caac508bd1c5a9d47030c42edd3dc8e0b5d.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9da015111f9895eba7ec76e8f0f28eb21d4085fd66af29799118cc83b572107c.jpg",
+			"name": "La Nouvelle Maison du Style 2 : bande-annonce de lancement ",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/52c160a41b4b63e69cf92308ef0044083e03536adf7b52a81784a8dfa0503f7a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "188"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f00737532498bd3f2e73372a913fef8252e7ed69937d2a6b7f26689482c2ad70.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "188"
+				}
+			]
+		}
+	]
+}

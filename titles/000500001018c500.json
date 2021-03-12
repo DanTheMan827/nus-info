@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001018C500",
+		"eshop_id": "20010000013487",
+		"product_code": "WUP-N-BRDJ",
+		"name": "ロデア･ザ･スカイソルジャー ",
+		"platform": 125,
+		"platform_device": "WUP",
+		"publisher": 349,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d63eb4492f3fc7729a38549ede0e0fce3bdacf7452f5354b4363c67fb5c0ccb0.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/db12372c55e0573145eb4e81f9c88d67f02fff607c6be7393df8c15d249225d7.jpg",
+		"data_size": "2843476308",
+		"description": "『ロデア･ザ･スカイソルジャー』は、360度に広がる空の世界を自由自在に冒険できるスカイ･アドベンチャーゲームです。主人公ロデアに備えられた力は\"空を駆け飛行する\"こと。\"人と機械の絆\"をテーマに失われた記憶を辿り、大切なヒトを守り抜くため、プレイヤーはロデアを操り、天空世界\"ガルーダ\"に迫る機械帝国軍を撃破し、物語を進めていきます。",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-04-02",
+				"retail": "2015-04-02"
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/794b77e3e83208051387a9ed2e63f551aae22d6cfde4f1ccf1f1155ece54683f.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/759cea0e8e95b11a180076335cbf78762947bbcf5c71b4011ef99d12f8543d84.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/42c4ef43aaae6a6cf0496b5a1100c0e922b1df8464add43675afdae287903ba7.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/63959cc8f5d2f6ba39c886e37b41d2753a4427cb3a45f8dbe7a936fa7aa89a75.jpg",
+				"name": "ロデア･ザ･スカイソルジャー 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/324b9b31388495a1b108aa9db3e3693d9b245e2683552c96b0cb39fe432a4a87.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "135"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/39728674a633d85b3663c2ad62fbd6c67bf64d70f0d2e5ecdbe6a0c3fbe9402d.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "135"
+					}
+				]
+			}
+		]
+	}
+}

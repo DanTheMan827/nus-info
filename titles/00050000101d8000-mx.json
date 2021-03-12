@@ -1,0 +1,53 @@
+{
+	"title_id": "00050000101D8000",
+	"eshop_id": "20010000018329",
+	"product_code": "WUP-N-AQEE",
+	"name": "Q.U.B.E: Director's Cut",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1478,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a68206cca11785e34442605ce6f6472610b78d2d6d1b1d02086ef299431376f9.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7b3bb8b39c3a0666d42d9f56f09f5601bbdd492016f7292208c8f0f91f0dba62.jpg",
+	"data_size": "1119977692",
+	"description": "Q.U.B.E: Director's Cut es un juego de puzles en primera persona para devanarse los sesos. Usando guantes especiales de alta tecnología, manipulas el entorno que te rodea (construyendo puentes, moviendo muros, abriendo nuevos caminos) para adentrarte en un misterioso cubo gigante que atraviesa el espacio a toda velocidad en dirección a la Tierra y destruirlo desde dentro antes de que acabe con la vida en nuestro planeta. Esta versión Director's Cut contiene una historia y diálogos totalmente nuevos de la mano del premiado escritor Rob Yescombe, y niveles contrarreloj en el modo \"Against the Qlock\" que pondrán a prueba tu destreza a la hora de resolver puzles, además de tu velocidad y adaptabilidad. Historia escrita por el premiado autor Rob Yescombe Puzles complejos e inusuales Nuevo modo contrarreloj con 10 niveles Banda sonora original totalmente nueva",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-09-10",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/5d57da3945f42d684a2d7a97fcfcd4846967923d641f06de30191e0d61b2e70a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/37d100ec7399d76c08636845250b867119315ebd6d8db8c8ef830865710e1989.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/dc631d86c9a7cb553644ceae332260e4cc12cc4ae3909eb8dc6c4bc2ab19dc5d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d772d83c20d27a8617d05353028077469a0ac8b48d5efa8013919fbcbe99a610.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ef1e936e5ff9b574521b7be711b0fe8c4b5876e9e4b364c0294f7cfb77d2ac42.jpg",
+			"name": "Avance para lanzamiento Q.U.B.E: Director's Cut",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2b4678e1590717d31fc5babc5948843a50ce4a908d7b8ec77f2e103a0bced04a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "117"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e3383ab848e143b5fe76b632d72cc1405b939631dd48acb94ca8c6a7f17b3bb6.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "117"
+				}
+			]
+		}
+	]
+}

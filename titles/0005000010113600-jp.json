@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010113600",
+	"eshop_id": "20010000000563",
+	"product_code": "WUP-P-ATKJ",
+	"name": "タンク!タンク!タンク! ",
+	"platform": 30,
+	"platform_device": "WUP",
+	"publisher": 27,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c66e5bec20d9ad33f9faf23d3dbb09bb84b667f0fbb5c7267ed01d9137e90e2f.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f51f014a0d0fc14bdb8edb527b670df03f7661b564b68fa25fd6704c923eb7a3.jpg",
+	"data_size": null,
+	"description": "戦車に乗って、町の中を自由に動き回り、いろんな威力ある兵器をぶっぱなす! 敵や建物を破壊する爽快感と手軽さで、家族や友達と、腕の差を気にすることなく「やった!」「やられた!」と一喜一憂し、一緒に盛り上がることができます! 「チーム戦」や「バトルロイヤル」「巨大な敵と戦う」といったアーケードで人気のモードはもちろん、Wii Uならではの「オレコングモード!」「ストーリーミッション」を新規収録! 「オレコングモード!」では、プレイヤーの1人が巨大敵となって他のプレイヤーが操作する戦車と戦えます! 1人でもやりこめるストーリーモードである「ストーリーミッション」では、さまざまな種類のタンクで新しい巨大敵を相手にバトルを楽しめます! 友達と2人で共闘することもできます。 パッケージ版の一部を無料で楽しむことができる『タンク!タンク!タンク! (DL)』も配信中です。",
+	"availability": {
+		"eshop": false,
+		"retail": true,
+		"dates": {
+			"eshop": null,
+			"retail": "2013-02-21"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/fb1e8343921e526125d849bb44d77e611fc32f9bc9bcfb3d0feefbf6f9b36108.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e9249fd08e1f833af8cab7b107976dbec59afdce7c7f405fcec6131880a9d2b7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/887bdad5512aa19dc30c697b184ca778593127ab77b27373dea92579bb9a8edd.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f5ab0d0682abfc76add82161b38b820c6b0e214be4a31a9e5df36bd1352a53b5.jpg",
+			"name": "タンク!タンク!タンク! 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/631b8146a6cf44e797947d940b85b8d20c5cd6225693fd65ed1d45705766f71c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "172"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9715180ca02eeee2102a0befa8745c5507964c698d8f6eaa7315584a209d49ed.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "172"
+				}
+			]
+		}
+	]
+}

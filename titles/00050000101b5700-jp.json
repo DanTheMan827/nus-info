@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101B5700",
+	"eshop_id": "20010000016187",
+	"product_code": "WUP-N-FEZJ",
+	"name": "VS.エキサイトバイク",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f3b3ae76b95a2407ff63d03c3cbaf2d8bb5d16d4d1391c5c784ff43b6ab90094.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/49b974cf281a716eaab1dacd56e704fe8d2f7d55fffd70e30b851ae7352eea3b.jpg",
+	"data_size": "38895776",
+	"description": "このソフトは、1988年に発売されたファミリーコンピュータ･ディスクシステム用のバイクレースゲームです。 トラックに配置されたさまざまな障害物を乗り越えて、上位入賞を目指します。レースには予選と本選があり、予選では単独でトラックを1周し、規定時間以内にゴールすれば本選に進むことができます。本選では対抗モトクロッサーと競争しながら走り、入賞可能タイムより早くゴールすると次のレースに出場できます。時間内にゴールできなかった場合は残機が減り、0になるとゲームオーバーとなります。バイクの操作にはさまざまなテクニックがあります。ジャンプの飛距離と着地をスピードやジャンプ中の角度で制御したり、小さな障害をウィリー走行で通過したりと、うまくコントロールしてタイムを縮めていきましょう。「VS EDIT」では障害物、ジャンプ台などのパーツを自由に配置して、オリジナルの走路を作って楽しめます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-09-16",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/4a73b04a69e9ca90d207e350743d70658f751c849c9868b942bbaa0cbf9ee79a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e968865cc9c80b60f62e8e190e1cdb430818c97805b14cef9ee2578b6c75bba1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4e9a7ef0d5586224af233b878e98701af0dbc8b0fcf932c4f82a8f02e90d08e9.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d208abc0e726c0885328fcff7a6e88fe7f18be13a5a3c3ac60c0efd385745e2f.jpg",
+			"name": "VS.エキサイトバイク プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/49d8c274343f0e473018a89ac8ba4435ed78314f050238699c52616af2cc5f45.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4038473b85e560f54884f307f93de819c7b73bbedf7e591be6f18e9df8c3c1d6.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				}
+			]
+		}
+	]
+}

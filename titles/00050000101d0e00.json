@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101D0E00",
+		"eshop_id": "20010000018989",
+		"product_code": "WUP-N-PDJJ",
+		"name": "川のぬし釣り5 ～不思議の森から～",
+		"platform": 168,
+		"platform_device": "WUP",
+		"publisher": 167,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4ef8bc8aff0efc57a0b8a251a162124bf01b4fa28464e0b7070234231984ec5d.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/233385c3245259b8f612709b5d5424cab12aa77cc528e14e12db0cf4c339f6a6.jpg",
+		"data_size": "70680716",
+		"description": "このソフトは、2002年に発売されたゲームボーイアドバンス用の釣りRPGです。 ふとしたことから不思議な世界に迷いこんでしまった主人公。呪いで魚に変えられてしまった人々を救うため、冒険の旅が始まります。 エサや仕掛け、釣りかたや釣り場を変えながら呪いをかけられた人々を見つけだし、うまく釣り上げて元の姿に戻さなくてはなりません。そして、旅先で出会う村人たちのアドバイスや頼みごとを聞いてイベントを解決しながら、どこかにすむという「川のぬし」を目指してください。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-07-06",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/948dc85912036c9cafecdf06252180fd931cab503c11f4c1776d9482c93a1792.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/e65f1e8b5f2096f41867c529fd8edfbc9dfcf24320d9b4c7b235e3f2d3a84732.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/8f35bdf8880d81531a3b0d39d07f5255a53f25cdefd53a28b8b49788c1a0cf4d.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b07979d63dbefd1903e813a805cc14ad8934da08dc774fa075aaa0b66d6e7262.jpg",
+				"name": "川のぬし釣り5 ～不思議の森から～ プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/591a9229edd0bc27c3147c9837c9b15527556dd30608fee22040d0b26873c4ae.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "54"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bf136c480f14ca220398779bd86784f45d8c570f65779852ea2f2f26178f3f7e.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "54"
+					}
+				]
+			}
+		]
+	}
+}

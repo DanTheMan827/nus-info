@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101E0A00",
+	"eshop_id": "20010000021468",
+	"product_code": "WUP-P-BLVP",
+	"name": "Lovely Planet",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1541,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5f7c088a9abedc51fc799e3f22343674b296947cc91fbacc76764d97601c81f7.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/1e03fb0dfbab9f8a37bc0f06f049f582d63ca6d3105a8f8e9d2eea649653150b.jpg",
+	"data_size": "171475084",
+	"description": "With boots of speed on your feet, an infinite supply of bullets for your semi-automatic and the ability to jump over twice your own height, you're well equipped to go up against any enemy on your quest to reach Lovely Planet! Balance between jumping around dodging bullets and taking aim for a better shot at your enemies, don't waste time camping at cover spots and waiting for enemies to pop out - artfully evade the onslaught of bullets and defeat all baddies that stand in your way! ",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-04-07",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/6ea2dd3c883f29272b0588cba3b3365e7ad46e4b1592cc73b5eb47dc75a6349b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c0e9b3f9ec803565faacb171a60a47cc6279ae358c95b048bbab962c7f75c375.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9cd68c0f6b8f105d829d29a3afa6ece73c090123657dcf538bccc5f1de6f6862.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6b5991266dc14f000b7fbeb7b0585d003656304a7443c0880dba55ef9a154a8c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/106fc576dfe9892d103bd9aa95304e33ece89eb1e49226878967b74c6a568379.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4dc17d9e020d2dec0573fe5c1d2cb461d581c15d365be4e9f55757942568d7ab.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a6be231728bea76d4cb1e2d74fb28861216e59e6a0d064a284f901fb292e6da1.jpg",
+			"name": "Lovely Planet: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1a43ebe02316370b0e7acb4affbb1fd17605b509793f70d2bee0af600d517f5c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d9a0fb61aede193e567d572924984ce06f5b4225dabe4c871b84174aa254a991.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001014C600",
+	"eshop_id": "20010000002344",
+	"product_code": "WUP-P-WGSP",
+	"name": "Giana Sisters: Twisted Dreams",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 368,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cf235584c25efa468d0664ee386b04bc6d691c8b70f7a511490d8f7cd4ea7b22.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f6a6e7f1300e56e4e7264526cdb435fd293bf6d4703218e0428e775c36991335.jpg",
+	"data_size": "3789848976",
+	"description": "Giana Sisters: Twisted Dreams — это увлекательный и динамичный платформер с необычным игровым процессом. Вы можете трансформировать мир снов Джианы, тем самым меняя набор способностей героини и окружающие ее объекты. Джиана путешествует по миру снов, во многом зависит от ее желаний и настроения. Встретив препятствие на пути, она может либо разбить его в щепки, либо грациозно перепорхнуть. Выбор за вами. ",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-08-22",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/ea6502d701cb01436644eaea2da8424eebec3037a14a62fc06337cbffd725e38.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5d7019f62d5be36a1e457a76c052af3a5978a2ed9948429d26444d6e3b9c89ab.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/cfa2973041cdaf2990ec1b2337d47df1891292a15ffd7a8edc2011b99cd7c05d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/efe566afb5f700488d2f2d1a5770d67b9dbac7646eb0d9b49605a38a2749f778.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/95063b5df1c5421f5e065b4570850fc00e7cd61522b43dbc7a803401f92e6113.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/746bf52db937325a00ccd6005a2f4a23d63fada38efb9d19ecdd917012725e3a.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7e41c7a43df110d4bc504bfa6c43608a3586c49603895159eca323937cb24ba5.jpg",
+			"name": "Giana Sisters: Twisted Dreams - Видео ",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9fa4a104209cd13f941f9adf8781cf7389f917eb15287a5dc2c55409e82922ac.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "101"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e2efecc7b5418298fb8769d5cc151a953ea0d677976473bcb7ecdbe8f9593589.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "101"
+				}
+			]
+		}
+	]
+}

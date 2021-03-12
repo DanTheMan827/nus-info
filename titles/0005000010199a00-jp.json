@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010199A00",
+	"eshop_id": "20010000013227",
+	"product_code": "WUP-N-NADJ",
+	"name": "ゼルダの伝説 時のオカリナ",
+	"platform": 170,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f6e53a217b3ec807760d2223cc61e71b3a75e04f20de2e007ac8d45ae32c8372.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/2851bcd6fb6fb99f7a66f21ffbf0bd7582e1a797906c32e1a8e7dfffd2d2d65c.jpg",
+	"data_size": "79954040",
+	"description": "このソフトは、1998年に発売されたニンテンドウ64用のアクションアドベンチャーゲームです。 コキリの森に住む少年リンクは、森の守護神･デクの樹サマから、森を出てハイラルの城へ行くよう命じられます。プレイヤーはリンクを操作し、ハイラルの各地を人々と出会いながら冒険していきます。 ダンジョンではさまざまな謎を解いて最深部にたどり着き、待ち受けるボスを倒さなければなりません。アイテムの使いかたを工夫したり、部屋の仕掛けを動かしたりすることで進む道が開けます。リンクを助ける妖精ナビィのアドバイスを聞き、いろいろなアクションを試してみましょう。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-12-22",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/5bd6ea6e0a492dd8c9f79d82be4b569ff959e61c1df293e532ec5b1ad22255a2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e89677e027a8e587420d2aa6e2d67af8b510b0363d0b4b65a39f3edbe99a2b7e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3ebb85ccd6f6ee36f99a6f9f34043e46587730ce31f9a772592f9bf63b0b5820.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/de407f5e03b2ea267c6930d338a3df5d5d661a1d617d2f548d211fd7182d1d80.jpg",
+			"name": "ゼルダの伝説 時のオカリナ プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/24d441cced43f0b3c881c771fd74f70887bcbbdce0063bcb8b2f8d9436863177.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "70"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e0df981dec92628bbe27288506bd4a5dfbad98cb6db54034506ce83e2253c627.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "70"
+				}
+			]
+		}
+	]
+}

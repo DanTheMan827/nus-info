@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000199800",
+		"eshop_id": "50010000041036",
+		"product_code": "CTR-N-KFZJ",
+		"name": "ファタモルガーナの館",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 442,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5d68d6df41fe78485fc4bdaf2bdcfb8a14e6370d2f152f8140117634bd6b596d.jpg",
+		"data_size": "1029622628",
+		"description": "インディーズアドベンチャー『カタルヒト』シリーズ！ 「ファタモルガーナの館」は、住む者は必ず不幸になると噂の館にまつわる、悲劇と因果を綴った西洋浪漫サスペンスホラー。 「魔女の住む呪われた館」で “あなた”の帰りを待つ女中が一人。 彼女は一体誰なのか。 この館はなぜ呪われているのか。 なぜ“あなた”は館にいるのか。 館に住む魔女とは……。 彼女が紡ぐいくつかの悲劇と、 館に残された記憶が織り成す 『偽りなき物語』 真実を求めるも諦めるも“あなた”次第。 しかしその結末は、希望か、 それとも―――― これは、人の業と、絶望と、僅かばかりの願いが錯綜する物語。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-07-27",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/dcab95b38ac637018f39d75e39e534f1b6bdb2bdb378f2f6fe5939d44ef939bc.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/457c1875f229871242f135b3359e0f42272c664ce9cbe91439dcdf6102b76f41.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a81097b689f0f65c33f773126005e6c1bca059ff73e17731e1e247d1dea4acd2.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/457c1875f229871242f135b3359e0f42272c664ce9cbe91439dcdf6102b76f41.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/178eb697348c053e8d815e873e98686ad1ff7b889cc0e4b2d3127e5bc1291081.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6bb1c898b89851da93bcb431640e2be51641b5cbd7521da390e9aa9359bca930.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/61cf2e59fb1e8c03d6c1e6bc79c96387bfeca3ea03ba6d16ed229863aeec7084.jpg",
+				"name": "［カタルヒト］ ファタモルガーナの館 (Novectacle) 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0e9e7946d0db07c4e81cb4cc7b18c3a7d17582748d30c5a83dc1ba0678f97c9a.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "161"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0fcde7836936b7b6a66448255d74b75e6dfe5e6321deafa48b42785fd0b2b30a.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "161"
+					}
+				]
+			}
+		]
+	}
+}

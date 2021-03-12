@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000140500",
+	"eshop_id": "50010000024876",
+	"product_code": "CTR-N-KDSJ",
+	"name": "脱出アドベンチャー 終焉の黒い霧",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 19,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ed17815fff286b1b8d62508e157b7235f4c4b3f32a90d59dab6fcaf0effc0a75.jpg",
+	"data_size": "157641572",
+	"description": "本ゲームは物語を読み進めるアドベンチャーパートと、とある謎を解くため、またはとある場所から脱出する探索パートで構成される脱出ゲームです。 主人公の時野若留は行方不明の友達を探している中、さまざまな事件や現象、密室状態を体験します。 「探索」「分解」「パズル」「情報収集」、愛用の工具クロノテクトを使い、活路を見出していきましょう。 ■物語 「逢魔の黒い霧」 逢魔時、闇の中から現れる黒い霧の腕。 それに掴まれたものは二度と、光の世界へと戻って来られないのだという。 災害により変貌した大継町で流れ始めた、新たなる都市伝説── 若留は幼馴染の彦道と共に、行方不明のクラスメイト秀ノ介を探す中で、黒い霧に追われる謎の少女と出会い、導かれてゆく。 「七阜市の大災害」 「死へと誘う漆黒の腕」 「謎の少女」 密室の闇に潜む邪悪な気配。はたして若留たちは、すべての事件の真実へとたどり着くことができるのか?",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-08-27",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c67b65a346c7da4d1e267f39238e42c8e9ecd64ad30370cd74c3882b4504f9ca.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ee1e89ea2fcfa8a7b3aa0058734b0c19f5d8807b643ec37a39e7aba5b4e31c45.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7a6b50931154f8dd3c172e09b386ab1f3af0b6a03f82084c619c0b9ce05cb1c9.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a68fd4bcbfa0885017f06e79169565e27042242d0bdcdb0a80775d4a53ae0df4.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/00cf8b0cba44c6ab6d2695620085f8b10b2bde680b9565f56fba7088206f28c0.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4396dad26e074c17c95f1e22136f6813c6250005b4e8b0d66c8e3e743c1b0a4f.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3a17e905d499249b54fc7a3951e3fb0a2b326075ea13f925ec857059d9aa86e4.jpg",
+			"name": "脱出アドベンチャー 終焉の黒い霧 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c5594e1c5b2f1a2a6f912376f05f2774b7f22c3a2ab807ff0a6f19fc914889b4.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "115"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/01526e7b5491fa81507ae47469dba2041e7ed9715c9d1f412d49fea588fa2d62.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "115"
+				}
+			]
+		}
+	]
+}

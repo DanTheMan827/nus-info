@@ -1,0 +1,77 @@
+{
+	"title_id": "00050000101C4000",
+	"eshop_id": "20010000019967",
+	"product_code": "WUP-P-BRDP",
+	"name": "Rodea the Sky Soldier",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 191,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/806a8567ef6b3fab3ea517c9cb5c647df01f3bea71226a106977761262eccce5.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9b792f3ef0b13ac06944b0b344740dc098a95aa87a7043c0d8385a18c28a1a4b.jpg",
+	"data_size": "4557341152",
+	"description": "Partez explorer le ciel et défendre Garuda, le continent céleste contre les forces mécaniques de l'empire Naga avec Rodea, un robot volant connu sous le nom de « soldat du ciel », dans cet incroyable jeu d'action-aventure jouable sur la Wii U™! Il y a 1 000 ans, l'empire terrestre Naga essaya d'envahir le continent flottant de Garuda pour ses ressources naturelles. Cependant, grâce à Rodea, qui avait promis de protéger Garuda, l'invasion échoua et la civilisation de Naga tomba en déchéance. De nos jours, les restes de Rodea sont découverts par une jeune et vive inventrice dénommée Ion qui répare rapidement et réactive l'ancien soldat du ciel. Alors que l'empire Naga que l'on croyait éteint reprend l'invasion commencée 1 000 ans plus tôt, Rodea doit à nouveau s'envoler pour rester fidèle à la promesse qu'il a faite de défendre Garuda !",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2015-11-12",
+			"retail": "2015-11-13"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/2899e4d5d2488421cda1fe9c3973217d95d21b3b4b823ba2113de7d60c2facca.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5465a5e12c5cf3491acee52bd3a9cec6fc2523c0a23b4e37becd469b21877dcc.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/cd40641ab5684374aa0952d010c827be1dc63cab6d35c715ecb9ebcd55f14e92.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2b4dec8e3276fc66fe52b672006b053b9f24d75068f49bc4faf7689d97063d27.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6ea77339fd27b6eda78cbae37d66ffa5104114d82e3b0ff5e5ada2f32d9b9331.jpg",
+			"name": "RODEA the Sky Soldier: vidéo de gameplay officiel",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cc3b6f410300a9c50a1cbcc43018c3c21e725b8a2d0738e7a063db300a261a50.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "105"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/10016c23965a18034878a5c2b55ca1c4b5d2a878d859dc8624e936fa0dec9a65.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "105"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6ea77339fd27b6eda78cbae37d66ffa5104114d82e3b0ff5e5ada2f32d9b9331.jpg",
+			"name": "RODEA the Sky Soldier: bande-annonce officielle 1",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/352094e14c96cb476baa2420e2a12d103e16100142b486a046e82f59e0d5ff9c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "147"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/236dde436055b04f8d3ac4c042b8c55bf3fd72fb99a1752c525300f6c9df061e.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "148"
+				}
+			]
+		}
+	]
+}

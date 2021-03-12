@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "00040000001BE100",
+		"eshop_id": "50010000042826",
+		"product_code": "CTR-N-J3FJ",
+		"name": "PICTLOGICA FINAL FANTASY ≒",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 246,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9877211371478ca3f1d6be643cb7f93b8bc3dabf786491b032427ba74f5251f1.jpg",
+		"data_size": "110340964",
+		"description": "タテとヨコの数字をヒントにマスをぬり、隠されたFFのイラストを完成させよう！ 問題数は全300問以上。 さらに、イラストパズル問題を解いて敵とたたかう新感覚ターン性バトル「クエスト」も収録。パズルを解いて、魔法や召喚獣、さらにキャラクターごとに異なるスキルで敵を攻撃していこう！ FFシリーズ歴代キャラクター160人の収集や育成、巨大パズルへの挑戦など、やり込み要素も盛りだくさんです！",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2017-07-12",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2819f8e6e3a5bc40e21dab5c2c928c72f3ce32bc66b249ec68985e3faa5ae492.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/48eb14553e221a385c1276f24bedb7b7ca0bb476a45ca80bf07a728cc429e617.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bd1be182ea677334883f9f8ef8c68b93322eeb28d47c6e9ff6ba8375618d3a5f.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9a6b1d0406507d4d6f1ee8e1ec2c79bec655fe07d238b889a0d67f11cb149260.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/935b0ee64c65b5f0fa19c98b76b44487f130c3fdb9e8b0541587422520048e48.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/93b6e8a7666300b38c81d689da6591800f66b1b11e193ce38be16d07643b24c4.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/17ab3f0bb4248fbde161e40978a7e9d25fd647ff3eb3e9571b6cd377c3a5c49b.jpg",
+				"name": "PICTLOGICA FINAL FANTASY ≒ 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/eb2a6443bcbd38f281f8080a89c6c7f25e71633497958089ea129d3e07044027.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "92"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4ae6925f52d2f47c19b3345ce0f7b41fef9050ae95c9ead7b16f970440fba459.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "92"
+					}
+				]
+			}
+		]
+	}
+}

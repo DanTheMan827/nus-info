@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101F4C00",
+	"eshop_id": "20010000023049",
+	"product_code": "WUP-N-BRLE",
+	"name": "Reptilian Rebellion",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1561,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cacb4e363614cbed9b44a51bfa1e325a753b3d5e7975c095bbd2c074f50a794e.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9aecacacf2447bec1e02265894b953420551c3ce991300e6a6ba689236d1dfe3.jpg",
+	"data_size": "96534668",
+	"description": "The Reptilian Rebellion has just started. Wait, don’t you know what reptilians are? There are thousands of these green lizard-men living amongst us, human beings, but now they have become too dangerous and want to eat our brains. Don’t let reptilians rule the world and send them to hell. Features: Choose between 10 cute characters with unique gameplay. Kill counter, how many reptilians will you destroy? Lot of different reptilians, vehicles and items. Stop the New World Order!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-07-14",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/9a56f18c1128703ef2306c9b673a82741a2ca542f84367bcf72a1d206f5bab85.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f8bfd5ef164435365c1461f2318dcde55d242342c2d71245b5bada017985428a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/dd1c1d19f65b161f28b95b42ca7b690d32744cda0fa230c89e3478310200abcd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9a7321e63ce6dbca533a4428a94b7d852f34df04df43183c6b9e1b7632b77585.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4514acfda5561d2eea66494b1aa551af11a928446ae57702ce344144ab1cc24a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2755d02945a0ce5905ced759163e61929d8d0c8fa1c3f05310f7e42676d03fce.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d585e9f3d51e2dc12207cbafff625621fd540001575e2ee61563c0d3ff25fc30.jpg",
+			"name": "Reptilian Rebellion Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c5e05f100628df6ea12be890fdc3b5ca5fffc1b0a9d146cfe25c2b240051094b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "51"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/215dce3d557c531373be4525cfad0db2bbd5ac19d77b8728e821848f41880656.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "51"
+				}
+			]
+		}
+	]
+}

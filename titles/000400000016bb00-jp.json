@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000016BB00",
+	"eshop_id": "50010000036235",
+	"product_code": "CTR-N-JCNJ",
+	"name": "クロノスアーク",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 146,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e8d413edffb3f3f3c664f47bcd2e9348691855b3792b75c68e51d8b3ce74f389.jpg",
+	"data_size": "69331812",
+	"description": "10年に一度の「時返り」のためにクロノスの欠片を師匠テスと祠(ほこら)へと取りに行く最中、ゲッペルと名乗る謎の男が現れて欠片を奪おうと迫ります。何とか単身で逃げ切れた主人公のロカですが、テスとゲッペルは行方不明になってしまいます。ロカはテスや欠片を狙うゲッペルの情報を追ってサーナとともに旅に出ることを決意します。 お馴染みのクエストはもちろん、ギミック満載の謎解きダンジョンやジョブチェンジシステム、成長要素のあるキャラクターたちが待っています。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-08-19",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/cd4cefeb88b6a1c7ab4a9c8c095561e31b3e845d3f8e810a5f4a512e1e3d727c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d16f3fbf0018c5aa14c0d52437175a2cf677b3f75edd2bbf705f2f6b9187454b.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/20a06ed99f7192be4edba53c2492b0844d9c1067cad994b7ba4ab153ca46665c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f96cea3acba0812e7266d01a93468eddb041d2a4f909686f10b6fe6d680e71c5.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/9800e42a2ad2200ed98cc87c67e59e0220170285a113d3948556111f54d957d0.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f1af725e98b7ec9ee9d99343b36b82df9e651d584feeddbf43b7a0d0cdf985b1.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9598123bc1b1d1be771d21b0529383e9daa280472974770eaa40891b30a2ffc9.jpg",
+			"name": "クロノスアーク 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1f19556ba22e004c2cf1fc92e86eaaebd049ddf803dbc0ef73286a641ecb4391.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "75"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2124fb3f38445b42e86a3ec6577657b9685cdc90ee0711f4c605448b793d15f5.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "75"
+				}
+			]
+		}
+	]
+}

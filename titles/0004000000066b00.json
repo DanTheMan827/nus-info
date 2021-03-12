@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0004000000066B00",
+		"eshop_id": "50010000007044",
+		"product_code": "CTR-N-JBJJ",
+		"name": "ニコリのパズル 美術館",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 118,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/31ab9bdd1ccd677ea79fc15bb1626cf599b062bc28a2f52f89452b5af279805b.jpg",
+		"data_size": "13949796",
+		"description": "世界中で大ブームを巻き起こしている「数独」の名づけ親ニコリが丁寧に作ったパズルが「美術館」です。この「ニコリのパズル 美術館」には問題が50問収録されています。問題を解いたときの爽快感、パズルの中に感じ取ることができるストーリーは、ニコリのパズルならではです。 1人でコツコツと解くもの楽しいパズルですが、「ニコリのパズル 美術館」ではローカル通信で最大4人までパズルの解き時間を競い合うこともできます。パズルの腕比べも同時にお楽しみください。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2011-07-20",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ab5f7849c4c633549b9f5b10505aeb754dda0462d13ec8e772c1ce8706306f7a.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/aab5e2a2049b977b22352a55dcd6c3d8c28bf3a0ebb6f995ee3c4dee502c76b6.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/4fefec69f0e3186f5c3d7c418f0aa1e169d912b2e9bc18ad21fe0d86ba206ea2.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e0192c0646c70e947c00bead68be22f8803b441dc467edad7d05913404cae522.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/63daa7ae931ae1ab46ac957cb7bd06f58b565f6e1861d4d6de98509921079d8a.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7d96119d51eff82401ce6f1379aa360a9256b1fcf3bc6b9fe28f8f478ed07a27.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3976ea2f025618527af415153f91beeecaa99ec690b55fc9de4ea35154c97eda.jpg",
+				"name": "ニコリのパズル 美術館 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/12b0e510437c22e0577122a6d255d1425685febc3ca123d8e60492a217a80cae.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "44"
+					}
+				]
+			}
+		]
+	}
+}

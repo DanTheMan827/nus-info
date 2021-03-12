@@ -1,0 +1,53 @@
+{
+	"title_id": "000500001011A000",
+	"eshop_id": "20010000001489",
+	"product_code": "WUP-N-JATE",
+	"name": "Super Ghouls'n Ghosts™",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 39,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c6a3a46480813c33b3c6a45c942224787ee3dc280544515047ce826dc1ed072d.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/726701b9f16238ff42dcb3ee4660967db67b4682b8064f3057e342446d93e3a4.jpg",
+	"data_size": "41058444",
+	"description": "En Super Ghouls'n Ghosts, el tercer juego de la legendaria serie Ghosts'n Goblins, Arthur debe salir otra vez al rescate de la princesa, hermosa doncella y perpetua damisela en apuros. El jugador debe controlar a Arthur para derrotar a los nefarios noctívagos y lograr de nuevo la victoria. ¡Descubre la gloria que les aguarda a los valientes que se atreven a enfrentarse a las hordas de Super Ghouls'n Ghosts!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-05-16",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/6f9b878934ec9f9aaecf321d702543fd964ebd30c26da0a643a231204accd56a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/995bbf41ff5dc6b8a126180a5954981d3e8f22c5d0ce643e4eece28b4cd5ebd3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8d8d1743f5129c7fc28d17f4193cbcf1ac2b054f62157630f748dd966b0ca3c5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/194437dac17cd484456ca8fba51617968352bc50b179d3646243d7bd3d286b16.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a3e290b99675db1b70e004e67a3d24d2886fc3d800606fdba8146752d24c5f79.jpg",
+			"name": "Avance para lanzamiento Super Ghouls'n Ghosts™",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/aa98f22966a3b4488e1e5a599e3741e24edc408d0b8ef0b8ae1ae29310aa4f49.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "31"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6678c53339561bb884fd6372f5bf10319e99205e6a5544c5e139435250e41eb1.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "31"
+				}
+			]
+		}
+	]
+}

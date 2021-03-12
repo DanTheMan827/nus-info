@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000128900",
+		"eshop_id": "50010000021815",
+		"product_code": "CTR-N-JYRJ",
+		"name": "3D アウトラン",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 231,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/88fddd308034f7843e7057b7aac4c1e5553084f3a50e3799d0738f2fa36f2749.jpg",
+		"data_size": "8346468",
+		"description": "ヨーロッパの美しい風景の中を、名曲に乗せてスポーツカーで駆けめぐる、元祖ドライブゲームが立体視に対応して復活! 今回の移植にあたって新車を追加、5種類のゴールで手に入る4つの追加パーツでカスタマイズできます。BGMも新たに2曲が加わり、全5曲から選択できるようになりました。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-04-23",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/06ce6fdbb45dd042379cd7754bd55c8bc56485692b34f47786e9883c3ed87f22.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/eee7f83bc8f0da5082ca1230c8200ea5f0274b31ae219cf1b55818fb17173999.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/23fab2bf0a8566279d2aba20bf10ef4b4d81a304900f9f6c93abec37db63e065.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2b8b5596d3a5e81eb21fca2a8a0c680123ab8ae7c255590168190aa96a219841.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c693e70154b02149df5de5a517ae848720a4d80b600e7cd2ab4c098161dadd30.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/38337c15df8ff5d7ebd6485b5126d031b03d2b8d84c967ef933ba6aa8db276bd.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/71e795fc55f5929bcd451067a98664995ee9dcb641d6593186cbf8c40cf0cd92.jpg",
+				"name": "3D アウトラン プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c3a36b378f77d329f777b991b75c80a2c244fce6131fb597aecca8f0a676e17f.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "45"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0dc0a53166472ccc3bfe81bde017784ccf62c03b9bb599ec8ab3237d8304c01a.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "45"
+					}
+				]
+			}
+		]
+	}
+}

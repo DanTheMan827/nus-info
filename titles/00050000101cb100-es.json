@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101CB100",
+	"eshop_id": "20010000020391",
+	"product_code": "WUP-N-PDFP",
+	"name": "Game & Watch™ Gallery Advance",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e047d677de132c3ddc6c2a4a12a5175097fddad152a7747ec050a3120d368aad.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/592bd2c14521398ce209183d7ae5880efc2bf773bc51de1a6127b81538eb3b91.jpg",
+	"data_size": "78610572",
+	"description": "Diviértete con seis éxitos clásicos (y descubre más) en Game & Watch™ Gallery Advance. Esta colección incluye: Mario’s™ Cement Factory, Donkey Kong Jr.™, Donkey Kong™ 3, Fire, Boxing y Rain Shower™. Cada uno de ellos cuenta con un modo moderno con gráficos, sonido y jugabilidad mejorados, así como un montón de novedades. ¡También se pueden jugar en modo clásico para disfrutar del glorioso estilo LCD original! Cuanto más juegues, más títulos desbloquearás. ¡En esta apasionante colección de grandes juegos hay otros clásicos a la espera de ser descubiertos!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-12-10",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/76b691bfcb3e3d283ed53a202cd93d768b8f65916f039a29ee4cd4fe30d42501.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/301bab9c7822a85d9ab08b328a635204b72c62467d261dfdfb4bcaf8d9fa4832.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/94a50995b1d35f347dc372448cd276f7198c6b658b92dfec1e5b0044c62c6b94.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7485afbd7db041d75cfd04359c641c5e7c0db44d31e7276fdd8c03f5f353d156.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/06cc8f243d6702383803e7fc352ab6b1f11d8a084cd034e8f9302f29694615db.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c884eb52463a225321de8cc6dbea4bfae8bd01bb288e8bb6325d1da22cf7b430.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fd9a7eafbb420fba0c33dbd1168d885d3023cefc5c7928cb5a1f98288927160b.jpg",
+			"name": "Game & Watch™ Gallery Advance: Vídeo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1ca573bf7aadaa70805351439602458cf619c4902d007f81faeb86ba87103082.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "66"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/06667f021fa2477af498ec010b58c41d417febd1aafa8ce546ac955e912f9ef1.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "66"
+				}
+			]
+		}
+	]
+}

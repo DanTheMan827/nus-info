@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010174C00",
+		"eshop_id": "20010000006888",
+		"product_code": "WUP-N-JCMJ",
+		"name": "平成 新･鬼ヶ島 前編",
+		"platform": 164,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/dfa9e68b9ac2a7893ec789e10e99e6fdd5d82b30e50cc7c1a8942b78f623370f.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e0386fc8e50eaf1c066445a9a208e59e91aa9f4dc8e917d774e57578d4b017b0.jpg",
+		"data_size": "44302496",
+		"description": "このソフトは、1997年にスーパーファミコンのカセット書き換えシステム「ニンテンドウパワー」より発売されたアドベンチャーゲームです。 『平成 新･鬼ヶ島』は、ディスクシステム用ソフト『ふぁみこんむかし話 新･鬼ヶ島』でお供役だった3匹の動物たちが主人公となる物語です。前編となる本作では、一話は犬の「りんご」、二話は猿の「まつのすけ」が、「ひのえ様」という神様のような不思議な星に導かれて冒険します。昔話風の世界観に素朴なグラフィックとBGMが、どこか懐かしい雰囲気を醸し出す作品です。 先に進めなくなったときは、一度調べた場所を調べ直したり、話したことのあるキャラクターともう一度会話したりと繰り返し試してみてください。新しい発見や会話の変化があるかもしれません。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-09-24",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/7eecf89a390710e8bfff77619fee92bfda0d5f94c14cce23b9c0812bc8a13c0c.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/f1edd5a8c89dba025e012bc7b0faa9a7172fa1f74a6427018e2e2aba4486eeff.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/e10ef569eb22ed22ae8c0c308857e1b86c8c9c0a165f3f30457021b8c04c13fd.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/53adb2ee1f1adaa209eb6d2477de3a380c8518b8b69b38520a0d1997c7dbd332.jpg",
+				"name": "平成 新･鬼ヶ島 前編 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/576f2b390d12e79c8b60ae66c0b4d8784f6ea3b53788f8fd847f642bd6234a3e.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "51"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bd237fc56ec275054cdde02f2d4379205d489d9d51bc3000349222df7b62c201.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "51"
+					}
+				]
+			}
+		]
+	}
+}

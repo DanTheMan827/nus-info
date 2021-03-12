@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010168300",
+	"eshop_id": "20010000005284",
+	"product_code": "WUP-N-MNCJ",
+	"name": "スペースマンボウ ",
+	"platform": 167,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3f2c101fe644a16891d968a73e334d4003cb26d27751bbcbf3a23deffb2dbfdc.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b63a0e656cdc9850df7f0453c74949d0a45f04b9d4127598747b370ff6e14e1f.jpg",
+	"data_size": "76644472",
+	"description": "1989年に発売された、MSXのシューティングゲーム。地球を消し去ろうとする巨大マンボウ型戦艦を破壊するため、元星間連合軍のエースパイロットが立ち向かいます。難易度は当時のKONAMIシューティング作品と比べて低く設定。要所要所で敵や敵弾を消してくれる兵器のサポートで、初心者でもサクサク進める事が可能です。当時MSXのみでしか味わうことのできかった、滑らかなスクロールと美麗なドット絵が印象的なタイトルです。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-02-19",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/f031b2fd9347bfee14bbf93b1c162e1b671b3be1ed98836c9859c9f8c6fda43e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9c9aa0c613aa3eb0bdbcc36b8af7a3a2103b4a505c7f40a37fa70ba4228077eb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9c1296da6eff7c4a14fd01adee008fdbc310921acad4e33f718d6a5d22d17987.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c4a7c928cc612822744920c2827906eeb0b8be6f21e3d3fa898d973d356ad78b.jpg",
+			"name": "スペースマンボウ プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cc6de62cfbe11f9fade8fb520e717cfd0e5c0af568c0db1a96ea9ee8b52f3dea.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "43"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f62d2c7e2509231881b8a33d983393f6ffcedf2d9ab507b08230760bc0aa44c1.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "43"
+				}
+			]
+		}
+	]
+}

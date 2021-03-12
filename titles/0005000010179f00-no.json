@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010179F00",
+	"eshop_id": "20010000006968",
+	"product_code": "WUP-N-DABP",
+	"name": "Yoshi™ Touch & Go",
+	"platform": 169,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/824acc49d29c0f84adaf04b9bf4a44a4d76ecc07fa5c1dd9340271b93efaef08.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/2d0750f7886f48670ee1e4c97ccc48302dc644020faa3db619a41964d3f6d7c4.jpg",
+	"data_size": "45809784",
+	"description": "Steady your stylus hand and get ready to help Yoshi come to the rescue of Baby Mario in the unique action game Yoshi Touch & Go. As Yoshi carries Baby Mario through perilous side scrolling levels, use the stylus to throw eggs at enemies, lead him to fruit, and jump over dangers. In vertical scrolling levels, draw clouds to encircle enemies and lead Baby Mario to safety through the skies. With simple yet precise touch controls, players of all ages and skills can enjoy Yoshi Touch & Go!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-07-23",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/7d064ebf59e65c195b3757aa3cb054e5dd2dfe68dd30fed0e38287fa12f0b212.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/09de4e97e9d7c79ad43195d499d3012a4a78b7ce6d65d6f075693a446e60f136.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6563dcb928a48d50e96be0ab81a1205e78246a12595faf920b610cc5458b6b33.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e260926bbd291aad40cd65121d9c7a359999294bb2e9a4446c7aa974d04065a5.jpg",
+			"name": "Yoshi Touch & Go: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/29df54c91f2bf12c917424e8de89f0b0aa51cf7af80089bde90a2d55264ed464.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "70"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e6395103a7f7fcd233fbf77c5d86fa91b2830f9190902a7eed86eb18bb43fd5f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "70"
+				}
+			]
+		}
+	]
+}

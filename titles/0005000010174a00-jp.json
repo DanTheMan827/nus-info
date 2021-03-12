@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010174A00",
+	"eshop_id": "20010000007168",
+	"product_code": "WUP-N-FDGJ",
+	"name": "つっぱり大相撲",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 267,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8e9aceae200a520943b85599daad73e7cb3166c505a8c3a17d5d3a84f8ce6f0e.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/58dd31edbe9987b854d4a5481f8222ebd8c82132e1c9e3b886be8192b5b79b5c.jpg",
+	"data_size": "38731936",
+	"description": "このソフトは、1987年に発売されたファミリーコンピュータ用のアクションゲームです。 力士を育てて、番付(ランク)を上げ、横綱への昇進を目指します。一場所では15日間の取り組みが行われ、勝利数によって昇進できるかどうかが決まります。「つっぱり」や「はたき」など相撲特有の技のほか、普通の相撲では見ることのできない隠し技も用意されています。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-10-08",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/3c558d7809ee81750deda53bdfd63da6b868a353607a0509fb50ee087911329f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/270f5dba5d3edcd9cb7a2b1b0bf1ede1e280c4b8ec8997ca2ddd730afed2933d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a3b2e78503b123695c4a0149c23e4825b58989a8e419373a9e4a1b455dc5ba45.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2761b163aa4fa316828e072e1c094ffd85baf3ee4d486d088e93588e9541fc6e.jpg",
+			"name": "つっぱり大相撲 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cac1a79952c3026eccafbae75d4266c588433dd4f67775031039414be8c38777.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "42"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c6d6649c2317e18ab612e1707af3947c6f1133d326765c63d6d54e35fc4b7eb4.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "42"
+				}
+			]
+		}
+	]
+}

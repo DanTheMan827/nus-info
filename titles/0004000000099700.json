@@ -1,0 +1,78 @@
+{
+	"JP": {
+		"title_id": "0004000000099700",
+		"eshop_id": "50010000012710",
+		"product_code": "CTR-N-NABJ",
+		"name": "レコチョク",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 883,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8c5df97d61e08df1b5247a3336f68d65bdd7f9e3c9133493b5bca32382c83e7e.jpg",
+		"data_size": "18824036",
+		"description": "『レコチョク』は、ニンテンドー3DSで音楽を聴いたり、歌の練習ができる音楽プレイヤーです。 【主な機能】 ◆ストア 楽曲の試聴・購入ができます。 ランキングや新着、おすすめ特集からいろいろな音楽に出会うことができます。 クラブレコチョクに登録（無料）していると、3DSで購入した楽曲をスマートフォンやパソコンで無料ダウンロードが可能です。 もちろんスマートフォンやパソコンで購入した楽曲を3DSで無料ダウンロードもできます。 ◆プレイヤー・プレイリスト 購入・ダウンロードした楽曲を聴くことができます。 各種プレイリスト表示・作成、リピートやシャッフル機能、イコライザ機能などがあるため、自分好みの聴きかたができます。 SDカード出力機能により他のプレイヤーで聴くこともできます。 ※一部出力できない楽曲があります。 ◆スタジオ ダウンロードした楽曲で、歌の練習ができます。 録音モードもあるので、あとから振り返ることができます。 ◆アラーム アラームの設定ができます。 本体を閉じていても設定時刻に音が鳴ります。 ニンテンドー3DSで素敵な音楽体験を♪",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2012-12-03",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ace1a4d704de8d5368784ebbbbf312af97e77fbd01e83ae0ed3d7a9447b2dcdd.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/cd7936ded067c133357f0c40e0b7e17897eee6702ae3d2c86823714af1001382.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e497daffa5f59981778e2c96e48f618d98ec47ae5018d2bc561e7b250f34da19.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a10e66949edb81e62202833a48e35c6acbe7c490c324d27994c969a712c943d3.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8a176e8928f4f7041e44f4f88dc61065c041a0489b815a6fc8d7e87134cbc285.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4f118195d8df435a5884c93ea099a651352ca16bdf6db3bcb7c7da47540bc26b.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1a5a85f1125022e7d2191ebcfbc9afcd4ca4395681c851e7fc1e530d11e01dab.jpg",
+				"name": "レコチョク 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3e3f97fc6533af7535c2578f1ec0ac8c8ee28e17abbdb728d825304beeb32603.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "75"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1a29673f65e033622f7c59eb78c086ae90dcf2727a937f286fc206035ec6ed2a.jpg",
+				"name": "レコチョク TVCM",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/154e76910dec5ac25a03e7b8d9aba8c694bbf25feb3545b9d403c488d21c3773.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "15"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/185765a213e0acb22463e82969cb84f5155b1d2cbe73ce2a60bc432b5983d4f1.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "15"
+					}
+				]
+			}
+		]
+	}
+}

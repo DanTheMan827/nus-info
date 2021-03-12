@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00040000000D4500",
+		"eshop_id": "50010000014295",
+		"product_code": "CTR-N-JSRJ",
+		"name": "スイートランデブー さるっぱ",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 152,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/416897d5450d21c65e5ee7699c1acb6056db97683298e226fbbd4e69d0caaa48.jpg",
+		"data_size": "33848164",
+		"description": "■簡単ルールの思考型アクションパズルゲーム 主人公の“おっさーる”を操作して、ステージに散らばっている「ハート」を集めてお友達の“めっさーる”の元へたどり着けばステージクリアです。 操作方法は十字ボタン（スライドパッド）とAボタンだけ! 難易度ごとに分かれた3ワールド各50ステージはだれでも手軽に遊べます。 ■バナナを探せ! ステージクリア条件の「ハート」とは別に、ステージのどこかに「バナナ」が隠されています。バナナを取りつつクリアを目指せば、少し違った秘密のステージが楽しめます。 ■ニンテンドーネットワーク対応 自分がプレイしたステージのリプレイデータを、プレイヤーみんなで共有することができます。また、追加のステージ配信も予定しています。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-05-08",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f74d919d841f6ea5a766e319de4cf21e2400dd1d2a54a01113645ce09181357e.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/98f4c7ab05cf025733d474e4f33f0bcf0f8c00b549337a5b5817228412401f44.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/02482b4149eb47766b0758c8bc17de8e76572b8da18605f9cb5781f690c661ce.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d1f9a19002c411f154a1eb4914bc228defbf27d7b8848073c2da0a30506ed2eb.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3ec8728901446e92b0f556f43f21cad3582d966609c06f2752027f6a7f7c75db.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b92a92c0f9467f0c85fcd05e4c1d52b62433f0140b6fad60d1d454e4b5996b93.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/74dd98d161cf010fdf412f9d6ce76e2d7ab30b7538172c5eb0ac42c9eb8f241f.jpg",
+				"name": "スイートランデブー さるっぱ プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c1fa00f6c9491898f528a253671947ae1f06b9be3112aae183e836889e7b7718.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "50"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,79 @@
+{
+	"title_id": "000500001011B200",
+	"eshop_id": "20010000000104",
+	"product_code": "WUP-N-WLFE",
+	"name": "Little Inferno",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1022,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4f8f111437fa3bbbc5fc2e460cc786d4d8b6c28b15871f7840a82b16c75c30d5.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/78bf6c570379e4fed05474d228b84926d6e1382af762c26f2a3e1d0e17c39197.jpg",
+	"data_size": "119373944",
+	"description": "¡Felicidades por la adquisición de tu flamante Chimenea Interactiva Little Inferno! Echa tus juguetes al fuego y juega con ellos mientras arden. Quédate en casa calentito. Ya nadie recuerda cuánto tiempo lleva nevando... Quema leña, robots, tarjetas de crédito, pilas, peces, globos, peces globo, artefactos nucleares inestables y galaxias diminutas. Esta aventura, que tiene lugar casi íntegramente delante de una chimenea, trata en realidad de lo que hay chimenea arriba, arriba, arriba, y del mundo que se congela al otro lado del muro. De los diseñadores de \"World of Goo\" y \"Henry Hatsworth en la aventura rompecabezas\" 100% independiente: Hecho por tres tipos, sin oficina ni distribuidora ni financiación Libre de In-App-Purchases (compras desde la aplicación): Simplemente el juego, sin spam, anuncios ni contenido adicional o expansiones de pago",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2012-11-18",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/2f84c3ca957d92b7c72bf88cc4bab43f2bce2745ddf2d5b01e5e2b8392491565.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/cb93983a33cef6b2c04ded4341a180bc75d799ec9ba599700e96dd6c21ffc736.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3647a6ac93d3b280773de24a447ff4a55f821cba7eefeea85acba5e50e3a90cd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/964d282973b9df40ee496e5bfabab4aaaa9274a9c001a123f44bc1e43b5009b7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e7bf0aa6147c405a8f072e5757d23735799fb85153d208e5bfd7d7a24d50d52d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/07c7fbc1d64b5fef22292f03f6c130459e0eeb4e9759c54e9bdb1d506d68c488.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7e6f6292b826bdc3d4f6ca3154667a498f2ff804629b804190b17af24162d55d.jpg",
+			"name": "Little Inferno Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/88a9b46bb41701855f0c937848b4a17e18a4976b4c6c058b5a1b880fef825f4d.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "121"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7e37f67af8be4317a84c5dff954ce9e6051005bbaaffc881960da49acd8fd587.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "121"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f5107eda7c3390286f2348d7ee6fd703cd56e2d6f415b75f77d514a3898f9377.jpg",
+			"name": "Little Inferno Video 2",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1cca5e5f1702342a793fd208c24bdcb862e3f11a1f9cdb77fc47d05089896a88.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "120"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cf347d5980c4e569abffe2c5887240308b7951f1bcc6888a04485001547e7983.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "120"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000F0000",
+	"eshop_id": "50010000022076",
+	"product_code": "CTR-N-QA2E",
+	"name": "Mega Man™ Xtreme 2",
+	"platform": 22,
+	"platform_device": "CTR",
+	"publisher": 39,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b83f43ba18069a33ba9d620f6793af91edf734716fabd817f665c129eb6c2677.jpg",
+	"data_size": "4754276",
+	"description": "É uma época em que seres humanos e robôs inteligentes, conhecidos como Reploids, convivem pacificamente. \"Maverick Hunters\" é um grupo de Reploids que foi formado para destruir Reploids defeituosos, também conhecidos como \"Mavericks\", a fim de manter a ordem na sociedade. No laboratório de pesquisa de Reploid em Laguz Island, Reploids são transformados em estruturas de metal sem vida, como se suas almas tivessem sido apagadas... Maverick Hunters, como Mega Man X e Zero foram convocados para desvendar estes acontecimentos misteriosos. Jogue como Mega Man X ou Zero ao saltar por fendas e plataformas, adquirir novas habilidades coletando DNA e destruir as forças do mal nesta ilha mal-assombrada. Resolva este mistério e restaure as almas perdidas dos Reploids!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-05-29",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/18aa9acf60bd5c686538a4317409d2b33a9180cc6c3bcad0f181f4f5296fdb7e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c82f2454438f0d8cae0179b1e21dde07443a4979784b744727e3c64136f845d8.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b765502204bbeb284a8b0592c0e1978f665936ed4800ca2795d6d7dfa4385dc4.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/79b4f0fb9d7f78d8ffcdf41ee736c68876c1d79d7c1e0d8354d44ae06468772c.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/9e316711cec65e7ec3c705ad07d4a4a77be9922ce9f3586bc962753ec3d9a213.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9335d3c22a350da81bf4583df96a33eb3d82bc7f587e168fdfd2157907dc0a91.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3dc77db66f594532004f03b7ba31038bd2ac55df87ee51678772039dfb450176.jpg",
+			"name": "Trailer de lançamento Mega Man™ Xtreme 2",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9e75ddbacfa6a236c8275f4c660c38a96fe014603a644c624dba1677dd1beaae.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "51"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ff0b53295480e924270901d805fa086b409c6bf397f1d200b09c577d528773a0.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "51"
+				}
+			]
+		}
+	]
+}

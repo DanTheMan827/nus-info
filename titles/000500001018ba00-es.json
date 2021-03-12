@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001018BA00",
+	"eshop_id": "20010000012727",
+	"product_code": "WUP-N-FD9P",
+	"name": "Mappy-Land",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 27,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e56120e18abedd6e59b6c33f7a6b8baaa96cd5ce6d5137edebcda854d32df4c5.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c624dea3e78fe68575782a384a87df596e567f12ab358f294ab0ffe8bd72da57.jpg",
+	"data_size": "38764704",
+	"description": "Mappy-Land es la continuación exclusiva para NES de este clásico de arcade. En esta ocasión, Mappy el ratón tiene la misión de reunir regalos para su nueva familia, pero los Mewkies no se lo van a poner nada fácil. Nuestro protagonista debe atravesar ocho mundos temáticos, como el Salvaje Oeste o el Pueblo Fantasma, e ir recogiendo regalos como, por ejemplo, anillos para su prometida Mapico y pelotas de béisbol para su hijo Junior. En cada mundo, Mappy tendrá que hacer frente a una serie de desafíos únicos para encontrar la salida, que suele estar oculta. ¡Menos mal que también existen métodos ingeniosos para acabar con las travesuras de los Mewkies! Esta es la versión estadounidense del juego.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-02-12",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/aa0e6d6133aa2a9cf87abfd14f187d0a024c64c845cc84cd4e388c0fe38d7d5b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e40e577d17ea2c699a4152b1a4bb4111e15efbaa0d8cfe21ca7ba85b846e4f0e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/af2a3f9284993a8d7bb4409c5e297c1c449aafcae143a3861f7ccf6b545700d1.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d3bb62420ff7dc88dd59e5df1218a50c79a7dad1872c108e461c34f13b744eb2.jpg",
+			"name": "Mappy-Land: Vídeo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5796a117f4e4aa670d86781dcf0cadd17269ef557412b62661c2b80a53c86e7d.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "54"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1bdd7e9c73486d0c6f1337b14a37d75079f952a0e279821b70ce7c66b9e50f8c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "54"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000127F00",
+	"eshop_id": "50010000023257",
+	"product_code": "CTR-N-JNBJ",
+	"name": "プチノベル「婚儀の六月」",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 1212,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/85af51ed901a0b32b56872f9cab018f6dcb6710e77faf2cdc27c519f864f1acb.jpg",
+	"data_size": "85576548",
+	"description": "『婚儀の六月』は、神の住まう町・多紙町の六月を、 遠山耕平の目線から描くビジュアルノベルゲームです。 バレンタインデーにチョコレートをもらって以来、 早苗の気持ちに見て見ぬふりをしてきた耕平。 意識しないようにすればするほど、 彼女の気持ちを強く感じてしまう。 「自分」は一体どうしたいのだろうか。 戸惑う彼に、試練が与えられる。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-06-25",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e906d44ef151065fbf7cb3fa5c251b6f147fb291e6e111046bab77a33ce542fa.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c8ff21e4c11250fce430b5fc4f5acc9cea8d6aa1447bf9bffcf1a93d0774c8ed.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/acef02b9de516f9c39c0b89458513c2790974a1e5a145b677ee731a0a5006a5e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c0e9b1d310e6f9704838d27d55cf6181c8142c2d86441f22c6844eb425c364e5.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e0f562712cbbff53c437e6161cac8450448d75c1157a8274c65500407733ad6f.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/32e74bf1164bf4f0388d4ba89e854d9840af02c903725dada05ced57e045a5f8.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/026dc351f04c87af31ffc9830d0af74a819ee9f5a35b48121736d212aacb27b4.jpg",
+			"name": "プチノベル「婚儀の六月」 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ef20c1b27d2ca75ade1884dfc31cf27520602b13bb3b9e8e97a65ec117726d99.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c403af129a3703812cdc9c1e1a979dc3190fc6a4e51633f5f0ee4cd56bc8c399.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101A9A00",
+		"eshop_id": "20010000014108",
+		"product_code": "WUP-N-PCMJ",
+		"name": "シャイニング・フォース 黒き竜の復活",
+		"platform": 168,
+		"platform_device": "WUP",
+		"publisher": 231,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a6944ff3731f52e3f9cbd5c1e05cccb5beb925020285e72ef18aa1156a841a8a.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e243f47a392e141c23dec56820ea5038f631638004827a96f6c6514fbf6a3fa8.jpg",
+		"data_size": "75071628",
+		"description": "このソフトは、2004年に発売されたゲームボーイアドバンス用のロールプレイングゲームです。 光に導かれし勇者たち……さまざまな種族・職業のキャラクターが「光の軍勢（シャイニング・フォース）」の名のもと集結！ 戦局に応じたメンバー構成が勝敗を決める！ ドラマティックなストーリー、スピーディーなゲーム展開で、「光の軍勢」の進撃は止まらない!! 人間、エルフ、獣人、ロボットにドラゴンまで……個性豊かな仲間は30人以上！ \"集団\"バトルのタクティクスRPG登場！ ※当時のパッケージ裏面に記載された文章をもとにしています。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-05-18",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/a07c9b16e4ad34eb6167ceebc2126fe185591e91ade2fb561415694322b45b7c.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/6a7b328ef30ded0eff8731299435ac9b7bc27ffe3c4b037fb2ceed276e215588.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/a4951a57aa29b87eb0047761201b9fb8fe308e17e378c2172f879bb08c20fa0b.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0ca6ac68fe8c15a7898d92fa9c150bd9bf3d8d3017bfa0cdc0b9660e4bf63c0d.jpg",
+				"name": "シャイニング･フォース 黒き竜の復活 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b6e08461c45f9f3f4099c46a035b7e63e23df6297ac58cdb5f37cefb40065a61.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "71"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/167972ee3c421ba4f352ade11080539b6cf48b279262e3b0e36c434e00371b77.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "71"
+					}
+				]
+			}
+		]
+	}
+}

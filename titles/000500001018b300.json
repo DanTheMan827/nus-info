@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001018B300",
+		"eshop_id": "20010000010427",
+		"product_code": "WUP-N-FD5J",
+		"name": "がんばれゴエモン2",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 149,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/639ffe246e5edd6d0f5307908ba0cbe4eb13225a1fff652f6b1a46b8984f1a02.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f2aa7658d56c8c5e64fe8dc2f46759a80c00f2ba9030609aefd58935eb33da1f.jpg",
+		"data_size": "38863008",
+		"description": "このソフトは、1989年に発売されたファミリーコンピュータ用のアクションゲームです。 敵を倒しながら全国を駆け巡り、財宝が隠されているカラクリ城を目指します。各エリアは、ボスを倒したり、通行手形を3つ集めて関所を通ることでクリアとなります。「まねきねこ」や「おたふく」などのアイテムを取ったり、お店でアイテムを買うとゴエモンたちはパワーアップ。隠し通路を捜したり、重要なアイテムが落ちている迷路に挑戦したりと、さまざまな楽しみかたができます。ゴエモン(1P)に加えて、えびす丸(2P)との2人同時プレイも楽しめます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-03-11",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/657554ca65245dbbcd4c20caa3ad14362fe1eee1cbc20cf309e0e6dfbed8252f.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/4818adb410f0c0bed0b2250e8128607c4d3c21ac4e49b4fbd10d7635ac680e12.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/b189d43c6ebb678d41f7f687ffb47d92f112e2fd688ba736407c65761ceb8052.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c6a752f85d1f718c681d3daa65735002b0d59d9162f25a8abd1f8c5d9ab2967d.jpg",
+				"name": "がんばれゴエモン2 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/da3601bd7d0cf0a64375c996d48d99ba3c02c924ffbebe2d226a69a350332126.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "51"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/aac61f08cba2b343a8aea189a854c1c1f4b8cb1a91a125aeba3ced9e8aa4ef44.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "51"
+					}
+				]
+			}
+		]
+	}
+}

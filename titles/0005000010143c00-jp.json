@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010143C00",
+	"eshop_id": "20010000001870",
+	"product_code": "WUP-N-JBYJ",
+	"name": "ファイナルファンタジーVI",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 246,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c4a3cbc06456631a37960cde708aaccd9f01066035267e17ac2dc5cb90209766.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8b9f0b7f3a8d67e347c93f6d3efa0dc4615873481206886197c8b4680d04cf4e.jpg",
+	"data_size": "43024524",
+	"description": "このソフトは、1994年に発売されたスーパーファミコン用のロールプレイングゲームです。 魔法という1000年前の文明と、人類が築き上げた機械文明。その2つを融合させ、新たな力によって世界征服を企む悪に、魔導の力を持つ少女ティナをはじめとした10名以上のキャラクターが立ち向かいます。武器や防具のほかに魔石を装備することができ、ラムウやセイレーンなど、強大な力を秘めた幻獣の力を得ることができます。幻獣は戦闘に参加してくれたり、キャラクターが魔法を修得する手助けをしてくれたりします。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-06-26",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/5786c0d8b2755a12b36d7874b549eda7b7b685906870c740258f6eeacb0ad2d2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d641f887502fa1284625c61a495b76125f5ab207e39d1d109491f923f6c35a18.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/95630dadc53acbcecbd7b676f62a05008ee4cf3e06b15eb98c9a1efb6ddb560e.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ce6b09602221a64cb2f23ceeb633543c977896aafa017c624e04daf45862e9ce.jpg",
+			"name": "ファイナルファンタジーⅥ プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/41061fa44ea4a1c65dc0b73983efed844eb3fb6165e7a318c43d3bb51cafc917.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "55"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1b1df168d60f55340c8908b79bd93fb139e608a050e8f9c78d2dbec2caf84db7.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "55"
+				}
+			]
+		}
+	]
+}

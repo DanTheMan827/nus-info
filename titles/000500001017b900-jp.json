@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001017B900",
+	"eshop_id": "20010000010086",
+	"product_code": "WUP-N-WMLJ",
+	"name": "アミーロ･ザ･アルマジロ ",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1212,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1d629277d3e700bb9366c25e2c8442a1057673a7468667760e0de6eb1dc9f118.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6def9fc9c39695bb5d51002badc644ffb2e78c017e630ebb87eda22040214bfe.jpg",
+	"data_size": "1437040880",
+	"description": "『アミーロ･ザ･アルマジロ』は、アルマジロの「アミーロ」を操作し、いろんな惑星を舞台に、パラレルワールドの「ダークムーン」からやってきた「ダークボット一味」にとらわれた、兄の「デニーロ」を助けに行く、宇宙大冒険ローリングアクションです。 ローリングダッシュで敵をぶっ飛ばし、オーブを集めてショップで強化! 行く道に待ち構える多彩なギミック! オーソドックスなゲームスタイルでありながら、いろんな楽しさがギュッと詰まった一本です。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-10-29",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/cd60f146e0c6e60c685c9fd4a6e94a7695a94470e75648fdca3fd9b1f8343036.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/57220d095091a63f55553e9c49b1c60cb219171d137542e3e3344782b2562ffe.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/aa8aef46dc61989090e004a76683beca0d92bc4e4d66d8fef6e26685e397c9e9.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/81131ddb4c6f544adcee5086d6c4e52c9e877351e4b8a5a095f0f312c3219d7f.jpg",
+			"name": "アミーロ･ザ･アルマジロ 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/def9c1f57da946f02fcab47cc470f2f7399a3ed0250910f3b979196fb3353092.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "91"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0d3af0b588e2a99d8f99dcd14f959eefd8a964b7cf1dcbfcc6207ce849ae5ae9.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "91"
+				}
+			]
+		}
+	]
+}

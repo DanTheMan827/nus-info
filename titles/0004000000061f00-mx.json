@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000061F00",
+	"eshop_id": "50010000010166",
+	"product_code": "CTR-N-AD2E",
+	"name": "Deer Drive Legends",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 1062,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6002bd2d448c3ea994475893ea34edcc4e33aef373f2adb5caba6580993757a1.jpg",
+	"data_size": "56605540",
+	"description": "Con más de 30 animales difíciles de alcanzar, incluidos rinocerontes lanudos, venados de cola blanca, lobos y alces irlandeses, Deer Drive Legends te transporta a los rincones más inhóspitos de la tierra para cazar algunos de los animales más salvajes que pocas veces han sido observados por el ojo humano —incluso se creía que varios estaban extinguidos—. Capturados en ricos entornos 3D, ¡estos animales son rápidos, letales y están ansiosos por convertirte en su cena! Participa en viciosas batallas de poder contra el temido T. Rex, los gatos que se defienden con sables y los gastornis. Con varias armas para elegir, como rifles de francotirador, ballestas y escopetas de gran potencia, ¡Deer Drive Legends es el juego de cacería más moderno que estabas esperando!",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-01-17",
+			"retail": "2012-05-29"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/fceda2fa3a30037954fc599c969772de51510e6d818602b2e867975f6ad0b615.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/94efea93e37e92c773169880d6ff07c5920dd38188b31c070b447de2f6b5d249.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/81959839703512648136dd6534d05d0e446b50b9f30c3f86ddc6496837205fb7.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f7fa04f4357af7167b581383d084c045bff41fcbf7a64036f293ee52bb5677ed.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bd2ed2dde74d5691fc7def1282384c07f9403d228f3f9c5901b0a7e2725fbe43.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/72c303aed371541775ffe3df6cefa6c1d8c9ea89d3f7c1da9cf6085f35174266.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/66d6443d1621d4f7d6ed4a421c15220ca452fb2972a2584ab3c6dbe112744882.jpg",
+			"name": "Deer Drive Legends Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7b63628af096ed77819b78647e40e23f38105c766abc84fb56beec7ba31863a8.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "62"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f52a6dc425a692abfd17e7dce9f3b9f9b90d99f955fcad9129df491863c0d141.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "62"
+				}
+			]
+		}
+	]
+}

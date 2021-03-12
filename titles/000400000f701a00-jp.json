@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000F701A00",
+	"eshop_id": "50010000039696",
+	"product_code": "KTR-N-UAGJ",
+	"name": "スーパードンキーコング",
+	"platform": 1004,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6fe4dfec5ed13258d9cb74022003e679cb8b2f6e06350671f88fba90290bc626.jpg",
+	"data_size": "7195492",
+	"description": "このソフトは、1994年に発売されたスーパーファミコン用のアクションゲームです。 大きな体に力自慢のドンキーと、身軽な体ですばしっこいディディー、ドンキー&ディディーがところせましと大活躍。2人は一緒に行動し、さまざまなアクションで敵を倒したり、仕掛けを乗り越えたりしていきます。プレイヤーは先頭にいるキャラクターを操作します。場面に合わせて先頭のキャラクターを交代しながらゴールをめざしてください。木箱の中には味方の動物「アニマルフレンド」が入っています。背中に乗って、それぞれの特技で助けてもらいましょう。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-03-04",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0b23129c0538b0ae07dd4f163bd966990fe05ee214540c0b00fd1749ac1f62a5.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/79a22e5b0d0e3367c2af08dcb1189b5f3fc3ddf96c7f56244db1cdf16912117f.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d3f65f0f3df3e3228290810dd70a4396e6f5e6ceaa89c15d0497ce6469a3322d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/17b6c31fa262ca1ff09b63db2d844eddf7dbc929f8bbab4db490cb74abaa0889.jpg",
+			"name": "スーパードンキーコング プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1decf58ad08eac6d23ffc00c85171ca686184e8234500d02d0cc756bb6a7051f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "64"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/079ca08364ecb09494098a1e50fd4315532f17d1653c943cdee9ec2e7235c710.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "64"
+				}
+			]
+		}
+	]
+}

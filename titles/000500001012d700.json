@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001012D700",
+		"eshop_id": "20010000000785",
+		"product_code": "WUP-N-WKYJ",
+		"name": "Wii U Panorama View 京の町ゆく人力車",
+		"platform": 124,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/62089003ebe613373430e45ac39beb5cb56300115e03cdbd9a4c6cd9ee8450e5.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e6d34ce0e0763448bd40d3aa53a8cc466926a2298bff01c2d570e807d7d428e2.jpg",
+		"data_size": "411566220",
+		"description": "Wii U GamePadを操作することで周囲360度を見渡せ、まるで自分がそこにいるかのような臨場感を味わうことができます。本作では、京都の町並みやシチュエーションを映像で疑似体験することができます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-04-27",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/facfac80f3b9b55cdd479d15453073699559f137288a6923b54e6cc16f62174b.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/3f0200fbd7b6b847c3a16d471b277d8c8d5c9044c1194f55deb8c82b43ec3fb0.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/5ee9c4d4bd3590e09f21ba4a2ca01893013f5fa822d0f8e94c28a8a6372252c5.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7112ad000b7842e33fb11f98c6c59c4d85201da41d4b4f7537927ddbfc9e276e.jpg",
+				"name": "Wii U Panorama View 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6f534bd6be63bccd11b23557512aa60f2e78fec313d697ffb3018c06ff76a3da.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "103"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f8708cdae7154a29c6fa4e8586948e7a6e6ae511a54ee9cc1d7dd83b1d44c783.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "103"
+					}
+				]
+			}
+		]
+	}
+}

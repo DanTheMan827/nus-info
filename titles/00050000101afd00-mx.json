@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101AFD00",
+	"eshop_id": "20010000017667",
+	"product_code": "WUP-N-BCEE",
+	"name": "Crab Cakes Rescue",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1062,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f7ee05788442d5bb7e8f8b4686ea5ea8c4ced57ef4acc91631771e660a5b84bd.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5be7de02311a2bf733f9ea03fbdbb4091e9a298c137924ddf3ae0dd9ccc46d13.jpg",
+	"data_size": "280723596",
+	"description": "¡Crab Cakes Rescue es un juego de ingenio único que te atrapará por completo! ¡Encuentra tu camino a lo largo de los casi 100 niveles apasionantes, mudando tu caparazón para crear nuevas oportunidades para escapar! Cada vez que se muda un caparazón, se crea un bloque y se reduce tu naturaleza de crustáceo malhumorado. ¡Debes utilizar estos trucos con inteligencia ya que cuentas con un número limitado de caparazones! Ten cuidado con las problemáticas gaviotas y otros amigos molestos de la playa a medida que encuentras la mejor manera para subir, bajar y desplazarte en cada alucinante nivel. ¡Prepárate para pasar horas en la costa arenosa de Crab Cakes Rescue!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-08-20",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/cc4983543362947ab0aa608032f564fb6477648aa14259b59def0d199ee83813.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ce943904b53c10d2c42c9db3565dd436b54c3c63223a8e798794046453504e72.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/32073c0ba33012794550ab677229eb22b0bcd00efc76cb4541edfb5245794f65.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f6461cdbd8720b8ff5e5dd75f3afdba8fdb25ff61bdefbe29f91a9bfa69d5cf2.jpg",
+			"name": "Avance para lanzamiento Crab Cakes Rescue",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6c90e22ba6c572cde81a6040b28598547777798746c0a7f5fec5c6729ab3d5e1.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "68"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cafe586cb5ed7fdda87f8417155fdd5d7c75eea206b9317f7cc4285b2f0dda88.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "68"
+				}
+			]
+		}
+	]
+}

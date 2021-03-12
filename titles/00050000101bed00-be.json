@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101BED00",
+	"eshop_id": "20010000021287",
+	"product_code": "WUP-P-BWFP",
+	"name": "Star Fox™ Guard",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c2d8624047456f310d9a63ef33cbd2a91fe78b427a38a7a0810fd05581b0994a.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3e62fd68f9976a5ea43801224bcd763dce7b2464adfb57bf7a55ae2c1adf6880.jpg",
+	"data_size": "1533608196",
+	"description": "Utilisez un réseau de caméras pour protéger Grippy Toad et son précieux site minier dans Star Fox Guard, en exclusivité sur Wii U. Grippy, l'oncle de Slippy, s'occupe de récupérer des métaux rares dans l'espace, mais l'ennui c'est qu'il est sans cesse attaqué par toutes sortes d'ennemis ! Utilisez la nouvelle invention de Slippy pour repousser ces ennemis pour que Grippy puisse enfin travailler en paix ! Utilisez 12 caméras en les plaçant à différents endroits afin de repérer et attaquer les ennemis qui s'approchent du site minier. Tirez parti du téléviseur et de l'écran du Wii U GamePad pour situer vos ennemis et vous en débarrasser ! Vous pouvez également modifier le placement des ennemis. Ces dispositions d'ennemis peuvent être envoyées en ligne afin que d'autres joueurs puissent jouer à vos stages. Visitez le site amiibo.nintendo.eu pour voir la liste des amiibo™ compatibles et en savoir plus.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2016-04-22",
+			"retail": "TBD"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/d1c25d97667887acd2710e289e82417f0c45bebf36f7d4b72cadc49d1b866b84.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/462349848df0bd78ab2e2c4ad7a16bc786eb3187fa8d1249f695a94a07232321.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0aafc62af18219c900740a8c3239d37bfe954e60fd54b2dea2f1e9a4c431d363.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/99bc6dabe3a7cbbb37014286e7787dda3c1f07f69dd85c6a7f0d1a623a22b712.jpg",
+			"name": "Star Fox Guard : bande-annonce",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/23a6b7aa9a1166ee47fc235f0c099333b9e0b4aaf3ed76f839f297d1c2f470d0.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "167"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2dbf88e1cdf529a97b45cb9068876e26060261176ab5afb2d9090fb33389a29e.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "167"
+				}
+			]
+		}
+	]
+}

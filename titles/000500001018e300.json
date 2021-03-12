@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001018E300",
+		"eshop_id": "20010000011486",
+		"product_code": "WUP-N-PBSJ",
+		"name": "超魔界村 R",
+		"platform": 168,
+		"platform_device": "WUP",
+		"publisher": 39,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7f44467d7b28513fb68a805da4ced773860a87108203e98b6187650eaae9e065.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/08963ce13bafd631160d886953a042633c2551b55f450a20cee556085a96c209.jpg",
+		"data_size": "69959820",
+		"description": "このソフトは、2002年に発売されたゲームボーイアドバンス用のアクションゲームです。 スーパーファミコンソフト『超魔界村』の移植作品ですが、高い再現度に加え、グラフィックやサウンドはオリジナルの雰囲気を色濃く残しつつ生まれ変わっています。 新たなステージが遊べる「アレンジモード」やセーブ機能の追加により、高難易度で知られた『魔界村』シリーズの世界をより楽しめる一本です。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-01-14",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/cd6f1dc63457673faa96e4ac228556d5a2160fd5464fa1f4e29fd1aeeff8ce7b.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/dfa49b53ee3f847c543199ad670f9f5253d9dd18932ad47cdbd38b2aba2f114c.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/c1e7b67d505406bb407abfe84178d2add88be4dc8e90994089ad43f0914e2d81.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f149e4299bc597992b486ec8171fad7eafa1018b893c50afdbd4e25be03513ba.jpg",
+				"name": "超魔界村 R プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/33330cd2920909a837ff47566e6d7ff6f9dc105a1cf37e2fcc8edeae968bd504.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "72"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cea6978767f5d3158f3c1f7f0d3ff91cb9f5eb5ab21834cf162831f3afa45f7f.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "72"
+					}
+				]
+			}
+		]
+	}
+}

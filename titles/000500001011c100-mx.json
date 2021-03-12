@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001011C100",
+	"eshop_id": "20010000001764",
+	"product_code": "WUP-N-WMME",
+	"name": "Mutant Mudds Deluxe",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 743,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d88031774fd7d42e77dd45439a65087ebc19e497bed21f0876119c35ba27924e.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7cfbc55d8ec1aaa14c238a1f2d512037181152d0c70ce7557c201f0517b9518f.jpg",
+	"data_size": "55083128",
+	"description": "¿Te gustan los píxeles? ¿Te encantan los plataformas? ¿Hay un lugar especial en tu corazón para la era de los 8 y 16 bits? ¿Quieres divertirte? ¿Sí? Bien, has venido al lugar justo, amigo. ¡Mutant Mudds Deluxe es un plataformas de acción de \"12 bits\" lleno de píxeles y diversión! Nuestro héroe, Max, quizá no sea más que un sprite 2D, pero puede saltar a la tercera dimensión entre el fondo y el primer plano con su fiel mochila propulsora en esta experiencia dimensional única. Armado con un cañón de agua muy resistente, Max tiene lo que necesita para vencer a su némesis de siempre: los Mutant Mudds. Max debe abrirse camino volando a través del sucio paisaje para buscar a los misteriosos Water Sprites. ¡Según la leyenda, al recoger todos los misteriosos Water Sprites limpiarás con agua a los asquerosos Mutant Mudds para siempre!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-06-13",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/ab332986fa7e13c27b2eb71f31b8de9ed8a7284dd142bc173d75c01ec57e819f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e7098947b2d389079d8d28ab3c18936aed1204ccf8dfb153bedcd0733c2440c1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c261cd1e67723313b919e3d617007b5fe1268f929a68f5a638f084ba1231cabc.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1c854e57a9a7806039dc7ecdd232661af828b95504cfa128fa37bfd51d9d8c8e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/eee2eb0d0da458b295d6d44a4d972ec3bc54d838cbe8a8021901cb381df09c79.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7b9b1e1b669bf8d4925344cbb482c9d518a9b76aac85ac8b13be5ddfff3d66ee.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/998e1fd3c86ed912084a78949fc4e28e2821435b21d702eb9027e82c1ad8c77a.jpg",
+			"name": "Avance para lanzamiento Mutant Mudds Deluxe",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/73b6f72797c8fa0e4ba3c31be59dbbd6fa0a88cc0e9508c69d2a1294f04a0fce.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "81"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/73262e15d571c263ae4ecce5abf3db9d3dc93ca39899c6f46737419fef86ab0e.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "81"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101BBA00",
+		"eshop_id": "20010000015847",
+		"product_code": "WUP-N-PCZJ",
+		"name": "伝説のスタフィー2",
+		"platform": 168,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5a4072e0cc733bfc59e8ed125fad3d465ea63a8d3c0bd0707d3a0ee6e63f7ab2.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/74ce62f996395a330c8647915c07d89a0db425079c8293328989d265e6b536ab.jpg",
+		"data_size": "74743948",
+		"description": "このソフトは、2003年に発売されたゲームボーイアドバンス用のマリンアクションゲームです。 海のらんぼうものオーグラが復活！ 仕返しにオーグラはママスタをさらって逃げていってしまいます。 オーグラを追いかけるスタフィーとキョロスケは、ふたたび海へまっさかさま……！ キョロスケ「こらっ、スタフィー！ いつまでも泣いてないで、かあちゃんを助けに行くぞ！」 さあ！ スタフィーの冒険のはじまりです！ ※当時のパッケージ裏面に記載された文章をもとにしています。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-03-16",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/8170ad47b874a31cf025a5f8fb60b20466ab95be18a47a0f329d31387290186d.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/1c1fd4620826d733ded5c29b97ca0a32d5cd16ce41ee5c5a04b9956fc3e36291.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/ade66a55a7bd57397af01a5b8d151e7acc2e848026b9a8f0045ff476b141a7a4.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/efb3f36bde3f84d9bf559d4e0618be5a832edbf4fed84b89570ade32d064907e.jpg",
+				"name": "伝説のスタフィー2 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0292bd25b2eccc90ecb6b40e30aecb3e0763cf967dac3a62a0a5dd1736adf0a9.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "45"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1c6426aa151dec2e757ed97c87834fdbc06c19e0232925cd974390671ea1d728.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "45"
+					}
+				]
+			}
+		]
+	}
+}

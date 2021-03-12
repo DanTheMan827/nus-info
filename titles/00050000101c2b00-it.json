@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101C2B00",
+	"eshop_id": "20010000019147",
+	"product_code": "WUP-N-JDKP",
+	"name": "Pac-Man 2: The New Adventures™",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 27,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/87692e74213e8d6847775b6fd23c8a6533144e1860770669fed86e9a1136a62d.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/fcf5fb940cca066b8d5ea89ac1365ed29bf13280ada5b1259b79d28b3c810027.jpg",
+	"data_size": "43483296",
+	"description": "Pac-Man 2: The New Adventures™ è un cartone animato interattivo incentrato sulla star dell'omonimo gioco classico e le sue spassose avventure. Tuttavia, Pac-Man decide per sé dove andare e ha la tendenza a cacciarsi nei guai, per cui dovrai fare attenzione e tenerlo d'occhio, sia in sala giochi, sia in deltaplano o sulle rotaie! Inoltre è possibile giocare ai due titoli classici completi di Pac-Man tutti da scoprire, ossia il gioco arcade originale Pac-Man™ e il suo sequel, Ms. Pac-Man™. Questa è la versione americana del gioco.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-10-08",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/11d3d10146fd2a6b16d3b530940d4bfa19da0369d7df5677b92edcf2b19286c8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/61d384de7f3faba11607f49a7cd4872d3c81e02ab8d1a21899cf2281e4a539f7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1e350d16c604daa88d52aa3cbd379782dd108d8185f42bf0cf6e26a8f899dcc9.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d7a6de7f1457ef5d70a9f88eab58a54ec790a117a73325beb47fae7eab436dfb.jpg",
+			"name": "Pac-Man 2: The New Adventures™: video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ed546fd3396469d47bea66fa95d22ecd5b4b216ccc34510044c0f65158877ce4.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "59"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/670999cd2c53b1e382d9a268a3d32a686a01756fc18697dc94a65511240c95bf.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "59"
+				}
+			]
+		}
+	]
+}

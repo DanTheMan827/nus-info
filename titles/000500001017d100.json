@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001017D100",
+		"eshop_id": "20010000008086",
+		"product_code": "WUP-N-PBCJ",
+		"name": "ぶらぶらドンキー",
+		"platform": 168,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/37ebea5093c70ac5b033562819c97abe4d68f062d0b4c27298750fb45464979a.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b857ed9aade3e667379ee1cefb8be71329803b29f486052f1285f2256e7cc870.jpg",
+		"data_size": "85885048",
+		"description": "このソフトは、2005年に発売されたゲームボーイアドバンス用のぶらぶらアクションゲームです。 いつもは穏やかなジャングルが今日はワイワイと活気づいています。ジャングル中の住人たちが待ちに待っていた、真のヒーローを決める祭典「ジャングルピック」がついに開催されるのです! 今日は開催に先駆けて、勝利者に贈られる「ウィナーメダル」がお披露目されるはずでしたが……!? 今度のドンキーは、今までのアクションゲームとは違って、LボタンとRボタンを使って大冒険! たった2つのボタンでほとんどの操作ができます。ドンキーのアクションで一番重要なものは「トッテ」。画面に浮いているトッテをつかんで回転し、敵をかわしたり、ジャンプしたりしてゴールをめざしてください! ※当時のパッケージ裏面に記載された文章をもとにしています。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-11-19",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/d63e04f9cd6857e56ebe411416bd3423e7de73dbb2f694993836671e903a5fd0.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/82f909b6f15c0422e78cfda8e754c44aad4be63bf190abcd00cad108e462f227.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/288aa1d8dc8d03d59511f5a7819c2de73d2dfe8ff1d31d031ed6f55f8be46c18.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/966c2573ac35b7522404b768dfdd18f359ce70be9facf7002a71633b75186cab.jpg",
+				"name": "ぶらぶらドンキー プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/556ae48711c211cea2d991c193f28f3ac064b2dc87f6b57e203009524baecb62.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "44"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c8787e13443b9bbafe065cb81e09b94117d2a66eb8114f332c992ef60da0328d.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "44"
+					}
+				]
+			}
+		]
+	}
+}

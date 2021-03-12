@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010159100",
+	"eshop_id": "20010000004724",
+	"product_code": "WUP-N-JB8E",
+	"name": "Super Punch-Out!!™",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7a7b9b2cdd9f44b90b95bd90a7e590352037e7691af7bd999d2f58f79f44c59a.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/34c4295910a21cf2224420991e96da6e14f92a8196cecf7270a473ff475dceb5.jpg",
+	"data_size": "42336396",
+	"description": "Featuring the tight game play and humor the series is known for, this sequel to the NES classic sees Little Mac return to the ring with the World Video Boxing Association belt once again at stake. Slug your way through the grueling, sweat-pounding matches of the Minor, Major, and World Circuits as you face off against some of Little Mac’s greatest rivals like Bear Hugger, Bald Bull, and Super Macho Man. With a cast of new challengers waiting, do you have what it takes to identify their unique patterns and exploit their weaknesses? Go to your corner and come out fighting, but remember what Doc Louis would say, “It’s not about brawling—it’s about finesse!”",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-12-26",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/2e9679dad68824ec9ba677e892ae8e57f5db22bfc6bc32c007d551763f1b6351.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/91d6c1e5a3643dac438843d1a855ea51e6778c050205b53c1dc551585c04a56f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7788ffa26987236df5c79d7d5ccffd0524ac9ae94427e489346e09a50b0d67dd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/cbc896a0c5ba01cb2b9379b82ac3cf877e8e84484c635bc0a637021bfe4d80fd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0f1fad9a9fc4bb15349c1ff29a5b6e571068ef82eb6400cad88c58c7bc16c31c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1b682f9562faefbbc1e8c135216d249aa9ff1e6ce641e17f8c8246e66905d4af.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f4fbb37e95f4c236ebc961d0737c3699f2242af714c9d157add1520206394807.jpg",
+			"name": "Super Punch-Out!!™ Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0dc20049233aaa3eb57883041fca02457f35a4317876b690a2cdf2aff9f98b8e.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b0e5a87d920d669c3eb2fe71f36071edb269b1df42e4685ca5681829e82adf3b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				}
+			]
+		}
+	]
+}

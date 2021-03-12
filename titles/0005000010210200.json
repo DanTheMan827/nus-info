@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010210200",
+		"eshop_id": "20010000026527",
+		"product_code": "WUP-N-AZLJ",
+		"name": "レヴナントサーガ",
+		"platform": 124,
+		"platform_device": "WUP",
+		"publisher": 146,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c01a0c292f68f97f3ee104cbd394b23ec91b4bd6e1692fb39855b00e56c3dd71.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c1fa17d97080624a353f0e76a64ff67aca3b0dbfe264263284391ccd23fe4a70.jpg",
+		"data_size": "213713036",
+		"description": "言葉巧みな博士に騙され、不死の魔物「レヴナント」を生み出す おぞましい実験にかけられた少年・アルベルト。 魔物に変わり果てることはなかったものの、その身に2つの心臓を持ち、 悪魔の魂を宿す存在になってしまった。 博士への復讐を決意したアルベルトは、 神の力を授かり、レヴナントの魂を浄化する女性・エステルと出会い、 その身に宿る秘密を隠したまま、共に旅をすることになる――。 悪魔の魂を宿しながらも、人間として生きるべく苦悩するアルベルト。 神の啓示を受け、神の力を宿す女性・エステル。 世界を救うのは、神なのか、それとも悪魔なのか…… 彼らの旅を通して、シリアスで深淵なストーリーが展開していきます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2017-06-07",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/cfeb0badb8868b02d2bb6505afeaf76372670ab4090352f3ec47fdfb70710ed7.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/06d5cf1376bea0a789a17aee748413999fddf1228981688e43dfb9772a1ebfa3.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/b0371cf6683c6e68d7105f5ced70a955695843240caacb4544bcfba58fad6836.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/502933cb41cbad3c3d4c1694f686e3312dac6b4d2169598a2c99ba72a95fb7cf.jpg",
+				"name": "レヴナントサーガ 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/113dbd2cbadb2b807aad78bc1d74570325746e460546a096f73acdfbdc52acf1.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "61"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e41eaad225deb02c42757e118a61e65e17fd41983d7bb840feb8c2b3a365faf6.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "61"
+					}
+				]
+			}
+		]
+	}
+}

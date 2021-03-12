@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000179300",
+	"eshop_id": "50010000040335",
+	"product_code": "CTR-P-AKMP",
+	"name": "Mi osito y yo",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/39c18731f59e3cd9ebf8636d95c4a317a7386dde5042c76e17dd545bb63a8c73.jpg",
+	"data_size": "403733348",
+	"description": "Conviértete en el mejor amigo de un osito de peluche con vida propia en Mi osito y yo. Cuida de un osito muy especial que puede hablar, caminar y jugar en un título ideal para que padres e hijos jueguen juntos. ¿Quién no soñó alguna vez de niño con ver a su juguete favorito cobrar vida? Visita amiibo.nintendo.eu para consultar la lista de amiibo™ compatibles y la información más reciente. Para poder usar amiibo en las consolas Nintendo 3DS, Nintendo 3DS XL y Nintendo 2DS, es necesario disponer de un lector/grabador de NFC para Nintendo 3DS.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2016-07-01",
+			"retail": "TBD"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8256fd669533523944afddf17f65c26936a50530e858a8c034f9e9552d7b6b74.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5060007206c09488ed049fa9fca57381229021fa2dd250eebfef8f7f52d17484.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/befe84dea671eaadf4f27934d8335b4f7aa3e941c54df6bf12a1a06f5ca2a17d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d7196811d10263dc2e4bdee788a76c2427f5eec2cb5b340cb9fda93e8c409e05.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/045e563d88c7354df2600471d323892d69fcfa87755bc9eabd6d31b38b674b5b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e8c6a5b68539885f269f76ab10b87ea88075cc3c4d7a69a9e1910d2d6c92a62c.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8832c5b5441a57cf5b19a786172b1ec221f09c67ff9be0bd55fc07f2a9934674.jpg",
+			"name": "Mi osito y yo: Tráiler",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/01abd0257fbcf8a7dddf6fd78c6e05eebb4c7cdec98acc5652163d31baaab23b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "141"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e016c35c11feaf39b01fee22448fe10eabb2f4be505f079500fa1ff050ef6832.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "141"
+				}
+			]
+		}
+	]
+}

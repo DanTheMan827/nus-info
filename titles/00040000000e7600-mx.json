@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000E7600",
+	"eshop_id": "50010000015096",
+	"product_code": "CTR-N-JKEE",
+	"name": "ATTACK OF THE FRIDAY MONSTERS! A TOKYO TALE™",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 456,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/07d016ebcd0b18bbf8d776cdc09de877ecb7d5b671f6983071a90cdec452b0f6.jpg",
+	"data_size": "186506084",
+	"description": "Entra en la vida de Sohta, el pequeño de una familia que acaba de abrir una lavandería en el idílico pueblo de Fuji no Hana. Al interactuar con otros residentes, se revelarán misterios periódicos que presagian sucesos extraños relacionados con la aparición de un monstruo gigante cada viernes. Al fin, cuando llegue la noche del viernes, ¡un monstruo gigante aparecerá delante de tus narices! Colecciona los Monster Glims (destellos de monstruo) esparcidos por todo el pueblo para formar una Monster Card (carta monstruo). Una vez que hayas coleccionado cinco cartas, Sohta luchará contra sus amigos por el dominio... ¡Literalmente! Si ganas a Monster Cards, tendrás la oportunidad de recoger información útil, más Monster Glims y conjurar un hechizo secreto sobre tus amigos, que caerán rendidos a tus pies. ¡Así son las reglas! Un drama conmovedor sobre la familia, la amistad y la inocencia de un niño, que se despliega sobre fondos dibujados a mano, música mágica y personajes memorables.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-07-18",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/23942d1fcdd671f6813c15cc3c1ec46c571d87ffd42911fb0ec840f945a55024.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c7f8255e0241dc1ac3bfc0f6015857c935d03289efeb46c6120c6a8e156c8a37.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1a828925fd2c39ba46022836665d64d3bc0b8cc4bc86422f006008fd120ab112.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/92469cd13371b8c1d0f9023fcf357ccec8605081c897831f5fe3c01a0751559f.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7054645583942996da21a5a3524d3941c8178a534fa6b1941ff4fad81a59d3ba.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/95d890f87ba53361935d9a94ddd2adf56dd34b4340526017400387803e8e5921.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/46f764600fe51e56f10be059db1587f479b92bd252711f3ede4fba70d23c918b.jpg",
+			"name": "Level 5 Games Video 2",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d8d7c285cd60b6796083cfd7c3252106bc59114d5d55a20c769d115202cb9fdd.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "100"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c95880ffd0f197ea6ab70c93528c1239672d19926a6858f95410c6c72141f85b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "100"
+				}
+			]
+		}
+	]
+}

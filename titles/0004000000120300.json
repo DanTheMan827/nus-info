@@ -1,0 +1,87 @@
+{
+	"JP": {
+		"title_id": "0004000000120300",
+		"eshop_id": "50010000019663",
+		"product_code": "CTR-N-JNZJ",
+		"name": "といてすすんで! なぞときキャッスル",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 19,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/656ae2dcf1be9c1688d1dfec0cb235f01eaaa0c7ce94f5b4bd435f2f05e4f62d.jpg",
+		"data_size": "81476452",
+		"description": "本ゲームは、ふたりの主人公･ラッピーとマークを交互に操作して、お城の屋上を目指すアクションパズルゲームです。 ふたりの特徴をいかし、協力しながら進みましょう。 各ステージには、さまざまな仕掛けが登場し行く手をはばみます。 全てのステージをクリアし、ふたりの夢をかなえましょう! 物語 とある森の奥に不思議なお城がありました。 そこに子供達と一緒に暮らせることを楽しみにしている、ふたりのぬいぐるみがいました。 ウサギの「ラッピー」と、クマの「マーク」です。 ある日、ふたりのもとに王様から手紙が届きます。 『ラッピーとマークが子供達と一緒に暮らせるようになったよ! 二人で協力して屋上まで来てね!』とかかれていました。 二人は子供達と一緒に暮らすため屋上を目指し、出発することにしました。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-01-29",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a5f01aa61c2469668c3eaa78f597555f3da0a314ab6f365ea783428f88e73db2.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/056c0f2d6982dea01900c13f8cbe4f763926481921d81bee6f3aae56fa184b06.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b06e2bc38682e8c34241e04db613b19e4c1f8b3fafcca9f1b0fca2852877c00f.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4bc66a9ac79fea17a750f21346d67c1b1c45ba1f485e17712707a0a397c41e22.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a81cd7a4d29ae42c25e8b3e2b8ca0991052e520fb5c889654cbb525d7ff35b3b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/94ebfd3bef705084b5ee69ec092cf5fd36499bb0f22ae02b03c117b947d66893.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bccac40cf02686e984d65b65f6b2bfe2740bc04bb6ca7134b9fa6eeca8c76d23.jpg",
+				"name": "といてすすんで!なぞときキャッスル 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b124baae0480fc24b38f84a5cd3b1fb636a08682c34373dd23cd69e6609dd58e.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "105"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8e6f89e9cfc7a523b487b027a6411c8cbd916b7e2f6c391ead139137adfab2f1.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "105"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/566c51836680a6b1572340766994e2c19515e91e7bcdfde832ae9765990b3929.jpg",
+				"name": "といてすすんで!なぞときキャッスル プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d4407fd7ff183f098096ccc15b59106415af9a1905243cec2617ae7c77c80a1a.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/89b9a1fdd41b176bcc3ca4f78398d72bd9cf3d0fc952fe46a9dbed8097b62c23.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					}
+				]
+			}
+		]
+	}
+}

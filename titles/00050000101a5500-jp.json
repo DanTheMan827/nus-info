@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101A5500",
+	"eshop_id": "20010000014167",
+	"product_code": "WUP-N-DAKJ",
+	"name": "星のカービィ 参上！ドロッチェ団",
+	"platform": 169,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4b8643e9e5a0655dd89d8d9be79ac3b5ba2116f16b10bf0da224a8a43074636f.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/aa78c74955645a46f24fabc3ece2e6992b4e307cad7b23590cc054fdc1147a1a.jpg",
+	"data_size": "55836792",
+	"description": "このソフトは、2006年に発売されたニンテンドーDS用のアクションゲームです。 プププランドの住人に恐れられている深い深い穴、「世界のヘソ」。その奥深くには地下世界が広がり、とんでもないお宝が眠っているとか。何者かに盗まれてしまったショートケーキを探すうちに地下世界に落ちてしまったカービィは、宝箱を集めながら先を急ぎます。しかし行く手には、宝箱を狙う謎の盗賊「ドロッチェ団」の影が……。 危険なワナが待つ遺跡や、通路が隠された洞窟など、バラエティに富んだ数々のステージがカービィを待ち受けています。ワナをかわし、しかけをうまく使って先へ進みましょう。 「コピーパレット」には、コピー能力シャボンやアイテムシャボンなどを5つまでストックでき、好きなときに使うことができます。ストックしたシャボンを2つ混ぜ合わせると大変身。いろいろなものを混ぜて試してみてください。 ※おすすめの画面レイアウトは「大きい画面レイアウト」です。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-09-09",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/76e25a583333bdef8a64f8899e172f0b7fedb81bc6624402c6c4df59a47336a9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f2db21b08763740b1d5a1eef34d9627a4d975035cda1a6aabc566403f099f66d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/cc947cab6508019f40b959be850fd1a786205275f317c59869c2610edcfd7c7e.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/99e2a7445bf023b47a4d5fea69e18e61f868ef57d358d4557ceec96ec6faed81.jpg",
+			"name": "星のカービィ 参上！ドロッチェ団 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/eb3b7dd8cc4e5f5e47b4460b72e1bbc457999e1e8ce7aecdf78582b70838dc0c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "76"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c45a63bd8578bb7741236ff265a92b81d085bfea3a9de879bc0827ea88621061.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "76"
+				}
+			]
+		}
+	]
+}

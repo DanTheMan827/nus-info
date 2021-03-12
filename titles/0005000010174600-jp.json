@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010174600",
+	"eshop_id": "20010000007447",
+	"product_code": "WUP-N-FDEJ",
+	"name": "ディグダグ",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 27,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c7ad8e062c4b1c8f41acce2417ae3d601cc5fb183f6e5235b305e0e9391c8173.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/fd9f27581f3cf09952c7436b2560bc3cf32cd85bec23e162eed588ba2bdee59b.jpg",
+	"data_size": "38699168",
+	"description": "このソフトは、1985年に発売されたファミリーコンピュータ用のアクションゲームです。 地中を自由に掘ることができる主人公･ディグダグ。地中を掘って道を作り、追いかけてくる敵をモリや岩を使って倒します。すべての敵を退治するか、敵が逃げていなくなるとラウンドクリア。うまく掘り進み、まとめて敵を倒すことができれば高得点を獲得できます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-10-15",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/6cbe66a36b601e55d8fbc6b87a9d50b9652e093f49ce2fab5131107cffcbc54b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/91d44c107f6930870c46b48b554523c599c4987ffd55a6c8cfc9fd6a530ccd1d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c45f054671c841d2db7654a54df5df9574a01610b404c6e70081fab6c5658396.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/11e98839bb269bb02a7b6cec315c3c4bb23381ce52627da84941ca2c41190194.jpg",
+			"name": "ディグダグ プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e3a7f15677c39b044cb62c25195c57d1c9262d4314d151dca8b6a98cb999c2ce.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "43"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b2a3e99bf7d3d4d113048eab5bff864dcc1ef6d0fb7920e094dda05a9926aea4.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "43"
+				}
+			]
+		}
+	]
+}

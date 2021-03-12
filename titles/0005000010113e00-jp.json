@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010113E00",
+	"eshop_id": "20010000001104",
+	"product_code": "WUP-N-FALJ",
+	"name": "ゼビウス ",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 27,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5b6c9b30097dfff5583d2eb0778d8f7702c9224eb93f2e37f64a607da40162e9.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/852a85624899f6422c61f0ed6d7ffd253af498a389efd69d7dca763a6fc55dc7.jpg",
+	"data_size": "36536460",
+	"description": "このソフトは、1984年に発売されたファミリーコンピュータ用のシューティングゲームです。 森林、草原、川、港、飛行場と多彩な地形の敵エリアが舞台。敵「ゼビウス軍」は、きりもみ回転しながら攻撃してくる「ジアラ」、突然、空中に出現し、消滅と同時に弾を発射する「ザカート」、浮遊要塞「アンドアジェネシス」などの様々な兵器を駆使し、地上、空中から激しい攻撃をしかけてきます。 戦闘機「ソルバルウ」を操作して、対空用兵器「ザッパー」と対地用兵器「ブラスター」を使い分けて進攻してください。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-04-27",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/664a316cb3acbbaecf7b92b42ff04a6437b1971d7bf3a8cfd590525cfdd896f8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0514d21e8ef124f5a0be59fd3feb85144dda85703b2fdb40d4b7679a5549b2d6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d947423c7b2d7613323c574063c6af459042733f89866e3bfe4dbde5d7755098.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e4d37d597c3291c35fb4b3d7f0461d11267d168bd83b7f37f6b7cc2de0e840c9.jpg",
+			"name": "ゼビウス プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2462549aa4b0393f66d49a10c9b5b27b3ae7d34e53d1a56979bfc170de158645.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e60d635aae0726dd13eda6c6281cf3f55d5ee81eb3382f4765eda4580707b54e.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				}
+			]
+		}
+	]
+}

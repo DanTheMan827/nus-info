@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101A7600",
+		"eshop_id": "20010000013747",
+		"product_code": "WUP-N-FEWJ",
+		"name": "ディグダグⅡ",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 27,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ead02eab5859e758479f51297dcfe651f0ee25e1dbcb4567755e8752648338f7.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/607bc971117d36ed724652b75d5f03f33067742aab75a477be599279dbc9f109.jpg",
+		"data_size": "38830240",
+		"description": "このソフトは、1986年に発売されたファミリーコンピュータ用のアクションゲームです。 主人公「ディグダグ」を操作し、島を荒らすモンスターと戦います。ディグダグを追いかけてくるモンスターを、ドリルを刺してふくらませてパンクさせたり、島を崩して海に落としたりして倒しましょう。モンスターをまとめて海に落とすと、その数に応じてスコアが増えます。島を3か所崩すとボーナスアイテムの「ベジタブルターゲット」が出現します。 すべてのモンスターを倒すとラウンドクリアとなり、次のラウンドに進みます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-09-07",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/32461837033f7311b2f7c1b35f06da18199971e13bf4dba162b7aa568e52b525.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/54e6a4e3a39bb74f0a0dc9902b8406dabe05a25770184a0e062388d6c65de5d3.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/8d6dcc56680d31da86d10cf6afb57ccc5e7bef04f200e696e636480ee3149c67.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c7ff45683f5f482f028ba39fa3b2c193b4733fba0627c2ea3fd7e9965591e9b7.jpg",
+				"name": "ディグダグII プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8b1c0eb391140b3abd2ebe87d502a991df98ed674fb44966516b8c6b17003f35.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "78"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8dffd89b9af68ac0545eb171f87c7bb022559d09943d5fbc0259a147a16c0efc.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "78"
+					}
+				]
+			}
+		]
+	}
+}

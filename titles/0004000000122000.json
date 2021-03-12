@@ -1,0 +1,87 @@
+{
+	"JP": {
+		"title_id": "0004000000122000",
+		"eshop_id": "50010000023016",
+		"product_code": "CTR-N-JFAJ",
+		"name": "ウオキャッチ!",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 1212,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/1c4d0b1350e59bb86bbdcd02b0fe95392997daaa150f4447bb90ddc97cb0eabb.jpg",
+		"data_size": "88103828",
+		"description": "「ウオキャッチ!」は、池から飛び出てくる「魚」を網でひたすらキャッチしていくゲームです。 魚は色によって違うスコアが設定されており、指定されたノルマスコアに達すればステージクリア! 単純ながら、黙々と遊んでしまう魅力のあるゲームです。 ローカルプレイで対戦可能、さらにダウンロードプレイで体験版を友達に配信! ひとつのソフトがあれば、友達と対戦できちゃいます!",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-06-19",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/061c7aec4aae83bfa73b1ce510d6fb98bdfa42c892c57381e6bbc8a83e11b67e.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/080cfd30e147676eecb1a4e4a7d25858e4c5ef3f4dc74d35c9b6f90e8ac0db44.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5cd21210b90d59f449573ccf46dafdb2be69ddf4e6121fa2b6d08aa75626d430.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/25aaa25828275fb11815e421ab0af08d0fbd3e989504d31e18cc3f8a645603ae.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ab3304ef8fb8ea499a146fbd7012a627b717ea9e19279f3d06774d9c9cffee18.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2e87e0a94ecf23b7a56267f3b4f2c8b47d8c66066c41da2b368bd0331fd6d250.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/db730aaa2f84356570768e3fa6b4e2f32eaf99b5484c11e7c4721d13141aff78.jpg",
+				"name": "ウオキャッチ! 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d23d59076341132c24d46676d722d272c3323452a3518c92a4bf5c903c9bae9e.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "93"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ded95a08229173a1a6537f0f464deab38a1be512a34960d91bde7b76cf7b4639.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "93"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/903ab78d955de90baace33d787233a7eef06e0905442fdc9ad8abef92d6d70b2.jpg",
+				"name": "ウオキャッチ! プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/95bee260915635481712efa1673cff7ff4be63e437f84ce31c54a869a3b32ff8.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "46"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c8f1ab899874da74d678d1bf80fa4da3dfa94303cc3d40e4330d543566c8bce7.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "46"
+					}
+				]
+			}
+		]
+	}
+}

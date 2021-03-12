@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000145300",
+	"eshop_id": "50010000024496",
+	"product_code": "CTR-N-KC2J",
+	"name": "魔神少女 -Chronicle 2D ACT-",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 1212,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/dfbf454f0af2ab30f51bfcd52b8ac319f682e695b862eac5130a82293e1b02c0.jpg",
+	"data_size": "138206052",
+	"description": "『魔神少女』は、様々な魔法を使って、敵を倒して進んでいく2Dアクションゲームです。 ステージによって、いろんな敵や仕掛けがプレイヤーの目の前に登場します。 敵やボスを倒すことで、キャラクターがどんどん成長していきます。 好きなステージを選び、奥にいるボスキャラを倒していきましょう。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-08-06",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0bbdcef791ef88294aa5148ebd522d36b2c970761bd307cae8e19302a41402ca.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2f24ceeab1fd12212e1d743428a8b4e7c6223e561278a679c1c3412b5ff207c6.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a0d010c9a5fe0d561db726ca335bc95d0d4605c1e3b000dbf7e8b1233dc54ce9.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/48ccc029fbaa84f8755a27b65df592aff6efec929671173e32194ceaa708bff3.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/04f77ed3c7282a3f232e66f30a0dfb33928c0d256b7f0574d8e9ca0e6ae90d17.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7a2a478c6f1bd1ad21e8f6a83de2b968429e2276f6d96350a467dc837fea1af2.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/491fed6d4a44ce0463b2608cff78aed6f36a51db70e7cc63b334ac43918bd233.jpg",
+			"name": "魔神少女 -Chronicle 2D ACT- 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/47a4cfb1714016c4c444b1e0d8ed16c5da048f07714f0d2009827fa11bbb00a5.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "149"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ab5325c968a491b8dee68a177e72fd1a850fca2b11cc3dad7673f35bafa53b85.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "149"
+				}
+			]
+		}
+	]
+}

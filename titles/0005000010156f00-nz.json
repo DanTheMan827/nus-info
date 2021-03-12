@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010156F00",
+	"eshop_id": "20010000005725",
+	"product_code": "WUP-N-PACP",
+	"name": "WarioWare, Inc™: Minigame Mania",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/45953382f72783900c4e8f345604dd72adb82b6002aebf0536878ec4ec25a406.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/cc79bb2579d19f6e4f06cad9b863491aa5e39bfcc4adac3d469c457556549b84.jpg",
+	"data_size": "94666872",
+	"description": "Before he branched out his business to Wii and Nintendo DS, Wario first set up shop on Game Boy Advance in the original WarioWare, Inc.: Minigame Mania! WarioWare is packed with more than 200 wacky microgames, each very simple but played at lightning-fast speed; from hitting a baseball to picking a disembodied nose. Complete multiple microgames in succession, and beat the boss, to clear each stage.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-04-11",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/9f6e218e897586a7e4be7479404477ba0668fe8debc82f52bfbecc616c7e624a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/cd6d10f9e3880cad94decc9a96354c7df80427d15e959abb6036fd4f328b37ca.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bd3ee5d453d0e8754a505d9710a09644850bebef2752f1dd947080aeaca474e8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c8429eed8504e1e522e7291507f81461795f07e365fccf9bf6b48d43ffe418bb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/77be3acffb9798d95c7bfc6610c6127113dc695eacb1ec0633823a34e56c6bf6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d16edfd6ba7b2bdb20e6002e7791ed2856c2f45d0b4593f434e965983b8f1004.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6d95eff0810ce3518085c615d248d032b25f891e14cfe0a720fbace5e95c1fc7.jpg",
+			"name": "WarioWare, Inc™: Minigame Mania: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/98ec741efba5f82ec74255db8470f952d36dbee84e0d75d03bc0082f2aaf0b85.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5a089ce5843d1920b40a9e7c4d169e8e69d2e97c4a8d38fe7114fb202edb599d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				}
+			]
+		}
+	]
+}

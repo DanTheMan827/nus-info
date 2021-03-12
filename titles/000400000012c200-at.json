@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000012C200",
+	"eshop_id": "50010000026815",
+	"product_code": "CTR-P-BSYP",
+	"name": "Sonic Boom™: Der zerbrochene Kristall",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 231,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/da1d45d38d7496b671097db467bac5601aa345da90292a9eefaa5ac2913b286d.jpg",
+	"data_size": "864451428",
+	"description": "In Sonic Boom™: Der zerbrochene Kristall entdeckt Amy eine uralte geheime Sprache und ein Manuskript über die Geschichte und den Fundort eines mächtigen verlorenen Kristalls. Der fiese Schurke Lyric ist ganz scharf auf diese längst vergessene Macht, die im Urwald und in den Schluchten einer mysteriösen neuen Insel versteckt wurde, und hat Amy entführt. Sonic muss nun gemeinsam mit Tails, Knuckles und dem neuen Teammitglied Sticks, die zudem Amys beste Freundin ist, nach ihr suchen und sie aus den Fängen von Lyric und seiner Roboterarmee befreien. Lyric versucht mit allen Mitteln, seine Roboterarmee loszuschicken und Sonic & Co. aufzuhalten, damit er die Welt zerstören kann. Durch Teamarbeit beweisen die Freunde, dass sie gemeinsam stärker sind.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2014-11-21",
+			"retail": "2014-11-21"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ca9d19177cd46fed774fa303b79cc61c8c3ab9869d6150f5ac0301f4f28020c8.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2b8cfbbe0d962b2c4e060600ddf00f64f2f920e746bb8b2540e817b63a7e7ace.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/89b930a182c69b665718da44d70ac5afbe3fa966bd33cc702fcb9a4e69da7736.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1a51e649d385ec7c38e34c3b5b30f3b2f697df3fe40f9e8897287fc3e3e300b5.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a63b9cc6e04d36c0ca6e5607bc9f651d6ed0bcaf2499b51373d17b48e5a54f1c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5daa1cd095657ea2b1046ef010db797d69cff2accdc286810c8e8787641d5e46.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ff8291dcb8190b84950299d6912598493d801faea767d709d311c32dab543ddb.jpg",
+			"name": "Sonic Boom: Der zerbrochene Kristall - Trailer zum Verkaufsstart",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8322af424307b162275e8c759bd194e3036ef92e40a892dfe0cadf4e8eb1f5d8.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "76"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6338e0cae872df65d2b8fc5c712366226bad94d2bacaec032ee8c992a67d250e.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "76"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,76 @@
+{
+	"title_id": "0005000010106100",
+	"eshop_id": "20010000003466",
+	"product_code": "WUP-N-ARDJ",
+	"name": "スーパーマリオ 3Dワールド",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/af25475b743320c428880980d67d3b5555e4285492c4afe548515181ce245700.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/907b6f2b9ba4a33d95bb97ba7a27f9bf9aca5755a8d3091f668a9b7b4fbaee59.jpg",
+	"data_size": "1739882736",
+	"description": "今度の冒険の舞台は、透明な土管でさまざまな大陸がつながれた「ようせいの国」。ネコ変身で壁をよじ登り、はたまた二人に分身したり、走る列車の上を駆け抜ける。仕掛けたっぷりのコースで、目指すは「ゴールの旗」。性能の違うマリオ、ルイージ、ピーチ、キノピオによる最大4人のマルチプレイや、Wii U GamePadを傾けてのカメラ操作など、Wii Uならではの遊びも入った、マリオの3Dアクション最新作です。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-11-21",
+			"retail": "2013-11-21"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/be600c7824444f54998e1251b629206545bfda5404f90669a46ace684e1dc887.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c09934a1e9682e51e5801e3f12da02c97acce7dfe4263337f3167fbc9233ea0e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f012c74af51f3535479e76af76d05149dc420519d4c75cff9fa5aba5c6fe66fd.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ad56b69f0206667ff2c01c19f1a4ff5afef07bebcec4d968ae9ca600fcb40f85.jpg",
+			"name": "スーパーマリオ 3Dワールド 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1646b68ae84c7c34c866e4b17d8272cb79ebb69623c4bc12235854779a500ab0.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "364"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a9deff9bd769fab23734b14ed7a43d70a1e06ff1ecdbf686ab3299b0191813f4.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "364"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/dba3c983924c79e08037f8c46f1c236544f9d5e797a7979fa9c2fcc63c9b6c3b.jpg",
+			"name": "スーパーマリオ 3Dワールド 5人目のキャラクター「ロゼッタ」",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/25dd3d8de7f2448ba61a77c0daabd19d3639786e0c80e4f33ec98dbee72cf6c8.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "80"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/72fd41c52cde6d6eacf528ee43ab2ec2d3b48523bd937f97af7e62bbfe522d21.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "80"
+				}
+			]
+		}
+	]
+}

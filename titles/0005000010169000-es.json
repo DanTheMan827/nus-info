@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010169000",
+	"eshop_id": "20010000006226",
+	"product_code": "WUP-P-WEFP",
+	"name": "Mi Exótica Granja",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 34,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a1f996e40467d08f1ae30410f923aec1e28a4cbdc07ee8c452ca231e311e23ce.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/767fa6137addd32b4dae13a77a8162322477074caa52f53f556774dfe2b9380d.jpg",
+	"data_size": "249954444",
+	"description": "Al principio solo cuentas con tu propio terreno completamente vacío, algunas monedas y una pequeña avestruz. ¡Deberás alimentarla y cuidarla! Tu avestruz comenzará a poner huevos que podrás vender y con ese dinero podrás comprar otros animales en el Gran Mercado granjero y nuevas herramientas al Mercader. Al inicio del juego, tus únicas posesiones serán un campo vacío, algunas monedas y una avestruz. Tendrás que alimentar a la avestruz, cuidarla y mejorar su forma de vida. Dale de comer semillas para que empiece a poner huevos y, después, véndeselos al tendero. Con el dinero que consigas podrás comprar nuevos animales en la feria. - ¡10 tipos de animales que podrás personalizar! - Cuida de tus animales: alimento, higiene, enfermedades, etc. - ¡Numerosas mejoras para tu granja que podrás comprar o bonos que coleccionar! ",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-04-17",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/4e97f8f1198c25fd04d9d962a5498cd7f38de156c829f45e7f3b46bedcb79510.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/eea441affbbc346bae8489606bb9c700c76ce0dffec1dfaeb79b478c3aecfe3f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/63857c27efada4c43079a07346dafc1b5688594bfef61d5999851355c967ab87.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3877d5dbafde802e0f2685f21873ee2b76142e95b2208743177ab6c669956c1f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/93847ffad6ce3f19034c8eae252b75d6fce41136fe561c8fa7c59b3c55ef9763.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bae61c09f480d73ed9d8d12c9879170feb710784b96009a0ab96661298ec3910.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e7f38b59473fd269ce58dae9d0905fbde25d6dcfdbd385857235780f627bb5cd.jpg",
+			"name": "Mi Exótica Granja",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f5096c0d78cd95c1d54175095d8f7c5d531fd13e6f4ca4be1c2bfc6de52940b9.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "68"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c220a4a5d7a45edc4f0be70f283bbfe15a49340a06eb02697e21d9df4a2ebeab.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "68"
+				}
+			]
+		}
+	]
+}

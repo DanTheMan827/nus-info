@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101DA600",
+	"eshop_id": "20010000021050",
+	"product_code": "WUP-N-DA3P",
+	"name": "Advance Wars™: Dual Strike",
+	"platform": 169,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d41de66e4e347def1ac9858f969390f93124ada26bf66e7175e3123e2f390ab8.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e6e00e9fa442abb2ea38c7b232fc980dfdda0072e694a843374986d03775cc98.jpg",
+	"data_size": "65175672",
+	"description": "Affronta l'esercito Black Hole in combattimenti tattici su entrambi gli schermi della console; nuovi ufficiali si affiancano alle facce note: con un totale di nove personaggi, adesso possiedi ancora più opzioni in battaglia! Approfittando al massimo delle capacità del DS, ci sono due tipi di battaglia, Normale e DS. Nella modalità Normale, la mappa di battaglia appare sul touch screen mentre usi lo schermo superiore per tenere d'occhio informazioni importanti sulle tue unità e i nemici. Nella modalità DS, l'azione viene mostrata su entrambi gli schermi, il che vuol dire che puoi seguire la battaglia da un duplice punto di vista, o spostare le truppe da uno schermo all'altro. Avrai a disposizione una potenza di fuoco mai vista... ma attenzione: il nemico non è da meno!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-03-03",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/20f155da037cba75d2d7343c8098c59d2660fbff8578e9f8c2f521d09e1814ef.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/28d87f965c6d57b2350c47e74ad2389d37ce8d7a2f0be998532849fce07dfd59.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f37ebc5653ffd1413e3b6d3be4bcb9c62c08209c5af29b114fe7bb1a289f097f.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3eddb3392040df1215632838b4cb353ab9fdc223c68b964d45e47954a60944d6.jpg",
+			"name": "Advance Wars™: Dual Strike: video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bbf68fadb9c3a94b3995995b58be71c3dea322918afce56ae51900ce090acba3.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5f0aa195d74cc34684c49ffb3e41fea2a99bf1a6eb8f737d8f36a2d5a4203f98.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				}
+			]
+		}
+	]
+}

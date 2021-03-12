@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000114700",
+		"eshop_id": "50010000019453",
+		"product_code": "CTR-N-JWMJ",
+		"name": "コミック工房",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 358,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/96f0dad073e15323b1e64b25f479f01c15a9363dc407109732f6cb5d0f3c7a3b.jpg",
+		"data_size": "128457572",
+		"description": "「ネーム作業」で自由にコマ割りをして下書きし、「清書作業」でコマごとにじっくりペン入れや装飾を行うという、実際のマンガ制作と同じ流れで作業ができます。 描いたマンガはJPEG形式でSDカードに保存可能です。パソコンに移したり、ネット上にアップしたりして作品を公開しましょう。 ■マンガ制作に必要な機能をひととおり備えています■ ･細かく設定ができ、アンチエイリアスの有無も選べるペンや消しゴム ･簡単に吹き出しが描けるツール ･縦書き、横書き対応の文字入力 ･トーンのようにいろいろな模様を描けるペンやバケツなど ■デジタルならではの便利機能も■ ･何枚でも増やせるレイヤー（同時には5枚まで） ･モノクロ加工可の写真取り込み ほかにもアンドゥ･リドゥ、切り取りやコピー、ぼかしや図形など豊富な機能があります。 公式サイト「工房ギャラリー」でみんなの作品を掲載中!",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-01-15",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/331eaa5737b2317d781c9065e3e1c024a6154f56d9204278d1e1d6ebe34785f8.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0c7c609ece900f9eac379fbecf8c808a30ded8d9d09ff247899dd16999609ab4.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/812e9a4382f99abeddaf81042e1bf6a5074553a6f5064f0de5c274aa74ec1dae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/02f3adab9071107c737f2e15278e26d86efeaba362316246c8853d3e488a308e.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/697cec199717ef3b9aa358f3602792b3d451ecddf6febe91789102a10b53f5e9.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6d30a19971a8da92f161aecde640a688958c0890e55439d2fab3c39db57ddf39.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ddced3191597ab27fb34e441239f03d9499671618c32604288e61145ed78111e.jpg",
+				"name": "コミック工房 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e41dcdf0d4b7ad34f8241835a56727b9d04df1a2323553c7b29f4edf8537f203.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "47"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/97ad2082f36d06a3075da9bd07e36db311488ece0b123b233903405b29c33d92.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "47"
+					}
+				]
+			}
+		]
+	}
+}

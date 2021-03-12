@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010196A00",
+		"eshop_id": "20010000011550",
+		"product_code": "WUP-N-JEPJ",
+		"name": "豪血寺一族",
+		"platform": 164,
+		"platform_device": "WUP",
+		"publisher": 25,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7f9a30f5da10f59b53783d5a8a8887951cae641ac4c3d2257750a62939ed099c.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a0571bebbcecf052dc8336b5793ac0fd8afa6217da2f76510407a1b562385266.jpg",
+		"data_size": "44761248",
+		"description": "このソフトは、1994年に発売されたスーパーファミコン用の対戦格闘ゲームです。 豪血寺家の現頭首である「豪血寺 お梅」が開催した格闘技大会を舞台に、豪血寺一族の新頭首を狙う者たちが死闘を繰り広げます。参加者はすべて、豪血寺家の血を引いている非常に個性的なキャラクターたち。それぞれ「空中戦が得意」「通常技のリーチが長い」などの特徴があり、中には相手の精気を吸って変身するキャラクターも……。すべてのキャラクターが二段ジャンプとダッシュを使うことができ、相手の攻撃が届かない高さから必殺技を繰り出したり、ダッシュで近づいて攻撃を決めたりするなどのテクニックが活かせます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-11-11",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/1061bd3bf6885d71c02b02da4efa93d03e327e006c39d54a00e71ae9e58b889a.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/3071203636b738e291451707d95d62cfa0d47b13c044e6d2df331e95a60549ad.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/550ddefbbafc7b78c6c7632936d8950c3f744cce23cb1e1bb126b7ea258d2b28.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3c01df5dc14e42b7d075f3fa745380d199ccdac39d82ff725e7432197684407b.jpg",
+				"name": "豪血寺一族 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/122442f4fc751e51b441a0607d2ffd70040228ed75e9331a5c93240d81547da5.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5f067946628dcd8afa47aea5510c69cb6ada4131c57fff875fdb185283f86350.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					}
+				]
+			}
+		]
+	}
+}

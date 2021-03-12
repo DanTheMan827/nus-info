@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "00040000000F4B00",
+		"eshop_id": "50010000018313",
+		"product_code": "CTR-N-JKQJ",
+		"name": "脱出アドベンチャー 悪夢の死神列車",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 19,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/cf322ab863171d537ac2a282de4a2940335961476f97e35eda9899f60ee7654e.jpg",
+		"data_size": "141495140",
+		"description": "『脱出アドベンチャー 悪夢の死神列車』は物語を読み進めるアドベンチャーパートと、とある謎を解くため、またはとある場所から脱出する探索パートで構成される脱出ゲームです。 《死神列車の悪夢》の噂を追っていく中、主人公のトキノは様々な事件や現象、密室状態を体験します。 「探索」「分解･組立･パズル」「情報収集」、そして手に入れた「謎の日記帳」の調査を行い、活路を見出していきましょう。 ■物語 ――カタン、コトン。ガタン、コトン。 気がつくと、主人公の少女「トキノ」は不気味な列車の中にいた。 辺りに響くのは自分の心音と、列車が奏でる振動音のみ。 「ここはどこ? 私は……」 まるで悪夢の中に自分1人だけ閉じ込められてしまったような、そんな感覚。けれどそれは、あまりにリアルで―― 《謎の怪日記》 《死神列車》 《狂っていく日常》 次々と襲いかかる不可思議な現象。 死神列車の悪夢からトキノは無事脱出し、その真相へとたどり着くことができるのか? その悪夢は現実を死へと誘う――",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-12-04",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/924ac952487d43175e8b6d513c21efebfb95672da6ccb11c143135445b19581b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2eb91e10d34a9140a14f77f79078fb1071b3448230ef240cdf83143ec0368433.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/781f3604da789e7a9ce1696ac1bef85177dba93467e5c38091e78b778ebd1467.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/cecf49ec5af5e9186218a7ddae98637469ddb3db20a4fd7d9dd6949bac8c9bef.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ef8fceb16e8212730dc49013109fb942c7550ca71cf24f5b2a3383a99c971d7b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/fa59d3b5269f513839ae548124a1ea439944836b97598a003b7d50b03566a0c2.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0a11dbac04ae714c04bedcf0a6d7bd25fb004e18a2705c7d30206d52821d0df8.jpg",
+				"name": "脱出アドベンチャー 悪夢の死神列車 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c18100f9f1fc57559e9f24a74371bd39a59395bfbebd133a4d1ab19cf3a4d2a5.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "50"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d7ce3b7d35d475396a25467cd0ae6bcf6fe46cbee252448b6f2465f0e1cd3ca7.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "50"
+					}
+				]
+			}
+		]
+	}
+}

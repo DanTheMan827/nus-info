@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010108600",
+	"eshop_id": "20010000001244",
+	"product_code": "WUP-N-FAHP",
+	"name": "Super Mario Bros. 2",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d37780e07216fe2d73e14454334bbd24a787aec025cc0e1f7cf3277b9a433fdb.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/97e5aedf47e7b78099f969fd12a364fe591ce197107282d8380979636dfb223d.jpg",
+	"data_size": "36601996",
+	"description": "Únete a Mario y a sus amigos en esta aventura para salvar el mundo de Subcon de las garras del tirano Wart. En Super Mario Bros. 2 no solo podrás desplazarte lateralmente, sino también en vertical. Hazte con las bonificaciones, recoge hortalizas para lanzar a tus enemigos y busca áreas paralelas ocultas. Fue el primer Mario que permitió controlar a otros personajes con habilidades propias, como la Princesa Peach y Toad y donde aparecieron por primera vez personajes como Shy Guy y Birdo. Esta es la versión estadounidense del juego.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-05-16",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/efc2e161d77fa3529125b4562807e97bda0e3259da6bc67828000a4db7507e91.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4a9bd0fe283c2e2e2304f0a9190047bceed88103966ecbb13819e6b29b3e75fa.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c838d57b94cb5a1829492ad3eee4abda627ff61c7b2bc086a06f69204f855836.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/56d1294f3c68abfafa2450b1f56767114e1f5592a374a999e95bbfbdcd1699ff.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0e530ecc067482b2f0d172cbf099dc58209357159a6ea282a9ccf2d6eb1dae2c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/884b3b9112d2c3af75a297592e83ddf4203746d0ecda1d2a99088213d3238d4e.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fd10eac1f2c49185747caf1aca9f2e0d3b73d7c6bf58a008912dfc08cc0f2028.jpg",
+			"name": "Super Mario Bros. 2: Vídeo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/efc436dbdf7a66e05efe022131cb39b83a3e7292c0518f0a41b8d72cd47454f5.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d94bd4fd3376a93df3710143cbc1e7c378635b5d234321e4de07b57fc20b7c8c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				}
+			]
+		}
+	]
+}

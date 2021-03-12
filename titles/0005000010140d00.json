@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010140D00",
+		"eshop_id": "20010000007229",
+		"product_code": "WUP-N-JBNJ",
+		"name": "重装機兵ヴァルケン",
+		"platform": 164,
+		"platform_device": "WUP",
+		"publisher": 149,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9c5cd1080ae414b91093d5072a983d4f4dc573704d4c26704b161a61769794cf.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7cf06843ead028f25c2ee2d5b257b5973d5901a588aa6e9a4b39255dc9c2baf4.jpg",
+		"data_size": "41123980",
+		"description": "このソフトは、1992年に発売されたスーパーファミコン用のアクションゲームです。 2050年代、枯渇しつつある石油などの化石燃料をめぐり不穏な空気が立ちこめる世界で、欧州アジア連邦と環太平洋合衆国という世界を二分する巨大陣営が、先を争って月面軍事基地開発を行っていました。 2101年、ついに月面での鉱石採掘利権と大ビーム砲建造に絡んだ紛争が発展し、各地が戦火に巻き込まれていきます。主人公は環太平洋合衆国海兵隊の装甲機兵小隊の一兵士として重装機兵に乗り込み、戦火へと身を投じます……。 近未来SFの重厚なストーリーに、秀逸なメカニックデザインとキャラクターデザインが光る作品です。プレイヤーはさまざまなウェポンを搭載したアサルトスーツ「ヴァルケン」を操り、敵を撃破していきます。それぞれ効果や特徴が異なるウェポンと、敵の攻撃を防ぐシールドを使い分けながら戦ってください。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-01-14",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/a0ead43aadb71f7869261f30d8e9a81912f083d86b959c38fd4c6f89a711ce22.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/a0bb93e53256b9490de78ee0806670dfebc40d961f31b1555a30d779b9b43d4e.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/e0003aa3f6afc19b8c729ced8a143d2ca771d19d103537bb1c4524a40d539870.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/dd58368a7580a83d1a3ea4b720c27ad6c22028d8385361f34fb69575542101c9.jpg",
+				"name": "重装機兵ヴァルケン プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bca4f6906892e311d1238e9927c5f5db2d23faf87797e88341d4c2b75696f27b.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "47"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5860e74c50a574983a99b16e94590f048ac084607e7a8689c879c952835be5e7.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "47"
+					}
+				]
+			}
+		]
+	}
+}

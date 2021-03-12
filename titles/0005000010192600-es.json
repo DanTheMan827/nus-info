@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010192600",
+	"eshop_id": "20010000011787",
+	"product_code": "WUP-N-FEHP",
+	"name": "Duck Hunt",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/df5cfccaa5ec06c2632afee5a9bf6da36b56aefac01269bf8909d42a90e2753d.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f6ad208fef09de7d3298b2820664a0a0ed34f448c6a3c2a50f4b89ceb728e00c.jpg",
+	"data_size": "38731936",
+	"description": "Duck Hunt, lanzado originalmente como juego para la consola NES™, es un clásico que pondrá a prueba tus reflejos. Preparados, listos... ¡ya! Si los patos caen, tú ganas. Si tus disparos se pierden en el horizonte, tu perro de caza se reirá de ti. Aparte de que ahora se controla con el mando de Wii en vez de con el Zapper, es el mismo juego de toda la vida. Los modos A y B ofrecen diferentes niveles de dificultad (¡y la posibilidad de que otro jugador controle al pato!), mientras que el modo C es un desafío todavía mayor, ya que tendrás que disparar a los pequeños y rápidos platos de barro. Esta es la versión estadounidense del juego.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-12-25",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/7897a03433e597cf9307ea68b9ad9d61bd6cdd578caa97c493fe012895abf49a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f9471f933a6dba3db8ee5a1c3aca09f48cbb9e07989ccda7e8b5eef3e05f7c6e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7492e53aaa098653005cee3351bb54fa93ce30c9fe8184c7728053f1d0768722.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0ff783ed14aea6658a5f916fef23506826cab3dd1a83cadb5eaab6e13ba97a96.jpg",
+			"name": "Duck Hunt: Vídeo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/40771cde9ad65b45cf30e6d865c825e8b1991c7bc3eb148ec4db6b25f3322344.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "47"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f62446fef0dd95bc566d38aee681456b640294d7a90d388c55c679766b857e57.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "47"
+				}
+			]
+		}
+	]
+}

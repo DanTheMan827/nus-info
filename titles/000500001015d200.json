@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001015D200",
+		"eshop_id": "20010000018147",
+		"product_code": "WUP-N-PN7J",
+		"name": "ボンバーマン ぱにっくボンバー ",
+		"platform": 166,
+		"platform_device": "WUP",
+		"publisher": 149,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9868a0dda793fc97073f2a7ddb48586776f20c15398777f0a465b3d9aff6d9df.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/874dbad56b8e3959e9c86ec94bb40e80dd9e86a8cf0711d15db25ee7710a319a.jpg",
+		"data_size": "132087948",
+		"description": "おなじみのボンバーマンが繰り広げる、落ちモノパズルゲームです。3個一組で上から落ちてくるボンバーマンを同じ色でタテ･ヨコ･ナナメに3つ以上並べて消していき、先に相手側のボンバーマンが最上段まで積み上がれば勝ちです。ボンバーマンを消すと爆弾がせり上がってくるので、どんどん消して爆弾を集め、火のついた爆弾が降ってきたら一気に爆破しましょう。相手にお邪魔な「コゲボン」を送り込んで妨害することができます。 勝利の秘訣は連鎖消しのテクニックをマスターすること。連鎖消しをおこなうと「デカ爆」メーターが早くたまり、超強力な広域爆発でボンバーマンなどを大量に吹き飛ばすことができます。 全16ステージの1人専用「STORYモード」をはじめ、最高5人まで対戦できる「みんなでボバる!」、そして連鎖消しの修行モード「ボバる寺への道」の3つのモードが搭載されており、自由に選んでプレイが可能。「パニくる!」「ボバる!」を合言葉に、いつも以上に過激でにぎやかなボンバーマンワールドをお楽しみいただけます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-09-16",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/15d99edc664ec58f502b86e13c82920a2d1f2bde48fef62a1ef1c3c71f8de889.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/027fecc130472966b35f88aab3164009b453261fb9a94cf5fac37ce7e94af8e1.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/89ca33b97a6f6ebeebb8515b4bf2edfd9036ff85a43e7396e20b09baa9d48868.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/dbd13884622059543a0e4c37f3045b41a7d259c52be40da68b06abd82ce3a984.jpg",
+				"name": "ボンバーマン ぱにっくボンバー プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2b530e355346a6d63df0c6121369d9abb56a1d543b33d5628cc8c5e84d3084a6.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "82"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/51e0b9b95b3aad78a7131c1d01782a9f2692ca9712908e3d710e66e47d1d4d4d.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "82"
+					}
+				]
+			}
+		]
+	}
+}

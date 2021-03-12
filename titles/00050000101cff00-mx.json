@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101CFF00",
+	"eshop_id": "20010000018768",
+	"product_code": "WUP-N-AJLE",
+	"name": "Job el Leprechaun",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1561,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4eb8263ad56fecb2a45ed631c86d35249af6a36f5d33adca4d61f77909169145.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c98591f1b7638167ebd09e0dde65d4f07f3809e8e71eeacec3cae5b8703828cf.jpg",
+	"data_size": "70320288",
+	"description": "Ayuda a Job el Leprechaun a rescatar a su amiga Eri de las garras de la malvada bruja en este divertido juego de plataformas de estilo retro. Recoge todos los tréboles en pantalla y encuentra la puerta que te llevará al siguiente nivel. Pero ¡cuidado! , una horda de goblins, zombies, orugas malignas y demás criaturas se interpondrán en tu camino. ¡Usa tu Sombrero Mágico para hacerles frente! En esta aventura contarás con la ayuda de tu amiga la vaca loca y el elfo miedoso, ¡te serán de gran ayuda! 35 niveles llenos de monstruos y sopresas. Estilo pixelado y sonido chiptune.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-09-24",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/b87bdfb1f84cd217ce4d4dacb86db98467eec813863a5338acf6c5517e3853d5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c1f4106d127f6df23043959e503d3a7e74fd9fab59ac57b13576c15115e06355.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7088042b690318a520f967d454d3d03e21274ff15c03108593c2601b0105bc4b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6daebdf4492126022b938933ae8494ef7bc2e46a18cbfbbc6fbc342674e9a938.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/941735ecf3efdbd488705275004df314595f426c5b0955790f01774abe08a1c7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a196b43379b31e4813ad966348b96ac0fa380ddae9063de32ec6ecf33f515f55.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d73effb8b8e74882de28430e3dc4166dbd6e649be8082bae4043f3278868a654.jpg",
+			"name": "Avance para lanzamiento Job el Leprechaun",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e9cd7fdee76258ff0050baef347737c810b0e16d5991930222a0c690abba30b6.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "54"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3b81178ac5a485a1aae7c80fe6390d7249344d323e5ede49e04df1d2096c6120.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "54"
+				}
+			]
+		}
+	]
+}

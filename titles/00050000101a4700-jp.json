@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101A4700",
+	"eshop_id": "20010000013368",
+	"product_code": "WUP-N-PCHJ",
+	"name": "チューチューロケット!",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 231,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/46f2f5339811b967660a0790883a4d91e0c55fe0e85b98fee8061238a7792295.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/915832d2e996785e500e3a44c6c26354e7bcb0488badc28d54b40964f6b8225b.jpg",
+	"data_size": "71205004",
+	"description": "このソフトは、2001年に発売されたゲームボーイアドバンス用のドタバタアクションパズルゲームです。 ネズミの「チューチュー」をやじるしパネルで誘導して、自分のロケットにたくさん集めましょう。ねこの「カプカプ」がロケットに入ると、集めたネズミが減ってしまうので気をつけてください。コンピュータと対戦する「4プレイヤーバトル」では、時間内にいちばん多くのネズミを集めると勝利です。そのほか、30秒以内にステージごとに決まっている条件をクリアする「ステージチャレンジモード」、すべてのネズミをロケットに入れる「パズルモード」などがあり、オリジナルのステージやキャラクターを作って楽しむこともできます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-10-21",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/6e242df28d424c32055783a864534922b61b89d3c1ebca0dff95932dd5021b20.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d1d83adb13d5600316e8fae06dede91f923ed6cde617d5bd8a2697915819cb4f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0f3427c5233b9be6a7e21763e696b4fbad7e56e6c29505945bbda1b769cf985f.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e26170f7851cdacf324ad0e1f1da0f3cd4ddcd873cba5b47644e283dd34350d3.jpg",
+			"name": "チューチューロケット! プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/52790eab29f97da7e315e188217361d3a4c4f6f037ac939c2717a14599576398.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "53"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ca02307627ae216cf19ce991546186751429e47a715aaa5ff2727e6e6d53b60f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "53"
+				}
+			]
+		}
+	]
+}

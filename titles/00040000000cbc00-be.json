@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000CBC00",
+	"eshop_id": "50010000013091",
+	"product_code": "CTR-N-JP2P",
+	"name": "PICROSS e2",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 142,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7fee60d0ca873d356239a15ba9beb20f344a3b426c6bcf9e93a0b162d3782cef.jpg",
+	"data_size": "21179236",
+	"description": "Il s'agit de la suite de \"Picross e\", avec une fonction de navigation pour rendre le jeu encore plus fluide à jouer. Comme le jeu précédent, celui-ci contient 150 nouveaux puzzles, avec en plus un tout nouveau mode appelé \"Micross\". \"Picross\" est un jeu de \"puzzles de mots croisés d'images\", dans lequel vous devez utiliser des chiffres comme indices pour faire apparaître une illustration. Les règles sont simples et faciles à comprendre. Tout le monde peut y jouer !",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-01-24",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/54ce8cd2c304613b075002073d7be7c8264c2d054654bd96a58f75226173adce.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/84f2a1a73bd2e75d8c6136b45b556deaa580d2323c26f984303287033e91b61d.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/89e132c3a81fc510e689947727f008bb8cde36327430c887bdeeeb9f7c01a6b8.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e4701fbce8fe51610323f1edea420d3bcb02f973d0a9385b439b8417dac5da4d.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/9c7d9a06e07146ec149e5aa4a9376d64c80faacc6611f69b2d39a12a6047ba93.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5714ec5a55608636ac6a1de726f10495404c6f5b7fd707bd5a8b16a5f3fd0cce.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1d817c90fa4f372cb409bda0e7142e3cacb131163342b4833368f1caebd5afa4.jpg",
+			"name": "PICROSS e2 : bande-annonce",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6eb10255a132e14d051cf9220451deb9827c7f1587056c5fa0450a4100ab2710.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "72"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5f79bae143eb27f98d1c6e51acd9827c93d33534c5c9abcf4c87bc1ed8757699.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "72"
+				}
+			]
+		}
+	]
+}

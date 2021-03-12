@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001015F200",
+	"eshop_id": "20010000005085",
+	"product_code": "WUP-N-FCGJ",
+	"name": "ファイアーエムブレム 暗黒竜と光の剣",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/575e92093e43706eacdc97c4137356259fc9924201ed01b18b2f8d65cdba5c7f.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5517410dd34ba63177f5792b487ea73b7551bb8f8b2394edb30b105f950550d7.jpg",
+	"data_size": "36700300",
+	"description": "このソフトは、1990年に発売されたファミリーコンピュータ用のロールプレイングシミュレーションゲームです。 主人公･マルスの率いる軍を指揮して、ドルーア帝国と戦いを繰り広げます。カギとなるのは、仲間(ユニット)の特徴を活かした戦略。兵種や武器の相性などにより、戦いの行方は大きく変わります。 それまでのシミュレーションゲームではただの駒に過ぎなかったユニットを個性あるキャラクターとすることで、単なるシミュレーションゲーム+ロールプレイングゲームにはとどまらない戦略性と、個性的な仲間たちの成長を楽しむことができます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-06-04",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/7412fb464a9d0c9bd9185711eef834bb3e4c1223055e3dcdf613699ec70964e9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1e94a040a540fc6ed364fc158690af838d67fbcbbff6f3d0d3021769c6972e30.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/10373e4d2abf49029c59056417b9c711ef9b5efd1fff1c401aaccbd3fcb97729.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0246e1a9524929b94836002e204301e9c63e33186130c9657b0e566152246b4f.jpg",
+			"name": "ファイアーエムブレム 暗黒竜と光の剣 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b0145b47ba9e4ff0ac9f539b2c740b5c77168624d6e72791917528d61a0a1fbd.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "51"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/52ed39da232d9cf53b12bae7dc1a61a08d4a05b1a826231e3e2b3408e1f33a1d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "51"
+				}
+			]
+		}
+	]
+}

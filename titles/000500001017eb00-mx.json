@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001017EB00",
+	"eshop_id": "20010000010826",
+	"product_code": "WUP-N-WSPE",
+	"name": "SDK Paint",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1358,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/997fefddf401035597c9c66d66305fa5e5c67cdb143c8b9f2f545c00bc57b3c2.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3818d4df488ce08d82551443c1803eaace0cc0d98c22b4d4c68b375492282bd0.jpg",
+	"data_size": "162824352",
+	"description": "SDK Paint adopta un enfoque único a la creación del arte de la consola Wii U™, por apilamiento 5 capas sobre el lienzo del arte. Cada capa puede ser utilizada independientemente para crear la próxima obra maestra. Combinando los modos artísticos, los numerosos filtros, los shaders, y las herramientas, las posibilidades con el lápiz al pintar sobre el lienzo son infinitas. Oops, un error... 10 niveles de deshacer ayudarán con eso! ¿Necesita el arte precisión fina? Enfoca la lona! Una paleta de colores grande, con apoyo para arrastrar, permite artistas fácilmente elegir exactamente el color deseado, y una herramienta Dropper hace identificación de colores anteriores una tarea sencilla. ¿Cómo ve el arte en la pared? Explorar las galerías 3D retro para ver las 18 pinturas enmarcadas. ¿Está el arte listo compartir? Salto en el área de Compartir y publicar a Miiverse™ (en 2D o 3D anaglifo) o a la galería en línea.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-11-06",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/a52b0d6df305b2a080ad20453c64b9a7da6c75d2db32bb41a254b25e5217e710.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/07f12ff1507ffd6a8a87c2c58b7266cba8f7b067c69cf34068cb9afd85b4741d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4c3230843e64e3349bf91921feefef82d88642a0e29d12287552b4f35ca86f96.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7686dfcfecbdb64020e78800a67ffb12da6775861450f4adbd60b02b467638f4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/786dd02cd17b78ec56d56aca73b06e64f86b15de2b5db606342dd147ce2e2ff8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/954a191532a93116fac230acf10e710f91d9be5ca7fbf71b1bb4678aa858b162.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/152381d0295cc6c1cbbb7d0637f9130c81065be6fbadabd5824a5d0279dc8a2a.jpg",
+			"name": "Avance para lanzamiento SDK Paint",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/10e4960de71cc929f10d373c51a54572eaf2b06e0c9ac0b0e386d9158bc7fab2.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "34"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b0b4239ce484a90e67471db09bfed265130fe2592e050b85cef614f4a65a53e0.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "34"
+				}
+			]
+		}
+	]
+}

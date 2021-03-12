@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001019A700",
+	"eshop_id": "20010000011887",
+	"product_code": "WUP-N-BLXE",
+	"name": "BLOK DROP X TWISTED FUSION",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1269,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bccd145109aa890c256418b43184d09080afd28f84caaf52ca565adcebf6a53b.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f4cda7252de9a4a6acdeac6401a8ef498443628b5ef19db366970fd7c37d6aca.jpg",
+	"data_size": "80478368",
+	"description": "BLOK DROP X TWISTED FUSION mixes a fantasy world with physics based puzzle mechanics to create an entirely new adventure. Guide the \"GoGo\" to safety by destroying the nearby enemies and clearing the gameboards of all remaining \"bloks\". 50 levels in all to be unlocked make this adventure a challenging one even for seasoned puzzle fanatics.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-12-18",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/fc2982d7ed762466de774e19469b36bf429e588352a7e188e3e6c8622b75436f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/28bb9e961b9a5c824022e63592f7129c8d03b4b56ce0c34debed2379ba04f6f2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2678def2fcaba02ea3ea287722d57a431c325b72b54c12b7cf3a9ebbbffbd577.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3f26a3546976bb557c1e0ef122f76a899a42b059d5c0086edfe262c2130fd5b4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e6096ae6bd5a800ea63018c436b4b991dfa3a83b026e56ea6752b1e1105b2855.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2d21352ae7ab70f929417c9dc15cfa25f7505716e858382a36041ea0412c75bb.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f7417d6922e4ad19cf0e63874b9667611b3c85746568c36a2142ba6fc35627ee.jpg",
+			"name": "BLOK DROP X TWISTED FUSION Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9eb9b2e2354920ef70ee7e64a4230a52a818572597f8847d9a8c26db90f7e99e.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "57"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e1f94b1cb9444936788f651bfbca1e2dba54179b4e5bcd9a523254e580f87955.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "57"
+				}
+			]
+		}
+	]
+}

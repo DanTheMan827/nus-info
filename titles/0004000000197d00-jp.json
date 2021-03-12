@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000197D00",
+	"eshop_id": "50010000040136",
+	"product_code": "CTR-N-KPAJ",
+	"name": "ピクロスe7",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 142,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/848dd86dd92178914c3cbfc121c11f4770e461a732ca428fbd6901eb346d6e23.jpg",
+	"data_size": "26852196",
+	"description": "ナビゲーション機能を搭載した『ピクロスe』シリーズの第7弾です。 本作から20×15サイズの問題がメガピクロスで遊べるようになり、ピクロスモードの150問すべての問題がメガピクロスで遊べるようになりました。 マーク入力機能が追加され、未確定の盤面に仮の目印をつけられるようになりました。 マークをつけてもペナルティにはならないので、複雑な局面で仮塗として利用するなど、使いかたは自由です。 ※仮定法（背理法）を必要とする問題が搭載されたわけではありません。『ピクロスe』シリーズはすべて論理的に解ける問題だけで構成しています。 タッチペン操作の種類を増やしました。 従来のスライドパッドや十字ボタンを押している間だけ入力モードが切り替わる操作（ホールド）に加え、 新たにスライドパッドや十字ボタンを一度押すだけで入力モードが切り替わる操作（スイッチ）を搭載しました。 本作も『ピクロスe』『ピクロスe2』『ピクロスe3』のセーブデータがあれば、追加のスペシャル問題が追加されます。 『ピクロス』は、数字をヒントにイラストを完成させる「ピクチャークロスワードパズルゲーム」です。 シンプルで分かりやすいルールで、誰でも手軽に楽しめます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-04-27",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0bb73c3bbe10b5d7bd604a40a09dda789b299e09f4bc00c4f2a9f8bf5d077a07.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c4481d1a02275773db8ecfae9b2e07450b56f76012aff143b628835618743053.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/48e68f47a7dc0c4790b3ab8126618feb869e3625ff257bc989d3f152bc4c7991.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/95f9f18a067d594a3923fde1630f6afc717fa59f8568b217684ec55d241f1141.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/da4cb95369b296829271da00271e9cc9516986e4341b5fcc424b8f9c95f0d6f1.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/63cba3fad2ae6af1bb6b75e99292d885fef39d22992027bf026fc69a5ceec7ea.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8754a84746e7e34b5ddc6de06d3f87bb7cfe16706b0272a0a28d7166848680ad.jpg",
+			"name": "ピクロスe7 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/791c301985141dd95e4c7895de85d1d3778032204eb7875bc1c14cd3006e7228.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "94"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f9c461e5db75b97cc63a39a39cb51edc46e84b379684484ca359004d4b30abb2.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "94"
+				}
+			]
+		}
+	]
+}

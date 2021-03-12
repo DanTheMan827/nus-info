@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101AA500",
+	"eshop_id": "20010000020189",
+	"product_code": "WUP-P-BKFP",
+	"name": "Kung Fu Panda: scontro finale delle leggende leggendarie",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 1186,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/29f58796b80802e763cb80c254631f7bfb624b98479250a930187160c0a93fad.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/26a7b923709c9d3bee20614ef251292d52faa3372a4d12b03e937702282a9c78.jpg",
+	"data_size": "1534034160",
+	"description": "Unisciti a Po, Tigre, Scimmia, Tai Lung, Maestro Shifu e a tutti i tuoi personaggi preferiti di Kung Fu Panda, mentre si battono nell'emozionante scontro finale delle leggende leggendarie. Fino a quattro giocatori potranno affrontarsi in luoghi iconici nella Valle della Pace e oltre. ",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2015-11-26",
+			"retail": "2015-11-26"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/b14a99b8314be03e1ebc103c57d7abd568b3225d4e07340915e7ed4be77d10dc.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/440fa4eb2da547bd4a7b3a8458a981e83b837fc58ce94e9db90bfb7afe1cc92a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3fbc481a184b940ef67b11c75fe5cb09b1cb3f91b8a09393b21ef5472d22c2a9.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7f49df92a4d2885e4f30b1b493d224191ffafd6c952a022b29f3fc3b929677eb.jpg",
+			"name": "Kung Fu Panda: scontro finale delle leggende leggendarie",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e47e35118139cda3bab41333223f1eaab36e9156240d8753c473a75fa221ae64.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b4a9bacaf4348c1700d00d14dbbd234a49903aaa62cce2a6be6ba54f71d5d86b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				}
+			]
+		}
+	]
+}

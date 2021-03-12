@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000145900",
+	"eshop_id": "50010000028955",
+	"product_code": "CTR-N-KDCJ",
+	"name": "プチノベル「収斂の十二月」",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 1212,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4cbba564ad95cb88cd883de6808100e784873777bd47855a5702e2ea1c7f4ce5.jpg",
+	"data_size": "147209060",
+	"description": "『プチノベル「収斂の十二月」』は、 神の住まう町･多紙町で暮らす高校生、 紺野柾木とその仲間達が過ごす12月のできごとを描いたビジュアルノベルゲームです。 11月の事件以来、バラバラになってしまった仲間たち。 一年の終わりを迎えようとする時、 柾木は失ったものを全て取り戻すべく、最大の勝負にでる。 【収穫の十二月】シリーズ最終章、いよいよクライマックスへ。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-12-24",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f5db4388d279dc2e4d9271e5d2fb460bf87a8363a520f9c66334f55273c4ff3b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9b1a6da89902fb361272df3a65dbce31fc6d70348a08ac4180c9fcadda9908e6.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3ba837e82517f3ab51a8c73f55025a036e5195c30653b4b578fb4b708b2ef61a.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/61f7a3c09d7bc5ef214279f6595a145c85b5bacb0e44d5c81cb4b9c4d28721d7.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/11f6d58ff72e5e332505e3cd187c3abe9adad8b7362cb981a8cefc2da0b8b20b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/395f585aea7b7c20b65caeb760f53e224f5fabd7df78e6fd5f6ba727b7f69a43.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f66a0b1f328f49c15e5964344bab569f35092e34b6722a51228d702f01eb12b3.jpg",
+			"name": "プチノベル「収斂の十二月」 オープニング映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5b8920ddf37e4b74734866a12b0e7f7cd6cc9924cc9e78ab1e099a84ccd5e91f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "124"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/71928a0de6256412daba7c5af1fc478a57274a30432e64ecf338c2ba3d3dd92b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "124"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000156600",
+	"eshop_id": "50010000029657",
+	"product_code": "CTR-N-JWPJ",
+	"name": "THE KEEP ～呪われしクリスタルの迷宮～",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 19,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/916ce96489e7c3f040b933ac7175924a4b9e7ca323bdc8bf41b82a35fdd48501.jpg",
+	"data_size": "187935588",
+	"description": "このゲームは、剣技や魔法を駆使して敵を倒すアクション要素と、難解なトラップをかいくぐりながら謎を解くアドベンチャー要素が組み合わさった3Dダンジョン探索RPGです。 クリスタルの魔力に取り憑かれた魔術師を倒すため、1人の若者が単身恐ろしい迷宮に潜入し、数々の怪物と戦いながらダンジョンの最奥部を目指します。 ダンジョンの内部は敵との戦闘やトラップの発動など、すべてがリアルタイムで進行するため、あなたの咄嗟の判断が生死を分けることもあり、緊迫したダンジョン探索をお楽しみいただけます。 キャラクターがレベルアップすることで得られるボーナスポイントは各パラメータに自由に振り分けることができるため、自分の分身を屈強な戦士や大魔術師といった好きなタイプに育成できるのもこのゲームの魅力の1つです。 邪悪な魔術師ワートリスを倒すため、あなたも無名の英雄となってKEEPの世界を冒険してみましょう。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-01-28",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/50a38ed714b333849cdddfbd620e3311beea90cde4fd81435279e3fb3dd60215.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a868c79352521c6504a8e33b43731cd5694e59ddb0761b4caf1b8183f410e6e0.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1b99a13761794cdeeb3b6517901c1031f29b3bde6e0baf08666e8f73799c38d7.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/167a4bb924b07cebe5a16598f49f569549e1949cbff07777e7e40431f0bd9781.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6726d7677bbef47d25cee0f2e5ea1ba1b8cd889de8d30e36f8aa625176198d5f.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b3c2009ee04bd7594f477f1489f44a74ac27ab6c6b9e88ef4da00eafa7b407e9.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3101ebfaa66a6563c916c7127f622b07099c77e684d3d85df3590b990a56b585.jpg",
+			"name": "THE KEEP ～呪われしクリスタルの 迷宮～ 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fe705befadbcc63275936e201396c36228dcc81ae681f7da1a9e33357b7994ce.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "115"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/538906957516c0b7bf2b80f3e7fbcde3174203af061ede4815d50001a771674d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "115"
+				}
+			]
+		}
+	]
+}

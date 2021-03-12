@@ -1,0 +1,53 @@
+{
+	"title_id": "00050000101F8C00",
+	"eshop_id": "20010000022648",
+	"product_code": "WUP-N-AJHE",
+	"name": "Twin Robots",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1536,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5a5cafb6f3372f05abea47123350c94ca8c2e5a83fc7f4057cd42432132069bc.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e6b8154d36f9cb54978392f6e41cd85071223efb1788d854a8a2021f22091026.jpg",
+	"data_size": "165216396",
+	"description": "Twin Robots is a 2.5D platformer where you can switch control between two little robots; They have been imprisoned and need to find the way out of each level! You can play alone or with a friend in local co-op multiplayer, so that each player controls one robot. The game can be played along its 28 levels alone or in cooperative mode with a friend thanks to his split screen gameplay. Features: Strategy thinking: Manage your energy levels through the level so that you can safely reach the exit & charge the last door to open it. Puzzle solving: Some levels require both robots to help eachother in order to solve easy puzzles. TV Border: You can adjust the TV border so the game fits your TV completely. Local co-op: You can have some multiplayer action!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-06-16",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/8f372944023eebfc3ae2bf18770b5edebde9842245b460f53f434b491ab229b2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bec4200521181f7e4eb1ab0676337fd997c5bf6f982138bb7e9674ad1caa14d9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/39bd82d582c240361b985c6459f1730f95ea5e8ff05e8f8a533973f7324cdea3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f2655aac149e035000a7cf2725ed8b8c831849140b6b65511ff696b1b95151f8.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c17902efe1b78b70b40b98c7020b6eb0cc75d67bc429f32ca6147c72add16962.jpg",
+			"name": "Twin Robots Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/48252d52a63b4d190cfbad34eed8c7e6437525611534a5465e7f79379977d2ce.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "47"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/13d696e5013fc9f763ebae7d797034a881883c37e0952891f35f3a89becaced5.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "47"
+				}
+			]
+		}
+	]
+}

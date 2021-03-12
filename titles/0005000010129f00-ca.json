@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010129F00",
+	"eshop_id": "20010000001768",
+	"product_code": "WUP-N-FAZE",
+	"name": "Mega Man™ 3",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 39,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6c10ace94b621958098cc3707f27b9989c3294ff14cd27c6a5afee524286eee5.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b9e793f3d14c832e05e95e4368153f81853137365765dc76f698a4e12ae060b4.jpg",
+	"data_size": "36765836",
+	"description": "In the year 200X, the notorious Dr. Wily, having reformed and now working for the forces of good, works hand in hand with Dr. Light to build a new type of peacekeeping robot. When a new set of eight Robot Masters escape the lab to wreak havok on the world at large, only Mega Man can save the day! This time, Mega Man must rely on his new slide move and his canine companion Rush to conquer the stages and vanquish evil. A new character, Proto Man, adds to the mystery and appeal of this next title in the famous action game series.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-06-11",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/c067b4f3f6badfda6d1e838b9cdaa75683edb9869eaade6779cc7a594e6fa640.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/47f4e22ae135b2bc923a09199b8cb5056aa0841229d5d6698a8c800aa094aa38.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6a24b98175cf1d4649db54bd205ab5a84239e6dc755a82ced35608c81466314c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a802626c9c076f8503069e8b5ca50fa8af024008b8b6e8bcc841605cfcc7d24e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f5ee2d2183b432f13d360ae75d73bc9014080bac8e9ebd0fff1b4fd762d6af04.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a925d84f2d7880501e06480c9f724bf5b1fcb7a5ced8b3f541a9bad8dd7ef1dd.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/aa0614efcd864c237c28890f5a82b7de9f2fe3ce082f8e132ec9e355d6d7de1a.jpg",
+			"name": "Mega Man™ 3 Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e199038b097aad9f47ba94b7db4b95d718adb01fef4f97003e22d1e6e7cca6b0.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "43"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b159484fc16139cefab3a1876dd7bfa3bb25a457989a8bb362e893b31560b491.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "43"
+				}
+			]
+		}
+	]
+}

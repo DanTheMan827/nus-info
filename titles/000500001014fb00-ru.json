@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001014FB00",
+	"eshop_id": "20010000017787",
+	"product_code": "WUP-P-WDCP",
+	"name": "Q.U.B.E: Director's Cut",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1478,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ebf71f40c7246512c3267248d614b3c751fd71000721ce454a54f778816410ac.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8d74a0942bbff7e2d7a18e3300413503796ca3242ad3d5447716006fb772a0f3.jpg",
+	"data_size": "1119977692",
+	"description": "Q.U.B.E: Director's Cut — сложная головоломка от первого лица. На ваших руках специальные перчатки, которыми вы изменяете мир вокруг себя — строите мосты, двигаете стены, создаете новые пути. Ваша цель — пробраться вглубь загадочного куба, который летит на Землю, и уничтожить его изнутри, прежде чем онуничтожит всю жизнь на планете! - Сценарий признанного мастера Роба Йескомба</br> - Сложные и необычные головоломки</br> - 10 уровней в новом режиме игры на время</br> - Совершенно новый оригинальный саундтрек",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-08-27",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/59bbe7e305037ec56e12f272224f03a707ff560b7ad80048ba08ddd1f858ef5a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/569048295f624ff2cc57ddf60a341516326ff8a85e982f4ff5b594d878a9e1f4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9089b5a97ff6118d41e154fbfbc4c74e2e647912543486ab27ceca1b27603cb8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/847ea5463fc6b9998c1745fa1f2d65b82136ea97b6687a623dccd0f64fe04993.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/223da0c1d6dcd9759913ec532b0ae3f0f7efdf04fd69f9ac9ce87b5bd20a9fa5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/453b6cd66d489dfa5f1b11595e66c80666cf6db76400e282b524bd987124f26e.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d9333771bed87d088972404605437105aa08f5230056de583cb31a8905005f1a.jpg",
+			"name": "Q.U.B.E: Director's Cut",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f5a0dc1635f2a8f926b7246b247799a9950d90abb0fd63ad874b0920f1701a9d.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "112"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b75fddd011ec0098636605280af71184f3174aff2354779bfa5f5a2672d3403a.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "112"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,76 @@
+{
+	"title_id": "0005000010188B00",
+	"eshop_id": "20010000012027",
+	"product_code": "WUP-N-AXYJ",
+	"name": "タッチ!カービィ スーパーレインボー",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/eb0ef0daecbef2db01793deb4f36516c39dc2b119ab8af5616cd092b2e57f230.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/dec315bfec55b6cab22cbdf7cb2ec60ea66c23fbaa188bad57dbe199e0495fe6.jpg",
+	"data_size": "3058073960",
+	"description": "Wii U GamePadの画面にタッチペンで自由に線を引くと、虹の道が完成。ボールのように丸いカービィを、その上で転がしながら進んでいく、タッチで楽しむアクションゲームです。段差をこえたり、アイテムを集めたり、敵に体当たりしたりと、タッチペン１本で遊べます。本作は、最大４人のマルチプレイに対応。２人目以降のプレイヤーは、ワドルディとして参加します。また、カービィが戦車、ロケット、潜水艦の姿に変身して進む、特別なステージも存在します。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2015-01-22",
+			"retail": "2015-01-22"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/4e309d1dd79dcb1335526a659aabc6053ea5a4ef09af29935c50726c3c297eb7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3b6e51f99fcbee05bf98bef23a8556aa6eb241f8daae9a1f442d9731f6feaf11.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4fb0c5e4bcfa94516b43803082aac4c13ad3f18a41946ffa1a998dc2d9243e83.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f1a20ba87ea192d729266785455def9d18d8d1bfb0bef59dc9334e4857810024.jpg",
+			"name": "タッチ!カービィ スーパーレインボー 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2c4a5f5eac24d6a7470332f90c1b409478ee436b86eeff960ff1bc58b22ba1e7.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "283"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/eb431d83512db3824bff1245aed4afdeb19b936ef5f34c1a2fed88a90793d4f3.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "283"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/39c297940f1e635b1fffd209fafe656e25918d8ae8a44588949ee0b7ef22f1c7.jpg",
+			"name": "amiibo × タッチ!カービィ スーパーレインボー 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/af10d4dcb4c1b69ca5e9a829c46c26a1d2275121955c1a4859c0ded6bcac2deb.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "28"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b022941c6b26ce607692f15418d70e644fed6283c719bf05b460f5a1c99bd15f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "28"
+				}
+			]
+		}
+	]
+}

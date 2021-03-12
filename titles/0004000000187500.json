@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000187500",
+		"eshop_id": "50010000042087",
+		"product_code": "CTR-N-KJEJ",
+		"name": "CREEPING TERROR",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 1587,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d520989d42d1f749c47ac7c99a7aca9a01869a9e98dc15da409c6b590ff132b5.jpg",
+		"data_size": "306666340",
+		"description": "「SUSHI TYPHOON GAMES（スシタイフーンゲームス）」は、映画会社「日活」が立ち上げたゲームレーベルです。 本作は「SUSHI TYPHOON GAMES」がお送りする、本格アドベンチャーゲームになります。 ■STORY 何か恐ろしいものが出ると噂されている古い屋敷が森の奥にひっそりと建っていた。 アリサは友人たち3人と一緒にこの屋敷へと訪れるのだが、探索の途中に起こった事故によりひとりはぐれてしまう。 意識を取り戻したアリサの目の前は先程とは違う場所……。 果たしてアリサは友人たちと再会し、無事に脱出することができるだろうか？ ■アリサを操作し脱出を目指せ 「クリーピング・テラー」は横スクロールタイプのアクションアドベンチャーです。 プレイヤーは女子高生アリサを操作しながら「屋敷」や「洞窟」といった場所を探索し、 脱出に必要となるキーアイテムを探していきます。 また、本作は『3D立体視』に対応しており、より奥行き感のある映像でゲームをお楽しみいただけます。 ■暗闇を照らし周囲を探索 舞台となるほとんどの場所が暗闇に覆われているため、アリサはスマホのライトを照らしながら探索していきます。 ただし、ライトを使用し続けていると電池の残量が減り続け、全てなくなると再び暗闇となるので注意してください。 ■アリサに迫りくる謎の怪物 アリサの行く手を阻む「コウモリ」や「カラス」、そして執拗に追いかけてくるスコップを持った「謎の怪物」。 アリサが謎の怪物に勝つ手段はありません、出会ったらとにかく「逃げる」か「隠れる」かして怪物を回避してください。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2017-01-18",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3a40ab0c70bb50361c80c7f386e1824903e00e989e8a4ea39c969cf72ea164e1.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/07ba85f7259375f04be491c1a3bfff8f1dd8e62189aed3f147efe75c50d0c481.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d8657ce0c0f0719aab45b382736c33e4ff1834ad0ab872995a0014c3533aea64.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6ebff768b6e03a926a1f07b2aa34c5564e508e19403c757c8d64d7d9705d3250.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3f634753c76bc794f2799f149dff485f02b68472b2b179fa4bdc82344ff4f56d.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c10c6cbf6c2ce1227e93b32b89eaf79b3a6439a247c2c405cba2c916a8ec0058.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/467f894ec66dd72a1a3ce76f44f62b1db0b9808422011b24d1723c84fcb2814e.jpg",
+				"name": "CREEPING TERROR クリーピング・テラー 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4da065328ea463aeb1fbdacf5230b0eef4f0eaff28f52bada63945f426e4e6f4.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "157"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/121bdea2e1c6605b47bd0b7b59de5cbf05e2ffa1fdbf99e1aa96138c63679fc3.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "157"
+					}
+				]
+			}
+		]
+	}
+}

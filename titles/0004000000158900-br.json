@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000158900",
+	"eshop_id": "50010000029355",
+	"product_code": "CTR-N-JVNE",
+	"name": "3D After Burner II",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 233,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5755bbc5721ac13933f5f7d6029cfae1019486cfba93d0c061d5055cf008e9af.jpg",
+	"data_size": "9370468",
+	"description": "3D After Burner II is a completely re-mastered version of the arcade classic. Pilot your F-14D fighter through enemy territory blasting away squadrons of enemy fighters. This arcade masterpiece now features stereoscopic 3D, a choice of real arcade cabinets, new difficulty settings as well as visual adjustments options. Blast your way through 23 stages to unlock a special mode with even more gameplay enhancements. ",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-01-15",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d5ca8caacbf07f69098b742f2e3a17984c1f78a9cbe89ca028bbd8eba63955da.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/dc12a7b921504f7e4717e06c6bf8df29e7ae99a417e5055f72be5868f2e5ba92.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0c2a4f914ac603378a184b9a06f58b5e19fef98a06787c6c0b6d7bc8523c1d3b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9331e61cc434223ed2379229364b07bdc0b78fcf88d7039640e3528fd745d329.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/badbe497393d1caf795422b3c03bc9a01a9f77448901946b64424d71d07cc03d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7d1ad86abfafa9ae0b1fb1a70f8cdd448e3fbd093921900b71bfd9008480af9b.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bda53443f4ea517e6c22d5f3991f9fc17e66b790f8cdf84b5c1f02f517916d40.jpg",
+			"name": "Trailer de lançamento 3D After Burner II",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f5fb2ec081c5b19d53f57f843d2837f456fd0ddf84691145f6148a1338d7c7c2.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/da12c188e466d5ce6381049d85d90b041d46abc7df6afc1abc8e2d768be0a452.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				}
+			]
+		}
+	]
+}

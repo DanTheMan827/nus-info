@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101E2400",
+		"eshop_id": "20010000021087",
+		"product_code": "WUP-N-PPKJ",
+		"name": "ガイフレーム",
+		"platform": 166,
+		"platform_device": "WUP",
+		"publisher": 81,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/73b983ba47ceea450ceaf5395b7542294f9597cf6897554b779cd1c83476e9c5.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/885b901d4f2f2be778ee14d8a89cbc8eb735d0e4e068e37586b633446d6faf1a.jpg",
+		"data_size": "83656844",
+		"description": "科学と魔法の混在する世界「ガイア大陸」を舞台に、RPGの要素を取り入れた戦略シミュレーションゲームです。 魔力を科学技術でコントロールして手に入れた強大な軍事力で突如大陸各地へ進行を開始した「ヴェルダース」連邦。プレイヤーは「ヴェルダース」連邦に対抗する「ディアースレ」連邦軍を指揮する装甲騎士軍団長「エルビン・ランバート」として大陸各地にユニットを配置し、同時に戦争終結のカギ「ガイアクリスタル」についての情報を集めます。 敵の編成や地形を考えながら戦略を組み立て、最終目標である敵国首都「ヴェルデラード」の占領を目指しましょう。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-02-24",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/769b5a0de779dc2fc36d1bc45be00aa8eedbeacab8c0ba3d7a5df54b83f46766.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/d858e1c0c7d84f91c7699ca02482477b21d7593f96a0066ae186df1a6d64d5b6.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/0c41c88141b4cba06161232cc3b2a80fd9e882733a30cd0368c6cf8b29bad481.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e499045c3d99f2788f32b1c8eb93b3cca7872e29f7d3728d01291171888e1eb9.jpg",
+				"name": "ガイフレーム プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d9d2d3051e046ecc0f620456330c495a8ab66efee007e75e57020d3c4fc45990.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "62"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/05cb51fbf187dbcd54a885823a97794b8cff4f91128700730893989367bd06a4.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "62"
+					}
+				]
+			}
+		]
+	}
+}

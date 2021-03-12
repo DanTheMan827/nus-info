@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010140C00",
+	"eshop_id": "20010000002864",
+	"product_code": "WUP-N-JBMJ",
+	"name": "スーパーワギャンランド",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 27,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5f5d147a19acb973261547b5461de3a3c59a375d5b61a3de079d44830ac26c36.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4f19554899469e6cdbb9735d635fa9970e2ce903bdbe11a7723efabc499ed1e7.jpg",
+	"data_size": "40829068",
+	"description": "このソフトは、1991年に発売されたスーパーファミコン用のアクションゲームです。 ドクターデビルの侵略から仲間と島を守るため、主人公ワギャンが大冒険へ。ワギャンは自慢の大声を武器にした「音波砲」で動けなくした敵を利用しながら、先へ進みます。アクションゲームではあるものの、各ステージで待ち構えるボスとは「しりとり」や「数字あて」などの頭脳戦で勝負。しりとりでは、描かれたパネルから複数の言葉を連想できるかが勝利のカギとなります。 ",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-09-18",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/2dd26dfe2b8b9d8144b9bc702990907cecc5668768ef72a691cb5d6afb2d3179.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7b560c6e8de69d5af18e7bc80f32a64e77adaf2766834ea3e1133d8dba3e7f5b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/fa2e1c41ee4788c4029c1d255a044046508a7492c0a00d65cbbec20490f75217.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e1f8978f975abf41117a116b2a7b3f0b3eb6a13d69f5d9e13039fae9ebe04de0.jpg",
+			"name": "スーパーワギャンランド プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/08a32e442c2ec603027eb79d80139d9d549961e4bfa26e342ca62523304b7b7b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "48"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c5594fd8b91f329222995446e81f257323b17ffd4b8d2eb05a648d471d2c8ef3.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "48"
+				}
+			]
+		}
+	]
+}

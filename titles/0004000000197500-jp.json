@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000197500",
+	"eshop_id": "50010000041575",
+	"product_code": "CTR-N-BPUJ",
+	"name": "ぷよぷよクロニクル",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 231,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a15011f66bd5a3859494f6fd445ba92e639a2813b3c97e1240229a53af5b539e.jpg",
+	"data_size": "843623316",
+	"description": "『ぷよぷよ』シリーズ25周年記念作品となる本作は、3Dグラフィックで表現された世界を冒険する「アクションパズルRPG」です。 突如絵本の中の世界へ吸い込まれたアルルとカーバンクルが、元の世界に戻るべく異世界を大冒険！ 新ルール「スキルバトル」のほか、人気ルール17種を収録。一部ルールはネットワーク対戦にも対応しています。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2016-12-08",
+			"retail": "2016-12-08"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/43c10e694d0f2bb32cd4339720f4e30e49e7ec340bf725cfb25d9079f432eaa8.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ce52e706666e77ad425d66bdc25c19e66bb69d07029a0bd90e7c92c5594d8060.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ea7fa066a6ceaf578125161cc74ee24968d6c950dce490e65b477204ddd900d9.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5c80052237b5d8d13e45acf1d86e94b4242789d25d5bbf0fd84484abca5659d5.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/4573858406ec19e4e21d5ccc7c28173a2083b18f6998de7c8637edd5e0c81199.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c15f032c8a5d35dc65269c6689a98d52651bb9b874f2c90f555c74ee18e1d2d8.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/81489935f7aecc8f253cd04f9b2ceb9e92bcca8fa8253d5876e609e8ac181127.jpg",
+			"name": "ぷよぷよクロニクル 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/eaa12bf6620e9020f2bf0efa7b0557730380f5099bd6d48d41ecf857a64cacca.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "150"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e315f738c7de331a08a9be049e75c0d2b03624076af47f5a40af702099d4d583.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "150"
+				}
+			]
+		}
+	]
+}

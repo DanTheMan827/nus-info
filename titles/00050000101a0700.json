@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101A0700",
+		"eshop_id": "20010000013028",
+		"product_code": "WUP-N-FETJ",
+		"name": "メタルスレイダーグローリー",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 117,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/297b0da8b780256d1fcc7d32c62a198dba6814761a944ca3111d1617617fe39e.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a8b1a997444b499e93d48bc99c8cfb13373035d92bb1e2878ab2650cd437e54c.jpg",
+		"data_size": "39485600",
+		"description": "このソフトは、1991年に発売されたファミリーコンピュータ用のアドベンチャーゲームです。 物語の舞台は近未来。主人公の日向 忠となり、偶然手に入れた謎のメタルスレイダーに残されたメッセージの意味を知るため、さまざまな場所を訪れて情報を集めます。このメタルスレイダーの正体は何なのか? そして地球に迫る危機とは……? 息もつかせぬドラマが次々に展開していきます。 メッセージを読んでストーリーを進めながら、画面に現れるコマンドを選んで主人公の行動を決めていきましょう。時には、自分の選択がストーリーに大きな影響を与えることもあります。 エンディングを迎えても、前回のプレイで選んだコマンドによって、2回目以降のプレイに新たなシーンが登場するなどの変化が起きます。ぜひ何度もプレイして、奥深い世界を楽しんでください。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-07-01",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/cf1f2abe7645f53afb7d499bceba931ae8b218b8cef6551a838219051873fcb3.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/7b9d7900e48d856cbead3feb02dc85ce04a1689c119b396d71f75595d9edbf5d.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/2bb04562e75dbd0727e8c1b605387ac4a92bce6fa1e5420871dd270957049507.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4a1e89200734aa25d6dd4cf6f57a48bd397bef9deda91d9f0af426c03a299cbd.jpg",
+				"name": "メタルスレイダーグローリー プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6d1d2c51c8fa1e5ed5bd43cc96a3caf8d479bbd3303e7c12c48ea3a905bd4a4e.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "66"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6b4df041932c1bf0d7d959ed5fcfffd2e2265a03de9349071b0a017c03476704.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "66"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010194C00",
+	"eshop_id": "20010000020187",
+	"product_code": "WUP-N-MNRJ",
+	"name": "コナミのサッカー",
+	"platform": 167,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/355d7a6611a28eb52043a176000dea040fdbd5442df7a5f9c1478b71bc37e75d.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/af1e1cf232d1a313094a36bdbb7f3681aceb553b9c2c10c1379cd8ba73581c19.jpg",
+	"data_size": "78708876",
+	"description": "今、まさにコナミカップサッカーの幕が切って落とされた。赤き血潮に燃えるイレブンは、数々の強豪チーム相手にコナミカップを勝ち得なければならない。キックオフのホイッスルが鳴り響き、激戦がスタートした。反射神経と判断力の全てを注ぎ込み、栄光の覇者となれ！ 自分の操作するチームカラーを8種類から選択し、チーム名を決定、コナミカップサッカーに出場し優勝を目指しましょう。1チームの人数は違うものの、基本的なルールは同じ。同点で試合終了した場合のPK戦もあります。 攻撃はパス、シュートの使い分け、守備では上手くプレイヤーの切り替えを行うことが基本のテクニック。慣れてきたら、クイックパスやセンタリングからのシュートなど、様々な上級テクニックにチャレンジしてみましょう。 また、コナミカップの勝ち抜き戦だけでなく、2人での対戦も可能。ハンディキャップ機能を使用すれば、プレイヤーに実力差があっても白熱した対戦を行うことができます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-11-25",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/f1ff3d1d40a05dd0272de951d9c129cb53438d1c1419f9f2db35d115ca6b4fa0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4ccd191817a597997091cfee0df29cdfbacca49fc64e0294a973e45c3359321a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4758bd5aa8e02a8b1f7acf07aedf15dbd456f44077c6e3cb41e62e0b2a5d6a98.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/84d8a2b4067de6fe6732a96b16765cf6e56f909d0f297b5b4e57ac05a4f46e4a.jpg",
+			"name": "コナミのサッカー プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/dd813307ae0427bc43ce761f1037f8da70a19942d4779d66b6fbeb49a785d3e7.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "54"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5db2808b9bbe95691a0697fb9c091e330e5987788816498a99d22f6655564e97.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "54"
+				}
+			]
+		}
+	]
+}

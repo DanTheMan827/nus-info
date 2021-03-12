@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101FBB00",
+	"eshop_id": "20010000022768",
+	"product_code": "WUP-N-BLJE",
+	"name": "Blackjack 21",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1447,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8349dbbcfd5b6d4425e174639b1299fc2ba645f4c7a3c88173e6031417b4f17f.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5ff055d9fb29a3851b2ee89bf37b6d841d68dbd4ee92ced8333f9b6639e44a67.jpg",
+	"data_size": "112361612",
+	"description": "Do you like Blackjack? Tired of half-baked Blackjack video games? Would you like to truly simulate the experience of Casino Blackjack? Then Blackjack 21 is the game for you! Blackjack 21 is a true Blackjack simulator. Featuring a visually appealing Blackjack game that actually follows every casino rule to give you a realistic experience. Exactly like the Blackjack inside a casino, Blackjack 21 includes all the rules from dealer soft 17s to increased payback when you get a blackjack! Split, surrender, double down and everything else you do in real Blackjack is simulated within Blackjack 21. Why settle for a sub-par Blackjack video game? Get the real deal, get Blackjack 21!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-06-23",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/68532cd316961a45aa920ee9594968dbf001b707edf3fe41b986ebf62df46809.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1b5722b18ce38c3db74f8862be3a7f9281036e867fa435d7a87018a06352e2f7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9d4966525652a142f31a96774608e2887b37f35ad6e4b88fa7ea746d67f68389.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a1f1987aee6d82f47ae037582ae1f9c31aefb5e62ca9a02b2b8aeba964f1a934.jpg",
+			"name": "Avance para lanzamiento Blackjack 21",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b44c3d4ad480271c7254ba393512d9f75685c6340104a12769414fefa8b1b961.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2fc2891f3109ca7a9e953edcfae53466895e686ec2ddf5355d7c10cfb98fa80c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				}
+			]
+		}
+	]
+}

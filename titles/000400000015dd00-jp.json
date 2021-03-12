@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000015DD00",
+	"eshop_id": "50010000029795",
+	"product_code": "CTR-N-JTPJ",
+	"name": "アイコンパズル タッピンゴ",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 1212,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/1dec9b170282bc19e57af07a243d1f7b08b985d5ac375f8e28328db8920aa533.jpg",
+	"data_size": "23346020",
+	"description": "「タッピンゴ」は、長さが決まったカラーブロックを、決まった長さだけ伸ばして、フィールドを埋めて、アイコンを作り上げる「アイコンパズル」です。 イラストロジックのような「中毒性」がありつつ、タッチ→スライドでサクサクアイコンが完成していく、誰でも楽しめる1本です。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-01-28",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5df3eca0464a147452a17039ce0038e5833400081cf87f9c0a507f9861246f12.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9caa29f71dac5f96983c06f7acb2a612d6cbcf3c7e135fe1a15b3c2b4d1eb583.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/cd9f0225f64c512cab5fbcf0a767002f8ab8d83920cfd2f72358bdf2182cbf20.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/680e55cf7cae664916447599f84ed9a333d2cd5d3cf66e9ec531c7607e9dd665.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/302f7a4908aa61873e34577d5e29bc3459d0c05c6d7906492ec5276e29420138.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4a1c55412157d417e20d02c0fd7163a3a9d7e58a49d86ed7c08c3b2da474a3f6.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7835404fda73efdf0c2d11f5c678a28d88f6cf2dbd6826fa2f8a4c4443ae7920.jpg",
+			"name": "アイコンパズル タッピンゴ 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/41ffaaf54b234102bbccc355c31e9586a84e19cd1c1f6e853679500520e91ab5.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "51"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0d5054f974a804a80ccbee0a12d85384429d494002d3e3a9f9644e920c1acfee.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "51"
+				}
+			]
+		}
+	]
+}

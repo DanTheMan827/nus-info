@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000160800",
+		"eshop_id": "50010000030895",
+		"product_code": "CTR-N-KW2J",
+		"name": "コミック工房2",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 358,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d28a5b2c6ee492853fbac1e4bcb2783a21007eb89d166935db24a2b18d6aa67f.jpg",
+		"data_size": "102718308",
+		"description": "マンガ制作に必須の機能はそのままに、以下のような新機能が追加されました。 ･グラデーション ･集中線 ･レイヤーの加算や乗算 ･シールや選択ツールでの自由回転 ･透明部分のロック ･キャンバスの左右反転とグリッド表示 ･ページの移動とコピー ･キーコンフィグ さらに、収録されているシールとコロコロは前作の約2倍! その他、いろいろな点で前作よりもバージョンアップしています。 公式サイト「工房ギャラリー」でみんなの作品を掲載中!",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-02-25",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6d11811cacc39e701d7284cbd359443193471a361f315397486f254a40c1c709.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/89ef1bc2efee53ba0205cb78b858b3e700b563af2ad5f0d63c1162df6f51b350.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b2d2595471415c6d0e900a505c1e611105823ef6a097afef934db94f59aac51d.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8eefd7bf310b87082c5b8c531d4ec44ee6ee4157f3e07236391c172a23c3335c.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6b19d1e94b3d1011188e99a10bd16a0e0b11c2c4114c317e35932f9acff17b02.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9618f1d4dd79b3aa8a0286d85d117efcdf28c0b2a2b883845d84f59bad6ff27c.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5c31943295376c7370f34483783c0707746d29961e3db62fca1a2658c4493091.jpg",
+				"name": "コミック工房2 機能紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b7c1da85efaaae1745de1033cb6d8ad1f6a85fe3317458ad311db16bb50cf6f6.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "70"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5a77251326d809bb26e24235b925bfc0cec4a53b48abadfdd8c4eb8c11c76019.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "70"
+					}
+				]
+			}
+		]
+	}
+}

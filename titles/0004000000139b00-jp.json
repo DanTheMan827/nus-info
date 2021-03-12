@@ -1,0 +1,85 @@
+{
+	"title_id": "0004000000139B00",
+	"eshop_id": "50010000022517",
+	"product_code": "CTR-N-JEGJ",
+	"name": "EDGE",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 1292,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/faaaee80c093c165724986ae8071ce9d0483a6587c92f2af39b31930bbf34247.jpg",
+	"data_size": "79248228",
+	"description": "シンプル操作で、キューブをゴールまで転がそう。100以上のステージには「移動」、「落下」するブロックなど、数多くの仕掛けとトラップが待ち受ける。プリズムを集め、短時間でステージをクリアするのがポイント。キューブの端でバランスをとることでボーナスタイムを獲得する!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-06-04",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1e4868543735efd0c7bd532e3681c7b745567a58e66d621de6527f3937aff5ea.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ea0104bfd652d360972c5de96b6df6a1d5c8bdaa26ed5067ecf764f7f2513a79.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a9fd16677b63e15b7adfede7fe0c1268dbe88655874ec2e0fc53b481bdb43e54.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/78f996e4499d004e0203a07e72453521add1fe519a4ec3ce27b98a2cfb2f68c4.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2b721ff1b1afb08e8d2bbdd2f4d351cef08144fccfc0571fe22965d7428edfed.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5abf8a07381a6a6bd92f73c64fd4a5b1eb1ef9c34d83eb90578e859a76d0c9c3.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/227300390c4328ca204920a6841cdaccc4e7d859f17991884a9622206e788506.jpg",
+			"name": "EDGE 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/45e564d93187e5caf483a8d3385fc25c399f5795b66e592a5354f36b9b77d1e9.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "86"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/08d43549c29906c05d5e848fa9401c6f7ab34cbfc40524d2e47532dbffcf516f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "86"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/33b04ae32caeb5907cf04074a43c8399ed15595667cecb0bbc3cf816f55c31c5.jpg",
+			"name": "EDGE プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4aea7beb609880ca414bd5e92a3a1c788152bacddc0cdc7fe0f887af39a242c6.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "47"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/35bcd804b635c213ab9da7b9801ef4c8381cc512c5d666cbba300d601978d8ca.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "47"
+				}
+			]
+		}
+	]
+}

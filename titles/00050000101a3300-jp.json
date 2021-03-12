@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101A3300",
+	"eshop_id": "20010000012947",
+	"product_code": "WUP-N-PCFJ",
+	"name": "トマトアドベンチャー",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/761c691b4eac4d229ac669864a5a548c02de320a82c0010dd932d1644aa71c26.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9d74c1d294a64e657b3a7c322a8494c86fbc736cb3ea14660365ebe876ec4c74.jpg",
+	"data_size": "72843404",
+	"description": "このソフトは、2002年に発売されたゲームボーイアドバンス用のアクションコマンド型RPGです。 ここはコドモの、コドモによる、コドモのための国「ケチャプー王国」。トマト嫌いの主人公･デミルは、トマト好きの国王･アビーラに連れ去られたガールフレンドのパサランを助け出すため、王国を冒険します。 冒険するエリアは6つで、各エリアにいるボスキャラ「スーパーキッズ」を倒し、「トイパーツ」という謎のカケラを集めていきます。戦闘では「ギミック」と呼ばれる不思議な武器を使い、「れんだ」「タイミング」「スピード」「ドキドキ」といったさまざまなコマンドを入力することで攻撃力がアップします。十字ボタンやA･Bボタンによる素早いボタン入力と、その正確さがバトルの勝敗をにぎり、RPGでありながらアクションゲームや格闘ゲームのような緊張感が楽しめます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-08-26",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/4fcc1984b151fd05346cd70217c44affe289e4a0300d41890bff8a1676488601.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8fb75afccecbcb7d37512dd71d7fde74dd1baec52cdd8e737cc9c398418a9a2d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/180b4b133b9715ce34dfb0e90849504e4c0c3608d352c5362ddc5cac6414c961.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21821ee2ac854307727eb10fbd2171b272ab299440181277f15692e58730ccbd.jpg",
+			"name": "トマトアドベンチャー プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f9fed3583215ccde802efa79c48df603587633b49061c3de71bdcdc2cdd10bea.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/eb5c393dc8a57689aaa2afc04c71f9a7a44c7dd37c35a9dad3ca465563094fa3.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				}
+			]
+		}
+	]
+}

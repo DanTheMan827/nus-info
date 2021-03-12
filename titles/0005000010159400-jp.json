@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010159400",
+	"eshop_id": "20010000005206",
+	"product_code": "WUP-N-JCAJ",
+	"name": "バハムート ラグーン ",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 246,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7f101701bb4ba7d1f4afe66c665e8ecccefacc4f5d0814c2bca6c5a0ceede141.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/67ca76ec13f99800f306774b8d1da5a07d4698b5441eb30863f24d816021953c.jpg",
+	"data_size": "42696844",
+	"description": "このソフトは、1996年に発売されたスーパーファミコン用のシミュレーションRPGです。 物語は、空に浮かぶ世界「オレルス」において、聖国カーナがグランベロス帝国によって武力侵攻されたところから始まります。プレイヤーは反帝国軍組織のメンバーであるビュウとなって、パートナーの「ドラゴン」とともに帝国に戦いを挑みます。ドラゴンの飼育場などでは、ドラゴンにエサ(アイテム)を与えることで、能力を上げることができ、能力が一定まで上がると、別のドラゴンへと変身します。戦闘では、4人で組むユニットと、ドラゴンの能力バランスを考えた編成にすることがポイントです。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-02-05",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/e7077a90bce9d07c599f90b8c0681064fe4369ef12ca0696429de9bfc65b940f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/84b0bae4903b166d9fc153c8f93099ad68f4774be3ee1acec8f16fdbe9682650.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7e5cd61607190f285f889f6a9d90920dd77b9b3e74462ac2be99b1d89c9ca2fb.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/90b3ec611366717d38cba85b30a3f0c6e3f2fed4b779b19db94fdbeb32839aa3.jpg",
+			"name": "バハムート ラグーン プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3799ea3d1283e138a36b99af56106461bc7e162796a806a62482c655f02219e7.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "55"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/84c720466d33997c1f05194e5f056713bd9c8c1c0f57fe6f98d1c7166f6213a0.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "55"
+				}
+			]
+		}
+	]
+}

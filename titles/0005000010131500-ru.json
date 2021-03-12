@@ -1,0 +1,48 @@
+{
+	"title_id": "0005000010131500",
+	"eshop_id": "20010000000926",
+	"product_code": "WUP-P-WETP",
+	"name": "Wii U™ Panorama View Полет птиц",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/93ef0672d6f24f39f094a9a6d07470591a422317a879207e9efbc6a23ea8a1a5.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/bc4cd980a01e9c541ef24d086bfca88d125c28f55a76d9941c3320896a6cc1b2.jpg",
+	"data_size": "356450444",
+	"description": "Анкона, Италия Взгляните с высоты птичьего полета на портовый город Анкону, что в центральной части Италии. Взмахните крыльями и воспарите над землей в стае птиц. Маршрут начинается в бескрайнем поле. Стая пролетает над церковью св. Франциска и движется в направлении Адриатики. Вашему взору открывается морской пейзаж во всем его великолепии. Комментарий к видео отсутствует.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-04-27",
+			"retail": null
+		}
+	},
+	"screenshots": [],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/36836f2f70bc549f09df88e4a37f587ccb8ca45df48f456f19a3b74ffa56f541.jpg",
+			"name": "Wii U™ Panorama View: трейлер ",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4e6a5f97308d73a5f7dcd4e336b732310df355cf06b75735256eeb0b78756911.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "139"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a8ac1ab50624260348b39fc899b43c1312256b18aeec75671f41105913c70023.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "139"
+				}
+			]
+		}
+	]
+}

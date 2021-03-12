@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010205400",
+	"eshop_id": "20010000023967",
+	"product_code": "WUP-P-BWBP",
+	"name": "Double Breakout",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1610,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/afc7ca6e0236243ad577a252139e5c899617e43ced79049025379c17955bb593.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/fb33f6442bced7f57f021482109dc33956c63465ae99068e7912e7e2ff21322c.jpg",
+	"data_size": "143687820",
+	"description": "Double Breakout is a breakout game for one or two players combining game mechanics from a traditional breakout game and a pong game. Play against the computer opponent aiming for a high score or compete against a friend through 20 exciting levels. Supports Off-TV Play mode.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-09-22",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/fe58c739fef8ccdfdcdaebddf7179bb7c16b35572c08be4edacfeb6608a7dca8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ba39333d7867cf94403c73f67a1b4636858f23f2e5187b2afb88a9d94e2ebda8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6c35b7461800e1e7090d8e70e41ccb2d8f5e072902e5c92ffb8738a7f41e369f.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7ebdbea22b3d761f9012bcce3bfee2212bc10d73fe5c0bb111ef365b38f5cbdb.jpg",
+			"name": "Double Breakout: Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b32478e703595116bb366e1b1ca2f4ec33b6f621c6dd72494a87a8588e97f1b3.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "57"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1a2f0c5bc41b633cf1d84903cdbc21ae40200a4ed6dce2a96b28c38e990e36c7.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "57"
+				}
+			]
+		}
+	]
+}

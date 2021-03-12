@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001012FB00",
+	"eshop_id": "20010000002284",
+	"product_code": "WUP-N-FBAP",
+	"name": "The Legend of Zelda™",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/06e278b77b49a7590ea15b3a8e8980527f58ef8190bac3f7c04776b9f91f29c7.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e9d63a78d90e009c640cd78050f20f56827cb45788386f28a83b49f28353ba82.jpg",
+	"data_size": "36569228",
+	"description": "De epische The Legend of Zelda™-reeks begon hier, met de heldhaftige Link die een gevaarlijk avontuur beleeft in de fantastische wereld van Hyrule. Gebruik je zwaard, je schild en je verstand om de acht fragmenten van de Triforce terug te vinden en prinses Zelda te redden. Dit baanbrekend spel introduceerde vernieuwende ideeën die je 25 jaar na dato nog steeds kunt terugzien in de Zelda-spellen. In Links oorspronkelijke avontuur krijg je niet alleen te maken met enorm veel actie, maar ook met raadselachtige kerkers die je moet verkennen en een groot aantal mysteries die wachten om ontdekt te worden. Als je deze titel hebt gekocht op je Wii™, kom je in aanmerking voor een speciale upgrade-prijs als je je gegevens overzet van Wii naar Wii U™. Dit is de Amerikaanse versie van het spel.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-08-29",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/ee284037d888b457c21e9756f0b73fce4a0c575969f87d21221a26781e2e9a7b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/cdcc0ccb408ee5c74d85af014f881006083b59a3456d3eed5772c981f42e942c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/06beafe73a5aba7af8956303039d4c8a3cf27169114cb3b6a8594e4d7c644bd9.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6a3028ef846a846ab00299f5b0d0f219e4038b797a0d4c5c524f4ead58636744.jpg",
+			"name": "The Legend of Zelda™: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a9b4c2409d7ac409d6b91a51db4118f2ea400e34ece235d6fea3f5a249c182a5.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e4145477c5957da3d021d3341a9bf3b78ae90f69c93823baa510adb99a68411a.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				}
+			]
+		}
+	]
+}

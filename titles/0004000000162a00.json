@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000162A00",
+		"eshop_id": "50010000032555",
+		"product_code": "CTR-N-KDYJ",
+		"name": "脱出アドベンチャー 呪いの数列",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 19,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/cc8c0d8542cb104f433366bab87f7e9ca0acc4a0a46ca3d1c8fdf98436bcced0.jpg",
+		"data_size": "108804964",
+		"description": "本ゲームは物語を読み進めるアドベンチャーパートと、とある謎を解くため、またはとある場所から脱出する探索パートで構成される脱出ゲームです。 主人公の若留は学園で噂になっている“呪いの数列”の謎を追い求めて、さまざまな事件や現象、密室状態を体験します。 「探索」「分解」「パズル」「情報収集」を行い、活路を見出していきましょう。 ■物語 「呪いの数列」 教室の黒板、グラウンドの地面、保健室のカーテン、誰かの日記帳の中。 学園内のありとあらゆる場所に、突如として、なんの前触れも無く浮かび上がるのだという。 それは、若留の通うこの私立逢魔学園高校で現在流行中の怪談話のうちのひとつだ。 その「数列」が表すとされるものはさまざまで、「かつて学園内で殺された生徒の怨念にまみれたメッセージ」であるとか、「呪いを受けた者への死の宣告──残された命の日数」であるとか。 いくつもの噂や憶測が、生徒たちの間でまことしやかにささやかれていた。 若留たちの周りで次々と起こる不可思議なできごと―― 今作から登場する“自称名探偵”の須佐見優理香と共に、“呪いの数列の謎”に挑みます!",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-04-22",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/683abfa79f6d925fcc241f35e486f3e4b4e5c58bed6adba0e9fbbcf92df01066.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ef0ef0b3ac5ae08ebf1376c996424a03000a3d39a885ce4b22758afd4170202a.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8d3231e21a55771ba84b499b6c189644ddb4791aceb057c0efe481038be97299.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2ed46930000fc795641c6573486368188aed58ecc680992610c5d82cd9a27525.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/72b302febd1be966a0db77f52cbab243b9bdf3ea7a998699d1326b05ef31165f.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1f3a57df6f3f3d464029bf52d6f8ea49e436778cb7071d5b0c42b55c4101a9bd.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9da02797cd1825276bc7c666f4695064eafd9041d17dd3f4945846efd8c8d3a6.jpg",
+				"name": "脱出アドベンチャー 呪いの数列 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/73202219003941929255819231a79ca26a2bef23d09be5963d4a72e77a2a63c4.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "120"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ebe80ec94c2384157fd4a4b0f44d532e9b0aa42966ab829424aac4ae4f154144.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "120"
+					}
+				]
+			}
+		]
+	}
+}

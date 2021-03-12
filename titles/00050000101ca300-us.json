@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101CA300",
+	"eshop_id": "20010000016627",
+	"product_code": "WUP-N-ANLE",
+	"name": "Neon Battle",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1377,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d3cc9a0fc3909e61fd1ea033fe7e6d72901ce5d2e3f2cbc47f2b53240876b610.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ddb75229a67d134613e1cbbd731b75de61058b7731b50561c38b56e24f113b77.jpg",
+	"data_size": "322109600",
+	"description": "Maneuver your way around the circular battlefield to victory in Neon Battle! Smash your opponent out of the way and yell obscenities at them without the threat of assault charges! Well, that's assuming you keep it in the game, with four different game modes to choose from and a selection of powerups, it's arguably more fun than smashing someone in real life, and definitely more fun than attending court hearings! Play solo or against a friend in a race to collect points by bouncing the ball and keeping it from going out of bounds! And for when your friends are busy/non-existent, you can play against the CPU!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-07-09",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/890ff29b1548d1260e2a768beb0e903e82e8b4277aab760887d59b473badc11e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/386647cda2cb84eb4299c048097eb184421874a4f97b04252c5fcb38e1eb8dd6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6dbaaa4d807f323f997fe5cb383b351f822b6a968f3f96e37c397ad4201b3b85.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c34b7ed2824aca5bd8ecb064cd09c54596c7708b501601c24db7d609fe6565c7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a8adcda99c9e12793586ce8d8dd658f8b7fc421ff9488d19ccb38d70431dfbc1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4e8c67628f5661cdef549b81c24349207db81aed452df229a961931575b05407.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0ec5d08b68c7ae887a91917244a25d1b3c92c9db2a3c7b0226a3e569b974dd42.jpg",
+			"name": "Neon Battle Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/916b1c87ecbfe18295dd6e9405ea51c350783410e12324acb201898e28bc1314.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "48"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d6392fd0b5a8c6f836dec8a4ae6bfbda77cfce4dad8292b6a7e5a5d7a6c8f681.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "48"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101D3200",
+		"eshop_id": "20010000019387",
+		"product_code": "WUP-N-BMVJ",
+		"name": "99Moves ",
+		"platform": 124,
+		"platform_device": "WUP",
+		"publisher": 1402,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/26a97eed884bcfcf93af4160e3d6e8df4734442c9167a80114afa1cd0f2ac13a.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/45a0f9216bb0f60318bd19410a13e7967186d0c9739c5ea10dd99ffaf05a3a4a.jpg",
+		"data_size": "184385676",
+		"description": "あなたが乗ったV-99は、銀河を目指す途中で、エネルギー不足に陥ります。しかし、運良くエネルギーを提供してくれるシェーダと呼ばれるゾーンに入り、生き残るチャンスが得られます。99回しか使えない移動用エネルギーパルスしかない状況で、あなたはこのチャンスを活かし、生き残ることができるのでしょうか!?",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-10-21",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/663c64b4d825fee5f9177dbe74b8b5eac2eaec2c463be4bbb8c8a7f571aae0c0.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/21f6027e1ecf6aca7f5a5f8aa228ab46edd7d5f198c85a398d73afb3d0e9f0f8.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/0edcf11744e1da35cf81e0107da65948b0a891371b2e3ab70fb606d339618103.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ea0ced55ef5b4d2e3fc2c54235090dc47cfd0cae27ca2c96345350d2ce0d0098.jpg",
+				"name": "99Moves 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/505e028a53c57b01067f7efb3b34cf3b52c49f245fb74a03e57718bb8f9ddca1.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "73"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d2b9b789b0463c32fd610a2742750c49fdc7e7606655a2bae40a9c4c1ae24a7e.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "73"
+					}
+				]
+			}
+		]
+	}
+}

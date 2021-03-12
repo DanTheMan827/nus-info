@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010161300",
+	"eshop_id": "20010000013247",
+	"product_code": "WUP-N-FCWP",
+	"name": "Kung-Fu Heroes",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 416,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b1e88bff0ea6e4043ad1050855ec8b26fe17cccec13de12d17ab471123b64d3a.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5d5b60c6b11b1bb92f3fa6db216e3998aa53ec577b6c06fa3ad9c9a23f8aa5c1.jpg",
+	"data_size": "36536460",
+	"description": "Het komische actiespektakel Kung-Fu Heroes vertelt het verhaal van Jacky en Lee, twee meesters in de gevechtskunst die schatten en een prinses moeten bevrijden uit de knuisten van de monsters die hun land hebben aangevallen. Stomp en schop je een weg door acht kastelen elk met vier levels die bezaaid liggen met valstrikken, vijanden en obstakels. Onderzoek de stenen en rotsen die je tegenkomt om geheime levels en binnendoor weggetjes naar andere kastelen te ontdekken. Enkel met snel denken en rappe reflexen bereik je het laatste kasteel en de prinses die gered moet worden. Dit is de Amerikaanse versie van het spel.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-03-05",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/7bf86121c9d71438269efd067264a1923329a3d0dbab95596145f09494da84fb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2d35bd707e51b30b12233d039c92a605742361d44217e760089cadc02519d77e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b0ca727f86d8b4cea5af44ba34a567c6b71fd628321398cec42325c12a9676e8.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6d10828f0a86e557a1ea98f4c099517a90f45942faa991ff8121378af5fceab5.jpg",
+			"name": "Kung-Fu Heroes: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ace350433fd7aa7470eb82143cea716d96fc34eb0da371a5976e2abf6934f878.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3073cec41eb5b794da55a4f27d4203bbca73a88a7a25f2a6ca1f83850a56a284.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				}
+			]
+		}
+	]
+}

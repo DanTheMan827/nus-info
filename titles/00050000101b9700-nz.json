@@ -1,0 +1,79 @@
+{
+	"title_id": "00050000101B9700",
+	"eshop_id": "20010000021169",
+	"product_code": "WUP-P-ASKP",
+	"name": "SDK Spriter",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1358,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/11ac1bac98fc0b2b597adebe3bfc4a8cee87ef75fc1de911dfe4c8aae6c1ec05.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/fe4c0e0c54cfce5c49208e083aa55d040c6527ac8794df530d57ebf5abb2ee70.jpg",
+	"data_size": "145227936",
+	"description": "Create. Build. Play. Share. What will you make? SDK Spriter is an all-in-one studio for creating retro video game assets, from the pixel art all the way to playable levels. The final assets can be exported to Miiverse™ or SDKSpriter.com There are 4 phases of content-creation: Sprites, Tiles, Maps, and Levels. Sprites are animated characters with 8 frames and 4 compass directions. Tiles are sets of 256 square art pieces used in building environments. Maps are layouts of tiles, collision-maps, and warp-points. Levels are a combination of everything into playable form. Levels come in three types: Overworld, Terrain, and Dungeon Master. Overworld levels present the player with an overhead environment similar to classic RPGs, including having roaming NPCs. Terrain levels present the player with a pseudo-3D tilted environment similar to racing games of the 16-bit era. Dungeon Master levels assist with conducting paper-and-dice RPGs, letting the DM/GM control on the Wii U™ GamePad what the other players see on the TV screen.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-09-30",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/6c797979f0d7da52a6b67f86c8730079426a03b62020c31c31435b00e9d90f96.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/947e39355b205323d4ab13f3af264ce4ef5e5d0702f149563a39f626020fb916.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d54474bf37221dd839da6c34b2667662a029eaa5264228ca84b6e8637c7d8c94.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b44a2e6ae508cb49fa220e8192b462cad18ca6d3188673eee04e6f799fd03a80.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4b1dbe44ada76ead39172a213eacc5cb3a95bcf98c7d6897632e418f4b9f0c7b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7853ef6e29b1d33ffe270094ac96809cf7c7a801e55c67d8aac449eb83678366.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6369ec0c17aaacec0987878f646213ac894a3dfd5f1b15241e183f8220dbc3f4.jpg",
+			"name": "Overworld Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/43c8f9e01a1e36615926d4e5f8bae32e1225b01f1b5587b93b074021f69a13be.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "51"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/640c68ab6e6f6042ceec9bf962cf41ff029d250a90fb9a9b59a50ab8195eca44.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "51"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6369ec0c17aaacec0987878f646213ac894a3dfd5f1b15241e183f8220dbc3f4.jpg",
+			"name": "SDK Spriter Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a13fb270ad8e132e7faf89b2be4d8d5bbc466a095117d7d910c702ddab55158b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "37"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0229a9531b10dcb25a25d004ac0c7a1bcb0fb028a4a5fd7d223095239462c1fe.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "37"
+				}
+			]
+		}
+	]
+}

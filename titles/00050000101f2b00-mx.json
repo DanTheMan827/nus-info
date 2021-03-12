@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101F2B00",
+	"eshop_id": "20010000026169",
+	"product_code": "WUP-P-BKME",
+	"name": "Miko Mole",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1818,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ab78d3f8b4189f5c0d6d05ff0e0782cbe5d4ce2de38dd283a44f29e89743b2de.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/157412973a8ab7766035462b48a2fef4e21090ed29c85d065fc2ede23117765f.jpg",
+	"data_size": "231473292",
+	"description": "Miko Mole nos presenta al carismático Miko a quien le encantan las joyas brillantes. Se ha propuesto convertirse en el maestro del hurto al coleccionar diamantes en cada uno de los niveles. Miko tendrá que explorar 40 niveles en 5 desafiantes mundos, para un impresionante total de 200 niveles. ¿Estás listo para cavar duro y profundo, y descubrir todas las gemas preciosas que están ocultas? Pero ten cuidado, ya que cada nivel requiere de reflejos rápidos y de una estrategia ingeniosa para evitar los numerosos obstáculos, sorpresas, trampas y engañosos rompecabezas. Sin mencionar a los cuantiosos enemigos tales como murciélagos, zorrillos y ratas. Si te atoras, algunos de los objetos en tu entorno se pueden manipular, y te pueden ayudar a entrar en áreas que de otra forma serían inaccesibles.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-03-30",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/bd86cd27faba3cd7f3f29d891c9269aea86eae9228daeb4c5d3c1b6144ce3201.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9970c50f20863ab0a042f3a6f33c187b2156169039f0a56dbf4f7485af788195.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c98d3a0f991d507c13280737bedc8059f77079e24c8526be89cada8cc5822f0b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f19f42923702f901af08010a9cf2e5eb295528734bb37b4af5297821297251bb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/11304845e07210fc47e3fcf8c8501b909a6b3424778b708e2f8c165061ca465e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/cddf03e030dd95ea20fa5b9977e6219d3d07f055859f8fed5f91b1e770210639.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f3ba4e288c04668ed435ee9add820cf0aa2980fcdb8458e53dd7dc786129c76d.jpg",
+			"name": "Miko Mole",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5e8db838886f81cd257676f6bc18948155f4353c1652b72c425a6753eb88f2e3.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "155"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/45bf7ecc6f4f7efd683ac7cdc1be8d58ddf8af3a417281f2c6458cf9723be7d7.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "155"
+				}
+			]
+		}
+	]
+}

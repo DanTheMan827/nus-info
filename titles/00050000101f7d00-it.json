@@ -1,0 +1,54 @@
+{
+	"title_id": "00050000101F7D00",
+	"eshop_id": "20010000024568",
+	"product_code": "WUP-P-BP8P",
+	"name": "PSIBO",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1677,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4054b576c60852dd0ba8bdf5657dab6248c313e16cf424daa4689127a15904e8.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b1401815ac1753d1a225202c2d826a3737daa6a8ebbdeea993cb858a84a46103.jpg",
+	"data_size": "133464204",
+	"description": "PSIBO™ is a game that mashes together mechanics of many timeless arcade classics in a new, sleek form. Fight your way through the hexagonal defense systems of the universe in the original levels, or try to get the highest score in the endless mode! This game is merciless and hectic. Expect a challenge. - 25 Levels - 6 Bosses - Endless Mode - So many options!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-10-06",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/dadbd931157132f067323cdb7680c5de80737672e40ddb44f89ce70bbd66a717.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7c4be5a743e90d622857382c9c86635e71ff7a74fdff9de0601cde24739893e2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2d0158aff5d9611dd23e2fd8a7ff6bbcbf27e78dd4a2765482d761b2254b2f9e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/69cc12390969f3794fd92632365f16674856fb2ed87bd980e6fa99882b5a8c93.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a9d76866f78b93f57d8664e6a8630c8ead43d3ad72a71708862b6bf769b4c707.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/30e3be8a9f9e9361c577f25845ee128bd169acde8a515e8ae7cdbb0c771e629d.jpg",
+			"name": "PSIBO trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/46c5f525709dc8c799cd1f145c73d9ec61ee2f17147a6882a803e427e1a74fe0.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "38"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2b69388b1b1af15d5bb021e99fa0ae7f67120e2a97b60af82637e76e298a3da8.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "39"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "000400000017AA00",
+		"eshop_id": "50010000035515",
+		"product_code": "CTR-N-KS9J",
+		"name": "@SIMPLE DLシリーズ Vol.39 THE密室からの脱出スポーツジム編",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 57,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/90deb526823cd704465204591690d7c89d7484f03fd4c0f0aebc59dfb6370ae5.jpg",
+		"data_size": "58055524",
+		"description": "さまざまな場所に閉じ込められ、謎を解きながら脱出を試みるアドベンチャーゲーム。 今度の舞台は、体を鍛えるスポーツジム施設。 ダンベルやランニングマシーンを使って、プールやテニスコートに仕掛けられた謎を解き、閉じ込められた場所からの脱出を楽しむことができます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-07-29",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a505044359cbb401a86921b2b6bfb474be5d10a3062cd39f440daf76e8e45a56.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/af019c3b4e4d45d8a71569fd122df4d582839deb63cad758ce3973c8d6f89b65.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/cdc8b8fb42bc0411eff4ab9cdf7958fc25b7bab630f258dfc76b546c14122402.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7ecde95a52857f4d7697496647b0e7fa0881544ce50c3f531a4261f3d9a90c04.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ea216be4fd66c1a6f56d57f85167f074eecc9b2441d39cbfabe7f64dc4892cce.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/75b2cb7a394492b5feefddc1acd798e0c5586998855ac741d3a94294fe9bc7cf.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a45b707b741b6b5d9118a5e4f153cecfdf02dce029df81a9facc2722936adc27.jpg",
+				"name": "THE 密室からの脱出 ～脳を鍛える スポーツジム編～ 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/497dd8ca81b48262e49e5afb7d0de86097a1ddd2e8fb662e61b7ed6c77e9b06a.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "114"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f291c135a8cc4a65781d6c47f647046bc5a732c99885207633afc3a428a33e10.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "114"
+					}
+				]
+			}
+		]
+	}
+}

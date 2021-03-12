@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101B6000",
+	"eshop_id": "20010000020907",
+	"product_code": "WUP-P-BHKP",
+	"name": "SPACE HULK",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1346,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/79df7208b8c6ffabb6007131c84b40abee3ecf045a59148ee6c40493f0a38bfb.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/16013c6a9b3f72186adc0d017b32657d63cda1cfe16a88624f7747e5e4f1524b.jpg",
+	"data_size": "2896003452",
+	"description": "In diesem rundenbasierten Strategiespiel erobert das Space Hulk die Wii U™. Die faszinierende Geschichte spielt im Warhammer-40.000-Universum, wo legendäre Schlachten und Heldentaten vorherrschend sind. Sie befehligen eine kleine Truppe von furchtlosen Space Marine Terminators, die versuchen, ihre Ehre durch die Eroberung eines verfallenen Space Hulk wiederzuerlangen, das durch Horden von bösartigen und tyrannischen Genestealers verpestet ist. Übernehmen Sie die Kontrolle über die Adeptus Astartes im Blood Angel-Kapitel und führen Sie sie zum Ruhm, während Sie den bösartigen Xenos bekämpfen und alte Relikte in den infizierten Bereichen des riesigen Space Hulk mit dem Namen „Sin of Damnation“ entdecken. Das Spiel ist ein digitales, rundenbasiertes 3D-Strategiespiel, das die klassische klaustrophobische Brettspielerfahrung im Single- und Multiplayer-Modus neu erfindet.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-02-04",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/f039ef4bcf83622a6f2e995c1ebcd96d40398b75c73f0b38e22173c637cc53d4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/487732aaf9d2aeb501cd9929e9ef0a35c6b01178db717bb7c805dca67eab46bb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5b44152c21d8a1c8616bb3dadd0f296a62dc4281725f5b6a6fcd91187a049fb0.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/50d89ada505c67acad5c21157a1d9382a9549560a46eeb015125dc2c7da0dd0c.jpg",
+			"name": "Space Hulk Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d219aacda779bc5f854dd07fba71978d2d377d06699b290fa5dc5228090f5683.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "91"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bb0bbb1a31d0857ce953678e039bc0f4a17ecd8995f210caf87dd0c456b2edcc.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "91"
+				}
+			]
+		}
+	]
+}

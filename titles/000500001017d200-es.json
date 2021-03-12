@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001017D200",
+	"eshop_id": "20010000014508",
+	"product_code": "WUP-N-PBDP",
+	"name": "Mario Kart™ Super Circuit",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/70e622af8bc46d4f7d83a04ac13243292954d1cd057458b87f98537af450e1e9.jpg",
+	"data_size": "93945976",
+	"description": "El primer juego de la serie Mario Kart™ para consola portátil ¡es tan divertido, rápido y alocado como el resto! En Mario Kart: Super Circuit puedes encontrar los mejores elementos de Super Mario Kart™ y Mario Kart™ 64, a los que se añaden 20 circuitos nuevos y 20 clásicos que los expertos sabrán cómo desbloquear. Podrás encontrar a los personajes habituales como Mario, Luigi, Yoshi, Wario y muchos otros; además de tus objetos preferidos como los caparazones rojos, las pieles de plátano y los temibles caparazones de pinchos.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-04-23",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/cf78ed887e72ea663ca137ac3322d2c4e859e55c7a08c0d9daa659b4bacc430a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2689f4cb8f886b78cae8ef3260dead5b799e2390048d6dd9386aac7000d60917.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1f8f357bf2e98f780ea6dd2d41d3be60b9eec6d989a563c432ec15fd92feff44.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4001804af2b725438b2771536a7032a008b0904360123cef4181fd7f017e51fb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5d45735bd2284adaae5be12a136d05b52dc2f1f1af22b4d7d6753527c401c1cd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/dd95f2f811cedd82de805175e04e00383d1d7db84c769fbc7d352a7866f5eb54.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bd7f632cce1f1872660bd5d64e991d39d8320c2541c5d2e82eaab81e52a1fa8f.jpg",
+			"name": "Mario Kart™ Super Circuit: Vídeo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/dafe35ae676f1262ee73dd31c88868d010f4a1e266bd840d0229775816732677.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c60942b0f190b0ab204c68c3882af082e6ff2ee851868b9a5358c7d7c8126f13.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001016B300",
+		"eshop_id": "20010000006147",
+		"product_code": "WUP-N-FCXJ",
+		"name": "アドベンチャーズ オブ ロロ",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 117,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bcf0ca2f4ce0e371c9d6522fea72d05154df3b5f7247cb6fa72b41f5348e17be.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/02521d429e9fa83368e969d504fa4ff5c5cf312ce2a04d2a52520834b9c83a08.jpg",
+		"data_size": "38731936",
+		"description": "このソフトは、1990年に発売されたファミリーコンピュータ用のパズルゲームです。 主人公ロロを操作し、悪の化身エッガー大王にさらわれたララを救うためパズルを解きながら塔の最上階を目指します。敵をさえぎるエメラルドフレーマーを動かして道を作ったり、地形の特性を利用して攻撃を避けたりしながら、すべてのハートフレーマーを集めると出現する宝石を取り、出口を出るとラウンドクリア。手順を間違えると身動きが取れなくなったり、敵を利用しないとクリアできなかったりすることがあるので、ハートフレーマーを取る手順や敵の倒しかたをじっくり考えるのが攻略のポイントです。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-09-03",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/2c84ff9220bc7a8d7935331abc855fb8ce3ae26187f7c31d05dc300311198bb0.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/ff3d8ba7262db1d56ca5e97ab14e85f32a33dbfc1fcad9c1887d9a1ab9bb7219.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/944dc729a31de8722badde84d2775708694336a8dc845f6c95742a17f61f99fb.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8ab0b2e745b9098e51f1444b578af4e7dcd5bfd1015dcb6f49a0888343e5d8b0.jpg",
+				"name": "アドベンチャーズ オブ ロロ プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c4bbf4f38aca6f6a3bdcc8d81cc99cc52bb00c2b86909981fbe1fccb34717baf.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "44"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/dfd11694ab618e20e4fc5ce7bcd6bb353732573ca3e3d6619cd3717409ba9c53.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "44"
+					}
+				]
+			}
+		]
+	}
+}

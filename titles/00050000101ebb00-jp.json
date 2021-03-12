@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101EBB00",
+	"eshop_id": "20010000024707",
+	"product_code": "WUP-N-NAWJ",
+	"name": "F-ZERO X",
+	"platform": 170,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d7eb008c2d80e804968d96e0991d12fc27c78da70fceb5e65e55f9a214504591.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/41137ae5bc8b8435bbdf49d1007326c42b2e1f5dc7a55f7970ce9fc9b353d756.jpg",
+	"data_size": "61898872",
+	"description": "このソフトは、1998年に発売されたニンテンドウ64用のレースゲームです。 シリーズ2作目となる本作は、コースの立体化やマシン数の増加、アクションの追加など、1作目からさまざまな面でパワーアップしています。メインとなるグランプリモードのほか、自分の限界に挑戦するタイムアタックモード、自分以外のマシンをすべてリタイアさせるまでのタイムを競うデスレースモードなどが用意されています。 レースを制するには、コースの仕掛けを知り、マシンに合った走りかたとプレイヤーのテクニックを駆使することが重要です。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-11-02",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/2a82c12b4a6a6dd2b3759d67cd4cde47326c08bc64d5c10d3cdf401536b17ce7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bda26552675dcf0afa40e6b34308a0ff423c82341571eb8489079bc1ac5debab.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5eda2c57d8a0ff9d3d61c3d463fec3e4864d24544867aa955cbdbbda528d15bb.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/46570c47bce5a6b7eb08db51e20700ad6017d38d33db99cbab85ec61e93f58b3.jpg",
+			"name": "F-ZERO X プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c19b9b95dfb660de0c5c5925da6901ea4fcb29c5954e3416b95d9aa6cd4a2aaa.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "62"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8804fa1cdb98d307663f97acb381172234659f3370d978c16f2de05390ea4d58.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "62"
+				}
+			]
+		}
+	]
+}

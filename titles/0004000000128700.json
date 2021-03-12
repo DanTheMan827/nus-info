@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000128700",
+		"eshop_id": "50010000023997",
+		"product_code": "CTR-N-JEJJ",
+		"name": "エクスケーブ ～異界の魔導師編～",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 152,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4214f77fdd8f4c1272c49fdb4fdc28626b145c46158cc638c272a7d2193f5a11.jpg",
+		"data_size": "77613924",
+		"description": "王都を襲う異変の真相を調査せよ……。 ダンジョン探索型アクションゲーム第2弾! 異なる武器を扱う2人の主人公で、襲い来る敵をけ散らして進んで行くアクションゲームです。 それぞれ特性が違う9種類の武器を操り、盾や魔法、アクセサリーなどを組み合わせてキャラクターを強化しながら、自分に合った攻略方法を組み立てて遊べます。 ■多彩なマップと敵たち 5つの特徴あるダンジョンと、それぞれのエリアを守るボス攻略を目指して進みます。 じっくりと強い装備を整える、ボスの弱点を見つける、魔法や食品を駆使する……など作戦はいろいろ。腕に自信があればもちろん「当らなければ……」と言う作戦でも! ■やり込み要素 ゲーム本編が終ったあとも、アイテム収集やチャレンジダンジョン、ランダムダンジョンなどを搭載。コンプリートを目指して、じっくりやり込めます。 ■より遊びやすく 一度到達したエリアには、城下町から直接冒険に出ることが可能で、冒険からはいつでもXボタンで帰還できるので、時間を気にせず気軽に遊べます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-07-16",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/fd3dd028772167ebe568ac61b5f63e5fcc0e3ec5c6f409cc14d59429eadd7377.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a502fe41ca7f58e5d02f99244b5abc7347fc170c0b50b50edd37907be8c54b23.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/4a95c1b1d0663ce761863f7862f0644704a7784d609d79788d0a241a81e444af.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e6bc9d88eb30c9dad97d3ea3423737d7c11858845579dbde957b193a4cb22e85.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/971d3ed864e145913c77166f53d66853105645fc359504b81f9a21c7f7978d01.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e95a38edbd82fee32f46eb4bfd261655e3b021c1a2a58abb5ad5f1d0559b2181.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ae571c06a8f1348fd7b9029767e996717457182ee5274250a192e9deb4707d8c.jpg",
+				"name": "エクスケーブ ～異界の魔導師編～ プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f6fe04134f7d3afc58349ca45ce6cd941bdb310538b795c6ecc55ca326ba36a6.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "40"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a3e59e179aa31096ce3a22572a7406f44518775dcd6f2dcad58d0ae950bc6b29.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "40"
+					}
+				]
+			}
+		]
+	}
+}

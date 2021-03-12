@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001012D500",
+	"eshop_id": "20010000000784",
+	"product_code": "WUP-N-WETJ",
+	"name": "Wii U Panorama View 鳥の飛行隊",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/62089003ebe613373430e45ac39beb5cb56300115e03cdbd9a4c6cd9ee8450e5.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/cf47749965ec885009b11b10d5e46733bd20224be2cce566a1b795d72e2c7607.jpg",
+	"data_size": "337969292",
+	"description": "Wii U GamePadを操作することで周囲360度を見渡せ、まるで自分がそこにいるかのような臨場感を味わうことができます。本作では、イタリア、アンコーナ上空からの景色やシチュエーションを映像で疑似体験することができます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-04-27",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/f4490566ab509ad89e99734ae21e4a7452329b69a0e7cbe75d403654bca00b28.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0b3d207d8ddc91b619f5ebc653dff727871f02465c97a62d5aab07e25a0caa41.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/12ea64f3f8606429626b9ab761c21300dfc06d016a8bd141b59a980dfbca310a.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7112ad000b7842e33fb11f98c6c59c4d85201da41d4b4f7537927ddbfc9e276e.jpg",
+			"name": "Wii U Panorama View 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6f534bd6be63bccd11b23557512aa60f2e78fec313d697ffb3018c06ff76a3da.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "103"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f8708cdae7154a29c6fa4e8586948e7a6e6ae511a54ee9cc1d7dd83b1d44c783.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "103"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001016B500",
+	"eshop_id": "20010000008966",
+	"product_code": "WUP-N-FCXP",
+	"name": "Adventures of Lolo™",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 117,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9333d88c7049165863a2059edbe1981d9a67abcd5f9eadd3071cb723b950cf9c.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a6fb99b9f91d80c509959072936f57defc75abf80cb5569b5b59af78b0458025.jpg",
+	"data_size": "38699168",
+	"description": "Негодяи похитили принцессу Lala, и принц Lolo отправляется на поиски возлюбленной. Примените смекалку и бесстрашно пройдите все испытания, уготованные вам во вражеском замке, чтобы спасти принцессу! В цитадели противника, напичканной ловушками, вас ожидают 50 комнат-головоломок, одна запутаннее другой. Соберите все сердечки в комнате, чтобы открыть сундук с сокровищами. Устраняйте препятствия и разделывайтесь с врагами, которые вышли на тропу войны и намерены во что бы то ни стало вам помешать. Некоторые сердечки помогут вам получить способность «Волшебный выстрел»: с ее помощью вы сможете превращать врагов в яйца, чтобы в дальнейшем использовать их для переправы по воде. Однако будьте внимательны: через некоторое время враг вновь вылупится из скорлупы! Если вы приобрели игру на Wii™, вы можете передать ее на консоль Wii U™ и получить скидку на обновление игры до версии Wii U. Эта версия игры предназначена для продажи в США.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-08-21",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/c45db659647a5e7d8a038b2225f36b1457824236308fbb966e01d7a5409d3d39.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/96ad9c147f2b75cf1c138fe0904ac612c9eec198c1a363f9bb05593ef7bda67f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ddc75315cace355163ee95d6579fab20fd7124819928972ebb25b1e22948ae30.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/95d497d592e00991eac15fc806f66570579b184c1199944b2df038f9eac7762b.jpg",
+			"name": "Adventures of Lolo™: видео",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/084f1d05652847a776b45083fad161fc2f8176dc0b458a254b9cd0cf36642212.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "57"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3bbce37f92146213d0ae47ede05c47fb52fd2e8ca3eaec73c5cd411d245b1aa5.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "57"
+				}
+			]
+		}
+	]
+}

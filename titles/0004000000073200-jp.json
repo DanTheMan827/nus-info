@@ -1,0 +1,52 @@
+{
+	"title_id": "0004000000073200",
+	"eshop_id": "50010000010263",
+	"product_code": "CTR-N-NCGJ",
+	"name": "ポケモンARサーチャー",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 210,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a647a3149ba9e7a19bde96a4f73054ef17b76e327cf60918093c73cacda9efcb.jpg",
+	"data_size": "23464804",
+	"description": "ニンテンドー3DSのカメラを使って、現実世界を舞台にゲームを楽しむことができます。 自分の部屋や家の外など、さまざまな場所にカメラを向けることで登場するポケモンに、ビームをあててつかまえることができます。 つかまえたポケモンは、『ポケットモンスターブラック2･ホワイト2』に連れていくことができます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2012-06-23",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/21213b30ab61a8aa1efe9e7e5b93be309683c322d1b23ee5514e6d52b113bf61.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/39e3e3f38deabd73f135f7e6b62a6e2ecf1d8b29e91d59ad21555eb325d95976.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7df2f2ca26d4d1ed14c17640243b0f31a42ed74e15cdb12210b1f2614bf88526.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/bb7ad46828fc55ff7f957de72a4a7bcc3fdf0d0a143c9609384634b145221b98.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/180dfb32fcc4273b591d300114d961c0f647a7612fd34260f59148d37b2494ee.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/22795200c26a5254bb8f6e12409393d578a04b8cb0ad011fd816e0e44b24baaf.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6bbaa8ecd4fae187e31f441be8ed1f0897c328b69f72b532e9927b8aa16c6541.jpg",
+			"name": "ポケモンARサーチャー 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ef8cd1018d3bf34e59ddb0de6be69238fe376e44a0de76955471a43a2f8b5cae.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "95"
+				}
+			]
+		}
+	]
+}

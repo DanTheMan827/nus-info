@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000C9E00",
+	"eshop_id": "50010000014633",
+	"product_code": "CTR-N-JPMJ",
+	"name": "実写でちびロボ!",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f573fa34c1f6b8df62bd89be967eb9d13e9540a22ce6679ca002047a8cfb4775.jpg",
+	"data_size": "400345956",
+	"description": "身長10センチのお手伝いロボット、ちびロボが実写の中に登場。シルエットに合うものを身の回りから探し、ニンテンドー3DSのカメラで撮影すると、それをちびロボがゲームの中へと持ち帰ります。手に入れたものはノスタルジャンクと呼ばれ、博物館に展示されます。ノスタルジャンクを集めたり、おソージしたり、個性的なキャラクター達と遊んだり。あなただけのノスタルジャンクを撮って、集めて、展示しましょう。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-07-03",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/065306d01e5e569f9bcda0f1316ff6f4728478a276bf078c8b02ec713fc93577.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9e9be0a6a76c26a4d86c3554d4718c07eb1e576f26ab80cee1b3712efc40d56e.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/989755f67a15f80ec159e9f6e102909bb2d2b2206f5688fe6c7f1d925beadd07.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1fd3a3570e9aa3025793938c3d47efc7ad02d6c5658d8785c9a87bfc661edd3c.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/59bd8186169896a28f8839291ca990f8ed150df7aebaf589b854114c7e091e22.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/fe83247b24ba8bb02c500e740b88e41f829c1dfcd02aed6eac337000b688d135.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/60283e4504d6e9302b7aa527f8863f56359c0f22de3410262d0a202c59167e8d.jpg",
+			"name": "実写でちびロボ! 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fe14153a4a3e717d2c5a3ec0d33ba26e8a28711de5a1faacbab4c501cc35b502.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "151"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c084ba6a7631457c95b93f5519db1888e8c4ce709be129015509a28c92b4ce08.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "151"
+				}
+			]
+		}
+	]
+}

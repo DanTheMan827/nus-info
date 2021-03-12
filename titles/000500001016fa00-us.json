@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001016FA00",
+	"eshop_id": "20010000020729",
+	"product_code": "WUP-N-PAWE",
+	"name": "Metroid™: Zero Mission",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/de1dc968d54b2ab9df8e74df4d465396ea30690695989a5ad90db285ee3a4408.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b3bdc7f85ac44e4c8f6ee276198a3edec88d11c624e50e1b4935e3481c88d412.jpg",
+	"data_size": "90603640",
+	"description": "Space bounty hunter Samus Aran is sent on a lone mission to infiltrate the fortified planet of Zebes. Traverse through the mazelike base of operations for the Space Pirates, gaining access to powerful upgrades and items for your weapons and suit. Locate Mother Brain, and put a stop to the replication of Metroids!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-01-14",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/9946a3deddeea0431a03ff726838b1f25d424f15cb802638b07869846c1e207d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/041d1e8478f7ac6d00e44e0e5df08ddbe815d7a80d79e0a5859aeb73a1f5b968.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2921574a038f9af7dac243c47e06ba9541537bab626e15db9792c8b7c346e041.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9d2f81c6029188cea1de0b7bb9c0ae69f9b4f3e7e6577aa3f984fc227b6b09d1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/23035e65e860c7c78fc5341c700be793827780347c98e36cb775d0709559c2c3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9e272998c288b72566410d51e6641202c49af0311e09d283092f3eebb006c553.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/27649f881c530aefe9c9547bdb23f906efdd366d20078a708cdd3b69fb55def5.jpg",
+			"name": "Metroid™: Zero Mission Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/eedbe311d52dbcab14841aede304adbac0e88fd2bef609a3869240c8bb4dfce3.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c65752966b6045555d9de516f4cff93f2792b3daace61708422f333d2bf220be.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				}
+			]
+		}
+	]
+}

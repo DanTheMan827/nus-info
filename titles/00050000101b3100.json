@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101B3100",
+		"eshop_id": "20010000013669",
+		"product_code": "WUP-N-BYSJ",
+		"name": "ジカンサタンサ（任天堂ゲームセミナー2014 受講生作品）",
+		"platform": 124,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5696f024a1fa59bf454cfab4f0b2f737b4e3d9a4d01c77d35a64c2f2dbbe7f45.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/1d41ec7fedac04bfc387c56dc473218a69cdb854db671c09875fbbb2829e155d.jpg",
+		"data_size": "366870688",
+		"description": "本ソフトは、任天堂ゲームセミナー2014の受講生作品です。 ペンギン型ロボット「ペンタ」を操作し、お宝さがして地下タンサ。 ペンタのちょっとかわったところは、歩き出すまでにジカンサがあること。 歩かせたいルートが決まったら、Wii U GamePadを傾けて操作しよう。 操作したとおりに歩くけど、ペンタはすぐには歩かない。 ペンタが歩きはじめたら、あとはハラハラ見守ろう。 ペンタがいるのは、いま、このあたり? どこにいるかは、あなた次第。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-06-24",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/634bd454f429f75c14bc4a7da46870e3f5138e6f0202777c24934cadb3f389ea.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/7920edc97efd3aad0a3e5aa887e1dfc943ece0783abbdd18e94c8468ba6dca9d.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/10cc7edfb08805de3f249ae98eccd7224439423a9ed23cbb4301d4c9d557f8d4.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9fa29f7fcd11f259281a571f47e07a4c107fc2d229a3f550654a188fcb549399.jpg",
+				"name": "任天堂ゲームセミナー2014受講生作品 ジカンサタンサ 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/baa85688a1394b20937f8e66c1e386d38187a642347d031d328714cead66cabe.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "74"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3ed7dfa94744561b9b870dfec48a261c456c89669b27ed50f58b65f3532bf22a.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "74"
+					}
+				]
+			}
+		]
+	}
+}

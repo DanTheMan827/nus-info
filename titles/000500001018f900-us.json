@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001018F900",
+	"eshop_id": "20010000011888",
+	"product_code": "WUP-N-ATGE",
+	"name": "TOSS N GO",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1269,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3f082578a5c3f5cd8b79737ed8c19cf97566cd786852b72dc7fb0997d6f2a02f.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/adac3634df75c13aeb8b14688f85e03213ee28754d1a4a84847fbb0f37029d57.jpg",
+	"data_size": "65536160",
+	"description": "TOSS N GO is an exciting game that pits the player against the CPU or a second player. You must strategically bank your points at the right moment before tossing the dice to the next player. If you like other RCMADIAX titles, you will enjoy this as well.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-12-18",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/b2fe880459ff5d57cab3eccef319bc6e0e36399f639488737088f3767c7e24d3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4d4fbf3e797ef83bd23b470bbcb29b7a3cd8bba20d47e9bca39947e5c5a1523a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/622e64b14b49c10ddbb8a366416ef7c43105dd4cb2370b8a0101cbbd1b709bf0.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f69198545f06ab6494f896893f351883fadd123b3126699650c38df6bbb7f302.jpg",
+			"name": "TOSS N GO Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4c2c103c20ab8e4d2c7624e8ea196066eacb04df346816b4556059141e156f6d.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a2cbfc5aa5127e9c846c7876abe25c0332ab63510186877f707e2638883fa071.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				}
+			]
+		}
+	]
+}

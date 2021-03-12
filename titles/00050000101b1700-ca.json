@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101B1700",
+	"eshop_id": "20010000023187",
+	"product_code": "WUP-N-VARE",
+	"name": "Kirby’s Epic Yarn™",
+	"platform": 171,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c6dcc449eac5e8028205eebff893a28f4817bca3d4692cc9beb1972ac065c1ad.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0f2c3d4dc5fc59d4fb7fb8843e1f1f26d6dd9b906d0c9be0c7c76041bb93540e.jpg",
+	"data_size": "3908665824",
+	"description": "When Kirby incurs the anger of a sorceror, he is transported to a world made completely of cloth and yarn! Guide Kirby through uniquely crafted levels in Patch Land, taking on a variety of forms in his common actions and transforming into powerful vehicles. Prince Fluff can also aid in the adventure with a 2nd player!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-07-28",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/26ddd6f2accd6c4ac2b60f987e6c933f6b14d1b446ec5062229e810f2da2a328.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/cb7828685b9035d7a1a8e7b0e402dd5791bdccd499f0da565630431a33c86a13.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/fed9a0962d1072e09cba0e7156376508ccff4c43858f8829c7992d31d1bc7a3c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7ad5a6fb05804390434c78036c6d13fdc9c323352efe91b03b987f4dbcab51af.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2d120cbdaf7fb4b5a1541ca76494c636daa4d64cd95cb8dc056d48b7e8a850d1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e5b71cec0ce2a4a4d9ed273e925286115327fa050db20f3998668e9941dbe7ff.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8f7021fc50c99c7ff231e4b9f76eab5b1fd5ebe4d273eb3719399ef8d08a9b03.jpg",
+			"name": "Kirby’s Epic Yarn Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1177d6b63d839f603615ee8d1bda00558da63bc019cefa3e24937bd0368c2e75.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "117"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c70f0d0e7be33a6a61998dfea440f0922ce1fa02aa4b2eb6a6e89e512d063c94.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "117"
+				}
+			]
+		}
+	]
+}

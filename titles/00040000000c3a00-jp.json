@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000C3A00",
+	"eshop_id": "50010000018722",
+	"product_code": "CTR-N-ADXJ",
+	"name": "デビルサバイバー2 ブレイクレコード",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 25,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9b8abecdb8daffdc721b7e06a9c00a0bff3b5fa12739eeeaadcadf0fe52237eb.jpg",
+	"data_size": "3697695588",
+	"description": "あなたは、悪魔を使役する能力を得た\"13人の悪魔使い\"の一人となり、突如現れた異形の\"悪魔\"や\"侵略者\"に強襲される日本を舞台に、生き残りをかけて戦うことになります。 侵略者は、1日に1体襲来。その大きな戦いに備えて、1日という限られた時間の中で何をして過ごすのかが物語の鍵。 誰を選びどう生きるのか、葛藤と選択が始まります。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2015-01-29",
+			"retail": "2015-01-29"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2fba37aa122d0b711b4779905b89872b3288c57d852bc879cba9082800fb3464.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/148c06e924c4b0df05ede466568860040e616f0e1206805ba2f3f3d772221de5.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0dbf8baf697e4b63ee8c7a559f87a0155fa8ff43895f7c9a40e5e1adac58d9a5.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0ba48b3ab34219751cb0421ec99f7c4144cea3d750db61eb3cc50474d665297f.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2fba37aa122d0b711b4779905b89872b3288c57d852bc879cba9082800fb3464.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e8c3b1840d211dbad7d9c49d4ed03f6b842aed6ed06c7c3341268acdc2fb602c.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/13e7775639b9087c51b34d60a8341fc588ef493d426ae2f533c9b9dbe1ec81e0.jpg",
+			"name": "デビルサバイバー2 ブレイクレコード 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d5be368a30568fc5b5252309270e405cc93513314a063662b17b7fa7507d3a0a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "208"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bc35e6c4a6e2bb97b799ab486bb6d0a525b284857bb7e0a11d170591ccc86329.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "208"
+				}
+			]
+		}
+	]
+}

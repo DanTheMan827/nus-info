@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010153200",
+	"eshop_id": "20010000005164",
+	"product_code": "WUP-N-FB5P",
+	"name": "Dr. Mario™",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2ea9ead20e20454d5a8a3ee66e9a30271e6ae5d5965eb89b28268f297fbf9064.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/103e4b9db1a4684b5e60983e6c42f58635131fd6242cf4f8581cb43576b63b9c.jpg",
+	"data_size": "36503692",
+	"description": "Un grupo de virus se ha escapado y anda suelto por el hospital del Reino Champiñón. ¡Ha llegado la hora de que Mario les dé una buena dosis de su propia medicina! En este clásico juego de puzle, deberás girar y alinear las cápsulas de vitaminas de colores para acabar con los virus. Deshazte de todas las líneas que puedas para lograr más puntos y hacer combinaciones. ¡Pero cuidado con los efectos secundarios! Esta es una medicina que tal vez no quieras dejar de tomar... Esta es la versión estadounidense del juego.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-02-13",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/e0b0e3c8afa3d0db11fee966513f4c10d6d45de86bf9727dcb97791b33ffa51d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/62bbd8ca83753065b9326169d88f9d2711b07618fa322ade29325c53d66b16b5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1c9430a257e2ad894479b8f8ded3f1ad8e7e1bf4cb96455662a1f987ac277dd8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/71e7086daad400dfb0512adb8ffb8a451638db62d1c88ce5f1be532a16aa4a91.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/68a71ee18da674887372d69484d4d7e4d841d8fc033ba581291d880decc5890b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/692f30cae509deeeafb5a8587d18ff2aa10aa1bece8b9ec5ea13624d54fa3cca.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/17c58e68032b1b5a43ea80c40168c98762009d26d8a85fe452cf728da1619110.jpg",
+			"name": "Dr. Mario™: Vídeo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/74b70fe1011a13d5c9e129f9cb3ace9609e62969a29efa04e5a4225a62716816.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3c9cdf48f0253901f4528d9d2e1e621414af5e52703296114f684a785c386f85.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				}
+			]
+		}
+	]
+}

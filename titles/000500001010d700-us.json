@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001010D700",
+	"eshop_id": "20010000000059",
+	"product_code": "WUP-P-ASLE",
+	"name": "SKYLANDERS GIANTS™",
+	"platform": 30,
+	"platform_device": "WUP",
+	"publisher": 7,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3cf6451890103fc1e3c79667d2c32f9446dc766b8ec0fbb87c7f57121f119310.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9eddf6f6e4458429d902df85b3148eb2b86409bcaa1082688a04363d32612bee.jpg",
+	"data_size": null,
+	"description": "<font color=\"red\">This game is available to purchase from your local retailer.</font> Thousands of years ago, the Giants fought epic battles in Skylands but were banished to Earth. With a new threat looming, it’s time to bring them back to join forces with the Skylanders. Only you can put them on the Portal of Power® to unleash their strength in the ultimate battle to save Skylands.",
+	"availability": {
+		"eshop": false,
+		"retail": true,
+		"dates": {
+			"eshop": null,
+			"retail": "2012-11-18"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/9dce3399f6f7487c8df661472bded1bca0e0412a6694e034c722e4855e2e907c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3bdfe80d0445638ea4bd2be7aaef7e93c7d14ad71b37613bc6741545ef2afe7b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/53db2ba187cc6649e8f6ffcedaf97b6aa9f1009afb37c3f6a5e310947394d82e.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/922b69cc4bfe30c6dade25eabef794ba45b729725d7917eab003ff558819abea.jpg",
+			"name": "SKYLANDERS GIANTS™ Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5b298d74821131ca452a3bf2951f71bc6dc582c4b6d0ee6c7ebb9501330ee153.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "136"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3779021da99d4a846ee27c7b0361bcb42314258b283027455f6340fc3cca1e17.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "136"
+				}
+			]
+		}
+	]
+}

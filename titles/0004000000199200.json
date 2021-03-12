@@ -1,0 +1,87 @@
+{
+	"JP": {
+		"title_id": "0004000000199200",
+		"eshop_id": "50010000042916",
+		"product_code": "CTR-N-BTZJ",
+		"name": "ドラゴンクエストXI 過ぎ去りし時を求めて",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 246,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6b41ff9356b75d84c9447088b5665f91e4a6e1fa6e3b856f5b514d9df2b486f3.jpg",
+		"data_size": "2685102948",
+		"description": "ドラゴンクエストシリーズの「新たなる原点」となる11番目の冒険。 悪魔の子と呼ばれ、勇者でありながら追われる身となってしまう主人公。その旅のなかで出会う仲間たちとの壮大な冒険がいよいよ始まります。 3Dモード・2Dモードという、2つのグラフィックを使った新しいゲームスタイル。冒険の途中でも2つのグラフィックを切り替えて楽しむことができるので、プレイヤーのプレイスタイルに合わせた遊び方ができます。 また、すれちがい通信機能を活用したオリジナルダンジョンや、歴代ドラゴンクエストシリーズの世界を体験できるクエストなども搭載し、盛りだくさんの内容となっています。",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2017-07-29",
+				"retail": "2017-07-29"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/9409e2011c56862fe7c670298d239ea9ea8087a39d593c3c2e972ac6ff57740c.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5422c8a2fd5e7dc40ef30fbff4324421adccb6ee53f3b7bb8237246b11784a06.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e3cb20312b5947041b2470039e87c90be5f99979b8f80f57d6b39e92095d553a.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8cf9ae771707997139cb7f5185ce826df0e6750e2d0eea014da288763a40ee75.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/18e1871abfd50c472b992d5f6ddb8a800159e0ba90bc67506870cddf2f4c075f.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d2e398f01c4a712cc094bcf9d75dc2c090c08d036afc4ade92f4ab3f38a72bcf.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c5525e64ce1b9c89d40e636af9cbc38ed11e0a73230425c55e68fbe4d37cfc07.jpg",
+				"name": "ドラゴンクエストXI 過ぎ去りし時を求めて 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fb94ef15d62c5128cdbcf52e6e2009ab53f0d52bbd5095bf2a3dc3f4572cda23.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "220"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7ff6b6d096d3cc1098a657043f09bf5a15d2ca7ad47df98ad98eba7de9596e77.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "220"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f046046af9676be0673d657beb228177bd0dc7412ab71208b0a00c9ed06f84b5.jpg",
+				"name": "ドラゴンクエストXI 過ぎ去りし時を求めて TVCM",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8282b6ecfc91c66f5fcfad4e7401f51a8c48c8feadd9c58be700ffc571f6bd99.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "15"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b8c29fe910e1fd25ab202570229de4f342da05aee3781f9989047be7fb34817a.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "15"
+					}
+				]
+			}
+		]
+	}
+}

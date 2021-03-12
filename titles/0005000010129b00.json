@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010129B00",
+		"eshop_id": "20010000001227",
+		"product_code": "WUP-N-FAYJ",
+		"name": "ソロモンの鍵",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 267,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8c8c6bd639a0257dd11d9084e01df87f8c644b6ac99742ab75edced7be8a1332.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/881fead01e35ed7f4bcc6a445bde4d387b2a8bd238ba552d7e4f87589a29fc07.jpg",
+		"data_size": "36569228",
+		"description": "このソフトは、1986年に発売されたファミリーコンピュータ用のアクションパズルゲームです。 プレイヤーは、魔法使いダーナとなって悪霊がさまよう星座宮に挑みます。ブロックを出したり消したりする「換石（かんせき)の術」を使い、悪霊をかわしながらカギを入手します。アイテムを取ると「火球(かきゅう)の術」で敵を攻撃することもできます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-05-01",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/3a7d7a6758dd162f0ddc18881936ea987bb6847c3749add9c96b45cc068c22dd.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/55337b8a1d6f0bf1c0d10c9f4c316c0870687908f2b57cc0b5f5ff9ae8a19655.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/9b80cf44a881896106fd9da83d60153bf2cb749fdc8854463075423b773ff2f1.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cb045f61cea0e91ae1acc458f1a3dd0111341014f2fdfddbd6db2f82da07a25e.jpg",
+				"name": "ソロモンの鍵 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e56457ee5ab64d79f4031c895c21a0c59941f1e4f24d43ae135073b0071f6a88.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "44"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d03bf0158e349312ed9b8b4ac433eebcfaf5f6bfb50b4e78bc7d3280ab4a4f7f.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "44"
+					}
+				]
+			}
+		]
+	}
+}

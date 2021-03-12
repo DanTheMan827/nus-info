@@ -1,0 +1,78 @@
+{
+	"JP": {
+		"title_id": "000400000010E400",
+		"eshop_id": "50010000021816",
+		"product_code": "CTR-N-JJAJ",
+		"name": "脱出星人!? デルデルデルデ",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 114,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/957ab25b1e3628589c52fa994c8b8717130b55d781e417f86feb76e82aa8cd91.jpg",
+		"data_size": "25312100",
+		"description": "『脱出星人!? デルデルデルデ』は、迫るビームを破壊しながら制限時間内に宇宙船から脱出する超コミカルな脱出アクションゲームです。 主人公の宇宙人「デルデ」を操り、華麗なポーズ「フィーバーアクション」をキメながら宇宙船から脱出しましょう!",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-04-30",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8838595f90c3aa0e31dd21201fd4f2a7b404c988e58165246fcd4f16a2b9f3a7.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/155d5f689e725316ffd3015bed76bcc370ec04990e6b58ba8432be2c6b74724e.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8e96977472358dddef92e27387deec8fd11cbec0f6c37e5fe5b2a201132bcd31.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4c32fb5db30b5abca31d8fa7fceee802b3dfe4e988556d39448e40c1835e73a1.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/29392822396d7f95615e175cd37e2bf4014e8b1d7cc36bed9ceeabe10cc8a985.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/752c898d4b462978466c923c46bccd58857f7ddc73673775b5d8b0df04e66a7c.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fbac34babf506318b71bbb77ee01993f8bd82b56f73509cd5841224fd9660a8b.jpg",
+				"name": "脱出星人!? デルデルデルデ 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/12bed0346b9131f09e491f12c5e135a1735a9e2f7941fc64d2a16e659c49eb1e.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "79"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b82fd2759b6fbb6ce475b6868b227b8d195853084afff2adc497b6a19b056ccc.jpg",
+				"name": "脱出星人!? デルデルデルデ プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/93df1f1f7d11401c2994c144f3b23d4937c9d117f865d1656b60a3f227760584.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "49"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/aad1f2818d95c792baa719544c9b799b2867037d73e565554394e857f6db27e4.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "49"
+					}
+				]
+			}
+		]
+	}
+}

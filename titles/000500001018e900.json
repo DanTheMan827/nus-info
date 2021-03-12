@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001018E900",
+		"eshop_id": "20010000011146",
+		"product_code": "WUP-N-PBUJ",
+		"name": "ロックマン ゼロ 2",
+		"platform": 168,
+		"platform_device": "WUP",
+		"publisher": 39,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6579a1b9359b211ef1b3267505a21b28555efc2f9d43aed109e5965aeb86d7d5.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/44bbba8bf04a8c93d77cef0dbfe20faeecec276a207bf9c1b452985df7411b38.jpg",
+		"data_size": "73236620",
+		"description": "このソフトは、2003年に発売されたゲームボーイアドバンス用のアクションゲームです。 シエルによって復活したゼロの活躍で、ネオ･アルカディアを統治していたコピーエックスは倒された。 全滅の危機にさらされていたシエルとレジスタンスたちは、その期を逃さず脱出し、ネオ･アルカディアの力が及ばない土地への逃亡を図る。 ゼロは、シエルたちを逃すため、自らを囮とし、ネオ･アルカディアを引きつけた。 その甲斐あって、シエルや、レジスタンスの仲間たちは、ネオ･アルカディアの追及を逃れることができ、体制を立て直すことができたが……。 ゼロとは、離れ離れとなってしまった。 あれから一年……ゼロのことを心配しつつも、シエルは、仲間を守るために懸命に働き、ついに、新しいレジスタンスベースを建設するまでにいたる。しかし、そのころゼロは……。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-01-07",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/2017f6e897cc5d78e2875fe96357c49c2d43c831b343995ce69657773df2d3d3.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/cd80d9a03b1e091005fdacaae70f2a7254549fe2db481699f527ceea8b9b7dc1.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/b79a2279752ccdfd18387f25a89db99ec481aad867ef2aca84287541e4b01a1c.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2666be62d25eb6886f28d6ece14357ebd782973971b831292210f163da9d5158.jpg",
+				"name": "ロックマン ゼロ 2 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6c3f64753a614f5727e7bb5340e034290d33f1ad67420b95ad5275c66ba5400e.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "75"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/de0e2fc3577541fbdf6f10009ce8b717b14479657ccebde766b2a86ed3f22418.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "75"
+					}
+				]
+			}
+		]
+	}
+}

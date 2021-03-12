@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "00040000001A7600",
+		"eshop_id": "50010000041380",
+		"product_code": "CTR-N-KA7J",
+		"name": "脱出アドベンチャー 第七の予言",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 19,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b98878b030a5bf6ecc12c8dfaa2b8334993535abb91a0234adba5b17153f4a90.jpg",
+		"data_size": "206170980",
+		"description": "本ゲームは物語を読み進めるアドベンチャーパートと、とある謎を解くため、 またはとある場所から脱出する探索パートで構成される脱出ゲームです。 主人公の「時野 若留」は、明るく好奇心が旺盛で不思議なものが大好きな高校二年生の女の子。 謎を追い求めているうちに、さまざまな事件や現象、密室状態を体験します。 探索、謎解き、分解、パズル、情報収集を行って危機から脱出し、物語の真相を突き止めよう。 ■ストーリー ──予言されたのは《破滅の未来》 気がつくと、主人公の少女「若留」は暗闇の中にいた。 「私、どうしてこんな所に……」 混濁する記憶に、閉ざされた空間。 唯一の手がかりはポケットに入っていた 《予言》が記された七枚の紙。 そして、その場所で彼女は意外な人物たちと再会する── 《失われた記憶》 《的中していく予言》 《地の底に眠るもの》 果たして若留たちは予言の謎を紐解き、 破滅の未来を変えることができるのか？ 全ては《第七の予言》に記される──",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-09-28",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/cea998addef55243e5b0b606b93672ca7e026d8ed4337f98c6db29c1a40a70d4.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f7242df3a64a1f9866f60cc41855d2092d62116636475a02daaf3de5071a304a.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/94ec0799908d7c30abb3c15b4fc700656a4cd098c4dc265dfbd5ed8ffeab2fbc.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/bfaa2841480be38867e6c06cfa49fe8b1d831270007f9fc41b9e7cee01ebeded.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d246bcd7a99f3b07b031a423cd8b51581c3e9fc482f98f8fbc0965e650468add.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/cda8d02b11f75990f64e97d995d1d1284f4f5cbde234e57cff586b8b8df200ec.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ea897cf21f45a66ff950087588042b7753996b90968a0e1fda58811408fd52cb.jpg",
+				"name": "脱出アドベンチャー 第七の予言 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a593dc44c3146f39b6c20f7e31b3eca774b1242f4c88262369691419ae86ecb1.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "125"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3e46cb33c292d6b94ba57f91c14fed90560bc2f02d29f3517675bc13268e69b1.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "125"
+					}
+				]
+			}
+		]
+	}
+}

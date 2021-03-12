@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010191100",
+		"eshop_id": "20010000011246",
+		"product_code": "WUP-N-JDAJ",
+		"name": "SUPER E.D.F. EARTH DEFENSE FORCE",
+		"platform": 164,
+		"platform_device": "WUP",
+		"publisher": 1800,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fa17f22cf53c582a7d955dc0c3c442a2ec94cc7a37121f3005fc835f7394021c.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4a9bd0c4c034824314a6d458f483e2f96c56c8a91c59dd47cbbb9cad9ea5835d.jpg",
+		"data_size": "43057312",
+		"description": "このソフトは、1991年に発売されたスーパーファミコン用のシューティングゲームです。 謎の組織「アギーマ帝国」からの攻撃予告を受けた地球は、地球統合軍の特殊機動戦闘機「XA-1」を緊急出動させます。開発が完了したばかりのXA-1は、単身で敵に挑みます。 XA-1は、ロールプレイングゲームのように敵を倒した得点分の経験値が貯まっていき、一定の値になるとレベルアップします。レベルアップすると各武器の攻撃が強力になっていきます。武器は、バルカン、レーザー、ホーミングなど8種類です。得意な武器で戦ったり、ステージに合わせて選んだりと多彩な戦いかたができます。自機とともに攻撃する「オプション」を常に搭載していて、いつでもフォーメーションを切り替えられます。敵の数や武器に応じて、臨機応変にフォーメーションを切り替えると、戦闘を有利に進めることができます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-08-26",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/a558146270c79bda60be91aedc3ecefc60c891dbdddda3a8d0699c3560ddaf2a.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/ccab42fafb9218ef14b4b40d2c57074a0b76c1f7fe858c171c839675d083467f.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/3d54f8bd92abe82adbb8de11daeb9210c46fe4dcb7c3e1bc11280f33d462ed31.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d1e7a6da4ed69144170b2414209de8be6b9f2d995cf26f2e66b472b6015f9969.jpg",
+				"name": "SUPER E.D.F. EARTH DEFENSE FORCE プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c36572c20e8f9e89a8ca2670fa40c3dbbb502ced0a5299ede1813efa46681976.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/eca5d52ab83cfbbf2a0a16890f8533d602642345a24387ee1000f3b9e1035101.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					}
+				]
+			}
+		]
+	}
+}

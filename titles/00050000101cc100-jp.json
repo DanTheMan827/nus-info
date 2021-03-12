@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101CC100",
+	"eshop_id": "20010000017727",
+	"product_code": "WUP-N-PDEJ",
+	"name": "スクリューブレイカー 轟振どりるれろ",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8ec869e69735724923299de2aef686a48dc2ec754144241555b1bba06f0d6dc6.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/866be3d9ee83e4ca18942a1431acee1fb7fb557c3b1e20c39ca64a4d06238011.jpg",
+	"data_size": "72515724",
+	"description": "このソフトは、2005年に発売されたゲームボーイアドバンス用のアクションゲームです。 ゴーカイ! ソーカイ! 破壊アクション! 前をふさぐものはドリルで壊す! 飛んでくる弾ははじき返す! シビレる破壊型爽快アクション! 多彩なドリルで敵をけちらせ! 巨大なドリルはRで回転、Lで逆回転! しかけを駆使してクリアをめざそう! ※当時のパッケージ裏面に記載された文章をもとにしています。 ※このソフトは、コントローラーの振動機能に対応しています。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-12-16",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/004a174f2a49b0692ad5021836a4a1010b7f0a25908ca0e0d086fac28df6b8ac.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/de9fd8f7bbc1543cf959174c3fa44eb52499249d596b3ac6b2f5406d8dc28e27.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0c8b2a6986e06401d857bebddd7a276a267c221dd8cf427b79f45852cddf001c.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bf50918be06862bc301d52d2226656a9e21fd97592411b529518cb807a3ab62b.jpg",
+			"name": "スクリューブレイカー 轟振どりるれろ プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ef41a2de3035c86c2b1c234aab595198ed97718c511f817df940ab88855ed25d.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "85"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0b62b6ca13072f335bc8e663f341be49ceadb2d466e20f1b498d5e9afbd0f6c6.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "85"
+				}
+			]
+		}
+	]
+}

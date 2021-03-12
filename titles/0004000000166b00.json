@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000166B00",
+		"eshop_id": "50010000039316",
+		"product_code": "CTR-N-BG4J",
+		"name": "真・女神転生Ⅳ FINAL",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 25,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/301acc5da27dbd1fb72bd109269b59b972246497058c82c889ef55ff4ee490fa.jpg",
+		"data_size": "1975110500",
+		"description": "2013年に発売し、全世界で60万本以上を売り上げた『真・女神転生Ⅳ』。魅力的な登場人物と人々が織りなす壮大なマルチストーリー、悪魔合体を中心としたゲームシステムが高い評価を受けた一作です。 その世界観を踏襲しながらも、全く新しいシナリオが展開される完全新作『真・女神転生Ⅳ FINAL』が登場。『真・女神転生Ⅳ』をプレイされた方はもちろん、未プレイの方も存分にお楽しみいただけます。",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2016-02-10",
+				"retail": "2016-02-10"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0b36fa37422622cb1ab4793051d209bc3beda4fa4bcc3c4529f88f91fada6fff.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/298c5769cc09973c7c454b228de6722120b252ae9068f76c13a1ddd4a10f9e12.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5006806729d8b246eafdc7947a71561aecf84c1c2db30f7b7100c4790b989b50.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/51c9bacdb80e8afab0d54cbb0bc69784582463c26e421b60bc90a9d49c29b52b.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/fe34c8f464c975a49215300135e5858085288a6778c118e81bbddbcb36d4b6e8.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e33362e451949df94f7e0eba023bd3ae6719da37902bf264a80d9e4ebc90a85e.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/eb14e26e1da23704b6a9229269d4c72c499c7ad58eda51dea9d3764d03b81db9.jpg",
+				"name": "真･女神転生IV FINAL 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/dae993ff36addce3ed088e627d193769604290248c3d3255af3bd2fd3118c3eb.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "199"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3d757d25fca843c0c957842ee83aba507e003f571616e0933cb5f73e8d6cbd02.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "199"
+					}
+				]
+			}
+		]
+	}
+}

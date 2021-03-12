@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101F6300",
+	"eshop_id": "20010000022007",
+	"product_code": "WUP-P-BRRP",
+	"name": "Run Run and Die",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 76,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/14345ec82111db88a6ca60b11d52d31454244281f3f33adda2746229103aed3e.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/489da5c22cf65a1a11fb0fbee3ddacff98b7827eed88e0dd532e06787ff5063a.jpg",
+	"data_size": "547422368",
+	"description": "Run Run and Die is an atypical, mad-capped runner game in which you must escape from a hell-like complex through 24 levels filled with spikes, bombs, robots and impossible jumps. You are a penguin that has woken up in a dark laboratory. How did you get there? Who is behind all of this? You only remember one thing... Red is death... but don't worry, dying is fun. Are you ready to die again and again... and again in Run Run and Die? Features: - Very easy controls. Simply press a button or use the touch screen. - 24 wicked levels filled with traps that will put your skills to the test. - Some levels are a tribute to old gaming consoles. - Comic book-style illustrations will tell the story between levels.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-04-28",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/1d3b4e1c38dc13405ea6eb9c34a28dd580c8baa56da8b6a1118af6e4ff90ea4c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2a65a0a60020a401647144ada963c1992fc04542ba6fcd565c40f90a26911b6e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7ef0c92548b8d846899bbcf732fb1d4ea80101a88f01baed96c6624c8c30c0e4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e29d5edf0253ab76052fdf49844bceddf0388825b2d9e759cc2820599f3f1eca.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8106d672a1807c7e2a102212d065fd948b6c3c98ab60de9a1335158a6813bc21.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6af1ca957905adfe30a982469bf07774c36929da8216c9eae125110888271347.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a4cbaae3471dedc856b6cdb98a5c916ca4df73fad02a0f4836d7dcd3dadb2e9b.jpg",
+			"name": "Run Run and Die: Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/38191af9682c6c467a312c9c6c6a566aca0b4b0eacf797fd08323eefd5bc5728.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b5f3df3d43a31e09647e8c269336897d218faf5670422668b0b0630c2654f78f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				}
+			]
+		}
+	]
+}

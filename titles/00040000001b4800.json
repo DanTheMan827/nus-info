@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "00040000001B4800",
+		"eshop_id": "50010000042120",
+		"product_code": "CTR-N-KSVJ",
+		"name": "SEVERED-セヴァード-",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 1212,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8d9a094e76c707f20439a204ab297cd97c781d05516f53c9dedc72a45ee6aa94.jpg",
+		"data_size": "153287524",
+		"description": "『SEVERED-セヴァード-』は、プレイヤーが隻腕の女戦士「サーシャ」となり、画面スライドで敵を斬り倒し進む「斬撃アクションゲーム」です。 登場する敵にはそれぞれ弱点があり、スライドによってスピーディかつ的確に相手の弱点を攻撃することで大ダメージを与えることができます。 スライドは連続して行うことができ、すばやい斬撃で奇怪なモンスターを切り刻みほとばしるエフェクトとともに豪快な手ごたえを演出します。 一部のモンスターはうまくスワイプ攻撃を仕掛けると、部位を「セヴァー（切断）」することができ、切断した部位を収集することで「サーシャ」の能力を向上させていくことができます。 多くの敵を倒して能力を上げれば、手ごわい強敵も倒せるようになります。 タッチやスライドでさまざまな敵を倒し、行く道阻む謎を解いた末にサーシャを待ち受けるのは……？ ぜひあなたの目で確かめてみてください。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-12-28",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f5a176b4d96f4b2bf8ac4f70e6af4c486dbd4bf2cb98838fb5de372987b14873.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/35232292a02aec01a30e72a134808561fbea2b68033ced01be7ea55f515e6c8a.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0cca2b624d65b15a96b34f8f50b4e2c8ec93c14bd0173706b619182de8112be8.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/76721ad1d8b18f07c1433bf6d8df65213f3b27670c5231b003d1462e23440fcc.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1e2b80f21d946e81e5c6b95ed9fbe915f6625cd66321d88dbbfdb990a9e68f48.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/bcc393ccc6e5728817d3a92ecb63ccf73d0093c74035e318c46685c7983054ce.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/149363223fa2cacf22bd3817002985987b631f55a14e1ae10ff5d0907969c92a.jpg",
+				"name": "SEVERED-セヴァード- 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ca67fad8937de11987be36ddd61074427966124860fe118ab59f9412a605de9e.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "78"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2b841daf1bba3e6c42db8cb79faf7f187be04bc20efd546a49a48c214f6ae2ae.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "78"
+					}
+				]
+			}
+		]
+	}
+}

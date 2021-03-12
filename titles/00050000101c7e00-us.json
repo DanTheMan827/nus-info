@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101C7E00",
+	"eshop_id": "20010000019227",
+	"product_code": "WUP-N-AWWE",
+	"name": "Whispering Willows",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 5,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8d5b18b757f3380d34b7c7d941231a1cc77723d9d849d14d502b0a7f7bef0974.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/384f31e2cc07d1a002f7924680883bcdac80c956f6300492bd6e41497a939a31.jpg",
+	"data_size": "1761149208",
+	"description": "In Whispering Willows, you take on the role of Elena, a determined young girl with the extraordinary ability to project her spirit outside of her body. In her spectral form, Elena can interact with the benevolent spirits and wicked wraiths that used to dwell within the walls of the sinister Willows Mansion - lost souls, stuck in time and space, who hold the secrets that Elena will need to traverse the terrifying old manor. Players need to make use of Elena’s corporeal and ethereal forms to overcome obstacles, solve the riddles of the mansion’s enigmatic specters, and find Elena’s lost father.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-10-08",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/85238ab83fb79b480597e7851c79541c8b88667faab96fd8debf64db727dc64a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c1ebdd5d09269beb7a1ba4efdb919f683792d43c994c8d675095d53596ae8262.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/31d931f2e4577ad3a736ba0889e14d90f8bcbdff4e6b30755e68b080fae2dd1b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/712d35893d0bdc3497a2889e1b8f28cef1eaae72e2b1615ecb5040e6d84f9661.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1458706a73217b64dfbcd9d0800682fd69fcfc65adc78552e26929b09b87e8b8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/180ad03acf623374526358be4d06f776b4626bf5d72a4ad17e86e992f9b2ec17.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c6fdf3d7848be0f6793ae1b8b22ad0ab804127bda9d10425181222b39c849e6f.jpg",
+			"name": "Whispering Willows Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d9b946633c82fe6572e4d4baaef696caf2a7e800c6f062da8b373ca2ab84ee26.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "64"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0ea6e719da9e99e3860291bb9b698ab6c9f534bf1a920a584f1afce53ca92ec0.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "64"
+				}
+			]
+		}
+	]
+}

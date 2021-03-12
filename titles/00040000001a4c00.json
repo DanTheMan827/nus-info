@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "00040000001A4C00",
+		"eshop_id": "50010000042244",
+		"product_code": "CTR-N-BGHJ",
+		"name": "まんが家デビュー物語 ステキなまんがをえがこう",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 367,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6931b80a96b6548598420abdfd697cb6de7dcc5dc42001c3a5fcc2afe951e2c0.jpg",
+		"data_size": "280705892",
+		"description": "『あこがれガールズコレクション』シリーズの本作は、まんが家アシスタントとして、プロデビューを目指すサクセスストーリーをアドベンチャーゲーム形式で楽しめる[ストーリー・モード]のほか、コマ割、下書き、ペン入れ、ベタ・ホワイト、トーン貼り、セリフ入れなど、マンガ制作に便利な機能を揃えた[まんがツール]を使って、自分だけのオリジナル作品作りが作れる[マンガをえがこう・モード]、さらに、各まんが作業を練習できる[テクニックをみがこう・モード]を楽しめます。 お手本のまんが作品はもちろん、人物画、背景画、効果の素材パーツが充実しているので、“お話は作れるけど、絵をかくのは苦手”な人も、簡単な操作でまんが作品を作ることができます。 作った作品は、Miiverseのコミュニティに発表して、多くの人々に読んでもらうこともできます。",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2017-03-16",
+				"retail": "2017-03-16"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5d675303d2f4068a740aef8078bc3a6b89d367590bbf224077f924f83053f680.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e4aa81f0921e2a76d54386962dc6c3588d9a7acbc09491a9158626e7f2a809f1.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6bf03fe9464c1f58344f826d8ea6e96375883b9613ad249db2cd8f465f0af0e3.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/fa1f47d7efdf67b046dff8947c3e35942859c97977f95b57f7555aafb716d068.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/4490cad219e36617f2e49c846132667249b323bd0ebb419805db228e35a53676.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7b6867193c3d7cf8ca59d69bd5cdf3ea2e44ed610a9879aad3a2ec40a3367f55.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/87834489a5c0b2ca6502c1ef2d2124b355e1de34dabae5b8b61541f79af0ca78.jpg",
+				"name": "まんが家デビュー物語 ステキなまんがをえがこう 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/47224d7a0f9dd285f38a2e0c49b8ed437d72409f5a7fb33b5b1356274ef084d6.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "175"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1b5ce82f739de28cf880b9825b67bb09cf7a04a4d6f7e2eacf4000e9a641e420.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "175"
+					}
+				]
+			}
+		]
+	}
+}

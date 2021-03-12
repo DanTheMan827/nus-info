@@ -1,0 +1,53 @@
+{
+	"title_id": "0005000010147700",
+	"eshop_id": "20010000002187",
+	"product_code": "WUP-N-WCNZ",
+	"name": "Pokémon Rumble U",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b9629eca7ab445c763571f211c5c6e95965d4a4d5e5453e5dd0aeded2ee0eb74.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6932ecfc90263295ff6924477f0bbc630a4dfd98479db43cad4592345683d0b0.jpg",
+	"data_size": "589299872",
+	"description": "Los Juguetes Pokémon son objetos populares que se venden rápidamente en la Juguetería Pokémon. Cuando unas cápsulas que contienen Juguetes Pokémon caen a un río por accidente, este río los lleva a un lejano lugar. Los Juguetes Pokémon deciden emprender un viaje de regreso a la Juguetería Pokémon pero otros Juguetes Pokémon les harán difícil el viaje. ¡Ábrete camino combatiendo a los enemigos que encuentres en tu paso y experimenta una épica aventura! El mundo de Pokémon Rumble U está dividido en diferentes zonas con temibles jefes. Prepárate para enfrentarte en numerosas batallas mientras progresas a través de cada zona y recuerda que tendrás que salir victorioso en cada zona para poder continuar con tu aventura. Reúne figuras NFC de Pokémon Rumble U para usarlas durante tu aventura. Puedes escanear las figuras NFC para recibir Juguetes Pokémon en el juego y utilizar el dinero que has recolectado durante la partida para subir de nivel y utilizar los sobrenombres durante la batalla.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-08-29",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/3f5bea59a1770f1ce1b7de5edefe08fe65eb126fb927beb6c1fe7090f9d10b3a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/aa6996a894cbd69e8b9a727cbdc4b384cbfb135d54a802b03e8470e7621dc2d7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ea6bef23a6397c071cd67fbdf0dfa76b54ff8acc45100c3fe3d927d2b05088ce.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6bc1793866b0d4f8235799e83ef16f152c80d1e9ef0a7176238af7f751173ee1.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/476865570d9540ffd87215cd2c9ad8db7d8c562a7efcb5758771c75bc797b3fb.jpg",
+			"name": "Pokémon Rumble U Gameplay Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8c117a82bd0ed891dcbd06158be988e258865cca4b87d245209c3c9407096b34.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "47"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fa0475c64c3bc4568ada581bb1ea175333c922dec67ed3a7c36c8ff06362fa0a.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "47"
+				}
+			]
+		}
+	]
+}

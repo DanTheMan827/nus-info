@@ -1,0 +1,54 @@
+{
+	"title_id": "0005000010158E00",
+	"eshop_id": "20010000005444",
+	"product_code": "WUP-N-FCEE",
+	"name": "Super C™",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f5fccf00d99e0656afa46ce0dd9ea5c2d964fd9e27129d4db64c511660ecc44d.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/77980ea75194da849fe07300d7799c47a3723dd79817d3bd6b24b591bfc1a4ed.jpg",
+	"data_size": "36634764",
+	"description": "In this action-packed sequel to the popular Contra, players have little time to think. Experience run-and-gun gameplay at its best as you take control of Mad Dog or Scorpion and once again battle the forces of Red Falcon. Stages feature a combination of perspectives (side scrolling, top down, etc.) and intense battles against huge bosses. Use a variety of powerful weapons and tap into your killer instinct to survive the deadly waves of enemies. Because if your trigger finger lacks stamina, then Earth will lack a future!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-02-13",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/0463b5f7d480c5547b22581c2d0b5cdb5fd37ab7f6c2c7deecb4fc424c1a1a56.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3750eff1f4441b11f03b0962e4b482fc1bd5d57c91610a8609eb5d73ef2bbc89.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a29927543560e0b7e16066cb6fa0106372ddd1982086b921b633218e49489e64.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e2d4e55adc8fda9f60588f93292fa3c656cf69867d21fdd49534b2a2bed4d1ee.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a1dddefb383e65ce1d4da68067bc8cea0968e97df80c45558c22c926d152b8e1.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ab773c1459835b5f893d54a256e360222020b5ff64f2cab96761d9e25e201c1e.jpg",
+			"name": "Super C™ Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/658b3ee8f6201e462c858e5928f85b3fc443bef8b6bb93c971ef3005b9fc186f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7ca030cba4a40e0e0853cab910746018280b103d132016d701022b61775427db.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				}
+			]
+		}
+	]
+}

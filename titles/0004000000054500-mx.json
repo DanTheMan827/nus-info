@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000054500",
+	"eshop_id": "50010000007204",
+	"product_code": "CTR-N-SADE",
+	"name": "3D Classics: Urban Champion™",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ebc51ac3b4ad1a30f4a515802b0a2879ee3d1be120bb47e76a9fc62e5fd741eb.jpg",
+	"data_size": "16018276",
+	"description": "El primer juego de pelea que fue lanzado para la consola Nintendo Entertainment System está de vuelta para otra ronda. Utiliza una combinación de puñetazos para derribar a tu oponente y enviarlo a un pozo antes de que el tiempo termine. Cuídate de los vecinos enfurecidos que intentarán arrojar macetas con flores directo a tu cabeza. La policía también hará una aparición ocasionalmente e intentará parar la pelea o realizar un arresto si el tiempo ha terminado. Descubre si tienes lo que se necesita para sobrevivir en contra de los buscapleitos que inundan las duras calles de la cuidad. Demuestra de lo que eres capaz y llévate el título de Urban Champion.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2011-08-18",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/325cfe4f93ca8f3c41c9e06d7a1426dae23f65ae047986cc75a58d1ac6ec6e26.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/3e5435a88d5cf1d50b87519438f4ed44ac895dbd49240264fd71ddf86f613e7a.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a5dd292631cac6595397f3886e004d805b518b7a6b71470f51fa7ff2a573b29e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9ab084c64bfc4ff9c58ca6523017ba7195210784fa5c149a5133c51759bc34b8.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/03cdca9e1bb6b100375954b0f58f403dae7dd7e099742fb7c1434ea454e05777.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ba2943a3144bae69cfb5e1e7c744791bee4f732c29783efbe9d471dc923e330c.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c32156bff26d93c28ea764f4bfbd45b52fea10062f601d4f6a340894a308f9c6.jpg",
+			"name": "3D Classics: Urban Champion™ Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bc2ce5599682965fe09076d24d131e0470c61cb263ba2df6dff886a6a771e00e.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "69"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b478555505491fcb1a4d53740ea6edecf159c7ea8507bca057257a51531f4660.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "70"
+				}
+			]
+		}
+	]
+}

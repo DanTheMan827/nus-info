@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000141000",
+	"eshop_id": "50010000029615",
+	"product_code": "CTR-N-KRXA",
+	"name": "Pokémon™ Shuffle",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 210,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4c12e9107deb8e19c1323f6707b1a6fb0322f0a96bad59b85969c83d6647ecea.jpg",
+	"data_size": "93342564",
+	"description": "Prepárate para la emoción de Pokémon Shuffle, pronto disponible en Nintendo eShop para las consolas Nintendo 3DS y 2DS. En Pokémon Shuffle, tu objetivo es alinear Pokémon de la misma especie para que desaparezcan del área de juego y poder así superar las diferentes fases. Dentro de cada fase, puedes causar daño al Pokémon al que te estás enfrentando alineando tres o más Pokémon iguales para hacerlos desaparecer. ¡Combate e intenta capturar Pokémon antes de quedarte sin turnos!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-02-18",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c9633505a37a23f794d16f15ac08ccbedf04e80396ba8e2ac419154e2e1ba58a.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a47a6a703f857df4f6837d68d403762fa3805f14e044d4e822ad42e4dc189776.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d15ac4254e7d6ba15700379fad2eb405d6d9d7659da75b87666c2d9eb6cc6ed5.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2679ea113bab84fb6e0059516d8673ce710acfb9dae968ee1c4ff9530ad9badb.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/dee8c87767a6d0e6a302c1e8fe32dabc949b34f1525828dea102f4ab00484772.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/34f8ecaf5c7617aaaa29b33e414b788860b000abbb885b7bb0888921b70601a5.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5bcc5b4d94e5b037be40c946fc5b803d08742ea07c67dfc7239b59ef2e4be223.jpg",
+			"name": "Pokémon Shuffle: Tráiler de lanzamiento",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a588747715503d5d10287c73c579dd318fdb64e5e0d1d228d6a8ddd84d8966bb.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "98"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f04f6f02450c869fdf9611279dc55988177dfd6bd693710e8cc5c48ab8ed3377.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "98"
+				}
+			]
+		}
+	]
+}

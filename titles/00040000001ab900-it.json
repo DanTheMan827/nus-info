@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000001AB900",
+	"eshop_id": "50010000042130",
+	"product_code": "CTR-N-JLKP",
+	"name": "Team Kirby Clash Deluxe™",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9749d5e5129b04435b0b3c7fd6b3f77b4dc1bedf42405a798a843e1822923ea3.jpg",
+	"data_size": "133589860",
+	"description": "Il pacifico Dream Kingdom deve affrontare un improvviso attacco nemico! Combina le forze di quattro Kirby e partecipa a emozionanti missioni per un massimo di quattro giocatori in modalità wireless o con alleati controllati dalla CPU. Assegna ai Kirby delle potenti armi e armature, padroneggia tutte le classi e riporta la pace nel Dream Kingdom sconfiggendo i sinistri nemici del mondo di Kirby! Riuscerete a dimostrarvi degni del titolo di eroi? Per 4 giocatori in modalità wireless",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-04-13",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a4411e8f3904ad75be6962180f499788d01c8821205723288015613f0b7b2651.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b6156955f4f030025913f9274ddca16b45c2ce1487d2132e1613bbf2d885c323.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1e543b5b2744d50d5674991bdb287e961d5316e2121fc52d2ef22e7b81ea817c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b54f15777a440510ea4e37d56d882d0ed0d86416fde9b5ae17ac6a231e1c1ff6.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/fb8db0c594970f8bbc24ffde366b431ad9e71287988f5df25b681de3318273ba.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/3769db6db69146af164715b27e76e183ca47d668c9ef7976227749a2132bd2ad.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6daf909a02f9151a3a4c5468de4b9ac2dd7f610adf1452464c75901a5655c513.jpg",
+			"name": "Team Kirby Clash Deluxe: Trailer di lancio",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e66000a4cf22ef99161f78e9564b02e205775e348fa5b96891d86055a2b6b031.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "106"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f47726aeead0a0cebabeadd9c99be9f20dbfb2b9770bd111c4af02d84bc81b51.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "106"
+				}
+			]
+		}
+	]
+}

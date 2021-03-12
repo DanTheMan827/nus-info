@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001012F800",
+	"eshop_id": "20010000004844",
+	"product_code": "WUP-N-FA9P",
+	"name": "Super Mario Bros.™: The Lost Levels",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/55b192312448325b960bbcf096bd7cc79eecd6f3c75cba168b166cf2c73cb967.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b12e0d562fc2649d70c599d8d40623a014a4452a2c69f1c3c9a171cca86d7ade.jpg",
+	"data_size": "36569228",
+	"description": "Super Mario Bros.: The Lost Levels est un véritable petit trésor. Cette suite du jeu de plateformes culte n'est sortie qu'au Japon et n'a jamais été exportée vers l'Occident dans sa version NES originale. Vous pouvez maintenant vous essayer à ce classique rare de la génération 8-bit sur votre Nintendo Wii U ! The Lost Levels, la suite de Super Mario Bros., contient des niveaux au design totalement inédit, des ennemis encore plus rusés et de nouvelles caractéristiques telles que des vents violents qui repoussent Mario. C'est le défi ultime pour tout fan de Mario. Serez-vous à la hauteur ? Si vous possédez ce titre sur votre Wii, faites un transfert Wii™ vers votre Wii U™ afin d'obtenir la version améliorée à un prix spécial ! Ceci est la version japonaise du jeu. Le texte écran est en anglais.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-01-23",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/6a4cdac30bced395305b4c9b6c6372f4e4bf45fbeba71df92480e0105375e097.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b0cca9c77913965b1b39f40c5d17bd3760fcce59bd789bf69413d16a2c6cecca.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/57512c840e47978d401353c9caedf3f1568336160bd4c2d407cd318e37f9d6e4.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c33c39d358a0c778a7a1eabb6f1d2340565bb208e54aa99036a373923860d593.jpg",
+			"name": "Super Mario Bros.™: The Lost Levels vidéo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e661b1c8db4b7eb7c91cf1f23ed5b5770b149e2a5504e69f36c69ec00135f6b8.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "72"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/29ba6f409ba603124dea9d86a71a80a8ba69183bc2bcce9f4a889cb3cda673f6.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "72"
+				}
+			]
+		}
+	]
+}

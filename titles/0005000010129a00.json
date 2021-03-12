@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010129A00",
+		"eshop_id": "20010000001784",
+		"product_code": "WUP-N-FAXJ",
+		"name": "忍者じゃじゃ丸くん",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 1800,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7b9f7a467d9d74efe0708de4b95b2cc5dd813b606e50c44c6a8297a004c0b651.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0fb2c1ac964ccc34325d6ba022844a99cbf8ee1a6ac0c7b8583a356144cf9127.jpg",
+		"data_size": "36536460",
+		"description": "このソフトは、1985年に発売されたファミリーコンピュータ用のアクションゲームです。 裏切者のなまず太夫にさらわれたさくら姫を助けに行くじゃじゃ丸くん。全21ステージを、得意の手裏剣や体当たりを使って、登場するすべての妖怪を倒しながら進みます。一定の条件を満たすと巨大なカエルのパックンが登場。妖怪を食べさせて得点を稼ぐことができます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-06-19",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/8d3f7c67993f7ecd1611ae068d02f7e5de7d2e2fcd4a8c7b5ea29773ec9dcbe2.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/b3fe26abf165dfd57d1e26800f81e1fc4455fd64181f075d224d2ba0fed90bde.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/01432477fe9b15fd7e4fa6b11705c085a8f39336075876183e7b926672f6e3b9.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7050e81ce32947b50d34d4aeacbc2e0df3ff9b6c08522f92ce4d66a6849c5d10.jpg",
+				"name": "忍者じゃじゃ丸くん プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2fcbb59f7b8f82810d47b2c8f8ccba0ee101e2284feb27dab7124379dc69f8df.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "45"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7f1f24fb9938b826adfd0218af87f70a5c8fe9299b08f2c2c5773a31f08aa410.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "45"
+					}
+				]
+			}
+		]
+	}
+}

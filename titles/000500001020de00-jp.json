@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001020DE00",
+	"eshop_id": "20010000025907",
+	"product_code": "WUP-N-AL8J",
+	"name": "プランテラ ガーデンライフ",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1292,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/59e2fa0d1804af40431c10db07bdaa263c32be9a0d0f116091b0c53ca81d8efc.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c00ebb18356cfa53c3593334792c63876d5e7a406479413d9dd7d3d719dbc532.jpg",
+	"data_size": "48988300",
+	"description": "「プランテラ」の世界で、「庭」を育てましょう。「牛」「豚」「羊」や「めんどり」などの動物たちと一緒に、「ニンジン」「かぼちゃ」「ブルーベリー」や「梨」などの野菜や果物を栽培することで、コインが手に入ります。そのコインで新しい動物や植物と交換できます。また、レベルに合わせて、入手できる動物や植物が増えたり、「庭」が大きく広がっていきます。ずる賢い「カササギ鳥」や「ウサギ」「キツネ」「オオカミ」から、動植物たちを守り、あなただけの理想の「庭」を作りましょう！",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-02-01",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/14bc5c490b9c2c6b1ab89bef125f75fe2d595fbbb83427186e80e146d7e6e523.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/76b042f52e6c56d6c3c4a1a1725ef68fa76d975128a2a10d5682c53910b83b4a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0c9f8db22ba47a23a2caf882344d938e8d2e77810f4324a6cacfad68184b32fc.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ea5a077f9a6c436c720777021667486ad3988a58b3cd41ffec4e64ae82e9de92.jpg",
+			"name": "プランテラ ガーデンライフ 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/12b869eaff50c36c4d862059421c422ce7ede6e84aab5c44040f53c6fdd58a1b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "102"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d1399b816dca93d56c11203c074cf2be5380cce84336d3d9f58766c636b0b3ac.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "102"
+				}
+			]
+		}
+	]
+}

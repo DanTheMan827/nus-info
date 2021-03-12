@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010173600",
+	"eshop_id": "20010000010886",
+	"product_code": "WUP-N-PAXE",
+	"name": "Super Mario™ Advance",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2ffef91b9d972ebc656c860bb4924defc89d9c2d5f8c37e7d1d3a96085e5b5b4.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/499d05f1ed8d2de060906421b307038cb52ec2c0a61264dde0077b0cfaa4723f.jpg",
+	"data_size": "88703096",
+	"description": "Mario™ and his friends return in this 2-in-1 bundle filled with classic platforming, memorable graphics, and catchy music. Play Super Mario Bros.™ 2, where Mario, Luigi™, Princess Peach™, and Toad™ journey to a magical land to save it from an evil frog named Wart. Or play Mario Bros.™, and try to defeat as many enemies as possible. Both games are remakes of the original NES™ releases and offer hours of running, jumping, lifting, and POW action!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-11-06",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/8d13cf719675be7c3b7853bef6456ffa18aa10f0c60f27a750c667792f079a82.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/cf4b4f934ca98cc63eab4e8d0950997687b561592529b6feecf844031fca69a9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2a971bb6b62188b25c0855c714af141161747da0cb9b932d09307ed1aa323e36.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/20bbf433bc23dda883e4e5d331dcef26c35bb409fadbff43a1dfa24fdadf12f6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/909e4c53809240eb1544057a06343d542f06c935bdfbdc037b5deef146efdc97.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bb72554de218c7a515411aeff79b53ea79a1d9d87553355e3f616bbe1911e562.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f21651702b7e927f7f5e1f16f9c976a371a42533c7601347171cce98751d74f9.jpg",
+			"name": "Super Mario™ Advance Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a1debc51aed89644b857db2857d3c899c5aade7bd08443ff360fe1035eb2b260.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "51"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0d5d8fa5bb87e2bffabfc4623bdaf50140216ec29f9604411e1a4de58fda8077.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "51"
+				}
+			]
+		}
+	]
+}

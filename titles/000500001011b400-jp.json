@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001011B400",
+	"eshop_id": "20010000000383",
+	"product_code": "WUP-P-AECJ",
+	"name": "コール オブ デューティ ブラックオプスII",
+	"platform": 30,
+	"platform_device": "WUP",
+	"publisher": 246,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/329db6e47514f0bef1b2bb893eb39164684b449b6ab77dc2c042b452e81e3dca.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/80bcb56e2ca169b16a028f019f47d4764e5ff5f6e189fbe9f85975f0931b9b2a.jpg",
+	"data_size": null,
+	"description": "1980年代と2025年、2つの時代に暗躍するテロリスト、ラウル･メネンデスの計画を阻止するため、特殊任務に挑む「キャンペーン」、世界中のプレイヤーと対戦できる「マルチプレイヤー」、迫り来るゾンビを倒しながら生き残りをかけて戦う「ゾンビ」という3つのモードを搭載! ",
+	"availability": {
+		"eshop": false,
+		"retail": true,
+		"dates": {
+			"eshop": null,
+			"retail": "2012-12-20"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/8d617bd9e4da1bff8c6d2e8efda2327523f24e62b98052ea7c53127a5e7e6c5f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/70a3553fd8c1f15a1636f9b4b13abc55d4843e5826108ed70bdcb63bb3d57982.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/801f63572eb5c67c1955586f0958a8f50d6875eb71770dee1e51bfa3be40ad49.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/242c68da7e9a439623cbd73c9504116305d47a3d21474f12bd7cd8a0eb620d8a.jpg",
+			"name": "コール オブ デューティ ブラックオプスII 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cce68b62566f55a0a525955775b042ad0195ce47394aa3fdffbddcf894d914c7.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "95"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5e90043c388e342c3b8d10a08d44e1e098ac976f52f08745d8d5fc8b3e19bac2.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "95"
+				}
+			]
+		}
+	]
+}

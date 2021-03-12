@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001017F800",
+	"eshop_id": "20010000010949",
+	"product_code": "WUP-N-FDTP",
+	"name": "Shadow of the Ninja™",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 179,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6420246528b149f0ff9eee32abd1df7c51933d002d04e930b56a752c9420b78a.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5e52d77715839424e2cad541f5a8b01670362bc94a6bed1fbe45d442bf26add6.jpg",
+	"data_size": "38830240",
+	"description": "L'empereur démoniaque Garuda a fait main basse sur la ville. Seuls deux courageux guerriers osent le défier. Jouez en solo ou en coopération, terrassez l'armée de soldats malveillants, de vifs ninjas et de robots terrifiants de Garuda, en utilisant votre main tranchante, vos bombes et vos shurikens. Servez-vous de vos capacités pour vous accrocher aux plateformes mobiles et éviter les pièges mortels. Récupérez des améliorations qui vous aideront tout au long de votre parcours... si vous parvenez à les conserver. Il vous faudra rassembler tout votre talent pour parcourir les 13 niveaux intenses du jeu et punir Garuda ! Si vous possédez ce titre sur votre Wii, faites un transfert Wii™ vers votre Wii U™ afin d'obtenir la version améliorée à un prix spécial ! Ceci est la version américaine du jeu.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-12-04",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/c55aa2e9c02e0f5979f33cbdab6606ff6791c997149d40717ccc19aaf874a67a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1fb49cf7ad090ae8a0933fe785f7ec49471c32eb5ba974a066894f384da0183f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ee5704707ba3934be488f6890110160e095ab00971da772c57e6dea7b801a959.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ae529a02abb155900b2c99cff415aa0a91e0131da7a38f08d4c4166c82aa9c66.jpg",
+			"name": "Shadow of the Ninja™ : vidéo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/58b9008129c21a4a15f2b8c2716bbec1a1a994bf29bdd588a06c90805b9c1968.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "64"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a23df937e7287b553648e8e458fe87bd82e8529405d5d0cceeaaf4d549df47e5.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "64"
+				}
+			]
+		}
+	]
+}

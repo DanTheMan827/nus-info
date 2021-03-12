@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101A0B00",
+	"eshop_id": "20010000014947",
+	"product_code": "WUP-N-JDEJ",
+	"name": "美少女雀士スーチーパイ",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 1800,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5f9699766088bddbefc72298ba9caa73db0d1f30ffdc00906587beaf30883602.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d017ebc5bddc8f183aa867c6784611f58239738de5d26e5af1ffd871a65366d1.jpg",
+	"data_size": "44269728",
+	"description": "このソフトは、1993年に発売されたスーパーファミコン用のテーブルゲームです。 スーチーパイをはじめとする美少女雀士たちが2人打ち麻雀で勝負します。操作できるキャラクター（雀士）は全部で16名。好みのキャラクターで操作や対戦ができます。 ストーリーモードでは、特定の牌を自分のところに配らせる「積み」や、相手のロンを防ぐ「待った」などのアイテムを使うことができます。アイテムは「パネルマッチ」というミニゲームに挑戦して入手するハートと交換でもらえます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-03-29",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/bab60cdfd705d41c4ed5472e06da45e9a3a94c37c19e29c04a7a811f0c577e34.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6b9e2285f36c22f30de81024ffa5c12095fcf613e45ab3e35e5b1add3c8f6830.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/036ec61d2921557fe11f1421e01a33e8124895e7b038f0547b80ddf9bdf65818.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e6dc5ae4fd297acc0e0f0582a1704f73b1664b5040a1a88b9693b61877f82936.jpg",
+			"name": "美少女雀士スーチーパイ プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a5b3f8e39290b8a256785fad72371f1c5eae2808eaef1ce9eb6001fbcbb08eca.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "54"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/426cc2353ab535114e4014ce32b2e710cf3bf76b67f7506b3543f6cc731fbd93.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "54"
+				}
+			]
+		}
+	]
+}

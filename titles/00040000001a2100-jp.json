@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000001A2100",
+	"eshop_id": "50010000040913",
+	"product_code": "CTR-N-KKSJ",
+	"name": "クターの地下バーガー工場",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 1212,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e871cf7a988c5f6fdbc51839b9cfdc8e71c1710b62ec7f6ec4731827e16947f2.jpg",
+	"data_size": "10521444",
+	"description": "『クターの地下バーガー工場』では、製造ラインをクターたちが担当しています。 流れてきたモノにお肉がちゃんとのってたら、パンをのせて次に流しましょう。 流れてきたものにお肉が乗ってなかったら、ストップをかけて前のクターに戻しましょう。 ※本ソフトはゲーム内からほかの「クターシリーズソフト」へジャンプする機能を搭載しております。 ※本ソフトは「ニンテンドーeショップへのジャンプ」機能を搭載しております。 テクノアイランドにて、対象ソフトが未購入の場合、ニンテンドーeショップの対象ソフトのページへ直接ジャンプすることができます。 ※ここでいう「クターシリーズソフト」とは、下記のソフトを指します。 クターの地下バーガー工場、クターの魔球、クターのリフト、クターのチューブライダー、クターのＱ、クターの粉、クターのナワトビ、クターのコンサートスタッフ、クターの取り放題、クターのエンドロール",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-08-03",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1decba9e6ba8853de014139deb90f556033559f69206be4f4c683a2ef75b2773.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a887e4f779221b88f6d2d5ca76a2ecee3d3c2379ecf2fd828728021a7945b086.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3c564f2f15df7e34425b157961b31b41169b420f391f47fc1f7ec23abe5d4817.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f88e22e44a3e7febf9e152f96e074ab4c05f5bfc076a7a68750becfbe4846861.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/fd45522ef2fe01a5f1e2eed2d9b033abdb8d1a2c6ea66ab2734e9195367afcfc.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/fa9ada403db5023f102047a2cae9501ffa135da1451c7fe231da0b5ef52b3427.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c3790b859409f32945c80d0110c29b067d1cf7d2060f971a89bdb1d49db11316.jpg",
+			"name": "クターシリーズ 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/01b5bfb8ee83b5626ebe1028783abf59ece3d97448e4d60527fb35f01a229ea5.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "145"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e3b580929c14d1be70f4acc6a3747f4aa26782c6e4dba35ecea5a61af1fa3ebf.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "145"
+				}
+			]
+		}
+	]
+}

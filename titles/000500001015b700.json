@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001015B700",
+		"eshop_id": "20010000005025",
+		"product_code": "WUP-N-PNCJ",
+		"name": "高橋名人の新冒険島 ",
+		"platform": 166,
+		"platform_device": "WUP",
+		"publisher": 149,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7f79bfa8d1e3d9ec00a7890f7359a3f0925f6cb9352cf16ca95c4ab228109878.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/568eddebadf34ad794f20af290922cc4aa921d240e58c019f143eb02b68a824f.jpg",
+		"data_size": "81461368",
+		"description": "オノやブーメランを投げたり、時にはスケボーに乗ったり、高橋名人を操作して各エリアのゴールを目指す横スクロール型アクション。新冒険島はオリジナルの7つのステージで構成。各ステージの最後のエリアに待ち構える全てのボスを倒して、ポヤンスキー伯爵に連れ去られた子供たちと婚約者ティナを救出することが目的です。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-01-29",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/025ab5bee89935301d9998f6d8f18acedf64c748684dd82fda8feac71818ee95.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/853b1943e239e8b004a01ccb31c9bfcc34d26d922e1c9fea4158a65ab74f2540.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/b7a4f9a9199ce426ce42e74efec795cbfbe77a034fc6b30d514f1f3b3752b2d7.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/04afac8ccbfbf547a51b6d474d086b9f955f66b3898f1e6f5e22dffbb9bd3927.jpg",
+				"name": "高橋名人の新冒険島 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c774719d9eb24e43f23ab723b8c47d5391079935357ebfeeb59b4b389c06e117.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/69379c95097bb0527122ec5f3933f7cdf25df47338a4ed0266913811af4c78ef.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					}
+				]
+			}
+		]
+	}
+}

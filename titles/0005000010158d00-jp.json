@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010158D00",
+	"eshop_id": "20010000005004",
+	"product_code": "WUP-N-FCEJ",
+	"name": "SUPER魂斗羅 ",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1c3b91f1256e04bff61c223ae884a7bef1d94a3abc26a0763574e1307ec7cb85.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/aa241beb52d6749b7e96ffeddb2b9c87daad321543d0ff8f72bc645f56efae36.jpg",
+	"data_size": "36634764",
+	"description": "このソフトは、1990年に発売されたファミリーコンピュータ用のアクションシューティングゲームです。 「魂斗羅」と呼ばれるゲリラ戦のスペシャリストが、パワーアップアイテムで武器を強化しながら、襲いくるエイリアンを倒して進みます。横スクロール形式の「ノーマル画面」のエリアと、上から見下ろす形式の「TOP VIEW画面」のエリアがあり、それぞれ操作方法や使えるアクションが異なります。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-03-05",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/52f6cb15d12b71e3c976caa0585ae5eae05d8b68b8a02cf36ff6bb6c5dfe492e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4b6652dea5f5af47725b552689860b0bf5252a75c8c5748c98bbcb00dbfeb09a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/44f7bf5c24fab62d009d092853b2aa710a4dd525d47ca159b9109765880ba213.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9902354055e402ce0e24b4b839769aafbb838a64c760335b4f6bce1914d8a801.jpg",
+			"name": "SUPER魂斗羅 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/48a8cf2581006bf255efe9cfc3b90f274091b5f449457aa94e95488e6985243b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/41be9318c58c2e899cccbef2bec9df5b146c4589318f60fee67653ce07f15f24.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				}
+			]
+		}
+	]
+}

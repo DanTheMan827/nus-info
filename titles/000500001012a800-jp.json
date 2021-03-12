@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001012A800",
+	"eshop_id": "20010000001405",
+	"product_code": "WUP-N-JA2J",
+	"name": "ヘラクレスの栄光Ⅲ 神々の沈黙",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 202,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/277eeb6ed820406dee7042351f7f3e629374666b1d948b6ab093c3008f8f3d58.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/86f4b47eb887370df9ce03f4373a1ef2db032cf2ab5c36db0ce9e130635ec881.jpg",
+	"data_size": "41025676",
+	"description": "このソフトは、1992年に発売されたスーパーファミコン用のRPGです。 記憶を失くし、不死身の体を与えられた主人公が、記憶を取り戻すために自分探しの旅に出ます。高い崖から落ちたり、海に潜って移動したりと、不死身であることを活かした行動ができるところが本作の魅力のひとつです。旅の途中で加わる同じ境遇の仲間とともに、過去の自分を見つけ出してください。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-05-22",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/55a344c4c0e101be5202325125c6c0fa525869bdf9e7aa822710fe825a711895.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/74e19ba4a8523cf48be3d7758708431e2677bccc6910d036e9303ce1875ebceb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2645b3e78dd5c7869bf7b38771fb8a506abd4b518f982b7d7c6f4eef0307bb0c.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8e3197a70e9e0d15d827dc43b7c33bc92790245549578339cd06ae6cefe5bc61.jpg",
+			"name": "ヘラクレスの栄光Ⅲ 神々の沈黙 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8e6b03539cf052d059c24c45b56526d4acdfcebfb03e6b00b50f14e28f880dc2.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/068a110743de3dcbd015f04992b704c51bfd4bc377cedc807f34fd55903f558a.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				}
+			]
+		}
+	]
+}

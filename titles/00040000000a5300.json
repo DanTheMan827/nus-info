@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "00040000000A5300",
+		"eshop_id": "50010000021053",
+		"product_code": "CTR-N-AJ3J",
+		"name": "マリオゴルフ ワールドツアー",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/fd14e37383fdadb7cd4fdb1b265af30f1145958ad9309a375411726112b55565.jpg",
+		"data_size": "548850532",
+		"description": "マリオゴルフシリーズの最新作がニンテンドー3DSに登場。フォーマルで本格的なコースから、ジャングルや水中など、マリオならではの仕掛けがいっぱいのコースまでバラエティ豊かなコースがたくさん。従来のボタン操作はもちろん、下画面に表示されるゴルフボールをタッチして飛ばす直感的な操作も可能になりました。 自分のMiiを使って現実さながらのクラブライフを満喫できる新モード、「プリンセスクラブ」では、ゴルフクラブやコスチュームをカスタマイズすることで、飛距離やコントロールなどの細かな設定ができたり、自分に合ったプレイスタイルを追求することもできます。 また、本作は最大4人で近くの人や世界中のプレイヤーと対戦することはもちろん、任天堂公式の大会に参加してスコアを競いあうこともでき、ゴルフを軸としたさまざまな遊びを、近くの人とも世界中の人ともみんなで楽しめます。",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-05-01",
+				"retail": "2014-05-01"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/03fe405ea697feffa269791d64e02f0266728d43ebe7a5f4869bd50c66015201.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/82458367872dbd40f38126b1660eec48b40e40eebea830638a77678047ec40c0.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/53edb231866b719d4e53ccca04b6d3eac74bf8773f51709976724e49d74bdcaf.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8a8808804b9f655236ef134eaf1f3a7bfc13151723236e62fb169b19c49d7407.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/cc0ceec259c9bf67fa660ff1ed62303648acd8cbc19cdcbbf100aa58a99d56f5.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7a6bd74b1150051a081ef3c4a532bf799af168a3e6937f97315dd48e82a0c7d8.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/aa6643169148cb3baf3910ae46642bf19ce1de8ea55116e085848a6ebae834fb.jpg",
+				"name": "マリオゴルフ ワールドツアー 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ac758d2417980f6df343730ad9a02938371af326e9ba1095b99fdec9a6367069.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "277"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3691c024a6659af5de4dae6e8e03a34c81e288a9b1974009869af1095c48309c.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "277"
+					}
+				]
+			}
+		]
+	}
+}

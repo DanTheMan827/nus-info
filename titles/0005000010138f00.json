@@ -1,0 +1,78 @@
+{
+	"JP": {
+		"title_id": "0005000010138F00",
+		"eshop_id": "20010000013827",
+		"product_code": "WUP-N-ADNJ",
+		"name": "Devil's Third",
+		"platform": 125,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/69371a0c416f1a48343acfce221217cffbfd4bc684ca7feaa2d42b3468bc0014.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/1436f951e45952e928635fefec71f1803024b23b4c3d68826e74426a03137987.jpg",
+		"data_size": "14653621604",
+		"description": "戦場で敵を相手に銃と近接武器を駆使しながら、息詰まる戦いが展開されるシューティングアクションゲームです。 かつての仲間であるテロリストが衛星の連鎖爆発を起こし、発生した電磁パルスによって世界中のコンピューターや電子兵器は使用不能となることで、戦争は有視界での至近距離の戦闘が主力となる世界となります。テロリストと化したかつての仲間の占拠する宇宙基地の奪還を目指し、主人公アイヴァンが立ち向かう重厚なストーリーが楽しめます。",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-08-04",
+				"retail": "2015-08-04"
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/28f69d9c08bcc9181f311a3cb03e3bca56043fd33042deedaba67291bcf55bbb.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/9ce900d231962db32559566b15b968b61b6c5f79005a911a073b8d5c3aff7d9b.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/a70135bc8accfe7f9a97861c2720e85bc7de9d19acfbfcbbaf1a00de264d4d3d.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/dcb1dc86fd7be97b26fedfcd30ffcfb3c3ba88e91b360400620232376608a08c.jpg",
+				"name": "Devil's Third 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/230e701e598611d654b20daec0e70b3022f955a9b680fed235d1fc9e227422b0.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "336"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e1639e6a4d9989ea3a5f5a28d4811e37ebcd88c61428e5495bafd5d9d9b9fb23.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "336"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/476049f17a34218a56c27c7e2702b596e99e1240f5605e426c4cc34e9f04fd38.jpg",
+				"name": "クリエーター板垣伴信が語る Devil's Third",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f33d2e19a1c06681d7f8aa56f26e27c6e0ea921ffd1beb2ce13b5f7b638d1275.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "646"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/35a17ad46fabb340375cffb6d97ba50202cad1a6cc7bede0bcf5558fa02bb113.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "646"
+					}
+				]
+			}
+		]
+	}
+}

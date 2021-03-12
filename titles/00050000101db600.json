@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101DB600",
+		"eshop_id": "20010000020167",
+		"product_code": "WUP-N-AAHJ",
+		"name": "Tiny Thief タイニーシーフ",
+		"platform": 124,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/85255f7bfffb97c770afe1b59e41f97728139b1bf3ffdb6c8bba2751df574cfc.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/bee92bdc6a2fa3c3fb20358970565d37351e543df4ffb150bde15c3440afb2b7.jpg",
+		"data_size": "160989324",
+		"description": "ステージに配置されたアイテムや仕掛けを駆使し、思いもよらない方法でお宝を盗み出す、パズル感覚のアクションゲーム。 行きたい場所や気になるものを、タッチペンやWiiリモコンで示すだけの簡単操作で、主人公の小さい泥棒にさまざまなアクションをさせることができます。 Wiiリモコンを使って最大5人まで一緒にプレイすることもできるので、謎が分かったら、仲間と教えあってお宝コンプリートを目指すようなプレイも可能です。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-11-13",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/b91e09812fb5462d80a240e1ee5d3396d186c8d345692421fae9764df45101a0.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/509ca487fd8bb24500bb6613422ca0aa8e1db8f2d1c9f537ea5b0b7b63a44cc3.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/83deba5d607c4a311a464ce75677cdbbe10cba12f611f822fbc7d4066f9bb1ee.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/dd3b9883e3e1cd8365a0971f6bcb41cf0d38539903488ed6c05567187c546238.jpg",
+				"name": "Tiny Thief 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/741c21c4fdbe521873328455cb8dca2828df41d251c2a1f81abeccd4783721bf.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "136"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/47bb2ee786f5074a45a6b2f35b26f33076129ef97ba247a173a5c015ea131f55.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "136"
+					}
+				]
+			}
+		]
+	}
+}

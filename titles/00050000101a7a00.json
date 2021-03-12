@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101A7A00",
+		"eshop_id": "20010000014549",
+		"product_code": "WUP-N-FEYJ",
+		"name": "FRONT LINE フロントライン",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 246,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/da74106e8f9e2662a65804ce3378a8d05950f244a0e517b69290c95302b41a99.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/016c8f3a64ab28b07cb362d6173542be7c7655f16a5c0d9cb05059259336c91e.jpg",
+		"data_size": "38830240",
+		"description": "このソフトは、1985年に発売されたファミリーコンピュータ用のアクションゲームです。 ゲームの舞台は戦場、敵は無限、味方はゼロ。絶望的な状況の中、主人公は敵陣に攻め込みます。 ピストルと手榴弾を使い分けながら、敵や敵の攻撃に当たらないよう進みます。ステージの最後にある敵陣の大砲を破壊すればステージクリアです。 林や壁などの障害物はピストルや主砲、マシンガンの弾を通しません。障害物に隠れて敵の弾を避けましょう。青色の戦車や装甲車は乗り込んで操縦することができます。敵の戦車と装甲車はピストルで攻撃しても倒せません。手榴弾のほか、戦車の主砲や装甲車のマシンガンで破壊してください。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-06-29",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/869f33eb41d0f3c4310d4a7e0d30df3891c9bde858fe6f69d79c6442f5c8eead.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/f232c8c588701619ea9709d6662dbc889568b267a7b6ec4427d1a2f3125b03b6.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/7e0677d333b96246ec860d6407178121aaf3526fde1bb257a2e56f7a5336f8b7.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/55b71c44fb9fbd9be0bdea2217e2f75629ac9d1d1bd37d2fd060723bea901931.jpg",
+				"name": "FRONT LINE フロントライン プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0a7629ecf74427ba905580eeb1537aea943761cd57df90768a4170f8195be1cf.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "65"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d7c6fa043214fe9856b863de78e9c3233aa78c9e2fc3ce77f2484ffb3b535468.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "65"
+					}
+				]
+			}
+		]
+	}
+}

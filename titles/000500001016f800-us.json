@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001016F800",
+	"eshop_id": "20010000009826",
+	"product_code": "WUP-N-PAVE",
+	"name": "Mario Golf™: Advance Tour",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9bded6078bc7e2797d65a70c28dc1326e00d1e2e2b079461bc6591323e4c2a64.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/2cb42c589b5c858fe2406e2c0e2e97821a72ca7038934f517eab8ec7fc955a36.jpg",
+	"data_size": "99844216",
+	"description": "Grab your clubs, and start down the road to golfing perfection in this role-playing adventure! Take control of a custom character, and gain experience to improve in all aspects of golf. Chat up the locals at the golf clinics, play singles and doubles against other competitors, and try your best to become the champ of all the country clubs! Master the many challenges that surround you, and you might just earn a chance to face-off against the greats of the Mushroom Kingdom!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-09-25",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/d1d5acd06782fd9a5e7670bdd05918ae7064f49065c20df39ea021f64b5d89d6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/27d55a9fa4c326099c68a016a3108a0d8906ac11711d502a61384a5bac4e7fc9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/29824b3c2c3a8f0aa2318176223dbe1cbe38966684df56f91b0f1100c8026d3c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9eca59083f5019c4b318610837cc09e2febea7d098b05f17be167c02b79b3e92.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2017a785bfd969a97bbcc6a26638e1d797735749b88a5b3e0803e9442a2faf96.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3c6f56ba80e03caaaf1c1f798720b126ed55e9a5852369378501dd22244d9d72.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a81a83e8528eb56253c5d0c1a42e2b93b16a7067920621991e671fbbf8f9d798.jpg",
+			"name": "Mario Golf™: Advance Tour Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4717779346963951fab249745366fc57983bba1aaf6c47dfdacec10614314964.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "51"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cc535512c10f7a81d77739848413ba7875f3c68d2f4ccd3e748e0a2a534cef0b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "51"
+				}
+			]
+		}
+	]
+}

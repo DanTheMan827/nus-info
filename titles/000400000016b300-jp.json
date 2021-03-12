@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000016B300",
+	"eshop_id": "50010000036616",
+	"product_code": "CTR-N-KMCJ",
+	"name": "ジャンプ勇者",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 367,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8e3a9d96626cae4e8d2d10452655e9d8c2b8b7fe5d111485af38b58677d45346.jpg",
+	"data_size": "118291300",
+	"description": "魔王討伐を目指す勇者となってトラップ満載の魔王城を冒険していく、ハラハラドキドキのアクションゲーム! ステージに仕掛けられたトラップを全力疾走しながらジャンプで突破! ステージの最後にあるゴールフラッグを目指して進み、城の最新部にいる魔王を討ち倒せ! 【飛空石システム】 ステージ開始時に支給される飛空石を使うと、空中ジャンプができる。 限られた個数の飛空石をどこで使うかが攻略のカギを握る! 【勇者と5人の仲間】 最大3人の仲間でステージに挑戦! 状況に合わせて仲間の能力を切り替えて進め! ★勇者:アルク 近くにいるモンスターを剣で切り裂く ★ガード:ヴェイグ 火竜砲の炎弾を盾で防ぐ ★魔女:セシル ふんわりと落下できる ★忍者:蓮花 空中ジャンプ後にもう一度ジャンプできる ★プリンセス:エリー 前方に瞬間転移できる ★スケルトン:??? 大きくふんわりとしたジャンプができる 【勇者を待ち受ける魔王城のステージ】 仲間と協力して30以上のステージを駆け抜けろ! 壁の跳ね返りを駆使して、どこかにあるゴールを探す迷宮ステージも存在! 【魔王コイン】 ステージ内に隠された魔王コインを見つけ、高いランクでステージをクリアすると隠しステージが出現!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-09-09",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/941ebb60a2c4708d3ad6609e7308105ed5889d8b5e196a4b841341c9c01c2510.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/36473f0043853bd3b67a1a5dbed8099f57cebee8d226bb4528660e49c77d08d4.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/afb5356bccd9cccee9f41376f26e3c274255924e8db70ed409673fa1da44bc02.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6c2f945c750960810b7e3133425fc3da267cc5eaa833b75d06e8654c65b8eda6.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bfa013ede34f6a3f059c62a9026a0095ec4f5dabe46175009d28a9477f6f311d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/bf6071aedbfe8d04dcbc24de075b0b37e88cc7ee22c888bd38a5c426a6cb1fbc.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7faa874c88dfefe0d11e2167c08bdd02372f32bf138d6bc575de8d76c24f17f8.jpg",
+			"name": "ジャンプ勇者 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8c386728a4e6b02573ea9e30bc00f0a1ecbb040178de90a56066ddb75b85d1c6.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "132"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ab20d5d6d79996923567d56935a352e681a973f834fe675a8fab081ae265badb.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "132"
+				}
+			]
+		}
+	]
+}

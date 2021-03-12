@@ -1,0 +1,76 @@
+{
+	"title_id": "000500001016A600",
+	"eshop_id": "20010000005026",
+	"product_code": "WUP-N-WB6J",
+	"name": "わいわい!みんなでチャレンジ",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1292,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1bdce385dbffa9519fbe88560a4cf7d692de5ea8160baf85e7f4a8e75532f567.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/00c52c2d1dd422df1a64d9c8ccc134dd14bacc6e9275de05cb5a2b9bbdf47390.jpg",
+	"data_size": "85164152",
+	"description": "家族や友達みんなで楽しめるパーティーゲーム! 相手と息を合わせないと成功できない! お互いにコミュニケーションをとり、GamePadのカメラで蝶の写真を撮ったり、共同でポンプを押して手押し車を動かしたり、のこぎりで木を切ったり、ドリルを回転したり。思わず笑いのこぼれるゲームが満載! TVがなくても遊べる! パートナーとの協力が必須! GamePadで説明を読み、2人で挑戦。Wiiリモコンを使い、相手との協調、協力が必要。ちょっと意地悪なミッションもあり、さらに盛り上がること間違いなし。 思わず笑いのこぼれる楽しいゲームがいっぱい! GamePadのカメラで帽子をかぶる、サウンドだけでテニス、ドラムのビートでジャンプ、Wiiリモコンを並べ、クイズ番組のように誰よりも早くボタンを先に押すなど、バラエティに富んだゲームが全23種類。プレイ中の様子も自動撮影、ギャラリー（100枚保存）で楽しめる!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-02-12",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/9e27c7b7ad5a97745a02834f35b39ae0b541928b8770537f0030755561af7bb1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d32b55f004b0c3c50028d16f745dc06006ec08f243971abe405a672a5e0101d4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/34c8683566e99067e5745c7f266f66149107a59ff5212f609556367dadf0ffc8.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3aa7fdb3b43f3caf7aacf7ab91fcdd9d656a58578bed5dc5fa5dce0663ea9118.jpg",
+			"name": "わいわい!みんなでチャレンジ 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/317b6a0698582ae3af9858f5f0a48c8230466cefa48438686f1cca4f30830cba.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "106"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c3de7c76e325ad1e587b71df6b838ee4387f7082368f84c1a713ed0db64d880a.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "106"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3e2fe6026e10fefb6107dd34534dc8420cc24a0356b1728d1cfaba7ea78de37e.jpg",
+			"name": "わいわい!みんなでチャレンジ 紹介映像2",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/998efc63204ddd73f144158704900ec50f0782a2cbd56a30c78fe01cd1084c22.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "83"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/aa9930f24272913cdbf50ce0a26697a8ec4b23e7d67ea7faf9ee8453d122be5c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "83"
+				}
+			]
+		}
+	]
+}

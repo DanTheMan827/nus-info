@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101A5E00",
+	"eshop_id": "20010000013329",
+	"product_code": "WUP-P-ALLP",
+	"name": "OlliOlli",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1286,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f2dce891f8116801c86994d1da307f4105f9e5763a571bdda965ce526ab84304.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6976157c3582cf5dd093f786a897176f15d1fe20026cd6776bf93d8a1676567a.jpg",
+	"data_size": "470778016",
+	"description": "OlliOlli combina un’appassionante modalità di gioco a vita singola con oltre 120 trick e grind su 50 livelli tortuosi, 250 sfide, modalità a zone e il grind del giorno. Non ti basta? Completa tutte le sfide per sbloccare la modalità PERFEZIONE dedicata ai super esperti! Colleziona le combo più grandi e incredibili e scegli il momento giusto per un atterraggio perfetto per dominare le classifiche. Evita solo di andare a sbattere la faccia (ti potrà capitare). Competi a livello mondiale in tutte le modalità per realizzare i record in ogni livello e in ogni zona. Il grind del giorno ti offre 24 ore per sfidare il mondo in zone selezionate casualmente. Puoi esercitarti quante volte vuoi, ma avrai una sola possibilità di registrare il tuo punteggio. Evita solo di andare a sbattere la faccia...",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-03-05",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/8fce1e279c4dd3b474322f7a9564fbdbdda8f13d7b9f2f439ab7451e1f9d5274.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ea50f7c5cfb83b18943ade8d50a2e576caa4285d9e486b8632ff57e235a77eae.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c35dfee447662645178dde15c66632269e4d4774dfd3ed0d6ac33af16bbdbfe0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/993709ce5d13bb8fdb96b7818b0f27b8c3f702cccdcbf4d7c47d81ad33b632ee.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/556fbcdd6f6cb8f48fac34497507ba86c1e776b6c79c0c98b88c427baf2df0b0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/561696eea44734cf27fc4a9ca8867ae3aaffd0bc3afc67f4f5111c1cb8ea39a3.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6aab7c5fe81e44a9bd5413c386f64d45a8739ca6188c64ab87e1f2ca088fd7e8.jpg",
+			"name": "Trailer: OlliOlli",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b41355f95b60a478c5f3535da270b6e35475d622ed7db89e3993839919beca66.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "73"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d2a1353ebf79447cd8a2b474db2e4546344407e9ae9a81c0faf83043f286192b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "73"
+				}
+			]
+		}
+	]
+}

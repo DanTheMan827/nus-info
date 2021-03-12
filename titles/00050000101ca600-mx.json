@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101CA600",
+	"eshop_id": "20010000018267",
+	"product_code": "WUP-N-APNE",
+	"name": "Year Walk",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1558,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/afcff36263cc0cbc289fb39dbe371ccb69bfa75624c7b27767b1e09c29f63d18.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8f942805959e292cdfc7696d438cdc26aa3b03e89a7e32b35049351a94fc76fa.jpg",
+	"data_size": "415957152",
+	"description": "Cruentos relatos, criaturas horripilantes y crípticos enigmas acechan en los lúgubres bosques de la Suecia decimonónica. Sumérgete en un arcano ritual que hará desangrarse la pantalla de tu televisor a través del Wii U™ GamePad. Emprende una aventura para ver el futuro y usa la pantalla que tienes entre manos para estudiar una misteriosa enciclopedia de folklore, descifrar pistas y tomar apuntes. Resuelve rompecabezas táctiles mediante los controles de movimiento y escucha pistas valiosas a través del GamePad. Desentraña los misterios que yacen entre la realidad y la ficción, entre el pasado y el presente, en Year Walk.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-09-17",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/57adcced97f0905936e2d58f8be1da7a3eabac73e1be40de2f1e2cdb446d5d18.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/30f41170d559b9da9daa702727c4ede08f1cc14d88478686b5b2ecc775f86d4c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/68606474401ac98008f5d527cab60cf74cc1ff2375fb1fd62f9229c3f2a04614.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bb98ca143bdc7c0d23e426e23595b0fb3b81d83428761d531d86aed1fe1d0c96.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e306ce82d051388d19bd7149dc453f6685fa987c6c1f43ffca35e251a0f0780d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1cfbb7527dfe16ec3a3802981731a828c4eb30494a75f48b0da11632f44c2e95.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/51a0de4a5c898d2f1c95233d7427ffad5710450a695c585de47992397209e632.jpg",
+			"name": "Year Walk Reveal Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/80e5dbcc6f3452cb54630e4bf32d64c28642be8d2b6e0baf63e859db40e82c70.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "76"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/aa3bc7d06a98a1b40047b06d1d0d889e637a706a25789b28fd7f0d8e899a5720.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "76"
+				}
+			]
+		}
+	]
+}

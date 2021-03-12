@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101A3800",
+	"eshop_id": "20010000011867",
+	"product_code": "WUP-P-BC9P",
+	"name": "Spy Chameleon",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 76,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ddf803678a9070e25dcd32005807e72821095c268e44173320c765932de7fdcf.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e11496e4a410f153ba07d515b8ebeb39b3649ae227efd1c72584ba7eb46c79ca.jpg",
+	"data_size": "366575776",
+	"description": "Que no te engañe el aspecto cómico. Ser un buen agente RGB requiere de mucho talento. Spy Chameleon es un juego arcade-puzzle donde el jugador debe evitar ser visto gracias a la habilidad de cambio de color y camuflaje del camaleón. A través de 5 misiones y 75 niveles el jugador descubrirá diferentes enemigos y habilidades para poder completar estas misiones super-secretas: tomar fotos de una celebridad con su amante y robar la fórmula secreta de un exitoso refresco son solo dos ejemplos. Observa a tus enemigos, elige el mejor camino y corre hasta el siguiente punto seguro. La duración de cada nivel hace que puedas echar una partida de unos minutos o de unas horas intentando acabar las misiones con todos los desafíos, consiguiendo el mejor tiempo entre tus amigos u obteniendo todos los logros. Características del juego: - cambia de color para camuflarte con el entorno - 75 niveles donde la dificultad aumenta a medida que aprendes nuevas mecánicas - 3 desafíos en cada nivel: recoger coleccionables y batir un tiempo - jugabilidad que mezcla reflejos, sincronización y estrategia (a 60 FPS en 1080p) - compara tus mejores tiempos con los de tus amigos o de todo el mundo",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-12-25",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/500911eabe591f9ae43b0617d48a0b0c43a04debff7a877eae4f0d46059d584c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6152eb810901b383e4a095190b0ede4c68b9290309a054e3e349adf141f534dd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4944226f6e76f8fd70b72b6ba01640e501ed82442d3fb0eb296f8b43e2378a60.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a29a93db45ec29813c2624d7506f73e654b748ee8bf4e7caf23fb18a420a81a7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0e8a0dcbdad0823d25bbd0ac0f8409ca1a85e6e3c33f9637021329d12aa9505c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b167e19f425b2c89352aa2cefe90ce571ec309ce42cfd872cf2f0673ee771a90.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5b155732bca3c838ce032c52e2cdcc27479538a7f990cc9e614a96256001abac.jpg",
+			"name": "Spy Chameleon Tráiler",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6b197ee84565d2564c59f7c4ce148f590450441dc2274913dfaae951784cfe95.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "76"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/efbca69240e36abd8e9e3da5bc4caf20a694a8f81571c890b4b057dd894f25a8.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "76"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000001A5A00",
+	"eshop_id": "50010000041960",
+	"product_code": "CTR-N-KR8J",
+	"name": "レグナタクティカ",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 146,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3520db64570299519e99f2b192c71e7ffb57ddd31daefb212e33894519fe8d77.jpg",
+	"data_size": "99855204",
+	"description": "孤児院で育った少年、レックは、幼馴染のミアナ、アスターと共に王国の兵士訓練生として訓練を受ける見習い兵士。 しかし、ひょんなことから、レグナー王国の英雄「ヴァリウス将軍」率いる蒼の鷹軍として戦うことになる。 そしてそれは、フェイズム大陸の光龍伝説にまつわる、壮大な戦の序章となるのであった……。 『レグナタクティカ』は本格シミュレーションRPGです。 マップ上のステージを選択し、パーティーやスキルを編成して戦闘する分かりやすいシステムで、多彩なエンディング分岐や称号のコンプリートといったやり込み要素も豊富なので、シミュレーションRPGが初めての方から、慣れ親しんだ方まで、すべてのプレイヤーにお楽しみいただけます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-12-21",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3d9d2fe41cb58be670706caf23234d28c93437f3f460bd60698b8f4fce58b506.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/21f2485defcca7329c3e8efd88cdedacf58d4449250601571accced417bf83a9.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/65757606aea95b7dcb7bc217f72bb7ba460ffaed8ff647d02f91056c110c2b01.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ef322a8a4df07994e17f11511881f871946817e3fc953f1462dc228185a3228b.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/744a287773e20fa4b1a21afdf9e08f245a92b1585650d5074b32c00846891196.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/79c657c1eae8e0f0ce8b4e3bc877b54a0a70d43f7e817e681954996fae9ecf27.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d4e0d646abb4aa15228a989c292f5ef569f4159e8a9482e54262dc19c6190e87.jpg",
+			"name": "レグナタクティカ 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1937737c760f31ec0a931867c3467ac2f28824b8e4d2fbe07ea47e6f86b1241a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "110"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f58c2ff31cafd3208ff5e0e1fdfc970c765febf0a8b7eab7efc4129b05abbd0e.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "110"
+				}
+			]
+		}
+	]
+}

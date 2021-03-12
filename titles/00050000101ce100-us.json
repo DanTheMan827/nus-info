@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101CE100",
+	"eshop_id": "20010000016907",
+	"product_code": "WUP-N-ACHE",
+	"name": "Canvaleon",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1559,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6c5a42f59915e7d10089c8cc8bcc50db9a4cd72a62efb7c6d0716c01b79db386.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/466f6ecb42849f62f3c2b5d02fd69893f1b96d8d77a77fb7dfeea56202c31912.jpg",
+	"data_size": "413040800",
+	"description": "Canvaleon is a platform and stealth game in which you will step into the shoes of Canvas, a friendly white chameleon, and help him using your abilities and the environment in order to overcome some really dangerous enemies and threats. To do so, you will have to use camouflages to blend Canvas with the environment. If your camouflages are similar to the background colors your possibilities to overcome the enemies will increase. There are two ways to obtain those camouflages: you can buy them at Doodle's shop, or you can paint them using the painting tool. You will have to collect lots of butterflies from every stage to paint or buy those camouflages! Help Canvas get rid of the enemy threat and successfully overcome more than 30 stages from this great adventure full of dangers and emotions that will make you thrill for sure! Fun is guaranteed!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-07-23",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/649adc0cdb33e966a1b3d745419112e314b2a972db9ae11e5501ccbadc8ddfec.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5b8a2b1832e70bd31741b1e2aa9c05d7757f74e464bcd0a51a280caca7d2cbab.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c0ac74837c7e4400e4b73ac08955a5448ddbc117458dcee2d746da7216f6bb07.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ebbcd0449839dccf780fdbd32c8a4cd815c2eb87fd449b7a1bab3839c65c501a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/96f49ede2622dedb7fcb7a049b1575b7635f898629e217ed7e1e8f74ecdda032.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9f1a139eb2b30c09dcd01794b2e259d5746eb61f47c24f694f58688ec64127a3.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8c4b85b134d6ddb15f9b72d437511244129fd41795897dc50f48961bdf90b4f0.jpg",
+			"name": "Canvaleon Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7bf3288da67aeeef0faecb2519967e4309508fd8e8b6d6ee0a508e4743e116d2.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "96"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/eddfc78d34c47df80c92985881e4320bcae7f84d355a0955826d4575c6f7d406.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "96"
+				}
+			]
+		}
+	]
+}

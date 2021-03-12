@@ -1,0 +1,85 @@
+{
+	"title_id": "0004000000152A00",
+	"eshop_id": "50010000027062",
+	"product_code": "CTR-N-BCNJ",
+	"name": "すみっコぐらし ここがおちつくんです",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 367,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6dc401446878361135212cdb6e23172a17cdb3e88d2c7abd22ff172700827918.jpg",
+	"data_size": "205536148",
+	"description": "「すみっこにいるとなぜかおちつく……」そんな気持ちをテーマにしたキャラクター『すみっコぐらし』がついにゲームになりました! いつもすみっこでひっそりと暮らしている、個性豊かな\"すみっコ\"たちのお世話をしたり、ミニゲームをしてアイテムを集めたり……ゆったりほんわかコミュニケーションを楽しんでみませんか? ★お部屋ですみっコたちをひとり占め! お部屋の中でスキンシップをしたり、ごはんをあげたりして、すみっコたちを元気にしてあげよう! 健気にごはんを食べたり、すみっこを求めて走る姿は見ているだけでも癒されちゃう! ★すごろく&ミニゲームでアイテムを集めよう! すみっコが元気になったら、おでかけしてアイテムを集めよう! お外はすごろくマップになっていて、ミニゲームで遊んだり、新しいすみっコに出会うこともできます。 ★通信機能も充実! お友達とも楽しくコミュニケーション! ローカル通信で、最大5人のお友達とすごろく&ミニゲームで対戦したり、スタンプを使ったメッセージ交換が楽しめます。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2014-12-04",
+			"retail": "2014-11-20"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/96289388dd29ee1a9fb5b198a8f99d0eecd2eeca5a214089ebf7bdbb92dc19c8.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c8aad17ad96aff129d6410e566dfb90ff701cbdf16a1682e65c305f2a84fec56.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a3b847c1f38574f55dd4eac81e170521b5db9379ecf95fe910a6aff7fc20e881.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0eece36a2185aff8b84756a28d141967c0174b64eb51e4c87c1d974865a98791.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6c709b62c80cabd26806656231f4b232461800b0677511170e761a016ef4cc8f.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/bda43e3d12ab01fd6051fe8875efa15e7ff07cc3dcb966589e256b4e128a2786.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/24c48334f7665c8ba78a6bb824b6ecb0c075d4e68de580a9769e762a6463c461.jpg",
+			"name": "すみっコぐらし ここがおちつくんです 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/085b34891b5718431acafba296eebf90196444d01b3c1de2d00adcc7d476794d.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "175"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2892d9271d59f512d7b2a28ce0da403322e734afeaa1c3c89fe90be47c36d66e.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "175"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7219b395b29ef332c40e859963607a92af7cde44560057b9cf9d25ca1f39ac16.jpg",
+			"name": "すみっコぐらし ここがおちつくんです TVCM",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/acf92c0d94e35bbd4db32fbba85e3bf89476144c07340ed01476edbf5bab01e1.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1697bbefe21a661bfc25b475b56ef7d5ccd025c656f0e446ad58a146dc1dc181.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				}
+			]
+		}
+	]
+}

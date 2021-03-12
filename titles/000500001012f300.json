@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001012F300",
+		"eshop_id": "20010000002065",
+		"product_code": "WUP-N-FA8J",
+		"name": "メトロイド",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2c2027e806a992964fd27cd36b3e95e1911dde87ff596c0a687d689ee147ae2a.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8baa9b1e95b076ddfa1ceb27c6e8573573a5e1d5091d5054aa741aaf3821ca97.jpg",
+		"data_size": "36569228",
+		"description": "このソフトは、1986年に発売されたファミリーコンピュータ･ディスクシステム用のアクションゲームです。 他の生物に取りつき、エネルギーを吸いつくしてしまう恐ろしい生命体「メトロイド」。宇宙海賊に奪われたメトロイドを取り戻すため、宇宙戦士サムス・アランは宇宙海賊の本拠地「要塞惑星ゼーベス」へ向かいます。ゼーベスの各部屋に隠されたパワーアップアイテムを手に入れて武器やパワードスーツの能力を強化し、要塞の中心に存在するマザーブレインを倒すことが目的です。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-08-14",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/eb8f761303e7aeea6305d61e1eae154d7c55357aaf5be7f751be7dfaf767932e.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/8e568d32f6be915fcd577feedae914bef33dbd2eacd5fb5f27a0638f71319a08.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/e8a4299a3006c48746e67d6622f3a11fc2700a3e0ada9bcc770c39d03009fe17.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6c8b3a393dbe053b6721cda7af73e5805ab12fa760a201b54a24dd7f392a5e30.jpg",
+				"name": "メトロイド プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/663bc57ec72f58b53817a7dd37021bf04268ad2c739b35b76d247d70d5689ae6.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "43"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f92a5bff72be84da3c16b1ee930e6cf3be1b0eb2f01a992325b2c9e95310b34d.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "43"
+					}
+				]
+			}
+		]
+	}
+}

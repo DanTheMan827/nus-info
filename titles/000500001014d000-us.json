@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001014D000",
+	"eshop_id": "20010000005605",
+	"product_code": "WUP-N-WMFE",
+	"name": "My Farm",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 34,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e30534cb669fbd3bfe9410118f922d1aefa9ad892728b95b0dc66e232c1707e0.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/2e895fa0fd1f0eae0e50c070ee580bafc6c5460417486bc0f5f57f9929e55375.jpg",
+	"data_size": "261226636",
+	"description": "At the beginning, all you own is an empty field, a few pennies and a single little hen... You need to feed the hen and take care of it! Then your hen will lay eggs which can then be sold. And with this money, you can buy new animals at the Farmers’ Market and purchase equipment from the Shopkeeper... 10 kinds of animals to customize! Take care of your animals: food, clean, disease, etc. Many farm improvements to buy and bonuses to collect!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-02-27",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/5d4ae0f6e75c469c9b264cd5819cd4b20b775df4829e59db622727181acf8f28.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7a9f4757044ba109588303c340d33fd1da65eb4307c444adbf03a3e0a6488d94.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2868ab3d79ddbf690c715561996dfaad13f3075fc5a316a118b78466a4bcb47e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5bc0a7269615244fb00403cb2437aabfc3ef69a934733c935acc7acefac9c159.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8104232ccd9d0bfe42a998050ff58f358abea2902352ba7e4c13e81219688efd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/362b0784a0bd321edc47a4cdd114b9a1a26637e5bb7c5f7c863e734499a6c299.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/80579c91fedf1b2a7cb7124d3efbdb98ef1106c9d4964733a433925fe12f74c8.jpg",
+			"name": "My Farm Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5b170874df50a2fb6f7ea4443915e8e7cc87dd459bb314ce81e0fe9a442c57a8.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "69"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c096aa38e6f967dee624dee160cd0a249c24e666e9391bf9570389518172c6df.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "69"
+				}
+			]
+		}
+	]
+}

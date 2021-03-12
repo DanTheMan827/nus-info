@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010153300",
+		"eshop_id": "20010000004124",
+		"product_code": "WUP-N-FB6J",
+		"name": "熱血硬派くにおくん ",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 19,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/eea147a4072af378de9a4bb74d4bc504fc5d2addac5508d8da92953e6cb4f2a7.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d711d591e1a32070acad51581be15edc117bd7ffd312cf2a7e89caad4a12bafa.jpg",
+		"data_size": "36536460",
+		"description": "このソフトは、1987年に発売されたファミリーコンピュータ用のアクションゲームです。 誘拐された親友のヒロシを救うため、生まれながらの熱血漢、くにおくんが戦います。パンチやキック、背負い投げで群がる敵を倒し、各ステージのボスに勝つと次のステージに進めます。バイクシーンでは、くにおくんがバイクで走りながら敵と戦います。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-01-15",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/face9b92516d5b495da3f3052fe770011ac134f6ff9e0dd78fb4f9563b05ab24.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/0a570706ca6590ee56c5aef06bd6d6aa61d642964b303dd60c826db4c00685f0.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/22d45c2d806b229985b6da67852a8e41279a03e17690b8792bb6caabdf045af3.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8c35ec498d38824e11b0c32b94c25d2cf0ce83020b502e025c1858c01ff49d44.jpg",
+				"name": "熱血硬派くにおくん プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e0bec99814c8373e230b01e0e72aafd14a07c020c579e0ba11f8d5ca2d07af93.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "42"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d52aa59e11efbf2c35f8b981352e2fac3e67ab30a201d5fde4350efb051efb4e.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "42"
+					}
+				]
+			}
+		]
+	}
+}

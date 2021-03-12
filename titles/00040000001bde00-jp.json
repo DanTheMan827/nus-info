@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000001BDE00",
+	"eshop_id": "50010000042515",
+	"product_code": "CTR-N-A8FJ",
+	"name": "ファーミングシミュレーター18 ポケット農園4",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 409,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6644f874d68741c7879d105d00e943fa45589be0757c13b18865083a631bb9f5.jpg",
+	"data_size": "85019492",
+	"description": "ポケット農園シリーズ『ファーミングシミュレーター18 ポケット農園4』 さらにパワーアップして登場！ 農園の経営者となって、トラクターを操りさまざまな作物を育て農場を拡大しよう。 農業で得た資金は、豚や牛、鶏などの畜産産業や林業に投資することも可能。農業、畜産業、林業を多角的に経営し、実在するメーカーの農業器具を駆使して、君だけの農園をつくりあげよう。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2017-07-20",
+			"retail": "2017-07-20"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5d6dfb37bc4f2c5b0c8a483d9757c1649b3235ca1f2eb14e9366106ee30a8bdb.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/edceac6b2d9e58b20e226dc5eec39ccfcf5952d7955c165e4a393a7afccf4e0f.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3d21b294af76e4625f4b059a7496216b714a1863cec2b22119fb522e9710ff47.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a8917a0912c17865654882c788b22060eb476de98e1a0446dcbd894103c67104.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/19492e6ffa27c1403fced072c9b53a7ae580679c6ea961597c2eafa65ae7ada6.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ceb8254ad264e43b8b8e4fca4884834abd7325a86889b9b16d29ffa18123d08f.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cac2ae16f54be93cc8f9b1ea06866d5566317be5b8f37a4baf79ab75f64475d9.jpg",
+			"name": "ファーミングシミュレーター18 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fd047a0acf53220d8ca14e4be86454bd49d840df21b9ab9e2b67fbaa3d2f56c1.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "90"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/70bdfe6c7b8940a31ab1524e8353a1dbbf1acafcf46e15e6629c282eb67b55e7.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "90"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000C2E00",
+	"eshop_id": "50010000013416",
+	"product_code": "CTR-P-AQ7P",
+	"name": "HarmoKnight™",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9740a69a903dfb0fb9a1ac7559f28d3eb87eeefbc561c49b3b4198db7508dcbb.jpg",
+	"data_size": "276568932",
+	"description": "HarmoKnight verbindet seitwärts scrollendes Plattform-Gameplay mit rhythmischen Herausforderungen, wodurch ein aufregendes und vielseitiges Spielerlebnis entsteht. Jedes Level enthält Musik, die als Leitfaden dient. Anhand der Musik erkennt man beispielsweise wann Gegner angegriffen, Abgründe überwunden oder die musikalischen Pflanzen im Hintergrund getroffen werden können. Dank der intuitiven Zwei-Knopf-Steuerung lassen sich die Grundlagen des Spiels leicht erlernen … das heißt aber nicht, dass es ein Kinderspiel wird, Prinzessin Ariana aus den Fängen der Kakofonen zu befreien.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-03-28",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/52fc7e53e27f02db1d2f29aaf7fe7fbc2ace0cce56f9d5d514acc7fb5f480630.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/acc874a54259bcbec27088f404fc380c1dd9887942a4a17bd5b34f2097b969e9.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e015d50868e3c8929b802661c4b1f49615c53d31aa9e25e3f262c5fbd1169741.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/acc874a54259bcbec27088f404fc380c1dd9887942a4a17bd5b34f2097b969e9.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c5d77f173c78365da2c7a4ab6faa321dac91a33f4cbc9ee787b769dc1ea5a866.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/acc874a54259bcbec27088f404fc380c1dd9887942a4a17bd5b34f2097b969e9.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3cc27f53db7a32a26666aec08ba01583dac6e48518d0ec7cb207a1645b36bfa4.jpg",
+			"name": "HarmoKnight™: Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/46987a604288e1649a057e587af7b718331cc2e3fde16e65cc97dc452580e536.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "112"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d3d3dab34e29803ff799074a3d5900b08566ef20894c339dd0521d619d31ad7e.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "112"
+				}
+			]
+		}
+	]
+}

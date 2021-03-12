@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "00040000000C0000",
+		"eshop_id": "50010000016675",
+		"product_code": "CTR-N-AZSJ",
+		"name": "星霜のアマゾネス",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 19,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/aff812881f9f91e56c14325703ce47cb3e8da26598e17c9904af7c43f9a8059c.jpg",
+		"data_size": "885279588",
+		"description": "3Dで描かれる本格派ダンジョンRPG! ダンジョンに秘められたさまざまな謎を解き明かし、ダンジョンからの脱出を目指せ! 謎を解き明かした時の爽快感は抜群。戦闘はスタンダードなターン制を採用し、戦闘システムには独自の要素を盛り込み、戦略性あふれる戦闘を楽しむことが出来ます。限られたルールの中で最大の効果を導き出すことができるか!? そして、激しい戦闘のあとに待ち受けるものとは……?",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2013-11-14",
+				"retail": "2013-11-14"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2b97b6213dd10440633f5633723ba901e5d12db6b9782f5f308f30d555eabf06.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ba85c1162fe373d170475c367b9b82248a18082464bcf239b5acbbe1d49ae4f9.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8cfa629e1f7a516754f7952d3e2c2021f2f61a381470d85831306a9b61b36f2a.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1c40ef4d3fb8cc3482b4cdbf5333c927550ea2bf34febfacdb20a216406a6e3d.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3c107d37e68af128e175725129ad934081d336c9feb5ff3636d27e3f0110dae7.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d1aafb0f999469d4fbf3a8656598bdadb6895f1f3affa645a554550759af1ec3.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/489d7943e5e143af5cfea84b32dd39b467c42eb4e203d6eabca0c6c89bd57470.jpg",
+				"name": "星霜のアマゾネス 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4af7e54e84d257e07cba781fc04fd77c06b44bebe5047cffe1e348a60ecd861b.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "320"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/607a36c3d3cc5ad986c03d90b97d3538fec6eab754ed316388d1f1f03b7e159f.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "320"
+					}
+				]
+			}
+		]
+	}
+}

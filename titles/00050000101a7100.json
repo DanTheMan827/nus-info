@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101A7100",
+		"eshop_id": "20010000013887",
+		"product_code": "WUP-N-FEUJ",
+		"name": "ワイルドガンマン",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2616a587ce1004db02b869f0fb349ea20e8923d1ce21e732c7e7dc6a250dbd98.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6a4d4556a152e2eaeae7248cf7dfa967036e0eba9302ececb4743ab186561dcb.jpg",
+		"data_size": "38731936",
+		"description": "このソフトは、1984年に発売されたファミリーコンピュータ用のガンシューティングゲームです。 開拓時代のアメリカ西部を舞台に、悪漢とのガンファイト（銃の早撃ち決闘）に挑みます。 「GAME A」と「GAME B」では、相手との早撃ち勝負。「FIRE!!」と言われたら「撃て」の合図です。相手より早く撃てば勝ちになりますが、合図の前に撃つと負けになります。 「GAME B」では2人の悪漢との対決です。遊びかたはGAME Aと同じですが、「FIRE!!」と言ったほうを撃ちます。 「GAME C」は、扉や窓から次々と現れる悪漢を撃ちます。10人撃つと次へ進みます。悪漢に撃たれると負けになり、3回負けるとゲームオーバーになります。 ※このソフトをプレイするにはWiiリモコン（またはWiiリモコンプラス）とセンサーバーが必要です。センサーバーは、Wii U GamePadのセンサーバーでも代用できます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-06-22",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/11d6910a033c3be14c9c32bbec6139d0b89254ee2b5717599fa330ce24bfe23f.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/7439f15c2b6b6ba4d1bf1f4331e419b6f1b63a683c1fdacf22d589c541e9ca25.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/ac4a1ee38e3d12ae2b75e812aaad21ee6bcbf2de088947ccbc62fb0328c1cafa.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fabb771316b3c69c5a82ebea7ddcf7c905121d181516290d0cebceba83e4675c.jpg",
+				"name": "ワイルドガンマン プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bf36df558038d58db9ec29320e225d071cd06db4e97e86ca48ae2756cf90d42d.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "55"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f3ea0c59cbabb199e5c81ab1b04868f19a1ebf7b499cac0f467b3ec9d1a7f3c5.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "55"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000147B00",
+	"eshop_id": "50010000030175",
+	"product_code": "CTR-N-JVQP",
+	"name": "Dedede’s Drum Dash™ Deluxe",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/22e571088f7d19947992f08914cb621146515db2df28f5c4af7de46956402c56.jpg",
+	"data_size": "63007588",
+	"description": "Dans ce jeu d'action rythmée, incarnez le Roi DaDiDou, le grand rival de Kirby et faites-le sauter sur les tam-tams! En suivant le rythme des musiques de Kirby, appuyez au bon moment sur les boutons pour rebondir sur les tam-tams et éviter les ennemis tout en collectant des pièces. Ce jeu inclut de tout nouveaux niveaux et obstacles qui ne sont pas dans Kirby™: Triple Deluxe!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-02-13",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/205ddf7b0c0e32af6e25a2bd41f051d39938d2a4c76b0586addd412baa7502ea.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/105cbb0502b7c9b0bd45b6422baf7583cdd4a0dd8b2a6d7ee92add8160f86d5f.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/4f791893c89d6b4d7f8e0d33f7601eeb255cfdfc75289ca66e21cc8736f94cda.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/82ee85bf9fe5b275a0a0c7a55a7f3853406757d3cdf8c2e307876f93205fc423.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2b85c6228882f6270b4ef044b4ba8b212a40e02aee7dd659624f55217e9d635f.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/07f8a84de9bd6c2e447d19289f39ca77d057e939f94c911b101520859a0f372b.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/735a981321ce04de92ce6618391c42e1e72b06e367ff8f390a91d37d4eb8ac65.jpg",
+			"name": "Dedede's Drum Dash Deluxe : bande-annonce",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c92650ddad8d863f3b66082c9b2aa933e381bee86802a74249b7e02adebe261b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "73"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fce9ba4a439b826e4f7ceb57b353c86af7b6ef603780f7025636697577fed58c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "73"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010146100",
+	"eshop_id": "20010000004464",
+	"product_code": "WUP-N-WMGP",
+	"name": "NES™ Remix",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/69052a11fa3dde88c42692ba4e65f65960fd6e898bf850e493aaeab48c768e54.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/062d22d27c2f34cd28c5007bb6e7c6997a2d0f4f54cc810c223f7bef5eb3df33.jpg",
+	"data_size": "421953676",
+	"description": "Revisitez l'époque des jeux rétros avec des règles inédites dans les jeux classiques de NES™ Remix, en exclusivité sur le Nintendo eShop de la Wii U ! Vous pourrez revivre plus de 200 stages 8 bits d'anthologie issus de titres NES classiques, et mettre vos talents à l'épreuve dans les Stages Remix. Les jeux que vous croyez connaitre vous donneront du fil à retorde avec de nouveaux défis. Est-ce que vos capacités sont restées intactes avec le temps ?",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-12-18",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/dc291e0934c2dcf4df126bd972f7d44322829e1dc860967956e854e0d4f3d4f7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7ed177296710b487e697f4a456fd27fa869bbb9dd66dd2ad9073fb402854df6e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c9a810a304c9e26e8f94bbd7b4e1194b194cbf4491f49b4868be509f6ecf3aec.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a07d4acf40c79d302837879847b1e34cbf0a7b8d5b36e64cd89beab91226e778.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1f6459778621bee2c3f97a5d158aee02426c39d2ca48ff702180c2d717d6c898.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f9fabb0aab493df2b7b45e55ce3bb7f3415fe5cf95008e86cef4dd240c41c01c.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b90c5d78618839959d86a49f2085c2756b134cda1cc505be963d6ab1f646a95c.jpg",
+			"name": "NES™ Remix : bande-annonce de lancement ",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cb9d3821770bb454f875d9feef6feb787788eae78f5d16963f6f220554fd5fb5.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "96"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/87826bacd4e09c7b13a1cd57ccbc24c68b73308a3f5f5944131ea4c9150cbab5.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "96"
+				}
+			]
+		}
+	]
+}

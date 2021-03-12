@@ -1,0 +1,54 @@
+{
+	"title_id": "000500001020FB00",
+	"eshop_id": "20010000026347",
+	"product_code": "WUP-P-BZTP",
+	"name": "Triple Breakout",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1610,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/891bbe043b294dabfd0dc796b830108cafd5b5b18534086ecdec9bbd2d175f40.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4d157da0331c62494bf9b8e7f5f8c54b2e90f7a18906021d98a939f1a171bd66.jpg",
+	"data_size": "157384844",
+	"description": "Triple Breakout is a breakout game for one or two players combining game mechanics from a traditional breakout game and a pong game. Play against the computer opponent aiming for a high score, compete against a friend or play solo mode.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-05-04",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/299c9cf57979346f386ba76bd1bd43c67829adfcc98f089ec992360328824c29.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/904d268771d12a9a7af20f607d36d7e0327961f0f1d8deaf8ba48c453e5cb86e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2ff662950a7e6b16df0c70644ada1d3e4ac0c87b5d7aa5ff97fa89a5d8a02816.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/35294f2d37cf0b72c4aab8a974607761c66f3e82a21893bcae55b83723b9fe07.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/461c03e7665c3376148d0203387bac55dcc39a12784e564b5b659df584540691.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/42eb4e4b9be6a9a117a6c09da8111d36806ecd729f803b905d680aab7e8c4a9e.jpg",
+			"name": "Triple Breakout видео геймплея",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e07f810f657ab56d4ed77909e2af73a535207298ef8248fe5d077a9754caf9eb.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "53"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/129721669a252d5099a638968ac42ffff89cac69a5b43a67114d4e78b68548fc.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "53"
+				}
+			]
+		}
+	]
+}

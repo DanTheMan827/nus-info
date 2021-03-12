@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101F7500",
+	"eshop_id": "20010000022090",
+	"product_code": "WUP-N-AEYE",
+	"name": "Midnight 2",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1454,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e0cb4f1e8ad5c7dc4b6a178435a3fa3cada949da4c568a5f62783164a4e30e80.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/61a795fde5585135fb6598a64c58a30c4d744772d4253f0d731900e6ec57a0d6.jpg",
+	"data_size": "74449056",
+	"description": "In this golf-like puzzle game your task is to guide Midnight once again! Use your Wii U™ GamePad to set the strength of shot and launch her. Avoid the dangerous enemies, spikes and saws and try to reach the best rating possible. 28 unlockable levels make this adventure a challenging journey. ",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-05-05",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/bf5744513f66974989e9bd32d323945471e1f2cc33f4735d32e582220c32f1ed.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3ce9b89f273633f85f44359cd05861a95a8b3361fa0fb773329bbc3a7f819ba2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/72ae8819eb74bf72aac4fac8c8ce4622b693aaae1e226e4f3d67aacfcdd49ec5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/dcd4e70c87117a3691e2cf08a7132b623a713d6a6132bdf82d987869c81c1c1d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/88772117145a7ea1f05f743f8fb7ca82dfb94d8bcfa189a2420b9778b2ad5891.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0bf324061c37596ba538fb82b09bb29e81d023eb388c8392341843349991063a.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4ff54de6638e6b11c99c2cc3f21676c51c83b1bf63bab8ff77f75e0c218a7446.jpg",
+			"name": "Avance para lanzamiento Midnight 2",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a1b074ef7bf23e69a1e2c69629c572a8a7a34ce92b2379f7d05953dd0ac7dd90.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "53"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e9294e3d5b25c5ee07d478057b2199c87cf5713f729c69ae641242fe002f91df.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "53"
+				}
+			]
+		}
+	]
+}

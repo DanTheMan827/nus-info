@@ -1,0 +1,85 @@
+{
+	"title_id": "0004000000055E00",
+	"eshop_id": "50010000014813",
+	"product_code": "CTR-N-EK2A",
+	"name": "ポケットモンスター Y",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 210,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/906d227ef6677cb15a703933dfa7fbc1149494656eae1c6fb4ca813c1a80f8ef.jpg",
+	"data_size": "1807289188",
+	"description": "『ポケットモンスター』シリーズは、プレイヤーが主人公となり、ポケモンという不思議な生き物たちとともに冒険を進める、RPGです。最新作の『ポケットモンスター X･Y』では、「メガシンカ」と呼ばれる新しい進化を遂げるポケモンがいたり、ポケモンと触れ合って絆を深める「ポケパルレ」など、新要素が豊富です。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-10-12",
+			"retail": "2013-10-12"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/18966ed58b1986310a3de8046f61341537c428e26f2adc3827b4dea1bd678453.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/82e2115fec051acc92e0f6b4bdeb820563c1873c667fab0c9f47fad23ea8ad9b.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0e5ad68f0c8cb57dadc3ff5e4a4e547ea08b2707c72395c557e4679264912846.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/3cada7594a0aa95747daa1c1b7c6f83c10e6c39951ef252a9fb741eb9c8b2cab.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/058b6492d7a0c68bacb9df8ac24bac362d900979b28b0699bf5ee710b9ddf4a7.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4a94fe0e741229dcb33af21fdd96e0cb6105086116f768f2f1d2295c851dd343.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3608af2a4bdc6bb3c4a397d30be27596487f960b528c04fd6b4a4fa148a1eecc.jpg",
+			"name": "ポケットモンスター X･Y 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1552e1b08589e9acb1eab0b9b94f545f8193a3bab3fde6c0cb92082aa964a8ae.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "212"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/39684650c070b2dd72e3758f540827646a3c3a8ee8edc0ff3188e3488dc646d1.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "212"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f8adfc5f662b7f8fef012b713e370feb2a07a13844b670de804ef7162cf0e778.jpg",
+			"name": "ポケットモンスター X･Y はじめてのポケモン",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/edfbc7552c60a7c61ad687f438c94882b018ea4f99a5833a80903e1f50d032a7.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "351"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4c3be35b51f78b1043b66a557437c2c83766ca3278d3fe5157db2398deb3c0eb.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "351"
+				}
+			]
+		}
+	]
+}

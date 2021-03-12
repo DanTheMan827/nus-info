@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010119800",
+		"eshop_id": "20010000002664",
+		"product_code": "WUP-N-FAUJ",
+		"name": "ツインビー",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 149,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8a656ac8163675538bcfc63b23c8ed996144fc01d96883992b8464bc3b85ede1.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/462830b7d3e389eebe71478355332409e994bcf6a0661241bf9fa86e0d0b935b.jpg",
+		"data_size": "36569228",
+		"description": "このソフトは、1986年に発売されたファミリーコンピュータ用のシューティングゲームです。 ドンブリ島を支配したスパイス大王を倒すため、腕を持つ戦闘機「ツインビー」と「ウインビー」が飛び立ちます。向かってくるのは、包丁やタケノコ、タコといったコミカルな姿の敵たち。空の敵にはミサイルで、地上の敵には自慢の腕で爆弾を投げて戦います。2人で協力プレイを行えば、合体して強力な攻撃を放つこともできます。 雲の中から出現するベルは、スピードがアップしたりバリアを張ったりと、色によってさまざまな効果を得られます。ベルに一定回数の空中攻撃を当てると色が変わるので、うまく調整すると狙った効果を得ることができます。 ",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-09-04",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/ee6003154431168cc7cfe15edc37addd8fb197ffb3ba519fdb82b8eed1a7411d.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/cf3d38922b4009667d34b604d10cce8fc598ce3ebe9bc0a3b7c7cc09d173de3a.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/b6b7bd0c5c25b8f02e1d28a15c98c4374bbf34eb204f15bac4eaa237eec7d310.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c1fd5b5dda21e36cee7642b0b695ec2c0f9398d45357b57839769b14366ae063.jpg",
+				"name": "ツインビー プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3abe0de60091ec09eaa91ad3431bf252d94b7777c1563814a364e992d9e5a1b9.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "42"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d7868ebd7bc2196b79504a90c1c6246d8c91ec24fb7770fb8d30087c3ad55bf8.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "42"
+					}
+				]
+			}
+		]
+	}
+}

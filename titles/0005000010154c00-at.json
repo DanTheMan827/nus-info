@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010154C00",
+	"eshop_id": "20010000010126",
+	"product_code": "WUP-P-WHSP",
+	"name": "My Style Studio: Hair Salon",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 359,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/14f8dc4ca79817b9b4e761af377b76148776c89e3b4d7e0e9dea07d9a2739314.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7b99b9841ada8fd5cc9b4d1b161c07a78d7357c12f3d0780857e812da2cb7c5e.jpg",
+	"data_size": "167379084",
+	"description": "Waschen, Färben, Schneiden, Locken wickeln und Stylen - stellen Sie jede Frisur so her, wie es Ihnen in den Sinn kommt! Wählen Sie zwischen fünf niedlichen Figuren und schneiden und stylen Sie deren Haar nach Lust und Laune. Verwenden Sie dabei verschiedenste Werkzeuge - von einer einfachen Schere bis zum Lockenstab und schmücken den neuen Look anschließend mit Hüten, Brillen und andere witzigen Accessoires. - Realistisches Hairstyling - 5 niedliche Figuren - 13 verschiedene Werkzeuge - Viele verschiedene Accessoires: Hüte, Brillen und vieles mehr - Flüssige und schöne Animationen",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-10-23",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/9a0c2243a2419b194ace678117290d8b25efcbb3d111dfadda9b217301540c64.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/321610d57d1c8569e7e2cf003c51a34d8419f34eece837b1ec917f834387fc10.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6d6fd8985e2a01fd21dbd1cef974ddef8f7263cfd4ef4e710dad15312e0d9edd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/07873438df8c0b7b37ab16f77c40f45a25b4dbc8759530e97c9ed7899ab49b80.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a9dda33c41732c0cb53d4357438b4dc23cbd35ad536348461ed76cce10afc0ca.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/961278b3ac39a09927d572006e4c91275caa6c627e0669ef41befa3ff765365c.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4b79e5c0e7d79d2b5ed9595d8ef5e458e14e77a238787a9b67c98eacb41dbe77.jpg",
+			"name": "My Style Studio: Hair Salon - Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d2817b826712fa42dc7e8a40b8d93b0448eb1f5a29d7214a22ada4b30d67423b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "90"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f355e7ee7372088be29971a0493965e7f7aeb355696b21b539ba1db497c01396.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "90"
+				}
+			]
+		}
+	]
+}

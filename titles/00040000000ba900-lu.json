@@ -1,0 +1,85 @@
+{
+	"title_id": "00040000000BA900",
+	"eshop_id": "50010000014012",
+	"product_code": "CTR-P-APDP",
+	"name": "Pokémon™ Donjon Mystère : les portes de l’Infini",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/2212bc416c986a12b5b6a5fbfbb6a364a464a519154590a9ef28212faa665098.jpg",
+	"data_size": "885996388",
+	"description": "La série Pokémon Donjon Mystère arrive sur Nintendo 3DS ! Incarnez un Pokémon pour explorer un monde plein d'aventures époustouflantes, où chaque donjon n'est jamais deux fois le même ! Combattez d'autres Pokémon avant de les recruter dans votre équipe, aidez à faire de l'Éden pour Pokémon une ville prospère, et utilisez l'appareil photo de votre console Nintendo 3DS pour découvrir des Magna Porta qui vous emmèneront vers de nouveaux donjons !",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-05-17",
+			"retail": "2013-05-17"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/fe2de55071b1401ea929bb992be30e1b1c18d6599e63fe34499d59d00c8aef3c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/aeb85b2bb87757fbe37469101b0b5dff28f67f013c7cc18281ee6ab3f443484d.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/36632ad4221b81d44fd61705ff43f157d625fc344bb0fc7bd0e1d6b8163d2103.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f51675f2cde6826c2ca887d65c278e4ba87e95ef33960186b830cfc6ed12c999.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/13d8562c85eae870e6d9d615fc3e43df6536855016b4b6168581564410e65440.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8a305d066fd55a244821cf2e81218f261f07229e6e221263302ce3e27857da6f.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9c09c051c265f69893976071bfdd6b0c6052445ec7eb9433194b2be8efbfc7ea.jpg",
+			"name": "Pokémon™ Donjon Mystère : les portes de l’Infini bande-annonce 2",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b70757ce753fabed85b7d0b364770a5b35440e5244ef73686db4d65e7255724a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "80"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3348884d464ac9cb270a78d232ce3920b0579e37b7b6a49a92c93f536aa493f1.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "80"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9c09c051c265f69893976071bfdd6b0c6052445ec7eb9433194b2be8efbfc7ea.jpg",
+			"name": "Pokémon™ Donjon Mystère : les portes de l’Infini bande-annonce",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0a90c464c34df2c05acbdcec6c21f1aabe74acfe67602eb732de9d55428ed40f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "66"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3af74d7c9565c930f088c1692eeb8454ba4ff6dda32a15eff080effae5c1dfeb.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "66"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000B9E00",
+	"eshop_id": "50010000013513",
+	"product_code": "CTR-N-JNAE",
+	"name": "Nano Assault EX",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 235,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/2d293b5562a3dd5ff191dbb103d9b26c00da4dca810d6760502dfeb7b5b09952.jpg",
+	"data_size": "127871844",
+	"description": "Impide que el mortífero virus Nanostray se propague y contamine a la civilización en Nano Assault EX, un frenético juego de acción ambientado en un sistema celular de impresionantes gráficos que desbordan la pantalla en completo 3D. Controla tu microscópica nave nanoide dentro del peligroso virus para rechazar infecciones, muévete entre grupos de células alienígenas, enfréntate a jefes y analiza y destruye finalmente el núcleo del virus para salvar a la humanidad. Nano Assault EX se basa en el juego Nano Assault original e incorpora además el flamante modo Supervivencia, nuevas clasificaciones online, compatibilidad con el Botón Deslizante Pro, una experiencia de juego mejorada, gráficos actualizados, etc.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-03-07",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e0696f27abcd3856b10d8fad0a9ec687fdc7020bc888121ab0f6bf85c1d4b138.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e5e831f98047533a807cd2980b1ee41b7a3d3a8d7a4a1f73f98dd0085906d42b.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/992aec8738365c137937fcd8d26e0698b3e3100822a4cf8c00af010c30c4fb9e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5e57829c4c71d388e4f894481e8d4e4300a2b61127d3290ef5f04617743ca19e.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/02355e70ef4477ba4fd30c8819e4e7d3675ee9623b6e7c7338d992d542a73c4e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b8a1619762db7963cdc583db4f45eb9a7a496fa5573252d7472111ee3c34ab3f.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5527a9db45c0d039334445ebaa8ce9e1325009367dde16e2bfc356bac0b6e0b3.jpg",
+			"name": "Avance para lanzamiento Nano Assault EX",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ffc9490b55a7989d43933b0a66d6ef45fd8a3220c1a31f7f2ef496cc77f676f6.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "55"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e2dbb73d10deaeeddf765e5bc4ba36e748b8fce07e56e890ae97b7d7caf53eaa.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "55"
+				}
+			]
+		}
+	]
+}

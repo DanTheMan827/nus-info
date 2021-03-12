@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101A9400",
+	"eshop_id": "20010000015408",
+	"product_code": "WUP-N-PCKJ",
+	"name": "鬼武者～Onimusha Tactics～",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 39,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c0af37ead201f256c62057822251f476a05cf41fc7ac7247158903bd89b5b3df.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3220b41e7481dae0b3aea61852de4dd06ac9219173cae794c9bcc0f616f46a7d.jpg",
+	"data_size": "73236620",
+	"description": "このソフトは、2003年に発売されたゲームボーイアドバンス用のシミュレーションRPGです。 地下深く棲息する異形のモノ……幻魔。 地底から地上を支配し、生きとし生けるものを喰らう。 その頂点に立つのが…… 幻魔王、織田信長である！ 信長は、この地上に幻魔帝国を築くために、 怒涛の勢いで各国を侵略し続けている……。 そして今、山中を疾走する影が一つ。 鬼の一族の血を引く若き鬼武者である。 その名は王仁丸（おにまる）！ 剣を極めるため、修行の旅に身を投じていたが 師であり伊賀の頭領でもある百地三太夫より急報を受け帰路を急いでいた。 しかし眼前に異形の影が立ち塞がる。 それは伊賀を攻め落とすためにやって来た幻魔の軍勢だった！",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-02-24",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/7b592df56fc8e7f18c8888ced17c21a449e64742bc72165423b56c86575b01c5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ede08a058ea4437b389e7dc21dc9753848a3cfa5afe007a23b2ede73d1524d79.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/56c19f9cffedbd56367f7ad34206c7aa52c8731595c091c1d170f34c1801ebaf.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0c8b2baa2a9f5b2544426b69fb93ed0fc8ac179db9670f67e1e54c1d64a58554.jpg",
+			"name": "鬼武者～Onimusha Tactics～ プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5448611afe287b42a142949e96b36882e06a916e0f9680ffcb93ca826bf2e7a4.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "72"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fe02fceef3f986a710e85e624e76711df047c78cc5e1563e23c081e1ad74c58e.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "72"
+				}
+			]
+		}
+	]
+}

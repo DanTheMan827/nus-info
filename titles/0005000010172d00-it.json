@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010172D00",
+	"eshop_id": "20010000021268",
+	"product_code": "WUP-N-PAUP",
+	"name": "Super Mario World™: Super Mario Advance™ 2",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6efe7068fa6a310ee060e8899fee15e977de25e6f68ca783d753ecd5799bba3d.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ede3406de71c460a446b24ae7a8757769eaeafbf66bdf93ed6d83eaf911079f4.jpg",
+	"data_size": "92962936",
+	"description": "Mario non ha neanche avuto il tempo di assaporare la sua vittoria nel Super Mario Advance originale, ed è già di ritorno con Super Mario World: Super Mario Advance 2. Questo gioco è una perfetta riproduzione di Super Mario World, il classico per Super Nintendo™, e contiene tutto ciò che conteneva l'originale, fino all'ultima uscita segreta, e tutti i livelli di festosi salti di piattaforme. Mentre stanno organizzando una vacanza perfetta sull'Isola dei Dinosauri, le cose vanno storte per Mario e Luigi: scoprono infatti che la Principessa Toadstool è stata nuovamente rapita dal sempre diabolico Bowser. Essendo idraulici cavallereschi, Mario e Luigi intraprendono una grandissima avventura per salvare la loro vecchia amica. Per raggiungere il loro obiettivo, dovranno distruggere i malvagi scagnozzi di Bowser e risolvere alcuni degli enigmi più impegnativi in cui si siano mai imbattuti. Come tutti i giochi di Mario, Super Mario World trabocca di segreti. Oltre a blocchi nascosti e a rampicanti, molti livelli contengono uscite segrete che possono essere scoperte solo dopo accurate esplorazioni; scoprire queste uscite segrete è l'unico modo per poter esplorare tutti i livelli del gioco.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-03-10",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/1a5d6ac457660a075c4de99ba4e2549ef7c65b1a2277552446bd4096237a4168.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/29cf41bc356906e1e8aa5adb193c6b60090ddc670635ae3f361517523b207037.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/44312649b37c3b527b6731d0af3eab4c019ca5cb5c392494f6be8de541aeb5ac.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3a012602f926506f37ddd65603d9329aaf46aad8c77c5db63f491f445db82982.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8808c551c8d6a46bb7cfdadece85df0724f18616f7b70bbe49ec39abd0f855ce.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c7432a60604a03fa3c36ffd8de1bd611a14e94d056345266b56849d59a1213c6.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3b7119e6acfd0f4a2bbc702923a9605a11040e8bfab698f16a7aebd41b6c4f10.jpg",
+			"name": "Super Mario World™: Super Mario Advance™ 2: video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/797faa985f576f009d262803eb507ce70e2327930841d91588f0866ee6828d92.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "66"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ec67acba797ffd6c5a1ff7bed41fa85d8b3a0c350ee15ccfe6d3e77141a04081.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "66"
+				}
+			]
+		}
+	]
+}

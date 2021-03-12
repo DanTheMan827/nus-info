@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000A3300",
+	"eshop_id": "50010000014010",
+	"product_code": "CTR-N-JAKE",
+	"name": "Mystery Murders: Jack the Ripper",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 282,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7900e050ee25e1cda16446fcfa745984e86ffb6157398b63f6300cf5a124cb96.jpg",
+	"data_size": "184560484",
+	"description": "O outono de 1888 está para entrar para a história como o \"outono do terror\". O extremo leste da Londres vitoriana foi abalado pela série de assassinatos aterrorizantes das \"damas da noite\" nas ruas de Whitechapel. Três pessoas, cada uma do seu jeito, tentam ajudar a resolver os crimes desesperadamente. Emma De Ville, com o dom da vidência, tem visões e sonhos vívidos. Frank Hudson, jornalista novato, está determinado em desvendar a verdade. Inspetor Frederick Abberline, da Scotland Yard, foi o encarregado de perseguir o assassino conhecido como Jack, o Estripador.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-04-18",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d04fada45791734ca01b3bd309491fd9e47647854661d933d7ed121454e3e397.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a629999ee15e37b5f56f6f8ace28732b9546c451a828666a9f879248d9898d84.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/9f1f8145500cea726a1a4ee41f5a5ab82e866b5cc33f04f9c2072ebf501b28c1.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e3f153460341d9746cd44733182e1ea243958b6958e35fba6b5b861b958e8f99.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/4bde931d72cd116fa52025abce918355b51061a0c0e0b873d9c31e8cf40e6ea1.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f29a08ec783c181bf740bb651825de26acaa9e0e92cb04981fd9aedf5250f6f6.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b726e1cc84c3a952d938c472bd259ba6766fb36961ccab05e33f88e25009f9cb.jpg",
+			"name": "Mystery Murders: Jack the Ripper Vídeo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4f2f720615facf57a4d7ff463539567dc72426797e917b74f1230e902c350eea.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "74"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e977e53765cdf9ff8cf5855f207f2bebaac57f64b4fb00bd0414c6282b370a73.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "74"
+				}
+			]
+		}
+	]
+}

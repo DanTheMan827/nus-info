@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001014FF00",
+	"eshop_id": "20010000005344",
+	"product_code": "WUP-N-WAPE",
+	"name": "Percy's Predicament",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1241,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ea25c9b33dac23eae044979ce752dc7a4f46de53b5d8d22374c49d1fcf6d3a89.jpg",
+	"data_size": "485228684",
+	"description": "Percy’s Predicament is a casual title for all to enjoy exclusively on the Wii U™! Keep the TV on or turn off your TV, the choice is yours! Percy’s Predicament is a single player game in which you control Percy Penguin, who has become trapped within a magical orb. You must navigate the course and collect all the fish before the time runs out! Controlling Percy is incredibly simple as the interface relies solely on the GamePad’s control scheme. 80 Levels at Launch and six different environments at launch each with their own musical themes. Play however you want; you are not limited by your TV. Buy once; get all additional content for free. (170 additional levels)",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-02-06",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/eed9c54085f1a8af549dff6a7b15f2ceed8ed169ede2a7856b311a5134dd2ad8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3697fb71729ee524ea5dac7bdbbcbae708ff56267cbb66b7aa864b05661f9a94.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/522794c022dce7cfb56ca4251b418e30c5b578736bf77a73907177226595858f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0a4ecdc71237952358561c6d366445ec3b3375b7a3f5801182fd1dc7728474f1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2cf64855964b22873c0ec6343684cc9b5401c606e036e566345fc576588a9494.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f11e5973b4bd2b89ebb26aa387ccf27a8e0bcb8a792fbdc40b68915de227cadd.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a0a0319185ddd973ea31051f0a26e5c61cf104688a3766da308ec92e4648b97d.jpg",
+			"name": "Percy's Predicament Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5916b60884f1f2a7a5fb3cfc0f84a44f6f96fb6236716f7bc1248a73d72f982d.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "84"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4da8b4b404a07825ccce34a52852c96bef1798ff6481db61ae612328d4898baf.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "84"
+				}
+			]
+		}
+	]
+}

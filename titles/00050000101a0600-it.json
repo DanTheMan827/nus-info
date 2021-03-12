@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101A0600",
+	"eshop_id": "20010000014507",
+	"product_code": "WUP-N-FESP",
+	"name": "Street Gangs",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 19,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8bee0da2985bef3b9434211a7cb18bb2083271f95287cbce916a9e84daa25edb.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/cde671856418130ba992f1b16f2a6f4d0abf6153934467f4fd9f3e6c94e688c6.jpg",
+	"data_size": "38928544",
+	"description": "Street Gangs è la versione occidentale del classico giapponese Downtown Nekketsu Monogatari, un mix unico di picchiaduro e RPG. Il malvagio Slick e la sua cricca hanno rapito Cyndi, la fidanzata di Ryan: la sua missione è ritrovarla e salvare River City con l'aiuto del suo leale amico Alex. Combatti contro boss e scagnozzi, migliora i tuoi parametri con i cibi giusti e impara nuove tecniche da manuali speciali. Affronta una partita per giocatore singolo oppure fatti aiutare da un amico in modalità cooperativa. Cyndi e River City hanno bisogno di te! Se possiedi questo titolo sulla tua console Wii™, effettua un trasferimento dati su Wii U™ per potere ottenere la versione ottimizzata a un prezzo speciale! Questa è la versione europea del gioco con il rapporto d'aspetto adatto.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-04-23",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/0fba84e049efd46777e387b7f91afa898ac934e0315a4c11deec5fe100a780ca.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/21a02c1235837d25954e4c3e5f08e321405131a9cf2bb8aca2df291178055b3e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c912144c20b6caea465e8baac64d481740416796f8029b6f40b0773ef6aeec14.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/93c9cf20e2131aa33c58b814f490b92d5578038153f81df76f053336bb72e31a.jpg",
+			"name": "Street Gangs: video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/54526a6c48a63f3f8b8ab4e8f802dda2c30972de45cb79a5faa02861308c8098.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4adf52eb7e2f51a2549191a5f70a70758925a5218494d05c6c37889b7fbd8b01.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				}
+			]
+		}
+	]
+}

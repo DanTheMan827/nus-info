@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010190700",
+	"eshop_id": "20010000016527",
+	"product_code": "WUP-N-FECJ",
+	"name": "バイオミラクル ぼくってウパ",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c695419043bda79de3c3e72df01035f9855542b00123e4ab5e5727ebe6af28e8.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/121386e87dce90e402d4d876fcf2e558805fb34eab882d499971c05fc4a0dcde.jpg",
+	"data_size": "38764704",
+	"description": "このソフトは、1988年に発売されたファミリーコンピュータ･ディスクシステム用のアクションゲームです。 主人公の「ウパ」はかわいい赤ちゃん。世界を救うために不思議な武器「ガラ=スウォード」の力を借りて、大冒険を繰り広げます。つるつる滑る氷のワールドや、おいしそうなお菓子でできた夢いっぱいのワールドなどのさまざまなワールドに、その場所ならではのしかけが待ち受けています。ウパの唯一の武器である「ガラ=スウォード」は、敵をふくらませて浮かせることができます。ふくらませた敵に乗ったり、頭突きで飛ばして攻撃したり、上手に利用することでクリアへの道が開けます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-07-15",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/064a68a12e7db0e7e2e4031f2a22db45cd6f0734e246cfad7748c993296b4f87.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3a46127ce36b99fea0d116dbaf54109f5a96f34e89b7a300e9a0d39f406f0e51.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/95e6dee1d2717a312a4ead590e3e647b304a5ee17d8a9fda606dc7f470e1fd10.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6eafa9f70375276c478ab5d24475ecdf7892d7382b850244aff5fea288b45050.jpg",
+			"name": "バイオミラクル ぼくってウパ プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4bae579c470ec0a387b9369e078ea00535c8ef1d92d7bc4dcb1569f464f1bcf3.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "53"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d9709bbd3e3364af2fc3de74d6d3e440b167312f1171cbc4a0d700647f3bf072.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "53"
+				}
+			]
+		}
+	]
+}

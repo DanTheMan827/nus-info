@@ -1,0 +1,69 @@
+{
+	"JP": {
+		"title_id": "00040000000D8D00",
+		"eshop_id": "50010000015702",
+		"product_code": "CTR-N-JRQJ",
+		"name": "ロボットレスキュー3D",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 882,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/bc03043ce25aa7c3c6b62b87e1ce8c8aecf6743764025f72689420252f8d9892.jpg",
+		"data_size": "33921892",
+		"description": "複雑な迷路の中に隠された、たくさんのトラップ(罠)を避けながら、ロボットを出口まで導くパズルゲームです。 ボタン一つで同じ方向に動き出す、複数のロボットを上手に操りながら、電気や爆弾をクリア。迷路の中のスイッチを押して、通路をブロックするドアを開けたり、ベルトコンベヤーやテレポートなどの仕掛けを利用してステージをクリアしていきます。 ロボットの色を染めることで、使えるドアやテレポーターも変化。しっかり作戦を立てて、頭を使いながら、すべてのロボットが脱出できるルートを見つけだす必要があります。 合計120もの多彩なステージにチャレンジができるため、誰もが間違いなく夢中になれるのです。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-08-21",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f76042d37a9ff70e53e8e5e6b5a0a9a0c27e413ff25e6fc5357063d46352ef75.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8ebfe260c6d33e212e2effe02721f0798543fffd56b4c9275f3f4178f7d54ac4.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/53801d32369f0033dfadca14d2379e277e212fdd1d5b56c1d05295209225dd4e.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/786728776e259c050ad27d741659554b0adbfa990234a483072f3a0f5d6cd9e4.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5a7830414be99f88757ec21b81634224dca186b6d8f3482f82b614363d4f9e19.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/aa2608c0fb5f1be37365b94f1929486db2dd978a53784b815beb4dbce4ec4040.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4211c9535261e7225ff767b8a470d592c1b398f24a816533e9dd7eda446c9aab.jpg",
+				"name": "ロボットレスキュー3D 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d8a5e30887753e0bac0b897680dce2e4328d1957ffe30f33759b9ea266be7380.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "60"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a34a4d20a50bb6abc21990359d37ba636a907a25d5a7b812263ca6103fc179e3.jpg",
+				"name": "ロボットレスキュー3D プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e167b9fa09b82b59889207e5ebf88f0f7cdd11b9604ea4d00a08a908a860a9fb.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101B3600",
+	"eshop_id": "20010000013668",
+	"product_code": "WUP-N-ALTJ",
+	"name": "アルクラッシュ（任天堂ゲームセミナー2014 受講生作品）",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d946aacf70edfc25fe35c9d81f9169486fcae107969d3449c8da9812933f8fad.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b2d8fbb57aecf64a44c5a2b52dcad79b12dc06c34ccb4ab26a724ed8f84d1c45.jpg",
+	"data_size": "265650316",
+	"description": "本ソフトは、任天堂ゲームセミナー2014の受講生作品です。 主人公のアルバートは、星のふしぎな力でよみがえった恐竜の化石。 ちいさな体は元気いっぱいだけど、化石だから歩くのが大変! GamePad操作で右足と左足を動かして、うまく歩けるようになろう! ただしこけてしまわないように、前後のバランスを取りながら……。 歩いてこけて、また歩く。 何度失敗しても、あきらめずに歩き続ければ、 きっと昨日よりも遠くまで行けるはず!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-06-24",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/eeae9a757d275852fd539ccf36499ef964a01b0119acf123507425d1f65e47b4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/dbfe65fe65b1adc51af5385baf2825cbfbb9099638ceec28e3b60ec0e8a1fa57.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/67a5326398bebd7d84350a0640249034616bb3478899452f04e5151b9a8cdb9f.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/dd4d1fe8de8228461d3af64bb7275ba112107b6dc07cc59440c9b77695b57b92.jpg",
+			"name": "任天堂ゲームセミナー2014受講生作品 アルクラッシュ 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8f86f14a04ac1f8e963b98b1ed6da24ed2e3d72dd30e0f395f0a631512e6b36c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "64"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/afd039952a5c14fa13072cc54b14e6df83630107d0563f0b9b856d7dcc28f4d0.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "64"
+				}
+			]
+		}
+	]
+}

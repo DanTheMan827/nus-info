@@ -1,0 +1,48 @@
+{
+	"title_id": "00040000001B7100",
+	"eshop_id": "50010000042479",
+	"product_code": "CTR-N-BYWP",
+	"name": "YO-KAI WATCH™ 2: Demo especial",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": null,
+	"data_size": "450870116",
+	"description": "En YO-KAI WATCH 2 Demo especial puedes explorar la ciudad de Vellón, ¡una localidad encantadora donde te encontrarás con Hovernyan por primera vez! Descubre la ciudad, enfréntate a Yo-kai y mantén los ojos abiertos a posibles secretos...",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-03-09",
+			"retail": null
+		}
+	},
+	"screenshots": [],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1587c8abdce2d0e9b2fc6ee19839afb33ddf27d5fc5356725a4c8730e55db039.jpg",
+			"name": "YO-KAI WATCH 2: Tráiler de presentación",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/57c4d4aa9f0b40eabf2c216cb71cb2131e62deb63668b11794ff8bea0668f7d5.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "165"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/72239b345efc1c4682d3730f2e4e317cabc722e74276501dd57c0c729060ae4b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "165"
+				}
+			]
+		}
+	]
+}

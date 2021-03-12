@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010198200",
+	"eshop_id": "20010000020454",
+	"product_code": "WUP-N-PB6E",
+	"name": "Medabots: Metabee",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 179,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6d08cc8c0af256a6f9df0a24184b3b7c144b29427614e60bd30dbfd0d256c383.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b8e7d1d9c1e4c70f7afd107b8979f4dddec44c4b75065d70ee3faf9895afb1cd.jpg",
+	"data_size": "75923596",
+	"description": "Kids everywhere are losing their prized Medabot Medals and Medaparts to a diabolical team of warped Medamaniacs. Join Ikki and his friends as they track down the source of the trouble and beat the Rubberobos at their own game! Completely customize your Medabots from tons of different Medaparts to prepare for intense Robattles!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-12-10",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/89128c263ff121af5ea423f8f86eac68790bc284804a8476629bc470b0f824a7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/caadacb73527aa2322f37f04d38c96fc77e5f56ea147868ab9f5ee16d097f48c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e437ef9953ab858189fb7b516d22385e633a9689b8ac3287fa64f8bf1adc450a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b62a5d77273d15733b7d11060e99ceaef10699eb7c0b0a579b586721fc9acb65.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b478a806e204a1e47d99f43b0f7cdd19c730a31719b3836c7b87e3681dbe9101.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d9e1508a73eed99a94e024335dd59484db9439d04f84d4ec0162718e661592ad.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2f659eaefb636d302210087c81c1947cb5bba3ebfd96a50902feeb2682e93818.jpg",
+			"name": "Medabots: Metabee Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/17d7f8e05b34f2fe3457061a4d8442f481f15ee2ce3f7ca7447b4b66015a28b5.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bb5a68d879e12e25072fa6e19b09db0f5e89f83aa72b7ffc034218c4211a3b5a.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				}
+			]
+		}
+	]
+}

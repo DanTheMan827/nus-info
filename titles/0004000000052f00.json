@@ -1,0 +1,84 @@
+{
+	"JP": {
+		"title_id": "0004000000052F00",
+		"eshop_id": "50010000007443",
+		"product_code": "CTR-N-JK3J",
+		"name": "おきらくテニス3D",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 19,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/1fd02fe3b269cb6a4be524c180360de694e777adfa5f84a91e8acbbb1beb4388.jpg",
+		"data_size": "59157348",
+		"description": "おきらくシリーズにカジュアルテニスゲームが登場! 新たなキャラを含め個性あふれる8人が、バラエティーに富んだ6つのコートで大暴れ。 簡単操作の「おきらくモード」搭載で、よりシンプルでかっこいいプレイが楽しめます。 ギャラリーコンプリートを目指す「かちぬき」戦を始め、「パネルラリー」「スリリングラリー」「サバイバル」のミニゲームも搭載。 スーパーショットは超ド派手!あなたはどんなショットを決めますか?",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2011-09-28",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/562b032c2c40215a9f6f464c109520751d3d27052dd341cb707c49741dbe360b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/451b42f06a9bfd9146f314a077967cb7c09462c9da45c1eb399aa07c54688f3a.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/17953f18e4b49b7b18402f68c700d19e65299eaa235f414b0d5e88704097d549.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6eec1a8e2940c5986fe1203a3288ef5b89d1a0bb7c18ede796eb7aeab6e567c0.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/85d7f03fa670dfa7d305ae95bad0a28aabf56915af59b2c639e2043f46b76d7a.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a0dac3f13fb35d4abe403dc9f5fd5f504b4ad5be418f545b45b799b4dd39c1f9.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a50578d7db61454ca7d841e018bd1d7c346d99966f8c221479a4d2c596d3c40b.jpg",
+				"name": "おきらくテニス3D 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2ffd99a45fad461d469fdc2b5d74fb29d758e2a98a385ed602cec962f38fe343.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "101"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/10f47eb4b3840be9f2697d5214756a9908911d0bec49741b13583a6d4eba6f2e.jpg",
+				"name": "おきらくテニス3D プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ea5066e7f5e304f9b4697fcc7c4da936916ebaabcacbb117210bdc282cdfb6c3.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "46"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f2813183128a756dbbe51b085eed40407e738d8292aa55a21473d9d9624cd68a.jpg",
+				"name": "おきらくシリーズ 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/43980479d5b81ca71e33092405bf58ce910f77ededfe47317e9b9610245ba0c4.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "259"
+					}
+				]
+			}
+		]
+	}
+}

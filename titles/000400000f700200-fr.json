@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000F700200",
+	"eshop_id": "50010000031095",
+	"product_code": "KTR-P-CAFP",
+	"name": "Xenoblade Chronicles 3D",
+	"platform": 1002,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8063fa91dde615346214027fb3caf3254c0042a50245167b84108884506d48b0.jpg",
+	"data_size": "3945581412",
+	"description": "Dans un vaste monde plein d'aventures où l'action se déroule à perte de vue, vous combattrez le mal à travers ce RPG gigantesque, Xenoblade Chronicles 3D. C'est un fracas tout-puissant qui annonça l'arrivée en trombe de Bionis et Mékonis dans notre monde. Une fois le tumulte passé, seules leurs dépouilles demeurèrent. À présent, le corps gigantesque de Bionis, recouvert de plaines luxuriantes à perte de vue, abrite une civilisation prospère, les Homz. Mais, la vie sur Bionis n'était pas destinée à prospérer éternellement. Un jour, une gigantesque horde de créatures mécaniques issues du titan Mékonis ont lancé, sans crier gare, une attaque impitoyable contre des habitants de Bionis. Le dernier espoir des Homz réside dans une épée légendaire, la Monado, présent offert par le titan lui-même à ce que l'on dit. Malheureusement, celui qui manie cette épée le paie au prix fort dans sa propre chair... Visitez le site amiibo.nintendo.eu pour voir la liste des amiibo™ compatibles et en savoir plus.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2015-04-02",
+			"retail": "2015-04-02"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2c958726fa222d931eab0a8a77d1069e4cfd3f56752d2590329428ac181c0885.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/da30e8df308d4508717fab873e0c1d6581a307b31adcc86d179b7060460ddeeb.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/43a8cd1f27ba3b22b2cff9fa67e69d1a19128fb4ada8fc1e8b2c42b1dc46edd5.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4b977de37504ea489915fa5b2be8c248e55fff76398e58237f9e481f452749f9.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/62b80dee6ceb4eab915e6f5cf18ae64c27ff8b7c121eb98cc3f8bb9fca93e2fd.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c6152e3c42a5542cd0e35e3a5a4a435f9949ac660a034a3f299cc623318d970c.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6f5f5dc9f3cdcf9697af30640b97cefe667b7fbce0009f38a380d886c935c799.jpg",
+			"name": "Xenoblade Chronicles 3D : bande-annonce de lancement ",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7ededdd830a5e9db24c067e4753a0d28e02ae85edda027f3126252d1d18fb328.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "218"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2b2de43293dbb8bb0836300072d613a7fe143a1e8382c4e2a671ffb14ae7f30e.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "218"
+				}
+			]
+		}
+	]
+}

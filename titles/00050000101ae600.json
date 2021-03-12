@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101AE600",
+		"eshop_id": "20010000016007",
+		"product_code": "WUP-N-PCSJ",
+		"name": "魂斗羅ハードスピリッツ",
+		"platform": 168,
+		"platform_device": "WUP",
+		"publisher": 149,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5d2a2a3538621dd4c270d3ce7d858e605a3e15b0cee768e55d3938592844b3c7.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f394ded23855e315f2216294438f579ccbe09929dccf3edfb615df4a43e128d6.jpg",
+		"data_size": "69238924",
+		"description": "このソフトは、2002年に発売されたゲームボーイアドバンス用のアクションゲームです。 かつての戦闘は序章にすぎなかった。 度重なるエイリアンとの戦闘に勝利した人間の前に、今未曾有（みぞう）の恐怖が襲いかかる。 圧倒的な戦闘力と科学力。そして、明らかになる異質な力を秘めた生命力。 あらゆる点において、エイリアンの力は圧倒的だった。 しかし、絶望に覆われた都市の中、今また魂斗羅（コントラ）が立ち上がる。 人類の手に再び大地を取り戻すために……。 ※当時のパッケージ裏面に記載された文章をもとにしています。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-03-09",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/d3f9f1d8163fcfbe341fb2e28955cd972f1b6bfad196b321e39dc71d187970bc.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/f2e6b15292e1e25880b9bb16ad3a1a3f79931fa7bf8c19c771e2d573f606e2f0.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/f0766391891e30db3421470a93f79cde3b7dc08f6955e865ed7f71d894448177.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e8dc21a5cd3e39ea66f06d1e09974730bd62b21d46c9b22c12f34a955e985a25.jpg",
+				"name": "魂斗羅ハードスピリッツ プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/112932d62909020a6f459e5cdabc506c2f7e9a846d5067cf123706f2f841a191.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "61"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f3ce44e9fc825b0e173fa571af5c6686cff6ff3d93fe84b464b27c7725092be6.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "61"
+					}
+				]
+			}
+		]
+	}
+}

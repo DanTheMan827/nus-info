@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000130000",
+	"eshop_id": "50010000027759",
+	"product_code": "CTR-N-JCJJ",
+	"name": "SQUIDS-ひっぱりイカの大冒険-",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 1212,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e46b47b2bfb66a3257f2cee9232d6c291ec938a9a0f39f6fca5c4ecc7aab4938.jpg",
+	"data_size": "189205348",
+	"description": "イカたちの足をぎゅ～とひっぱって、パッと離して発射して、敵にぶつけて倒していく「ターン制おはじき風戦略バトルゲーム」です。 敵にぶつけた勢いが強ければ強いほど大ダメージ! ショップで「ヘルメット」を買ってパラメーター強化! 「ヒトデシュリケン」や「オスシ」を使ってバトルをもっと有利に! 簡単操作で、戦略性いっぱいのバトルが楽しめるゲームです。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-11-26",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8f5e7f74d5aa8462bf4a4dcc211f7d1a796d8b7961876f6f73bfbf723bdc7c84.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/310243f7e477e1e10b5b4ec166d8b616c4dac7b4c225e480446d4b3696ee535a.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d12090b806c5bbdbb4a520e02d9701a1c9900b2dee39ea867cfb046a921733ea.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1c888d4b6cf517806b0b17f7c542b9b47a5ca6c9971cb4ab1c49573d0fbf16c0.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/17005008df67d20bb3ee34de9f7d695b86432efdceaf07c35a2d48a7b6bfe8a3.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1a22769ee87d31c84ebbfde4ce6ae603b60a59d66ac06ff48be4229e5dde1511.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a5840d6215e7b155e60bdb92212fa66ee50f5a1e0e101d3071bc3817d8c77252.jpg",
+			"name": "SQUIDS-ひっぱりイカの大冒険- 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/89f20c972118acdb6e64ff6c5695c34832780a950a948cfbe2097512b1091d49.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "96"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/18be0d353f423302b0993bec17305e2e55a8de98333ff395728b02465476cfd2.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "96"
+				}
+			]
+		}
+	]
+}

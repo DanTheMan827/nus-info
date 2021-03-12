@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010171100",
+		"eshop_id": "20010000007546",
+		"product_code": "WUP-N-FDAJ",
+		"name": "へべれけ",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 256,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/46f310927d36263467913e7fa82fe12c32fe3e9a6ba322ea621788e32de3d106.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c98bad871117ff8789eb285fdfa01f41f2680f69759cf3d0c08745de67393cd5.jpg",
+		"data_size": "38797472",
+		"description": "このソフトは、1991年に発売されたファミリーコンピュータ用のアクションゲームです。 ナゾの世界に迷い込んでしまった「へべ」は、元の世界へ帰るため、世界の出口となる神殿をめざして冒険します。「へべ」と、旅の途中で仲間になる「おーちゃん」「助左衛門」「ヂェニファー」はそれぞれ得意な技を持っているので、仲間やアイテムを駆使し、ステージの謎を解きながら進んでいきます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-01-28",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/07e5ae9f5f9a1126b61f9dd90ec8ec07e69722628b89f476b5d853f4d76e8a52.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/0f9f89542aa0eacf997d1239669394ab88165eb589a3453128a709328ce77dad.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/17dcf6f087142c08742b52361c4f7fe9c74eba425b7fd25a15b61707ba33b5fd.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a26d92107ec0ac43c0278176db93dd42d0622125d2b900f3a0204e54a5683809.jpg",
+				"name": "へべれけ プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/045e603addcaf2413198b60f601b06d4b9cbcc627ff5c3114d2284564713c1c0.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "45"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/65c61cc624423e27b65ee75563c46a05564ab0c328e00f0061519eb5d62c1a76.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "45"
+					}
+				]
+			}
+		]
+	}
+}

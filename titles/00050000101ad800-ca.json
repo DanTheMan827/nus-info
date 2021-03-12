@@ -1,0 +1,53 @@
+{
+	"title_id": "00050000101AD800",
+	"eshop_id": "20010000015547",
+	"product_code": "WUP-N-BLZE",
+	"name": "Cube Blitz",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1404,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/27952751e1f46f34420f098ccbef1938277f06969610689fa2af4f14d438e2ca.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d2d88a02e69e8592917d69162e941c97ff6dc3746e5d650cfa58d05d9dddd768.jpg",
+	"data_size": "196771980",
+	"description": "Cube Blitz is a physics based puzzle game that will test your skills using the Wii U™ GamePad. Your goal is to get all the gems to the bottom goal line while preventing all the stones, gems and industrial bricks from going over the foul line. You are equipped with 3 bombs and an area bomb that has to be used wisely. There are 4 play modes ranging from easy to very difficult that focuses on different play styles. Using the GamePad you have to tap or multi-tap the stones to break them up on screen to allow the gems to fall to the goal line. The only bricks you cannot break are the industrial bricks. The speed of the drops increase over time requiring you to use the bombs to break the industrial blocks. Each difficulty level has a set score you have to achieve before you complete that difficulty level.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-06-04",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/2eb8c3ca2bcc09aa46eb45802716d3f72a0d8441d0c7d44e2d8d8be16c2eedb2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e7bb711cba5ba6142658da8ef858de4335785b2528514c2123067b5caa1fd29a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a3bd0ccd7308610ce2a4819e7aa60a5e1842b7c0883869df20173e4d2812f328.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/63a9a1dd696e001662e11c50c2e637f59d91a25da4c6292897f1c18857298269.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/827476b999f957bfebec31e3cbdf3daa645156358e885cd870ca813e6c8801a5.jpg",
+			"name": "Cube Blitz Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4b9b0e223c203c365c92adffbc643608dbf56d3ddf53a3a5642fcac4baa7044e.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "108"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0bd8d69ad1a34af40c28454d051d9b3f1180f92e30a2843378417967c6ce0f28.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "108"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010195900",
+	"eshop_id": "20010000011947",
+	"product_code": "WUP-N-DADJ",
+	"name": "New スーパーマリオブラザーズ",
+	"platform": 169,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/be6f8fbd32f58e2666b9ad94f23fe9e4304095765573f9ff7924e30455a40bb8.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8bd129c18660a737b5b3adc82ec848d23cede3adaac6d9207e85df74aa92e486.jpg",
+	"data_size": "56328312",
+	"description": "このソフトは、2006年に発売されたニンテンドーDS用のアクションゲームです。 シンプルな操作で、誰にでも分かりやすく、プレイしやすい横スクロールアクション。跳んで走って、投げて踏んで、たたいて壊して、探して集める……。いろんなアクションを簡単にこなし、マリオがゴールを目指します。 ※おすすめの画面レイアウトは「大きい画面レイアウト」です。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-04-02",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/e017ff167c587f6613adb33e71d317a434869c5edf8a3a5a59fad2d2b6e9cbb2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d34525369c81e0ac5ba922f7a33bc4ec4b81588eeb58c21fd5131aae34960e78.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/46cdcabb496b11f86ffb87f20ed1b38a6d4fa6bae290691158ba64d746c49cd6.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/119f6b8f43b9cd8497cfedc8742c0b4b29b6f24294157d8f964b2b1a2ce343ba.jpg",
+			"name": "New スーパーマリオブラザーズ プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bb2ff060be1b111b2c364f126811a546169461f78090cf7cc98d6bed8bff5c9c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e6aab876ad772cf0bf4c6e37b7e689ec0b893eb9102547bbbe9578f7835e0b70.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				}
+			]
+		}
+	]
+}

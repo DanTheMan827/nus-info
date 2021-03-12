@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101E0600",
+	"eshop_id": "20010000020829",
+	"product_code": "WUP-N-PDTP",
+	"name": "Final Fantasy Tactics™ Advance",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 246,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6cc2680c3e920f07dc81cc1b888feac6cce17e36ae6bda62d1ac508e564a3729.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b040554dac33fe6a50c4889fe3911a3e18d70eeb1abe63e97be5e0be7ed2a285.jpg",
+	"data_size": "91652236",
+	"description": "La nostra storia comincia poco dopo il trasferimento del giovane Marsh nella cittadina di St. Ivalice. La famiglia di Marsh ha alle spalle un passato intriso di difficoltà. A Marsh non resta che adattarsi alla vita di campagna grazie all’aiuto dei suoi nuovi amici: Mewt, un ragazzo timido e taciturno che è spesso oggetto di scherno e Ritz, studentessa geniale ma con un carattere caparbio, mal tollerata dai suoi compagni di scuola. Un giorno i tre amici incappano in un libro magico e St. Ivalice non sarà più la stessa...",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-01-28",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/b6723138edcac5a52e801abb8f5b68dfae864ea7303eda5556818f5af6a7c170.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/725d67e040c7698d383f4963bfd325007851d39c1cc9809bdaa128a4e5435522.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5415209e67ac913282e737321d312dd5d5db0231db871cbf8b195f7c938d5dba.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/08532fc353bdfcf8689130f5a3f40bb47e7a8f3cb8a8f06298478e2c5e2ee79e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/387b17459bec9df1a9ab78934ba142ac107196f5c473b0c750d8d8541aefb3eb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8466b977f86a6ed0657dfa762186cdd77c2128697b5c9497306a0494c6000745.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ef6583f87d6f11fad8017cbc0a60f77fc1fe2083f619254091cecb4d6a968678.jpg",
+			"name": "Final Fantasy Tactics™ Advance: video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/47a1a04b5997b0ab4242623ab88acc4653603a19a3511f92cbb74c8558fe3855.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "71"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8cf65e347bd2ee2f1e65b08d6e5d1d30890b597e9b12fae724648f43626eb394.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "72"
+				}
+			]
+		}
+	]
+}

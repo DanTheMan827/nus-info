@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101A5200",
+	"eshop_id": "20010000014168",
+	"product_code": "WUP-N-DAJJ",
+	"name": "ドンキーコング ジャングルクライマー",
+	"platform": 169,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ff4e90c831468e1135cefe7b594ea0e2aa73594b42cb4dc7a7225db486f25746.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c154eea4d5678cc425189ad73cb0473eae05a579fd841a273de4a4607d7519ac.jpg",
+	"data_size": "66846840",
+	"description": "このソフトは、2007年に発売されたニンテンドーDS用のアクションゲームです。 南の島･さんさん島にバカンス旅行へやってきたドンキーコングたちは、お山のてっぺんにとても大きなバナナを見つけます。さっそくてっぺんに向かうドンキーたち。ジャングルで、洞窟で、不思議な遺跡で……新しい冒険が始まります。 ドンキーコングをLボタン、Rボタンで操作し、「トッテ」をつかんで移動したり、敵の攻撃をかわしたりしながらステージを進んでいきましょう。片手でつかみ続けると回転し、ボタンを離すとジャンプします。石や爆弾をつかんで離すと、投げて攻撃することができます。トッテのほかに、ステージ中にあるさまざまな「タル」やしかけを使えば、思いもよらない展開でクリアへの道が開けるかもしれません。 ※おすすめの画面レイアウトは「NintendoDSレイアウト」です。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-07-08",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/77ca8026ca40cfe165ef4836bef01d4b0ab2e491bc8eff7a32761e947c5e3ff9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c096dad98ab9238b31327cac2dfef70ac7cf0478c0847a983a7ddf7dcd341ea6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/87522caa5fe0f92a1c29faa59638974dd8a0ed5f374fe2e5234b81dd3bf10f35.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2a394fba07f9484b7d9f422892d1c71544384cc756638336bd3d710675afcafc.jpg",
+			"name": "ドンキーコング ジャングルクライマー プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/96738be0627a68353118f07b22a667ca60fe13e28e876c42193c99cf46ac7319.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "63"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/343a715e28adcab3ff08f5cac0aa74e14ab6817d16b848e37f6709f46aa62e4b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "63"
+				}
+			]
+		}
+	]
+}

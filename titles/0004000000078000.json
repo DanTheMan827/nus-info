@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0004000000078000",
+		"eshop_id": "50010000008003",
+		"product_code": "CTR-N-JSMJ",
+		"name": "ARC STYLE: シンプル麻雀3D",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 19,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/dbe6df4995095cb7fb4789ddcfabaa5753ee127fdfe8544e7a28534e58b40461.jpg",
+		"data_size": "25115492",
+		"description": "立体視対応のシンプルでお手軽に遊ぶことができる麻雀ゲームです。 対戦相手として選択できるキャラクターは8人。 それぞれの個性にあった打ち方でプレイヤーと対局を行います。 遊んだ対局の成績は「戦績」で確認することができ、自分のプレイスタイルを確認することができます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2011-11-30",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ecee3a690656bebb1dbcbed0795f2be1ec13fdfb6b31457d8dff85b71e4bcca3.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/15a375ab749034648e342479508818deb9ae98a533ee6d77a781a7691c88d2e4.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/707ef3afb3816408feb02b64e385d5322910b761839cb91a9366900de286013a.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4ca653c400c90223a49bf38d9acfe36edfa30bb083f12a3fcbaee8ae1f1d2924.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e8f3c4059af169b2b85d36bb04d0a8fe483280cf99feaee373ebd25cd9f1b560.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4cf49899cc192e9239aa91be76ec8fc39fcadcbbcbbf5f08d78291f4e602d273.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b7f5c6dd83969899afe2cd693eafa1f7bf5e07357cb1bb91c0c57d189e6db9f7.jpg",
+				"name": "ARC STYLE: シンプル麻雀3D プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e79babfa3e54736f17e11d00f7475d4df92c07a2c9c84c63bb72b5ec06172c9f.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "45"
+					}
+				]
+			}
+		]
+	}
+}

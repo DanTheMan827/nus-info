@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010171500",
+		"eshop_id": "20010000006766",
+		"product_code": "WUP-N-FDCJ",
+		"name": "クインティ",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 27,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/731c16894b8f6233dc35a66d9c3e5f22c4bc6ad51e0cf76709965060e2a73811.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e61e98a41383ea91291815afcb796833a38e491b9e0cedfac3311d2b898ce23f.jpg",
+		"data_size": "38797472",
+		"description": "このソフトは、1989年に発売されたファミリーコンピュータ用のアクションゲームです。 人形の国に住む主人公カートン。ある日妹のクインティと3人の兄に、ガールフレンドのジェニーをさらわれてしまいます。彼はジェニーを救うため、クインティの待ち受ける天空の城を目指すのでした。行く手を阻む不思議な人形たちは、床のパネルをめくって転ばせ、壁にぶつけることで倒すことができます。パネルには特殊効果を持つものがたくさんあり、うまく使えば効率的にステージをクリアできるでしょう。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-07-02",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/cb8767f1d43704343cccdf43c40510aa92843df5265736dd26f63cf4fb2d53f8.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/24ff5796212932a371653242bd76f01f5cde3c2e0082b5742401e75ad9173c95.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/486bea6ee1521ffabf19d3a1f9022bc6353d930d7394ce7bb65a4e447f510327.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9cd3e4585d404503640b1297fa10787b3715021e210c6e3146ca0bdc919abe5a.jpg",
+				"name": "クインティ プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/064f141929d94f0b775703d3b67206fe8440ba529add45bc34d8581ee7818c05.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "41"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4a63d06889d2fca295af85fb18618e41b063100fc4c9432185e559f3bd737614.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "41"
+					}
+				]
+			}
+		]
+	}
+}

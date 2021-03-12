@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "00040000000C3C00",
+		"eshop_id": "50010000031037",
+		"product_code": "CTR-N-AR6J",
+		"name": "ロデア･ザ･スカイソルジャー",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 349,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7e6fa45661a79ebe2a1a5444d3705aa10917f75e1ac1bf9bc0d3c85beebac7a6.jpg",
+		"data_size": "1313901412",
+		"description": "『ロデア･ザ･スカイソルジャー』は、360度に広がる空の世界を自由自在に冒険できるスカイ･アドベンチャーゲームです。主人公ロデアに備えられた力は\"空を駆け飛行する\"こと。\"人と機械の絆\"をテーマに失われた記憶を辿り、大切なヒトを守り抜くため、プレイヤーはロデアを操り、天空世界\"ガルーダ\"に迫る機械帝国軍を撃破し、物語を進めていきます。",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-04-02",
+				"retail": "2015-04-02"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ac8d14eaaf981d889ba032df3b66756638bca9c02e34dfbc332bf3a1ddf2c6cc.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/576bd2b8459e82f5d3d7d8083ef1c2637eabafba6c83ceb5700eceaa1b61e7ad.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/334ae2171adf5fd3c905798654acf3c758f0e8f5abbb5d17279a500565c936a9.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a272bcfa0fa674a37ad654d279ce2069f65b58183c27d6c02c7da9694f894980.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/9fe23470838d00fdcea66424ffa6a6356f9413dfa0929cf7699f7837e6ff9479.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f6c9d85c384814d04abe06c12374a9bf25985f3a038ef628f37e55576ebaa8ed.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/63959cc8f5d2f6ba39c886e37b41d2753a4427cb3a45f8dbe7a936fa7aa89a75.jpg",
+				"name": "ロデア･ザ･スカイソルジャー 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/324b9b31388495a1b108aa9db3e3693d9b245e2683552c96b0cb39fe432a4a87.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "135"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/39728674a633d85b3663c2ad62fbd6c67bf64d70f0d2e5ecdbe6a0c3fbe9402d.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "135"
+					}
+				]
+			}
+		]
+	}
+}

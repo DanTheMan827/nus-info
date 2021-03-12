@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010203800",
+	"eshop_id": "20010000023448",
+	"product_code": "WUP-P-ANPP",
+	"name": "Ninja Pizza Girl",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1430,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e5a00c09a662b62a2c7b9c76160cd50b42c527952ee3d529018a091f7832a2c2.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/02a220a77d7b1f51777e0cb3fd27e5d873dd48c6adb7e468b37c7f77228229a1.jpg",
+	"data_size": "2582413652",
+	"description": "En un futuro no muy lejano, el tráfico urbano es tan malo que sólo hay una manera de entregar una pizza al otro lado de la ciudad en 30 minutos o menos: ¡ninjas adolescentes mal pagados! Ninja Pizza Girl es un excelente juego de plataformas con un mensaje de masa gruesa. Muestra un ambiente de plataformas retro, un modo speedrun elaborado y graciosas escenas dibujadas a mano por una auténtica adolescente. La historia trata de Gemma, una chica de dieciséis años que trabaja como repartidora ninja en una pizzería independiente de su padre. En un mundo en el que los barrios bajos se ubican en lo alto de los rascacielos, en el que las poderosas multinacionales explotan a los pobres y en el que las pizzas de calidad son difíciles de conseguir, Gemma debe luchar por ser fiel a sus ideales y mantener a su familia y su negocio frente a los enemigos más implacables que cualquier adolescente haya conocido: otros adolescentes. Ninja Pizza Girl. Por la familia. Por la honra. Por la pizza.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-10-06",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/77ac4efb29f1249fe58954d6b08f035f3774604dddfa7ff40385ed0b9ad24bcc.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/26ded1a4f5d50fcbcd25f2b4f9eda14536fe29935a05dd2bf8f3aa1e9e14adbd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6e24fd910b4892cfd3d75e5522f89209a27acb1aa58b31ead3f5f6f85ce6e3ee.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a28168a28561b9aea667fc074fcd24b46daaa048ecc2e804ae24205127ce7500.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/eb395ddd4bae6003be8456b7608a417f1924d060daa965310bfe36ef2aa7adbc.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/cf354162b1dcae348b2a3641199deaa6607d34fb7929260267fcbf78ca22ff5d.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c220514e315b374b7e247872efa825f8e2a92fcd1e993186c59bacb772bd928a.jpg",
+			"name": "Ninja Pizza Girl: Vídeo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/16eed5ceed29bf2f00072e382b3c7e4b8224adb2e612d10d9cc83375c698d9d4.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "48"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c613816f66a402355911686ad7443cb297c32af9af13a8c1b4e96bb396be7fd7.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "48"
+				}
+			]
+		}
+	]
+}

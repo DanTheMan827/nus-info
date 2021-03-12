@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101B5B00",
+	"eshop_id": "20010000018027",
+	"product_code": "WUP-N-FE2P",
+	"name": "StarTropics™",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/779351b0e91d2c3c7d88560a09bf12be412ddadc08d91fad87bc3810ada335f8.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b078632baedb4bf62fb7e45d8aecceac2bd7b8b0d0870a6b716d92d28d6a431b.jpg",
+	"data_size": "40042656",
+	"description": "Mike Jones est un garçon ordinaire qui vit une aventure extraordinaire. Quand son oncle archéologue est porté disparu sur une île tropicale, Mike se jure de le retrouver et de percer les mystères qui se cachent derrière le décor paradisiaque. StarTropics™ vous propose deux phases de jeu. Explorez l'île à pied ou dans le sous-marin de votre oncle, puis combattez des monstres en vous aidant de toute une panoplie d'armes et d'objets. À sa sortie NES™, StarTropics était accompagné d'une lettre de l'oncle de Mike lui permettant de progresser dans son enquête. Dans cette version pour console virtuelle, vous trouverez cette lettre dans le mode d'emploi électronique. Si vous possédez ce titre sur votre Wii, faites un transfert Wii™ vers votre Wii U™ afin d'obtenir la version améliorée à un prix spécial ! Ceci est la version américaine du jeu.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-09-03",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/7c8c0a1e7609ea9871a9c4064f50193f246bdeb2d7c8ee283e5d31898a0d49e1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5d49033ae10ff936e5c3bc3300dafbaaee853a8693c8556959c66f413f3ef80f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4cca74a94ec7bdbd885aef68094414b6b10e4df625c2192fb53bd122e48852e6.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cdd765421b450c46496eda28f7a323af3574827b416b736297852b1146984eb9.jpg",
+			"name": "StarTropics™ : vidéo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/50207f9770c8610a9580e226f67c6dc9e0151e637852fc9e8da390b4c0f5143c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "40"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/84be1b1b78f2b7889c2fc7c8ed4c75ce7b50da51260046216619e65d29d45ab0.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "40"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101B8D00",
+	"eshop_id": "20010000020067",
+	"product_code": "WUP-N-DARP",
+	"name": "The Legend of Zelda™: Spirit Tracks",
+	"platform": 169,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/06420fb801e89949b447dfb3c36cd36517baf531688b6299e0b9e9aa8dea9b49.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c5e29c2a773e8cae44356af0f56f399bf333ab8315039a707a26a1b8afc84039.jpg",
+	"data_size": "117473400",
+	"description": "Todos a bordo! Link parte numa aventura para restaurar os carris sagrados e impedir que um demónio antigo se liberte. Conduz o teu próprio comboio e explora um vasto território sobre carris. Como maquinista, és tu quem planeia a rota, define a velocidade e enfrenta inimigos e obstáculos, abrindo caminho com o potente canhão embutido. Podes também utilizar várias armas e itens, incluindo Whirlwind (Furacão) e Spirit Pipes (Flauta Sagrada), soprando ao microfone!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-11-12",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/beaf174cb184965848398670d1f14473e119667662b84ba4d6b7f93d2e0296b5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2cf408157ebad7d735b0de0ddd1f0c283d03e3190e3c668f81b8f25ce68017ea.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1742611bde7080aeb636e8b9ba24a8009ff5dade97217ddcd4971a513da35616.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8837c39c373ab77cd12fdc997cd39385c18b5922e856a200dc72fd0863d9edfe.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e34010991e6232a6d101ccdcd2048aff8a7e5ca15fcdaf985b9438bdeeac3259.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1c6545a47b96eb4dde99a1695fcb1d8cfa42935ed521c6d214e323a953787c72.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b6c168a0eff51f9962cc776190946bcb732367704ca3bec9ca13c28f959896f8.jpg",
+			"name": "The Legend of Zelda™: Spirit Tracks: Vídeo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/684c076c6cde9c3bd55ad06694c0970d2acf46102d387f261f92a0aa17cc16df.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "66"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0e11e48a7548b6cb5f0fe1a49d340327013e4c342d8e188b127d5ea19714f202.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "66"
+				}
+			]
+		}
+	]
+}

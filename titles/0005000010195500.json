@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010195500",
+		"eshop_id": "20010000015747",
+		"product_code": "WUP-N-MN2J",
+		"name": "サーカスチャーリー ",
+		"platform": 167,
+		"platform_device": "WUP",
+		"publisher": 149,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/58853001367c916ee2e872c2a6b05866a1d371652487656f7c760be4e6cc5190.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e9dcbfdb8436604d0546a7adb07a1f8a7e1c185c37df2d25e219fbc243bd33c8.jpg",
+		"data_size": "78708876",
+		"description": "本作は1984年に発売された横スクロールアクションゲームです。 プレイヤーは大観衆の拍手をうけるため、人気者ピエロのチャーリーを操って火の輪くぐり、綱渡り、玉のり、曲のり、空中ブランコの5つの芸をこなしていきます。 どの芸もクリアするには、細かい移動や加減速、2種類のジャンプを使いこなしていくことが必要になります。 ただ進んでいくだけでなく、複数の障害物を飛び越えるなど、大胆な芸を見せることが高スコアへの近道。 タイミングが重要になってくるので、何度も繰り返しプレイして感覚をつかんでいきましょう。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-06-24",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/0807a7a2c8a83e29c3cd42106bfd9b8ae02ed4089257c6feb6111ef587145155.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/4b883b1b3fcf554f349767f7e5e5d1066befe09a017009bd262f2e7ed8d028a8.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/c5bd4c9f45010541c54eeed3c4f20ac5a1c175196157a956870f2dd7b69cd98e.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fdeac3e4781a9c64714ddee7c0cda994a9a1c5738895a533e14e45bfd232c101.jpg",
+				"name": "サーカスチャーリー プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d19372d98481185806c203184c11cf5a3400b4d64738aeb89a69a69870108bd6.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "50"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/908639bee504a1239d2c42eec75e26b80c1fbecd48c5027872ca9589ba4e88b8.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "50"
+					}
+				]
+			}
+		]
+	}
+}

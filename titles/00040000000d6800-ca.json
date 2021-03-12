@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000D6800",
+	"eshop_id": "50010000028855",
+	"product_code": "CTR-N-JLHE",
+	"name": "League of Heroes",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 96,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5e03d3f382bef08324e66eeb17b7ebe22baa89646bc156e30798ed6e0b5012db.jpg",
+	"data_size": "90631012",
+	"description": "Become a true hero and save the villagers of Frognest! A NEVER-ENDING STORY Hack, slash and pummel your way through the endless Frognest Forest! GEAR UP AND CUSTOMIZE YOUR CHARACTER Kit out your character with numerous armor and weaponry options – then design the best strategy to defeat your enemies! EVOLVE AS YOUR ADVENTURE UNFOLDS Earn experience, discover treasure and unlock a slew of cool items, including magic! COMPLETE QUESTS Complete 60+ daunting quests and earn valuable silver coins! BEAUTIFUL HAND-DRAWN GRAPHICS AND ANIMATIONS Immerse yourself in spectacular 2D visuals and awesome animations! PERSONALIZED, WEATHER EFFECTS In League of Heroes, you can enjoy changing weather and time-of-day effects! You’ll experience thunderstorms, cloudy skies, fog, nighttime and much more!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-12-18",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/91197d8bd02354aad1a3d1e8cb8803b4dc838e017c1b8a5719cb36aadc65269e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0d57bfb986e80566dacf2f0ffbabf4f2baf0067ea6aa947c4492afd9a6994205.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d4b9685524bf43954990ac0c1d83ea5806b5a52c9ad2a5ec96d44071653794da.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/20e025b3d8e22d8021cd44ecb2fed76532cccb73e7a469a1f0946aa4c046403c.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/eace5db03234521748307c013b52dded381824cc3cb6ab2d2b2b159887ffd61e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9f9604daf0f160d42982beae2cc71cf5b42319a3722abb33e411236784be9d19.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a44d14e72d72c7a5250ce8a3199ebc22f6b43025034232a24db70f772b3366ae.jpg",
+			"name": "League of Heroes Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8a67b9d6d4dfb7824fca29f811c2092c2b037286ec580c955f4a72b3b44f9292.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9169e11e7eb448eb9d1c51b5eb91bac7ad9cfb6fd8ab6acbf4aef9e63657347a.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,103 @@
+{
+	"title_id": "00050000101DF500",
+	"eshop_id": "20010000021028",
+	"product_code": "WUP-P-APKP",
+	"name": "Pokkén Tournament™",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e7c4a338397fce27d548fbea421cc3e51339d44ab66de9212b6709b8ed13af65.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e72d6a7b251ed096701c10caa6ebb69fbd06d5e827bbf691e8a5a2238dac2986.jpg",
+	"data_size": "3759571364",
+	"description": "Experience a new kind of Pokémon battle in Pokkén Tournament for Wii U. In this intense fighting game, Pokémon appear more lifelike than ever before, with amazing graphics and smooth, fluid movements. Developed in collaboration with The Pokémon Company and BANDAI NAMCO Entertainment, the developers behind the legendary fighting series TEKKEN, Pokkén Tournament brings tight gameplay and incredible control to never-before-seen battles between Pokémon. The gameplay is designed to be enjoyed by a wide range of people – even those who have never played a fighting game or an action game before can easily pick it up and play! Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2016-03-18",
+			"retail": "2016-03-18"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/08491a450f5cb8a123d8062ffe5f538824d87e7763aa25d2d742f23a8d776df9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3e7ed429e2d0f19e55ecfb7c7557cfb26dfec7aa9078b08568b6cf03aaa96914.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f99c4d93e04753e1a0d03c7331caf9226c0d92ca676856f3450483e32f22433b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/13222450e9870d943be39409948bc3d703ad8bbcd56a9c2c00b7a8fd52a94ce2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9cf2b6fbf844457319f19b10983edb90f82a1be55c48822a6908c4366c76e022.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2f43c083f1e7f0d6edcbe7d834e901f9a03b982962f8bed1164f991ca9f19391.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/39520a19d223108a48f59ed13576c327ffc3fa3df796369d49e16661b3b151b5.jpg",
+			"name": "Pokkén Tournament: Accolades Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5b2e3f3e591d53ae5e2717db0948e498736585d0694e8b3c16246342f3fac371.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "80"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/12197bf77a0a0f669066848af26e07e54e98a1c8e387aa803d0484726a38db49.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "80"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/39520a19d223108a48f59ed13576c327ffc3fa3df796369d49e16661b3b151b5.jpg",
+			"name": "Pokkén Tournament: Launch Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/686150954e263c05edf4fbcbad9d7aa69dcf449bc43b0e5a64dc11fcbd7c0316.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "143"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fdf9ba214bcc678dcd44a1076559f5377e55243690c4ce54b507693a623d6e53.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "143"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/39520a19d223108a48f59ed13576c327ffc3fa3df796369d49e16661b3b151b5.jpg",
+			"name": "Pokkén Tournament: Opening Movie",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e468afd076429ca98fb30b82fa836fd3be9c5e5b9b0ebc9f178c751b4c319725.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "133"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ee75619010279b1409488659ee042986e88a3cfc15b75e312bc93d072cadbe0c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "133"
+				}
+			]
+		}
+	]
+}

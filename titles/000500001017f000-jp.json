@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001017F000",
+	"eshop_id": "20010000011047",
+	"product_code": "WUP-N-FDNJ",
+	"name": "ワイワイワールド2 SOS!!パセリ城",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cfc7edafaf68c1daac43df99a6d522c3924890560b1664ff8fc4a0f55aea3b33.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4647ca87dc15c3d6a4a6885037bed0b0c2f28b1c5925c188cd49d6c67df0d806.jpg",
+	"data_size": "39026848",
+	"description": "このソフトは、1991年に発売されたファミリーコンピュータ用のアクションゲームです。 主人公はシナモン博士の作ったロボット･リックルを操作して、ハーブ姫を連れ去ったワルーモンを倒すため、ワイワイワールドを冒険します。 冒険するステージは、アクション、シューティング、パズルなどのジャンルで構成されています。 リックルは変身用のアイテムを手に入れると、さまざまなコナミヒーローに変身できます。変身には時間制限がありますが、回復アイテムで時間を延長することができます。コナミヒーローはそれぞれ能力が異なるので、ステージに合わせて試してみてください。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-09-02",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/3f354a4b8fbe4e474075327c3d670acf3e38db2df6e9f8a5ba7605159981db73.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/535751286e233e6eb8d9cc38f68a469e05e82a9c6889b3e98ad2af7896b4f7bd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6511ebcc1e4c21e2168d7aba5559b6e4f02fd19099828d9ff5f7cbfb8d7adb08.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/65720bf9fb38ae2065202d5a495a30d7ebcf084f60e953c5b7bce43036de3159.jpg",
+			"name": "ワイワイワールド2 SOS!!パセリ城 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4c6ba29826957109618b43f3f61e918a540fdd96552056deaa2265a18dd67b49.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "68"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/58c583e44b2a8a197bfad208c39daf600d8b778cb961f48d971df048331eaacd.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "68"
+				}
+			]
+		}
+	]
+}

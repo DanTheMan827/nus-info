@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010141700",
+	"eshop_id": "20010000004704",
+	"product_code": "WUP-N-JBTE",
+	"name": "Mega Man™ X2",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 39,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b3fc3509a46c01dba2a916210e89a670595408caae5dc6b3f324b9b74475e588.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0ecfc2286e44e740ca38d8dd15ead6f93b5f39fdc49f49d6d9bfddd59dd28ec9.jpg",
+	"data_size": "41353356",
+	"description": "Tras derrotar a Sigma y a sus rebeldes, Mega Man X sigue el rastro de los malvados Reploids hasta una fábrica abandonada en la que continúan planeando su rebelión. Mientras Mega Man X se enfrenta a ocho rebeldes totalmente nuevos, una nueva trama amenaza con resucitar un arma secreta muy conocida. Guía a Mega Man X a través de ocho niveles en su intento por destruir al resto de rebeldes, obtener sus poderes y descubrir la entidad secreta que los controla. Ponte a los mandos de nuevos y potentes vehículos como la moto de ataque móvil y, con la ayuda del honrado Dr. Light, descubre nuevas e increíbles habilidades ocultas en cápsulas enterradas por todo el mundo. ¡Solo entonces X estará listo para enfrentarse a su destino como cazador de rebeldes!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-01-02",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/6188bf1e10fcd5191ac6001eae301d5996657452f5136eaad5a20287bb23be5a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/80c5f37d1db3e3b72d6e54d9f4a6fc5fc3c29c2ee9fb2a52ef919b27af95e906.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e22b0dcef55040077de3552b6a8dc585df3041cad05276461fcbf493665da3ea.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6775f436d634ded9d4f9647a7a8ea61e3f4e88f9001e03dbfaa771163a07edd9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/560faf54751a7980964e352699098f792a91eae2ecdec3476679b3216f0d61c5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/90a6d26f3d96d076cda4720fb15660a037a0497a395da9e65163bc9fcd052b61.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2fa1d97f0eed5662451d3f4e399e3a88b34cbcf80697f4af21af256ee4b9f732.jpg",
+			"name": "Avance para lanzamiento Mega Man™ X2",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/745f55b34a8fb3c4fd702d29be6e15984ddcd42719deb2ba787eaf814dd66b11.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0c936b4274f8f4d8fa14d0c5da79aa88e4b71de37b4b8661569f5785817cb641.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				}
+			]
+		}
+	]
+}

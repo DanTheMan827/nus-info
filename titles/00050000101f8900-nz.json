@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101F8900",
+	"eshop_id": "20010000022667",
+	"product_code": "WUP-P-AJHP",
+	"name": "Twin Robots",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1536,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/46b43f0e406f0024319694ef33c34c354c7a7a12322c2620d048c367759a351c.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e62876953053f04610990f0691dc0169cda34be6085b891f5b8410923a9f7790.jpg",
+	"data_size": "165281932",
+	"description": "Twin Robots is a 2.5D platformer where you can switch control between two little robots; They have been imprisoned and need to find the way out of each level! You can play alone or with a friend in local co-op multiplayer, so that each player controls one robot. The game can be played along its 28 levels alone or in cooperative mode with a friend thanks to his split screen gameplay. Features: Strategy thinking: Manage your energy levels through the level so that you can safely reach the exit and charge the last door to open it. Puzzle solving: Some levels require both robots to help eachother in order to solve easy puzzles. TV Border: You can adjust the TV border so the game fits your TV completely. Local co-op: You can have some multiplayer action!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-06-17",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/5e59ca34746edf5ec21bb7379eba86cb9ab67ed02f4b065022e9c20a030bfe51.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8c4e062e3bf615f0e929879d5c12da8755370ed98278177eca248e237c527cd5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ee76b655939080c1590c107d4c4ac5a1a0511c0d4fc658afb3c256df0becec52.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9573e13baa74048aef3e9371530c5bac9097c2afd18514db995398a6e6186701.jpg",
+			"name": "Twin Robots - Launch Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/062f4b0d38d7c3bf6f4a313a28f0b7bbde747c00e11f6886ef946a17ce02dc4c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/12f0b79f03dda6b86f7af88b66e60b42995d5b6cd592ac3ab7639ce009dfa9b0.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				}
+			]
+		}
+	]
+}

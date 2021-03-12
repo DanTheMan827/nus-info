@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000031500",
+	"eshop_id": "50010000000084",
+	"product_code": "CTR-N-ADCJ",
+	"name": "nintendogs + cats トイ･プードル & Newフレンズ",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5860c1b804d33a129880185dc84ba7c25e1bea4c4534a3be9a983c33f6e0b0b1.jpg",
+	"data_size": "470829924",
+	"description": "ニンテンドー3DSの3D映像で見る子犬や子猫たちは、手を伸ばせば届きそうなほど。 ふれあうほどに仲良くなれる子犬や子猫と、おもちゃで遊んだり、お散歩にでかけたり、ときにはしつけをしてみたり……。 「nintendogs + cats」では、子犬や子猫たちとのそんな日々の生活を楽しむことができます。 ニンテンドー3DSで、子犬や子猫との新しい暮らしをはじめてみませんか?",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-01-30",
+			"retail": "2011-02-26"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e4f16bdf3deb04bb2c7f25d5b1cef732f797b67d901acb52fd8f53d9723b4069.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2a95be5688ef0ae1d8339a69b1be53ff8b74251294041df9dfdeb4bcd91815c8.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3d87fa4a1f988e31f11ee28419dc4c948086fe9b47098ad40f271a6dbe2b99a1.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/bfdc882a71e95622388100d68211b80d4e99c992269cbf6704a4f199af1b77cd.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/60273f22a4a3159e12fc677dbc1f99460605d9c3527e152ee868a5edc54ca487.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/3b57efae859b3d3e5b638e502a78fb9fbd79cb5ff5493217d6e0229742468875.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1c7116bb362069a3d52b10659a6707ed29aa9bb9b6c1d6553baedb4a909fb89d.jpg",
+			"name": "nintendogs + cats 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2945b8e8ee1421a297f6bd2f1842227ac4a8e2abe3d79bf6e27b7ed38e054b1a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "350"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fd3e0343b91933e1a357a855e77adab511e3a2a0c364d2cbc9d7c8bbc3042185.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "350"
+				}
+			]
+		}
+	]
+}

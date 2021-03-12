@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101DA100",
+	"eshop_id": "20010000021987",
+	"product_code": "WUP-N-DA2J",
+	"name": "マリオバスケ 3on3",
+	"platform": 169,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c64f31dfcc74e7a7f52d85d8d13b7785aa5a398c3c20d7085ddb5681833e9bd2.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/560d3e6dc79c458892d95c18d0db9564c8874a41dbfc16014f04b80e5d61f2a6.jpg",
+	"data_size": "86540408",
+	"description": "このソフトは、2006年に発売されたニンテンドーDS用のスポーツゲームです。 3人ずつのチームに分かれてスコアを競います。『スーパーマリオ』シリーズのキャラクターはもちろん、モーグリやサボテンダーなど、『ファイナルファンタジー』シリーズのキャラクターも登場。コインやアイテムを駆使しながら、それぞれのキャラクターが持つ「スペシャルショット」を決めましょう。 ハテナパネル上でドリブルすると手に入るコインを集めると、シュートを決めたときにスコアに加算されます。たとえば、コインを30枚集めて20ポイントシュートを決めると、一気に50ポイントを獲得できます。「キノコ」や「こうら」など、さまざまなアイテムの効果をうまく利用することが勝利への近道です。 ※おすすめの画面レイアウトは「大きい画面レイアウト」です。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-05-11",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/b0320abcdb19053e85e4a3877fe59c5ef12dd8d2a66d06ed987c3858f5f63152.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6135a5eefe1e3ee07fbaf1f94f916d44e80cee4bdc13a54cb7167b60c54eab16.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5165fc1945f218f3c47fdde80d6086a033bd8979a0f860274f1b82d34db3c289.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a49b3c230271e2b177e573dbbb62e204c75dcd05290b575b37b17cb53ef43b24.jpg",
+			"name": "マリオバスケ 3on3 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5f5d06498780a850a5d6f701ba42fdebe329ffa95f84247c0ee650001106cd07.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "47"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3216a903f68a79e78a49e814e5bd638d5c7fb6fc68b5da2c765961c11a8c8b98.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "47"
+				}
+			]
+		}
+	]
+}

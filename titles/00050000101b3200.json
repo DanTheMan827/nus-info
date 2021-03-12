@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101B3200",
+		"eshop_id": "20010000017147",
+		"product_code": "WUP-N-AZDJ",
+		"name": "ゾンビディフェンス ",
+		"platform": 124,
+		"platform_device": "WUP",
+		"publisher": 882,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e8192ef897a60fa09118b10b792aac425399215f810f3cdf7b82c40a04a34a3e.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/764221ebb0bed951f50f65a287970f3314ae1d6448ac56f7c3843938d0373c86.jpg",
+		"data_size": "402423968",
+		"description": "『ゾンビディフェンス』はリアルタイムストラテジー&タワーディフェンスゲームです。 ミッション現場にあるスポットにキャラクターや武器を配置して迫り来るゾンビをドンドンと倒していきます。ゾンビの動きに気を配り、キャラクターをスポット間で移動してダメージ回避しましょう。手榴弾や火炎瓶、無人機関銃などで遠距離攻撃も可能です。 ゾンビを倒すとお金を稼ぐことができ、お金を使って新しいキャラクターや特殊武器、キャラクターや武器の攻撃力アップなどなど全部で98種類のアップグレードを購入することができます。 キャラクターや武器を配置してただ放置するのではなく、リアルタイムでキャラクターや武器を強化したり、1人のキャラクターを移動してゾンビをおびき寄せ、ほかのキャラクターや武器でゾンビを倒したりと、状況に応じて変化するゲームプレイはクセになるでしょう。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-08-05",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/b71df5d9db059aefe7341c799796c691e856353482b34c9bac9534fda9f231e0.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/3cd252aa9424c3bb93cd1ab61ed21f0f0e2ca661e048e2be0c21d62e531cd6ef.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/354dfa1544f1dc8dbf20607ebb5c68bed93fa81e77a065720795aa2726dd496b.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9ddfc674fa829eb596815ecc450c4ad6fcc65bf6ce1fe79c6287b7f37d4568ab.jpg",
+				"name": "ゾンビディフェンス 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4ba781277494049d5964ea1f7b1adb13a6b45dc62e85469255f23276d5871682.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "66"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3de22a9a5b3d357820664f9efa538ee4b777cad3e55b0e1dcad6affbc1c42156.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "66"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000AD300",
+	"eshop_id": "50010000012791",
+	"product_code": "CTR-N-JA2P",
+	"name": "Hydroventure™: Spin Cycle",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/179a9ee9c7f218d87048b5f47a8e093b610de15cc8ac2d4d6513432699761ec6.jpg",
+	"data_size": "190802788",
+	"description": "Играйте до головокружения! Hydroventure: Spin Cycle — это захватывающая одиссея водного духа по имени Eddy. Он отправляется в странствия, чтобы спасти друзей, застрявших в магической книге. Для этого главному герою предстоит пройти множество уровней, каждый из которых — особая история. Чтобы перемещать Eddy в пространстве, наклоняйте систему Nintendo 3DS влево и вправо. Вас ожидает масса головоломок и поединки с монстрами Goop. Не забывайте, что нашему герою под силу менять агрегатное состояние: в виде кубика льда он может примерзать к стене, а в виде облачка — вызывать молнии и дождь. Приготовьтесь к головокружительному приключению! Вместе с Eddy вам предстоит пройти огонь, воду и медные трубы. На некоторых этапах игры текст, не имеющий прямого отношения к игровому процессу, приводится на английском языке с целью сохранения атмосферы и колорита игры. ",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2012-12-13",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a9c8f46f2737a796b70ebbfd524e9d1b95bb72d4f817721e88b0864a5ca3ec16.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5d010dee2a214dcb5b57999edf6b44dd11fe1fb1e3a6ac03677b914cba54e1e2.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/df324eef7f29203defbfe44da4400b635d640e262a59b4bc80b5086f4c028492.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6d98d5d591239424eba6ff39d69b59144afcec523a6cea2a21f6c56715a28d51.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/92e39be679018b306cc17c363c66e4fc892a9f23d7744082a2578ff6c85283fa.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/82f5349e2f57e8ba9e63e5b26a9ef0540d52a71dad7507e074cff5d883f460a4.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/aba0ddcb20aa97d821c5764ad3e8e859e4638fd90fe3616ee8298f3bc8a6c6eb.jpg",
+			"name": "Hydroventure™: Spin Cycle: трейлер",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7f5c1b29fc714c31500d638e46722290468ba2ce6a54d7c05d9e922d141ea3ca.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "77"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3b4b00b17fc7cddc4181a349126afa8a502e0e14f5237c646230939a60f24481.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "77"
+				}
+			]
+		}
+	]
+}

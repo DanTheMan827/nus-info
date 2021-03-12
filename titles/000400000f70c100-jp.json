@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000F70C100",
+	"eshop_id": "50010000042961",
+	"product_code": "KTR-N-CFMJ",
+	"name": "ファイアーエムブレム無双",
+	"platform": 1002,
+	"platform_device": "CTR",
+	"publisher": 267,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e633806c635c9574c9caa1404b15528eb27d28336c7a4715f4f5ed7bafb3066f.jpg",
+	"data_size": "2203339620",
+	"description": "ロールプレイングシミュレーション「ファイアーエムブレム」シリーズと「一騎当千の爽快感」をコンセプトに進化を続ける「無双」シリーズがコラボレーション。英雄たちが集結し運命に立ち向かい激しいバトルを繰り広げる壮大な物語がお楽しみいただけます。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2017-09-28",
+			"retail": "2017-09-28"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f03e191685765ed8f78167806b9437343170f75c4266cef570ff0626f937be8b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7ad1824038580bcc51d2174703a42da80655dda08176cf3e3c29d92e70c9837d.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e241782bc1012f7d655d890ff87ae7deeccf9b5d8233714dae2a4e5387de0302.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d9b7528da2ab29a879671997c86a61c3ef4d66ecf3d3de23717fc1ee92e9bd77.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/942576243ad986be53d3c7ade4a9c0ef22b53d260162c9586f0e47a6f105ca15.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/de5d0c78508923a037a846b08696111869f1173dd3df961f28b6d434839c41b1.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3440950e068f020613461bdb961946524f86ace80bd63110c820d1ea5cffef98.jpg",
+			"name": "ファイアーエムブレム無双 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/46386b6bce58e95b1c7a911a02517e92d576f9fcfdad4022723eb4a57ea2edf8.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "115"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bbd09b8f718cc04982cc4516ebdf5963f2899c5a52ca3c1e9a29673c06ba63d2.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "115"
+				}
+			]
+		}
+	]
+}

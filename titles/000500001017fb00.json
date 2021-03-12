@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001017FB00",
+		"eshop_id": "20010000008471",
+		"product_code": "WUP-N-JCXJ",
+		"name": "スーパードンキーコング3 謎のクレミス島",
+		"platform": 164,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e5f9dcdd4212c570e679f5a3de227a05d4c7619e62e10ed6bca1c37e4df77fed.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/58e1b51cbc62349c8600ed6d0e1bd0ab0140b7bc415a1545dabdd0511dce461b.jpg",
+		"data_size": "45940896",
+		"description": "このソフトは、1996年に発売されたスーパーファミコン用のアクションゲームです。 「ドンキーとしまをたんけんしてくる。あす、もどる」とメモを残して出かけたディディーコング。しかし、何日たっても2人は戻ってきません。心配したディクシーは赤ちゃんコングのディンキーを連れて、謎のクレミス島へ出発します。 ディンキーはまだよちよち歩きの赤ちゃんですが、大きな体と強い腕力を活かして大人顔負けの活躍をします。体の軽いディクシー、力の強いディンキーと、それぞれ特徴が異なるので、場面に応じて使い分けましょう。クレミス島のいろいろな場所に閉じ込められている「バナナバード」を助けると良いことがあります。ぜひすべてのバナナバードを見つけてみてください。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-11-26",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/29ada1ba54536d2ac434befa80c5acf5ce2695f2ca963c006725b596a6d8a91e.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/626405be91d8b406f4706bf1ecdf44a09a862f84de9fca5449a1f666d8d01de6.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/f5b8e04d19bc461d2706f7fc1c3c1b2c3cbc1eaeecfce032d96242e09fb9b2f5.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4ee898a38f47afc35075b526b17a70db2f62d1e5cd4764b939b353aba0ca4b11.jpg",
+				"name": "スーパードンキーコング3 謎のクレミス島 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/02005ddfa8ac8a33e249615f45849330a60f36039d3adb09e20adcc47382d303.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "46"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/764eab1bec43094151252c416fe185d18303d265fd31d364a5d742206d712cb2.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "46"
+					}
+				]
+			}
+		]
+	}
+}

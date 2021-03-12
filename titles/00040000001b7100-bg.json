@@ -1,0 +1,48 @@
+{
+	"title_id": "00040000001B7100",
+	"eshop_id": "50010000042479",
+	"product_code": "CTR-N-BYWP",
+	"name": "YO-KAI WATCH™ 2: Special Demo",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": null,
+	"data_size": "450870116",
+	"description": "In the YO-KAI WATCH 2 Special Demo you can explore the town of Harrisville, a charming village where you meet Hovernyan for the first time! Discover the town, battle Yo-kai and keep an eye out for secrets...",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-03-09",
+			"retail": null
+		}
+	},
+	"screenshots": [],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/936163a4a2f2c238c0c42fd6af9464c1346831b75d58c8174880d66107bb9b10.jpg",
+			"name": "YO-KAI WATCH 2: Introduction Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/19f5a54e345d2e95eab646747e7acc06e81f9da2d54f4468a2fa5714e503425d.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "165"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0fcdec1843face9f98f31e66d6a0373b269e3e4938ef8234e4273beaadb89f75.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "165"
+				}
+			]
+		}
+	]
+}

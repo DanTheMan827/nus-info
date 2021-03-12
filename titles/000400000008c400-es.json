@@ -1,0 +1,85 @@
+{
+	"title_id": "000400000008C400",
+	"eshop_id": "50010000021615",
+	"product_code": "CTR-P-EC6P",
+	"name": "Tomodachi Life™",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6accdd6d7d22e62c56f654aee0f6d0f0ce0b1a1163de78450cd3d977ca1fab7b.jpg",
+	"data_size": "439667556",
+	"description": "En Tomodachi Life para Nintendo 3DS y Nintendo 2DS, podrás vivir tu vida en compañía de unos personajes Mii diferentes, ¡porque tienen vida interior! En una isla habitada por los personajes Mii de tu familia, amigos o de quien tú quieras, ¡cualquier cosa puede pasar! ¡Estarás deseando volver cada día para saber qué ha pasado con sus vidas y contárselo a todo el mundo! La versión completa de Tomodachi Life incluye dos códigos de descarga de la versión de bienvenida para que puedas compartir un pedacito de la vida en la isla con dos amigos o familiares afortunados en sus consolas Nintendo 3DS o Nintendo 2DS.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2014-06-06",
+			"retail": "2014-06-06"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/96b445cd21d5c2949aaa9b6b841612d057e232aa48caff0d7cb3e03461c83845.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/bc5ad229fd85962d7e092c820dda2366d9f1f41774ed4300850340e1f14b7737.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8ce3ace945d33c27098f5258f362c97c3fa32842fa3b4b4cdc70479c83efc473.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5ff064fbb2867de8ad4fcf4449279a88d6b1c49002e6b27fe6d0c2fa08f9338d.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/94050eada258803e8e05a4014c54a5e85da84199b62e8b469f2dcab690c2f914.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a18d07da3163521fbfd85811a22eb704aed29eff8e9e9fbb0752f90f8373e473.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fdd12f7a6f0cf44523a75cf84351672152f80b740c953919146aea5b787b1065.jpg",
+			"name": "Tomodachi Life™: Tráiler general",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/986352c8e93eb542a86f6b612fd32fe80b7872465bf0c842f5d11c964a647dfc.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "224"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c1665e5d1ace81a18fbfa0434aaf4e9601791686251f0475711065913ac8f768.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "224"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8be7003e390d0bb2eee5edeb4a32ca3c2202641dc2aa945c558a57af97289588.jpg",
+			"name": "Tomodachi Life Direct 10-04-2014",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9133ded84404e9ca2bd95cd732481cb44610708267dc9cbfd8f9b151828f057a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "644"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/18a04a3f1446bea519b2aeccc048534d9386f276a01a6628ab4ab0b8a712b75f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "644"
+				}
+			]
+		}
+	]
+}

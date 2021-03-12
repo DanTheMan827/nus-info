@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101CCD00",
+	"eshop_id": "20010000018949",
+	"product_code": "WUP-N-BRAE",
+	"name": "The Rivers of Alice : Extended Version",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1217,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c3ed2ac0dec52e1b8b42f1cdf8aa308a6c121d094e28d3efd9c83e6e7e2d794f.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/54afbd044c583e9bce53c01a27ad0d271f720a9a6dbc465621c65cb01dbe3cd1.jpg",
+	"data_size": "649461940",
+	"description": "Whenever Alice falls asleep, she enters a world of fantasy where the player must help Alice face her fears like Sloth, Envy, or Lie. Enjoy the leisurely game-play, beautiful graphics made using watercolors, ink and graphite, and the original game soundtrack composed by the indie-rock group, vetusta morla. If you like adventure games, good music, art and, above all, if you are not in a hurry... This is your game.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-10-01",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/d7945dd11526098175bf870bf7131364bd13acd9000fe660c43f48fac86a70e5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b8282a228cc85761075072080576342997f8e76896de4ebed3c7ca28c53b4477.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/977b8ed9a37a6bf1a890c9e10590a6b22e84feba42845615470de3363a499ffa.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e348b6dccce11b1a9864887f1792f5bb243d696f7eb97334a8cb279ee40644fd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e8dc445844ead9f4ce8af68d6aff4aaca2b29bd673b44fedc8af55ef57a182e8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5e2e232abd56e169fc1cb67e561b2f47da6c44757b170751d5822c39d9ed6215.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e833ea2da215a565eaaf14ee294940bc5b4e9e7624fae6b95971b211835d3324.jpg",
+			"name": "The Rivers of Alice: Extended Version Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c951d4bdd0f2747a77c1adf71fdc18cbca800050f5c92b886a98750ee03a4a51.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "132"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6445625fede55923af98eb893313955c854d97871d4bffa7d3a7969bd60c95f6.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "132"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000156900",
+		"eshop_id": "50010000030117",
+		"product_code": "CTR-N-KJSJ",
+		"name": "@SIMPLE DLシリーズ Vol.37 THE 巨人走",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 57,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0ce458b851ef61bf6e4d094a7fb108170c56b59cfcd0851b2f9b531528733b07.jpg",
+		"data_size": "34646884",
+		"description": "■巨人となって町や山を壊しながら突っ走る爽快横スクロールランアクション! プレイヤーは巨人となり、木をなぎ倒し、家を踏み潰し、全国各地の建物を壊しながら日本中を駆けめぐります。 ありとあらゆるものを壊しながらゴールを目指すのが、プレイヤーの目的です。 ■破壊物の被害額がスコアに換算! ただステージを完走すればいいというわけではなく、街や木々を踏み潰したり、建物を蹴り、殴り壊したりすることで、壊した物の価値がスコアとなるので、価値のあるものをどんどん壊してスコアを稼ぎましょう。 ■全国のユーザーと競い合えるランキング機能 ステージごとに、自分の最高スコアをランキングに登録でき、全国のユーザーとスコアを競うことができます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-04-08",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/4d739d11d8c0574f5fb084461a3001e8da65995404d32f7b610a84a97cb59066.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8cdbbf18a91c32f127eaadfc99d71d82fcfe2c8b93608b0d856e4ec7a7482143.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/78fc535d7f0d833919b86b3ebd186c27147ed07c4a7b3c48f05d635736e5a7e6.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/79066465fb3d2c1d14c239afc38679e16a87a352a460cf487fe39fd4bbb7991a.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c85a983411300360f704fa55de86620ad3cccc3554ee0e0eb72c8cac11488bd1.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/175091aa1f2dcc5be00b157e2f4775b6e52a59faec10d96b07c32c3300025e0f.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d7327f965bd0fcd88e7220d3c6135b46bff63f2021ba5b6af1c4c9ef55f7ac00.jpg",
+				"name": "@SIMPLE DLシリーズ Vol.37 THE 巨人走 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bc3774af77065f07f0705136477eecdc724a1aa988db77d3a2f87cbe03ecee3e.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "53"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/071df7a931118633136c00d466b5d74e541c1ad5adc4d576db12270ee2878e3d.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "53"
+					}
+				]
+			}
+		]
+	}
+}

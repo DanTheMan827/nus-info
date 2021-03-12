@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001017A500",
+		"eshop_id": "20010000008307",
+		"product_code": "WUP-N-PBAJ",
+		"name": "ロックマン エグゼ",
+		"platform": 168,
+		"platform_device": "WUP",
+		"publisher": 39,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/dde4879424a26d5bcf24b5bdc451e2372420a04123332d1b714e745418c64b03.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/bbd5682ee6645953a3dfc0bcdad84f8e3d50c2a04e787dac8a9d4dde5f7e7dc3.jpg",
+		"data_size": "86737016",
+		"description": "このソフトは、2001年に発売されたゲームボーイアドバンス用のデータアクションRPGです。 200X年、インターネットなどの急速な発達によるネットワークの時代。人々は皆、「PET」と呼ばれる携帯端末を持っていた。 「PET」の中にはネットナビと呼ばれる疑似人格プログラムが入っていて、人々の生活の手助けをしてくれていた。 そんな中、ウィルスを送り込みネットワーク犯罪を起こす悪の組織ワールドスリー(WWW)が現る! 相棒のロックマンと協力してネットワークに迫る事件を解決しよう!",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-07-09",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/fa2f1add2f8e534938bd80f33d7eaab55c56c5bfbacfccb5120820567e0be448.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/a67e32613058668077896255f118b0c9fb514d7d0d24982c8d9a38050bdf3e23.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/e28ccf9bc29aba7c79dcd09470a7d52a4a9e8f1e3da52c1b179a98858703a7b6.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/618d5e501b515afaa34462e83a84454ed185bd3e207555c4995cb717062a320c.jpg",
+				"name": "ロックマン エグゼ プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ea2f76796e20f0fe40201dfe4451e319354183c5ad3189910e3ba0909b56d78c.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "60"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/dfc89d91dd7bd3d830bec3af088ae770a595389e785fa0535a04a9851451367f.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "60"
+					}
+				]
+			}
+		]
+	}
+}

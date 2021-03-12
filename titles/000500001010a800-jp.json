@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001010A800",
+	"eshop_id": "20010000001004",
+	"product_code": "WUP-N-JAKJ",
+	"name": "スーパーマリオカート",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0d9681ad60bd8d2909732ac5fd4bbc0ca0def505936945449e3611303629db0d.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e49d1f1ba1ee0a095c8c91d0f159bd41bd584f72611bb325102eb6d3d140782e.jpg",
+	"data_size": "40697996",
+	"description": "このソフトは、1992年に発売されたスーパーファミコン用アクションレースゲームです。 マリオシリーズのキャラクターたちがカートでレース&バトルをする「マリオカート」シリーズの1作目。サーキットやオフロードなどのコースを舞台に、加速重視やグリップ重視など、さまざまな特徴を持つ8キャラクターからひとりを選んでレースに挑みます。相手をスピンさせるバナナの皮や、自分のカートが無敵状態になるスターなどのアイテムも用意されています。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-06-19",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/be815b79b2fc112659fc69df53321f5b7bed34bfe6bb19ff9d906b795fd24899.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ace1cee9d6f89a7608c9f09757f4d8a5efb5191662138d4a58b9dbf2202ed329.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6ac190f513c3597f83a5c36b27fc01cbdbbf7f3dd62293b426e9cb39651efefc.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9aae12cc5dc521a0cd06ced08af9247c4d4d6809df47c476676db9af5a706ff1.jpg",
+			"name": "スーパーマリオカート プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/06d02b64602a641824c20a7bacddd6c59466aa0b3167e96926f6a083101edcf4.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fb32d2ebd77cf82f6de1a64f765d148daeb0a970d81caf79a4c4c6d3d3f8776e.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000D2100",
+	"eshop_id": "50010000015254",
+	"product_code": "CTR-N-AANE",
+	"name": "Turbo: Super Stunt Squad™",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 57,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f06dabac8e2e141d5523ae4968fad3bda9c6bcb1dd55d8461a1b8eeb3a3b87a5.jpg",
+	"data_size": "85711716",
+	"description": "Turbo: Super Stunt Squad is a high-velocity action game featuring the super-charged crew of characters from the upcoming film. Each playable character has their own signature street style and tricked-out skills which will come in handy when showing-off and earning respect with super-cool stunt moves. Expert skills will also prove useful to earn power-ups, customize your character, win competitive challenges and discover shortcuts in the dynamic larger-than-life environments of Turbo’s world.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-07-16",
+			"retail": "2013-07-16"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/997a21402ec74588b91d3ca4a56978fa7ceb88c479deed0761724d04abe8b13d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/24f7ff313bfb21c165396ab89f2027abfa7f80b724456dfb2a3c6bacf1298234.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/cf4e90d50d6602c952971c2002d4d0cf83964f3326a6926d4d5cf6d13802ed78.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4e10a6fbe02b863d0c79de337759f083229d62fd295e6b567fc948613c8a1950.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5a48e99bcb34f5d2bbefa4a3214f4ba44df1f0706c953fedb25b13861ca9708c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1f065fa006d2f2c377aad6325067251e55e6979a879c1c86f29ce49670710093.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9198eac2c774128c4c2559afc3624aad3dc2aed5330f93229d0d565dd7520a60.jpg",
+			"name": "Turbo: Super Stunt Squad Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fefe6ee90a620280036747f86255563f2690ae31b789d28df3e9f339b8c4b140.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3380e085cecac6da49728fbe5f427954001c430e6860399f1693ca53cc21fbf3.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101A9C00",
+	"eshop_id": "20010000021470",
+	"product_code": "WUP-P-BCHP",
+	"name": "Chompy Chomp Chomp Party",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1360,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/73f777c63ae0fab3c947c06a90ac0fdbd61dbf7396459b115e9412432b7b611a.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a2ccdf6b48c8f103ebda68c7e3d484ea3c6137af20bd16ee0ac2a6e724ca8962.jpg",
+	"data_size": "475005088",
+	"description": "Chompy Chomp Chomp Party is a fast and frantic game for up to 9 players. Each player controls a different coloured Chompy and has to chase and chomp the other Chompies in a variety of game modes and arenas.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-03-31",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/a4da19ac6461877cb1855c62bdb3db34b019ef8b64a0ab3cdeefb313ffdeb3d2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2e8d271665a46417935f7a26b06f6fe86b3b0cf9c7001bf67d855aa73869d4fe.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/637cc2a6472d11bf45e843b2d2fe8064de4be379e08f47f75b6a9d9a8b8e3215.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/dbd3c833964e1809b4804156ea7bde70db76381ae898d75131e3a089d39b6627.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/049b58ae6e9d35913db702e3bab422389a3cccb9024a33fd625bfea894fc5bbe.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f144739d470e192218cc15f1c5bf0fd13d6bd8d339301378d4f2b8a86ca2063e.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4366a3ca1b3971a297770e62b003fdf19ecab1ca5d483daa37b9110dfe138599.jpg",
+			"name": "Chompy Chomp Chomp Party: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0eb8d12082028caf3218fa99f955804bd5822c358cc250f0958c3e52c907e179.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "128"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8141bc97a0a656c7ad4c650f87cf1ea1bed6f8787dc21dd10681ceaafc1733a8.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "128"
+				}
+			]
+		}
+	]
+}

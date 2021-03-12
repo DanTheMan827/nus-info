@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000181100",
+		"eshop_id": "50010000037718",
+		"product_code": "CTR-N-BP8J",
+		"name": "シャンティ -海賊の呪い-",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 409,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7f0b0a0a3ce51c0d6f0d89e27d8c4190a83d1340e3f5ceda89525654141e92df.jpg",
+		"data_size": "306871140",
+		"description": "じっくり遊べるアクションアドベンチャーです。 7つの島には、謎とアイテムが隠された複雑なマップが用意されています。 冒険を進めると、アクションがどんどん増えていきます。 アクションを組み合わせると、冒険の範囲が広がっていきます。 ■ボスバトル 力押しだけでは勝てない巨大なボスが多数登場します。 ■やり込み要素も盛りだくさん ･隠されたアイテムのコンプリートを目指してください。 ･各所に用意された隠し通路の中には、通常の遊びかたでは思いもよらない進みかたが可能になるものも。",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-11-19",
+				"retail": "2015-11-19"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/abb6c8367f4a32885578228e48e840398a5ab7e9e707544a2edb11aed0f81946.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7355fca52318c9f89e3581b008cf843025bf15b7bca5573294512a073e1713d5.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/56c882f85ae40ed95c4cde790d590d0c194aae37287f0cceae646f60f1ed2b79.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/25367436872619b54171fc556d37a4e7183a5b79f72d7095dabf69840b52ce36.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f055089747834698d037ad5ed342909afd202fe0eee83244bb8cc9518c36c338.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/39e263159cc4ba423675bf7cbb20d54f268f4337ffc49eb009c9daa525e877bc.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b558d76f42b2f7d1d845c18dcd9c43187963c54364efa7b7c134de007d568827.jpg",
+				"name": "シャンティ -海賊の呪い- 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/71bff5e048c39e50db9aa605c6b4e077361f91ee0dc0a69a3c4fbd9fbae0d08c.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "90"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4d81cc5d9d8fdaf166811da7c115226baa910641e1b4ea1558513345d5ad458a.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "90"
+					}
+				]
+			}
+		]
+	}
+}

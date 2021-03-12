@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001010A500",
+	"eshop_id": "20010000000845",
+	"product_code": "WUP-N-JAJJ",
+	"name": "スーパーメトロイド",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/badb5af11ee48d1f2b32c485c4dd40b317677d353b9d8bc2043914d9d44e5656.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d97c99789f0157428050dcd5fbba0c98a2fe31d0de956415a4a7aa7a92fab5e6.jpg",
+	"data_size": "42991756",
+	"description": "このソフトは、1994年に発売されたスーパーファミコン用のSFアクション･アドベンチャーゲームです。 パワードスーツの女戦士サムス･アランを主人公とするシリーズの第三弾。かつて主人公サムスが戦闘を繰り広げた惑星ゼーベスを舞台として、奪われた謎の生命体「メトロイド」をめぐり、宇宙海賊との死闘が始まります。マップの途中で発見できるさまざまなアイテムを装備することにより、行動範囲と攻撃手段が広がっていきます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-05-15",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/954267c7b8b6fd3a33449373f43ae93d5687f32fcb1a3ead67034ce6b13c8167.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/771055e3eeac726f65724100afb1c793e5e0638a1024c6bea725497a2a1f370c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f735ebf7a200f28f054e7eec9d730436441644a7f6c6f152389c4dc9ae716fbe.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6d4649999b7a4aa7ca84c8c3f58d91dc31e33c8dc78ac848844a10f27465383e.jpg",
+			"name": "スーパーメトロイド プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2f10946b27053dccf12f2b9d63c547764ead0222e24969157e06164ce44f263f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fd503ebdd91a3244fd0aa8970129098ee0b4cfd2adc5c225a824ec171f6ad6b7.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				}
+			]
+		}
+	]
+}

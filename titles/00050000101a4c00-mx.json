@@ -1,0 +1,79 @@
+{
+	"title_id": "00050000101A4C00",
+	"eshop_id": "20010000015187",
+	"product_code": "WUP-N-BSVE",
+	"name": "Stone Shire",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1368,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bd08348bdc63787341442180eabca00bd1025be53748aa1ddf052a0781adf19a.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/bf7267d5d3495391ce771906732ea16560a60f7793cfebad71724c9a0f0216ed.jpg",
+	"data_size": "95191180",
+	"description": "Una vez hubo un duende con un pico. Tenía una meta en su vida: explorar el mundo para ver que se encontraba en sus distancias. Así que el duende tomó su herramienta, y se embarcó en una aventura, para ver lo que este mundo tenía que ofrecer. Tú eres ese ambicioso explorador. Explorando el mundo a través de árboles, nieve y arena, serás capaz de manipular el mundo a tu gusto. El mundo a frente tuyo está hecho de bloques. Utilizando tu pico, o incluso tus manos, podrás romper estos bloques y utilizarlos para construir estructuras o crear artefactos únicos. Bajo la tierra encontrarás materiales preciosos, como oro y diamante. Para lograr obtenerlos, tendrás que construir picos más fuertes. La única meta en este mundo es la cual te quieras trazar. Bienvenidos y bienvenidas a Stone Shire.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-06-11",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/322c3c6ca487faff7ff261128b475942f4e65151046bb15f255cef1f548562f0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/52198107965bacc247ed799791a019bceeb5093292cee7c8432c007796cf4eab.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/980a179744f39355d4a21d4a05a213c4c2d6de276cc169e267672562912d77b9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b50654dcedae31f85adc88a14bf29e791b16fd5a71e8e3ce3391c167bdd12398.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a5af9d6a0d76ad684d9f6329dd81ba1ac6b0079e999875909d389eb4534e5e66.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/11cd1a400967a260d365fc1ae935e36e5b189be6950a5a65c2a755fcfadcfd23.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7cf9f593d70e98280b74eaa65ad8d4d8b954f06840570e1da9cb0daae55863ba.jpg",
+			"name": "Avance para lanzamiento 2 Stone Shire",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/50a0c5a14f7b0df6fa6e23524ee70f968f329a4e6ff46bf139f8aca313fec594.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "38"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/120240254d38ba6706f0f34fa137014ff99b6bb1d769a9383ed63a8513de9f21.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "38"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7cf9f593d70e98280b74eaa65ad8d4d8b954f06840570e1da9cb0daae55863ba.jpg",
+			"name": "Avance para lanzamiento Stone Shire",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/708f47b1a7f018d2b880b17075060e776376bf12ad0c8305ea3d720d6aaa51ec.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "106"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/61848975c8e54048ebf2c92b332f8ace2d3e422f1aaaa86719163061ff316b7f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "106"
+				}
+			]
+		}
+	]
+}

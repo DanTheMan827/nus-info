@@ -1,0 +1,57 @@
+{
+	"DE": {
+		"title_id": "0005000010172100",
+		"eshop_id": "20010000010626",
+		"product_code": "WUP-P-WMEP",
+		"name": "Meine Ersten Mitsing-Lieder",
+		"platform": 124,
+		"platform_device": "WUP",
+		"publisher": 1240,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7dbd0fe87617f90cb2ab6c4fad14a34dc3f388ed3ad220f2f0a2cbef0aca567b.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/aeba9043e36a03f65c4a12572906ea546f937966f805b4db8d04e9f3019098c0.jpg",
+		"data_size": "1661436164",
+		"description": "Meine Ersten Mitsing-Lieder ist ein Karaoke-Spiel für die Wii U, das einige der beliebtesten Kinderlieder aller Zeiten bietet. Abspielliste: A, B, C Die Affen rasen durch den Wald Auf der Mauer auf der Lauer Alle Vögel sind schon da Kopf und Schulter, Knie und Zeh'n Dornröschen war ein schönes Kind Ein Mann, der sich Kolumbus nannt' Es war eine Mutter, die hatte vier Kinder Die winzig kleine Spinne A B C, die Katze lief im Schnee Häschen in der Grube Bruder Jakob Onkel Paul wohnt auf dem Land Ringel, Ringel, Reihe Meine Tante aus Marokko Schneeflöckchen, Weissröckchen Backe, backe Kuchen Summ, summ, summ Auf einem Baum ein Kuckuck Wer will fleissige Handwerker seh'n",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-11-13",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/2460b51ff37ea19d7f4a65f6864503d84c0c181e0b889efb9c384cdfa70dcea0.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/2cf19178aaab48a0e8709fd3f2af6119d28e76cc2c983cdbd215619c61eaae82.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/d0bebe37e6e7b9f38810d5c35ca03ed2736d3708d71ee1c72230926af24a93e4.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/452471998bc120a231bda7ec824cd1b2c0dd74b04d52bee5d3f8a8fe0a0977aa.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/8790a622271ab66eaf0cbe9564e503917554811479f1dba089e74e8863d832a4.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/4f9dba7dad0e178396a96a64008e7d1bc06ff95adbae7d428de4028f8972c3a6.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/751c2c6fdcff6d05e74eafae3538a35d752c82243b14d64fe271b77301e80844.jpg",
+				"name": "Meine Ersten Mitsing-Lieder",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/971c0bc5c9c38d3c646d3621e40253ddd70fd8959c58b804a51e43ccd0de532a.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "113"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/da0a582473e26d8c4da892754ae9f557cccefcacedfbedfbdd25f2718ba0ea07.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "114"
+					}
+				]
+			}
+		]
+	}
+}

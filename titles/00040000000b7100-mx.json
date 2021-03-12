@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000B7100",
+	"eshop_id": "50010000018853",
+	"product_code": "CTR-N-TB6E",
+	"name": "Crash 'n the Boys™ Street Challenge",
+	"platform": 24,
+	"platform_device": "CTR",
+	"publisher": 19,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/667a8e03e2affc97a56f98910c81e3c9751f420e489423a89dbb4771e1c39dd3.jpg",
+	"data_size": "13110164",
+	"description": "Todd Thornley III, hijo de la persona encargada de industrias Thornley, está ya harto con Crash y los estudiantes de Southside. Todd decide que Hiller High, junto con la ayuda de otras escuelas preparatorias, retarán a Crash y Southside High a un desafío callejero no autorizado. Controla uno de los equipos de las cuatro escuelas preparatorias, todos con diferentes personajes para jugar, mientras te abres camino a lo largo de cinco eventos de deporte salvaje. Compite en eventos como la carrera de 400 metros con obstáculos, lanzamiento de martillo, natación, salto de techo y judo. ¿Puedes liderar tu escuela preparatoria al nivel más alto en los desafíos callejeros?",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-12-19",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/75888d5346fbe7dbb006b66fa6e16e54012dfad31896eb3ec14bcb1c9b7f359c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/103f86aae6e9407a19aafab3ccc5b7fffe6ccd1f81359b2c5d2a17a54db1530f.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6253d7315d2cf82a942c1016b3116d7f18c2d96333ee41f1484f0f5faf6e306b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b2dbf8461d6b72731d2ec19a958e7a7055f3555054ea3dc5291d1fa6a3e9e3d8.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c43f63a416513ee0c25fdb854ddb5e3bd2bac881b1b88997fdd388fe542fc8b6.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d07dd9bb83bc753109f81f3d8ad3b1831a55d7f38f84f1187510c9d28e4b27e7.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b4400cc5aa68e6bf04a9a1561f6cd5d4fbcbe31aba92d555e3e07942a8024930.jpg",
+			"name": "Crash 'n the Boys™ Street Challenge Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/70a7679d2bfc25ea6d9903cd3f6609fcd0bb59841bf0f647c394d4921e982577.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "33"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4b271b2ed73d8d4e69098db5bc176a62eedc6ca6bd0b2739fc67686bebfc4d0f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "33"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010175100",
+	"eshop_id": "20010000007548",
+	"product_code": "WUP-N-JCPJ",
+	"name": "ロックマンX3",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 39,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f7ee39752700f1cf5cccfa565609a1e0b13a3d008ae566291ddbab8ff67fd379.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/545ee5b84447c433a180a4a30a604a0773dbf489e735f771663b5460b7de6065.jpg",
+	"data_size": "43679904",
+	"description": "このソフトは、1995年に発売されたスーパーファミコン用のアクションゲームです。 人間に近い思考を持つロボット「レプリロイド」が人間と共存する未来の世界。「イレギュラー」と呼ばれる電子頭脳に異常をきたしたロボットが現れる原因を発見したドップラー博士は、イレギュラー化を防ぐことに成功します。しかし数か月後、博士はイレギュラーを率いて反乱を起こします。「イレギュラーハンター」のエックスとゼロは、制圧のため出撃するのでした。 各ステージのボスを倒すと特殊武器を入手できます。特殊武器はほかのボスの弱点となるので、ステージの攻略順を工夫することが重要です。8つのステージには「パーツカプセル」が隠されており、エックスが入るとパーツが装着され、スペシャルアクションが使えるようになります。ゼロを呼び出し、エックスと交代してゲームを進めることもできます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-10-08",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/b160f4717106dc131c3688033f47e3bfdadc98ebd008f4900bfc84f99be4e575.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4123273742e7ff8311b3cf6d6c84394ad0f4399aa4e500a76718a00e49a3fc4f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3d86520d24543123d7394c3674fda7ea6763e0c7f90df86f7e946edab9fd41e5.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/614b1abc3040c3bddc4fc053f12452c41adff1830cc3bfeaa4a35186b1512624.jpg",
+			"name": "ロックマンX3 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7dcba49c83eb7a139a99708c7095ebe3ece52b6ccfba7c14e34bad0916d0ad1a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "53"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b36fa772ad34569179d74f0e9c01028b45d7e327ed078a1732acd2cfb5759535.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "53"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101ABF00",
+	"eshop_id": "20010000017587",
+	"product_code": "WUP-N-DALP",
+	"name": "Wario™ Master of Disguise",
+	"platform": 169,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ddd17f75362103cdf5f775bba30a70688ecfa83330d41434352371a324279622.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9637b55e30ad062c0b2bfd186ff8dba4aeaab85677fd47646e544eefde4c5f51.jpg",
+	"data_size": "85098616",
+	"description": "Wenn Wario einen Zauberstab in die Finger kriegt, der ihn in ein anderes Wesen verwandelt, wird aus unserem diebischen Unhold dann ein Meister der Maske oder ein Meister der Pannen? Wario springt durch seine TV-Bildschirm und verwandelt sich zum Star einer Weltreisesendung, die ihn auf seiner Schatzsuche durch 10 \"Episoden\" begleitet. Von einem Kreuzfahrschiff bis hin zu den ägyptischen Pyramiden ist alles dabei! Du kannst den Tochscreen benutzen, um Wario zu verwandeln: male ihm einen Schweif an, und er wird zum feuerspeienden Dragon Wario, oder zeichne ihm einen Astronautenhelm, und schon wird er zu Cosmic Wario, bewaffnet mit einer Laserkanone!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-08-20",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/dbebcdca48034c55a83294cf97961a7a32c2cc7c45b0acebcd871829f802d944.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/83b20fa2695fe5d6f8201baf538c19000ff5b9fe080215ae4eb26ee6ed13c18c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4f160c3ad2d81b7f022d02bf98576ee4bfddbfc35829713a3d0368e14ad34576.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e038113667104a130077cfde8815a450d0fecba48db46bad6d39a0371e75ce85.jpg",
+			"name": "Wario™ Master of Disguise: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1c186e2dd64f587d1ffadd8c6a5c3053d03e64ecda749c5cd901d8bd364fb40b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "92"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/783c22f5263e8ab4efc0212dfdf37d4f38693bf4c46dfd629655f485e5ce2d9a.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "92"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101B4200",
+	"eshop_id": "20010000014608",
+	"product_code": "WUP-N-AAVE",
+	"name": "amiibo™ tap: Nintendo’s Greatest Bits",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8f59724faccd7ff64aa19115ac2afe9e46ca422abe4360db460288df0be93a40.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/10cac3019c5535e8aaf540e4ac0b19fd1ce524f56bc2a9a86a561a7a2f57e4e1.jpg",
+	"data_size": "82477196",
+	"description": "Discover definitive moments of classic Nintendo games while exploring the company’s catalog and legacy. Simply tap any amiibo™ figure to the Wii U™ GamePad controller to unlock scenes from NES™ and Super NES™ Wii U Virtual Console™ titles! You never know—the next game you try may become one of your new all-time favorites! Grab an amiibo from your collection and tap it to the GamePad to receive a gift! Each gift contains select scenes from a random NES or Super NES game included in this software’s selection of titles. Don’t worry about which amiibo to use—every amiibo unlocks bits to play! After un-wrapping your gift, you can dive right into a three-minute gameplay scene that introduces you to that game. Then switch to another scene by tapping the same amiibo to the GamePad again. Want more gifts? No problem! You can receive another gift by tapping a different amiibo at any time!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-04-30",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/b6e99b79f8580ae1a3b1ad57541f9fed792ae9876495382dc1d0b041f98eb69a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/55ee1dafe51d902ce70710ebb774867df90e27afdf7cc2d4c1cef3df24aaf5e7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/789fde98fe061df3d89f91b83014876cbe2876b2dc3be25f607a52612466e966.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/444669990d1da76cc0df7ebf205618f96594b7f9154d495dc6b8800f58b744cc.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/814dfe3bbdfe96c32ccde678bd63c67193f85218be11b3f7c99ead6c0a2d198e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/60beba61728903c4d2554b798bdf67d488b8d8f501621bb540e3d0fa51b08258.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a60c31968825a54e990c3aeac5013e836d5147406a10d5ca2518948fa1fdf52f.jpg",
+			"name": "amiibo™ tap: Nintendo’s Greatest Bits Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9c0b8dabe62ebc2e954fc894343202c72b7ed800abf8f6f86fb561f388cc5fa6.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "106"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4a427e89e69f5b2c67150896373fd2c25342fc96db62d78ffabd511473b67959.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "106"
+				}
+			]
+		}
+	]
+}

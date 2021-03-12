@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010188300",
+	"eshop_id": "20010000011466",
+	"product_code": "WUP-N-PBPZ",
+	"name": "Megaman Battle Network 2",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 39,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a3fc249ed0a913cb1d7f1191883909ff949db9c5bdc8b27183ad89fda4521261.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/82e5fa296815ef2ec707bff2eb81763fae45dca4d716e52d30bba85b79cd650b.jpg",
+	"data_size": "80838796",
+	"description": "В новой игре серии Мega Man Battle Network вам вновь предстоит бороться с киберпреступностью в далеком будущем. В недрах секретной криминальной организации был создан смертельный вирус, способный нанести огромный ущерб мировой сети. Lan и его киберсоюзник Mega Man.EXE должны сделать все возможное, чтобы предотвратить распространение вируса. Умения и внешний вид Mega Man.EXE теперь можно изменять в соответствии с вашим игровым стилем. В ходе битв с цифровыми врагами в пошаговом режиме вы также можете использовать Battle Chips (жетоны). Одержите блестящую победу в этом захватывающем ролевом квесте!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-05-14",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/dc71c3c132fde50d38a9c9b4c884eacff70c18e9fe78a911df20267f6e584b72.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/df8461efa8ad1a6aa510e386150b45bbfdbea59f26f720f10b757146ee6af656.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0486422efec2dbb87503011f82077d8ec148c95866528337ad9ab88345ef51b0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1da2d01a3e5efd3a61bda2d4bfa4d87a7501545f81fed3881fe7630d93422a37.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bf51dc9b5de1bb3239d116f56941ba84c21b80b51990e56f7f47f45f40f8b5cf.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c42abb39fe794a2b902303ee5fe962e87114596c46f9cce84bbc7db51facba3e.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/73ffd9e390ec0a4c07c89a3dbcb76ef58b231048f1e938763416af7ef489a437.jpg",
+			"name": "Megaman Battle Network 2: видео",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5dd6bb507aca4070276a33d76c3c2fdd90f8fc7ca0c2ccbb7585abe87df60857.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "66"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/60c61128ea03b06abc2e666cb94d5cbf73b8492d5d9336a09dc46d4f618e4faf.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "66"
+				}
+			]
+		}
+	]
+}

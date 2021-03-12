@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001016F300",
+		"eshop_id": "20010000006447",
+		"product_code": "WUP-N-PATJ",
+		"name": "星のカービィ 夢の泉デラックス",
+		"platform": 168,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b33f77e119752f106427eedb14f1787c52926389269f583d1bdcfa997af45e7b.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/cc2f92fcd11fc5c1eded528faa2922e38b763b08bc6c014dc665f3080a033973.jpg",
+		"data_size": "88637560",
+		"description": "このソフトは、2002年に発売されたゲームボーイアドバンス用のアクションゲームです。 プププランドのみんなの夢を取りもどすために、カービィはデデデ大王に奪われたスターロッドを集める旅に出かけます。熱い炎を吐き出す「ファイア」、火花で敵をしびれさせる「スパーク」、かっこよく剣を振るう「ソード」など、24種類のコピー能力を使いこなしてゲームを進めます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-04-30",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/f11b3625d0873239e1fce3baa5fcac5e6d28c31b7b5eb515bdc1c212ccc78b63.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/a0e4e39ba008dfdeff669d634c372c2cdca10905584383cf68e5b4acacd75126.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/061fe82e0b2aeec7dee14c4c5412369400c54ea59c9c312fce9b5168f5d7d503.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/065e8a57b0f6642318f200c1fad5e9b9665e0a7c930bcef18ef41723bacc5dc9.jpg",
+				"name": "星のカービィ 夢の泉デラックス プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/94e8b900d301477154b450bc8f30d7b5d258006796e2831aaf75843f3a8526d7.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3276dc41cff476581b2f78aa112d62bba4184277abed7f77adb4f2dfc784cf77.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					}
+				]
+			}
+		]
+	}
+}

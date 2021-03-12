@@ -1,0 +1,53 @@
+{
+	"title_id": "0005000010160500",
+	"eshop_id": "20010000007666",
+	"product_code": "WUP-N-FCPE",
+	"name": "Soccer",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8eab113728712f2a7b857b1ab4421731118a482bd8e86ebe883227d03585ba6b.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/2f0c68fa0a567d94169dbb503761509e911c141581e4dec56098a41d92b328b2.jpg",
+	"data_size": "36536460",
+	"description": "Enjoy 'real football' as you direct your team up and down the field. Pick from seven international teams—USA, Great Britain, France, Germany, Brazil, Japan, and Spain—and perform all the kickoffs, throw-ins, goal kicks, and corner kicks seen in a real friendly match. You can choose the skill level of the opposing team on a scale from one to five, so as your team improves, so do your opponents. You even choose the length of the match. As time ticks down, do your best to score the winning goal!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-06-12",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/110eafd3aaa79df2c015b0f7614ec88bae87f01977d489c4f9b00737e7b0cd93.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a47d35888859dba4282e70f789aec1ab8ff92e926a442d8970d2d3bd7e2ae847.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4a6248cf5ad492a2394095759d734d433ed85e29273bf32bbc2c80cca83d8765.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d6020e02b9776504b4c021e77c31b609e27253b422c44e152dd705ba3092ddd6.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/10358ab38a78e52d75c4d174d690e4d4b7d699e559cf39b9f01090f041c49f88.jpg",
+			"name": "Soccer Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1b7ab1df3f4e7f4f740904df354ce7ee06c46b21d42f1ce7bcde6bf4b7297942.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "25"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7864798aacfe3ba60b856e6bd8126110fc5c357ee185370ccb6667d305911a43.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "25"
+				}
+			]
+		}
+	]
+}

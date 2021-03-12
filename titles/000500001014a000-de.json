@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001014A000",
+	"eshop_id": "20010000003104",
+	"product_code": "WUP-N-FBNP",
+	"name": "Pinball",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/437a8642ef486d516d90072af61f59a08351f0336c2b183c6ea95d9757f17d32.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4f26fd7d4442d2e883a142938059ca1c09a53651ba46f0cbe17de144349275c4.jpg",
+	"data_size": "36503692",
+	"description": "Die NES™-Version von PINBALL war eine der ersten Videospiel-Adaptionen des Spielhallen-Klassikers und ist weiterhin massentauglich wie eh und je. Setze die Flipperarme ein, um die Kugel so lange wie möglich im Spiel zu halten und neue Punkterekorde aufzustellen. Es gibt zwei Schwierigkeitsgrade und Modi für Einzelspieler oder zwei Spieler, sodass du mit einem Freund um die höchste Punktzahl kämpfen kannst. Im Bonus-Abschnitt hat Mario™ höchstpersönlich einen Gastauftritt. Gib deine Flipperfertigkeiten zum Besten und rette die Prinzessin, die bereits in Donkey Kong™ auf deine Hilfe angewiesen war! Wenn du diesen Titel bereits auf deiner Wii™ erworben hast, führe einen System-Transfer von deiner Wii auf deine Wii U™ durch, um ein Upgrade-Sonderangebot zu erhalten. Hierbei handelt es sich um die US-Version des Spiels.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-10-24",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/e05ef6ea0bbef73ddb0069a9f41e74f3db9bad51c3ce8fe67726af3c069f8193.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/129bcbdbc936c7126508842ad396ace9d371893d91caffa73b50cb947b7420be.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c63a11a25e335cc998241679b3bdf4b16ee9a428354de0403f19352713f871b7.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e0451a980956340d2d0d82662e953219307d4111aca113f5666ed3e640132192.jpg",
+			"name": "Pinball: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e004c973dc5491aa3d65af08edb4828423af1d5ab0850f41abdb391b8ecefb46.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "43"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3a8b5b7e34deac1c401f6dfba39aa274c6ef57b078044da246a81d62464bacdb.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "43"
+				}
+			]
+		}
+	]
+}

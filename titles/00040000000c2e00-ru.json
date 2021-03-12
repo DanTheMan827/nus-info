@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000C2E00",
+	"eshop_id": "50010000013416",
+	"product_code": "CTR-P-AQ7P",
+	"name": "HarmoKnight™",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9740a69a903dfb0fb9a1ac7559f28d3eb87eeefbc561c49b3b4198db7508dcbb.jpg",
+	"data_size": "276568932",
+	"description": "Игра HarmoKnight объединяет в себе черты двумерного платформера с ритмичным игровым процессом, оставляя о себе яркие впечатления. На каждом уровне играет своя музыкальная композиция, под ритм который вы выполняете определенные действия — бьете врагов, перепрыгиваете пропасти и наносите удары по музыкальным растениям на заднем плане. Благодаря интуитивно понятному двухкнопочному управлению разобраться в основах игры не просто, а очень просто... но это не значит, что так же просто будет спасти принцессу Ariana от Noizoids!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-03-28",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/55044a087333e87dfe40da5113b0de9a02761461a2cc7655695085d7c6f64f66.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5354a4dcb17ff37c08df87392c2ed199c7bffdf056862fbc4514e4206945ab34.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6473d8f0a6ac0c99b13f8a5ce7b1efb8251dbd9d269965c2cf0195f5fe6c6ef2.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5354a4dcb17ff37c08df87392c2ed199c7bffdf056862fbc4514e4206945ab34.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/42432081521577ca10935b7b6ef3e89a5f2af5ff04b5da6151f1478778b84488.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5354a4dcb17ff37c08df87392c2ed199c7bffdf056862fbc4514e4206945ab34.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3cc27f53db7a32a26666aec08ba01583dac6e48518d0ec7cb207a1645b36bfa4.jpg",
+			"name": "HarmoKnight™: трейлер",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d96457e9fc5e5d94add50fda3e4b4672e9f1b5aa5921febd2aaaafcf5fdae63a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "112"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cf06ab1666a5a642b51609f5f9f44b4cebad212335493ed4411289881a683ad7.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "112"
+				}
+			]
+		}
+	]
+}

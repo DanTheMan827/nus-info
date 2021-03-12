@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001016D200",
+	"eshop_id": "20010000006986",
+	"product_code": "WUP-N-PANP",
+	"name": "Klonoa™: Empire of Dreams",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 27,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c4f99066d6b3f07e46c33f60afb5fddc9f83729aa0a0e664955f497608fbc65e.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c57beffdb350d9cafcf4840f707a0985e4d138072f6e3aa5f73a2f4a756c5d5c.jpg",
+	"data_size": "100237432",
+	"description": "Nesta aventura exclusiva para Game Boy™ Advance, Klonoa, o herói viajante dos sonhos, encontra-se numa terra misteriosa à mercê de um imperador com insónias que quer proibir os sonhos! Para conquistar a sua liberdade, Klonoa tem de atravessar 40 níveis de ação de plataforma e de quebra-cabeças (até andar de prancha flutuante!) e derrotar os monstros que estão a semear o caos por todo o império.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-05-22",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/89e420a3a3cce0974d9534e2b72f3dde13936f61d69d3d78f0b49a5010f75730.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9aea5dbc97671e787c77b2903d6a703f8e9df458e9d801d57255c4a26cb4f314.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b0ee1ecdf3bff3c36287a89b4a1e46546e852327f84ddf36a8fa436c1191f0c3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f627dc435e86baf639805a7d45afc752565d6e647415c294082ac0f73f046275.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d2b46afb51e0b9ece9bc4470caa09ed1db57a2a6df019ffbdd14262e4f761f74.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4934615700b89cfcbe6500127acb48ae318562c03c0b67d1d24f48b49f53c50c.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/eca6cae177d20a0ad29c883ff7467edd0891f41d385e0fdfb65df7a2424da3da.jpg",
+			"name": "Klonoa™: Empire of Dreams: Vídeo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0f0a720582d9a0f5f867fc8d465afb7e88cf821197891a1e7b3739ad6d1db7f2.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "55"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d8311b33fbe0f05145305c01f8e0813e3df9e886f4eb39d9e6a1cd80cc9272b8.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "55"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000C0F00",
+	"eshop_id": "50010000013390",
+	"product_code": "CTR-N-AM5E",
+	"name": "Mahjong Mysteries - Ancient Athena",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 42,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ff7ee5075fcf8d05a0e474394ba375b2836c698a52f63053468e66ba5b5dd85f.jpg",
+	"data_size": "35126116",
+	"description": "Embarque em uma incrível jornada pela Grécia antiga em Mahjong Mysteries: Ancient Athena! Acompanhe o famoso aventureiro David na sua misteriosa missão - uma que vai mudar o curso da história! Siga a trilha de heróis antigos, passando pelo Oráculo de Delfos e o Teatro de Dionísio e vivencie o mistério dos deuses do Olimpo! Descubra os tesouros de uma antiga e magnífica cultura. Mas não se engane: você não está sozinha! Desfrute da atmosfera mística e combine símbolos para completar todos os 300 níveis de Mahjong. Bem-vinda à antiga Atenas! Modo aventura com uma empolgante história. 10 tipos diferentes de jogos Mahjong. 300 novos níveis no modo clássico!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-02-28",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/08f8561c533b0d718de03473587625ce36ba478ef6d4c281c49b0e031867b24e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/693b554934b13e94d4cedcb8e8bdf93fee1bb9a91fb62d767845897385ed91f1.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f2dee43010d3544197c222ab84b5bd6944d758f6273cf52c45b4db3e1d70c5eb.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/cbfdae623bc3a7f9d17c0ee0cfd73f8d6beb491c3e04004ce7acb3b911b89f06.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d0ef1122cf8831ba697b7ab6442e9a2560ccc29676dbc0aba2de928d3db83c89.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/222cdd4991fd124aa6a138e39defcf4689fe6203fdcfccc777ec76821ebf032f.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9466921eeb30c0f369641f5c802c03dcea6e751149282a4dc0bc2b86acf52e6c.jpg",
+			"name": "Mahjong Mysteries - Ancient Athena Trailer de lançamento",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a8335ad00dfa371b637c47a5d8567fbd6978cffc38cdf25b750918f368c696fd.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a270e84c4cfb6fa20ff56ed5a9ede40744afae59df9f8df811484b173d0091a5.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				}
+			]
+		}
+	]
+}

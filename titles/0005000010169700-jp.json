@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010169700",
+	"eshop_id": "20010000007230",
+	"product_code": "WUP-N-PAMJ",
+	"name": "ミスタードリラー2",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 27,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3813e065131d846537c5ebfe1c811382c3454be6b883dbd7dab436924cb172a8.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/15f781f1d54a2b150eba84390389e84d2a6fcfa3d7b383ed13caf4bde231ad47.jpg",
+	"data_size": "87195768",
+	"description": "このソフトは、2001年に発売されたゲームボーイアドバンス用の穴掘りアクションゲームです。 謎のブロック大発生を解決し、主人公のホリ･ススムは平和な日々を過ごしていましたが、またもやブロックが大発生。現場へ向かおうとするススムの前に、もう1人のドリラー、アンナ･ホッテンマイヤーが現れ、新たな冒険が始まります。このゲームは、ブロックを掘り進みながら地底にあるゴールをめざすのが目的です。ブロックは壊す以外に同じ色を4つくっつけて消すこともできますが、むやみに壊すと大量に落ちてきて潰されてしまうため注意してください。進むにつれて空気が必要になるので、「エアカプセル」を拾って補給しましょう。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-08-20",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/8d38ae6df495a2fadae42eb0abc406973ac63ed98c026b618365294dfad05094.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bf94753f8534ee8d660b4838aeb5d4c5e47b65854dd2a1ce846fd196a0078ad2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d0d4c08d99b78609f1f9cc64f14a252d29f36154e32b9f8d178aaa0003a07c46.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/54de81313ae2d7d71578a7aac9786f4141a8567e9b174cf3577efaf49dcc3042.jpg",
+			"name": "ミスタードリラー2 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/06722949ea50a03f93f4161dc82e4e30b39c74b9c25e641bfc712bcb6e37f85b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b019d86827bc36f1c64fcc13f556b073393fe449a619c7ea1b18562ca30a569d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				}
+			]
+		}
+	]
+}

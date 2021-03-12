@@ -1,0 +1,54 @@
+{
+	"title_id": "000500001016CF00",
+	"eshop_id": "20010000008586",
+	"product_code": "WUP-N-PAME",
+	"name": "Mr. Driller 2",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 27,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ece2d399e58c3411160d432646d5c738d8144a791da9753920186ebc0c8d414e.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/2d7b03457fd318626850af6425bafe4c400c035747428a7f3bd7cd4caf8d8988.jpg",
+	"data_size": "84967544",
+	"description": "Únete a Susumu y Anna para detener una misteriosa plaga de bloques que amenaza con destruir el mundo. Cava a través de coloridos bloques con un poderoso taladro hasta que estés a salvo. No podrás romper todos los bloques, y tendrás que tener cuidado con los que rompes porque podrán caerte encima o cortar tu suministro de aire. Apúrate para recolectar cápsulas de aire y llegarás a tu meta sin problema. ¿Qué tan profundo podrás cavar bajo la tierra? Taladra todo lo que quieras en los tres modos disponibles: modo de misiones, modo infinito y modo contrarreloj.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-07-17",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/f55ba1a55edb795d8dd8bc0f4294a86cc41e1dd05a0609827a96b8acd65601f1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8631256f22fb6292c89e721f9155d1a52421873187a18a98b0eca4d791fd5a31.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/085ce6af2e9804048982448573299e2c6e16a26f84af7e0319d63f3a870f6a2a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4330319937633de19fae0e7ec8bb7792499c69591036aaa5b42625487938e77b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f1e9a8793ca18677cf8eccd756fb407a246a43308865e32d5c2a9c24caf88fd3.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/769696ce2f61daec88015eba0b23e211850295ba3125c088662ef59bc0ec298e.jpg",
+			"name": "Avance para lanzamiento Mr. Driller 2",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/76948bff05983b654167279d0cfb545dc035eb152d153bb0e18921527daa20bd.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "31"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/07d7d31d2903e8cfefe57afad1fe8986ddea38fb595f20524612f5c729b08ca0.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "31"
+				}
+			]
+		}
+	]
+}

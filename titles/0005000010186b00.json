@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010186B00",
+		"eshop_id": "20010000009490",
+		"product_code": "WUP-N-JC4J",
+		"name": "コズモギャング ザ パズル",
+		"platform": 164,
+		"platform_device": "WUP",
+		"publisher": 27,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/13a012ee82d1efb078f784f28249f62cc3ecc8cc9337cdbd9e230c09e814370f.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/047876d8ca4c132fddf49228b2a09db6e17e8f9dbd6ed0169988caa6c7d809fe.jpg",
+		"data_size": "42664096",
+		"description": "このソフトは、1993年に発売されたスーパーファミコン用のパズルアクションゲームです。 3つのモードで遊べる「落ちものパズル」で、ひたすらブロックを消してハイスコアに挑む「1Pモード」、対戦バトルの「VSモード」、そして詰め将棋感覚でステージをクリアしていく「100面モード」と、多彩なプレイを楽しむことができます。 どのモードも上から落ちてくる「コンテナ」と「コズモ」を消してゲームを進めていきます。コンテナは6つを横一列に並べると消え、コズモはときどき落ちてくる青い「ボール」に触れさせると消えます。2種類のブロックはそれぞれ消しかたが異なりますが、うまく組み合わせて一気に消す爽快感を味わってください。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-04-28",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/a01fafc46964e4c72f02cca1d45bb6540d02fc69d933a3f71a19bce45e6f28b0.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/ec399e15a43b5e77d163ac16e210b7451c41f1883b1b59876242b9ab53074d42.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/aa7800d5e2146fd7c445e9ec390119ac76ea7d60d67a00dce1d29bb8a2a9089b.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6a32d3fd17d701a787776599549ea6dbbc70cf369e1d50c8f7a7727fa03e3428.jpg",
+				"name": "コズモギャング ザ パズル プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/764dba0be7c2fb4d2b50bd2f82318d43d77bb810851d02e142adcf141054ed9a.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "67"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c40032fb8cd7591ee3d5bc578d2ad6fa3db0c627fc3fdf5a292e2c6e71c4bd51.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "67"
+					}
+				]
+			}
+		]
+	}
+}

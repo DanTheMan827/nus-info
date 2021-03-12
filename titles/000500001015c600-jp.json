@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001015C600",
+	"eshop_id": "20010000009427",
+	"product_code": "WUP-N-PNTJ",
+	"name": "ソルジャーブレイド ",
+	"platform": 166,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/358c6cd5aed360741f81367adfa51cc5e876da6d8911c6b8b209a9954d296a34.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e2f2596b761d9bc535cee39890f9669012a49161b1d6e662d8ae3874567990ef.jpg",
+	"data_size": "84279436",
+	"description": "名作『スターソルジャー』の系譜に連なる、縦スクロールシューティング。SIA(Special Interception Airforce)特別迎撃空軍のパイロットとして、重戦闘機「ソルジャーブレイド」をあやつり、押し寄せる敵に立ち向かいます。自機はゲーム中に現れるパワーアップアイテムを取ることで、色に応じた3種類の攻撃を繰り出すことが可能。また、敵弾を防ぐことができるオプション「ガンボディ」やパワーアップの状態と連動する「バーストアウト」システムの追加により、アイテムのとり方や特殊攻撃のタイミングなど、戦略的な判断も重要です。 戦闘はシリーズ特有の爽快感にあふれ、あらゆる場面に散りばめられた大小多数の演出は必見。 そして、各オペレーションの最後に待ちうけるボスキャラが、さまざまな仕掛けでプレイにアクセントを与えます。シリーズでお馴染みの「キャラバンモード」も搭載されており、スコアアタックも楽しめます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-09-24",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/e168ad6f8ca2fede1d29538f14b373ae33b8d23d309007c2c4b545d37984c850.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/def870a7f12a2058063983419e9e82f8b0684517d7123491591f3a42a78adeca.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/76f6c8d3972cc26bb858cd43a37566611cf16598ff81f70443698354ac17aa06.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1ef5e6ef37cfe643708e711e73e0b92ae5408de934f104403e4d294fb33413f1.jpg",
+			"name": "ソルジャーブレイド プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/433d63bb88f02495b540fbf74060bee30d91195b19e317b5c0406cb496f36a46.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cad73746a5e9500943ba016cdebdd753c41bd64e07937558896d82c89a3e9d03.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				}
+			]
+		}
+	]
+}

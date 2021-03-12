@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000EF200",
+	"eshop_id": "50010000022055",
+	"product_code": "CTR-N-RCDE",
+	"name": "Mega Man II™",
+	"platform": 21,
+	"platform_device": "CTR",
+	"publisher": 39,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/721dbfecfa78da0c9534887240f5849831d4e337dedfe0e1dee6f94ed41c2497.jpg",
+	"data_size": "3619684",
+	"description": "El Dr. Wily está haciendo de nuevo de las suyas y esta vez ha robado el prototipo del proyecto Time Skimmer que le permite viajar al futuro. Mientras tanto, Mega Man y su compañero de confianza Rush han sido enviados en una misión a investigar una guarida subterránea y ¡a su llegada la pareja se enfrenta inmediatamente con un grupo de jefes robot! Ábrete camino a través de barreras de maniáticos monstruos mientras recolectas una variedad de armas y objetos que te ayudarán a derrotar a más jefes robot. ¿Quién es este extraño del futuro llamado Quint? ¿Podrá Mega Man alcanzar al Dr. Wily antes de que sea demasiado tarde?",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-05-08",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/93955c27bdab8ac2e9d6b2d9f6c291593e7ad23936ee68fe2f638756994a5deb.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/448bce6f20d43e325de0ef8f2128d69cd332cf545306c3a6e58f8948255849bc.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/35765cec29c744b2f7df6e74a51972faf2c0485e077bab9d15fbd98e988d25b0.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a58dca950a1e7da290107778e06964214334a964a2966eb7daea2470eb940889.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/808c51ce971273697acafe3846904e0a0ef499c79834fba64f38ad322701f5fa.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/386f33dcce6d77d8d4b699ebd92bf718c24e3825417708d5ee62a7093db67aac.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7f4052121df5c93b9e7974d27b88865c567fb929ecfcf98f3e1026ab2786d5cc.jpg",
+			"name": "Avance para lanzamiento Mega Man II™",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d6a1d6a031a870b754e7c51be6930051829de30d065c83bf0f5bae1a6019cc44.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "29"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c55dc7648bb6bf681b2923976ca0b7ac176ebfcd36d78fe8e66a87899fd94cd4.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "29"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010119B00",
+	"eshop_id": "20010000000723",
+	"product_code": "WUP-N-JARP",
+	"name": "F-ZERO™",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/59ca153ceb5d56a7eec7c87f38fe231e6185d89860fb6e6be7a3006892329653.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9fb2468b201c16bac32712ba85f3a1d16ebc2e2631a16b6eab1f79bb89e5881c.jpg",
+	"data_size": "40632460",
+	"description": "Hierbei handelt es sich um die US-Version des Spiels. Im Jahr 2560 ist die F-ZERO-Meisterschaft die großartigste Rennserie. Fahrer aus der gesamten Galaxie riskieren in Hochgeschwindigkeits-Rennen mit futuristischen Gleitern alles. F-ZERO nutzte den „Mode 7™“-Effekt des Super NES vollständig aus und setzte mit seiner flüssigen, schnellen Grafik und dem aufregenden Gameplay neue Maßstäbe im Rennspiel-Genre. Es verfügte außerdem über einen der berühmtesten Videospiele-Soundtracks und machte die Spieler mit Captain Falcon, Samurai Goroh und anderen Piloten bekannt.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-02-21",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/90e12cb21137f3b67d6aac6d287bb3d4e6baa739bd371dea48a7978f34e212d4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/462c8f6c9050d7ecab4769ff262326185f1c4bc7749f4d4bd3c4552eaed1423e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d098ffea168842854059fc783e84bcafa2b2059f128c043dabb89a9875f81d5b.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/96b5eeb9c88dd5de724181f40af218cd64b93d53fc1735099310cc009a227a50.jpg",
+			"name": "F-ZERO™: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5ff941244177c6e2897921342d8ae07ed317fb433c9a845a7b5de791057ce827.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b9e7ee102b73d5bdb62f78383531fd203959703bd12c73909a1dcac49750984b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				}
+			]
+		}
+	]
+}

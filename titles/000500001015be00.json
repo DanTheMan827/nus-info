@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001015BE00",
+		"eshop_id": "20010000007506",
+		"product_code": "WUP-N-PNKJ",
+		"name": "ブレイジングレーザーズ ",
+		"platform": 166,
+		"platform_device": "WUP",
+		"publisher": 149,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ed190cf8009c3b87fb550ab3d149e1bcd01800f5140b9b651bdb0d2ea09d9a84.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4f1d8faae97bfbfd1d22a1116bb0dd2a6627aa33cdba22b86dc9a8e3d948f77e.jpg",
+		"data_size": "83689612",
+		"description": "PCエンジンのハード性能を極限まで生かした、縦スクロール型シューティングゲーム。プレイヤーは驚異的な火力を持つ新型戦闘機を操作し、地球侵攻を開始した“Dark Squadron”に立ち向かいます。多様なウェポンを使いこなし、パワーアップアイテムで自機の戦闘力を高めながら、押し寄せる敵をなぎ払い、全9ステージをクリアしてください。 スピード感あふれる演出や、ドラムの効いたノリの良いBGM、複雑な軌跡をえがいて敵を一掃する「フィールドサンダー」など、爽快感は抜群。ほどよくチューニングされた難易度で、誰もが手軽に本格的なシューティングを楽しむことができます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-06-11",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/05c898bd64fcded497991c504d3e78bbd8c19f501a192c15c278e38534fadba4.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/0423b6dd9bd376708fe986771f54cc6670b38586c2cf88608c16055c2fd03ec0.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/d2f349f4fa9aac1fbc907b53e77d022979820e2cc9e835d0e6813e8c9796c0aa.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5fa9dd3fab27d41ef8a4607dfd75de9159f4141552a969d72712be818708abf3.jpg",
+				"name": "ブレイジングレーザーズ プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0d020624214b1cd031424d606502efadb85b64aac78d29ad3945e23940dead08.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "50"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/03b9c54aeffec2f29b3308b8b0582246200acdecab15c1d2747ef988573d6543.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "50"
+					}
+				]
+			}
+		]
+	}
+}

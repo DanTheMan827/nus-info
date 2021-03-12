@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101B4500",
+		"eshop_id": "20010000018407",
+		"product_code": "WUP-N-NALJ",
+		"name": "マリオカート64",
+		"platform": 170,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6de684e139d718f325d6d322c90310aadabec9e1f730fde7efe2c36ddd0a1d32.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/79a62c9ed77c83cbce10b9f0f6463818585c7564b9434a9dd36689f3759f2a22.jpg",
+		"data_size": "57901176",
+		"description": "このソフトは、1996年に発売されたニンテンドウ64用のアクションレースゲームです。 マリオやクッパ、ピーチにヨッシーなど、『スーパーマリオ』のキャラクターたちがカートに乗って競い合います。パワーアップアイテムで一気に駆け抜けたり、おジャマアイテムで対戦相手を蹴落としたり、どうやってライバルを出し抜くかが勝負のカギになります。どこでどのアイテムを使うか、どのコースを走るか、対戦相手との駆け引きを制して優勝をめざしましょう。 「マリオGP」、「VS」、「タイムアタック」共通のコースが16種類、「バトル」専用のコースが4種類の、計20種類のコースが登場します。「マリオサーキット」や「クッパキャッスル」など、どのコースも個性的なものばかり。また、コースにはさまざまな仕掛けや抜け道があり、走るたびに新たな攻略方法を発見できるかもしれません。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-01-06",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/ecb3f7685d01a4f0c6709b1a0c8687d791cef84187abb16ea5601ff1e857ada8.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/a6b3ce0f508064ce3b015200c5db44b1fe78ee82dccaea7f015c136145768d3f.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/d97c822f1ddc90baebdd03ac7def0419e8e7d6aac437c7f09d0ada83adb05969.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/88073a044c59cea47b6ec10d3d5bac5d113754773899d1d68a05f2afb8bacb0d.jpg",
+				"name": "マリオカート64 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d0078c0c2db97ef1a02023afd14b743116a71013cf1981b86a95e9f5b000bfb5.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "86"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8c688611d63c6d7bc959f21feeb7159a8c299e0fac298d1f95e4d390d8da66d2.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "86"
+					}
+				]
+			}
+		]
+	}
+}

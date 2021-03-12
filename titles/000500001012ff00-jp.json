@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001012FF00",
+	"eshop_id": "20010000002069",
+	"product_code": "WUP-N-FBCJ",
+	"name": "リンクの冒険 ",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/49164cfc4e4ab90e8e7b7905ebc48eab7a17153b77109793478e07df80d0963a.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4b0371a13f5ae60a957d564e79a5152bb8ce4e461ecb5bd322fe477b9978fdc9.jpg",
+	"data_size": "36601996",
+	"description": "このソフトは、1987年に発売されたファミリーコンピュータ･ディスクシステム用のアクションアドベンチャーゲームです。 ハイラル王国の平和を取り戻すため、大神殿に封印された勇気のトライフォースを開放するべく、再びリンクは冒険の旅に出ます。剣を振って敵を攻撃したり、さまざまな魔法を使ったり……壮大なストーリーと謎解きの魅力はそのままに、よりアクション性に磨きをかけて、タイトルどおり“リンクの冒険”が体験できます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-09-11",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/20b4e06cef206637d9aa1945602875b9fb7396c7221b1e96639f07019da6d43e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1ef0e496c8bd967fb5d08c9120952c2ad56895b7f828660e13000f69c259b889.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/486db3e3d35f879134359f8f601fd56534b2c55d6b9d599b3d67d954360d7be7.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/90abdc318c122b0ed1655f37f01dd68c8d47189ab1273081560fc106abf7bf65.jpg",
+			"name": "リンクの冒険 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1dee94f06c4431b5a7b58388f14f579ba9ec08b0b8d97440e3e836cd23cf3cdc.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/dcf5941c07fa5aa16581e5dbbb0a9dc41ca59b174966288e833bf0e01566cc87.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010153900",
+	"eshop_id": "20010000004344",
+	"product_code": "WUP-N-FB8J",
+	"name": "ドラキュラⅡ 呪いの封印",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9983a3cd8cfb7a534fb3a7e99ab5e784364ad60db5fafb47958188157a55ff8e.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9987700f88126fdeb5cbb987888e3804d86657647c700fe40e86f69391c356f1.jpg",
+	"data_size": "36569228",
+	"description": "このソフトは、1987年に発売されたファミリーコンピュータ･ディスクシステム用のアクションRPGです。 ドラキュラの復活の阻止と、自分にかけられた呪いを解くためにシモン=ベルモンドが再び旅立ちます。町で集めた情報や入手したアイテムをもとに謎を解き、呪いを解くために必要なアイテムを集めてドラキュラ城へ。このゲームには昼と夜のシーンがあり、夜には強い敵が出現します。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-03-05",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/c5ccfeb0775da17878c87cf3c6c7d73b638c9791ac5ca5a3450914c30c21080c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4edce50b734d771d28107bbd075f528ed57381d3dbb40d79cda8de5a987d08c3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c3de91586b85571363b9989a3951c91bbda882ef64e8cbc9f0b6ce86f8f99b61.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5a19fdb729a79ad19ae58ae572af1847b58870c14f49b9b84bed3464cc13557d.jpg",
+			"name": "ドラキュラⅡ 呪いの封印 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6c36af82a68d3d0acabafa67e8a1c1e3042f83906b896b5aecc7ff7b14de2cbb.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d6cd2d3e4801137de0be8e9540eeaf14dc7a66e02966b4b913683262404ef504.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				}
+			]
+		}
+	]
+}

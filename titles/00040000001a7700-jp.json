@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000001A7700",
+	"eshop_id": "50010000041792",
+	"product_code": "CTR-N-KQDJ",
+	"name": "クエストオブダンジョンズ",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 1212,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/22947c7cad76ac50583e0b36c5bd25191aafe3ca5ef1cc15186e7e5f55754363.jpg",
+	"data_size": "39398244",
+	"description": "『クエストオブダンジョンズ』はダンジョン自動生成システムを搭載した「何度でも遊べるローグライクゲーム」です。 プレイヤー側とテキ側が1ターンごとに1つのアクションを行うオーソドックスなローグライクゲーム。 敵にぶつかって攻撃、さらに魔法やスキルを使って敵を攻撃というシンプルなゲームルールでありながら、 ちょっとした不注意で強敵に囲まれてしまったら絶望という、 簡単操作でありながら、一瞬の油断が命取りの、ローグライクのスリルをおてがるに楽しめる作品です。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-11-16",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7d5b91fc1d6f5f1c0d2ba671ea1a528c3fc2651f56b1949f8b419201eae12f75.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ea077138a397acdd513a8b93d90a552a9e9ac0af78da0f7426132b32c72e9f89.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6db09421c479443418c4686d876559187d54458e9448235dcefcc6de9654cfc9.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2d5763106823172eceda59ccf211661b88a7c5840c21707743a5479751341e58.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/723cbde889c069dd33d7d00f1ed3395fd8b80d0683882d6a58c3e7ccef1e42ef.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/390285a27d3bf7173452d381ff8ededfa69617f18d934e287e3029096dc99bd3.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/90f88df130bfad02dd2619cd9b1ad228fdee710fe67c68f74e18ca6793049322.jpg",
+			"name": "クエストオブダンジョンズ 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/18fcad83e0f9ee371a161db1788005c7a00fef3c190527d8eab5adc29f04c950.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "103"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/96bc81d3fac9750d057fe6ec86dad73a5f629118c7275f82c2c4831be194e903.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "103"
+				}
+			]
+		}
+	]
+}

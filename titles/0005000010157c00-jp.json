@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010157C00",
+	"eshop_id": "20010000005928",
+	"product_code": "WUP-N-WGEJ",
+	"name": "アルファディア ジェネシス ",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 146,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d61d5f9f7754c38256eb73d96aa32dc5c82ff09f0c4ffb1e2525507aecf24160.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/fa1d17f52b4f38b7644e49e7f249d0b13fb5325822ce2d85eb99e6f9e2b05fdf.jpg",
+	"data_size": "287506572",
+	"description": "大地に溢れるエネルギー「エナジ」を巡り、かつて壮絶な争いを経た、アークレイン王国とガルザバイン王国。戦争が終結してから15年、突如として起こった事件を調査するため、二国は合同調査を行うことになったが――",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-04-02",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/2f8fe5a046abb761a84557e00ba87a44a215227f2336821e126905ecc169b24f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/fbc9421b13b16e8ed601de3dff49eadcf4f021f395372e0239453dbae0ea9e07.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2d95a8fb12156c61c3c5433978ce648159db5df6cd745042c2fe5f4a8ee6da71.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/99d142bd5523d467eaa872350d2f7117fb52bf58639b1b663f3c6274ccad918b.jpg",
+			"name": "アルファディア ジェネシス 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/96d80d23cd47c8f9a425b70e063cfbe1732f0d14d985e0017d79338fa85c4ae4.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "64"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/898da6d50f3b9ca688497f451a4dc49b9eb7c61b56833ee082371f4f09a5efc1.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "64"
+				}
+			]
+		}
+	]
+}

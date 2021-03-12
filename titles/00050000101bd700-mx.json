@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101BD700",
+	"eshop_id": "20010000020950",
+	"product_code": "WUP-N-VBDE",
+	"name": "RESIDENT EVIL 4 Wii EDITION",
+	"platform": 171,
+	"platform_device": "WUP",
+	"publisher": 39,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7718755a4bf4987a856d6f37f75ce47fe7f63813ddf228c482c9a0733817e09d.jpg",
+	"data_size": "4341203464",
+	"description": "Leon S. Kennedy, agente de los Estados Unidos, tiene una misión secreta en la que deberá rescatar a la hija del presidente, quien ha sido secuestrada por una misteriosa organización. Explora una ciudad invadida por seres monstruosos, con el Wii Remote podrás apuntar, disparar, esquivar y devastar al enemigo. También podrás jugar como Ada Wong en “Separate Ways”, un preludio a los eventos de Resident Evil 4.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-02-04",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/d07dd91e1c4e5bda7c4357d365b7178c8973db94bbb33bd7d649f72309a8f2a2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9ceedb3506f35998d8eed4e7d9f47d7fa36808c4ae2ec6223d20c7716a46752a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ea9c2b32fd5643eb854bbe25e161e5779f3aee3b90541de2ec249157d15fe40d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5de608082f09fd1807c20c934091fa3e68f8b2941eff61123bb81889c0d9383a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ad8f25112049166f7e5bcb2089c024fc3525e4c45171f94c20a3718b6e96ae58.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/149129c10ec305df97c7ee05447f5c1e60f397263b31ffe5a82d03527d8f59e1.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/08fbe83dd43adddf8b8eb00045a51ee0a0259e4481edec3cda6d6ea08ec09372.jpg",
+			"name": "Avance para lanzamiento RESIDENT EVIL 4 Wii EDITION",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f5273ca4425c35a70744245b16df172789cdaed5537110364931f01108a63d6a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "107"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2939659eac8e47511949b66ab253f4d467ab7e9c6a0a00a90e4356ae7af67c05.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "107"
+				}
+			]
+		}
+	]
+}

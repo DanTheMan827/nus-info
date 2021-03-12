@@ -1,0 +1,54 @@
+{
+	"title_id": "00050000101D7300",
+	"eshop_id": "20010000020490",
+	"product_code": "WUP-N-AM5E",
+	"name": "Molly Maggot",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1595,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/693ef3d95f420126a4fdfbddebf036da5eaf6fc20ee0674b401c825f3ecd5188.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/927fc7a92b52ec875a48bb711a01d869de3a3bc942df6674c019ee7752204e47.jpg",
+	"data_size": "84869280",
+	"description": "Play as Molly the maggot as she begins her life of decay flesh munching. WARNING a maggot life is a hard life. See how hard maggots have it as you defend yourself against other decay eaters and the corpses own body fighting back. Enjoy and explore an anatomy based map in story mode or try to make it through extra mode with randomly spawning exits. Both stages can be played in hard or if you dare extreme mode.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-12-31",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/05bc62ef48f4d6b9b7b12411c60aac96dbd646634c7ec947f2ab748da9f13288.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/29cc9b65c7112015ae32b2350459ef815cf00a70f53c87939047a84a754b6a22.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2c4cbd4c78fbfd416badd2d58d66f5d4a601a716b7008180e13b8b8bde5ae0ec.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/782b7b73371fcb1cc716a2e9d141296e8eb4ae1f47ce16d954fa613ae9178fd7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3b20f66c488bfe8a534b58a5ac52ee14fa7f2d2ff7d9d0e7d6868979563e4896.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5552dde8f080be20ec08349acd4e6eb6fd97f40b18c9a5b97dab5624da9df703.jpg",
+			"name": "Avance para lanzamiento Molly Maggot",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ec37d9b150fd844674d6f223c4de4da6869b45b9cc2f1d19451c6d194c0026c6.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "62"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/72e16da88648a6536b1eadb394db5983f8759da3d1e945c9b74846c872c59bcc.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "62"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001015F100",
+	"eshop_id": "20010000005712",
+	"product_code": "WUP-N-FCFP",
+	"name": "Volleyball",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6b02884267cb4ef74f6580d02c3a912ad6b7f8281aa443f2ecb84eeee85a7635.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/fd3bb68e974a2650db465c2675f72ed731ce6a608cef91137b3132cc1362ba43.jpg",
+	"data_size": "36503692",
+	"description": "Classique des jeux NES et accessible à tous, Volleyball est l'un des jeux en équipe les plus rapides. Choisissez une équipe, suivez un entraînement rapide et partez à la conquête du monde entier! Utilisez les attaques, les lobs, les plongeons en jouant seul ou contre un ami. Jouez à un rythme effréné avec 8 équipes féminines ou masculines. Volleyball ravit le plus grand nombre! Si vous possédez ce titre sur votre Wii, faites un transfert Wii™ vers votre Wii U™ afin d'obtenir la version améliorée à un prix spécial ! Ceci est la version américaine du jeu.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-05-08",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/2400ddc3a489d75d146c763835f05e7549317329972be977fb05a4a9859d0054.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/afe1afbf79e2c3e2d51cddbe49f5f992f732d3fb2a830248372c5d16a5e916bc.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/24418b39720a8529367bb1eea636c4245ba890e2c2cefebc1e10a8e18a6867da.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/618e85a95e1c4fc9ea154cec9294b2b0b84d9445e7ca28ceb066258133fe690f.jpg",
+			"name": "Volleyball : vidéo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/46135378efc5ad0ce85530cdcf31c54d0077ed53a34253aea1375d6dd71be10c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "43"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/861f313846c787c3053b92839b332136e4de8f3845f8b53a6f02a5f5c3421abc.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "43"
+				}
+			]
+		}
+	]
+}

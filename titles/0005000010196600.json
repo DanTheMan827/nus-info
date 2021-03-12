@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010196600",
+		"eshop_id": "20010000011908",
+		"product_code": "WUP-N-FELJ",
+		"name": "フィールドコンバット",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 1800,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/23fc99ca10fa39e28ca3e420468d62e9d2badf07392d85c0ff5490abfbd1f9b9.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4b0b055214c357da5fb44f12f4d159400abce00642789af20a14be222143f9b9.jpg",
+		"data_size": "38830240",
+		"description": "このソフトは、1985年に発売されたファミリーコンピュータ用のシューティングゲームです。 地球連邦軍の攻撃母艦「ジェネシス-3」を操作し、悪の天才科学者「フォゾム」から地球を守ります。ジェネシス-3はミサイルのほかにキャプチャービームと呼ばれる装置を搭載しており、フォゾムに洗脳された兵士たちを捕まえて洗脳から解き放ち、味方にすることができます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-11-25",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/be9ccc62dbc28b8e00e29f0ff1491e118613afd41f61f4a000626adbdbca057f.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/335e7f58c47202cd4af6c6c8ca034d796c65970a93dc7d8d713415b188f0c3b5.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/09479e2fa5f71722aa971b3524ce8f9ac90400922999f96d727d3e563a98bc25.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21415a9be07c4ce6193ca1aa0d30b5b2bca53b65fd4449936c4ec8202b4aa0b8.jpg",
+				"name": "フィールドコンバット プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9cfa1a05296ab9a13439c3a3b743773765577600373edc36bd7b4d8e264790da.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "59"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6434f4fae10e8fed898638a3eec857a63fa7bb8943ee90ecba679e21d1492844.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "59"
+					}
+				]
+			}
+		]
+	}
+}

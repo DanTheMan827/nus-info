@@ -1,0 +1,79 @@
+{
+	"title_id": "00050000101B5100",
+	"eshop_id": "20010000013388",
+	"product_code": "WUP-P-AXYP",
+	"name": "Kirby™ et le pinceau arc-en-ciel",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/eb0ef0daecbef2db01793deb4f36516c39dc2b119ab8af5616cd092b2e57f230.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/946124b32e944d58be9e80a1bf7ecdf1db55e273c26d0c8f7f5a1340d70b1a4c.jpg",
+	"data_size": "3068428648",
+	"description": "Dream Land a été vidé de ses couleurs dans Kirby et le pinceau arc-en-ciel sur Wii U ! Explorez un monde merveilleux de pâte à modeler. Au cours de cette aventure colorée dans le plus pur style plateforme, vous devrez dessiner des cordes arc-en-ciel pour faire avancer Kirby ou pour passer les obstacles et arrêter les ennemis. Faites appel à toutes vos compétences pour récupérer des tonnes d'objets à collectionner et aidez Kirby à redonner à son monde natal ses couleurs éclatantes. Visitez le site amiibo.nintendo.eu pour voir la liste des amiibo™ compatibles et en savoir plus.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2015-05-07",
+			"retail": "2015-05-07"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/37ca35d7ebb718c5393b3d76dd30c98d37c0e82f90b77a35a5a840a3eff9b628.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/84670b783db1a14a0357cb154a2678e598a826152763977054afbff6f7165666.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/eeeef632931be36d53dd1cbd30b28edff869b8b7298d76ea62050bfb328c99db.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6f1d58914a9ee3216bbe558668202f64255910e86e9470587cd9cf2b486d4eb0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4e73dea5612cb2c74c271bdea4ca472e2d6d31e0947373f4c6b85367e9362cd6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5dbfda68bb2375dedcf9d2b8278136a0e56e14e77456a6375bf15091503f1fe4.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f72157464cea4330f9982e1d3883123aabc785c20e3069fe476e6e8c9eb4ede7.jpg",
+			"name": "Kirby et le pinceau arc-en-ciel : bande-annonce (18/03/2015)",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/360e1682bd1721ab4cae564ab5588418f07fffe695f1c2b4bf3b9cba73a264a6.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "74"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/762f94a563e988a6c5c268a9bb2c869959f0284cc9e0b2b0ca2916135f11750a.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "74"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f72157464cea4330f9982e1d3883123aabc785c20e3069fe476e6e8c9eb4ede7.jpg",
+			"name": "Kirby et le pinceau arc-en-ciel : bande-annonce de lancement ",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5645a0443081d6deab0cf60e90777e4959f2c9a81971f337c6a56c5e61678fda.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "175"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d1d9e069a4a7c94150f957a8f161f544ea389ede594656a98de2f19ef22c9748.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "175"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101A2400",
+	"eshop_id": "20010000011446",
+	"product_code": "WUP-P-AR5P",
+	"name": "Tested with robots !",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1395,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1580272ebd66838eeab30f56d79d1665c4908218a0e7bdc7361e2ffae5a571a6.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/89394b9fc2bdba9c412c942b533981e4c7a51ce3364f512db9f5d97dc601463c.jpg",
+	"data_size": "95191200",
+	"description": "Tu sei il nuovo dipendente di una fabbrica che ha creato i livelli per i videogiochi. È necessario testare ogni livello di utilizzo di robot. -I robot sono facile da controllare, ma i livelli da testare stanno diventando sempre più difficile! -I nuovi elementi di gioco vengono visualizzati in tutte le prove, come nemici o pulsanti per attivare... Alcuni livelli sono puzzle veri e propri! -Tre livelli di difficoltà sono disponibili come difficoltà \"estrema\" (senza punto di controllo dei livelli) e una modalità \"contro il tempo\" è anche incluso.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-12-11",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/df2aa458b1637f0b58bc491ddc3fb47a532c559c7365a120675a28d84043669a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6c7a92aa2c29e5f3e2799c1df9f45c391022ae9cb89420e9d4973e3424e26c0e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/082942b9a523092e89185842df64304993c886ae10c92732b26c973bc3b3cdbc.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/10b413e20aebc1e436e1f5517c3dd36fcf870f5d78a14549b3d4e5868f42bda4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5159c53f4e3bc7e7ec8080866620f71131310f49847c67e02367431244f72b64.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9c2a62244878ef0b2cb170bdc21eb883af2409d42555f88d9e5dda3095a3bef5.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8ceecd00eac316e067efe52018ed0a9f34e10d3cf95fbcec51034bbd9108b10f.jpg",
+			"name": "TESTED WITH ROBOTS !: video del gioco",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e39426b55229d7a453eabbc6f3289431327012bc0c58b6088d31cda1277e61bb.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "83"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7dcdd52a72f4b0c1fa884032ad66da09669b150b4f8d1ade442be422fc20a05b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "83"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000169400",
+	"eshop_id": "50010000033196",
+	"product_code": "CTR-N-JXQJ",
+	"name": "ダイナマイト ジョニー",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 1307,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ced124d14bafdd8170fa45c4274f67b6262c1074dc3c570514c27660af05728c.jpg",
+	"data_size": "26123108",
+	"description": "『ダイナマイト ジョニー』は「ストーリーモード」と「エディットモード」の2つのモードが遊べるアクションゲームです。 「ストーリーモード」では、世界中に仕掛けられた爆弾を回収し、世界の平和を守りましょう。 「エディットモード」では、プレイヤーの自由にステージを作成し、QRコードで共有することができます。 ･ストーリモード 全54ステージがプレイできます。 爆弾をすべて回収するとクリアとなります。 ステージ内には、爆弾を守るように、ミュータントやトラップが設置されます。 トラップの解除や敵を倒さないと、回収できない爆弾もあるので、パズルを解くように攻略パターンを考えましょう。 ステージのクリアタイムは3段階の★で表現されるので、攻略パターンを工夫しながら、パーフェクトクリアを目指しましょう。 ･エディットモード ストーリーモードで使われたすべてのパーツを使用して、オリジナルのステージを作成できます。 作成したオリジナルステージは、QRコードで友達と共有することができます。 超高難度のステージを作成して、友達に自慢しましょう。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-05-13",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/da97af6d427932b19f981ec1217a22e69d3d6de682200f0dd145ee01c87a8519.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5792a4c64a4c0510052acdf6e7831e08a3a150061191f7f2551b306535fc2df0.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/aee89e468d9ad0c02eeafba2967a1b1e211777afe6f3f90f84f6ecfaa1243f80.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/3d69d1415fa55993dd7f8950aa7ecd2970a304420b67a012c8fca99cfd04e162.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/aefedcc97c97f827f13db10f1e5450e51792bb5c158fe361d3a511f20d67d345.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/df31a4ea66b533eb4662c9b28d4697df6fa177093bfa8c3b9064663a098b0239.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c40c7bb2190b1bc323ce8d549a26519087f50cc52b8ba11999f58828603b390a.jpg",
+			"name": "ダイナマイト ジョニー 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8c698f4a353fc68b8624380fe3be4e86f660d60cf7a68e3b47d3de522a13e316.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "73"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/16b72f778bdcb72eb76a18fd4dbc741ea52d07f53843772c657b3b7aad39149c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "73"
+				}
+			]
+		}
+	]
+}

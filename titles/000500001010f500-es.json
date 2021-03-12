@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001010F500",
+	"eshop_id": "20010000000280",
+	"product_code": "WUP-P-AMEP",
+	"name": "Edición especial de Mass Effect 3",
+	"platform": 30,
+	"platform_device": "WUP",
+	"publisher": 69,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8730fe4a0c30a3eb567dcd88ad6a404b43d22af7ab13840df164bd951b20ac46.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c5b86aae8707acfc9c090ce3a66a5e52122c07fca0a61423dd4e48fb642c5d31.jpg",
+	"data_size": null,
+	"description": "La edición especial de Mass Effect 3 te sumerge en una guerra galáctica total para recuperar la Tierra de un enemigo casi imparable... Cómo librar esa guerra depende completamente de ti. Una historia interactiva rompedora dirige esta acción trepidante en la que cada decisión que tomes puede tener consecuencias terribles y devastadoras. Eres el comandante Shepard, la única persona que puede salvar la Tierra de su aniquilación.",
+	"availability": {
+		"eshop": false,
+		"retail": true,
+		"dates": {
+			"eshop": null,
+			"retail": "2012-11-30"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/f379087c069df6574d001fa698060d80ee2b295a144472d6e0a7f657a0d5e887.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a3871cba1fe6875d01ec9be7c93f73ab7d47fee60f0dc1b794e0d8491839b005.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/93efd052c316cdc9db3344eb1ffead0dcc3bf84c66d7e8ea1b3e5886f7453aeb.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f28d6663f080b9cdba2ba7f8009015828ee286a08d5d95731b3d2c0f76bcfe06.jpg",
+			"name": "Mass Effect 3 Special Edition Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/63a245fbfb393d8fd427c16e9cb115a8d5c900edde863473f14b1786072b91b3.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "95"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e835f33eb76c389c91ae35faddcc16e9b22ff3b12b182c52895a4f7e22031b86.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "95"
+				}
+			]
+		}
+	]
+}

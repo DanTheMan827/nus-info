@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000D3600",
+	"eshop_id": "50010000023275",
+	"product_code": "CTR-N-TC3E",
+	"name": "Double Dragon II: The Revenge",
+	"platform": 24,
+	"platform_device": "CTR",
+	"publisher": 19,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f18816ff714391a88a8ee934009f8c3552601bfb7b6ecdf280130a4d1495c1c2.jpg",
+	"data_size": "12737428",
+	"description": "Billy and Jimmy Lee, the Double Dragons, are back to avenge the loss of Marion. In their quest to defeat the evil Shadow Warriors, Billy and Jimmy must complete nine missions, facing deadly street gangs, ninjas and huge mutant fighters. The duo must traverse through construction sites, alleyways and underwater hideouts complete with secret elevator shafts, spiked ceilings and razor-sharp mechanical claws. Can Billy and Jimmy contend with the enemies placed before them and ultimately save the world?",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-06-12",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7bfd84d41a7d1dddea0e56fee576eedce0fb7e74de85e67fe173fb540630e502.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b8d6039bae65d7c53251c88129c642502de39823678f2bb6b669c43da7d3812f.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6e268201a9aa6c3e952c1597b3f8e89d144310d348475c026947b3a743345912.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/16f177e8a671d7a03883aa2bf889b139d658e73ff296ee6538bc32739edd2a4d.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8fd549cc4da71cddefc76f417dc5754574fa269dbee7a5685dc957d32b74558d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/de41e67eb2d2517ebb25dd8c1c8e1e5554d241d22c80507e2090530027f53895.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ad2b26a3be89e2f81a35d8ad747776dcc99a25e37819983766ba00a78f233502.jpg",
+			"name": "Nintendo Minute – Double Dragon 2: The Revenge",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/80e9a8a0cc94aae0b268c143f084dc3267b269207c51a5092aa0697085860e46.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "640"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3dbe8576660f73df05c74996eb0c0d35da2e44e3e9dc1f698bb2820a71c74d85.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "640"
+				}
+			]
+		}
+	]
+}

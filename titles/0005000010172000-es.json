@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010172000",
+	"eshop_id": "20010000005865",
+	"product_code": "WUP-P-WKEP",
+	"name": "Pullblox™ World",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b5caccd76a6b7d0710805f6884a625fc99cca75dcb7bd294605aa569a329db94.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/037044d8f5584c9f98246c13f45e571f506aa4d386424fd9701e1eda1d02046f.jpg",
+	"data_size": "603685044",
+	"description": "¡Descubre la mezcla de puzles y plataformas que solo Pullblox World ofrece, disponible en la Nintendo eShop de Wii U! Escala a lo más alto de las estructuras de puzle empujando y tirando de bloques para crear escalones que te llevarán hasta la cima. Te esperan más de 250 rompecabezas nuevos, además de nuevos tipos de bloques que crean reacciones inesperadas y la posibilidad de crear tus propios puzles en el estudio. ¡Puedes hasta compartirlos con el mundo en la Galería Mundo Pullblox!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-06-19",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/8605021a75abe5c67dfe2d765912a49713e0599cc55d6a70c7955cce812ca30a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a03e3d9f4e4d4dbfd1f17641ea68b4eeb36fd217619a0dec77d2597d1734a9b6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7a0a45a6d42fc69ada4e8648dd38fce56d27fce03644b8fa0697b636f8ab6079.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/cec257c7bc58cac4b6b7a22ab0a39520815f21675b1e5e2739ee38e51a013abd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bf21dc16eeb84ea692ba8c3264da1a4b3d8a8f5d14d37aabfe503422aa3bb692.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8efea738287260b53d7a6a28d7edcdf318521d52efcea7a8284452e4c0203b20.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e6c46de6723d729f9cfa63a3a3dc103873977e0edada8604ae0f9d1c0d850180.jpg",
+			"name": "Pullblox™ World: Tráiler",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/874b1ce408475309e9c1e29b8e833510cd8f9d41ce184a0c22fa4fe93374ed62.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "155"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/be54e20f56b3333e8220b9099fa437a74d087bbb99394d7a6653cf35f8973ed9.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "155"
+				}
+			]
+		}
+	]
+}

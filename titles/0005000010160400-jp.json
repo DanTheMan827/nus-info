@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010160400",
+	"eshop_id": "20010000005425",
+	"product_code": "WUP-N-FCPJ",
+	"name": "サッカー",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/be98d07f59c2f4d223d4ac902da249ba2f048050fa450cf4705d8394a33740cb.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/2a1b30d7266a6f238ae8abf699d072e9f67f3e92b060f61a48a2a557169142c4.jpg",
+	"data_size": "36536460",
+	"description": "このソフトは、1985年に発売されたファミリーコンピュータ用のスポーツゲームです。 シンプルなシステムながら白熱した対戦が楽しめる作品です。1人プレイ時は自分のレベルに合わせて対戦相手の強さを選ぶことができ、2人プレイ時はお互いに好きなチームを選んで対戦することができます。 攻撃のときはうまくパスをつないで効率よく相手ゴール前まで攻め込み、ゴールキーパーの位置をよく見てシュートを打ってください。守備のときは1人の選手を操作し続けるのではなく、操作選手を切り替えながら守りましょう。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-12-03",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/d12c80efaec4ce9e491d51890ffc547202c7bb33908221ccb69543ed05d45566.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/650fc6d97890969b8407275dcc70db570d8c020cfebdd5a52982a04c557768cc.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ab40ebf339b633369065f241273850cc8691a1eaa86d1a1d5ecf1c391db22d1f.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d8ddbef594f6c7fe3567adf5cd9379de7ec6dc79580bc982302fcbe459839f8a.jpg",
+			"name": "サッカー プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a9ead516a6c1c44fd75d38b1482188716756c2db0082bb3255673e0275261c5a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4eacac649a0470e823be03015bf9e17f1233e3490864d0339ea4169de31a91af.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				}
+			]
+		}
+	]
+}

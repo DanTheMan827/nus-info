@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010141200",
+	"eshop_id": "20010000004004",
+	"product_code": "WUP-N-JBQE",
+	"name": "Uncharted Waters™: New Horizons",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 267,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/94c9e586a49e52a42db294b89f50f27990722400157f58f0ed261f34a2350632.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f051cfaf6bd7627dd3c60e3d027f633a0a1d76bf21d49d73bd7026dd2f11d111.jpg",
+	"data_size": "41713804",
+	"description": "Uncharted Waters: New Horizons is a game set in the Age of Discovery, the golden era of European global exploration during the early 16th century. The player selects one of six characters to play as, each with different backgrounds and different motivations. With over 130 destinations, unearth treasures including rare animals and monuments while commandeering a fleet and avoiding enemies on open waters. While visiting exotic ports, recruit new members to your fleet, purchase new ships and upgrades, gather useful information for your next target and settles disputes by challenging adversaries to duels. Cast off and set sail across the world's oceans in a quest for adventure!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-11-14",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/bcf9346f375de187024f7b08ff05d763a2b539c3b0440ab4209793fc3ce5921e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/cbe4a9c41094cc79b05e7dfd0a8f849e40dda0cfbef5cfd4c28ab482f31045a6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/41ece01e9dd07e54b24243db1ce68f3e4d96a1d8f8ac17611c125a775d2ab9de.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/860e7a8d0190b9db3a3e06be635565f9bfb1fa16ea17c023eac0b9e211d79bfc.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f619ab964489ebe6b710c4d5e7aa9bdfcc34570cdc7dce49d63310b1f3ca1993.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/685d15dc2cfd83dc23924ce443d5b0b9196ba8b8205c8562f41d49e280e7d832.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/edd903ba21d1d75b4a54cf828dfcd181306ee263b69be51356ea83231d59ec4a.jpg",
+			"name": "Uncharted Waters™: New Horizons Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9a3d0a72bbf9603011c5f75f456abd19012f7963eb55048b289f47852ea56bf4.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "31"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fbe22ec32e00a0e50bab1ad02917d68b09474649f1e6befd373064aabc2abcef.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "31"
+				}
+			]
+		}
+	]
+}

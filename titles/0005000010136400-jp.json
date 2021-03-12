@@ -1,0 +1,76 @@
+{
+	"title_id": "0005000010136400",
+	"eshop_id": "20010000000763",
+	"product_code": "WUP-N-WASJ",
+	"name": "ナノアサルト ネオ",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 19,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d711a58a6b6dbad2b669ca10cd98a113e98461c2bec1f12a29a90289168f8844.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/30b9cdbc402cc7ae231f7907c8aeff231c059bb739c3ee60eee2e155e1e16e3f.jpg",
+	"data_size": "87752824",
+	"description": "ナノテクノロジーの世界で危険なウィルスと戦うシューティングゲームです。 感染した細胞が戦場となり、360度全方向に移動･攻撃しながら、細胞上にうごめくウィルスを撲滅します。 5種類のゲームモード、HD解像度で描かれる16ステージとボリューム満点。 Wii U GamePadのみでもプレイできます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-02-27",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/9c342f3311224a7324e6323a2d53cafef438dd8ebd4a01c9d2870b283b2a4b68.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5aa38fbb8a236bf4d3ade89e3cab337cfb29a0958708aaf70943584f9571373a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2de7be233598754411ec48c5c69cdaee507b5d76cb6f01a13aec12d39ac905a3.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1d76766821b59b4961fb6975a8b9a2d8ef4be5d800bb795562c80946d98d631e.jpg",
+			"name": "ナノアサルト ネオ 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/15ec902c4184691b1f2dfb4105994da15c4d262abc02651cea523546c3c047dc.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/736a7d8bb8080badb58f6b03a8fe4d76991798fd70f64919196d3d832fabfd95.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cd34d83ed146f2f04f952f39aa0a9068372bea6c00e8fc43e1bb3b5a2deb24b4.jpg",
+			"name": "ナノアサルト ネオ プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/aa76b77e1b3f72d30b3233c1a2fb808f35d943899fb0b9e5de8329f4ddfd139b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2b77dcee921be61d08f92d01af1f2ae9cbe083669d6146b8c756d9f5b486e179.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				}
+			]
+		}
+	]
+}

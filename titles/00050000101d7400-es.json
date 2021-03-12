@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101D7400",
+	"eshop_id": "20010000019987",
+	"product_code": "WUP-P-ATTP",
+	"name": "Caída de Tótems",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1327,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/88451a04c185518d8939d6882b1b87aa66c6b9257c369ec888dc074f9fcb04ef.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/1d67b53402a89a2414b9261d0a42fcb9cc29f5e0a247a1c91f0454a5ae9b85bc.jpg",
+	"data_size": "264306828",
+	"description": "¡Construye tu tótem hasta más allá del cielo y las estrellas en un nuevo giro del género de la torre de defensa! Los lobos, osos, ciervos y más, apilan diferentes cabezas de tótem sobre tu torre, cada uno con sus propias fortalezas y debilidades. ¡Añade alas protectoras y dispara flechas de picos de aves para defenderte de los espíritus demoníacos que tratan de golpear tu totem y derribarlo! Incluye dos modos de juego desafiantes y únicos: Elabora cuidadosamente una torre impenetrable en el modo Clásico, o siente el rápido ritmo de la acción del estilo de videoconsola en el modo frenético. - El sistema de actualización avanzado permite un juego estratégico complejo. - Dynamic AI ajusta la ferocidad de sus ataques basado en tus progresos. - El estilo de arte vibrante y único está inspirado en la cultura nativa americana.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-06-19",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/f91251eb8b7d23fe460d600f28efdfbd065959823c9bc0cf439a8b094759323d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/73db10f3ec20a84f83af3497b9be58bbe2a3fc518caa46d9123dd2ae9f3f98da.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/65e9c63b2b423e94fa51f434976a148b39b029637aa835b2dc23827873256446.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/447e4fcb7824e528201f9e46d03d3fdbb0ba1ed45b8fb0dcac5dbabe091303a2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/85d53e01ecffc72db0ad002a07af2fa7869b77dc44cc6276482d4d0a19d5b1fe.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/09e69c59ffbf7923cde172b1a3d2edc5bb8670333c87acc32002ff99515807b5.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b07b7716aa60e3af46a941fe7314c4e942b6c07b3bc162a3dcf5ea16d36f158c.jpg",
+			"name": "Totem Topple: Tráiler",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c09e5237ded044a4b480f03a99d14a73a24e30d28dc7f18bdc2a4f5dc546a426.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "59"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9f669c4abb781c6983cacea97626c3b9331624208b4dca51f9e2bb989a34ec56.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "59"
+				}
+			]
+		}
+	]
+}

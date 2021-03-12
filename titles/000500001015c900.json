@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001015C900",
+		"eshop_id": "20010000010727",
+		"product_code": "WUP-N-PNWJ",
+		"name": "ボンバーマン '94 ",
+		"platform": 166,
+		"platform_device": "WUP",
+		"publisher": 149,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5c8de18dffcd8cdc2c53887ee3d7a174b3ce62bbc7aa0468275a07a4311cfee8.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c67118b14774f330112436f51f5a8e0d52fd8b7599c823b729a51fa392d659a0.jpg",
+		"data_size": "84279436",
+		"description": "時間内に爆弾で敵を倒し、出口を見つけるといったシンプルなルールでありながら、ついつい熱くなる対戦プレイが魅力のアクションゲーム。 1人プレイのノーマルモードと、5人までプレイ可能なバトルモードの2つのモードで遊べます。 シリーズ初のお助けキャラ「ルーイ」と9人のボンバーファミリーが登場。 破壊したブロックから出現するタマゴに飛び乗れば、特徴の違った5種類のルーイのいずれかに乗ることができます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-11-19",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/65f7e1be73e7c7eac05c0a591ec71095fb0520e1c43b5be08e2d825d1cb7b4f6.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/d93ccbb8e5ced127e8a8513dd580952439be5ef303c6547165796c38cab71b13.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/0d3c1d29a41b81caf4bc105c76bb6d16ea0a5854b12b25279d956dcae3977c3c.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e5d6985524809b54b620ef1a43eed090e3b53104439e5ed032b7cca15598d7f6.jpg",
+				"name": "ボンバーマン ’94 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/92837edf84c69bb211f4c4f4a57fa510ff42745d8fd904ce6b1138a1c68e11d6.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "34"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/257668c182ea6cd56891b06f4dec3fc70ea9f86e90dbe503c470dbb57e81373f.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "34"
+					}
+				]
+			}
+		]
+	}
+}

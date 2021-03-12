@@ -1,0 +1,87 @@
+{
+	"JP": {
+		"title_id": "000400000010F400",
+		"eshop_id": "50010000018474",
+		"product_code": "CTR-N-JEVJ",
+		"name": "電脳からの脱出 escapeVektor",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 19,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5098eea63bbaf737c2bb71148164f30f1da20038831fe596b6a1b2615fda8b66.jpg",
+		"data_size": "25906020",
+		"description": "■記憶を失った謎のプログラム「ベクター」 なぜか電脳世界に捕まっているベクター。 あなたはベクターと協力して、敵である 「CPU」の魔の手から彼を解放しましょう。 彼とこの世界には一体どんな事件があったのか……。 あなたは無事、彼を救い出すことができるでしょうか? ■電脳世界を駆け巡ろう! シンプルなビジュアルとレトロなテクノサウンドによって演出されたサイバーな世界観! CPUが支配する150種以上の奇想天外なステージがベクターとあなたを待っています。 ベクターの動きにCPUが適応する前に、アクションとスピードを活かして脱出を目指しましょう! ■臨場感あふれる「CPU」との戦い! 敵の巡回ボットやハンター、インターセプタを巧みに避け、CPUの迷宮からベクターを救い出しましょう。 爆破、ブースト、スーパーブースト、ブースト突破などのスキルを使って、どんどん強力になるCPUに対抗しよう!",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-12-11",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/36e1e035be4cf9982a601b1998f40bec9563a1720cfe8a567e77e0091762aaf1.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/35623128601a0e1fcef9b83c9bacaa7b0249bf34c30d4a744a8b156c08e2b5e3.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/fd7f36151a3b753aab5a409c992473c0379322948e2c1f2b96b101ddc829c5cd.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/263e7f016037f5ccbb354d6932d770e2fd0c9d849a3e5d8e598f9715cf5f8169.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bdcc3e905d937ba39e6b9fbbcb2574333c9f2e3b53ba78720239d233798a0ea8.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9eff92ec1c4a9c6fd1ab2061f0d875997f7c82df3144fe9ebaca330e31835280.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/97eb832485296883a21969f305e5bfdfeee643b5d6737bea3aefba32d4e9bb1d.jpg",
+				"name": "電脳からの脱出 escapeVektor 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4c2c411d909fa54dd15cfe3fbe6783d8f7245dc8ecab091d8c413fa8c2588ef1.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "226"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9ac537fd0982cffb25a810163c287874092240593657e3845bc8bd515e41b4f5.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "226"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/81236cb5a11f65bbfd1eefb0d2d2b8c82bb7c99c7a6c68be4364f26337b0ae49.jpg",
+				"name": "電脳からの脱出 escapeVektor プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/01d3d9583965b87af9b6b5310d1d6f0553ec7d72134249fbb77c2a65e2169149.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "45"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/490bee9c09fe99fbf29fb358902ffe65c5f25a78e694f83cee5547675af76f85.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "45"
+					}
+				]
+			}
+		]
+	}
+}

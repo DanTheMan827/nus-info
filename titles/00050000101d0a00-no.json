@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101D0A00",
+	"eshop_id": "20010000021008",
+	"product_code": "WUP-N-PDGP",
+	"name": "Pokémon™ Mystery Dungeon: Red Rescue Team",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6a5b58cabba7d403c560ad8e9b176898255631210c7facaed2a821e0bca49089.jpg",
+	"data_size": "96043148",
+	"description": "You've caught them, you've trained them and you've battled them - but now you can find out what it's actually like to be a Pokémon! In Pokémon Mystery Dungeon: Red Rescue Team, you wake up in a world inhabited entirely by Pokémon, as a Pokémon yourself, with no knowledge of how you got there or how you can return to human form. But perhaps there's a reason for your arrival. Now that you can understand the Pokémon language, you learn that a series of natural disasters is threatening the community. You soon befriend another Pokémon and form a Rescue Team to help Pokémon in distress. You receive missions to rescue Pokémon trapped in dangerous dungeons, which are always randomly generated (meaning that you'll never play the same dungeon twice), battling wild Pokémon using a turn-based style of combat. ",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-02-11",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/373e3b000d30e9b1ccb1d84c09aeb6606d18eec6729bd41791cffeba0f3d051e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/88aabdc4fc670ff3c424365adf1d9df5c3403701fe038ec712cd5edb28fcb94c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/64e9899e91a71033892e061713855111595aa1ab6d6f5df4d8815a5ed12e37b2.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b733bc69f79d24834913042e49da972d6f98cc97722c1b724434825764902690.jpg",
+			"name": "Pokémon™ Mystery Dungeon: Red Rescue Team: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3067494e9d99faa04c0787145d5b962371477a70182eabd13118b901079a86bc.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/857f69237c2558111211c00b6e1e9a953a99ade995898cdb4a281304bb667841.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				}
+			]
+		}
+	]
+}

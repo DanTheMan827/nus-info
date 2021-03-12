@@ -1,0 +1,85 @@
+{
+	"title_id": "0004000000132500",
+	"eshop_id": "50010000029435",
+	"product_code": "CTR-N-AY6A",
+	"name": "Code Name: S.T.E.A.M. ",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c931c82cc95fb3d7647bda0a1e2388378aafa0ba7b6c014a82c394131a835876.jpg",
+	"data_size": "1098505060",
+	"description": "Эта игра доступна только на английском, французском, итальянском, немецком и испанском языках. Code Name: S.T.E.A.M. — это новая стратегия для Nintendo 3DS и 2DS от студии Intelligent Systems, которая известна такими играми, как Fire Emblem и Advance Wars. Игра обладает уникальной атмосферой стимпанка и графикой, выполненной в стиле комиксов. Игрок выбирает четыре персонажа из команды агентов, каждый из которых обладает уникальным характером. Руководит ими Авраам Линкольн, 16-й президент США. Ваша задача — отразить вторжение инопланетян. Посетите amiibo.nintendo.eu для получения информации о совместимых amiibo™ и прочей актуальной информации. Чтобы использовать amiibo с системами Nintendo 3DS, Nintendo 3DS XL или Nintendo 2DS, необходимо устройство чтения/записи NFC для Nintendo 3DS. Устройство чтения/записи NFC для Nintendo 3DS станет доступным в течение этого года. ",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2015-05-15",
+			"retail": "2015-05-15"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/aee0d33bf890c3b3b1636afe088981286ce2b4ac8e79bd5a26f989f17f31081d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/cb439f8ff0714e029439d644eb3f876d6e80830492df7ab9bf3fdbc985f2f749.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d9c5a06d54727864f3b15bfc3ad72e808e7cf59040132a52eea9fda3a8b50240.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/60858df862dc4d3b9b62606bb1c17b24194944190cce17f001d69fb6015de7ea.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/24d50173dfacb18605fa73a732cfa55fbf68fa521979693958fe4d6ed09cd373.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/72aeb1d17c906acbed4d8887745306a7f558bba8a2234468f4179b7122aff15c.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/187c43f9daf0295839941a25bd71a0f12d640942fb04eb57f3e68d7ba2d65ae8.jpg",
+			"name": "Code name: S.T.E.A.M.: трейлер к выходу игры",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/739efcc439e9314b1dc4e049b2cbfc2e41a366be4d3ea8249ea4da36a25fe7d9.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "110"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8ae58969b0afa713759a80f6aa307235b69404e9ec92d8154f4b66640ec5e173.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "110"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/187c43f9daf0295839941a25bd71a0f12d640942fb04eb57f3e68d7ba2d65ae8.jpg",
+			"name": "Code Name: S.T.E.A.M.: караоке-трейлер",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fab7aa29da9645e5a405d73f58e22410e6d7f6990e337bc9ecaed330150fbc35.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "147"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3bbd9a6ce60395bd17225827b276818a932e47ce170f78411b6efab521e8662e.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "147"
+				}
+			]
+		}
+	]
+}

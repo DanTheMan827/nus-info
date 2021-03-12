@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000103F00",
+		"eshop_id": "50010000021613",
+		"product_code": "CTR-N-JS5J",
+		"name": "@SIMPLE DLシリーズ Vol.26 THE テニス",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 57,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7aee054fff33eb87998e79b0572eba2c2d050588b038dddebf35df4499548c5c.jpg",
+		"data_size": "97008532",
+		"description": "みんなで楽しめるテニスゲームが登場です。 ゲームでは8人のキャラクターと6つのコートで、シングル戦、ダブルス戦、勝ち抜き戦を楽しむことができます。 ローカルプレイ･ダウンロードプレイ･ランキングといった通信機能や見た目が楽しいコートと衣装の追加コンテンツも充実。 1人のプレイでも、家族や友達と対戦プレイでも楽しめることうけあいです。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-04-16",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/9ccd4645c3ba8720b6e2783045582649a78124562ce1bd2d0bf372e9ba346444.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9e5c421159c77551393bfd119c741cc0ee13eb8efd4ac7d7f65d3ca3517b2cdf.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/98b639b83f49d4b01036a2e22294683d736433a648d3097a48e843753a2731cd.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c01e8a9922eb6ef2fc983dadd787fbc5e85bb029be332cc47172418088b50314.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c31c67a9d100e668933caa39a7000bff16f5c69e402cae9d27f4f013cd72b44f.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/18ae22d82332ccc0016c880f767e13e3d3531b744d44bbed92c3a1a86399c5bf.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4785189b24aabffb7a5e0dae8a174f27ade451f68291a74dcf3e4936796d27e9.jpg",
+				"name": "@SIMPLE DLシリーズ Vol.26 THE テニス プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/99d013ea21f745f8b119b9d7ce8956589d7a23b5f6d30315c7c3a6a86077fe2e.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4a4ef766828bc6b358b3401edce327df38b8236b2e9236de072902b2a912f414.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					}
+				]
+			}
+		]
+	}
+}

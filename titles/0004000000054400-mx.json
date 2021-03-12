@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000054400",
+	"eshop_id": "50010000007379",
+	"product_code": "CTR-N-SACE",
+	"name": "3D Classics: TwinBee™",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/bc8b89ae9b61f802059ad45488ce54ab4762613b2c428aff5123bab90e971659.jpg",
+	"data_size": "24152932",
+	"description": "Todo un éxito en su tiempo, este juego de arcade de desplazamiento vertical se lanzó exclusivamente para la consola Famicom. Ahora, por primera vez en Norteamérica, ¡3D Classics: TwinBee te permite disfrutar del antiguo juego de disparos con un nuevo aspecto en 3D! Guía la nave espacial TwinBee, destruyendo a los enemigos aéreos y terrestres mientras esquivas sus disparos. Si te alcanzan y pierdes los brazos de tu nave, ¡tendrás que encontrar una ambulancia rápidamente para que los repare! Dispara contra las nubes para descubrir campanas. Atrápalas para ganar puntos o ¡sigue disparándoles para conseguir mejoras para tu nave! También puedes encontrar mejoras en la tierra. ¡Surca los cielos con tu nave espacial antropomórfica en esta nueva versión del juego clásico!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2011-09-22",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/4f3989c9df87f331e7980d0de385d8c21fd74a19c59fda2bfd321d97ef6ad591.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8fe4aabf4fbfc9a960512b5b14000c89ca5a194f46eb14f26df19f542aa97b89.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/94e3512175f60b05892ff2fb8473c06244303a45b607b229c1960c79349593ea.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/982c2737ede591eafcaec4e7915b47eb7882ffd93de2f46d99f4322115619841.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a8d3f8939de83b76f2b3d0e060417df666d8c54145a39e3f9a0d3f7aa033bc46.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/163cec0ba878da33e389f24a8b2750684c89f7c7e0e1809fc693f0ce7e832b6e.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/405d7d9af685404364a6b84b49f9978e75ec7a2ffcee68abc587f899c3bc8b4c.jpg",
+			"name": "3D Classics: TwinBee™ Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ac0625efeaa31e139a46b4ef7e099061cbccb56d4b8ad7ed88c631b5538ad855.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "68"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/415a8de9b107ca13ffe2f8df85d0b6b75065455d42c4c9ac6e1e1845610b457d.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "68"
+				}
+			]
+		}
+	]
+}

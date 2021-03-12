@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001012F400",
+	"eshop_id": "20010000001984",
+	"product_code": "WUP-N-FA8E",
+	"name": "Metroid™",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0f27598c4f5eeefd74a4ef398e8c652cc706582d746f345858c9b4fecf4ed008.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/91166a417820c1f0ceda90be95d155e023719ad09f17c145e8f39d97ec1e1587.jpg",
+	"data_size": "36569228",
+	"description": "The first installment of the immensely successful Metroid series introduces us to the hideous title creatures and the slick, cybernetic bounty hunter Samus Aran. As Samus™, your mission is to penetrate the space pirates' home planet, Zebes, and keep them from destroying the galaxy with the dangerous life forms known as Metroids. Metroid has all the high-tech weaponry, creepy tunnels and crawly alien creatures that anyone could ask for. With its deep and complex game play, excellent music and a rare sense of setting, it establishes a frightening ambiance that will haunt and entertain you for a very long time.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-07-11",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/733a48cb6e15f0780437c9fbebb7af33d5666b7b3a56737fe4c73b1cf1cc53cd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0fc170b0790bb5e79e6711f97ce0947a926c5b8505af46832eccc575009ed07f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6df4fa280d47aeabaec6aedf54e4897ba0dc108aa8841f5de40a66503cc52e29.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b8aeb25ca9351f3adf05f9eafbee6f772b660e08b1250efa5052ba6d62e60a70.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/22c674a89dfe1f5070e595c7e1ea73b9fb9cb88e66370a104b8f7ab19f1d6a04.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b4f5acdc32432b551342fd5b75db16762d3cce6aee7a4dc7886c43ee314f9f0e.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fcfc0ac7f687f74bed4b73085b437c5cd65117b81611b19f9b5fcac0cae46534.jpg",
+			"name": "Metroid™ Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/75f30d2a7cdff18bd521b508613387fd13a2e14535f0af95a32e881c98f07ec2.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a340d427e20929f26b80a7b69ae1c4ad702d2a5c77d2c6973a25c3ced1b9694d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				}
+			]
+		}
+	]
+}

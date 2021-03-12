@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010113300",
+	"eshop_id": "20010000002104",
+	"product_code": "WUP-N-ASUE",
+	"name": "The Smurfs™ 2",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 278,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d2e338816eb46ff333f3a687fcc09d5c15aff80589338c2f8e74c0f9e1b39581.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/91887044df1cae141864455bc1c8cfa9e20c940e5094e873d93a05986189e536.jpg",
+	"data_size": "1532297436",
+	"description": "Una de las grandes películas de animación del verano, ya tiene videojuego. El malvado mago Gargamel ha creado a Los Malotes, y todos juntos viajan a la Aldea de los Pitufos, secuestran a Pitufina, y se la llevan a París. Papá Pitufo y sus amigos tienen una misión: viajar desde el Bosque Encantado, atravesando las calles de Nueva York hasta llegar a París, pasarlo bomba en todos esos sitios, y traer de vuelta a casa a Pitufina sana y salva.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-07-23",
+			"retail": "2013-07-23"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/ae747ff0697a396a605fd7133dca1f3cd110437bc5e4bb74342cc542edbc2d69.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/583832b954b7d74089b91e859cb59e3a6d564c3d5f8829f799cff64228d665fa.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b5e91dff846e8e4866f5f2bc1370f22049ec47e39060d597a7f442b987b1b72c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5fe8d280285ec2bcaacbd51b5a009f390fe8e602daf1341159fbbbedfb3328a6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bd71c7770aef644c70bba3be2bbe7909beef461ab20e0a3721f0682b7c2ac7bb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/378b506b596ad4a3022258f91a6dbb29635853776edccba7e4e6c104e47c19e5.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/24f318e9a6b2c8c6d95308cc2a870b26a34245ddac1a75aa543dd310b6d4ca02.jpg",
+			"name": "Avance para lanzamiento The Smurfs™ 2",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/22ee45171df8234a96c255fc27f9408d0f1f0e32c916f5f1849163b8f80d2d7f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "69"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/326fb2f655c2c8c633fa170f59e899f00a3ef7ab3d45135e007e54dcbe269b0a.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "69"
+				}
+			]
+		}
+	]
+}

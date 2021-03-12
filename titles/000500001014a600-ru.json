@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001014A600",
+	"eshop_id": "20010000003224",
+	"product_code": "WUP-N-FBQP",
+	"name": "Clu Clu Land™",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/aaa20dfbea3298e83dbaa388ebe09ef2fb118a05aea98f48e087d581b975fb5b.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7e34bcd152ffd7b2330ae7d671943f5b2942b53f0e7240d654235cb6a82e5197.jpg",
+	"data_size": "36503692",
+	"description": "Clu Clu Land — одна из первых игр для NES™. Действие этого уникального динамичного экшна разворачивается в лабиринте. Главной героине игры по имени Bubbles предстоит пройти множество уровней, исследуя игровое поле, уставленное столбиками. Чтобы изменить направление движения, зацепитесь рукой за столбик и поверните вокруг него. Ваша задача на каждом уровне — обойти поле и найти все золотые слитки, спрятанные между столбиками. Остерегайтесь морских ежей, которые так и норовят уколоть Bubbles. Но наша героиня не робкого десятка и может дать отпор, поразив противника электрическим разрядом. Загляните в самые укромные уголки поля и сражайтесь с врагами в одиночку или вместе с другом! Если вы приобрели игру на Wii™, вы можете передать ее на консоль Wii U™ и получить скидку на обновление игры до версии Wii U. Эта версия игры предназначена для продажи в США.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-10-17",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/ab829c8a648ff3d10a81fd2338b3cf40733dbf851baf67477483f03975418a09.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/13888736b70ae58d13dcee03d2ceb748fc538aa186d9ea4d67d6a9f7d096724f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/796229b46c1f7eb783515ac29b54021734f25c96a16c16b8cb98dc3cd50b9325.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/428e5806955e2054bb72c03802163df0256e6d04c2042d4136b46b257eaff999.jpg",
+			"name": "Clu Clu Land™: видео",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ce699a30187df0bb34bf5fe600662e1305c724c3d088a63d46578dc725d59131.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "42"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/136f6961c12e4f13a3d54a57915a789865ea437c80457b39507e1f4c2c75cf77.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "42"
+				}
+			]
+		}
+	]
+}

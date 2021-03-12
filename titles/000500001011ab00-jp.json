@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001011AB00",
+	"eshop_id": "20010000002704",
+	"product_code": "WUP-N-FAVJ",
+	"name": "ロードランナー",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f497faf1266013f0dad6f3dbf6acd72115e93c68f436af4adf4e7ca2447e467b.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b7a17ad3b1ee0b447d76b34632dfe06f497e7673329fd5a4e02431566701ca13.jpg",
+	"data_size": "36536460",
+	"description": "このソフトは、1984年に発売されたファミリーコンピュータ用のパズルアクションゲームです。 地面に穴を掘りつつ画面に散らばる金塊を集め、地下から脱出することが目的です。プレイヤーを追いかけてくるロボットは触れてしまうとミスになりますが、上に乗ればミスにならないため、足場として使用できます。エディット機能を使って自分でステージを作って遊ぶこともでき、初心者から上級者まで気軽に楽しめるゲームです。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-09-17",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/44571ef02d6479841d3ed848667928f4290fcb472ffe100ebe36a4c6af15b427.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0da72e9933bcc3342527e34d1e33ac61b17d7c16bc5af7e84c2634bd50365276.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8d3ad805ca02ff4accff4713b98308ac20933f8e9f3bba41301a1421f5563449.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/762df3df25dc93e0ee0cc2862909158e19682d3309371c0b9812f5727f7ed8e1.jpg",
+			"name": "ロードランナー プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6b45de3ec01c1e68c1341eb3a1a1de06758a4df4ec2eb0cc87c24588ed8214b1.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8c8c43520b4eefd5c3c8e6ee255fd090e9d42efbffc86c2fca3efe176e857ace.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				}
+			]
+		}
+	]
+}

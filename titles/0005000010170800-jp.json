@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010170800",
+	"eshop_id": "20010000006528",
+	"product_code": "WUP-N-PPAJ",
+	"name": "R-TYPE ",
+	"platform": 166,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/597bcced7676ea634cdd326e23322323f16d9bfcbc1798525250b40763b87ee6.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/05a67fbad658f16bb9c214e2681bf0c41e20d677382ff354a30587769008f96e.jpg",
+	"data_size": "81461368",
+	"description": "アーケードゲームで有名なシューティングの名作。 本作は当時2本だった『R-TYPE I』と『R-TYPE II』を1本にまとめた海外版です。 キャラクターの細部に至るまでを忠実に再現しており、ボスキャラや巨大戦艦ステージの迫力はまさに圧巻です。 自機「R-9」はPOWアーマーを倒すと現れる6種類のユニットでパワーアップしていきます。 なかでもレーザーユニットを取ると出現･成長する「フォース」は、自機の前後に付け替えたり分離攻撃をさせることもできる、代表的なアイテムです。 また、ショットボタンは押し続けるとエネルギーをチャージし、より強力な波動砲を撃つことが可能です。 3種類のレーザーと波動砲を使いこなし、押し寄せる敵を倒してステージクリアを目指します。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-04-30",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/ac34311bd091f61621076d8b96bed34b9b4207e46621de2db8ff05a3473f53ec.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/69d8e35340244a3882727c141771e4c1997895f4cbe6c4ee45ed66a8491c6f8b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/869a455f0c92e39b913cf0bfe188a4f263a4877520e126f5de43fd6a5360bfb7.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/628a8139b064e4859d3e4c1d428a7b05911229876ddb59f7430e6f2df7350dec.jpg",
+			"name": "R-TYPE プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/150f4bcd6941a651124c3cb1013b699ea99d5ad55fb76a17d5190b2ecb84d0a4.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/402f85a385cc7b3661bc25a93ae38c8885767f1c88c3dfca7a0c316bb2d69d5c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				}
+			]
+		}
+	]
+}

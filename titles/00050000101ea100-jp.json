@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101EA100",
+	"eshop_id": "20010000021868",
+	"product_code": "WUP-N-ALRJ",
+	"name": "LEGO®マーベル アベンジャーズ",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 483,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5beca75744aed58879410ce3a3ac818966be8f30945be836896cbc9d0c883120.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d818615eb2262df915c36e8172127c7240ef260b20193d8e141c5cadf9471c5b.jpg",
+	"data_size": "7613874936",
+	"description": "マーベルの映画ヒーローがレゴ®になって大集結！ キャプテン・アメリカ、アイアンマン、ハルク、ソー、ホークアイなど、アベンジャーズの最強ヒーローたちが驚きとひらめきのゲームの新作で登場！ 映画『アベンジャーズ』、『アベンジャーズ/エイジ・オブ・ウルトロン』のほか、マーベル・シネマティック・ユニバースから4作品の追加要素も加わり、ボリュームもたっぷりの内容。映画のあのシーンをゲームでも楽しもう。 ヒーローたちの決戦が始まる！ ひらめきと驚き×チームワークで戦え！ 本作でも多数のキャラクターがプレイアブルで登場。そのキャラクターと、彼らが持つ特殊能力を使い分けて様々なギミックや謎をクリアしていくレゴ®ゲームの特徴は今回も健在！ さらに一人ではなく複数のキャラクターによるコンボムーブも追加、チームとして協力が今回の戦いでは非常に重要だ。 ストーリーだけでなく、プレイ内容も大幅に進化、新しい特殊能力や新しいコンボなど、新たな力が君を待っている！ マルチプラットフォーム、フルローカライズ Wii Uとニンテンドー3DSでプレイが可能。(プレイ内容はプラットフォームによって異なります。) 藤原啓治など有名声優を使った日本言音声、日本語字幕によるフルローカライズ。大人から子供まで楽しめます。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2016-04-28",
+			"retail": "2016-04-28"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/087c7fc024bf2b52c3abc9c813faf596c60324cc8831329085d3a4179a46fcab.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0a204a7ac3770a38f9e9f67e262fe6111ca178f7ff2d6063f050b5880c6251ed.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bab1168bd34d5d981aa59789b9c524fee0b10edf15abd8df976c47804abbcc5c.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1cc3e55fc7d2595ca12eeaae11e43c91a1cb7ecb0915003ada185aa1f4980899.jpg",
+			"name": "LEGO®マーベル アベンジャーズ TVCM",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e0866ef8a9b7470496e705836c0a2259e4c87fcc42a1a0574d3dc8da5662f306.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "15"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/731dbbc457e49276d30cc4f440412f8e2ceb0aa51b9bebc037376bb4b6420132.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "15"
+				}
+			]
+		}
+	]
+}

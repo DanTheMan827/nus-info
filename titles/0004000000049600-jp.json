@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000049600",
+	"eshop_id": "50010000000583",
+	"product_code": "CTR-N-ARFJ",
+	"name": "Fish Eyes 3D",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 167,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0a6213f8afc304c24d7f359a3503f89a3ca5e93abd299063d29604d39bb68f3e.jpg",
+	"data_size": "297978724",
+	"description": "『Fish Eyes』シリーズ15周年記念作品がニンテンドー3DS専用ソフトとして登場! シリーズこだわりの「大自然の美しさ」「豊富な種類の魚との戦い」が3Dでさらにパワーアップ。画面の奥に広がる雄大な大自然の中で、画面の外にまで釣り上げるようなダイナミックな釣り体験が楽しめます。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-03-28",
+			"retail": "2011-06-23"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/aa33298ad7b283a215551fa59a294a8d65a3bdf300cf511c7861eea6cd9a5f24.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/388738007a62b9c3bc8db55fa54b6b04a0d440ac671600e08194498928d54765.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ba6fbc3dfbe3dca5692a4fc3310dfc9ec0d277adbb506ed29fed3957576437bf.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/572b62d4178ae63adad5e2d9a18d7254ef4c52f5dfbbe2268c6727d0dd89c6c3.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/9f3fd042d002e7f46b70f40cc481f297a5d02c032f3e0e365f6b54fef6c7faad.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e59ab0fa2ef99826f3f95cb17b8b2fceea722739937001a4d3a9616238c042d4.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7ab4d2d3549c7fde68ae056f8da2e6dd7d9abaf60fe435dad9c2bc67b3ac23c3.jpg",
+			"name": "Fish Eyes 3D 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6c05a6d44671b1e9dd1824397180fccdfec237af5af4f170494dcbc71506fa9d.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "103"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e69c30c3b1370cd3ab98e83c80742e9c860a39ee0e7226c8a8417d3cce652604.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "103"
+				}
+			]
+		}
+	]
+}

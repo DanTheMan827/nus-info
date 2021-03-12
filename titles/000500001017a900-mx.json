@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001017A900",
+	"eshop_id": "20010000021727",
+	"product_code": "WUP-N-WMWE",
+	"name": "SUPER ROBO MOUSE",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1269,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b564e3fcf8eff298ef13cbc9b03b57646c34c528739177ef31385e0d44065aa0.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ef9027e4f563ffcc40851b3a0b24571336586e778d265d74ac3ed8a9d23f55d8.jpg",
+	"data_size": "93978784",
+	"description": "¡Necesitamos tu ayuda! ROBO fue capturado por el malvado BOLTZ CLAN y necesita auxilio para llegar a salvo a la meta. ¡DATE PRISA! Más de 20 rutas en 3 mundos diferentes te están esperando para que ayudes a ROBO a escapar. Muchos obstáculos, como cuchillas, clavos, lanzallamas, láseres e incluso tiburones que tratarán de detenerte por el camino. ¡Utiliza la TV y el Wii U™ GamePad juntos para planear cuántos \"Quesos de titanio\" hacen falta en cada fase para salvar a ROBO! Dibujado hermosamente a mano y con música exclusiva que te deslumbrará en 1080p HD, todo ello sacado de las mentes creativas de BLOK DROP U.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-04-07",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/20b8671ea2aa8ad36a7de9ffe431441e3f48df3b33272a5bdeb931ee8e6880ba.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e45e0a630a74ec4a7574af1ef1521fd183904ace72728fb66e037778194f9fb0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6e01cdb128e3c771b6f9ac8d883bb68c90858609d6ebf4b9570181b084ddca2d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/523aced2d70c394cdfd22fbc7b904faa102539dfc4678d6ccbe95aa066a9ac28.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a569c8d29147469444008d8c3af56efd9d15e63cddab367cd32ea5634b321d5c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e4b47c549498e64ee756f09dee066ae8f1f866f39526b697522241e9a3bcbfd9.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f3f185a8a4e99aa6f6e0eb9980ac00824b68ac93c51e58decc2f233b351e34c9.jpg",
+			"name": "Avance para lanzamiento SUPER ROBO MOUSE",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e4761bce0558b01a465e8673a8c9a002b108ebca24e7ae16aa3aa1c642f2e9c2.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "40"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/33053f513d88c563f3be4d967246b8652723d7c459e2e78cac2f1bd53f28c3b7.mp4",
+					"width": "864",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "40"
+				}
+			]
+		}
+	]
+}

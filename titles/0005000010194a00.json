@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010194A00",
+		"eshop_id": "20010000011386",
+		"product_code": "WUP-N-MNPJ",
+		"name": "悪魔城ドラキュラ ",
+		"platform": 167,
+		"platform_device": "WUP",
+		"publisher": 149,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a7ffb5e7dc608588786dcb2c440e14ea3cff591ef8708dcedd932551acabc191.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/92c48d3a4697303699c64e2833e008194dbc03eb76afd74c52bf99260bf17119.jpg",
+		"data_size": "79003788",
+		"description": "1986年にリリースされたアクションゲーム。プレイヤーは英雄の末裔シモンとなって、魔王ドラキュラを倒すべく古城へと向かいます。ゲームは全18ステージで、ムチ、ネメシスの鎖、勇者の剣などの武器や、透明になる水晶玉、敵にダメージを与える聖水、敵の動きを止める砂時計といったアイテムを駆使して敵と戦い、最終ステージではドラキュラと戦うことになります。 画面は切り替え方式を採用。マップの拡張やムチ以外の武器、宝箱の設置など、他機種版とは異なる要素も盛り込まれている上、ステージにタイム制限がなく、じっくりと腰を据えて進めることが可能です。 コンティニュー機能がないため難度は高めですが、悪魔城ドラキュラシリーズの歴史を語るなら欠かせない作品です。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-12-17",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/5e42604e664aa017d0bd8aed9a6dbc6d70092884a508e37c4a7db0506f68b815.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/f6bfb275ad13e6cd8995628a4a5f9ef57fac4233f748ab30576ac037df19ea5e.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/c6996f1692878ab8868eb6b802c49ea73ae97520043f048ad53eb9e027a54306.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7e238ac765673288ee93905094d65b77ea7d4275adbc87bca89b4b197bbc363b.jpg",
+				"name": "悪魔城ドラキュラ プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a01eb7e354752bab98104ab6f4c2d93f8b4017e3328a2d0ec4c1a1f9c60939d1.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "57"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a7cc050f747d0f60e0a0c3311d76201def4291bb2a25e71ecf7de7aedfe0fd7f.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "57"
+					}
+				]
+			}
+		]
+	}
+}

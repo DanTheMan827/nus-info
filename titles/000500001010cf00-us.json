@@ -1,0 +1,79 @@
+{
+	"title_id": "000500001010CF00",
+	"eshop_id": "20010000000033",
+	"product_code": "WUP-P-AECE",
+	"name": "Call of Duty: Black Ops II",
+	"platform": 30,
+	"platform_device": "WUP",
+	"publisher": 7,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/77daaea7c7661027412056f6128c73f2b113c49ad246597e7dfc44ad200c9aeb.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/60220098dc02b97cf5b565c66b9806f5f19162e0238c7a2d9e73eb332289bd38.jpg",
+	"data_size": null,
+	"description": "<font color=\"red\">This game is available to purchase from your local retailer.</font> Pushing the boundaries of what fans have come to expect from the record-setting entertainment franchise, Call of Duty®: Black Ops II propels players into a near future, 21st Century Cold War, where technology and weapons have converged to create a new generation of warfare.",
+	"availability": {
+		"eshop": false,
+		"retail": true,
+		"dates": {
+			"eshop": null,
+			"retail": "2012-11-18"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/a2d7c5dbe101860dfcebfc48814ea9767b96929667da98fc59588c82cbf22af4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8b3f0fe06c3a35e7e4d1fca61f9910712aea9bf76887192abc188ece8efbc027.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d0cec8346aa444197f960b56a05e71ce7dd424fd0a87e4190627c4b5dad5e85a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3ddd9ba79be322567530cbf1ebe2abe777f1ccfacababaab9073191db4bfa075.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/478046dab114af1a155653717835e76372c904450fca04535111dee5accc55e3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f57690e59e30d831a87945bba993785af0c1b5d6d2d5b0f629761f911f91a60c.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4f3f26cd1e17274413c2ab8cc3e70a2316e592817773b255995de215e4177632.jpg",
+			"name": "Call of Duty: Black Ops II Live Action Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e9db23ed1b228a8a9887fdfb20035fde39be74180fc59db94286d81257c8e0cf.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "55"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/05a4abdb33f01de22ecbefca488eebf95ce1e42ce16fd901ea2e9f554c1461f4.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "55"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/29bc157f714831b3f2c3e672704b05ccf167771726e8918f4084b0f64640abee.jpg",
+			"name": "Call of Duty: Black Ops II Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9a3df352de2e085238b2250b8ef49fd85bb792d8de22c87fba93481e481e8d41.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "54"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/698d50c7a84d3447f8bb32c2edee199f04c2a09cbfddd1938ee06d9ab9c0d551.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "54"
+				}
+			]
+		}
+	]
+}

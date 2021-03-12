@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101F1600",
+	"eshop_id": "20010000021348",
+	"product_code": "WUP-P-BRCP",
+	"name": "STEEL RIVALS",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1610,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/09fe40ff362ca63e7c756003b34f8020d7c943e30b1282a28f9411b3a234bc8d.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/74943b024886d4def7e3fd18c56d36b3e46870935dfc1de786a5c58a35209c75.jpg",
+	"data_size": "996245704",
+	"description": "STEEL RIVALS is a fighting game for your Wii U™. Play single match against another player or AI opponent, win the tournament to unlock new costumes for your characters or play survival mode to get a high score you can show off. With plenty of playable characters, unlockable outfits and stages all in HD quality graphics.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-03-10",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/302fb22025a69db48a5ad4b4e706f78bda098884544f89dc6a26b1e2ca7cb906.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/52ab1d6b894c82ee8ccda7905718885d623980d3de1d172b98c60ef087323b19.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b534d2c57f40d4272d9d9e0012148cba266df2040c378346b61aa78027e6ee49.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7d8ada71f3b85efa5fbd4f330cdd25e58ca5062a22957ccd52148ccae4024b92.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2018cae71b933a1b101c54b9164a0ea206d355bf428409187da02154e01a45b8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/aa72f2c01f4ebb49a961cc755d1316a81b1736c53b07f3223b372cca9ca41f14.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0d3a293c0b1244498ab73a39969775fb56d355e34625378dd8399723630b4d62.jpg",
+			"name": "Steel Rivals: Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6e805f5fa9cf0f716042aa71eba025fe157b498dc1c48add1e40990861404cbe.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "54"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b4d47f7f452fba768c8a7c042475c51c8c042947c367ead0e144d852cee18981.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "54"
+				}
+			]
+		}
+	]
+}

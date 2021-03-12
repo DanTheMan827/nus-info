@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101AA500",
+	"eshop_id": "20010000020189",
+	"product_code": "WUP-P-BKFP",
+	"name": "Kung Fu Panda: Confrontación de leyendas legendarias",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 1186,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/77f30867f970138b19242d822442ae7a6b1c8876134e2cde647fe3ede9e0c378.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/26a7b923709c9d3bee20614ef251292d52faa3372a4d12b03e937702282a9c78.jpg",
+	"data_size": "1534034160",
+	"description": "Únete a Po, Tigresa, Mono, Tai Lung, el Maestro Shifu y todos tus personajes favoritos de Kung Fu Panda mientran compiten en la emocionante Confrontación de leyendas legendarias. Hasta cuatro jugadores pueden competir en lugares emblemáticos de todo el Valle de la Paz y más allá. ",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2015-11-26",
+			"retail": "2015-11-26"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/f379714cd7cc23866afbc4f6e7d84ec09950d135255c8d5eafcc4038ce37235a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/440fa4eb2da547bd4a7b3a8458a981e83b837fc58ce94e9db90bfb7afe1cc92a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3fbc481a184b940ef67b11c75fe5cb09b1cb3f91b8a09393b21ef5472d22c2a9.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8da87507d69cc7e44943e4258ee2bd6dbec1edbbf7637412296922a0e16323b6.jpg",
+			"name": "Kung Fu Panda: Confrontación de leyendas legendarias",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e47e35118139cda3bab41333223f1eaab36e9156240d8753c473a75fa221ae64.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1c3ce7789735a5a1edaa3916b857f026112e0e840f8cf535154cd463773df93f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				}
+			]
+		}
+	]
+}

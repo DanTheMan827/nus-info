@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000166200",
+	"eshop_id": "50010000032576",
+	"product_code": "CTR-N-JTME",
+	"name": "Runny Egg",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 273,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/778f7050a1083fa0ff6c33daa443467c04435f3b2d8b819b5856f84ac7acb644.jpg",
+	"data_size": "39377764",
+	"description": "Controle um ovo com pernas, correndo o mais rápido possível através de um percurso cheio de perigos até chegar no suporte de ovos! Passe por cada estágio se abaixando e se esquivando para evitar colisões que danificarão e quebrarão sua casca, estragando o ovo! Alcance o objetivo o mais rápido que puder, mas sem quebrar a casca do ovo! Ganhe Egg Points ao terminar cada estágio e pontos extras ao completar tarefas. Use os Egg Points para melhorar a saúde, a velocidade e a casca do seu ovo. Colete os pintinhos espalhados por cada estágio para se aproximar da hora de chocar. Colete 100 pintinhos para chocar seu ovo, tornando-se invencível por um curto período de tempo!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-04-09",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/402402f0fde9f3d7f1359bc1f272dc9f0cf2dd2765e590666016cfdfef9b016c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0389dc8f52ead767ca3caa22296866ebfe544974c2b1409332925ed5a313983d.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e5f96b846719687bebba8179eebc40675161d8949e1ccfa0176192e256a24385.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/31c6005c74869bd1f7a5aa5e9a122828146c61d969cd335a6d21c2d84ccc5187.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bebdc238140037ec656640e26fdfe286ed7906ac8af57164b0eebfc2cd0a679b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/091dd2e2de30cb100f4071cc68cc5ff77e88a7e70db3a035a51d28eb94682a79.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/96b0bedfe8e8c768aad2cbff08b00a1aa047235894bfcfc376fe346495c768a6.jpg",
+			"name": "Trailer de lançamento Runny Egg",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1468208ee4554d1fd72b70b43f7f943c334a1939eae8a783604497dcc5c1913d.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "81"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c517393669f0da0cca222edd2dbe30f127a79b4485255f5276edc7eac8a7af27.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "81"
+				}
+			]
+		}
+	]
+}

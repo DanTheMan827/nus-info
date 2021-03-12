@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000ECD00",
+	"eshop_id": "50010000017915",
+	"product_code": "CTR-N-AY9E",
+	"name": "Adventure Time™: Explore the Dungeon Because...",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 57,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/bac01941c51fd2f2b3e0dcfa14b17fe2dfa6f3b965c0e6e190c354b7be262074.jpg",
+	"data_size": "95427428",
+	"description": "Princess Bubblegum summons Finn and Jake to investigate a rash of thefts and kidnappings that have plagued the Candy Kingdom. She thinks the cause lies within her Secret Royal Dungeon, where only the nastiest monsters and criminals are locked up. If they’ve found a way to escape, the Land of Ooo will be in danger! Show creator Pendleton Ward teams up again with developer WayForward in an all-new action game! Select from fan favorite characters from the show, including Finn, Jake, and many more, as the Adventure Time world comes to life through beautiful pixel animations, and voiceover from the original cast.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-11-19",
+			"retail": "2013-11-19"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/92417acd5927429401044265224ab08323ef561bc7c9f98c48b737b229dcc670.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/eaf6f777f66c177df29af682500f8a49e2e83198c062fd45baade26eaef19770.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/289d5af44518fbe1e71519b310ff3eef96a7022429228e8d4dd94193c4d080e8.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/09a4835edb8092fb429a20783f86be12ecf5d958567f8628e7c00b918b6e8236.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ec3f5885f5881fbfa10a3677fbd318d300c4ca4934fa26e4f6ac4397610e909c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/791b5ba80db6255abf319a06986bc1e92e3010600966c82c705b6206dd798a9b.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c7c92bb3f5b98b7b5a9ae030d33f3d620448e50ef642478a3077d6ca1d16ff87.jpg",
+			"name": "Adventure Time Explore the Dungeon Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d8c54a12dc42f117adc895f7280891481eb76c78f98a99f980f8ecd1cc81a02b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "72"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/10e9a17547f29f975091cf1881c085f3b20e4f07f1553baf193c25d154f67105.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "72"
+				}
+			]
+		}
+	]
+}

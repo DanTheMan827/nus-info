@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000F702500",
+	"eshop_id": "50010000040219",
+	"product_code": "KTR-N-UAMJ",
+	"name": "ロックマンX",
+	"platform": 1004,
+	"platform_device": "CTR",
+	"publisher": 39,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/25db0bd920ed3c2ebc44a04d5896b8eb307a5218cef02edbce66a2af0f2dec7d.jpg",
+	"data_size": "4426596",
+	"description": "このソフトは、1993年に発売されたスーパーファミコン用のアクションゲームです。 主人公エックスが、戦友であるゼロとともに、同じ部隊にいた隊長･シグマの野望を阻止するために戦います。8つのステージは好きな順番で挑戦でき、ステージの最後で待ち構えるボスを撃破すると相手の武器を入手できます。8体のボスには弱点があるので、有効な武器を探すことがクリアへの近道です。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-05-09",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7cd8a840e0e15159b1d468d8c3855ba61104430c172edc960e2e96be8a41f25b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/4844c69ca504b21adbc968ad3347e9606fd9e4610f848bd7bf60b3d04f895ff6.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2c475dba2d95a6157cd51901efc427411da7657b3c023864a6db577935ab176e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8aec588c9e6e233d4ca3c13187ee699f7a4db717a97bbbdc8a45e2ed59d05f70.jpg",
+			"name": "ロックマンX プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/21ae5aea232555ea018dcaebeed337dde246dfb4a661442351f56e93cd048d32.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "80"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d5aec046ef31ef978627f07e4ec57fd78931aeedacf6f6b2907089e22acc19df.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "80"
+				}
+			]
+		}
+	]
+}

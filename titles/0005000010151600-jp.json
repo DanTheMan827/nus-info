@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010151600",
+	"eshop_id": "20010000004164",
+	"product_code": "WUP-N-JB3J",
+	"name": "ロマンシング サ･ガ ",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 246,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/49cd04df13be0d1273fa6b3478787d2826a1df2624e770e49a5740eba44f8c79.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b2fa6fc64d36c8ded2b8d1843bd004a63c6c54f942e555e0804e1e6a2e8bc126.jpg",
+	"data_size": "41123980",
+	"description": "このソフトは、1992年に発売されたスーパーファミコン用のロールプレイングゲームです。 境遇の異なる8人の主人公から1人を選んで、目的の達成を目指す旅に出ます。ゲーム中に登場する町やイベントに挑むかどうかはプレイヤーに委ねられているので、自由度の高い冒険を楽しむことができます。向かう先々で起こる戦闘では、さまざまな場所で出会う仲間とともに、縦横3列ずつの9マスからパーティの陣形を決めて戦います。キャラクターは使用した武器や、術によって異なる成長を見せます。術に特化させたり、武器の攻撃を得意にしたりして、陣形と合わせてバランス良いパーティを組み立てることが勝利のポイントです。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-12-18",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/ae7838fde2301976b3b468a544785cb41441cb00e782171396401de3e07bfd7c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a87b60effbd5fedf6fc150b226fa8ab029dae8c9b2983c886693d279b0fc2497.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/fe95e6e143dc3661e152efad051584c1555467cbb14727a89cd0b22073937002.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/06f63af79c479a86486d1f4f816c10b2bb40bf22f84df6aed61237431cc2967c.jpg",
+			"name": "ロマンシング サ･ガ プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/74f37dd8fabfb6aeb8e5a6e93d48207c4e7f571a56d90db59e538f7b93545ee0.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "58"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0d1247d811cef6f1c8127ec2efd5a8318ae0b75a6ddd5c489d949523eac8b6e2.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "58"
+				}
+			]
+		}
+	]
+}

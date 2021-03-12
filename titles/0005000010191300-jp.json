@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010191300",
+	"eshop_id": "20010000011049",
+	"product_code": "WUP-N-JDBJ",
+	"name": "ラッシング･ビート",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 1800,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/de63f9e76e2f696731e8c824f7913ccee0c1ead13e4dd3ec75f46faff5098c70.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/365ecef0816bbb308c41afbd53ef1f4295e0a3cc0a1cecf5a6bd1c277dd943de.jpg",
+	"data_size": "43221152",
+	"description": "このソフトは、1992年に発売されたスーパーファミコン用のアクションゲームです。 密売組織ジョウカルに誘拐されたマリアを救うため、ネオ･シスコ州の警官2人が立ち向かいます。プレイヤーはマリアの兄ノートンと、兄妹を幼いころから知り、ノートンの先輩であるビルドの2人を操作できます。ノートンは軽い身のこなしを活かして戦い、ビルドはパワーを活かして戦います。敵から一定量のダメージを受けると「怒りモード」になり、一定時間攻撃されてもダメージを受けなくなります。攻撃力が上がり、一部の攻撃が変化します。1人では苦戦するステージでも協力プレイで進めば敵を倒しやすくなりますが、回復アイテムの数は限られているので、どちらが取るほうがよいか見極めることが重要です。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-09-30",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/1447b3ad2f50d91e1a82f322f8bd81c114a5e1748813fb9a4f382189e926d048.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/73516e28f80e2aca3a9a5bd7f196b6764e445f8650e7932686aa1a18fc5881f8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8b8873b8ac6d45d686bb70bf6fd3a3c737694febfdd4ec1fd6e25a5b9517cc17.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5a1e21f146412bac84cabafa3aa30b2f1dbfa221d997802e647a1e0b763dd896.jpg",
+			"name": "ラッシング･ビート プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bc774e3e120c2e27fd0cf514f7884d8154c905bdc86bc12e335f5ad591e62545.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3ea2366907e8e2819c0c565208f76549df565df05345e843eb8c7c00b0c224bf.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				}
+			]
+		}
+	]
+}

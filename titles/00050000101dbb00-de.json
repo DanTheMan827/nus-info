@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101DBB00",
+	"eshop_id": "20010000020967",
+	"product_code": "WUP-P-ANWP",
+	"name": "Oddworld: New 'n' Tasty",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1290,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e1b790c9e6e0a7cf6e0f0b3a9063896c3b2b65bebb94879ccfc204c3aca5d31a.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/37b453fcec08077ddd211a905addda9fc0ccecfc922b37c139a4c78c88dfabb4.jpg",
+	"data_size": "5099487752",
+	"description": "Abe, der Original-Oddworld-Held, erkundet in dieser liebevollen Neufassung des Klassikers Abe's Oddysee alte Ruinen und flieht vor mörderischen Kreaturen und blutrünstigen Jagdgesellschaften. Mit atemberaubenden Grafiken, verbesserter Tonausgabe und mehrschichtigem Gameplay haucht New 'n' Tasty dem Oddworld-Originalspiel durch die Technologie der nächsten Generation neues Leben ein.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-02-11",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/aebecd812e09d51caee076b8238e1a47bbc2e51ef4ae3646192fd182c80579c0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/db78580b24d9db43acbd1b2955632abd487d4717d8cae8855df04e96eedfdf30.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c293d8916c3d6a661069e55214c832d5e081eb6685a866b1d4c86508d0309ab2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3b67035e6d57b019d49c28ff76986237f7d66384190711ddab2a7523411506c4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/19958ba4a70da26397baf22984f36fac08e32eb28b3eac24046f3a3ab134487e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a167b7c4f944025fff203746cb70a96f5056f736e167f7d2b875fd307d5d8f38.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e04e1adbfa0ec29f6391096a12371ffe87965f9efae44f598a2cc3c5e4b4859d.jpg",
+			"name": "Oddworld: New 'n' Tasty: Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/36be9f56ee448c0d51ae4ebe4b5ae7279e67b1786ef6a3e7c9e642ff21de8a02.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "64"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/afa7086462c2805f48dbcfb5bf409f1eabd39df9dfa852a0c4b338b60484181f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "64"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000103B00",
+		"eshop_id": "50010000022635",
+		"product_code": "CTR-N-JDZJ",
+		"name": "@SIMPLE DLシリーズ Vol.29 THE ラインパズル",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 57,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a25ce7291dd8dda4f53e802fd046fcba2e3e38790a859394e11dd74b05f54a15.jpg",
+		"data_size": "76684132",
+		"description": "数字をヒントに線を引くパズルゲームです。 数字は上下左右に何本線が引かれるかを示しており、線が分岐したり、枝分かれしないようにひとつなぎの線を引くとゲームクリアになります。 ゲームはボタン、タッチペンのどちらにも対応しており、基本のルールさえ覚えれば、直感的な操作で誰でも簡単に遊ぶことができます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-05-28",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0b77e02c47da33a172af4aea915d608cdee1422664cf6e3d26ea00eca9f65490.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b35149c6985a570142f83faf90fe634e113615ecb8638492734e8b1fb3cb6e2e.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8dea16ddea625de62a06994b0973625ad23e39312ed6e2e0ed90080066118320.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4bb61348acc8a14f1a978608e628a2662bb84daa0c057bf6cdceec9b9326609a.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/876ff0f1e8e8ac91c6f28d916219f5b19092a8e051bedeb2ba199eac71f2caef.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c5bf3e48b273089e629707284021bfe6fa8c30ba1df23896575d6b6557dc0153.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0e24f2ebdd88a63d82661f91290d35870f1d0c8db30d771e0d10367d966582fb.jpg",
+				"name": "@SIMPLE DLシリーズ Vol.29 THE ラインパズル プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9fc4d19791a749b425c457cb98647125269263dd154d756b6ebbd317f144232c.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "46"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f49b7e9a633e1345edbf350cf3633cfddbaa9f2287574ff8cad61eb769329700.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "46"
+					}
+				]
+			}
+		]
+	}
+}

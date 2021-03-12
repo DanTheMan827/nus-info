@@ -1,0 +1,69 @@
+{
+	"JP": {
+		"title_id": "00040000000ADE00",
+		"eshop_id": "50010000011366",
+		"product_code": "CTR-N-JGDJ",
+		"name": "脱出アドベンチャー 旧校舎の少女",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 19,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e5e2e2d6b1686e33d5d6017b00a56f0bd3c16bddc6d31b440bd26924762e2543.jpg",
+		"data_size": "117259108",
+		"description": "『脱出アドベンチャー 旧校舎の少女』は物語を読み進めるアドベンチャーパートと、とある謎を解くため、または、とある場所から脱出するための探索パートの2つで構成される脱出ゲームです。 閉じ込められた旧校舎から脱出するために、さまざまなアイテムを組み合わせ、部屋に残された謎を追いながら脱出を試みます。 また、主人公の若留は時計屋の女の子で、機械の修理が大得意。 アイテムを組み合わせるだけではなく、アイテムやギミックを「分解」「修理」し、新たな活路を見出します。 【物語】 主人公「時野若留(ときのわかる)」は好奇心旺盛な高校1年生。 彼女が通う私立逢間学園高校には、封鎖された旧校舎がありました。 ある日、その旧校舎の「開かずの間」の噂を聞いた若留は、立ち入り禁止の旧校舎に足を踏み入れたのでした……。 行き着く先にあるのは、虚構か真実か。 旧校舎に閉じ込められた若留たちは、無事脱出することができるのか?",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2012-08-01",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/91ff9bbba98e9318c98e2a40af053f985e4dc10b8e740fcedc898280dcffcde8.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/dad3676d4ae6e4d686a22852a44465b617b5f9ddee3b681dea23fbbe66717a13.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7e8abd448ec203d66158a3c87ac8a469e62f766c2deb1ba8e6f57afa4c05035b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/43e2d47c7f1f1361e9f03a1ebf9d8e6b5643ae22747f27cd2027782624aa0088.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/45ef70ee54e5a71c151691f7a1893b5e99dfe692c1c4a7d10b45d6cf20ce2c48.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/cecf49ec5af5e9186218a7ddae98637469ddb3db20a4fd7d9dd6949bac8c9bef.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f053a4c73151aadd2fc448d37e1297ee733e12b2610cdc822ec7cc8b9658e5ea.jpg",
+				"name": "脱出アドベンチャー 旧校舎の少女 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5b77716de9de694a0d8ecaed1d72a9d54e825c405268fcb2c5e68e4466262ca0.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "136"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/087520785c9bc88f945883ad25674e3847e3b6ab6975d5f44b711a9d78750e42.jpg",
+				"name": "脱出アドベンチャー 旧校舎の少女 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/57041617c246571451d3e90d267cefb4aab3652d6bb0131a93716ba209bc4771.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					}
+				]
+			}
+		]
+	}
+}

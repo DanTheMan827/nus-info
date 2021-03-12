@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101E6400",
+		"eshop_id": "20010000026291",
+		"product_code": "WUP-N-NATJ",
+		"name": "エキサイトバイク64",
+		"platform": 170,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2fa06d0abe6a06a06959b36b257ff1659a74d30f5ea26338fb4da2accf7997fd.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/58afc2d6324c0f4afaffe9c849a77ba32040852d72b65c5c0dc488b77d676caf.jpg",
+		"data_size": "62685304",
+		"description": "このソフトは、2000年に発売されたニンテンドウ64用のレースゲームです。 オートバイのモトクロス競技をベースにし、ファミコン用ソフトとして発売された『エキサイトバイク』がニンテンドウ64でパワーアップ。リアルなグラフィックで、バラエティーに富んだゲーム性を楽しめるようになりました。 6人のライダーで順位を競い、優勝を目指すチャンピオンシップ、砂漠に点在するたき火をすべて消していく「砂漠」や、スタントを決めて得点を競う「スタントコンテスト」などの特別な遊びかたができるスペシャルコース、自由にコースを作って遊べるコースエディターなどのモードがあります。 2人または最大4人でプレイできるモードもあり、手に汗握る対戦を楽しむことができます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2017-06-21",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/0ea206ebb997c6526fcb44aa78831708d4e23a320d954ba8b6bc9fc87bff8ca1.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/518bc20fefcbb90eedfd8112295cd931df1e239b17864219e1438e8391646037.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/2b3a17a895ab5a64807ad98e2e1d79f54f3526fea23e039b85af30ae60e79af5.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0f7c101de58da53fec0cd6a4b94dfdfb4c4064a7e7c511155eb85138dce3a45b.jpg",
+				"name": "エキサイトバイク64 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a3b955e649080b7f34c681a7eb52b80e02c4d5b8f12cde9051b28fa8d58efb18.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "51"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7239e8135761de12755a0a9d83357ef0708a84b94d40787c4324efbcd78f351e.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "51"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,53 @@
+{
+	"title_id": "00050000101D7600",
+	"eshop_id": "20010000021810",
+	"product_code": "WUP-N-BP3E",
+	"name": "Slots - Pharaoh's Riches",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1447,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5a484e3b6ac43a69c64698e8585b89444525c3f47873827f3030ab19ea780515.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f0678d0c269cf3075eee2019fb7a5ee0bdf19b27ca52bcc5edeee822f64e0715.jpg",
+	"data_size": "220856460",
+	"description": "Pharaoh's Riches brings all the fun and excitement of Las Vegas style slots to your Wii U™! Featuring: A realistic pay-table (modeled after real world casinos) A gamble game (double your winnings) An interactive pyramid bonus game (select a tile to reveal your bonus) Visually stunning graphics Realistic slot machine sounds Unlimited play Both Wild and Bonus symbols",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-04-14",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/72f10edfb1a324be0af619581747c5c97d6310fc6677b55a45045151d1232b7d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bbdb38acb9b866d134b0854d66f34ffa3a2247f1379bc328fe59beabe860c8d5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3d48ea1e54707250f794b379db59e1ce548bc0a16c16a04fd7c7904331561a8e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/fd17597e3c53abb7da7b3a5d91cc0d1cb4459c54693345241098b832d0536443.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a5cfc73c8699b11ebe4c912e3f2e3d41e1dc9fec0792f57990cf52ee49f00cd9.jpg",
+			"name": "Avance para lanzamiento Slots - Pharaoh's Riches",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/531fca2ba090d33604ff50e66f0b23dc8835efdb906b260af49f25b7c132344e.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "25"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bc88567dedd6c48425e0f9cbf15d22097832b7d1cae9cf6d2e4b0cdb3447002c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "25"
+				}
+			]
+		}
+	]
+}

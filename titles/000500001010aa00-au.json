@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001010AA00",
+	"eshop_id": "20010000005765",
+	"product_code": "WUP-N-JAKP",
+	"name": "Super Mario Kart™",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a153cfde6c9c44f711ad78f7c1504e52642595880033c8c7a5c4dbdc1f98e0f1.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/bb6cedea2d24353989d9e17c4159aa085c101ec76caf46967f42872336883099.jpg",
+	"data_size": "40697996",
+	"description": "Start your engines for the original, legendary Super Mario Kart; which spawned a series that is still going strong today. Choose from eight Mushroom Kingdom characters – from familiar faces like Mario and Bowser, to Donkey Kong Jr. in his only karting appearance. Burn rubber across classic courses like Mario Circuit, Bowser Castle, Koopa Beach and the infamous Rainbow Road! Race solo, go head-to-head with a friend, and experience the original version of Battle Mode – the great two-player favourite. If you own this title on your Wii™, perform a system transfer from your Wii to your Wii U™ to receive a special upgrade price. This is the US version of the game.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-03-28",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/819c39754e2472c47399b3a8a611e03148e4349fbe6ea6eda36a9befefb059d4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7885d45d403029983d9de811c0bdb00b37b9efc803d836c7dec80df0446efdf3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f1c88e8d063f0068bc62c55821204fc17a44c5cbf2322eb9ed5d27b008e4abc1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b6b9fd5dcebe0beadff8f5054380b37ff5ea41bc5568a58793c172028731e338.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/27c3ee51abcf71176c781c68c9cf60935bf3b9c88fede5181f4e834ee979b5cf.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3c0708d782de02d618f05d9725b4a1193c9d8ca08369ae18bf7e2e1241166374.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fe2214c69903db9c4242233de4a289771699c53d5da6e98ee30d5f0788c96921.jpg",
+			"name": "Super Mario Kart™: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c10d83a585b6837abaef52de99a248ef29d45e27aa6dc338f056b04ae1bd03dd.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "89"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3ab450151dfefe677b0f696e66b7136af1bb15366396872b44b7c429682e41ff.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "89"
+				}
+			]
+		}
+	]
+}

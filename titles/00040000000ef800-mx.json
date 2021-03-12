@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000EF800",
+	"eshop_id": "50010000022057",
+	"product_code": "CTR-N-RCFE",
+	"name": "Mega Man™ IV",
+	"platform": 21,
+	"platform_device": "CTR",
+	"publisher": 39,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7f7674844ab12824bb67f127fa5065f306e5e1c3fb7c319b6a98eec408ba1cbd.jpg",
+	"data_size": "4008804",
+	"description": "Mientras la ciudad se reúne para asistir a la Exposición Mundial del Robot aparece un platillo volador en el que se encuentra nadie más que el trastornado Dr. Wily. Con tan solo oprimir un botón en su dispositivo de control mental, el Dr. Wily logra configurar a todos los robots que se encuentran cerca para que ataquen y destruyan todo. El único robot que no está bajo su control es Mega Man, el cual perseguirá al Dr. Wily para hacerle pagar por su última fechoría. Rush y Beat acompañarán a Mega Man y juntos se enfrentarán a la fortaleza de torretas láser así como a los grupos de androides armados y diabólicos jefes robot. Ábrete camino combatiendo a tus enemigos mientras adquieres nuevas armas para tu inventario y enfréntate una vez más al malvado Dr. Wily.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-05-15",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1f29e9f596774b4e5527e0ab55955afb7d9c87665b5402e476dd26ddbb51841c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/17fc4955a128bd92c4ce0300ac5d1c24a1c22fea03318a933d01c29d723184ef.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d15c966a472020c8f4a16d7c31059356563eb03b08dbe35f45102b88ff0b30c1.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/55cdfc6ffc1fb6349fd522d7b2951f22ee25d48fe0422c1e9708989cc9f97fb1.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/635f56201c9bdddd950220f44a059a18f355faad589108870cd709eb127fac80.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ded39a9c373d57e2019dfa8266a81168c365de9277ef38c6ccf49af110d3285a.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7ebfd294b62a1950ae2f25521d4ffdd55e3f4e8870ba87738904b99626503ca5.jpg",
+			"name": "Avance para lanzamiento Mega Man™ IV",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/589d3e2c82e74eddc8a7f59067afe5835da7aad3eb596249e3c4985f958b4348.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/31a0c8fba6bdee39ebaf00aaf03b7e887fb3ba2d0f88a0f415492f8c5101db2f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000015A900",
+	"eshop_id": "50010000028477",
+	"product_code": "CTR-N-AL5J",
+	"name": "LEGO® マーベル スーパー･ヒーローズ ザ･ゲーム",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 483,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/73ddb8a79c6878bc3e8cafdb1ad35174eba19393a3536d8c13364dbf71c9113f.jpg",
+	"data_size": "453143396",
+	"description": "大ヒットレゴ®シリーズにマーベル ヒーロー登場! レゴ®シティにマーベル ユニバースのヒーロー大集合! アイアンマン、キャプテン･アメリカ、ソーなどに加えて、スパイダーマン、X-MEN、ファンタスティック･フォーなど、ハリウッド映画の主役級のヒーロー&ヴィランが総出演! スパイダーマンが、アイアンマンが、キャプテン･アメリカが、ソーが、ハルクが、ウルヴァリンが……。 キャラクターたちは、それぞれさまざまな特殊能力を持っている。未曾有の脅威に晒された地球を救うため、ゲームを遊びつくし、総勢90人以上のヒーロー、ヴィランをコンプリートしよう。 日本語音声完全収録。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2015-01-22",
+			"retail": "2015-01-22"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6fc15857f7bf58a900c7f2f6db2da34f028bc7cce20b21ce1fd695bb7a2f71af.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5159f7310dcd1b2502d0c272474dcfbdd610c0e66cc931397b5a0dce245a8ddb.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/9320a11d3b2c64ef739197f1a7b6084a47443e2fa13cab4c48edfa485a882b1b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/cdd9661dea2ca8b672846ec62b138411c164ee89e23b3009ff39bff506c101f1.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1bdad8956fed5c201b2de5936f0007dbf26272a3494ae72859c930ca2b3ec661.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/526f2fcf460b8580f94c4c4fdc7190750808634ae5cdfc55b021f00f9f4be37d.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6fedce2ff384ccd2e59b2551d0774016bd64ff5bbb996508d6248e0a6c8aced7.jpg",
+			"name": "LEGO®マーベル スーパー･ヒーローズ ザ･ゲーム 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/43243193c94549642f3fa65ffb5301bbca219a85a0a1c9b19f2f32be297d4473.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "123"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/742857280b3871ff944b62a50ecaac15361724c291dd44b8fa30d351d428fe46.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "123"
+				}
+			]
+		}
+	]
+}

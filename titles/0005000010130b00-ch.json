@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010130B00",
+	"eshop_id": "20010000003305",
+	"product_code": "WUP-N-JA9P",
+	"name": "Super Castlevania IV",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2be6f2e031c89ea5c4a1c3d2a29ed2a70844bca892f90465ef7611d134a9280b.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f42f4feae7203a6871f458709ede47e78f6ceeccd759a8f2abfdcce9a05ae46b.jpg",
+	"data_size": "41058444",
+	"description": "Ein Jahrhundert des Friedens in Transsylvanien ist vorüber. Graf Dracula ist zurück! Und diesmal hat er einen Grabstein dabei, auf dem dein Name geschrieben steht, Simon Belmont! Super Castlevania IV ist ein Highlight der beliebten Castlevania-Reihe von Konami und liefert beste Jump'n'Run-Erkundung und -Action für Super NES™. Erkunde die Burg und ihre grausigen Räume. Dabei kannst du deine Peitsche als Enterhaken verwenden, um dich an Fallen vorbeizuschwingen. Bewaffne dich mit Äxten, Weihwasser und vielem mehr, um Draculas Lakaien zurück ins Grab zu schicken! Wenn du diesen Titel bereits auf deiner Wii™ erworben hast, führe einen System-Transfer von deiner Wii auf deine Wii U™ durch, um ein Upgrade-Sonderangebot zu erhalten. Hierbei handelt es sich um die US-Version des Spiels.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-10-31",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/4c3ad9f6a6df869b2f7f6332fc6a31d4af091cfe5c4bea4bdce6572a1da53500.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/802e7338fd42976504901ac27bef95a410ec82e24c8fec71e7466a6c42552e4b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e5f3949574dc740729dcc8c6f94e0ad10f28a142b705bb52087747dc87770494.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c86c0ea4c663be8da6314ae6957fc6eb298d243c0203c41c816dc26f7a38125d.jpg",
+			"name": "Super Castlevania IV: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8cf71d42013cedbd1150f20a379d14ffc6d1b7435aae437552162a110bcafd5f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/10ad115aaf39bd780f3894378ded0c9a80cfe83695d2255444c92330449acb96.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				}
+			]
+		}
+	]
+}

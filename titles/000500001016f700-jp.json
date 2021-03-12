@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001016F700",
+	"eshop_id": "20010000006148",
+	"product_code": "WUP-N-PAVJ",
+	"name": "マリオゴルフ GBAツアー",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/373330cbfa06d93fa3bc70c374ad901224cd03b7efc99684500fc27d7595bf77.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/636903f18f0d4f9baaa3732703bf71e896f9a576214ab62aae7abe2067ad3239.jpg",
+	"data_size": "97550456",
+	"description": "このソフトは、2004年に発売されたゲームボーイアドバンス用のゴルフゲームです。 RPG感覚でプレイできるストーリー以外に、「キャラマッチ」や「スピードゴルフ」など、さまざまなプレイモードで遊べます。丘陵からリンクスまで多彩な本格コースが用意されており、自分だけのクラブを持つこともできます。気軽なプレイでゴルフの知識が自然と身につけられ、フェアウェイ気分が楽しめます。 ※当時のパッケージ裏面に記載された文章をもとにしています。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-09-10",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/ea7cbdb98b04525f195675ee9895d0ee469e35109cd04f45c93a0ee84876c20c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/cafe4d677b58edfd88f7e4e337a8f539c078342bbab4069384e8255bdc075aa2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d5e63ec5d406667f59bde2dca4c665fb7a10176c9b66d8240c4d1eab40cdcd65.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2f223c4245634d7c858082b8091dda4344951d532a3c6d92a2ef7c3f276e75d0.jpg",
+			"name": "マリオゴルフ GBAツアー プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ae10648ef6d63c9920435d0508d7d99fe2780ea1f25437a98a1c2e21a6e8d0a5.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8ee94de54b37e0afec8b6416f50a907e1f8410c96148398171712b63b7151216.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				}
+			]
+		}
+	]
+}

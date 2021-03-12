@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010195800",
+	"eshop_id": "20010000013948",
+	"product_code": "WUP-N-DACP",
+	"name": "Mario Kart™ DS",
+	"platform": 169,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9bfa5ba8f0aa2f6a26b38d1530b257fc4108b8dc9715b1e427e0ff8545df78e9.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e9f1d5960fac48670ce2bd2613c110175ad1125d018f4d47f252ef45cc17e825.jpg",
+	"data_size": "61243512",
+	"description": "Faites chauffer les moteurs et attachez vos ceintures, voilà Mario Kart DS ! Une distribution prestigieuse de vétérans du karting et de petits nouveaux s'affrontent pour la gloire dans 32 circuits plus tortueux les uns que les autres ; tout cela dans les modes Grand Prix, Contre-la-montre, VS, Bataille et Missions. Il s'agit du premier jeu de la série présentant des circuits classiques provenant des précédents titres Mario Kart. C'est aussi le premier à introduire les objets Bill Balle et Bloups, et qui permet de dessiner votre propre emblème afin de personnaliser vos karts. Mario Kart DS a tellement de contenu que même une carapace à épines ne pourrait s’en débarrasser.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-04-02",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/2dcb15eebc1ff13cd1b4a0e144c5405344dbaf6119070a6fa136d536be7a76a2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/daad513cb8e043d1b1bbef0dabf35b134fd14429dc7e613939139ec9cf14d8b9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/cd02f8ea5ebd2728dc3fecfccbd74acf158a5e4a0d1c61b5a9cec6b22a917671.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6f473f6c026b61084b6680b8ca5f146cac2c5761ba57a21ff6b765904369d0a2.jpg",
+			"name": "Mario Kart™ DS! : vidéo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ed79cedcbcbe12a627ff0528ab63b6df3e4241da7fcae47f7eaeccd2c309eca9.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9b4b5623b770f5e5e49538386b2d96ae6876f9b34f5ca8ec6adc0c92f8886fb3.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				}
+			]
+		}
+	]
+}

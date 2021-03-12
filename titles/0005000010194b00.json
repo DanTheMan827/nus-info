@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010194B00",
+		"eshop_id": "20010000012169",
+		"product_code": "WUP-N-MNQJ",
+		"name": "イー･アル･カンフー ",
+		"platform": 167,
+		"platform_device": "WUP",
+		"publisher": 149,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9a0ba1b724dd4b31645459f1df9c0872fb55ea43a1abac95a18261ccf0538402.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e71ba678a090e4a0ac7b773adf21862f15f0352cc28da95f87991aa3e4ffea9e.jpg",
+		"data_size": "78741644",
+		"description": "本作は1985年にリリースされた格闘アクションです。 プレイヤーはカンフーの達人“李”を操作して、チャーハン一族をこらしめる冒険に出発します。ゲームは全5ステージ、ステージごとに登場する武術家を相手に戦います。 ただパンチ、キックを出すだけではなく、ジャンプやしゃがみと攻撃ボタンを組み合わせることで、正拳、ハイキック、ローキック、足払い、空中とび横蹴りなどの多彩な攻撃が可能。これらを駆使して勝ち進んでいきましょう。 アーケード版がオリジナルで、本作ではキャラクター数やステージのデザイン、BGMが変更され、アーケード版とはまた異なるプレイが楽しめるようになっています。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-01-14",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/328aef95e1057510e450d308fd8133e4703a06c937844a9a82b2dd97362e0676.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/56b29777d3c3b9b4b10560fcca051675717352f43fcc06d75c1184ac7127bc84.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/1b439c59fc371a08fff788ebed14edd5c56fdaec53effd130cc740640de35369.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0896d5e04bc1aa4c8401718937b5dd556fbf39212975f5aed85f9d73e45141db.jpg",
+				"name": "イー･アル･カンフー プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/db1154414da760d3bc00aec3b1a6023948efc6d90d5e6932c6ab6eeada6995a0.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "42"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1df889fc6198026dadb652918f7b69137e9aefd6c9b1ab0248e429d40488718c.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "42"
+					}
+				]
+			}
+		]
+	}
+}

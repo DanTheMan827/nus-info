@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010160600",
+	"eshop_id": "20010000007526",
+	"product_code": "WUP-N-FCPP",
+	"name": "Soccer",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/85c9b0cd4f966e56b963e19dc6093dcb43c7b8448f5826053e51b31260b477df.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/02c7a0695100b2d3d042754d9410faccc0f772f7cdc7254bacc8b4a27265f729.jpg",
+	"data_size": "36536460",
+	"description": "Experience the first ever football game for the NES™! Soccer offers a choice between seven national teams (Brazil, Germany, Spain, France, England, Japan and the USA) and five different difficulty levels. Play solo against the computer or compete against a friend in the two-player mode. Soccer was also one of the first football games to include penalty shootouts at the end of regulation time, and also features an entertaining half-time show! If you own this title on your Wii™, perform a system transfer from your Wii to your Wii U™ to receive a special upgrade price. This is the US version of the game.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-06-12",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/a15085eac47267e50f9fab3526921c26fb4eb82e38a67bf1802f5d36496483bb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/21eaabc88b911d5aebc1d21cf93b91cddd0ed9aeffb71e9f877551b79b10ce98.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d916dd281dcf34e6a9a15b1da008b63a536d9d112b6268a9f68723f5b6d83987.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c08ee225ceea05f364897ded1b54e936e5fb460b8ae9212148cc38156a4fcf6d.jpg",
+			"name": "Soccer: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f6b41ff21fe188356b55bb83a1d2b731ec79462ae016f528379ad9066b6b997f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f99f224c6d96789e703b68af86392dd4a11b9da9a190d198f1440a50f7d12ba9.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				}
+			]
+		}
+	]
+}

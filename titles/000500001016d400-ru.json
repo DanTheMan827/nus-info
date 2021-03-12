@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001016D400",
+	"eshop_id": "20010000006647",
+	"product_code": "WUP-P-WMNP",
+	"name": "Stick it to the Man™",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1219,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d46d2b5ed9456f53f81c873965aa7472c109b954a077a2dbc2bc91e3d8ef340f.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9ce0b1b2599c8cb554e07659889227b021982ab7e6a0f9186299c0987a83d0d2.jpg",
+	"data_size": "1148518620",
+	"description": "В один обычный день один обычный испытатель защитных касок Рей попадает в нелепое происшествие. Утром он просыпается с длинной гибкой розовой рукой, торчащей прямо из его головы, и эта рука дает ему невероятные ментальные способности. Теперь Рей может резко изменять мир с помощью наклеек и преобразовывать свою бумажную вселенную, разрывая ее, складывая и используя найденные сумасшедшие наклейки (и свои новые невероятные силы), чтобы решать сложнейшие головоломки! К сожалению, у Рея не слишком много времени на то, чтобы привыкнуть к своим новоприобретенным способностям. Ему приходится бежать от \"Человека\" из-за преступления, которого он не совершал. Вы поможете Рею выбраться из такой непростой ситуации? Готовьтесь рвать, ломать и клеить на человека! Дополнительную информацию, оценки и соревнования см. на нашем веб-сайте: www.stickitgame.com.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-05-01",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/41b0e265d9233a9517e3e719e97ee006a0d380314fdbca0d7dffafc8c6510ffb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ceab1550070c8c2f364da7fba52386f86e2a07bae47762b6cc25ffd106315e29.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c5702f42ead7ead2cda4f1b9e437e9f8bf4be91ab871e3c16fa557dee081ac9e.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f4053d821cd5004510b4264789a0f94f424e6ea8500ca8f21aaf5394a5079c01.jpg",
+			"name": "Трейлер к выпуску Stick It To The Man",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/91db24e8b4517c8bcb4ae6066fed393b16c6fff230a5f98b4b03a31ee1fb5b6c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "104"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/efdbab537e55cdc2f74abd24f76b4bef0cba320ed2c1c8a4494726d2084ed2ec.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "104"
+				}
+			]
+		}
+	]
+}

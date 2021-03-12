@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101FB500",
+	"eshop_id": "20010000023868",
+	"product_code": "WUP-P-AJWP",
+	"name": "140",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1744,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e55fd9623abdcd9e62f078968bdb3c3e685a03dca9bac08d022af2be70ddc43b.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c270320052ee12d384fd7db7c165a834f7d64b453aaa32ba0aa2e5b80cfd40d2.jpg",
+	"data_size": "136249504",
+	"description": "140 is een uitdagend en minimalistisch platformspel met abstracte en kleurrijke grafiek. Een besef van ritme is vereist om de hindernissen te overkomen die beheerst worden door een energetische, maar tevens melancholische elektronische soundtrack. Een superstrak puzzelontwerp en een opvallende audiovisuele presentatie vormen samen een uitdagende platformbeleving.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-09-08",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/114dc63292f8b1063294a2c10c8153860cbf9a2b89b421fc3c1c925b364c811a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/73247f9241240fe6bd24f1584266a6f6816fe94012025e7fd33b7ea18c4a8571.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f81ad6e22215351230f776b0d82f1e48a907698f45babfcabe3b8ca5b5b7252b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/43a2bebad8a686d06637e17eddd1a5d80217644e65d5df16a4d03bdff11f2341.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/67ee48fc146218ce6ac87b4b2c8c3fd067576ef85164b9c178edd2dcd5ea4843.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b8f37e07337d85d8bb8e2950eeeb54a65b7084ed6d444ff82d5a7d497b3ba32e.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0106f6d3b0e8cd4790417d812909a06499327bccf1fc9381bc3b8bf39cc7b74f.jpg",
+			"name": "140: Releasetrailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cfec855e202a821dde1503c0a36dd549f55acf850a2fa54542aa0be350fd9afb.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "69"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/636e1c3a6f7f7259adeb74ee6ca940d5a7bc7a5fb955cb07375c3dfe6042a7f0.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "69"
+				}
+			]
+		}
+	]
+}

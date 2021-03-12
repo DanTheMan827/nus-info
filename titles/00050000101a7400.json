@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101A7400",
+		"eshop_id": "20010000023091",
+		"product_code": "WUP-N-FEVJ",
+		"name": "超人ウルトラベースボール",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 416,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/74b176f4002109653334d4c633da41b06ac4c47c22cc02f97e13819883ca26ca.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/fddf8e27fbb4320d66c057b9d355dc2873e4cbe5cdc832e7cd30e6aeb7c07b6e.jpg",
+		"data_size": "38961312",
+		"description": "このソフトは、1989年に発売されたファミリーコンピュータ用の野球ゲームです。 先に4勝したほうが優勝する「オープン」、1リーグ6チームで競う「ペナント」の2つのモードで遊べます。3リーグ、計18チームが用意されており、選手の能力などを変えてオリジナルチームを作ったり、6つのチームを選んでオリジナルリーグを作ったりと好みに合わせてエディットができます。 3つのリーグのうち「ウルトラリーグ」は超人選手ばかりが所属していて、現実では考えられないような「ウルトラプレイ」を繰り出すことができます。ピッチャーの投げたボールが燃えながら加速する魔球や、打ったボールが爆発する秘打など、数々のユニークなプレイが楽しめます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-10-26",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/94cdadbbaea660a78592d402a20c5fbd566f243685c8a5c96ec25292af98a1a8.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/8ca992a4055aad44628273b60bcc0d02ae2aa607f205ebd99d9dd7b9c9d9af0b.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/c126d01c7b1ffafe52b27a5e4ef9bc0da71acae18cd50ee717e6a6f0992d8695.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e8eda06e44a44bc35b4d8ec1de47c89113d444897e61a73c70865884744bacf5.jpg",
+				"name": "超人ウルトラベースボール プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/92b93ede4ab0f73f666b812b893f2eaa0fe81667f0b52961142d8bc35ac10046.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "75"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/41178c65a7f5a6d125698fcde30f8b22751d9f67b70ba780c4ed6a1ee31e785c.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "75"
+					}
+				]
+			}
+		]
+	}
+}

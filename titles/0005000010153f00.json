@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010153F00",
+		"eshop_id": "20010000004426",
+		"product_code": "WUP-N-JB6J",
+		"name": "ファイナルファンタジーV",
+		"platform": 164,
+		"platform_device": "WUP",
+		"publisher": 246,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/385377c4de828a3c3fad7f54e52b8f86d56949b272804b08f7d666800d1217a8.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/09c3032a495a38aa00bd49f73e2f245b75ecee692350d7d56a350223b7842d03.jpg",
+		"data_size": "41943180",
+		"description": "このソフトは、1992年に発売されたスーパーファミコン用のロールプレイングゲームです。 チョコボとともに世界を旅する主人公が、隕石の落下現場でレナとガラフに出会い、さらに海賊のファリスと出会い、戦いに巻き込まれながら世界各地を冒険します。職業であるジョブと、ジョブごとに内容の異なるアビリティによって、主人公たちの能力は変化します。覚えたアビリティはほかのジョブでも使用でき、相性の良いジョブとアビリティの組み合わせを見つけることが戦闘に勝利するカギとなります。戦闘時でのコマンド入力時にも時間の概念があり、すばやい決断が必要になるほか、飛空艇や潜水艦など豊富な乗り物が登場するなど、前作同様に楽しめます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-03-26",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/e59b0c20d7959da25c211edcac5b0eb016f39de10a8675ed4ef5157d35d18c1f.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/24ea00445e9e37f4d1ef373dc618102a916ec2d13266c5b08d9f44fa77e4fdf2.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/c3625ffad7b7b64837d7d63fd854e1f1e70d169dbf5317c71a1a72baff541b49.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f132d2802742b09e7f866d8aa56816c3ea933ae23b2573f0ed679b1d8239446a.jpg",
+				"name": "ファイナルファンタジーV プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/afaff7bb109f995e71079ac27a4a2306badfe3aaeccdc72577718c526081c401.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0e6d732499f8d07529ef023baad0e4480a08539172e2b91e19287191443bb3e8.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000115000",
+	"eshop_id": "50010000020353",
+	"product_code": "CTR-N-JBKP",
+	"name": "WEAPON SHOP de OMASSE™",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 456,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b0d836c9f88e48c42f9a8df0e5db9f29aaa156cd8c4d52dfbf24effc4fcc1cc9.jpg",
+	"data_size": "127847268",
+	"description": "Von Komiker Yoshiyuki Hirai gibt es jetzt WEAPON SHOP de OMASSE, eine spaßige Variante des klassischen Fantasy-Abenteuers. Du spielst den Lehrling Yuhan in einer Waffenvermietung eines Rollenspiels. Du musst neue Waffen herstellen und diese an sieben durchgeknallte Helden und verschiedene NSCs vermieten. Warum vermieten? Natürlich kann ein Held eine Quest mal nicht bestehen und deine Waffe verlieren, aber ist er erfolgreich, bekommst du deine Waffe zurück, streichst die Bezahlung ein und hast einen zufriedenen Kunden mehr. Angesichts der Rückkehr des Evil Lord schadet es auch nicht, wenn möglichst viele Helden gut bewaffnet sind. Finde Kunden für deine Waffen und schmiede im Rhythmus. Tippe im Takt der Musik auf dein Nintendo 3DS, achte auf die richtige Temperatur und ziele genau mit dem Hammer, um prächtige Waffen zu erhalten. Folge den Abenteuern deiner Kunden per „Grindcast“, einer speziellen Vorrichtung in jeder Waffe, die alle Kämpfe, Entdeckungen und Gespräche zu dir zurücksendet!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-02-20",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f904524b256fc429d3077549176b5c19f1c1cad1b05698be7f9cbfca450635fd.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1dd8da2981da831099307147718b69f7731c51d926f9430662fefc98f7c37f59.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8c929c097552dad6fc9989a1bd994262ac8526b242bc2fd90e4918aa4c33433c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/bd5d9ccc2d127170271f0875ed596ab0948cd5cd3b80fd32b9111d5a41244b0e.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/dd1652bf638a5d4766aa58dd0bd6a68e0827d1561fc4bd35bdfc56bce1f38d63.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/107cef4efd3eb82927db5df682bb4c0b21f0df4c5371f856aa940545ff1df0a2.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/500d3298b7a13add144728b74f6d65029fe1c320c62b8e36d9b469e67533db1d.jpg",
+			"name": "WEAPON SHOP de OMASSE™: Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d10cebb5f010c93726670b5829fa65e106a714d14acf216ea691f4be7c05af05.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e1a9246c8f73b694f45cecb0013b2bde8281abc602a45584beb553a7864b78bf.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				}
+			]
+		}
+	]
+}

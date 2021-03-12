@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010108C00",
+	"eshop_id": "20010000000908",
+	"product_code": "WUP-N-FAKP",
+	"name": "Punch-Out!!™",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4b7b3d038603f23cd5a7e45ccfb312f1ae236ca6a79083272816e38d45044fc5.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/2ef5fd494e851590a693db15c6d7491aa0101ebbc3da753d9e47a525ed81b1c9.jpg",
+	"data_size": "36667532",
+	"description": "Esta es la versión estadounidense del juego. Puede que a Little Mac le falte tamaño, pero a este boxeador novel le sobran agallas y, gracias a los consejos de Doc Louis, su entrenador personal, está preparado para convertirse en la nueva sensación del ring. En el clásico de NES Punch-Out!, tu diminuto luchador se enfrenta a oponentes tan diversos como Glass Joe, un francés algo blandengue, Soda Popinski, un ruso que no duda en jugar sucio o Super Macho Man, todo un peso pesado en Hollywood. Utiliza directos, golpes al cuerpo, crochets y ganchos para descubrir el punto débil de tu enemigo y lánzale el golpe de gracia. ¡Además, contarás con un árbitro de excepción: el mismísimo Mario!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-03-21",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/fe860015ded543fdb1fc9031d99b06c7afed694826a160727a7a3b01c5a85286.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c92c70ee6133aa0145d6ee0eb68b157277fd96fa7aeafe42e4ed570e2effde57.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/380aa1c8f76783c77860afa4e6e2cf0c3b9cbd0f3d15390a955e708489da1ed4.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4e59956773d6ebb5310630729f9a5c3a6a331b3e1f5565f953fd29e59f3586b5.jpg",
+			"name": "Punch-Out!!™: Vídeo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7e0afabc155cb725f0ad2947b656fe5b05c882f5a36e3063d2c4064f7ac17fa8.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "48"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/60297bd1afd43218da831af3ccb49ba84b6d50fc70af9846f1ef931fe1236d42.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "48"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001015BD00",
+	"eshop_id": "20010000006527",
+	"product_code": "WUP-N-PNJJ",
+	"name": "THE 功夫 ",
+	"platform": 166,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b0eba7e254f3d9ae0223b69fc2c3062cabc1844771de544e03f586a8d6320851.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/dfe0aec3537a654c12960f3992f9492b818f9870c93f411b0032464807ffe51e.jpg",
+	"data_size": "80937080",
+	"description": "Huカードソフト第一弾として、PCエンジンと同時リリースされた横スクロール格闘アクションゲームです。 舞台は中国。プレイヤーは功夫の達人「王」となり、功夫界における最大の拠点を乗っ取った“暗黒大帝”を倒すため、次々と現れる敵をパンチやキック、飛び蹴りなどで倒しながらステージを進んで行きます。各ステージにはそれぞれ3人のボスが待ち構えており、全てのボスを倒せばステージクリアとなります。 行く手をさえぎる「毒蛾」や「棍棒」などに混じって現れる、回復アイテムの「ウーロン茶」を上手く利用して、全4ステージを戦い抜きます。 発売当時の常識をはるかに超えた巨大なキャラクターは迫力満点。リアルなタッチで描かれるボスとの一騎打ちはまさにカンフー映画そのものの緊張感です。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-04-30",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/5e27dcaa6346c47caf6a912b5592902135b8cfdf2188804491b4639cd7a6dcf1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9528a3859dacb7345721f86309365a5b3f09699d7602317fb7f335ef98b74866.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6d13e5f4f8594e5869b8156d96da715c08fa6f657ab80ad7080f5c5239cd1578.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/dda4c4758c87943d6347dbdc45bc2236401f74861b98f70ff359ef6b4001f862.jpg",
+			"name": "THE 功夫 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8ecbaa0eeec88d793bf2648ed0560c086b526f499a3601c5d7ff73a935fb7a94.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9a9387075b6c62d703091a6a3f5328939987e472553bca8792bff4c7c71e05d0.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				}
+			]
+		}
+	]
+}

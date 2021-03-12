@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101E2500",
+		"eshop_id": "20010000026336",
+		"product_code": "WUP-N-PPLJ",
+		"name": "モトローダーII",
+		"platform": 166,
+		"platform_device": "WUP",
+		"publisher": 81,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e0ee59c1c770f62f317dd438477517223978571834f0c2e326a55e97a59678e1.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e06b7d84d0137094fe00ae62a1c7f61b4d16be4bd2a08647e31b0e2239f1d7d4.jpg",
+		"data_size": "83689612",
+		"description": "西暦2015年、コンピュータ技術の発展は、地球の環境の全てを管理できるハイパーコンピュータを造り出した。人類は長い間悩まされてきた貧困・戦争・人口などの問題を一切気にすることなく、まるで楽園のような生活を手にしたのである。そんな中で、忘れ去られていた闘争本能はほぼ無基準の改造レーシング・カートによるレースを生み出した。「モトローダー」はこのレースで活躍したレーサー達の総称で、新たなレーシング・ヒーローとして世界中の若者達の憧れとなった。そして時は西暦2019年、単なるレーシング・カートでのレースに飽き足らず、本当のレーシング・バトルとも言うべき戦いの幕が切って落とされたのである。 本作は1991年にリリースされたレースゲーム。プレイヤーはレーサーとなって数々のレースを戦い抜くことになります。 レースではミサイルやオイルなどのアイテムを駆使して戦うアクション性が、レース後は順位に応じて獲得した賞金を使ってタイヤ、ボディ、エンジン、オプションなどを変更する戦略性が楽しめます。そして8つのコースを攻略し、最終的にスコアが多かったモトローダーが優勝となります。 「BEGINNERS」「STANDARD」「TECHNICAL」「SPECIAL」のセットコースが用意されていて、遊び応えも十分！",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2017-04-19",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/d97f5ec4a93a1fde70c1e8ee5695e39312e6788228fb484d7fbec448b22f9dac.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/6155c775f746a8632ccc448b0ea3232e5e78bd81c774015b77c533f13c4bff30.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/43308f2d12a592c4772ad6652e7315eedbe1f57a78de4df56994e89a14182504.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2497dd1993dccba24e6861e5532d0b6fb8934db403646b8aecdea231eeda336f.jpg",
+				"name": "モトローダーII プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/aff52f31f0e13b850dfc8f2857a4b2b82fbdcca8fd252fcf74bf0701e07782ef.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "45"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/eac06c2014af5701d4764f3d04ac78993edfdae94ed179bdeb6c3836632e0fc6.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "45"
+					}
+				]
+			}
+		]
+	}
+}

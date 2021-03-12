@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101BC200",
+	"eshop_id": "20010000016567",
+	"product_code": "WUP-N-BS4E",
+	"name": "Santa Factory",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1484,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8c47d489de0d467b4731b5c95bd2e07cb72c44ba3c23f8cdf6c11944c77e004b.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/99e7e6a1dbdb06147d7dccc3c76ceac0aeff3d7798d5cd6448fc4cc6c86ca602.jpg",
+	"data_size": "208797836",
+	"description": "In Santa Factory, Tonttu and Rudolf start their adventure to help Santa Claus. In a moment of crisis, use the special magic wands of Santa Claus. During the adventure, you can study the various English words. As Christmas coming, Santa asked Tonttu to get kids' Christmas wish letters. Santa gave Tonttu the special magic wands to help him get the letters. On his way to deliver the Christmas presents on Christmas Eve, there was a hole in the Christmas Santa sack, so the Christmas presents were scattered all over the earth. Santa was discouraged and asked Rudolf to get the scattered presents. Santa gave Rudolf the magic wands to help him and Rudolf started his adventure with the magic wands. Features : You can go through the obstacles by drawing the objects that you want to make. You can study 125 English words by playing Santa Factory. You can listen and write the English words again in the 'Gallery' menu.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-07-09",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/7a01a4e362530c036bbbf9a3c424a4d466fd7fdeb0d93129315961039923a5c1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e1c7226218bd9c37c39180de02ee11fd37adb795e967cfd61b5f019c6dcdc34e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/fdfdbe9c3783ed7325c629345987f99676df58a29ee2f2b0313b7f4d59653618.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/99a364e1e839779357081e1361ff2aa633cee018c6f46ee18e3b4411cddef019.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4437aae78f1b8989191278c18fa864dee167e5785f1cdb1016cb68f191956798.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1995a92e34cb45b3d9b1153454c9d37443d0e621c479369c4991ba0848ed835b.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1d75c78ae6fe4b4b1ad96c46f1f0f0ac8cae90232d70b1a00aa3cc8349273c3c.jpg",
+			"name": "Santa Factory Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/eccd8c79b9f39aa68f193a2803e2015b9e174035219a4e01700a7598ef55947c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "121"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ca59a642dac97d98297c9cee19b40d57d6125bb990a564caad23b7b83c4c9b59.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "121"
+				}
+			]
+		}
+	]
+}

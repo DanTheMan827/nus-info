@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101A5400",
+	"eshop_id": "20010000016749",
+	"product_code": "WUP-N-DAJP",
+	"name": "Donkey Kong™ Jungle Climber",
+	"platform": 169,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4fd01d1bc4353eca5a77b622feca0d5a9879f2e264f440b3241180d33ff0babe.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d8740de7a108c5f340c719401ef889e3ba1498b2081e3001e619590d5fb65642.jpg",
+	"data_size": "68419704",
+	"description": "Swing into adventure with Donkey Kong, to stop the evil King K. Rool from stealing alien bananas and ruling the universe! As DK is constantly in motion you control him simply with the L and R buttons to climb and jump your way through the levels. Diddy Kong also comes along for the ride, performing long range attacks and wielding special items like a hammer to clear a path for DK. There are also a bunch of fun minigames included, and skilled players can unlock extra-tough additional levels for a real challenge!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-08-06",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/b2868315acea8b7827afc05194cc3efb5c5794394fe7bb894ca1c56c666d1dba.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/fb0f0160822df966ec6e8de5016f0d1e7b2c058f1b096119e61db4a16fd71d1d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5e828292c1e62b996fbeee1c17d4e1cad5d27d1236b4fdcf123320f15eea0265.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9cc19dd9b52819cfb186135c1ea67734cc2d2d701dc1384f17eb0be3a456b689.jpg",
+			"name": "Donkey Kong™ Jungle Climber: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/99f6bf04aa0e00a3b34326a87852d46191af2c753107e4535aaa78594a2f15e9.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "74"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/699a8fe2a1e30df75c38c91187bab217871fd89762f95b46582ac3e862defb5b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "74"
+				}
+			]
+		}
+	]
+}

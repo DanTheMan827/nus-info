@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101ACF00",
+	"eshop_id": "20010000019750",
+	"product_code": "WUP-N-PCPP",
+	"name": "Medabots AX Rokusho Vers.",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 179,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c1520d06fcd9da1ca3e55b0058cde89716a91f268082b4c1ab13c068208af940.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/be018a839ca9d3c8cc45bb298c8b8aed713a62e956e8d2d3357b2f4bd95ad30a.jpg",
+	"data_size": "84836492",
+	"description": "Every year the greatest Medafighters compete in the World Robattle Tournament. Join Ikki and Rokusho as they take on the toughest fighters and their Medabots to prove who is the best. Team work and strategy are the keys to success. Customise your Medabots, and win rare and valuable parts from successful battles to increase your chances of success. Lose and your Medabot might end up on the scrapheap! The Rokusho version includes Medaparts and medals not found in the Metabee version.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-11-05",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/9eb4a323ce38e0b83fd069489f0219f15fbb25e314b574d5a63d558084d3b659.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f7e5ee1361f9b2cd9724348de7fc965375141c703609e141b8f217c29f2bb5ff.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e18fca2166dff0f1419986f3b8cc986db7c3d0a5d297482f647c7fe64615ba90.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1b25229eb3ca57f5ed564e6fde81aa971c715507185a345457936849046bcb4a.jpg",
+			"name": "Medabots AX Metabee Vers.: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/967172c1ca0b091e4c0d56a3d915d54389c3bcbe549d83f626d0e4f95e9fda83.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "43"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/eb6cfec97919a543867d165098d0a9354dee466aa0fac3ad30276c9467999c26.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "43"
+				}
+			]
+		}
+	]
+}

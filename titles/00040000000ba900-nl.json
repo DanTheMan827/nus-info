@@ -1,0 +1,85 @@
+{
+	"title_id": "00040000000BA900",
+	"eshop_id": "50010000014012",
+	"product_code": "CTR-P-APDP",
+	"name": "Pokémon™ Mystery Dungeon: Gates to Infinity",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/2212bc416c986a12b5b6a5fbfbb6a364a464a519154590a9ef28212faa665098.jpg",
+	"data_size": "885996388",
+	"description": "Dit is het Nintendo 3DS-debuut van de Pokémon Mystery Dungeon-serie! Speel de rol van een Pokémon en verken een wereld vol spanning, avontuur en kerkers met steeds veranderende layouts! Vecht tegen andere Pokémon en rekruteer ze voor je team, zorg dat Pokémon Paradise uitgroeit tot een bloeiende stad en gebruik de camera's aan de buitenkant van je Nintendo 3DS om Magnagates die naar nieuwe kerkers leiden te ontdekken!",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-05-17",
+			"retail": "2013-05-17"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d32e37e5dd973556576a396d3ba476b2b4dc1ddc306149f69319388802c6e129.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a82eccb4f6cdb05f9df4767ce46eb3faf37342b94c07582428858cf7de66b8b5.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/764a6f64d0656903a4c17734918192f44d76c3bc759483997c9f016f235c9684.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a2f1921cb8ebaae80097d2438d632c289be8c962f41db93dd15b580641f2e0f4.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/cfebf043e31a4de144e4ef4abfe3cd6e56c0e51f8aaaf63f645400679d679234.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/bcc4373b7891b31753359e0ac1c45fbda564d7a41f3dbdd3b862133ec828329d.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/416374a1240c6dc60b6554e91773ae161b8807f15a62aa48db2caf77d1758447.jpg",
+			"name": "Pokémon™ Mystery Dungeon: Gates to Infinity Trailer 2",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6a766996b70d8975880f401388eb23f70e4d24aaa940df6b118cfe4a940ddd82.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "80"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/059876640a3f0177f473e769399c9dbc6823b6b75351bdae6ceb4649cbd6e21e.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "80"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/416374a1240c6dc60b6554e91773ae161b8807f15a62aa48db2caf77d1758447.jpg",
+			"name": "Pokémon™ Mystery Dungeon: Gates to Infinity Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/59986fcf4456353b027c0dbcffcc1041415c9d71e4fb912aca92ad951251c0e6.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "66"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/36ddbb4239f68e84fac425730d170a275ee8aba5e76b6f197fbdab3ec21da5dd.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "66"
+				}
+			]
+		}
+	]
+}

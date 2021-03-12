@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010108100",
+		"eshop_id": "20010000001005",
+		"product_code": "WUP-N-FAGJ",
+		"name": "エキサイトバイク",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/28986dfc5b66c1c2cb19fbb90b2d3373a5e34f7e0e482b14a3d73e2ccb42424c.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/82d917660492a91827a65f8458f64bb7da6e7a9fc11badf7655e0dc57e679696.jpg",
+		"data_size": "36536460",
+		"description": "このソフトは、1984年に発売されたファミリーコンピュータ用のバイクレースゲームです。 スーパーモトクロッサーと呼ばれるバイクを操作し、ぬかるみや障害物が設置されたコースを走りぬけます。一定時間だけ加速できるターボでライバル車を抜いたり、ジャンプ台で障害物を跳び越したりして、ベストタイム更新を目指します。「デザインモード」では、ぬかるみや障害物、ジャンプ台などのパーツを自由に配置してオリジナルのコースを作り、レースをすることができます。 ",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-04-27",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/76cf3612786756f700fd011ccc54c2cf0800b9fa8399b5a25dddc9be230a52cd.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/9b6c7d98ba40769ecf3079585038204092ab524031daa22baa78e6960c712271.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/13938c7b56c45a91011217adeb77047143b0c6c1c456d923545f5374a56025fa.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d1ee9d3042458c81988c5903796aec011e2f30741bdaa6e2bd48984c55edccb9.jpg",
+				"name": "エキサイトバイク プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0ff593d681dd5af3046bec6bb9a4a91b18a62439ff7ca198233e7fbd10743889.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "47"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0881f2af98e381c38e85e334c4bb3456070a89d7b03cb2bca65b0a1561d0e942.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "47"
+					}
+				]
+			}
+		]
+	}
+}

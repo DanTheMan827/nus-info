@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101E4100",
+		"eshop_id": "20010000020469",
+		"product_code": "WUP-N-WFSJ",
+		"name": "FAST Racing NEO",
+		"platform": 124,
+		"platform_device": "WUP",
+		"publisher": 19,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/53c02f523a894a77344ce48b68dabcb08e8fa185da820d3deeddfd07e3837dde.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/bf944adc72fdea29b033204ec43e9733c5ffd3f39b4fb9131b04b0418efd8195.jpg",
+		"data_size": "618922164",
+		"description": "近未来を舞台に繰り広げられるハイスピードなレースが、今、開幕する。 未来の都市や宇宙ステーション、さまざまな仕掛けが施された砂漠や雪原など、多彩なコースを超高速スピードで駆けぬけ、全グランプリの制覇を目指せ！ 超美麗なグラフィックで描かれた圧倒的なクオリティのビジュアル、10種類のマシンと16のコース、4人で楽しめるオフライン対戦、そして世界中のライバルたちと対戦できるオンライン対戦。 5つのゲームモードで一人でも多人数でも楽しめる！ さあ、この超高速で繰り広げられるレースを体験しよう！",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-12-22",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/da447673eb050f0d4ddd18a4ee11eec76bb7f5ad7ed10565a641376be1e5f7aa.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/7c44d5fe5fc4318eaeea9199847f310e3dc9b5baea3dd11464c20a1b487c0876.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/cfac2fe931457f04e8375dc18f6ff551f080c327ff6ba5f84c5a56f140d97dda.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/18b151826cb0f32ef92dd85ef6d9a7c0ca813b2338fa37d9a1f52186045ddfe0.jpg",
+				"name": "FAST Racing NEO 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/256571c0a943f89f343b892c4a793366d32377b060db289840b8e3ace2534f00.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "77"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0da27c04848827a8109cefc600f6fcbf763b57ae7c652e1cacf248b5b23385bb.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "77"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"title_id": "00040000001B7100",
+	"eshop_id": "50010000042479",
+	"product_code": "CTR-N-BYWP",
+	"name": "YO-KAI WATCH™ 2: Особой демоверсии",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": null,
+	"data_size": "450870116",
+	"description": "В Особой демоверсии YO-KAI WATCH 2 вы познакомитесь с милым городком Харрисвиль, где сможете впервые встретить Ховерньяна! Исследуйте город, сражайтесь с Йо-каями и внимательно ищите секреты...",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-03-09",
+			"retail": null
+		}
+	},
+	"screenshots": [],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5abd20bca24b2de9c206784a31c668016a6dfccf889d2e19a8dbedecbfc1cd95.jpg",
+			"name": "YO-KAI WATCH 2: ознакомительный трейлер",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8a793be980f76fce12f8f75d9785957943f44db3c5364a5fbed0cad5a910d2ab.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "165"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e0a4b89357669169998fbbd82322054ac809e1d2f68eefbcf8d9007ccada506f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "165"
+				}
+			]
+		}
+	]
+}

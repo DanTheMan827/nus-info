@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "00040000001B8000",
+		"eshop_id": "50010000042736",
+		"product_code": "CTR-N-B2KJ",
+		"name": "漢検トレーニング２",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 222,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/99033e6b56396e72958480ba0fdb5022e8bc835f900640e2f89dc861b234eb3f.jpg",
+		"data_size": "118328164",
+		"description": "漢検協会との共同企画で生まれた、漢検対策ソフト。 過去問題を使って、本番と同様の合否シミュレーションが可能。 本作では書籍24冊相当の内容を収録。前作比2倍の大ボリュームに。 操作性も向上しました。 また、復習モードや辞典機能など、学習効果と機能性を兼ね備えています。 ●過去問題で漢検を完全シミュレート 実際に出題された検定過去問題を収録しており、本番と同じ設定で合否シミュレーションが行えます。 また、書籍24冊相当の内容を収録しており、やりごたえ抜群です。 ●学習効果と使いやすさを追求 間違えた問題を登録できる復習機能や、採点時にワンタッチで辞典を参照できる機能など、デジタルならではの効率的で質の高い学習が可能。 検定形式のほか、「書き取り」「部首」「四字熟語」などといった分野ごとに取り組むこともできます。 また、全体的に操作性を見直し、よりストレスなく学習に集中できるようになりました。 ●1級～10級まで全級対応 漢検全級に対応しているので、自分の成長に合わせて長く使えます。 また、1本で5人分のデータを記録できるので、ご家族みんなでご利用いただけます。 ＜収録書籍＞ ●漢検 過去問題集(1級/準1級～10級) × 22冊 ●漢検要覧 2～10級対応 × 1冊 ●漢検 四字熟語辞典 × 1冊",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2017-07-20",
+				"retail": "2017-07-20"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/fc31c398fc795ee49b70b895b6431028a16188b0050fe10cc0c5994593ad3619.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c69ea207cf9dc529dd1fad3a6fdab04aad7bf0d06a4d81c8c00ad27fdbf0cd28.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/fa34da69e6faaa16031457fab50ad03bb9b0485953729a4d091e36e3d3cf5660.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0eb780d5ac5eafc65a7886fa13d62c3ae13140deead7ab4b38e7c0d76b6bbcd4.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/043c82ba0137c95910e2dc854260e36b861a00716140f21a220a151090198f92.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d9a71bd6cc12a25b967714364f78cea7c0349b60cda5232131fa65c505025e47.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ffd7fad2c5b1179f74b37040bf837b537bb86a5385f67e72d23424508e6c2b43.jpg",
+				"name": "漢検トレーニング２ 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e55e209edb35553df0be1d542b01b9fda9c210e64fef6bfe808eb3f47fe8e8cd.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "130"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b359378643b44000c0ce44fbb42d86f88b5ac191e3451211daf8e236eb045692.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "130"
+					}
+				]
+			}
+		]
+	}
+}

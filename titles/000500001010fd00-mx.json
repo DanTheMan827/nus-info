@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001010FD00",
+	"eshop_id": "20010000000065",
+	"product_code": "WUP-P-ATKE",
+	"name": "TANK! TANK! TANK!™",
+	"platform": 30,
+	"platform_device": "WUP",
+	"publisher": 27,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/74eddc34dbdca0525b370a280b8a116fd794a45c0cfe12bfffa6e90ce49ed039.jpg",
+	"data_size": null,
+	"description": "<font color=\"red\">La compra de este juego está disponible en tu tienda local.</font> TANK! TANK! TANK! es un juego de desmesurada batallas en grupo donde los jugadores sienten la emoción de conducir y disparar con tanques. Con soporte para hasta 4 jugadores, familia y amigos pueden combatir contra monstruos gigantes o competir en modos todos contra todos o enfrentamientos por equipos. El excitante modo campaña te permite aumentar el nivel de tus tanques mientras luchas contra una gran variedad de enemigos gigantes. ¡Las características específicas de Wii U hacen de TANK! TANK! TANK! el mejor juego multijugador para toda la familia!",
+	"availability": {
+		"eshop": false,
+		"retail": true,
+		"dates": {
+			"eshop": null,
+			"retail": "2012-11-18"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/391efd872cc5cb9dcd7ad690809b753485cffa3834677722a5c75e565f7e8156.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a6c17414c7165147cf01bf924b301f193a958fcfe0840f66c94ccad92c562cc2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c8f9a0271a6e8922cd9d59b7f1e29b4fd4b7263492b1f31ae317ba78a88f033b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f6ed86041434aff801ef583ad3a61ef88ff2e37a07b327ed1e79c90643e214de.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/13be1bf3772294c4cc401b169071ca01e35ec90afb46f5897e90dcd056ee5b08.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e75296c2edffc00cdcda8733f5b9371886dd4028631075557148bcb503ab8d69.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6213e289f1c290d92d97c95562f80bdfaba8bd1aa9366bd5858fe15429be4c82.jpg",
+			"name": "TANK! TANK! TANK!™ Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d6dc0b42939218daf15b23d46e5a5d3e3dadbe51dd363b5c1eb20864cd6d7264.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "109"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/97284c7ebac29e43a45a188c98f06d564271152d23551d7ff49f46f997aef171.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "109"
+				}
+			]
+		}
+	]
+}

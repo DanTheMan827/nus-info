@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000008E000",
+	"eshop_id": "50010000010068",
+	"product_code": "CTR-N-JH4E",
+	"name": "Sudoku by Nikoli",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 118,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ec8369cb1880314accc7af1ce34c25de0a50542e289a9cca5f64a43154360e98.jpg",
+	"data_size": "37813092",
+	"description": "With the Nikoli puzzle series, you can enjoy high-quality sudoku puzzles, created by Nikoli, who gave the world-famous puzzle its name. The Nintendo 3DS system makes this game simple and easy to play. Sudoku by Nikoli contains 50 sudoku puzzles. Sudoku is a puzzle game in which you must place numbers from 1-9 into a 9x9 grid that is also divided into horizontal and vertical lines and 3x3 squares. When the puzzle is finished, each line and square will contain the numbers 1-9. With everything from simple puzzles to super-difficult ones, this game is popular with a wide range of players, from beginners to veterans. To provide long-term enjoyment, both a Stage Clear and a Random mode are included. In Stage Clear mode, you progress by clearing puzzles one by one and in Random mode puzzles are generated at random. Please enjoy this high-quality sudoku game.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2012-05-10",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/eb855722f5247d876e9b065d3803ab7661d1baec0c07a0299365f5fd172459ae.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/85a7af6d4a34206e1a5f154ba76d05937552dcdd937c83962b30fab2bd8a58c9.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/79488cffe68a5337a087fa32883117847894f111f56caff1e2969915af92c245.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d187d032e7d002a16a2e72d3896a09c0a8abadd2105d32a4be1b4eca2fbb7fa4.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/938545d3f960fcacd450395584acf44463e9fc9e31c2b2501a9a1ae796dc5f2c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/418cffb733c3597147fa78302bfdae281ac384d46bcdd85a70109b33d140db75.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b9e35b4bf26827c0cfae9da389a63ca0cc6f8f9396c10ebf3186c04e1425bea2.jpg",
+			"name": "Sudoku by Nikoli Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/80cfa53ace5d473e8fed74251887cb60fbaafd572b5d15fddc6100dc37d52c24.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "71"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5fae2457d6da499f872f1e57f73a837744fad7ce13c96bb5386f6370c3ac2323.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "71"
+				}
+			]
+		}
+	]
+}

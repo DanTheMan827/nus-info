@@ -1,0 +1,54 @@
+{
+	"title_id": "0005000010130700",
+	"eshop_id": "20010000003146",
+	"product_code": "WUP-N-JA8E",
+	"name": "Final Fight™",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 41,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f28edb7e7a1536e611bac4da9abfea36626a2c951e95a6fb3def181eeb75dd9f.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c0154dac650d08a4ef99054b1d19a95f6d8e866132f0065f7ea157020839051b.jpg",
+	"data_size": "41058444",
+	"description": "Enjoy unmatched beat 'em up action in this arcade classic and discover just who is behind the Mad Gear Gang in what may be Metro City's final fight. Jessica had it all--She was the daughter of former wrestling star and mayor of Metro City, Mike Haggar, and girlfriend to Cody Travers, one of the coolest and toughest boys around. But now she has been mysteriously kidnapped! Take to the streets with either Haggar or Cody and fight your way across town deep into the turf of the Mad Gear Gang. As you cross the town, fight with all your strength to save the one you love!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-10-03",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/94b51e40295f9a73b403df875754fcd3d3403db51e14f2073c070319861746e0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b066d52d4c8f5bc667a923cebeb2d50c6e5ff2ecec6a5eedd7c1e103b8477d07.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b802b46d27df23354a8100f5e3da6b6ad7e35790bcbbbada3be5a598e7049312.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f5ecb2f457edb30799dade6e936e2ebe56d937317bdd7abd33c1e7a2fcf5be57.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c8e00cc20753bda2ed60268dad0d3bc74c9df4867611e8b62a7da093e7fd0ada.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d59335460e8f87cafeab49e32eb66234ebee61b2559686a357d665521a0ddc99.jpg",
+			"name": "Final Fight™ Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/46b6357d42246a1a5940654401e2d6683dca77303547ddbe814ff414beb3bddd.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/45040ce48133aa742038abd90af97a8ade92710a2c8e60cff9c9635e44cbdf6e.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				}
+			]
+		}
+	]
+}

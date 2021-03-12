@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010158700",
+	"eshop_id": "20010000005224",
+	"product_code": "WUP-N-FCBE",
+	"name": "Ninja Gaiden®",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 267,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e4dbe7f5b447d04aa6d1acb40d788357d71c106acd59613019f399ff62228d41.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/43f4d682b4276e51e48842e987edfea4a490759464e916b73e7e6759309dc0df.jpg",
+	"data_size": "36634764",
+	"description": "Players take the role of Ryu Hayabusa, a rising warrior in his family's clan whose main role in the world is to protect the Dark Dragon Blade from getting into the hands of evil. Ryu Hayabusa travels to America to seek vengeance for his father's death. Player's fight their way through ten challenging side-scrolling levels while defeating gangs of street thugs, battling evil ninjas, and fighting barbarian bosses by using the deadly Dragon Sword, ninja skills, and ninja magic. Players can run, crouch, jump, and climb as they make their way through each stage and collect items to gain points, strength, and weapons.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-02-06",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/837344e06f475cd030f51f4611757fc111eba9ae2ef5822d6708c41e5570ec41.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9417cd670c127277ec2ff82272f2968d6f0d74e12a6bef4cc07edbd530181f59.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f6bf7986cf89992b687791bfdc4790d7ec9f57a0b80f5d32b147e5735f1329d4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f6093948b99b646f70cfbc91d281f768861d244e5c227045226d1e0245cd3f8b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5b7551dd5b0a7f563fc3862a36b77a682381e0b57b0150e2fd9f5c623cf60129.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/394029fae50a9c6348849989517bb418bb279d0a6f1c95299bb742a6fa3639d7.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/249c4812a8ddb7c1677c256e367bb4beeb458bceae391789fa0892ea4be3e73d.jpg",
+			"name": "Ninja Gaiden® Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/408aefd5cb21d8d254b9214733baea49964320887c3d49b4a9899aa6f0fe9104.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "39"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d038c7f1ed7e36d9cc05c3aa426e7ddf8aaa23e2117ccbb320aea10aa1645fd9.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "39"
+				}
+			]
+		}
+	]
+}

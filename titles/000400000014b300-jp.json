@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000014B300",
+	"eshop_id": "50010000026895",
+	"product_code": "CTR-N-JYSJ",
+	"name": "Aiレース:X",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 1212,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e2bb76f2a4e0b79016bbf0aa2bf0495b519414b9338ef75618bdeb9c1dca5a04.jpg",
+	"data_size": "99453796",
+	"description": "『Aiレース:X』は、超ハイスピードの飛行機型マシン「ジェット」を操作してトンネル風のコースを突き抜けてタイムを競う「ハイスピードジェットレーシングゲーム」です。 限界を超えたハイスピード! 奥から手前に迫ってくる、迫力の3D立体視映像! オンラインランキング対応! そして前作『Aiレース:スピード』のスタイリッシュなイメージから一転、「異形」をモチーフにしたコースの中を突き抜ける!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-10-29",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e1ad3244de7fee279aeea95c6db1c3b70782c142cf530dc89c689b9ce3dedd28.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/cf2afe3c8f279aa92b7e2e9baff2c2d725e3791dd80619b0c31cccd3fdfca90a.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8c43d44933a99cf4b10699104b59e22ef54ea26784c99325db6d376c280ceac7.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5bfc242c68dd20a02842afc648735cc9c81de6b92d628e45d994b310df056fac.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2b47d568e2cc05ade3d981373ea3f53d5e970856f29ca7736aa9fcad06579d36.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8201ef1a3c8b7973280c70ed0f391c03daa378ac8e41924f98b1a5b632a3c1b3.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4a899d746050ccba398d4117c5b16304138fde65acdcd2426759cc6f6840cb22.jpg",
+			"name": "Aiレース:X 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd8e43cdd0ea26446f128ccf28b0169fb0cb3aabd3d02d22a395ef2ff9d54dd3.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "89"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5a61d61145162f7714b6a2f32d58d76e5659404a5696b7258b3e5a0b7bfbe882.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "89"
+				}
+			]
+		}
+	]
+}

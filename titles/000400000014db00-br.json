@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000014DB00",
+	"eshop_id": "50010000038756",
+	"product_code": "CTR-N-KRUE",
+	"name": "Rytmik Ultimate",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 45,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/466bda42472d441d8d8315e2a6f01e9692723605715616e7735669bb25768f0e.jpg",
+	"data_size": "56839012",
+	"description": "Rytmik é uma potente estação de música de bolso que permite a você não apenas jogar com amostras e instrumentos musicais, mas também mixar os sons, formatá-los e criar clipes musicais ou faixas de áudio para a sua seleção musical de sexta-feira à noite. Graças aos seus novos recursos, Rytmik Ultimate coloca a criação de músicas em um nível muito superior. Cada instrumento agora é um sintetizador de som. Com o módulo avançado de efeitos, você tem mais potência para formatar faixas com envelope ADSR, vibrato, portamento, formatador de sons ou atraso digital. Além disso, o módulo de sintetização em forma de onda desenhável, permite que os usuários desenhem e modifiquem a sua própria onda e a usem como oscilador de amostra — com isso é possível usar o Rytmik Ultimate como um sintedizador chiptune sonicamente único. O Rytmik Ultimate vem com uma biblioteca de sons de mais de 750 instrumentos. Rytmik permite que você compartilhe as suas faixas com outros usuários através do Cloud.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-12-10",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2458ce71699dcfc725a7385f6e824ab0ed694694bcf4d388ad432fd06f000000.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2ca4411643a79c8dd76408d6b23243f3eb144728171fa01a51ed103cab04b099.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/4abf0f8359bc84e1f0c06aff1ad1980b3eeaea4be3c638f93b22924524a45d67.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/423f9f8da910552e480786262bd000479a2d7e596ed78fa4f1f0315ed2fae4f1.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a0a59c6ce011cf4def143906f257f1ed6acca4b1a586b65a106ac65f3be077d2.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6dd57d19c15578b07818263a8ca53afb82f905af292eb40d37abf29de5be8ed6.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/acb700a93be2797481410e9e39fdf93fefcb204c1b7c7160278142a2e6653cca.jpg",
+			"name": "Trailer de lançamento Rytmik Ultimate",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3e9539f8bc1b48ff61642441ad4150bdd4d8b4bad4306fc9c2fcbd575e0d5e6b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "57"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9e701894e9c4f38227619d3569455608e4b08b38d83ce6c3b4ae024b439da373.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "57"
+				}
+			]
+		}
+	]
+}

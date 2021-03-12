@@ -1,0 +1,78 @@
+{
+	"JP": {
+		"title_id": "00040000000D0E00",
+		"eshop_id": "50010000013376",
+		"product_code": "CTR-N-JDMJ",
+		"name": "宇宙船ダムレイ号",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 456,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a6feefb8c747fcb516d40b59e409eea4cb755e419b6923f0a9be6fdc992246b3.jpg",
+		"data_size": "111147876",
+		"description": "謎の宇宙船内で、あなたが目にする“衝撃の真実”とは!? このゲームには、チュートリアルや操作説明といった案内がありません。 不明なことを手探りで見つけることも、 遊びのひとつであるとの考えの元に作られています。 一切の記憶をなくしたあなた(プレイヤー)は、何もすべきかもわからないまま、 目の前に与えられた“わずかな手がかり”から、やがて驚愕の真実へとたどり着く。 その真実を手に入れたとき、待ちうけるものは、はたして絶望か、希望か- クリエイター:麻野 一哉、我孫子 武丸",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-03-27",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/65d8bf4ad2ba3b1ea165cb60bea0f7db306de39a65f73f640b274f24d01dd175.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/3405901c4896d9cb46064135f213e773bf7d1e02eaef82210abe74c53ddbf7d9.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7b904969dee3438d10d82c162e1e54e3b7ec6ff7edb0718fb6084620cf301e25.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7570d10ebcf34fd9c98dd31d00c5f75291e419affa22952628ec6a5cbfa12d2b.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/4d5d8f94057c5960c021b9155132d9a054250e37d36274df739568641b851a26.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5f1d4ea0b3d779547844ee3a6fbee773ebc740bf8f83655bd84850b1b535cd25.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fa5a0d2f18f6f9828e4cf35a989299f59bc5be2457de373d08699636a096feaa.jpg",
+				"name": "宇宙船ダムレイ号 クリエイターインタビュー映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/46ef2686f97c8cb5783111ee55ee8e83e83a5d1972e4476b65a01da794d9c5a0.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "112"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d607411df9803db37e1865004b832ad10542ddfb82b7969c6714d786cde8e34b.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "112"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bb3531fcf17a4386c90f90766ad2db6aa9c1dcba3f1051eb9cdd37dabc17e71f.jpg",
+				"name": "宇宙船ダムレイ号 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d98e15c0af5729bc137632920ef382750fa742d15efc355c39d2dd5b5ca8578d.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "53"
+					}
+				]
+			}
+		]
+	}
+}

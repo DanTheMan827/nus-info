@@ -1,0 +1,53 @@
+{
+	"title_id": "0005000010141D00",
+	"eshop_id": "20010000004107",
+	"product_code": "WUP-N-JBVE",
+	"name": "Brawl Brothers™",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 1800,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2189204e1f0c2f06330ac23772d710e0aafd20a41ae392e123b94b2aa26a548b.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ad691c7d3fe0c11cde3bc021f7bd28843eeb703a78049351f7ddca8d2d5de122.jpg",
+	"data_size": "41320588",
+	"description": "People are going missing in Bayside City and the rumours say some people conducting a shady human cloning experiment are responsible. For Rick (a.k.a. Hack) and Doug (a.k.a. Slash) this situation has become personal. Especially after three friends from their martial arts gym get abducted. The duo set off to the enemy's secret Air Fortress to sort this out. These guys know all the moves, from martial arts to pro wrestling throws - and they don't hesitate to use 'em. They’re not afraid of using knives, bats and other things they find to get the job done. And if that wasn’t enough, when they get hurt they get Angry – and you really don’t want to mess with them then. They ignore damage and hit even harder than usual! They’re ready for the action - the question is...are you?",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-11-21",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/771ac60ff66a3f3bebdc1c988e279262683a0b57d6c8c1e7e479204d3e8c31c0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/69acc3a22e2c14cc3f4c7dff32219b694258ae235f193eb77f0a6e04bf2baf42.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/077946a32b3dcc377c1e783bec22b2aabceb2586cdb3938224d9506139d7ba32.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/43abf714663de636d43fb952f5b9ae785c23149c1a0fd00aaef0b7ebe68b2db9.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7a028aed720c0e8a1499c20d61fc44bc527a4b0369cfc2ba40556cb6c105fff6.jpg",
+			"name": "Brawl Brothers™ Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0182b8a398eac9bb095266c47681d3aa10f39797774f20959c06575734ab50f9.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "28"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c2d70040098b015ba87c4927abee9cf8ab67010c24124ac17ab3d1da52152ae8.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "28"
+				}
+			]
+		}
+	]
+}

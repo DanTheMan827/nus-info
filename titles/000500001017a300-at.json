@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001017A300",
+	"eshop_id": "20010000008906",
+	"product_code": "WUP-N-PA9P",
+	"name": "Megaman Battle Chip Challenge",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 39,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/04a3a7c7dfa483cadd557329d85cc6b69f8620971fd52ceea32c2528d4580948.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a84dd96a531ed136630bf3f06cc2fbaf5aed2753cb0b48b2b655fbe3187a83bf.jpg",
+	"data_size": "100892792",
+	"description": "Deine Lieblingscharaktere aus dem Megaman Battle Network-Universum sind wieder da, um einen Sieger im Battle Chip Grand Prix zu bestimmen! Tritt gegen mehrere Gegner an, um den ultimativen Preis zu gewinnen: ein besonders seltener Battle Chip! Befehlige deinen Net Navi, indem du Battle Chips mit verschiedenen Elementen nutzt: Feuer, Wasser, Elektrizität oder Holz. Wähle deine Battle Chips geschickt, abhängig von der Beschaffenheit in der Arena. Metall unterstützt elektrische Angriffe, während Gras sie schwächt. Außer im Grand Prix kannst du ebenso in einzelnen Gefechten kämpfen oder dein eigenes Turnier erstellen!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-08-07",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/7f9b8dca0779d81359c2db564b499725938283bf9a6ef983d8ff738238f6329b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9ace6174ab760578d096125ff6a4931c3cf95449240151b70bd9fee7f0365018.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7c0591be012523b53a205edf98e35825e2ee6d531652a9475ef231f062698412.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/67eba9563c434b7718b5f62399312f290db7b2478be31d9cb43eab8c41b3ce03.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/393224b073c96262ece2cd6c345716e4bd620654e545aa9bbd68e65482375e92.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ae6e46ac69f23cb00913a03533d20fc6c38727d8e435c9583f612d60f5c53dc7.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2a2a1d06d148ae0d9174f1e24484ea1bbe0772bdeddf637ba2488c4c71fb5a64.jpg",
+			"name": "Megaman Battle Chip Challenge: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8ee7bb5e8d44e87f77bd5b4c97c519cd8cc82feab3b5f3331487fa7b287a460d.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "85"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f242eb1270f463698ca4d6a33f33ec034ddf49fb9a9a7a468cc8305634743a67.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "85"
+				}
+			]
+		}
+	]
+}

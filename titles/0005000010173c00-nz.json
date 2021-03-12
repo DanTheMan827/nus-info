@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010173C00",
+	"eshop_id": "20010000008748",
+	"product_code": "WUP-N-PAZP",
+	"name": "Fire Emblem™",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/25824df97e3cb35f0c356ae03ba74365584171a7cb1f2764a1a22411ff4451a5.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7897f30c9ccc43dd0b842a10bec8891b27178aef2c0c46bd7c4741721f88237d.jpg",
+	"data_size": "102989944",
+	"description": "The all-time strategy classic Fire Emblem first came to the West on Game Boy™ Advance. Take charge of a makeshift army and transform them into a formidable fighting unit. A gripping storyline, memorable characters and red-hot gameplay will keep you enthralled from the get-go. With a range of different character classes, and factors such as terrain and weather, Fire Emblem's huge array of scenarios can be tackled in many different ways. Plus, simple controls and easy-to-grasp gameplay make it accessible to newcomers.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-08-22",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/5eb717c2e590b0f8dcffd6c5209b6ca17946abbb79783bfd3c450e84566c7a51.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/056fd374ee0e7a9b4b96b70871b26b7aeaaa19c4dd7c73cd217a3e3e103a9641.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/09290820386925a514dab7afe57fc2d3f686b47e8d14aa904c894aa86d8c00e8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a3753e1a97d329d28615b183cd7f59994324b1009f16dc375a144d6a53bc2f6a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5d3e191df5f33e4066172a1b97f36964b852e09f831478dc99f0bbfa558ed521.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/098de78f60ca826b2db4198d360a680f4945b633af431ec08530ccd81696d6c2.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6606680aefad045ada6662bbf5d3d3722fd96e9e26cb2211606fe35c2a9f6e06.jpg",
+			"name": "Fire Emblem™: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/116727fc598d615ae71f1e948e15b55ca35bee4be576fe4ec3a9952eeed5e3ca.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "84"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/636e14fdd99c01458acbffb1c7b7ee7b264c33976ed211189db2c6f9cfaf798e.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "84"
+				}
+			]
+		}
+	]
+}

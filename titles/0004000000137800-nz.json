@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000137800",
+	"eshop_id": "50010000032637",
+	"product_code": "CTR-P-AZGP",
+	"name": "Puzzle & Dragons Z",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9a1f283c853d1e8cf903f3ce72a9c673e4645b7c166519c4a453f16f33578ed4.jpg",
+	"data_size": "958184292",
+	"description": "In this colourful puzzle game, the player is a Dragon Tamer who explores dungeons, battling enemies by matching three or more Orbs of the same type within a grid. RPG-type elements add a strategic layer, while the player can recruit defeated monsters, then improve their attributes using experience points and Chips. This pack also includes a Super Mario Bros. Edition, featuring a streamlined version of the game starring Mario and Luigi!",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2015-05-09",
+			"retail": "2015-05-09"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e1cc836c7dc2fb680a03cfbc53e302fa34752675907f71d91b3fccffa1a87b5b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/da62ed836db85943f901011d89710ad17245450d32e8ed9f78bbdbaa2fbc554d.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/02658fd7ae031007712327a09302b4b4afe630295c82824f145893c35bef6655.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5fe97ffdbc828ca4031d9b9eaece94140ed07711ad8961e1c5ca88f562c86946.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/15b84704bb03f9097d339a38fedfbe4c10b187968b8b967a8eb039cc389c5f57.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/412e1f7f605db1601c694ce80665c8a28126d468fd96bd09c19ca7f7f22e4783.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/42348b5125ab53b0fd01b0edc4da3bd2f9884a1282f65c9424bc61fc777276ee.jpg",
+			"name": "Puzzle & Dragons Z: Trailer (14/01/2015)",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ab43b07076b37491f1f70d7c0fc51ac766d9ade8088fa97089d8560e1900b3ce.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "98"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/00ad43fd3353624b9abd401d58916278e873f54641e9745939dc5ccc1d2e6472.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "98"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001010DA00",
+	"eshop_id": "20010000000051",
+	"product_code": "WUP-N-ANBE",
+	"name": "NBA® 2K13",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 1064,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a9bf9a38a87c66926d0d6ba9f69ac7283f0dfe25664f1cae63b8df97009dae7f.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6134fea598971ff9d81a20f62a636eb9bf5d942aada0e55af53806475a8ee1e4.jpg",
+	"data_size": "21126350480",
+	"description": "NBA 2K13, el videojuego más vendido y mejor clasificado de la NBA, une fuerzas con el legendario Jay Z como productor ejecutivo, para trascender en el mundo del básquetbol y llevar los duelos virtuales al siguiente nivel. Presentando características de videojuego exclusivas para Wii U como el Gatorade Biometric Scan, NBA 2K13 permitirá a los jugadores usar el GamePad de Wii U para acceder a los detalles de los jugadores como estado de ánimo, nivel de fatiga, rendimiento, mientras deciden jugadas, y cambian jugadores. NBA 2K13 también permite enfrentar a los mejores jugadores de la historia de la NBA contra la nueva dinastía de talento, incluyendo el muy debatido juego entre la selección de Estados Unidos de 2012, contra el \"Dream Team\" de 1992.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2012-11-18",
+			"retail": "2012-11-18"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/133bd65d84e619127a79482a765727e29ad2c1e156a3a2376489bfdc5eaacdf9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bce90d55f31acb29c9080cd87841564fcbcc5baee4f8f6830080aa79f7110447.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2fe0d67727f39767ecbf2366da81f6db67b792024d90a160bdb733163111a3ef.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/089fd6faf06567aa4b3cee24df4b4366a1aa2d1cd776f20292d5e8856d637538.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a43840ed4360276544d35996c5d7e81dbbf1fb9845f60bbd2238e625fa06b167.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ab5ad2180a734c68c25d19f8062b28cfbc19d9ba412cf3060115c82eb5d19d03.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1bad40cf54175600966e2476da6d0f30c09bc3e60183551102bc8f64841df309.jpg",
+			"name": "NBA® 2K13 Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0bc2d8c7601e7696806b233347d44bcdc84a11a5a75acab5cffeab2c87970f8a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "74"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ee56a1a65959962c1e8735e581e6c92eedb0468a5e0b7db0dba7ce27f48157f4.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "74"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000152600",
+	"eshop_id": "50010000033735",
+	"product_code": "CTR-N-BXLJ",
+	"name": "なげなわアクション! ぐるぐる!ちびロボ!",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c7403835f84ced142629de2440e3b3c9a58799c4aefc3c36cfdb66ba0a4d2e30.jpg",
+	"data_size": "791866212",
+	"description": "身長10cmのお手伝いロボット「ちびロボ」が、横スクロールアクションゲームとして、ニンテンドー3DSに登場。お尻についた「ヒップラグ」をカウボーイのようにぐるぐるとまわして投げ、敵を倒したり、離れた足場にプラグをさして飛び移ったりしながら、縦横無尽にコースを突き進みます。 また「ちびロボ」のamiiboを使うと、ちびロボがパワーアップしたり、登場キャラクターのフィギュアやおまけのコースを入手できるようになるなど、より一層ゲームを楽しむことができます。 ",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2015-10-08",
+			"retail": "2015-10-08"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e8603e9303109e8d9152474d16ac34247484dd8f921d26d20d58e6b159a39417.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/454b96c3557bbdd39c53f487dc5c2378262eafa8423c404810eb155a24a8c71c.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2b0f05f9e21b48d252a50e7133369716b30a921d99bb984a450567dcc610cfeb.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e858741197e875f0f601e98d7f2e44deaa795a0a25a031750b4956b38a279212.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2105fa8c25af546da5d0bb5715c7794cd7a703c84d9089572fde8d68cf490185.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/320213e7d28f50c6024cce1a52ee7e3ed93babf155c201b45c91b47ba72cc6b6.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/70228f382447ddf86caa0c0b97018eddf36bd0371e63d060574a1255d51733b7.jpg",
+			"name": "なげなわアクション! ぐるぐる!ちびロボ! 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/89635d392cb9f099b2c0a7b9fdca2b3672229701ead5a7cbeef4563f2d65f1d8.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "276"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ee3b9c947c6f043bcef42ac261ada76b79b1c8c0fc8745e9d9808886832f6705.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "276"
+				}
+			]
+		}
+	]
+}

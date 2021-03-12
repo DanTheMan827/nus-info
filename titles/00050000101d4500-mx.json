@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101D4500",
+	"eshop_id": "20010000021294",
+	"product_code": "WUP-N-AGQE",
+	"name": "Grumpy Reaper",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 76,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/13112021368b4de64c3ad92420ea16e6ecc84c046ecf096f856c0a670e0e7b4f.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9ba27cd0a4d7d776fa7a3f1a04c67c79a953e7c3bd24ed5cedf470c7c4915a95.jpg",
+	"data_size": "472678560",
+	"description": "Grumpy Reaper es un arcade que incorpora elementos de habilidad en distintos modos de juego. ¡La nieta de la Muerte ha robado las llaves del Inframundo para sembrar el mundo de criaturas! Toma el papel de Grumpy, corta el cesped y encuentra las llaves perdidas para ayudar a la Muerte a solucionar este estropicio a lo largo de los múltiples niveles contrarelog, nocturnos y de supervivencia! La Muerte no te ha dejado solo!!! Mejora tu cortacesped para convertirlo en un arma letal contra los monstruos. Controla tornados, convierte en Zombie, viste armaduras para poder sobrevivir y recuperar la paz... si puedes...",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-03-10",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/5d36fd59c3b46c65c17d4a98c080608929814a82f0aea06e6d92700bb32cd445.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3fba36222d0fec7c56a9ecc09661062b82e6d45237ebe3277b37b6b8dd3723c4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/09cad258f67d19bb28d7b2d33cb4b27e496d39c0070350fb92c01c73a1328c46.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bd69047120f23da9314642e9debd9702190f93b2dcefb08fb9190bc0278a8d78.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8422811cfeb4b1ff125b8505de85adcb01320105e9786319041966c08d476127.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2273030d9b2622339e1c3cfd138cff7a4cfb2b392ace79f67f69a2d6576fec86.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bd25657a29e628b87e1f191e67158f09d5e9177d25bb01c6266cdb4a9cd73845.jpg",
+			"name": "Avance para lanzamiento Grumpy Reaper",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/84d5d1c9b2fb9516eb7c9f8bd804467fdcae55fae3619c2c88780280f3f778d1.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "116"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/59b68f5a3329e9d151bd5be49c991618fe8e02ca30e3ee0ac6587e5023640a87.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "116"
+				}
+			]
+		}
+	]
+}

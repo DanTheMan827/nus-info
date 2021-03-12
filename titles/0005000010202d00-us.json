@@ -1,0 +1,54 @@
+{
+	"title_id": "0005000010202D00",
+	"eshop_id": "20010000023648",
+	"product_code": "WUP-N-BU3E",
+	"name": "360 Breakout",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1610,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d35a84fb503b250b250865ee68879f33054a24c77485b063c2ec68442e844d85.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f305b20db859b1b8fb98077e0d2a1cc15837318d38d7eb2bd857ad6df1a7a434.jpg",
+	"data_size": "138248332",
+	"description": "360 Breakout is a breakout game out of the ordinary. Offers single player, two player co-op and two player VS mode. Play through 20 exciting levels on your own or together with a friend while aiming for a new high score. Supports off-TV Play mode.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-08-11",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/48acae9767b7cdd27db0c7d907325d249617c139d7920f96ac760ff161a7f326.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0a4e8152cb0dbcabadb01fdd79e6699f1f162a14a652e5d622f05f9964c3b96e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ea4fd15688a5ced0cca30c82fe11f0f948d5ccb3887192bbef1981a8ab9013d5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7600e8a40f7d93138603c7a0da0d6582449f2a8bce705293b322a9e5a8c319cb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/47892b2a35f5db24c7bf5c4e499407b17306861fa66f754739432f607d906771.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1b388af59d05819986e9a3527bcf19a22ebaea56a96929f73e1f2d39c7588b96.jpg",
+			"name": "360 Breakout Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5d2f7eb995d6d85af689e27499959c0329ee4ec3bde85d37da67624c42f8a963.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "59"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9fbdc7563069847e0421ba1a6341011c3f6c0a52daea9585cd8c0d9570a62514.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "59"
+				}
+			]
+		}
+	]
+}

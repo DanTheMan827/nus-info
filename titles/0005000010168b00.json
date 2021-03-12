@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010168B00",
+		"eshop_id": "20010000023067",
+		"product_code": "WUP-N-MNLJ",
+		"name": "沙羅曼蛇",
+		"platform": 167,
+		"platform_device": "WUP",
+		"publisher": 149,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/718ed9259b48772865962e9636f03c05814aa6f3f49ab4e89fca768cfba01ab5.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a5f3cd07b417975d8de76c948b2faa03f0f65ad6d36dac07512ca8a76310015c.jpg",
+		"data_size": "94961804",
+		"description": "本作は1987年にKONAMIから発売されたシューティングゲーム。アーケード版の『沙羅曼蛇』の移植版ですが、ストーリーやステージ構成などに大きなアレンジが加えられており、MSX独自の進化を遂げています。 自機のパワーアップは、アーケード版とは異なり、パワーアップカプセルを回収しながら機体を強化するパワーアップゲージシステムを採用。プレイヤーは好みに応じてスピードアップ、 ノーマルショット、2-WAYミサイル、リップルレーザー、レーザー、オプション、フォースフィールドといった“グラディウスシリーズおなじみ”の装備を獲得したり、パワーアップさせたりしながら戦うことになります。 ストーリー性の強化や、パワーアップシステムにグラディウスのものを採用するなどの大胆なアレンジによって、本作は最高難度の沙羅曼蛇に仕上がっていると言っても過言ではないでしょう。ハードなシューティングを求めている猛者にこそ、チャレンジしてほしいタイトルです。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-07-20",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/7b5d85caa726e11ccf85cf8768b20f78ebc555b4e70c2b59ef32620abad37a2b.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/ab4314a65df0931df3f405dfc7a6e17750058d832045fa079ce6b5365399b58b.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/97a29393c45b30f97f2d481fb9d0ffd1bc13c64137733db45c11728d5fcdcbaf.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/504285808881965eb368c026ee30eb7a1daf212ca7c9f207672b5bb9211591b8.jpg",
+				"name": "沙羅曼蛇 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f0be9edee94f15c26c12dcc06584ae68850e09cf3f1dd91b36fd4db1a58065f5.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "68"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c3dc77acea86e96b85460b0bdf33499a864759b532a9517e83cf9e34b4ebc05a.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "68"
+					}
+				]
+			}
+		]
+	}
+}

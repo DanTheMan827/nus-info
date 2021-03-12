@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010171000",
+	"eshop_id": "20010000009307",
+	"product_code": "WUP-N-FC9P",
+	"name": "Life Force",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a6ed4692013d9b7fe4598244d714ef5f9f2faac733baf8b70b0c2fee8d1bfda7.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b57b93095e09ef0ea9fe1269d2c97538b3e1f48d9b3b5ded3e57a5c8814e9ddb.jpg",
+	"data_size": "38764704",
+	"description": "Pilota il Vic Viper e parti in missione per distruggere l'enorme alieno che minaccia di divorare la galassia intera! Life Force, un vero classico degli sparatutto, è uno spin-off dell'innovativa serie Gradius. Il gioco si articola in sei livelli diversi, tutti situati all'interno di una gigantesca creatura, che alternano ambienti a scorrimento orizzontale e verticale. Prendi le capsule per ottenere nuove armi e potenziamenti e sconfiggi il boss alla fine di ogni livello. Questa è la versione americana del gioco.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-09-18",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/64cd80b8fddbddcb7b9fde06fc935f564366cd30d0e74be649c0dfe5dd7b9f1c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f923d28224929c4cf2833dc12e275bfc8246ae2fa59e301cf23cf043b6000071.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c4a934310dd7071edaf41aac3f906e2c30aded26acb0b745e04781fe99cdea06.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9e0cb9f28da10e6c104db4c38f93670bb37a3ee5ca4bfa74a1372722b20ad93a.jpg",
+			"name": "Life Force: video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fbe8b006c925004bc7d7f0ff0d00a8a54db1fd6fc96aa07f50d1f90991c58516.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "47"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1409d4d0b7a63feafacbeb7e019f7886af79ead5a0bbf6d3ede07bf05483cfcc.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "47"
+				}
+			]
+		}
+	]
+}

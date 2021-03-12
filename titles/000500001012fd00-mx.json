@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001012FD00",
+	"eshop_id": "20010000002124",
+	"product_code": "WUP-N-FBBE",
+	"name": "Kid Icarus™",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/80f55ca728d80d40d8e7af3e0ded7695e0231b87df53a73ad27a97e8612533a0.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ceba5c3239920cb0ababc511500476dcc1412082cffab472315abaffc76ddd84.jpg",
+	"data_size": "36569228",
+	"description": "La malvada diosa Medusa se ha robado los Tres Tesoros Sagrados y ha encarcelado a la Diosa de la luz, Palutena, procurando tener control total. Juega como Pit; un ángel a quien se le han encomendado el arco y la flecha mágica. Tendrás que luchar contra una multitud de enemigos que llegarán por arriba y por abajo. ¡Rescata los tres tesoros de sus guardianes malvados, úsalos y enfréntate a Medusa en la batalla final! ¿Estás hecho de lo que las leyendas hablan? ¡Restablece la paz en el Reino del Cielo y demuestra lo que vales!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-07-25",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/e4835582b8aeb6183b91418aa60d54533d4b2ed42a6b0cd6a9db45f3f52bc4ac.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9f14e088a1d4f1726bc3bdcf5c80149a80d2122fe209881a3823e901e444cb18.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0b764632615587716ffff160b53e0f7424fb5043385ede8d0009eeecde2d0144.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/cbbce516dc8b6c0f06d2b839993bac1640dd515e8b06c0d99a8162a075cf3d66.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/38f6c65b04dd1d40289baeab47c275e128b4dd5f49a656f0c958583aa0416cc5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7606b65dcf0fee119408e54c10f5cc2015a7ff7ad128142d5fe5cf8bd154f79f.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2addfd57300ac3650bf3db4d3415041f1cae268df0f2b4547e5288ae2fb91618.jpg",
+			"name": "Avance para lanzamiento Kid Icarus™",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8e37e2aed98384f1d02a544d8b711aec209eedd7dff5a2740e6ec54412eead57.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/373d11699c21d9f3a14d50fd166ac471419acf3b9188bea53e47db63a2e3b852.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				}
+			]
+		}
+	]
+}

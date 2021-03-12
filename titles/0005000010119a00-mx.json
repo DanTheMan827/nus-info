@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010119A00",
+	"eshop_id": "20010000000725",
+	"product_code": "WUP-N-JARE",
+	"name": "F-Zero™",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6690f0e017fe572a46b5f6631a50e9b0706352ae2e89854e8313faa3e6f20177.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/97a3146c2ff028df82ff11377584858ed7f20ce4003c17cedb4cf1b580a2aea4.jpg",
+	"data_size": "40632460",
+	"description": "Lánzate al futuro con el primer título de la serie F-Zero™. Elige de entre cuatro naves, cada una con su propio diseño, tasa de aceleración y piloto, ¡entre ellos el mismísimo Captain Falcon! La estrategia será imprescindible mientras corres por 15 pistas llenas de desafíos y trampas. Busca atajos, evita obstáculos y obtén mejoras para sacar ventaja sobre tus oponentes. Aprovecha de los paneles para saltar o acelerar, pero ten cuidado con la arena, las minas terrestres y los imanes. ¡Afina tus reflejos, toma el control de tu nave y prepárate para un desafío como ningún otro!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-02-20",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/25ad0bb7ecc383e1f3483bd847b697066acac2cfd5622cf3d796ccbb17d7b179.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/08641ef844984249fb3a1bc0df1f1fe23de13237ab0041705d1f4cc4d4d8c5a3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6f57cc3b0c9da628c3e97a7009291c7358c09a5c639bbf23efb59d41156d5d84.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f46942185801afaf0ad43d123e30d5d2cbb17d4f371454c793245258a2668c19.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7e78faba2098ee213ac0e9006fa4239c30f4122c16eec0f93c50a45b758aa5cc.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9552e591499a75203e1a0bb9fc58ddaf69f08a21a37ab65380b7896d15986a92.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1366fc3c2d166f5580dcb5fca9cc2aad2493be5fd4d267e4de87ea1e85bbf162.jpg",
+			"name": "Avance para lanzamiento F-Zero™",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3af05c055dabf6245c6e89b9af0528180f746992b9c5d25c4c15ca13f208d78d.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "42"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/076e17540283f29e48de9ee3879c7e7d4d9b9e69894d15c5c2d3dd7c16910022.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "42"
+				}
+			]
+		}
+	]
+}

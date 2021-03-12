@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010169A00",
+	"eshop_id": "20010000008406",
+	"product_code": "WUP-N-PAPE",
+	"name": "Mario Tennis™: Power Tour™",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ca8779dc70b9a6b545bb62c28a070d7d81681129fb0e888d0b7e41cfec53788c.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d2ec6f14befde3cd4022ab1378e3ec4df3c2194c78b38397df54f4e85957db7e.jpg",
+	"data_size": "97878136",
+	"description": "¿Crees que tienes lo necesario para verte las caras con los mejores tenistas del universo de Mario? Juega un enfrentamiento directo o júntate con otro personaje para jugar un partido de dobles. Emprende el camino hacia la victoria y pon a prueba tus golpes liftados en este juego de rol deportivo. Entrena a tus personajes para convertir a un novato total en el más veterano de todos. Modifica sus estadísticas y equípalo con golpes potentes que abrumarán a tus oponentes. ¿Podrás derrotar a los campeones actuales para convertirte en el mejor tenista de todos?",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-07-03",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/2282e420d08ec3043fbfacc3d1d36cf6935cb345b9bc3ed07d958f444c51d764.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/48c34019f5e46c7deab52eaae862ad7e843705113d28b56d351f83158674bb73.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/cbefd66ef14391f0377cd65f8a6144670931920c029649fd6963de0aec15e747.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4fd1e244a0f8e10406b1d4d1c011096df34e4a73a71d7f68bd3d17dcfd4fce52.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ce9130b5a31c1f2269cfef0b0a7b9542d15671da5d938a3517b9c06e6ecf7e7d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/72ab6448a0e0e08115b8e27829665efb694d5170739b11854a1020d002e0fb65.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/eb1caebb0cae6ac6551d4dfd633dceee87ec71a7f7fdb173eeb250bbea1c0723.jpg",
+			"name": "Avance para lanzamiento Mario Tennis™: Power Tour™",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/14137e0471ce2c0d9c75690ad869a90b2ac2923fa51e9bdca9b4a8de64344146.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "47"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b8a63c4af886db0c371a67ef232ddb89e11d1e6d698da2c67508ccca768f2b86.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "47"
+				}
+			]
+		}
+	]
+}

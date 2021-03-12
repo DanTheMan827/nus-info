@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010178800",
+		"eshop_id": "20010000008470",
+		"product_code": "WUP-N-JCVJ",
+		"name": "ブレス オブ ファイア 竜の戦士",
+		"platform": 164,
+		"platform_device": "WUP",
+		"publisher": 39,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/76f3d3ec00a00eaeb2807d880091665f8eebb2870bd87d30297757c1247f34f2.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c8d2f73ee6e69c9ac5d80e58f4463c3bffd24e34b5208205cd117b3c39240b37.jpg",
+		"data_size": "43483296",
+		"description": "このソフトは、1993年に発売されたスーパーファミコン用のロールプレイングゲームです。 数千年前、悪しき女神の力を巡り白竜族と黒竜族の激しい戦いがありました。戦いのあと、白竜族は戒めのため自らの強大な力を封印し、世界には平穏が続いていましたが、再び黒竜族が侵略を始めます。白竜族の少年･リュウは連れ去られた姉のセイラを探して旅立つのでした。 仲間となるキャラクターは、アイテムを入手したり、罠を発見したりする特技や特殊能力を持っています。各キャラクターの個性が表れた能力を、さまざまな場面で試してみてください。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-09-10",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/5e6d99bcdd74844320ad99991803907d97f16c507891e943ec1a4ca59147ca95.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/9f5a43e2e28f832e1bc8aca73f6d6625b310826e119dfd8b41936d6e32c70a85.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/c589ce95a010e3fe0b34c333b8c178bc83950147776dce1919b2637c35ded5cf.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0654cc9838463acbb1d40f4790f6fbe298d4ead397b70390121c7a86d375f537.jpg",
+				"name": "ブレス オブ ファイア 竜の戦士 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3568dcf0fe5efa8fdc26940b2a371ad7cd2a1a38022f3d927f1afe09fa12ca3d.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d99a041bb45353c3904af9afffb4a4a788127428e08a25a6775f87fbb6beefdd.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					}
+				]
+			}
+		]
+	}
+}

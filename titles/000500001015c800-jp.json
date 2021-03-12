@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001015C800",
+	"eshop_id": "20010000010027",
+	"product_code": "WUP-N-PNVJ",
+	"name": "沙羅曼蛇 ",
+	"platform": 166,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c46f590371ccdd6e89aa224856126a56f305928f7fff83c947c6620e12426f4a.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/303da5697c22b1a648375061bae483e920d40f0d6f4fade33a6cceacade6dc1e.jpg",
+	"data_size": "83427468",
+	"description": "シューティングゲームの傑作『グラディウス』の続編。「超時空戦闘機ビックバイパー」が「サラマンダ軍」の侵攻を食い止めるために敵の母星へと向かいます。 ステージごとにスクロール方向が切り替わり、プレイヤーは「パワーアップアイテム」で自機を強化しながら敵を撃破していきます。 各ステージの最後で待ち構えるボスを破壊するとステージクリア。燃えさかる「高密度エネルギー」ステージをはじめ、火山弾が降り注ぐ「地底火山」や「小惑星」など、前作以上に趣向をこらした6ステージがアーケード版から忠実に移植されています。 攻略が難しいポイントで力をあわせて立ち向かうことができる2人同時プレイも可能です。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-10-22",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/8aa46f4cf1edd50223013156c55d966c8b02b69dd615cdbe07be04204c41d195.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ba8c2d94a469728b05ff3d0b18275b649e835c4d7ab6ea4682cf41c9286c1dc7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c765a8a34ba425fdc1282956b30d2c8ece6d3be14d006fdbd47b6aeddf701e9c.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/799c0014f1b08460b14a0baa01ddf9b8ac96498e91516735ba2d1bd28dbcfe85.jpg",
+			"name": "沙羅曼蛇 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c488c3166d86deb96f0e2294056501bc2c55c9d1c3b0beeaefe9bb60d83243a0.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bc59debb154a0a591e7afa145439fb8ba95ea5fd05aa1fab0f3ad0419f09cbe0.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				}
+			]
+		}
+	]
+}

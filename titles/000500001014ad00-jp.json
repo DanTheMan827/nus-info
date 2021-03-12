@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001014AD00",
+	"eshop_id": "20010000003704",
+	"product_code": "WUP-N-FBTJ",
+	"name": "ファイナルファンタジー ",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 246,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bbb0375aaa056ae59ecd5c5264c3bf91c1bfea99c1b383e439e2d2db7ab890ed.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d817b9ab59334035bec8cac87881507f4e1d3ab51d9b548e419bf201c426afa0.jpg",
+	"data_size": "36634764",
+	"description": "このソフトは、1987年に発売されたファミリーコンピュータ用のロールプレイングゲームです。 闇に包まれた世界に光をともす重要なアイテム「クリスタル」を持った光の戦士たち4人が、行く手を阻む悪に立ち向かいます。シーフや赤魔術師などの6種類ある職業から、攻守のバランスがとれたパーティーを組むもよし、魔法が得意なパーティーを組むもよし。自由なパーティー編成が可能です。「職業」をはじめ、『ファイナルファンタジー』シリーズの特徴である「白魔法」「黒魔法」といった魔法の系統、世界を救う重要なアイテム「クリスタル」などは、1作目である本作から導入されています。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-11-13",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/d1ef1ad284b0300c031790deeb245b47273311989d7996fd40580a5ae5ca9714.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c4a526780cba8d223bb7d2ed2eab80e72958d3b1d1ecb66dc4f4f0773d6c8bf1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7b18f6882b874046d47967cf1cb6f723e1f2f025e111d45d2bbac5a34501bf80.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/eb7fea817d4bd334dac0c02ede7b21048b56b9e32072785aa4ac2ff370f32490.jpg",
+			"name": "ファイナルファンタジー プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a10b7d1f2a2036977e0e67cce7ce4762304865468999775f809a07ccec336d8a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5aa58c73dab36df74c838250f82b66c0f43b8c0ecea580130b8f8a11cd3bdb3d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				}
+			]
+		}
+	]
+}

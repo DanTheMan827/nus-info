@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010173E00",
+	"eshop_id": "20010000007167",
+	"product_code": "WUP-N-PA2J",
+	"name": "スーパーマリオボール",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e0055524844f3fd03c9988a7b77f83affaeb940fc2e5d51c631c7917f1e76dcc.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/20eeaa39c336ccac8a054c3bce316768d5ae2cb11a0f0aff57556ca9d4ae7256.jpg",
+	"data_size": "87654520",
+	"description": "このソフトは、2004年に発売されたゲームボーイアドバンス用のボールアドベンチャーゲームです。 ピーチ姫を助けるために、球化マシンでボールに変身したマリオ。ギミックやアイテム満載のステージをボールマリオが駆け抜ける新感覚アドベンチャー! ボタンでボールをポンポンはじくだけのシンプル操作で、誰もがついついハマるおもしろさ!! ※当時のパッケージ裏面に記載された文章をもとにしています。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-09-17",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/f0d5ea4095b82d2f8d348c1b36ff04960f3a9fb75ca3106491ae28d24390f602.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6ef0ba5badbb4974d73d2d24610b9f4210dffff6432429f73bc803c217c50352.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f6c673843783b5546a0bada8c658f00aa091fc01c69989b324a4789a7a56de95.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2dfa315a28bcdbf5c0ca7cbdb31d7123fda85cc412e7a7461ce5585511e56277.jpg",
+			"name": "スーパーマリオボール プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/116e7363d2388806e7eaf74452ed380dcb85a5ac30d6dcce8e848858f5e5b5dd.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/703437f319a4e18ca011cdd2bc50e6dc58fe379b73760ad72114c4269e84d5b9.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				}
+			]
+		}
+	]
+}

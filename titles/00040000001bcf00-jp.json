@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000001BCF00",
+	"eshop_id": "50010000042450",
+	"product_code": "CTR-N-KWVJ",
+	"name": "おそ松さん ニート脱出スパイラル!!",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 442,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0bb00d802d37b7054c6a841668e09c5d1dfdc04ce99e2cfb01d127850d4e665c.jpg",
+	"data_size": "61418340",
+	"description": "松野家の6つ子がやる気を出して、就職活動をすることになったぞ！ しかし、そこにイヤミ・デカパン・チビ太・ハタ坊が邪魔をしにやってきた！ パズルで反撃して、ニートを脱出させよう！ ▼誰でもかんたんひとふでがきパズル！ 同じ色のピースを3つ以上つなげて消そう。 コンボを重ねるとフィーバータイムに突入！ 一気にスコアを稼ごう！ ▼6つ子たちを就職させよう！ 消したピースの数やスコアによって6つ子たちの就職先が変化！ より良い職に就けるようにいろんなピースをたくさん消してみよう。 ▼コレクションがいっぱい！ パズルをたくさん遊ぶと、ご褒美にイラストがゲットできる！ どんどん遊んでコンプリートを目指そう。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-04-12",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/825e339624e9ba02bfd2222d54304860af3071a2fd787b6e08789ef528bc997f.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/68657477d90ae5347d00976948e65527186a55d24db0c0cb174f8f2fcae8cda7.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7ea01ef1ebe84c5cbdae281149fefd39daef5b4048403454826d50d93f5c719b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/44dc3801711d870abe620fbc0198fadd05f66bfa9d7c4a6127e25096c8b6d93b.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0123ab3b1b926aee7d6ffa771c457a29cc2d61b5733d8fb78d5399723c797bec.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e24d6c876c3be1b636fd4804d61b13fc4f2e913d65b3d570798440b77e1e74a7.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fc137a7fdf758b166dfc96ee4b865988238b4589073295b4d2cf0af2368b478a.jpg",
+			"name": "おそ松さん ニート脱出スパイラル!! プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/71ebe3677050d729fc0fa1a71c68eeb264b164f8da5dbf0918d6ffdddb2d6b73.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "86"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/647d7af5912a51372ca7f66c89b7123e9220f126f05560500a5d4c6103df97d2.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "86"
+				}
+			]
+		}
+	]
+}

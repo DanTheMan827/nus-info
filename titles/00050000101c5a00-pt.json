@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101C5A00",
+	"eshop_id": "20010000022627",
+	"product_code": "WUP-P-AMQP",
+	"name": "Mighty No. 9",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 509,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8b978d71f71c9ebc8f8690d5ab42c4ac4ea97505d8e772621c5b2690452bbdd1.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c34da07e389405b14b77720280bec908f32144e16b31747136da6920aff9884f.jpg",
+	"data_size": "3101852008",
+	"description": "Joga como o Beck, o nono de uma linhagem de poderosos robôs, o único imune ao misterioso vírus que tem enlouquecido as criaturas mecânicas por todo o mundo. Corre, salta, explode, e transforma o teu caminho em 12 desafiadores níveis, usa habilidades roubadas aos inimigos para destruíres os teus colegas robôs Mighty Number e confronta o grande mal que ameaça o planeta! Características: Ação 2D clássica Transformada: Luta contra 8 irmãos Mighty e desbloqueia transformações ao derrotá-los e ganha habilidades únicas! Caos Mecânico de 2 jogadores: Faz missões online com um amigo como o Beck e o seu parceiro, Call; Usa os poderes únicos para superares obstáculos em equipa, ou compete numa Corrida Batalha Online! Modos Extra: Modo Boss-rush! Dúzias de mini-missões e desafios! Banda sonora de 8-bit! 2 modos de dificuldade extra desbloqueáveis! Mostra ao mundo o teu poder: Usa as habilidades do Beck para criar combos e conquistar os apetecíveis S-Ranks, pontuações e tabela de rankings!",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2016-06-24",
+			"retail": "2016-06-24"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/bc7f9648ed2cbc5b16321a0686f76ba3367d1731391bbc239778ce94d18118b9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/06594626a752b79337de8ab06e5ce117a77f3bcccddc5bdb52370e52d468d713.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7536a346a2e189eb987f5788218c14b9589f0887a720a30ef53cb9dc31aa36a5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7243c6590fe0cc043f739ce68bb7b288828a1108bd7a10c5cefc1a725cf92a26.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5eaea4273b301f1e0946e5db2eae4083e6b8950acf5afb3fa7d603ffcd01eff2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0adee1ff49207d1d4a471bb040b7b33f021923334e95c5074fb34fc3fd516af7.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8d29323ddd1396c928dd4c3a52782277746529495b8c53dfe598b45487febb61.jpg",
+			"name": "Mighty No. 9: Vídeo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c3b1fd20c1154f9c71c8b97dddc76d6724fabdb19b97fc6bd1ee507f5ef6020b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "79"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/76336b3861a557633bd7e65cdd7a65fe051731d6c53ac71606859a288e50cbba.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "79"
+				}
+			]
+		}
+	]
+}

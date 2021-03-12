@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000128000",
+		"eshop_id": "50010000022478",
+		"product_code": "CTR-N-JF9J",
+		"name": "プチノベル「闘劇の五月」",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 1212,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d2bf9f9d3f44a6f55b2f82133aa1880cfea6a6eb44c160ea2b43e198bdcb0257.jpg",
+		"data_size": "83893092",
+		"description": "『闘劇の五月』は、神の住まう町、多紙町で起きる5月のできごとを描いたビジュアルノベルゲームです。 行方不明になっていた隣町･酒島町の姉神、まよい。 彼女は多紙町の土地神・しろを打ち倒す術を手に入れるため、100年もの間、旅をしていたのだった。 力を身につけて帰ってきた今、\"神 vs. 神\"の戦いがついに始まる……!?",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-05-21",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/261904ac7c44dcb666c6627c95a464dc620724d4fb25b0501639917e476a486e.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c0f55ea807b71f7715fbfde60b412e63b0376be4b9673499d84411f564649eaa.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/21ac2d59bfa1cc7539f4d038b161973cdaab561e0c904d11be3fbfde8f14cf6a.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/3f99c74372bb4c431c9c7c18044405faf11fb3d004028804a07cbc4bdad312ed.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/601bdd9781854d02cd8b30a696c7dab1567514477b007880856db3b07ee61a13.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/610cc43de4030ea665dc8494058a94ad7526da7c47148a72dd4b20b87bed1c0a.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/729156b13231c407388c93298410a2fe8ac3236c1869d87ceaba55d5608d72fe.jpg",
+				"name": "プチノベル「闘劇の五月」 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4f29c2f31153f720faaaa01a6512c5d101131fc4c0d56cc12cd3bf5529d1c867.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6a598b531d5d5835cc8cad282e2adaa03a0379b597a96d99587db3dbe45ee5a8.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					}
+				]
+			}
+		]
+	}
+}

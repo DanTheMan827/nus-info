@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000160E00",
+	"eshop_id": "50010000039716",
+	"product_code": "CTR-N-BWDJ",
+	"name": "ディズニーアートアカデミー",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5640d0550988fc2fbabead0e40762cd6d0f084dc5034a4c24fe7c758de0be099.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e0b19b27988c357f5dc21f58444bdb94073d7cec0978aa30c3651c8076171fb8.jpg",
+	"data_size": "339258260",
+	"description": "『ディズニーアートアカデミー』は、ディズニーキャラクターの描きかたが学べるペイントレッスンのソフトです。3層のレイヤーをカンタンに切り替えられたり、 描き損ねてもボタンひとつですぐに元に戻せたり、キラキラや柄が手軽に描ける「まほうのペン」が用意されていたりなど、デジタルペイントツールならではの使い勝手のよさを活かしたレッスンでは、先生が教えてくれるとおりに画材を選び、線を引いたり、色を塗ったり、影をつけたりしていくだけで、誰でも、上手に、雰囲気のあるディズニーキャラクターのイラストを描き上げることができます。絵を描くことに自信がなくてもだいじょうぶ。下書きの表示を切り替えれば、ぬりえのような感覚で気軽にレッスンを楽しむこともできます。 お手本となるディズニーキャラクターは、おなじみのミッキーマウスとその仲間たちをはじめ、ディズニープリンセスシリーズ、ピクサー作品の「トイ・ストーリー」や「モンスターズ・インク」、「アナと雪の女王」からオラフやエルサなど、80種類以上。きっとあなたのお気に入りのキャラクターが見つかります。 上手に描けたイラストは、インターネットを通じてSNSに投稿したり、SDカードに保存して印刷したり、手軽にシェアして楽しむことができます。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2016-04-07",
+			"retail": "2016-04-07"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0e9e88fa3dd115daab397375e5d133e3d806fd2f5dcbb5e8e3a4ee67e66a7239.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/fea53d438a0acae3ebebedec6c656f2fb1b29d0273ca0066fb34d9f5310a2859.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/40900c9101c9a393a3d52f7546e1cefaabbb236f476e6afc4cb513ef56650f3b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/184b02efd5f29c2ef62e13c2469459e90cea7c32243d1ab5f08309c2fd9565fb.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8a5f5f946178af270ea6e5aae6ccf94a6def206c3bc2f7936e65faa94b755b9b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/01c75152dc65f12078432282abaf6907ac77a14ccc8fc12cc147c2b4924a6b63.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d5e09a16fe83d90a18f0378b3241c7a4ec05b5eb266f9f9d6ff705ad8461b199.jpg",
+			"name": "ディズニーアートアカデミー 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e3882c5ce8e996a2946d8b6e165abb99f7c5d99ca446efc2adf95531ab8384c7.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "329"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d7110b5f2c22cfb80f655dbffe3b6a72751d9e5c3609a03c82f3bb59738eda5c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "329"
+				}
+			]
+		}
+	]
+}

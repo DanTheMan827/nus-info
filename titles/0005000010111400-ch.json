@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010111400",
+	"eshop_id": "20010000000445",
+	"product_code": "WUP-P-ARMP",
+	"name": "Rayman® Legends",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 278,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/09748c25939e8b054cc18f6d01639a072b53bd1c9656866b86d8125d54d50cd7.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b15e3bff25c8800b2df93b372919860ede887b5dc9b5743fdeb0275f547308cf.jpg",
+	"data_size": "7345275560",
+	"description": "Die Lichtung der Träume steckt wieder einmal in Schwierigkeiten! Während eines 100-jährigen Nickerchens haben sich die Albträume vermehrt und ausgebreitet und schrecklichere Monster erschaffen als jemals zuvor! Diese Kreaturen sind der Stoff, aus dem Legenden sind … Als es Murfy gelingt, Rayman und Globox aufzuwecken, muss er ihnen helfen, diese Albträume zu bekämpfen und die Kleinlinge zu retten!",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-08-29",
+			"retail": "2013-08-29"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/7676b0facd41c9588b24040d09a0dc29ccfd6d376511dd1d432d4d2ef77a3dd0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b3eccd49c032b96d5b58a0606507760b7a28cf55d143bcb9792b25e52f4aa21a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/399dda9370969898b52131d84722d720f453e9764aa1870d39b68ba09060f4fe.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/485ebf3c67a3d6203de90c296147ecb61ce8919eedd6a8ddb4400fd375626333.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/afbce954ffc757b69a6646cfada3fd09d6409bb230b8bf862f2743de3908d20e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/aba940b33d04935e55e9af0796d799a246dfdf2d37f4e8623110a386d9b4fa3d.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c6d708cd5d2689902be7e543366be3eb3845820025f0560c3de39d57fd77dda8.jpg",
+			"name": "Rayman® Legends Mario&Luigi Skins Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2bc5d381583e3a0298216d8d266f408146ec582572c068cc1d401067ebbdfa67.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "92"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e64d70df344d0540cbdca963ca726130f41898bcba8b6abf57295f7313f784d3.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "92"
+				}
+			]
+		}
+	]
+}

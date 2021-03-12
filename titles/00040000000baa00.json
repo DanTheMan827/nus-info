@@ -1,0 +1,78 @@
+{
+	"JP": {
+		"title_id": "00040000000BAA00",
+		"eshop_id": "50010000014893",
+		"product_code": "CTR-N-AGKJ",
+		"name": "逆転裁判5",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 39,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8fdbf8939e20bc737d998e36517413f5a74eb7a456f7e63562a78add56dd4ec9.jpg",
+		"data_size": "581651300",
+		"description": "『逆転裁判5』は、無実の依頼人を助ける弁護士として、法廷バトルを繰り広げる推理アドベンチャーです。 証人の発言に潜む「ムジュン」を探し、証拠品をつきつけてウソやヒミツを暴きましょう。尋問を重ねるうち、次第に余裕を失い、ボロを出していく真犯人。証拠と推理で敵を追い詰める、スリリングな逆転劇が待っています。",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2013-07-25",
+				"retail": "2013-07-25"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b583875c70e593182b5a16d7aa09c084fafebe88dac551278e63a82a19e70beb.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1dca3598597beae8ae6252275e5471f58e51c5e38bfe40e9a12c7d5c6bf9fcb3.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/87b882625f2cb1fe840de8f7d40d8c0a50b2c786a9fb56d0749acb1cdb4f68c5.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2ef84e2b0b87a1aa3972ebb36e25dfe3405142f7946c8e5d1b52339b43ee3154.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f3b431734d349c991dcc1ac47882216f7d8965e2cf5a8077cfa837730e86dd77.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/39d3f1d6a5c76c8c45b820f6832809caf5e7f744e6545427ae35593e4c05599b.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4a79198a9e2eca8a31f0048bfc531b492a8d630d6a7b4a1756fa2c4c03d3e1f4.jpg",
+				"name": "逆転裁判5 紹介映像2",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bccd7fdc6277b2fcf024b4754f06c3d8723283d5b1b29eeb0a6af2bda0129c4a.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "219"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d8ee30e840dfdc386594700c2346fc355c0910e911c5f2fcb5cefc6f7b4aad4e.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "219"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/31e733012525cf958597549c81630150fdcc7a3ca66b0460848e29f76f245134.jpg",
+				"name": "逆転裁判5 追加シナリオ紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1da68019f1f7f00572fb00e8f480d47a12731a9cb20f9902fbdfb6dd74baafd7.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "183"
+					}
+				]
+			}
+		]
+	}
+}

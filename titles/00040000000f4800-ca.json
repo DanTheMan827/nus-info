@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000F4800",
+	"eshop_id": "50010000022175",
+	"product_code": "CTR-N-AXYE",
+	"name": "The Amazing Spider-Man 2™ ",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 7,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6ee821d06e03936e27dda2f7730d90f6112f46577bafae9f9661367946dccdb1.jpg",
+	"data_size": "877804388",
+	"description": "The Amazing Spider-Man 2 takes place outside the events of the second film in a unique story where Spider-Man discovers a larger threat to NYC that has turned the underworld upside down. Villains from the film as well as fan-favorite, classic Marvel characters are woven together in a twisted web of adrenaline-fueled, free-roaming, web-slinging action that puts players on a collision course with an evil far beyond Spider-Man’s reckoning.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2014-11-25",
+			"retail": "2014-04-29"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/53f7e22e1e3f27a6dabedb4a4a5ba7a83633e5eec15f156af4af27c5eaef3292.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a69d456425de138a3a7fb17e8fcdaf6ab41d1748abffa74d2cf8a2d08cc1d571.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/02e1afefae6d16b589c3f2531ea1dcf58b5c1b78778649d063483cf32fab570b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/76eb0088053bf7c96ed55ebf04190dcf4a5ca34147453682ec27a860f4c49a27.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f7d14a6e3e262b41f3209ae7e908d20c477236ec51a40314c894dd81633a38a2.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d231b6845dfe3f374b886f7f9332ec75162090fbccad99866d5dadcde8d9526a.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0371bfa5f828a2668bf979c305f8c4ef73d568756b8d62c2a88637d4c3ae643e.jpg",
+			"name": "The Amazing Spider-Man 2™ Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6f0987390d6e9316e40192ade1c223bb2ddc365ee9b3a5d64fdc7f66989f218a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "82"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8759f0de28102aa14e63f5f30279edbb8878e034f3acf22c2b2faa097bdcba83.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "82"
+				}
+			]
+		}
+	]
+}

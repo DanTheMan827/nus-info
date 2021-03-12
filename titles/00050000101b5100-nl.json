@@ -1,0 +1,79 @@
+{
+	"title_id": "00050000101B5100",
+	"eshop_id": "20010000013388",
+	"product_code": "WUP-P-AXYP",
+	"name": "Kirby™ and the Rainbow Paintbrush",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/eb0ef0daecbef2db01793deb4f36516c39dc2b119ab8af5616cd092b2e57f230.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/946124b32e944d58be9e80a1bf7ecdf1db55e273c26d0c8f7f5a1340d70b1a4c.jpg",
+	"data_size": "3068428648",
+	"description": "In Kirby and the Rainbow Paintbrush voor de Wii U zijn alle kleuren uit Dromenland weggeroofd! Ontdek een wonderlijke kleiwereld in dit kleurrijke platformavontuur. Gebruik het touchscreen van de Wii U GamePad om regenboogtouwen te tekenen waarlangs Kirby kan rollen, of om obstakels en vijanden te ontwijken. Gebruik alle beschikbare vaardigheden om tal van voorwerpen te vinden en help Kirby om alle kleur weer terug te brengen in zijn land! Kijk op amiibo.nintendo.eu voor compatibele amiibo™ en de meest recente informatie.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2015-05-08",
+			"retail": "2015-05-08"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/37ca35d7ebb718c5393b3d76dd30c98d37c0e82f90b77a35a5a840a3eff9b628.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/84670b783db1a14a0357cb154a2678e598a826152763977054afbff6f7165666.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/eeeef632931be36d53dd1cbd30b28edff869b8b7298d76ea62050bfb328c99db.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6f1d58914a9ee3216bbe558668202f64255910e86e9470587cd9cf2b486d4eb0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4e73dea5612cb2c74c271bdea4ca472e2d6d31e0947373f4c6b85367e9362cd6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5dbfda68bb2375dedcf9d2b8278136a0e56e14e77456a6375bf15091503f1fe4.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f72157464cea4330f9982e1d3883123aabc785c20e3069fe476e6e8c9eb4ede7.jpg",
+			"name": "Kirby and the Rainbow Paintbrush: Introductietrailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/800443beb866ae9ea3999b05568fa1cb6e7969bf4d41ec434a3037ee585399fd.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "175"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3e0cb1426f20bfa0f36d36d778718df811f81eb5d3548b931352314ef29b9e1e.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "175"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f72157464cea4330f9982e1d3883123aabc785c20e3069fe476e6e8c9eb4ede7.jpg",
+			"name": "Kirby and the Rainbow Paintbrush: Trailer (18-03-2015)",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7646be228be9d3b01f4ee156bb5c5aca18447664f7b9892c9735371500e5a717.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "74"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/00f383a3fefafa8be4e142b068f43627c54b0afbbc8c3d79e3bcadab81655bbc.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "74"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010141E00",
+	"eshop_id": "20010000003527",
+	"product_code": "WUP-N-JBVP",
+	"name": "Brawl Brothers",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 1800,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9fcb789a1283325c47632ee988473c5d83e07639ae0272c318a00e8d9b5c1a57.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/be80defbd72cb8d4b321931d6d5c7deb2e28d7d397031b93cc68b46bee6ca1d4.jpg",
+	"data_size": "41320588",
+	"description": "Hack y Slash son los Brawl Brothers, dos expertos en artes marciales que se toman la justicia por su mano cuando sus amigos son secuestrados por un enemigo decidido a crear un ejército de clones. Este clásico beat ‘em up se distingue por su acción en desplazamiento lateral para uno o dos jugadores, que podrán meterse en la piel de Hack, Slash o (una vez desbloqueados) sus amigos Lord J., Kazan y Wendy. Usa todos los movimientos de los que dispongas para abrirte camino hasta la fortaleza secreta del enemigo. ¿Te están dando una buena tunda? ¡No te preocupes! ¡Activa el modo furia para ser invencible durante unos momentos!t Si posees este título en tu Wii™, puedes realizar una transferencia de datos de Wii a Wii U™ y obtener una actualización a un precio especial. Esta es la versión estadounidense del juego.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-11-21",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/8105048b2a61a35e4ee735c43ac1ecc030d29e16fd062c7f1e36c0e4d74cd47f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7cb3c13085663e87de926510a93c99122ad8a30851f3b45ea3b7da701bc03ea7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/270bbf127f97a043eee7af42539ff9842a6a47d5f82f5c6b09e69c9ae1aa4d96.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/34974c4b41a83bdfbd38f303893ce3a31e100ed46f24927b9c34c274ef6aec2d.jpg",
+			"name": "Brawl Brothers: Vídeo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f23ccab021cbb84b13122874e3bed7a6411c0138670c7d46f605c27684459a04.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "62"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8550311c5ae6d15d4cdf1b29fdb76aab7bc17da8d3c999cbdb037f08e08efc33.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "62"
+				}
+			]
+		}
+	]
+}

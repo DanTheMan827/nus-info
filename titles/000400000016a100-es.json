@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000016A100",
+	"eshop_id": "50010000037117",
+	"product_code": "CTR-P-ECDP",
+	"name": "Nintendo presenta: New Style Boutique™ 2",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/54cb4727fc93b2990a2709b01162aeacaadaf8a8f2bbaa55ae52d4657133e79b.jpg",
+	"data_size": "893815652",
+	"description": "En este juego para Nintendo 3DS, los jugadores pueden adoptar cinco papeles diferentes para convertirse en la nueva estrella del mundo de la moda. Encárgate de tu nueva tienda de moda y escoge los conjuntos perfectos para tus clientes, o encárgate del estilismo en cuanto a maquillaje y peluquería. También podrás diseñar tu propia ropa y lucirla en el papel de modelo. Este juego puede contener publicidad indirecta y anuncios de productos. Visita amiibo.nintendo.eu para consultar la lista de amiibo™ compatibles y la información más reciente. Para poder usar amiibo en las consolas Nintendo 3DS, Nintendo 3DS XL y Nintendo 2DS, es necesario disponer de un lector/grabador de NFC para Nintendo 3DS.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2015-11-20",
+			"retail": "2015-11-20"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/4f807840635226869411df8cecc5debbf261fb0b092ac53db635c63a89c01aa0.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a8b48261bfe7c48572ea490b06649cef86e93c2b2481928560269d1c6636a6ac.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/98cbe22544e94efb3647be16096804440276de7a233c474bcd190c44690b8d2c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/616221a07d4ac10834b94d638e2f9b8ba14da0a85cc947fce6c8f340edb89217.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a6d6cbc5868e52a994818c975371260eea85a3bca7435822236f0733d6ad910c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/26909015a74a6b34be81412eb987f2af09fd630293a7fbfb79cb7ea20b1c0a84.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9da015111f9895eba7ec76e8f0f28eb21d4085fd66af29799118cc83b572107c.jpg",
+			"name": "New Style Boutique 2: Tráiler de lanzamiento",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ca7d607f471e3ab22f2feb862cdcd04ae18fb8697d09586217f33bb245058dcc.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "188"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/067b848c822bc8cf01fee093ebcaa9b99e66b1832f77c9e4b9989b4f87f65d42.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "188"
+				}
+			]
+		}
+	]
+}

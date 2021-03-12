@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001015CD00",
+		"eshop_id": "20010000011508",
+		"product_code": "WUP-N-PN2J",
+		"name": "モトローダー ",
+		"platform": 166,
+		"platform_device": "WUP",
+		"publisher": 149,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c0aa9f51977f425e82eb23687c118b5e864e4b6eff5a73a37ba71867efe39f40.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/10c44ae967780085d21f8d09299fb0d21bffda916b522a3518ed0426debc1341.jpg",
+		"data_size": "83755148",
+		"description": "未来を舞台に繰り広げられる、5人同時プレイが可能なレースゲームです。レースに勝って賞金を稼ぎ、パワーアップしながらレースに挑みます。 マシンには「タイヤ」や「ボディ」などの通常パーツのほかに、「スペシャルパーツ」と呼ばれる特殊な装備を搭載することが可能です。高い障害物をジャンプできる「ホッパー」や驚異的な加速の「ニトロブースト」をうまく使えば、ライバルたちに一気に差をつけることができます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-12-17",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/62aaeb5b0f45ed1f3b5269a84ecc0f276a4427b0be706a9968aaf4596245977c.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/eae4cb01001ea6101b373e7e11e7ee4980718059b5bec33900fd8044956e4ce1.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/2b15c6a873966bac5d7f9ed758ae57299d456bcb3b1749dac7a148a89af4aadb.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7c7231dc685749be5199452824b4f7708bf918a9d7ddb545b31c400093a2b64e.jpg",
+				"name": "モトローダー プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b10e5475d33d08b372eb75732c884bfaf4aa16b7bc2246196953040f28e53af3.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "51"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/76a3513acda8367c6c678c5ac53cf5fffdcdac280efd354da05fac96d18ec4c6.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "51"
+					}
+				]
+			}
+		]
+	}
+}

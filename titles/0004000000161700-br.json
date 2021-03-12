@@ -1,0 +1,85 @@
+{
+	"title_id": "0004000000161700",
+	"eshop_id": "50010000040275",
+	"product_code": "CTR-N-BWDE",
+	"name": "Disney Art Academy™",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5ddac4518d66eaacde159dab6f11302c95179278f695007c75b9d9393b80f11c.jpg",
+	"data_size": "340376468",
+	"description": "Com Disney Art Academy, descubra o artista em você com imagens de mais de 80 personagens da Disney e Pixar. Com lições inspiradas na arte da Disney e animações da Pixar, aprenda a usar ferramentas para criar personagens da Disney como Elsa e Olaf de Frozen, personagens de Inside Out, Mickey Mouse e mais! Compartilhe suas criações com seus amigos! Aprenda a desenhar! Comece como um artista novato e aperfeiçoe-se com lições avançadas para aprender a desenhar os adorados personagens da Disney e da Pixar. Com pincéis, canetinhas, pastéis e outros, aspirantes a artistas aprendem desde o básico, como colorir e combinar formas simples, a técnicas avançadas como sombreamento e expressões faciais. Use também a pintura livre nas suas criações empregando todas as ferramentas disponíveis. Com o novo Magic Brush enriqueça a sua arte com estrelas, glitter, nuvens e mais. Compartilhe suas criações artísticas da Disney com amigos através do Miiverse, mídias sociais, comunicação local sem fio e mais!",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2016-05-13",
+			"retail": "2016-05-13"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/4e6482fe2d686df08d89b054c612a5f4a1b799f555729963567e85237f0ec90d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/060c56e538110b0762e6b50ed5433a806c37fa8ced4c04bba01d72654edf4084.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/eecefe0c2ff1c0b26533ff6210753231bf8807d9f2c87996cf836c27401f4461.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/146d531853a4a520bfd58c2f33fb5b42e5786a6d802c60cb574948ddaa843823.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5d2c97009dde186410ffd231d970f0966e4bd9a24345fc4a8b0266726ff9003e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6ce8d543bfc8ca2bb407172b5656a95037198b33df79c00762a3a290e5de88c8.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/585495210e4c81df50f416649d7432160d48bf9228f751846d0cf4612549ba18.jpg",
+			"name": "Disney Art Academy - Overview Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/22133386c5a0c76beb4907721d476d3ed853e3c667129a99c50fbbaf463bb39c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "326"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/38f4c906ff936e4b0288c05e5d271260eacbf93468c1fb3565a7a43a2c2b23b4.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "326"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/89f1a540fa082ccd780bcb4ea6fd74801fa3651b8ec99fd6a3001bb1a80da9ec.jpg",
+			"name": "Guess that Character Challenge- Nintendo Minute",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8e503140bbff34807451dc261323a8bbb374c1d3dcd6ba02097dd2fa6dee0917.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "678"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/768318007c1f30052a3adb08cb4e217a7ed7a9f7322fab55ec239c92f170494c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "678"
+				}
+			]
+		}
+	]
+}

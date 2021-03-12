@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "000400000016B400",
+		"eshop_id": "50010000038817",
+		"product_code": "CTR-N-KDZJ",
+		"name": "ドロップゾーン アンダーファイヤ",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 882,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f7203156a8808952821570ac3910b3c558b3b65c40c57899792d405deab32bc6.jpg",
+		"data_size": "126045028",
+		"description": "『ドロップゾーン アンダーファイヤ』は空から降下するキャラクターを操作して敵を破壊しながらチェックポイントを通過して、指定された着地点を目指す3Dアクションシューティングゲームです。 キャラクターは装備した銃で飛行する敵マシンやフォースフィールドを発生するマシンを破壊します。ビルの上に着地し、歩行して上や下を飛行する敵マシンやビルの間を歩行する敵を倒すことも可能です。 空中にはポイントが点在します。敵を破壊しながらポイントを集めてトータルスコアを伸ばしましょう。 90以上のステージにランダムに出現する敵を倒して高得点を目指すボーナスステージそして、達成を目指す16のチャレンジが収録されています。また、クリアしたステージを何度でもプレイすることができる「フリーモード」を搭載しています。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-12-22",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a9375e40cf078085f45b4321e32442953b82773047abb885f18d5aa546abf5b0.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/598d3bc23e7916b93b94ad4121792959a33b26dc221196c66baeb3b68b24bbed.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/61647d48f58b3a32c10d9f6579bf9af1a3a9266ab8a3214cc858a24bcbb5488b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9c9b47cdca9f2c7b6e26e1a0cf797294838db69137f8f344d083696e9b43a302.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/872ec0c469f66f0bad99b8cfd7c93008942a5a38c9420902101a0124cf97b480.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/79d82c80b0903e6f18e0ab34a66b6661e22cdf31131be8148d9ed5983ad8c2cd.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/71d41881587feb8bbddc3d8b92132b849bdd6e4f6b38aae8f22dbdad217a2485.jpg",
+				"name": "ドロップゾーン アンダーファイヤ 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d0c5868ade225fd84e62acc4c80acadfc1640a354644a75dfaab8e63e8449329.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "62"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2f4fd11d0175d8d468412c5c23d3bf6d0bc2c3b497908e6e6046d5abcc2b4d08.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "62"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010191000",
+	"eshop_id": "20010000010708",
+	"product_code": "WUP-N-JC9J",
+	"name": "魔神転生",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 25,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4ca353003e13aaaba765bac9f4afcbdff5cb1d054c72202c2dea9a4a9be7597c.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ccd641fd61b5900b19521dbf97f99086d4d2c06d77d90bd919978a264c7d455b.jpg",
+	"data_size": "43778208",
+	"description": "このソフトは、1994年に発売されたスーパーファミコン用のシミュレーションRPGです。 1990年代前半から世界各国で沸き起こった民族紛争は、悲劇的な結果を迎えた末にようやく停戦状態となった。 それから数十年後。爆撃の傷跡が残る「NIEDER TOKYO」に住む主人公の少年は、群発地震の被害状況や悪魔目撃の噂の真実を確かめるため、パソコン通信で情報を集めていた。いつものように「DDS-NET」にアクセスすると、奇妙なメッセージとプログラムが送られてくる。 その名も「悪魔召喚プログラム」……。 オルトロスやピクシーといった「仲魔」(悪魔の仲間)を使役し、敵を倒していきます。仲魔は会話で説得して増やします。仲魔にした悪魔を2体合体させると新たな仲魔を作ることができ、組み合わせによっては強力な仲魔が作り出されることもあります。特徴の異なる仲魔を増やすことで、さまざまなマップや敵に対応していきましょう。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-07-15",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/b90a8d4a632bf9ddbc4ab626635524e116b4b0357351e0a0353da1e26cb46c94.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/20c499b8d8665c62650637b15980e788e5c24e0a2490fa84b378a45b5f869b9d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/36f1b8a8e02c759b49d687ad1b065c9d5845e34937e83c289d4dbfda06917f25.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7524a9f7668505cdf56e0d70f18540ac4881050c975f950cfee895457d8b76f5.jpg",
+			"name": "魔神転生 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/007443818fcc7c5de3d1f46b96beb2ac5e3be6e63a856e5e051351171efdc4ba.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "80"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/82380809af22927a943927cd7d9843fddf4473eb434a62a46a208b150ae15fbb.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "80"
+				}
+			]
+		}
+	]
+}

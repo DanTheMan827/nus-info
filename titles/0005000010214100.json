@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010214100",
+		"eshop_id": "20010000026827",
+		"product_code": "WUP-N-BRJJ",
+		"name": "少女とロボット",
+		"platform": 124,
+		"platform_device": "WUP",
+		"publisher": 1517,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4f87a788e59d0659a9ac680778c409fbc7755d27d411a05cfa34f5851c44fb3a.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/bac2c0528f673ed2d684de554a78fc3784a5be1ded836438493bc6300513da76.jpg",
+		"data_size": "1956610348",
+		"description": "『少女とロボット』はおとぎ話の世界に入り込んだような、どこか懐かしさを感じさせる舞台を、プレイヤーが少女とロボットの2人のキャラクターを使い分けながら進んで行くアクション・アドベンチャーゲームです。 少女が悪の女王が治める城から脱出方法を探す中、冒険をともにするロボットと出会い、物語は始まります。 プレイヤーは、操作キャラクターの少女とロボットをいつでも切り替えることが可能です。 温かみのある手描き風のデザインが特徴の、豊富なステージがプレイヤーを待っています。 時にはパズルを解いたり、少女とロボットをうまく協力させて、物語の続きを楽しみましょう！",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2017-09-13",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/d83c20a2ed12d83f63535b6340beaaf3786f2cc203125fec98aee5253c48a22b.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/c7fc830cb3b2fe72e6276d1ce24eedff8c02a90b5ad7aee5097a7f4334968e55.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/64af378b199792fc263e17536bbfaf2ce0a19d789f71dcd0d504360b1b7da58f.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b5fc8e431a07dc4fc74204f6544ab165adebe3338c0dedde1b9a475c5a21ab86.jpg",
+				"name": "少女とロボット 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/934bbf2c096e558d03dcc9389f2664ec5e5e32dbb0be352456649760831c4960.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "106"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/de4bf56c9a4f019fb2c3017db865b720e51df1f777cb8265fa6ead6f184bfc70.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "106"
+					}
+				]
+			}
+		]
+	}
+}

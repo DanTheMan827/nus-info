@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010107900",
+	"eshop_id": "20010000001084",
+	"product_code": "WUP-N-FADP",
+	"name": "Kirby's Adventure™",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/dc36898adfe446c0bc0e51a79583444aaf6c5e09459558224e82beacf8dea059.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/1acaff03b24f5f4e2728624a255364deef58b99c4b4743208be56debc60c8ea1.jpg",
+	"data_size": "37027980",
+	"description": "Kirby’s Adventure, el único de la serie de Kirby para NES™, es un innovador juego de plataformas conocido por introducir la habilidad de Kirby de copiar los poderes de los enemigos. Al aspirar enemigos, Kirby podrá disparar láseres, prenderse fuego, utilizar un mazo gigante… ¡O combinar poderes con resultados increíbles! Con un montón de minijuegos y secretos por descubrir, Kirby’s Adventure (como el propio Kirby) ¡está lleno de sorpresas! Si posees este título en tu Wii™, puedes realizar una transferencia de datos de Wii a Wii U™ y obtener una actualización a un precio especial. Esta es la versión europea del juego, optimizada en su momento por el desarrollador para lograr que la música y el juego funcionasen a una velocidad similar a la de la versión estadounidense. Es probable que las demos y animaciones del juego se reproduzcan a velocidad de PAL. El ratio de pantalla se ha corregido para este lanzamiento.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-04-18",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/16263b81075f9aaabcae66691fa2bac4b6dd4a3eeb691795179b50b6d67aa040.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b6e3e61867ac2c2db799138c4ebe790c421f9f4173c0656432d175f3c770dc11.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7b90f04ccd3990c2adafa33027f3442f13f94cd6deb5df5125a39aac5a83abb1.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ef9ecada51c99c22f3edd91807aad30343dedb06871e1507fcd9d7657a737083.jpg",
+			"name": "Kirby's Adventure™: Vídeo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ba04d4fa21bfe975f65a7aba2ad7984b47f0acd3eabb072df397ef2b71113cc3.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "41"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4a6ab2d67a58fd8bd658812cf1ba9d391b9bad791961d3a0987cca5861122914.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "41"
+				}
+			]
+		}
+	]
+}

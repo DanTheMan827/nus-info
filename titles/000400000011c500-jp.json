@@ -1,0 +1,85 @@
+{
+	"title_id": "000400000011C500",
+	"eshop_id": "50010000024798",
+	"product_code": "CTR-N-ECLA",
+	"name": "ポケットモンスター アルファサファイア",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 210,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a1718b6a5172f4608a301c2c6785aa1819bd8349a3f07a25edb7c2d4a8e78182.jpg",
+	"data_size": "1898675044",
+	"description": "『ポケットモンスター』シリーズは、プレイヤーが主人公となり、ポケモンという不思議な生き物たちとともに冒険を進める、RPGです。『ポケットモンスター オメガルビー･アルファサファイア』では、「メガシンカ」の謎に迫るストーリーが展開されるほか、「ゲンシカイキ」などの新要素も満載です。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2014-11-21",
+			"retail": "2014-11-21"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/74f1b5246f852718f2b98623887b32c2b3b0838517bc0a6400516d098c685ae0.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/fd7fe5666cf8c5ee2dd1660a9dc11450fd50832d9e4928c896d79bab58aff479.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/964e9e922f01928fde73d62cd7999ad0cd3030e2e1ec69b5e00110408f827f64.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/cf8ec52d43b7f3b2cc101109038197ba7c1ad9baf2fd99543da9b29b3e1cb1f4.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e50d82647dd7c0a3bcded0c849f282d827c58d17df580423271d4fa3015d1847.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0ee56a9e20013ac1419ae154ede974ebfaea4e7f72f9ec3737342fb961fc5cc1.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/874df6b600eac42cc7257fe9e0d93107828d023c601e8fca66569729d2fc79d5.jpg",
+			"name": "ポケットモンスター オメガルビー･ アルファサファイア 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/28f7be2c93b5521d8d3393c9b616118c835483a6c6bd57da95d6b1a665590f5f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "236"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c25ec25d1edafd6407ede9c0d7ead621c2c7cfcc08ea3bf205a53f2819c3f147.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "236"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/72b44c4df9aa51de4ca3ac59f105d37a4aba6f9f9b3d604d228a1b5baef4cb70.jpg",
+			"name": "ポケモン オメガルビー･アルファ サファイア メガスペシャルアニメ",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ac3b859f92894b1c6e0f78000affc996ad19bc902a7d493dc0f90c7ee22d3fd6.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "235"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/173a3daeddffc6ee015334da2ffcac3d4b5d22fa049b1d2bc924dde804b0b0d7.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "235"
+				}
+			]
+		}
+	]
+}

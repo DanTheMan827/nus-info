@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000095000",
+		"eshop_id": "50010000012470",
+		"product_code": "CTR-N-APDJ",
+		"name": "ポケモン不思議のダンジョン ～マグナゲートと∞迷宮～",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 210,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d4bcd493ac7c60701e3c9102a3128e96f85ae504d8debcbca4884992aceba660.jpg",
+		"data_size": "853158756",
+		"description": "主人公がポケモンになって冒険をする『ポケモン不思議のダンジョン ～マグナゲートと∞迷宮(むげんだいめいきゅう)～』。 ポケモンとなって、ポケモンの世界に起こるいろいろな事件を解決しながら、自分がポケモンになった本当の理由を知ることになります。",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2012-11-23",
+				"retail": "2012-11-23"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1f58e3ec903b147bc067de7b64ed18d82a4daa346e4c49d5c0cf17ead8042d28.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d45c6796b6a7e2176fef6c150d9e6f5a07359c4bcac1c88db6a598fce63ce244.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e9f3d6ee46072b76d7fd6aa18f1da8a06d8f35be750eb4cfdb51730215f3eaee.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/774bbe368f7b8dee21dbd57bfdd56e339b1ea36acb0994348a74496286c82d3e.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/305287522d5e5ed8ec0e6698106f56a5bea0c93f8bfb1ccce48a50fd7eba01eb.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/056ba3b3799103145e31232198d80a4b8d4c35077024a11af45d01964a537ffe.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c4f5ed65716926133b8318e50e5e3db37afaef95dedfeb045455d3b8bdb66611.jpg",
+				"name": "ポケモン不思議のダンジョン ～マグナゲートと∞迷宮～ 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8ea46d7f8f21dae11f9487afbfa2d3781a0ba2a5a34c7e4db770e1d770a8e6c8.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "204"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b01333c63fe1ae8f88c020d52ce7b55558f225589cd9f30dec72c23bca35d564.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "204"
+					}
+				]
+			}
+		]
+	}
+}

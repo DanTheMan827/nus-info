@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000012B800",
+	"eshop_id": "50010000021856",
+	"product_code": "CTR-N-JA8J",
+	"name": "スター★シリーズ:マジックバブル",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 1307,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f6215011e68b068b5a5c86074c3afe69c6bdce3e3243240d9de89b63814d7632.jpg",
+	"data_size": "22432612",
+	"description": "男の子や女の子を、手軽に作成できるのが特徴のゲームです。 着せ替えは「肌の色/目の形と色/髪型と色/シャツ/ズボン･スカート/靴/アクセサリ」といった豊富なアイテムの中から選ぶことができます。 衣装を変更しても、ゲームには一切影響しないので、プレイヤーの好みだけで衣装を自由に変更する事が可能です。 ゲームは、上昇してくる泡を同じに色に並べるだけの、シンプルなゲーム性ですので子供でも手軽に楽しむことができます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-04-30",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/741c7612c2acb1c68c57e752b0b3fecff952e4f7eb693cf6d46e96689e921b09.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5d00248a9e17736b2b01e91f5af2e8a244e1551c58ac4be58ef346b1e898f18e.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/12307159f0bb500f8704dcc197877733eb06b1cd0020cecbca06fc03547d7e0d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1894854daddb5b5f83b25bcc6515811bfea5db3cdc33703837ebc5497a7b6ddc.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/792632433d7e8819048befac31f734f3d4c45d579f79706db94147f151df0fa3.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6d7120efa679b1e48cf5ae88f22f968bc4877d60bcc5d097b639bd66f22b7639.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7e4cb28d66eaf59a5b3ef7a73cafd030ee276f7a0b699bf489602b0233e3d046.jpg",
+			"name": "スター★シリーズ:マジックバブル プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/be15fbc802a34b6128ce2aa8650b37508e95738542163f926a58edab2f6742ef.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/66bbb7815434c6ca890dc370855890159683f5186e5eaa81508782176064ca37.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				}
+			]
+		}
+	]
+}

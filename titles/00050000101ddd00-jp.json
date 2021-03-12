@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101DDD00",
+	"eshop_id": "20010000020347",
+	"product_code": "WUP-N-BS2J",
+	"name": "Swords & Soldiers II ソード アンド ソルジャーズ II",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/87f12edcefaae805f6de3c90b8e7efced7c430c85537443087a3d6e4b9ab4b47.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/fadeb5e0fc701b6262aed2e210474d5381978dddcd5db6c6c30ebfd245dcd882.jpg",
+	"data_size": "547651744",
+	"description": "特長の異なる兵士たちを、その時、その瞬間の判断で雇用しながら編成して、相手の陣地に進撃するリアルタイムストラテジーの第2弾。 新たな種族やパワーアップしたグラフィックで、ストーリーモードや対戦プレイを楽しめます。 Wii U GamePadとテレビ画面に分かれ、各々別の画面を見ながら戦う対戦モードは、相手との作戦の読み合いが重要なポイントとなります。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-12-09",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/3bfdd79eff0613eb720a6f48def9acf2cadf7b18a21a7217a206c7f61729c8d9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4f04645b737268945c3e8772fb72f369c49c17ffa340e734b00334d303dece5d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/439ae665ea19ebf10d344e1f2d4cdb772727731a87a7da72a3d9918b4ad0d615.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f2df53747aba166fb11f35092039d1860c31462f06d7556e9a1411e247a6b1d6.jpg",
+			"name": "Swords & Soldiers / Swords & Soldiers Ⅱ 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/dab9fbc0b03c230970aa0e5164b3b1305abc2cdef039076d71eb3966964d6b80.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "133"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/54f08c911f3dbc8ac24c08ce414872fe1e5ff3c86eaabb3502e1a6f91099e16e.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "133"
+				}
+			]
+		}
+	]
+}

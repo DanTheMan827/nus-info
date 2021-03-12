@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010160700",
+		"eshop_id": "20010000005426",
+		"product_code": "WUP-N-FCQJ",
+		"name": "マッハライダー",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ae6357125364913f4167e077f35350c482ed5986c98e4083312df362c41ac46f.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c19c88347ac890d04644ce28e5a853b3867febadb60f3855c896a384fe62ec51.jpg",
+		"data_size": "36536460",
+		"description": "このソフトは、1985年に発売されたファミリーコンピュータ用のレースゲームです。 荒れ果てた近未来に一人生き残った「マッハライダー」。マシンガンを装備した愛車に乗り、新天地を目指します。行く手を阻む敵は、マシンガンで撃つ以外にも、弾き飛ばして障害物にぶつけることで倒すことができます。遊べるモードは4種類。全20コースをクリアしていくモードや自由にコースをデザインできるモードなどがあります。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-10-01",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/4279de1cc9d8ed154d54e6dfd4bacd5a5cfaaca9b4a2ce53a9dac7e4cfd03fd8.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/5a882dad7f5765d2aaf09d91c3e977ea0474b8ddd30bdaed3d023d9e7319e5a1.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/446996ca2666b5c6d163f4d15dd6f15ecf69dc58888442848b22d4bdbfc62870.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/824a44838bbd258829f01779ae06a6299ae51513c9a630e05e8553f62cee95e6.jpg",
+				"name": "マッハライダー プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d07cd3f05c96c4d5dc2529aab3d705815596e8fc5d17a9c4274527dcbd8964d9.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "46"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3f0517d777152fda41c0431e5d3873bcfa2fef3bc22f5021f274cdac68d20f9a.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "46"
+					}
+				]
+			}
+		]
+	}
+}

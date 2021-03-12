@@ -1,0 +1,85 @@
+{
+	"title_id": "00040000001AE300",
+	"eshop_id": "50010000042226",
+	"product_code": "CTR-N-BDUJ",
+	"name": "ドラえもん のび太の南極カチコチ大冒険",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 442,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/82fd27cf7db3a2ed2849a58c529cf9f164ec104b11d00e31ba5b14975eae01ef.jpg",
+	"data_size": "95996772",
+	"description": "――巨大な氷山で見つけたリングが 冒険の始まりだった―― リングの落とし主を探して10万年前の南極へ向かったのび太たちの南極カチコチアドベンチャー。 ストーリーを進めながら、氷や遺跡のダンジョンを冒険しよう！ スモールライトやタイムふろしきなどの「ひみつ道具」を使うと、探索できる場所が増えることも。 冒険のほかにも、映画のシーンを再現した さまざまなミニゲームや、全100種類ある「ひみつ道具」で遊べるスライドパズル、象に似た生き物・パオパオのお世話をしたり、楽しい遊びが盛りだくさん！ ――さぁ、ドラえもんの映画の世界で地球を凍結の危機から救おう!!",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2017-03-02",
+			"retail": "2017-03-02"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/4527e2268e5eafc0d641ab9979b295360e74a5afaf962bf3177417bce8951133.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/413d0cd900b885dd2d30398ba489a620a07c4fdf4d3d6e9f2b9dde76f7c859e1.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/100cbc3a9ab24a098b01cd01c26237d2330d447e4fd24a3f014e2e02be54c21a.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6792d9fe4636da5396e7c59688012554c56ddf7a5b3779b5bfb89d57f084f304.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/23bcd0a28d1411662f4bfff25fd2d91fec38a51b6b0a33e86a8e506c87b6a0a3.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/fcc108eb5ee07de7bfc6a3c0dc8a222a2f09ab5e195471b411cdda3644646838.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/333dd53c955665080683b9354a8161afc9fdc20a975488024395384389ef92cc.jpg",
+			"name": "ドラえもん のび太の 南極カチコチ大冒険 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/95510323476fa060652f81c9ffbea1259e3827b226ff680e24928e107c4f1e46.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "107"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/de90a53d1fbf7a6c9190c3ad9a9931a885c568d175fdbbb0cde5c68d48932fc7.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "107"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b7e2278bb754e1fe16cc4d24283f7d6ecb3f3e9b5dde335fb9fbb0d4e73444eb.jpg",
+			"name": "ドラえもん のび太の 南極カチコチ大冒険 TVCM",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/55e3b3c73fb91e6861d96c356e620e1806326591e75d96869ec1097118438f54.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4c1675ede7daef04dafb6e6e2a50187d8a13adb0f6439fe8bf69c18da4138f3c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				}
+			]
+		}
+	]
+}

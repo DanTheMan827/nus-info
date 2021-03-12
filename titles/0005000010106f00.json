@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010106F00",
+		"eshop_id": "20010000001043",
+		"product_code": "WUP-N-FABJ",
+		"name": "スーパーマリオブラザーズ3 ",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d5e2b5c52b3738a150ad6d7aee97e548ede0766023a72ad3ce359f71080794cf.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/bde9e65ebe0c0acab516345ad0f2d9cddb712c3e0112f59fe266563813e43b45.jpg",
+		"data_size": "36733068",
+		"description": "このソフトは、1988年に発売されたファミリーコンピュータ用のアクションゲームです。 大魔王クッパとコクッパたちに奪われた7本の魔法の杖を取り戻すため、マリオとルイージがキノコワールドの冒険に出発します。マップ画面にはクッパの手下が守る砦や、アイテムが手に入るキノピオの家などが現れます。空を飛べる「しっぽマリオ」や、泳ぎが得意な「カエルマリオ」などに変身しながら、8つのワールドを進みます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-12-25",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/a5be6a0c9628be7a1e370747a0cf1c97bd5bfc67175a3106f9f861ac0af84ee6.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/48905083801775e16c1257c3907f3719f41a83ab5089eec1963af33a1c8bd666.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/69ac0f84e08d1540854745d6a1360a9c23a0febeed2ac2fb7be3c55e585a8cc8.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1211837d26ba380bf26be623afc0ab5c0c51c58efbefd674765450ee27b2215f.jpg",
+				"name": "スーパーマリオブラザーズ3 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4ff9f76a924d7d783d1c6c3ae9745b3ed2369fcf2cf1daf34cc5a51db9e57eca.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "44"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/93599034f4008abb7959980a830cc7e0532c3c39e55be0f595a78aef874e27ab.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "44"
+					}
+				]
+			}
+		]
+	}
+}

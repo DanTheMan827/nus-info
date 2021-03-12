@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010199500",
+	"eshop_id": "20010000013949",
+	"product_code": "WUP-N-NABE",
+	"name": "Super Mario 64™",
+	"platform": 170,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5d880b95f8ccd3459e0c4e93a0edff30829ff0478e5ac3ef7d4f3585fb81a1f5.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e21ab27ac81fdfc041232b7a175d2625c4ba049fc821feb63c323c42101f75bc.jpg",
+	"data_size": "55050360",
+	"description": "Un soleado y brillante día en el Reino Champiñón, Mario decide visitar a la princesa pero encuentra su castillo extrañamente vacío. Sumérgete en los cuadros colgados en las paredes y entra en 15 mágicos mundos en tu búsqueda por recuperar las 120 hiperestrellas hurtadas por el malvado Bowser y salvar el día. Los emocionantes mundos del juego están repletos de intimidantes obstáculos, objetos escondidos, rompecabezas y más de 30 tipos de enemigos. Aprovecha la gran variedad de movimientos de Mario como correr, saltar, nadar, aplastar e incluso realizar impresionantes maromas. Las gorras especiales le ofrecen poderes por un breve periodo de tiempo, incluida la habilidad de volar. Super Mario 64 también ofrece una innovadora manera de controlar el ángulo de la cámara lo que permite que incluso los más novatos puedan explorar su mundo en 3D con facilidad.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-04-01",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/0daebafdfb35da16fae9d7fc48f56a64286f41d4ed94d9774421ad620d7c64e5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/db56c9d9a91168fc526dcaf4ca27d699fea50055b9399110171edef44a870d03.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6bdbc01c9cdfbc126cf1e2033f819f42fc115e0b5769e2cb765b161c2dff5829.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c4355bc432fb9e37caa0b24e0d1ad778b4f251513f1580763b3285d175b3b8f2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/61f600fa950110f1b811e8535831d568aba7a5254408b56eaebb3066f3e2f1ed.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4930c19ea3d4efb3d0cad2c03a32a5e01a85b93c3714ae6e00c7baa42566b4c9.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0ff87c8c7acfafd53433223c9c0ce9784f25a04f6bb46f33dde7d039123bf355.jpg",
+			"name": "Super Mario 64™ Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0c2c8bfa48fdb76dd35d71cc0bb9d4ddfe9defb85e2d866128fa72ee33c82f46.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/79c79c99c27278e2d5ab8f0e702474878c2be154bed9a85131c84a8dfd5bcb70.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				}
+			]
+		}
+	]
+}

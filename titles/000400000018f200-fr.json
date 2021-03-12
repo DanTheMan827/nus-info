@@ -1,0 +1,109 @@
+{
+	"title_id": "000400000018F200",
+	"eshop_id": "50010000041963",
+	"product_code": "CTR-P-BQ8P",
+	"name": "Dragon Quest® VIII : L'odyssée du roi maudit",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/62bfb903a0ace05ec9144dfbe48e27551de2a20968de7e88f64f6f63012776bb.jpg",
+	"data_size": "3199757156",
+	"description": "L'histoire commence quand un bouffon maléfique, Dhoulmagus, dérobe le sceptre du roi dans le château de Trodain et utilise son pouvoir pour transformer le roi en troll, la princesse en cheval, et le château ainsi que tous ses habitants en plantes. La seule personne ayant échappé à l'attaque et à la malédiction est un garde du château qui doit désormais agir pour sauver le royaume qu'il a juré de protéger.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2017-01-20",
+			"retail": "2017-01-20"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5546691ead5e3eabeb445c7d7001a9bf0d411f2cc09ca9e66d5769a184497373.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/13cd658a73162990b4de0d886633002fa76900d8be36aeb40f4f981ea5638a98.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c67767ec7cf513610b6cb7038321604a10f6106fe7c5dcecb2fc23c9fad209c6.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/31391f1461a2edd63369258c5b79fa177ca2480acd5d3166e7f8d3a5fc0282d8.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5071654923022ed404e0e22c11d532333bdea5ce3ace1751e9f3bcbbc9d57218.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/74f5846c42e5ff5b5b151ae5e19d0e4da19734e2a4241b40560e796b36852c77.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/30bdb4fa9a7ac62f77a6bac48c1b4abb251f4ad11bcda1b9a16a277bdb354f5b.jpg",
+			"name": "Dragon Quest VIII : BA de lancement",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/73ed01ee72e8c0ef106078b60717e0d4bd90314ea1a94da104ae637d2d3e567c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "155"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/dfa39825414a3d7a1902764eb81bb543d6e1dcc62929b77cec7891fdc74f0557.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "155"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/30bdb4fa9a7ac62f77a6bac48c1b4abb251f4ad11bcda1b9a16a277bdb354f5b.jpg",
+			"name": "Dragon Quest VIII: Bande-annonce de l'histoire",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1a0b8ff901d2768ea68dc011b24f63f90416bab8568ba332817e0b0939885491.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "155"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2b958a25ed3811a762896ffa4d837a5a7008e03f8259cf44a5a22c3f58aae392.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "155"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/30bdb4fa9a7ac62f77a6bac48c1b4abb251f4ad11bcda1b9a16a277bdb354f5b.jpg",
+			"name": "Dragon Quest VIII : BA des nouvelles fonctionnalités",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9f1c743e4b811548273b757fbb94dbe0bf7d9fe4b27c7f89d68012771d5956d1.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "138"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/922c7150b0f7f06b0ebbb38f6edbd4c65141375cc490889d65105291792e86d3.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "138"
+				}
+			]
+		}
+	]
+}

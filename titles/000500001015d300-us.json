@@ -1,0 +1,53 @@
+{
+	"title_id": "000500001015D300",
+	"eshop_id": "20010000011547",
+	"product_code": "WUP-N-WLCE",
+	"name": "Lucadian Chronicles",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1252,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bad63668c42dee4179ef5d3bf6a69dc67908aa5a875c794d8404e13f5cc17c2b.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/bd4b5e3584416b91070ee9cec92cf9d9da1e1381b1d4b89ba35db1eb1da74df9.jpg",
+	"data_size": "702152884",
+	"description": "Collect heroes and assemble teams to fight through the single-player campaign mode or battle other players online in leagues and real-time draft tournaments. FEATURES A full single-player campaign with branching paths. Over 100 cards to collect and evolve. A real-time draft tournament mode that pits players against each other on an even playing field in a pure test of skill. Asynchronous PvE and PvP challenges. Off-TV play In-game Miiverse™ integration, including stamps.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-12-11",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/9fea7a5d7cfa2d1b0265c008b366b71e9e34ee9198429537d823005d50a373b6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a2410b82f83ef3e7ca28561ecc5a5195717fc864b6ee0d8374b082866998dd8c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ad241e4eacef6749ec0117373ebbb888e5caa07924fe727a09472038b81c28fa.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/13fbadf2716b001dd6e7a9cc6ee51f7fb95fe629502460ff2492b2783717908a.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/453170688411f7716bc1f2c08fbc6787cc4f2901aef4a189464149e52fcbcc1b.jpg",
+			"name": "Lucadian Chronicles Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2b2a1d8447dfa195aecf530979174e6cd4572d2eb1b7af06b3c2b2aba2616789.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "101"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8c6ddfe3bd880891052c68f084c6c5495fddb73a8e5bf057c7bcfc42446b22ea.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "101"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000F702700",
+	"eshop_id": "50010000040218",
+	"product_code": "KTR-N-UANJ",
+	"name": "ロックマン7 宿命の対決！",
+	"platform": 1004,
+	"platform_device": "CTR",
+	"publisher": 39,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c69388bc4a2a0b51e71cbacce3498e8c9c3fa794b6c717a82c6b144a1d375b81.jpg",
+	"data_size": "4873060",
+	"description": "このソフトは、1995年に発売されたスーパーファミコン用のアクションゲームです。 ロックマンの活躍で逮捕されたはずのDr.ワイリーが刑務所を脱獄してしまいました。平和を取り戻すため再び戦いへ向かったロックマンの前に、謎のロボット「フォルテ」が現れます。 各ステージのボスは弱点を持ち、弱点をつく特殊武器を使用すれば効率よくダメージを与えられます。特殊武器は各ボスを倒すと手に入るため、攻略するステージの順番を考えることが重要です。敵を倒すと出現する「ネジ」は、集めるとビッグエディーでいろいろなアイテムと交換できます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-05-09",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ceaae058f93c15df80a3c330146e8e8b2e2486cd097f28efedd9c71958a2d9f2.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d1272c050cf992d2df80cf03b5ba3c8752b9711357ca7bdc4c609220969862a9.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/78784ed292be5b9c96f8c109d2cf21bf58fa873f8cf3aa0146177796f16bc0d4.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9127974319b55788e1278893d413dcfdb650cbfd7110ddf6cc686b5935024db7.jpg",
+			"name": "ロックマン7 宿命の対決! プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/377906b91a40b302e509dbd1c923ec601d3111660b212677bd35839e02cc6053.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "75"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/906f07953096d6b4f40acbea714c0d0feafec03e18d0b1ef63aa2f91beb4aeab.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "75"
+				}
+			]
+		}
+	]
+}

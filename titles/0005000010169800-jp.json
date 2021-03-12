@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010169800",
+	"eshop_id": "20010000006649",
+	"product_code": "WUP-N-PANJ",
+	"name": "風のクロノア ～夢見る帝国～",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 27,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7c1517c93101a3d3cfc52b161d4f03e987e3a4469dd433db588d2d3fbb07f806.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3f9e9c3be749ad8861310485290fbab803d631c00babe6063f46f27bc96b8261.jpg",
+	"data_size": "84508792",
+	"description": "このソフトは、2001年に発売されたゲームボーイアドバンス用のパズルアクションゲームです。 またまた不思議な世界に迷い込んでしまったクロノア。今回は夢を見ることを禁じられた帝国で怪物を退治しに行くことになってしまいました。はたしてみごと怪物を倒して、人々の奪われた夢を取り戻せるのでしょうか? ※当時のパッケージ裏面に記載された文章をもとにしています。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-09-03",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/c2d9c97578dd903e7e0844e9f113558b31029a10dfbe202ee4fc59c00433af2b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c5f283af221d00d3d98808574e4f9a4feedbe7cbe3bb9f392052ca43ff233ade.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6c02bb162936e8b4c1abbf90abb9e0a8ed989565c888a3d2cd98f11128530cfb.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/281bcc6ad636bf137dc813c4781a226c66ad7b89312be503eca3511c5c0c3c59.jpg",
+			"name": "風のクロノア～夢見る帝国～ プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9d9142ea059c89f77d595c2d5c3530c061a69c6a4fa76da3dfd1f4460c2f3f7e.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bffea218ef62b4bf6e37ac6f40ca62d07ee891d50a93d5415be75d3f65cd1692.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				}
+			]
+		}
+	]
+}

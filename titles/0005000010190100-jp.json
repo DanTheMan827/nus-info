@@ -1,0 +1,76 @@
+{
+	"title_id": "0005000010190100",
+	"eshop_id": "20010000019167",
+	"product_code": "WUP-P-AALJ",
+	"name": "どうぶつの森 amiiboフェスティバル",
+	"platform": 30,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/422c77c961578af577c84912e95b5ae197e87b5f417e2a90e4d83a4d82b9e31d.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4fc0b97b27e1ae090bca6fc8a70e2b2dd2551308cb063764da9c085658909bed.jpg",
+	"data_size": null,
+	"description": "どうぶつたちの村がすごろくの舞台に! 『どうぶつの森 amiiboフェスティバル』は、プレイヤー自身がamiiboのどうぶつとなって、日々の出来事や季節のイベントを楽しみながら「どうぶつの森」の村の１年の暮らしを体験できる、すごろくパーティゲームです。ルールは簡単、「ハッピー」を最も多く集めた人が勝ち。amiiboをタッチしてサイコロをふり、村に広がるすごろく盤のマスを進みます。カレンダーの日付に沿ってターンが進み、月末まで進んだらゲーム終了です。選んだ月によって景色や起こるイベントが変化します。イベントにはおなじみのどうぶつたちが多数登場し、イベントを盛り上げます。 遊んで貯めた「ハッピー」を使って、すごろくの村をカスタマイズできる「村づくりモード」では、村にさまざまな施設を建てることができます。建てた施設にちなんだ日々のエピソードが見られたり、すごろくのルートが変わることもあります。さらに、「どうぶつの森amiiboカード」を使えば、カードに描かれたどうぶつの家を村に建てることができ、そのどうぶつがエピソードに登場したり、すごろくの司会者を務めたりしてくれます。 すごろくのほかに、「どうぶつの森amiiboカード」を使って遊ぶ、ミニゲームも8種類収録しています。",
+	"availability": {
+		"eshop": false,
+		"retail": true,
+		"dates": {
+			"eshop": null,
+			"retail": "2015-11-21"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/d92ae67bc04270749856e879e7f0f42da635dba378dbdc2619b8f3475aa5da76.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ba6ea4c90175314835ef887e9622e50a43466a1d037c9623f37b147a38482fd7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/05da76a299cf6bcd5f9a4ee5c6935789736ddc23a5004b96540a3b65ccb8b864.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e1d144fe9c501e3da6abb71b84eb8577034a638f705f22fcb6f056f8e3458e80.jpg",
+			"name": "どうぶつの森 amiiboフェスティバル 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fba8492d9ab8dda5c2395f29cf95d02063f3f510fe94890817cfdd1a370ca6f7.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "280"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2a69dad87c106200c029744f14dd1a2d669524b34390e177db523c31389ea7b8.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "280"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e33be8adb24b3773b97306f12ac6cc0a8ec5d6bacd95a18b516f3a3a1bc7d5f1.jpg",
+			"name": "『どうぶつの森』 記念映像 ～15年の感謝を込めて～",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e45fa80f9c41795a5dfba353ec71f0c4837c59047ec7ac8e5466a2f33e31faea.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "146"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/683b260b715cb68a795d6e93363e669754582e3c55fd6bc2727e67f3cddaef15.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "146"
+				}
+			]
+		}
+	]
+}

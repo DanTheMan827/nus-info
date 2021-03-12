@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000128B00",
+		"eshop_id": "50010000020781",
+		"product_code": "CTR-N-JLAJ",
+		"name": "LolaのABCパーティー",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 57,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8acb318e6fde044d0f9474138bc7848396262bc64ff47c1221cf7c85f77bd6d3.jpg",
+		"data_size": "29027172",
+		"description": "『LolaのABCパーティー』で楽しみながらアルファベットを学ぼう! このゲームは楽しみながらアルファベットを学べる教育ソフトです。最初は簡単なアルファベット･英単語の認識から始まります。お子様の学習度が進むにつれて、難しい問題へと進んでいきます。 各ミニゲームクリア後に、ごほうびステージが用意されています。ごほうびステージはケーキ、アイスクリーム、バルーンの3つのデコレーションがあり、少しずつパーティーの準備をすることができます。 すべてのミニゲームをクリアしパーティーの準備が終わると、パンダのLolaとその友達と一緒に、パーティーを楽しむことができます。 ＜ゲームの特徴＞ ･3～6歳のお子様を対象としたアルファベット、英語学習ゲーム ･大文字と小文字のアルファベット両方を学習可能 ･学習進度に合わせて調整されるゲーム進行速度 ･簡単で分かりやすい英語解説付き",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-03-19",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/60bcb589ce93fb04264f03684664fe05900c4337462caa47a9b5afc8a7810463.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6512efb7eda59ec650ec737b3d25c177b63d8667006c5f3ac9248158faca558b.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8073bd405dd56e532c654e3cf08ce56a17b6ab33cd1ed8fb5135f9e07eb7bba8.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5f1775f4911443ad47bfdef58decf815f5422fc3c24562d435a509e2a2b50870.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/869eb219b78635fd704c46fb1f80baf621bf7f1aeef8112dff76dde4bfae04d4.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d3ac24aeec1e8e4c3b095adac505d0734678103d7b016cff3cf1b8e9aae2d1b1.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b15e7f8462ddabd88cc4c1e53dfac2da1cf7898f41ee7b69cfe025eaee6d4b3a.jpg",
+				"name": "LolaのABCパーティー プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e530d3cb6db1494fdf4ffbefeddb643d06b7941df92e0880cf04426912216532.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "47"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2e705d452dcf0aee7bc812863badd62fe918fcbdd9ce1f0adba6993029cc62db.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "47"
+					}
+				]
+			}
+		]
+	}
+}

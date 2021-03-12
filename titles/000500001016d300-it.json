@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001016D300",
+	"eshop_id": "20010000006166",
+	"product_code": "WUP-P-WBMP",
+	"name": "Batman: Arkham Origins Blackgate Deluxe Edition",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1004,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f9af2d135bbfb98d0d36366bdf19ae1066b266bf6cf6d687b4f19b43a061d095.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c5bfa078a1edc2f05220fc7d349c09b213f358b50b38280d30e563a86ef09825.jpg",
+	"data_size": "2908553556",
+	"description": "Batman: Arkham Origins Blackgate - Deluxe Edition amplia il gioco 2,5D con mappe, incontri nemici, livelli di difficoltà e costumi di Batman completamente nuovi e una grafica ancora più sbalorditiva. Seguito della storia di Batman: Arkham Origins, i giocatori scopriranno come si sono evoluti gli eventi della versione per console e scopriranno altri dettagli sul passato del Cavaliere Oscuro. La furtività, il combattimento fluido e il leggendario arsenale di Batman riproducono l'originale atmosfera di Arkham in un'intricata avventura a scorrimento laterale ricchissima d'azione.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-04-10",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/536fe7880d66a9177926d63dd8bc0926b1063cdaa83802b3628f5d5b04dc3890.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/da051d158152330cfe465147f99596fef0e3d94bc5c0970f5f399fda9d495c97.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bc11999cf44df0bbb415c5086e2f0b0ddd6b8e611cb97b5478b85c40b49534e1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7f995e271969858da37884f6097c7926f10eee878d765f130d952f7a14179b10.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/87091fefb19b0a0c2cc71a57845dfca1aa9fc653cfd49f41085635792437fdcc.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0763e93bfedb032175a036c811db62e0a883f10be28c6c8c7c96e1315b7351a0.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c4c3d9b434e38e0f4bc4d824b496d4be40dd38e21a40b86a180869a9a0e1055d.jpg",
+			"name": "Batman: Arkham Origins Blackgate Deluxe Edition",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f7866350a01d18a427ab7479a654fdd59025df17b79cae29d1d7acf2709b9245.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "115"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/64a4084e33ffbb36ed76b6fa17b94b7f95f8985d6c899343c6ceb042cd8eea70.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "115"
+				}
+			]
+		}
+	]
+}

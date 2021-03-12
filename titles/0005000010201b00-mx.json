@@ -1,0 +1,79 @@
+{
+	"title_id": "0005000010201B00",
+	"eshop_id": "20010000023287",
+	"product_code": "WUP-N-BAEE",
+	"name": "Star Fox™ Zero: The Battle Begins + Training",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e400d7bd8c767a86c7e1ad58d02bc03d9d4a2698a0b4928c1b44ca03f18a65d4.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3020a5112826d4b80905581d5d10e19b580cc4f6b0d5306da1294bb5311c4bfe.jpg",
+	"data_size": "1755578648",
+	"description": "No te pierdas esta versión de prueba en la que podrás disfrutar del corto animado Star Fox Zero: The Battle Beggins además de recibir entrenamiento para dominar los vehículos Arwing, Girowing y Landmaster. ¡Prepárate para una emocionante experiencia de combate en este juego interplanetario de disparos!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-07-19",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/9feae0afbb27eb91bd819d7d96168297662ab04729825cc020845178ec8b3545.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/392f5a3b74841c576b19a5171bdc07f15e26263451b88c57c0e7ddec6c234f2a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/283b2209025487dd00b2b8aea5801187b6227d01fc8d5871c3f0331d6f441628.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6c5a716ccae926dae52ba619b9e9741f31c4c3087302054752c86f0367825463.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2c9b2bf78d5fe56c390c89a5ae8d695f79e8fd3be377f867aeeb7e29988e8a8c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/18a52abc29803c393fb30c430f77ad72b0fd12c3da2ef9bffa96aedf72851caf.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/89400f71bb2297f2981a07f195f538d36fc3f784317a30d2dec86a998f3b662a.jpg",
+			"name": "Star Fox™ Zero: The Battle Begins",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/632dbc8cdf6e044d7992f06a96da6b8a38a6ea5c5e1099009b9fd4bd4a775d39.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "877"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b71934d3672b3f7c2c0d343959be2af0934fef04a4cec3a43b873339699c3228.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "877"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/51492b01d75f7b52541323bf9f7b410bd45a204e98cf74bfee3a460a51925b4d.jpg",
+			"name": "Avance para lanzamiento Star Fox™ Zero ",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/23e3587c522ea128763a621fd72783b0655e85766d556c62da82c0940ea13732.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "249"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6177673b80ffd8a95757b7d50f3489969789167a21f5b312673cec2fa8d51516.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "249"
+				}
+			]
+		}
+	]
+}

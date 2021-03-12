@@ -1,0 +1,510 @@
+{
+	"JP": {
+		"title_id": "000500001017CD00",
+		"eshop_id": "20010000008930",
+		"product_code": "WUP-N-BWPJ",
+		"name": "ゼルダ無双",
+		"platform": 125,
+		"platform_device": "WUP",
+		"publisher": 267,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a884136ea99bf3debdb388c42c84ac162192fcd91dd6a5e9fe43b30c2d75299b.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/02097b6c92fa3dc862ecd5f0be2e1fa79e1dc2f9c242f0890a2c4c754c3f3d57.jpg",
+		"data_size": "7426573088",
+		"description": "任天堂『ゼルダの伝説』とコーエーテクモゲームスの『無双』シリーズが夢のコラボレーション。それぞれの魅力が詰め込まれた、新たな爽快アクションゲームがWii Uに登場です。 システムやサウンドなど『ゼルダの伝説』の世界観を再現し、キャラクターはリンクをはじめ時空を超えて多彩なシリーズキャラクターたちが登場。ハイラル王国の新たな物語が始まります。",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-08-14",
+				"retail": "2014-08-14"
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/578ca24279cd3221d0065b701f1157ea2afe338737309d6672b27bd558094d78.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/1a23b66fdf8e97613b8794599e0f5af5703bfd7dacaf0856c686f1c96ba26de5.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/f16f831b433f85ba4e1680bc0a530f0de67f583d06462d8d1724b29692a92237.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6e157e23170fe19f278a2832fade17576cb5322db1b26db3e46cf73f4abf0d2c.jpg",
+				"name": "ゼルダ無双 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/edac9325d4433c45dce2ec8721ca292d4eebe91d88942dbaf499aa0264edf3ed.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "255"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/99c8dffc61d9b10d2ed34208294a377d4533c747d3417a86c66535a78bb813e4.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "255"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1018e0f880f5978f5202b0548310c8d58bef9201b2fee17f55faecf310b149a4.jpg",
+				"name": "ゼルダ無双 “裏”ゼルダ無双パックムービー",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/570170071a6cc0091724ae37fadd6235f1f7d8a8707f8899597314c3f00ed257.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "126"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c1b446b7f4599497b1e098c22b4b128a0c8cc273ecb75ec3c474aac4ff5c3827.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "126"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ae0a4329175f1e0003b6155dbac7d6d5e830ad9cb245f5d91cb8490dae48c68c.jpg",
+				"name": "ゼルダ無双 トワイライトプリンセスパックムービー",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5e61e36588274258740c8e2e617f1796aea5036255985e48a1fa105871643b01.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "136"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/09b8a0cc91448df39b160246fe34b8a874e01927d9d0974b49aa4f6361c07081.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "136"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0cdf6d73d4fe7fbeee405baea091666f468951dace708527aaa4057a5c388482.jpg",
+				"name": "ゼルダ無双 ガノンパック紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/15bf0e4833cf20ab37d61bad9d378ed47256116bae66c85c73c17bd797969c0c.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "128"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e1ed30cc068cdc1ef55f04596146c9c4ec229afe5d3d4002243d8a39c4e66338.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "128"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3d5005619d6fc033615091c373770a7c871e56b5f58ea9316ef19dd34d64a024.jpg",
+				"name": "ゼルダ無双 プレイ映像 リンク 片手剣篇/ロッド篇/グローブ篇",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e497eaf2cb0de619b001ed8160f2d77de610a3b6f1b7c570a76a1217dd96e0d1.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "205"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f74992a00e073fa674128be500582ba9a37ae44fc8c84941e9bff646088b83b1.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "205"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/27ae21a2d5c3b594a0e9c0a77f90f0af05c5aa965864682eebeaedeb9e6847cc.jpg",
+				"name": "ゼルダ無双 プレイ映像 インパ 太刀篇/薙刀篇",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/beb6c8a8f06399076f30c5e9a242987f5845c89a646bc907ab093a93acbdcffb.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "148"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cc1c0f9d35f75e50bcd5e11648d9a191a9a4ff9e44f8d2c62bdfbe822eff1e4f.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "148"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5933b46b43345e56443f32092f6a27fe065e6a5b44c68d9df7fd2a085e734096.jpg",
+				"name": "ゼルダ無双 プレイ映像 ゼルダ 細剣篇/タクト篇",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f0fd7dd72c393ec8b0185441430e7fd0e8a7462b95f409c0b95f398835df0895.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "154"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/08b30a823e7321bb92e8d8f725153276e9eb3971a72946fee00d2b48e7e13d33.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "154"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/954dcef6482ba6b2d7c6f8e3c7974e0fa7334dfdd1354381b30694752108612d.jpg",
+				"name": "ゼルダ無双 プレイ映像 ラナ 魔導書篇/大樹篇",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7173d06f190f93e086e790c24b61c6b3bb6bdeb3229551ceb65f0ba55457a72c.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "157"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/06846c824096d05f792c234aa5a81206cf65be6fda8918841d500f2297393fb9.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "157"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/776bf68e3dbb7f2a66a134fb99fa6a90e36b56c626729589411ceebf825b0d14.jpg",
+				"name": "ゼルダ無双 プレイ映像 シーク ハープ篇",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6712d14e7221182e35b3f3813512545cc7448f068559930bee32e2edaf9752d6.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "112"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3df11994f82e6f667d306f72ff5b7c1feea065f7e34e4d382dc96871093282d4.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "112"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3e73c62d12bd5cb403b7d479a696a955730e96cb7e856cfa79bf9fc04af64adc.jpg",
+				"name": "ゼルダ無双 プレイ映像 ダルニア ハンマー篇",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c4d05d1141e4b19022a993563cbbc6215c91ab4d8101644ccc6996f92cbfbad0.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "103"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/620fda27d691ee13dc8cad7f3b2fd82f4ec30aab6124121f7b58048ce8f5bee3.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "103"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/350b111683a1e1df031070c916c593880617217f4299937f5e6dfe1eedb85690.jpg",
+				"name": "ゼルダ無双 プレイ映像 ルト 魔法具篇",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/02caa3836be8008f0efa98d95ed555b0c86ccd258ed06458e3ea1d713a29fe97.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "88"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/43c2ac824aeb779c3de79de8aa0ce6d86afd6568ea6945dfc403143a61cb518b.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "88"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/23ebc3a58da529219be26a451a39cbbbc6695f4bc6058ce307091a675c79a663.jpg",
+				"name": "ゼルダ無双 プレイ映像 ミドナ 呪具篇",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/eb2c19b7acf2db3dfd77259482e83d29f48c3661e7098187d3dabf3d487924f4.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "93"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b073cfdc7f94a3dc1fc4fea563635275fd618d91ab12c63db34fd4fb98d36a68.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "93"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fc89d131b7cf0814b8bac7ef2c0796cec733517f64e813e809fdf40e2a360bc7.jpg",
+				"name": "ゼルダ無双 プレイ映像 アゲハ 日傘篇",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/37dd2e046163a9363464a22da493df58054a2a75c0b43fabdd67e437b5837642.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "92"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8fba47df58baa01010ec3d7dd06178e2c78d678ccc92731fa2091efa04d07342.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "92"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c0003d1e559b8ed15fe359712e0b6511e739aa06440ba413543ba1b7181f71e4.jpg",
+				"name": "ゼルダ無双 プレイ映像 ファイ 天剣篇",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/82d9eccaf33ec5a19239d0dbb7d30939711877a4642ecf1311010c9c583effce.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "101"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d7b3c7bebc1dfa93737b45be28e8f68f0508fe6c6d6c6f8041e2b68e1ace4057.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "101"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7a95dbe67887c2a5e618fdffd1060cc52040ad0f51b4c65f1449b0db1e4f46ee.jpg",
+				"name": "ゼルダ無双 プレイ映像 ザント 曲刀篇",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ccbc92dc5d48a4390fbc3adfc771d8c775c46b69056d1dcf9ddad72ef2396c8d.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "106"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1aa63934d20253b92bfd3beb52bea57b59c3ef3c0d3f5208504df0db354fc285.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "106"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d6c5086771807ca96bfd8186960e5a13777b8605a232ba2c9d2deff523e0b3a2.jpg",
+				"name": "ゼルダ無双 プレイ映像 ギラヒム 魔剣篇",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/07edf72e8b25b5453af373e723c7a1fb19e4fcababba07047b6d4ebd2fd362b9.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "109"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3c3f736a7f1dbb2ec0bb49289660004b27b38a080803390e110ad10fea627b03.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "109"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/dbdae83ff0f753fb49b5e53c3a2f77425ee0e6524f7ad559fdad9d285bca620b.jpg",
+				"name": "ゼルダ無双 プレイ映像 ガノンドロフ 大剣篇",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/269e65008a379c949414038c5543672b39060572f457d84e47d3851bcba3295e.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "115"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/909aeae7311eb5a78652302e346e1bdb6b9c38d356e4f0f5c99b497cf787a16d.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "115"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c264b6228859329d250405373d6bf92ffa793986ba7b5cf4a0a17915eb808f31.jpg",
+				"name": "ゼルダ無双 プレイ映像 ヴァルガ 戦槍篇",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/94e0e04f55ed01bf6ea542aa6053504120a3b01c81834a3433dc8c0ab05cff5e.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "82"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9de6ef5b010b9469a0ab9dc8e7365a3c48e69090760a119f81dc66a0d5d1fffc.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "82"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/099b9cbffd445ad5eb238a5ddc2275bc82c876db4a3a8b22536c64839d08f6d3.jpg",
+				"name": "ゼルダ無双 プレイ映像 シア 宝杖篇",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5850f5cafd4195d926a8cbfe28d87d4e0e531dccc0b25e5d1266b6e898912f76.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "94"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f2bc9d92ae0e7154a0f1bca9d05b56e95b6fef289bd1f7d9329a1efbb2a86045.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "94"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a01d8f010903253f60670c552950c4e0059f622ddc26adf207ac0b0c86a6ae8b.jpg",
+				"name": "ゼルダ無双 プレイ映像 ウィズロ 指輪篇",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5991d598909eb6e9a8cde2a24179a43e3ab7bfc6f5c2a3f0030cb9cde0fad80d.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "95"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/aafc85cb95efab37e30b6f0d32a5b10697fd2372e5a40fb5512ac3c6a1a11cca.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "95"
+					}
+				]
+			}
+		]
+	}
+}

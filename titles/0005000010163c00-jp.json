@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010163C00",
+	"eshop_id": "20010000015767",
+	"product_code": "WUP-N-PPEJ",
+	"name": "イメージファイト ",
+	"platform": 166,
+	"platform_device": "WUP",
+	"publisher": 136,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/786b1147c2f6b9f532bf507f1c5cd5facae084bac313fc757a21e789731033b4.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/df6ee3c725b67ab274b40c2a93cb6a39e15d2792030ffedb8145da89a2f91e59.jpg",
+	"data_size": "84246668",
+	"description": "多くのシューティングゲームファンを魅了してきたアイレム制作の手応え抜群縦スクロールシューティングゲームです。 まず、プレイヤーは「イメージプロジェクター」と呼ばれる戦闘シミュレーションで、5段階の飛行訓練をクリアし、主人公機の「ダイダロス」を操縦するための高度なテクニックを身につけねばなりません。 訓練課程終了時の撃破率が90％を超えれば見事合格。いよいよ宇宙空間に出て全3ステージの実戦プロジェクトへ参戦します。 補助攻撃システムの「ポッド」やこれを飛ばして敵を破壊する「ポッドシュート」、速度チェンジを利用した「バックファイヤー」など、オリジナリティ溢れる攻撃を駆使して、突如地球の侵略を開始したエイリアンに果敢に挑みます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-06-24",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/467adb3f74dd2b7ae0c9d13ea907a05ab5e1294678fc7c36920438d9385aea71.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5b3192d7245ca3225becd479f9c27fb8104160024a88f4e06315833434bb24ab.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/fe5bd8304a77ded9cb4fa025bf8794832f780ca2d21cb82cf17384db1551a51f.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/750834708d1db72582c0a3d32dd79b630ac08cc40d03e686a5aae270522b3985.jpg",
+			"name": "イメージファイト プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f7fc5338324d5c8a85364b50e8e3f907c591ba2c1767c874a44886302717c835.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "86"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/93277efdf9c9c14a7d487c44de71168a2dd05265b45747be8f260f31fb875705.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "86"
+				}
+			]
+		}
+	]
+}

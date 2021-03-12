@@ -1,0 +1,85 @@
+{
+	"title_id": "0004000000125600",
+	"eshop_id": "50010000027775",
+	"product_code": "CTR-P-AJRP",
+	"name": "The Legend of Zelda™: Majora's Mask 3D",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5f95a012900cc643bb5a4c672aa8329c243288a1e0772a1ed4a9da2bac267300.jpg",
+	"data_size": "676199268",
+	"description": "Race against time and save a doomed land in The Legend of Zelda: Majora’s Mask 3D. In this full remaster of the fan favourite Nintendo 64 title, which includes refreshed visuals and features while remaining true to the original title, embark on an engrossing, spooky quest through a mysterious world. Join Link as he seeks to save the land of Termina from a crushing fate – in three days, the moon will crash down and destroy everything and everyone in its path. By using the magical Ocarina of Time, Link must travel through time, re-living the same three days over and over again, to prevent calamity and save the world. Explore every corner of Termina and delve into dangerous dungeons, across treacherous mountains, poisonous swamps, an eerie desert and a vast ocean, on your mission to stop Skull Kid!",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2015-02-14",
+			"retail": "2015-02-14"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e874d3142f27bf152523398cc5647cd1caf489c63c0fe010dffc2f262f52bc69.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/59e498c11d37b792311ff0a8cdb17074d03165fff026e45137983ffbbcbabf02.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c4da41e275825fb76f56902f75f4680d1e6232b215bea85d8566700820fbc4b4.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8f9e2aaa1336146492d26709fe0082b9f4c6d4ab405410d6ecc36e5368438810.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c5d45194652bc3dbe0a55400b9ab308d53ae36c0960ba60e31b3c6e0cc537523.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7cce0d98ecf0c680536f6e2c527b18f094fbaf19c1bb59c33db989539b36e168.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/da8e6a5fc84754c131c1d363a7c51c2ba0f88128dfa3b0ebb16bb7be4868b8de.jpg",
+			"name": "The Legend of Zelda: Majora's Mask 3D - Trailer (06/11/2014)",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4d85f092f8fda040afe5ad23006982675a7ad7dc7ca2b0b1547347a11908b733.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "104"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0e65337d682ea90e9c5efc112eadcee52ff832bafa41b204dcf1d6e86f79b1f6.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "104"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/da8e6a5fc84754c131c1d363a7c51c2ba0f88128dfa3b0ebb16bb7be4868b8de.jpg",
+			"name": "The Legend of Zelda: Majora's Mask 3D - Special Edition",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4cd7d74ce46e85d0a0cf194f58952b1693185238c52af597fbe67dab8843408d.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "51"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/287cdea3923c3c70386abd94195a8b69c91033ce29aec3a788d6396919d368f1.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "51"
+				}
+			]
+		}
+	]
+}

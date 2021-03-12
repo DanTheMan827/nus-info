@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001018A800",
+	"eshop_id": "20010000021069",
+	"product_code": "WUP-P-ADMP",
+	"name": "SMART Adventures Mission Math: Sabotage at the Space Station",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 74,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0ee539d951658cb34d41c9f94a3cab300216786d16277d8fe89505f5786f60e9.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a201dc67711eeb2b94ec7e919a560f2ba200d6a34d3ddde5dfcd1c072a706bab.jpg",
+	"data_size": "348946592",
+	"description": "S.M.A.R.T. – the Science Math and Radical Technology Agency - needs your help! The space station has been sabotaged, and the astronauts are desperately trying to keep things working. They need you to use your math skills to repair the science labs and discover who sabotaged the space station. Everyone’s a suspect. Can you save the space station and solve the mystery? We’ve got problems to solve. Let’s go!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-02-25",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/106fdc5901421318279998b1f33e68a14e9802ccf72b7498e0ed0602b1ef24fb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3fb8b8bc0bda2076403d111b4c4fa1fd742e33b041788e316397786603d946af.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/246e15b6aec73e4599a5a719929ad07d7f6d92da0134320fc95d4f9183c13393.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/fcdf744a129b0784d79a57a6428100971b1670da65c6c8571b0dc6c7f66535c3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c99f12e532f44e6419802f6d0b093c45654e5b54f5b0184f502241f385f0b09c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9cf0cb40c239c4c20f43813bb569d9fd2224e6a637ec5930308265b440303282.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d48a0f111f5426bc8ab0d1596b09aeb0c7eeb9a6f2943305e10aa2ee94df93fa.jpg",
+			"name": "SMART Adventures Mission Math: video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fca484d712979dac3d96d396259dab0e13acce1198a5a44d8ed7661bac9fe6c3.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "113"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/359cb16813e1d8417604252848bbd2007be87fd5d50b0ab145d41f14cffdff95.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "113"
+				}
+			]
+		}
+	]
+}

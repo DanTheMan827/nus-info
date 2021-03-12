@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101ACD00",
+	"eshop_id": "20010000015227",
+	"product_code": "WUP-N-PCNJ",
+	"name": "ファイアーエムブレム 封印の剣",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b106033d8ffc66ffa550e74ada9151b449a4b24c95a9231cca6241c9bcab95ef.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d616264d50f9b3e3a619f7726f0e21aabef9a78dcf97a08df75daa5ec527ec8c.jpg",
+	"data_size": "78151820",
+	"description": "このソフトは、2002年に発売されたゲームボーイアドバンス用のシミュレーションRPGです。 ファイアーエムブレムシリーズ「封印の剣」は、エレブ大陸を舞台に、フェレ家の嫡男ロイを主人公として物語が展開されます。おだやかな小国リキアの平和を破る、大国ベルン王国の突然の侵攻。ロイは故郷を守るため、戦乱の中に身を投じていきます。 初めての人にも、わかりやすく、遊びやすく、シリーズ初の「チュートリアルモード」を追加。ますます面白くなる『ファイアーエムブレム』の世界を、心ゆくまでお楽しみください。 ※当時のパッケージ裏面に記載された文章をもとにしています。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-09-02",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/90465936a8fb91eae90f34fb239818ee3e55d984b99555eb270c2ff68fd8e74c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4be51b8821ce83844ee114d19df3b81167eedcbd4eb75685cc2e39f0b82c677e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/46b575a60fce163ef9294ed18d42b77d4710032f9a2b8fb00144ecefc1ee63b8.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c8eeaf32cf04b862f585a60cb471fa498c545eda112dc7a8c50477e5de9ada2b.jpg",
+			"name": "ファイアーエムブレム 封印の剣 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c68cd639d8d08e53d0eb465d58d70adaaed78bc4856a9711ef411334cfa86e25.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "84"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7a7d017f905eb3536fa17325822a02c2bcb40acb478feb77f06add968ee3d338.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "84"
+				}
+			]
+		}
+	]
+}

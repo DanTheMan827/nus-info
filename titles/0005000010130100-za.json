@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010130100",
+	"eshop_id": "20010000002904",
+	"product_code": "WUP-N-FBCP",
+	"name": "Zelda II - The Adventure of Link™",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/471ff710969c98f9f6f5c4f790d1acfaefe49fb99e33c4f8301b7cb6bc72cd8a.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/07e8b8cf76514f53bcca4a35702c9a41b575277d18bce9bf004a3d91cb031789.jpg",
+	"data_size": "36601996",
+	"description": "This direct sequel to the original The Legend of Zelda™ is famed for taking the series in a new direction, while also introducing elements that would become standard in future Zelda games. In Zelda II: The Adventure of Link, Link must seek the Triforce of Courage and awaken Princess Zelda from a sleeping spell. Meanwhile, Ganon’s minions are trying to resurrect their master. Zelda II uses a side-scrolling view and overworld map, and features role-playing aspects that are unique to the series. If you own this title on your Wii™, perform a system transfer from your Wii to your Wii U™ to receive a special upgrade price. This is the US version of the game.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-09-26",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/dabfbca85dc47b08547269c2759c5b43063196fbccb7ca6486b2db515aaab18b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6328e92be7e9bd8c752a5931ccb482194ac598d5320f8006399daeee10d5cdd4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/fe5d1e5a3ce485927754e196257bd0c83fc91edf29858831f225f8fe18dd2166.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c35c2dfc28f0f4e723222b335c573d517e6fb8ccc140e4a985e52df01056b187.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7f8d4af02c97d12efef1a11f7bfdca038b88536873881dd05e1126c2d4225e44.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2d07226f642777f2c9e42b814d38fbe2de98461ca53bdf693720078d78c34106.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f595d978acab626cb2e9566273b06c3b57be2b1520e5b0f7e6142b00e818415f.jpg",
+			"name": "Zelda II - The Adventure of Link™: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9cc70d26c60d5d51ea0acf1d3176521ce52513ff31b1b8ed4338f7f137c7a785.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "58"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8b28676ac08be39f88702acc6bfb91f847e49e65e1a5f1a05ea6811e0efd92c8.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "58"
+				}
+			]
+		}
+	]
+}

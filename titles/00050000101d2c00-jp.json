@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101D2C00",
+	"eshop_id": "20010000017387",
+	"product_code": "WUP-N-ATXJ",
+	"name": "チャリ走 Ultra DX - 世界ツアー",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 963,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a865568cc0246ed4719cb59d6aab73b67668ca22cd6d0d1ba55cd97bd5d30313.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e944365d026057af8f2e19a5cb49459d01221a8adea2711ddc79a7061f1219ca.jpg",
+	"data_size": "817397980",
+	"description": "ジャンプの爽快感がバツグンに! ボタンを押す長さによってジャンプ力が調整できる新システムを採用。 世界を旅するツアーモードでは、協力したり、メダルや順位を競いながら、最大4人まで一緒にワイワイ楽しく遊べる。制限時間内に友だちとチャリ同士で大乱闘しながらスコアを競える「バトルモード」も新登場。マルチプレイ時は、自分の好きなMiiを選んでプレイできる。 走行距離を競う「グランプリ」モードでは、ニンテンドー3DS版では非対応だったオンラインランキングに対応!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-08-05",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/456bc1681e813b224105836a3fd1ef54d2bd25574087c13378c914b83d277054.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bf9b29f8fd05f1b2de934865ca69de7c91a69ec6ca64795202b8208638acf3cc.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4985370342f68ac1a55b0ead36cc458c8074c696dd3c8614f1df2607077334c6.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2c56414149e6e4e67b00567ea7f000cfc4392f54fae89bd35a19b2ea2e5b4d42.jpg",
+			"name": "チャリ走 Ultra DX - 世界ツアー 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4dbdd2fb39c7eceee5d8bac7136123862a722f1ffc7b558cae401fe85d3265cd.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "180"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ff38f3d539f0ee86d2d34539ed838f77ad80f5e38396dc3478fdc9d7f722c608.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "180"
+				}
+			]
+		}
+	]
+}

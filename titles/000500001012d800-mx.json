@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001012D800",
+	"eshop_id": "20010000001344",
+	"product_code": "WUP-N-WKFE",
+	"name": "Kung Fu Rabbit",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1699,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7e084b5b196be41c7420926ab45143120e8fc0083829e33dfa626c9c0992fb09.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9543143fc71ab14531663e59e0c613013d4ff951bd64514cf5889ea25fd78ea5.jpg",
+	"data_size": "97976440",
+	"description": "La vida en el templo de los conejos pende de un hilo. El Mal Universal vuelve a proliferar y ha secuestrado a todos tus alumnos. Sólo tú has podido escapar del ataque. Te dejaron con vida… ¡y lo van a lamentar! ¡Utiliza tu agilidad y tus técnicas de combate para salvar a todos tus alumnos! ¡Salta de tejado en tejado, deslízate elegantemente por muros, acércate sigilosamente a tus enemigos y hazlos pedazos! Gráficos detallados, una gran dosis de humor, horas de juego y controles intuitivos. Cada uno de los 80 niveles requiere lógica, precisión, agilidad y mucho ruido de sables. En el juego podrás ganar trofeos, salvar a bebés, comer zanahorias y acabar con un Mal Universal. 80 niveles en modos normal y difícil (¡muchas horas de juego!) 15 objetos desbloqueables para personalizar tu ratón. Texto en español.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-05-02",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/0becf2493257f8aba97dd484e4deae5b349fffed58ec496dfd0fc690f1fb48c6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9d173179fd8d0cea519580cc357510fdb084cdd6073d4b470dcff03c37a541c4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d31d2cbb07bdbe38c21ee0e5eda7c7217ad732cdf3dbc55ef8e12edfb94d2912.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/43d4d59ec6c32aaf7b57ce1b1c6940568e29b6151c9deb3584693964747b8542.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2190e022739e7a32bd3bc3dbeba604a45b0c22238c4f2778f40674ba87d48ea3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/675469aa5bd901fac2bc435fca7ee1cf06697ea03fb20b5ea27ef9b256ac5936.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/86727848948decfc33ec2d6282289afc98b1d0cbc228da26a772e167c081e9a0.jpg",
+			"name": "Kung Fu Rabbit Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/99f8f96686d5e668cb297595ea9641e50b53d55a2a13ef0c35f2c39c64826352.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "72"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ddd549729bf1849f4b8cde8980a66696f7b37ef294493dd16fc33f65ebff215c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "72"
+				}
+			]
+		}
+	]
+}

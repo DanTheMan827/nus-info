@@ -1,0 +1,53 @@
+{
+	"title_id": "00050000101E8800",
+	"eshop_id": "20010000021709",
+	"product_code": "WUP-P-BW2P",
+	"name": "COLOR BOMBS",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1269,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c1cccb9f4af87042569cf6388c32570e86c24d450f747d5f646551fd85f7a7f1.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/80b2f02f47e3ebf73fea3275c734c94050c3a108ce1e46c28ad4696db2d68ba9.jpg",
+	"data_size": "82575520",
+	"description": "COLOR BOMBS — это улетнейшая игра на цепную реакцию! Прицельтесь мини-джойстиком и в нужный момент нажмите кнопку A, чтобы COLOR BOMBS взрывались одна за другой. 60 различных уровней сложности. Идеально как для новичков, так и для самых ярых игроков!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-04-14",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/7aa73d1890ebb5433e772282abc136a195204e36e76a0aa8b5feafcf1e4476cb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1e6e14dd39bbd70c0681e39352493865c157bd374d6d17783f649f9b23c869c3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/00fbd5b0de790f83a449ee1ca9cf21299451dfbc8ac26ca0799354cf74e0775d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4ca544c43dcd8ad7d63989ec189031c75b4524c926c698752b22a3f0a4949e10.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e695396ee660026d40c6d0ffd9919d02a0d27987ef1f866c31f35e9288cb6c13.jpg",
+			"name": "COLOR BOMBS: трейлер, посвященный выходу игры",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4a5d0e73e18d991988bd9c84eab0752567fd3bf85a7d8d8146e36cf7b930cb92.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "28"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d762d3a03b4d06d3893725de33287b61334ada2f12907b9be01b2b392a3bdd14.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "28"
+				}
+			]
+		}
+	]
+}

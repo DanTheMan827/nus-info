@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010119500",
+		"eshop_id": "20010000002724",
+		"product_code": "WUP-N-FATJ",
+		"name": "グラディウス",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 149,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8069362b9a59875863462718a561e8c07f3f7d40510d37556d549d545dae3e21.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a085dac99a5ee23243c00c1cd02730fe6c6fac1a2da3d55624b22008a1b817a6.jpg",
+		"data_size": "36569228",
+		"description": "このソフトは、1986年に発売されたファミリーコンピュータ用のシューティングゲームです。 敵要塞ゼロスを破壊し惑星グラディウスを救うため、超時空戦闘機ビックバイパーを操作して亜時空星団バクテリアンと戦います。移動スピードが上がる「SPEED UP」、レーザーを発射する「LASER」など、赤いエネルギーカプセルを取るたびにパワーアップの種類が変化します。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-10-02",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/32172ab5be277447c11d0b33e55979a01336056ca35bca473fb2b91b8e78debc.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/2b84ea251bb43c8fac999c6cc16da6f969b4e75ddfafef40996ce07193b405a2.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/b190ed80c07572f8283b1dbb292fecd7ced426341dd54f524fd7de8c39d38267.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3637922ffdb6b0073e0da28e201e1baa849b19ec839318a3d17843d5797d1bce.jpg",
+				"name": "グラディウス プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e3523bd09adc855f72036fcd2b85a6c9539faf0b96b4c6fdf9ada71e9eb8b0f7.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "44"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3ab8b5c4676b5fd5d35d9040df37ee7ba2f00769c5cc4178e69eaf0670ec8acc.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "44"
+					}
+				]
+			}
+		]
+	}
+}

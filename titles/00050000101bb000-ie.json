@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101BB000",
+	"eshop_id": "20010000022487",
+	"product_code": "WUP-N-NANP",
+	"name": "The Legend of Zelda™: Majora's Mask™",
+	"platform": 170,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b01a3b62d7efe53bb894db9064618746535cd15d7ec31f7d72da1531ebe7b8c3.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/66cbf422fedc4d229668662d7073b2587bd1de17d6756b262b0493618fb24ee4.jpg",
+	"data_size": "80085112",
+	"description": "The countdown has begun! You have just three days to save the land of Termina from destruction by its own moon, which is being pulled out of its orbit by a mysterious evil force! In this epic sequel to The Legend of Zelda: Ocarina of Time, Link is bestowed with magical masks to aid him in his quest. Transform into a Deku Scrub, a Goron and a Zora, using their abilities to fly through the air, roll across the land or swim through the sea! Link has only 72 hours to save Termina, however he can re-live the days again and again using the magical Song of Time, to gather the knowledge and skills he needs to solve the mystery of Majora's Mask. A gripping storyline, charming characters, dozens of masks to discover – and the first appearance of Tingle! – complete this acclaimed package! If you own this title on your Wii™, perform a system transfer from your Wii to your Wii U™ to receive a special upgrade price.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-06-23",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/ad7517d617672cfda08cf51a791669624d8c989c7ad67a55c7bea4fce2cce6ab.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/049f66c60dbfc0d38848b3da2bfcc5429f5b08bb5a9573fbb1344d46fe8d2b39.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c1e25b14774e6923aaa0b960202742169926d0fa8649acd2948b9f9011a1c33c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e2e6cc938bf424d36cd801bc01ae663d8e402955cfdca194479a29bcf8998ab0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b890efbd32ad307dfe99f256bc3207e99831c23a9baa330974bccf0f9dc785cc.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b6b47bd02ea3ba01b276790e862119a32cbfc43fa6fbe28121f29bb566aca06f.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/dec8ff63ba592a86c0d31da007b93f307749c62a4c6323054563e5c9b080dcd9.jpg",
+			"name": "The Legend of Zelda™: Majora's Mask™: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0c7fd841fa69770c03275be9ebe6d2101955f8473f9f9e6534d6f539b7b18ed3.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "73"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1e82344851e7c7fd861acc99156bf324fe143db9a0bf21b5450e2bcc1abbe6ec.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "73"
+				}
+			]
+		}
+	]
+}

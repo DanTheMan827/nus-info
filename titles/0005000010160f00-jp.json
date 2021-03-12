@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010160F00",
+	"eshop_id": "20010000005929",
+	"product_code": "WUP-N-FCUJ",
+	"name": "ワギャンランド",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 27,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a822f676b738e9ee39e941da94385e663964962aa9b3b486ea6e84b040a994d8.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e2eed41ca94e3f71688d3cb9164879e1d5755c93407a2136ed09915abcfbe10e.jpg",
+	"data_size": "36601996",
+	"description": "このソフトは、1989年に発売されたファミリーコンピュータ用のアクションゲームです。 主人公のワギャンが、ドクターデビルに征服された自分たちの島を取り戻すため、冒険に旅立ちます。ワギャンの武器である「音波砲」は、敵の動きを一定時間封じることができます。音波砲で敵を足止めしながら進み、動けなくなった敵を足場にして、さらに先へ進むというテクニックが重要です。ボスとの戦闘は「神経衰弱」や「しりとり」のミニゲームで、知恵が試されます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-05-07",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/b6e15d10f28411cbba0d1243aeaa7f37c3ea77ccc924b2407755979c6057b502.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e9c546f6a9f16285dec04a29d8d9fff1f8e077b46c6ea77c67acbf98237d4a22.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8c08a4ecc8f5526c4d93650fdc0ef0ece8164d7c9516dc51f11d8a778042b041.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0457572c8097d3a68187fa583119cf985f37c63169bdb4595a9efa1965dfa748.jpg",
+			"name": "ワギャンランド プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/256ab1bc4f7716ec8721bc3d844f9e80a69e6ca0f67dd5db6bca6659876bd81c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "48"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9e406d5f88a14fe78c4ad4116e366d37cbabc5a0b1b372d9f644801d2892d281.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "48"
+				}
+			]
+		}
+	]
+}

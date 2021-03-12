@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010149200",
+	"eshop_id": "20010000002684",
+	"product_code": "WUP-P-WDFP",
+	"name": "Spot The Differences: Party!",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 228,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1ce3d005fbee60ab41eea16d16bc6bb13a37d2b884e622ce348f52b2e55a1222.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/902083c1266fc5595d89b9a73d632d7e2556cfbf7ad89dc62a2041e378f54df3.jpg",
+	"data_size": "434208908",
+	"description": "El juego de encontrar las diferencias más completo de Wii U™, con 360 imágenes y 3,600 diferencias por descubrir. Juega solo o con hasta tres amigos y compite por ser el más observador. - <b>En solitario</b>: juega con el Wii U™ GamePad o en tu propio televisor con el mando de Wii. - <b>Multijugador</b>: juega al mismo tiempo con el GamePad y los mandos de Wii. - <b>Multijugador por turnos</b>: mirad las repeticiones sincronizadas al final del turno. ",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-09-05",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/fe73065394d613e6aceec28c13f03ca15f76f1b13e34c604a7988c57cc6f5362.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c74053d9ea6e8e466458b97f5b7b45e8fa68e898475fc7a6ad4a7b98d74b229c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c0826797afd9fda881d6ca87d2e97125e106f1aa008aae40dbcb4cadfd0169fe.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4b6607cc74ad606b20bd2ce020e29ffe06ac079355f4737f70372d6cb479c971.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/81524401bf655b352c1555be47008fd3dfe15872ec52b3574fce798fbf2d198c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2379a9487bf53a7cf1ab81f23020bff9e47de9711f0755ff0c0045ff7893c5b9.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/571ef672ea082f1fbab0fc64fc66914779e55f752c68b461da43471a0477014b.jpg",
+			"name": "Spot The Differences: Party!",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/159cca082cdba93f3a3ad4055abb9d6bc1a50c8a8155ae9e453c0d7d9171affb.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9f91a6ae354d657e0b5fc5d5348a5665e1650b35521ca5e63cb2fcdc0d34a519.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "000400000010EF00",
+		"eshop_id": "50010000017975",
+		"product_code": "CTR-N-JEFJ",
+		"name": "エクスケーブ",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 152,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5fae20d5fc5fcd759481a6bfd56bf706be7ce10489beb0330eb917191d30143f.jpg",
+		"data_size": "45206372",
+		"description": "敵を倒しながら数々の仕掛けをクリアして、迷宮の最下層を目指すダンジョン探索型アクションゲームです。 ■2人のキャラでダンジョンを攻略! 重い一撃担当の男の子と、軽快なフットワークの女の子。 それぞれ違う武器を扱う2人を上手く使ってダンジョンを攻略しよう。 ■様々なパワーアップアイテム アクションの異なる9系統の武器、強力な一撃を繰り出す 魔法アイテム、能力アップの装飾品や食事など、ダンジョン には様々なアイテムが隠されています。 使い方次第で攻略法は無限大。 ■いつでも脱出! ダンジョンからはいつでもどこでも好きな時に脱出できます。 自分のペースでゲームを攻略する事が出来ます。 ただし、体力が0になってリタイアしてしまうと、城下町に戻されて しまうだけではなく、アイテムの一部を失ってしまいます。 ピンチが訪れた時に「進むか脱出か」の判断が運命を決めます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-11-27",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/fb6646e7fd6de14f0abaabd1899c1bd79acc72a1f695913703a427d629897bdb.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f80e8210ff85dedf62cc99f39a8c4c7c85953d5bdabbe59e22420de29b969206.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b99e51a46d8af7d0ff70a4c8f98766330bf22fbeba962f4fe7198d667b0479c9.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/16b1ecf3f4a5f52b198bbd7c6b5d795775aa4ad35959d0293996c1c949f97641.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/60412a5ed7f497581ee7328842804ceb5aa5a7921e93a91be126874c96b27ee7.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/43cdd979e61cf718489a50badf3fd8d2039d239f760c7bf7c37c8285b6ea5ae9.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8c8a465025e682a4ffb91c9b8b4cccadc7cedccfd081b491a91fd51caf367267.jpg",
+				"name": "エクスケーブ プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d1323ca7a83c9e08eb1d1b6be41139fafe719192dbc14d7c4ceadbbb9c3c2578.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "47"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c075e61af8edffa0aecf60df9a018d75e59e34c3f7d66a867b043a1d460b1c46.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "47"
+					}
+				]
+			}
+		]
+	}
+}

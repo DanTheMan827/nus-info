@@ -1,0 +1,54 @@
+{
+	"title_id": "0005000010171200",
+	"eshop_id": "20010000008787",
+	"product_code": "WUP-N-FDAE",
+	"name": "Ufouria™: The Saga",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 256,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b593c641034c224c837e104449f81b68a07cefb17f29b8b37a94bd4cd261e12b.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b6b7c61d24f8e803b26ecb72a3fae91dbf6e79aae7a4ae8e7a3e514c83ebcbd3.jpg",
+	"data_size": "38797472",
+	"description": "Join Bop-Louie as he searches for his three friends—Shades, Freeon-Leon and Gil—to help him escape an unknown world. But it won't be easy. Brain-boggling mazes, traps, and bizarre pitfalls stand in your way back to Ufouria. One day, Bop-Louie and his friends encounter a crater and are transported to a land full of strange creatures and danger at every turn. You'll need to rely on each friend's abilities in order to survive. Jump on enemies, throw balls as weapons, and find other useful items as you make your trek through mystical forests, deserts, and oceans. Will you have the right powers at the right time to make a successful escape?",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-07-24",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/2bbc764b237af20823a2766d57f3029a0e7c3f26239b74750127ab45294c0acb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1639257b3c319067a9ca445c47367575d95d21f07ea77e370601f228aa9c3739.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8178242e2db7001b87dabffb1fd34daad95afc7a1e073c4387cb46020bf400fa.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/20f07f6e8cd23933c0306b20e287d8db92d902ee2a4c0f1fdf889bc17af9a9bb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/784b36d75be2c813206b0e24d99b590b1cbec31d959fbe5faf0237cd0d9c6114.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/63e128dad9f768a1061cd76214009de718925c68488587f112d684d2753df2ce.jpg",
+			"name": "Ufouria™: The Saga Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1cb08d5d93ddf04587c569e429cc26b4659ca91e2eff6ead1ddac189d4f24795.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "57"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/637b7f83b5c5d80ef206576ef9a7cdec5cb4716173f88215aeb3e2a04b0ed584.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "57"
+				}
+			]
+		}
+	]
+}

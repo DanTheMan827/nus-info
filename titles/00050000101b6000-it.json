@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101B6000",
+	"eshop_id": "20010000020907",
+	"product_code": "WUP-P-BHKP",
+	"name": "SPACE HULK",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1346,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/79df7208b8c6ffabb6007131c84b40abee3ecf045a59148ee6c40493f0a38bfb.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/16013c6a9b3f72186adc0d017b32657d63cda1cfe16a88624f7747e5e4f1524b.jpg",
+	"data_size": "2896003452",
+	"description": "Il leggendario Space Hulk arriva nel mondo Wii U™ in questo gioco epico a turni basato sulla strategia. Nell'universo di Warhammer 40,000 si svolge una storia intrigante fatta battaglie leggendarie e azioni eroiche. Gioca nei panni di una piccola squadra di impavidi Space Marine Terminator che tentano di recuperare il loro onore assaltando un relitto spaziale infestato da orde di viziosi Tiranidi Genestealers. Prendi il controllo dell’ Adeptus Astartes del capitolo Blood Angels e guidali verso la gloria, mentre combatti il feroce Xenos e scopri antiche reliquie nei confini infestati del massiccio Space Hulk, rovine chiamate \"Sin of Damnation\". Il gioco è un gioco di strategia, a turni, in 3D, che ricrea la classica esperienza claustrofobica gioco da tavolo sia in modalità singleplayer che in modalità multiplayer.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-02-04",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/12e44e742cc6c24d9a25d6d43c206ac6cea6f10f76fd418085aef511e91c0542.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7affba14fbc7d72bfada20d0e37aee0e97c30cf58754eba0b739f63c7fd0d32b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/60445bcd33d669ce51a3d653f67e41807b6511978d5b95da257e946431c29b12.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/50d89ada505c67acad5c21157a1d9382a9549560a46eeb015125dc2c7da0dd0c.jpg",
+			"name": "Space Hulk trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d219aacda779bc5f854dd07fba71978d2d377d06699b290fa5dc5228090f5683.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "91"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/36834243447945ef3ae0d6411217c519fd6ad4ab84cc175dd34cca4b3c72977b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "91"
+				}
+			]
+		}
+	]
+}

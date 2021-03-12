@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000172100",
+	"eshop_id": "50010000037935",
+	"product_code": "CTR-P-AEHJ",
+	"name": "アナと雪の女王 オラフの贈りもの",
+	"platform": 18,
+	"platform_device": "CTR",
+	"publisher": 1188,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/2d21fc65f1580decfe2816906d52ff983e92edfd36cd271f44558e44ae6cde43.jpg",
+	"data_size": null,
+	"description": "ディズニーの映画「アナと雪の女王」から、いつも陽気でおっちょこちょいなオラフが主人公となった、横スクロールアクションゲームです。 大好きなアナにブーケをプレゼントするために、オラフはきれいなお花をたくさん集めようと冒険へでかけます。 ステージにあるお花やアイテムをたくさん見つけると、オラフのおしゃれも楽しめるようになります。 スヴェンやマシュマロウなど映画にでてきたキャラクターも登場！ 飛んだり転がったり、頑張るオラフを助けてあげましょう。",
+	"availability": {
+		"eshop": false,
+		"retail": true,
+		"dates": {
+			"eshop": null,
+			"retail": "2015-12-03"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7746e5c92c607de56ece05b62bf7f644f14481eb0b0df173a93657d405d719ff.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a271e0f4a0d187a0532ac2bcb0d8501576b0888e90a6a889042b77bd7ca6c9c9.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a6063583356b1c7c3abf4bf6f04de8e828f1f27c34d1ad279eee7f4e4adabf9d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9224df98be4d3f88c1a7bbdcda679d1e8aff968aeaccc9677e3463d86ffd14fe.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b536e8072390faf6cf361cfea13b041776b49d7a0cfa7358bae544530a62c4e7.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/604d56aba2eb6471484f23e2fb15d3926cc1e1e0c2a912a6ca32b2816d5b4edc.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2eecffed28eae9afa097837a840bf6f88129fc95689b1d11b2c280d3f05a1ead.jpg",
+			"name": "アナと雪の女王 オラフの贈りもの 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5ef7e37366f358ef512c8ae823a2fb737794d859019472ad5135eaad1d63c1fa.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "69"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b157826b725421423d7bcca923f545724141f66a84b5fda01b8674678df28f38.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "69"
+				}
+			]
+		}
+	]
+}

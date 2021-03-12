@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000C1500",
+	"eshop_id": "50010000012868",
+	"product_code": "CTR-N-JWAE",
+	"name": "Wild Adventures: Ultimate Deer Hunt 3D",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 1103,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4b52f63ea56b86c8bfb4ef5d25dbb2a34ada9b3f03c515ce52a998923046f023.jpg",
+	"data_size": "98384740",
+	"description": "Head out on an adventure unlike anything seen before on the Nintendo 3DS. This is arcade-style hunting at it's action packed best. Venture into the wild and go after over 20 species of game and fowl including blacktail deer, grouse, ducks and majestic elk. Defend yourself against wolves, wolverine, and the mighty grizzly! You'll even bowfish for salmon jumping upstream in crystal clear rivers. <p> Along the way collect over 20 weapons and items to help score that monster buck. Switch between rifle, shotgun and bow to make the most of the hunting situation. After the hunt, visit the lodge where your achievements and trophies are on display for all to see. <p> Wild Adventures: Ultimate Deer Hunt 3D moves you through incredibly detailed environments never before seen in eye-popping 3D. Hike through forests and along rivers in the day, night, wind and rain, while exploring over a dozen detailed hunting locations in search of your monster trophy.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-01-10",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f84ef2cebb97e3a8ad63a8fd093f3e1b4e6096dc81330d6003b6c0b95e6958ac.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/524afeddb528f1afdde22218ea047fb23cfa8c30df06c765971f11180312555f.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/205fb3c472986acf31a905b42c38c2fdcf70a8bf589e356c9cf1231149a3b21f.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/58c4b93ab4d564ca09528e0085b7734d69d662218ae8b2c28fa549d0505987f2.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/933537d2d086a89c972a34f40abed0b533276153ffbdf67a95457ac227e9b782.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0a362df2971a3562b3a5876496f9e8da0fd40b9079f085fc4fb24dabbde550a0.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/64c9db0e4422548dc0768005dfaff19fab54c2e8b49d39c0046f47977b7c7b8b.jpg",
+			"name": "Wild Adventures: Ultimate Deer Hunt 3D Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/800bd688a572b8da8af449ee86622a56497de71e8c33d89c70db294ac8425e97.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "77"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0c0ae82dea903102963fe1905b45f18a765b8b0c0e7bc3a30d4a0f409bcf005a.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "77"
+				}
+			]
+		}
+	]
+}

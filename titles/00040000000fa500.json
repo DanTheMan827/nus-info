@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "00040000000FA500",
+		"eshop_id": "50010000016955",
+		"product_code": "CTR-N-BC5J",
+		"name": "クッキングママ5",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 414,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/323919a3edda118f53141b6c4ef415ab0a8fb3422c774084d51c840667488837.jpg",
+		"data_size": "218008468",
+		"description": "『クッキングママ』は、お料理を作る調理工程をかんたんな操作で遊べるミニゲームで表現し、連続して遊ぶことでお料理を完成させるゲームです。またその他にも、ママのお手伝いやハンバーガー屋さんの店員など、こどもたちの日常にある知っていることや体験していることを、楽しいミニゲームで体験することができます。",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2013-11-21",
+				"retail": "2013-11-21"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d0f1912d95248226e68fcbfde9aca2e699663a6f4c8f0d8cf94d3f6e5c2090b4.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/89a377a6187107dad979ccadf7c01b32ae052f5ea1ff1060d89481be44eb8863.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/63608cdd88a442593dc0d72bafe287239e771086ca528bbc222188476fb307d3.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b5b05bad00703ab272c535c04d69e750193955ae44dd33d1f066f72a5b4f9e3d.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/fcef79c4e99beef0a174a5aa2d0ed3ccd389643ec7558cde60d0fb055dd554ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/3c2412b3605eaa2e26f3ceb195acf65037886be8696c89e0fd34e0a76c2a58eb.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a1ce1efb92709445acc5eb900ed37e40dd81c616598f4ae3bcb45af06102e00f.jpg",
+				"name": "クッキングママ5 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9fbbe217a4d5c52f5c4bf730034f12bfaaea65a429b48c71ad68d4bfb4776b93.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "180"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cc6a53826aaaa4d4c1193a0b489c412c36d8421d4efc375b1ed4855c205f0851.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "180"
+					}
+				]
+			}
+		]
+	}
+}

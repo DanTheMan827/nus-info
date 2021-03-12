@@ -1,0 +1,79 @@
+{
+	"title_id": "0005000010111700",
+	"eshop_id": "20010000001063",
+	"product_code": "WUP-N-AJSE",
+	"name": "Injustice: Gods Among Us",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 1004,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2935c52bb9b9e10e66b03ca5f224d8294546866b41c78ea5735df859965fc902.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7e182d46d78b5eb893533bb557cc5f8b9efe1c08ebd9c705d73f6517dbd38eca.jpg",
+	"data_size": "8140391140",
+	"description": "¿Qué pasaría si nuestros más grandes héroes se volvieran nuestra mayor amenaza? Injustice: Gods Among Us presenta una nueva y audaz franquicia al género de juegos de pelea de NetherRealm Studios, creadores de Mortal Kombat. Con emblemáticos personajes de DC Comics como Batman, The Joker, Green Lantern, The Flash, Superman y la Mujer Maravilla, el último título del galardonado estudio presenta una profunda historia original. Héroes y villanos se enfrentarán en épicas batallas a escala masiva en un mundo donde la línea entre el bien y el mal se confunde.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-04-16",
+			"retail": "2013-04-16"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/c9841040204b1bde38f35c5be0081999a8e891e297ce81bc517f49adcbb5bccd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9cba37927ee5c3c1a0888e801777a2f918c28a00630f653a78f4b8016ad64df9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6edc6104a5a07fdd03e10313f6873483111cc73d834b250d4309300ccde0438e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e0770fb028fff5569c813696b8f4c3e30c2d4cfbb24bf366445e4cf48e615827.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/de66e85139c66d9e96ee10b65c0a6d831e559ad7b70ed535d200aa913c9cbaa1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e59f7337c5398d87e32be484494c619ed1240280d235c9d89a86816838342d61.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6566f444765e71599cfdf251e9b2498c99c0e2ce486f3241e2fc77839947347f.jpg",
+			"name": "Avance para lanzamiento Injustice: Gods Among Us",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4fccb40aacbfcf3212f6e5eab03b4d3bfb3539fcfdd85f043395751c85a6298c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "128"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/62b50cff9980d315b0c5186ff8d9dec19a739b0a12671b012369dd7cd13df483.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "128"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6566f444765e71599cfdf251e9b2498c99c0e2ce486f3241e2fc77839947347f.jpg",
+			"name": "Avance 2 para lanzamiento Injustice: Gods Among Us",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cc33744b6a176e150e9df52c80f6229ddd7c831847aff4e89f77204da248aa4f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "83"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3bf6c0cc048977ac0a72448c7dd887997bac78747d8dbae2156c3a606cded0e8.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "83"
+				}
+			]
+		}
+	]
+}

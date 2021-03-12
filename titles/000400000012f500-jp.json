@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000012F500",
+	"eshop_id": "50010000025677",
+	"product_code": "CTR-N-ATUJ",
+	"name": "テイルズ オブ ザ ワールド レーヴ ユナイティア",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 27,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/2580ebc3cb713ce5a732be7a07c634c4b04a85bde19599bc32638aa87fd98b58.jpg",
+	"data_size": "921811812",
+	"description": "ニンテンドー3DSで紡がれる、すべての「テイルズ オブ」世界がつながる「夢」の世界の物語。 「夢」の世界「レーヴァリア」を舞台に、歴代「テイルズ オブ」シリーズのキャラクターたちが集結して、世界の危機に立ち向かいます。 ■2本立てで繰り広げられるストーリー シリーズキャラクターたちと出会い、彼らを導いていくレーヴァリアの住人テルンとナハト。 同じ目的を持ちながら別の視点で繰り広げられていくテルン編とナハト編の2本立てストーリーは「テイルズ オブ」シリーズのシナリオスタッフが手掛けた本格的な内容となっています。 ■本格シミュレーションRPG 最大8人パーティのターン制のシミュレーションバトルを採用。 キャラクター同士で連続攻撃したり、回復、支援と攻撃を組み合わせたりできる「援護」システムを搭載し、仲間との絆を実感する戦闘が体験できます。 ■ボイス、アニメムービー、豊富な描きおろしイラスト メインシナリオはもちろん、特定のキャラクター同士が仲良くなり発生する好感度会話まで、豪華声優陣によるフルボイスで演出。 シリーズおなじみの躍動感あふれるオープニングムービーや、物語を感情豊かに彩る幕間ムービー、描きおろし秘奥義カットインなども収録されています。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2014-10-23",
+			"retail": "2014-10-23"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2492b4e9884f497529086787e3e896a3f133aa00cca4b1a98a0305ea444dfb1b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/afeacd49d4ceaf4ab096010027a479996dd2c3c719dfb6fe3aa991d506680e33.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/22dad40bda942f55a10a73ec71c9f0715233bc489b5f7a9cfefcea6602120b3d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/21015cb946266a3dd44efb1594c44be294ade773c9d6b2910ad879b87f764f61.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/25690205f9dee2dd5248864f35c108bdc041cc62dfe2f03e70618cf3e86aa40d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/09e473201abebefd11d6615540b00466d56f1b253784d4cf46b166bf0a534834.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/34eed6bfb0ea8cdd46a7e646ac7dce693af4ac66d1645cbfd9ee97c86d98dad1.jpg",
+			"name": "テイルズ オブ ザ ワールド レーヴ ユナイティア 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f31bc119f7e2b927bc3579d01f6853513ac9c49c9bc7c21fbf28b602949507f8.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "177"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a84e60701d36d25e2dbbe1e2a37b11b44c422c2c7cc890cb98cf334f34ef2075.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "177"
+				}
+			]
+		}
+	]
+}

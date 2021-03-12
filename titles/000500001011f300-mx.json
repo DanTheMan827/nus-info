@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001011F300",
+	"eshop_id": "20010000000766",
+	"product_code": "WUP-P-AWDE",
+	"name": "The Walking Dead: Survival Instinct",
+	"platform": 30,
+	"platform_device": "WUP",
+	"publisher": 7,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/523935a6ac065a045ff40c4f0e0d70294e97f7b2235f8efbb5c7cb2dfec597e8.jpg",
+	"data_size": null,
+	"description": "The Walking Dead: Survival Instinct es un juego de acción y supervivencia en primera persona que recrea el horror real y espectacular del éxito televisivo de AMC The Walking Dead. En el juego controlarás a Daryl Dixon, el misterioso superviviente armado con ballesta interpretado por la estrella televisiva Norman Reedus, junto a su autoritario hermano Merle, doblado por Michael Rooker.",
+	"availability": {
+		"eshop": false,
+		"retail": true,
+		"dates": {
+			"eshop": null,
+			"retail": "TBD"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/60435f02c9d78a95dbc209312d859420de40f68dabaa693b044cd0310a771a76.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4067e0b738c9dcfa6b3cd0f24d96c20ff89abe8e9e2ed4d9c4146d2dfb3ac3ce.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d05a2563aff1bfe137ffae23ba4b2594bcea72a017d06834ed7d87f8fce97018.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/cb37af246ca7ed8f500171f549bf4553a2c50f2cb56639bb54130b5d5c2a5e00.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/96e775202d69af7d0aaefd2d0218d90ca0025c4f93c2dd30bacbe585dc360e22.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0899ca6e8015cfc7bdfd7a15bcc429581b1556159e89a4ab6a1365c948209456.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ae0de5dfe67922769b2d250ff64939c02f32f9c3ea00c0030be72558b5656631.jpg",
+			"name": "The Walking Dead: Survival Instinct Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fa7c501bd8f96f7eac81f61fd5c1f983a7dba18135ce152eabf07b3216c13d7c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "66"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3e2647b32d9055c2f3debae8c61b939beef438d34f533d331ee91e17c51bd54d.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "66"
+				}
+			]
+		}
+	]
+}

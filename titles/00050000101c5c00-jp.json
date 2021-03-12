@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101C5C00",
+	"eshop_id": "20010000021487",
+	"product_code": "WUP-N-NAQJ",
+	"name": "マリオパーティ2",
+	"platform": 170,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e991558b82f1b07f8525fd6ddcbe8d6cec2a9db43a8fd6a759796d92c9ae6bc8.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/94b50513720f5b2e2887fa0b50fd3bd9f0ca0873433670288c47aaac32d94ad5.jpg",
+	"data_size": "79036536",
+	"description": "このソフトは、1999年に発売されたニンテンドウ64用のパーティゲームです。 マリオたちが夢と冒険をいっぱい詰めこんでつくりあげたテーマパーク。その名前を決めようとしているところに、クッパが襲ってきてしまいました！ そこでマリオたちは、クッパを倒したスーパースターの名前をテーマパークにつけることにしました。さて、誰が輝くスーパースターになるのでしょうか？ ボード上には楽しいイベントとミニゲームがたくさん用意されています。ミニゲームはなんと64種類！ ジャンルもレースやアクションなどさまざまです。 「よこどりボックス」や「ワープブロック」などのアイテムは、ボード上で使えます。うまく使えば大逆転できるかも……!?",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-03-30",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/06cea8de0bf8f34ebb1f10ddc6962d1c6a3e803ea5449011b484a47889a4cb37.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/89b41cffcdc853e6d60b7051fd45b2cbf090101616ef339a13d6d1cc11e57ee1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e7383898f160e097dbd45b38304caa33803b03d6ce51f52f140617f3d3c86bc4.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0953c5fcf15bb15ce61def1bec10a066faafa263b8412a5898137df39f3cc667.jpg",
+			"name": "マリオパーティ2 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a2ed4644cc7774949d39206e78335fd2130917373f4260ae4ebaa9df1d43a988.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "95"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6c8954e13a4fa1aeac77f12de615e4c5d154f8a25b12bc9add98f5d2470a6bad.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "95"
+				}
+			]
+		}
+	]
+}

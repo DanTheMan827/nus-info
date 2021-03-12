@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000017AE00",
+	"eshop_id": "50010000036575",
+	"product_code": "CTR-N-KDEJ",
+	"name": "出会い玉",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 1307,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4d5940e7c15a172baeed2eee9b6f7b2f6489230efc3fd03917e34d96e8c63a6f.jpg",
+	"data_size": "13605732",
+	"description": "別々のスタート位置にある2つの玉を同時に転がし、ゴール地点でちょうど出会ってぶつかるように、ブロックとパネルを並べて、玉の通り道とスピードを調整するカジュアルタイプのパズルゲームです。 全部で3つのモードで遊べます。 全30ステージを自由気ままに楽しむことができる「フリーモード」! ゴールでの時間差を感じ取る「時間差でGO!」! 1つの玉が、ちょうどゴール地点で止まる「シングルモード」! 各モード共に、ギミックの特性とオブジェクトの配置を活用して、2つの玉をゴールで出会わせましょう。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-09-02",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0b0e287800dc0b5ad984ff3a806727417ffefcebbcd0f9d4318b5d29bdb4309e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/381cbc30182c39ee0677881bfcd8c3c79d3138bbf9186a3374d777702559b788.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/89127fa0181e17e3449447d24ac92fbdfc8d04765fa8bc4aa83e423b52bedc4b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c79f77ede1d5e7696e2182ded873b135566e22a63f2636a92445289e80bee558.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3401006dbfe13f47fd949b8577be299095e740475505e0ec238a91c8963ae8f4.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d06e9e682c8afbc0971f01da8bd690f041849bc2775c05db2dc75727ca14b973.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d9a69f5ddc5a437499a91c84104ffb0a280b889d5c7fec35cc0be6c6ee797305.jpg",
+			"name": "出会い玉 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a5018ef429205bc0e5f3026b4f7d61db7296a141163c2e027e8052f5e7c0e9c9.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "71"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1dce58fd01338f58e1e134f2f842cf8ecc4ab962834632c76dd1e701f4842072.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "71"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000148C00",
+	"eshop_id": "50010000035755",
+	"product_code": "CTR-N-BRXE",
+	"name": "Hatsune Miku: Project Mirai DX",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 233,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/190b5218348e33f3ba689591a98e6fdfa8be05ee4943b5eb30e610f8b4825ff9.jpg",
+	"data_size": "2335595364",
+	"description": "Hatsune Miku: Project Mirai DX es un juego de acción rítmica protagonizado por la cantante virtual más famosa de todos los tiempos, ¡Hatsune Miku! Project Mirai DX contiene 48 de las canciones preferidas por los fans en sus versiones íntegras, además de múltiples modos y estilos de juego que jugadores de cualquier nivel de habilidad y edad podrán disfrutar. ¡Únete al fenómeno Miku expresando tu imaginación a través de divertidas herramientas de personalización y edición, comparte tus lindas creaciones y vive la mejor música de la diva digital favorita de todo el mundo!",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2015-09-08",
+			"retail": "2015-09-08"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c94192970efe7dac86564cf9e35afe08d5feddb5f24b5cee403346ca904638a6.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/229f7dfac6a2bbc189e1555333e682836cf6426f30984ebf917b752263cbb3f5.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ccef49e8a319ce2ccfca3935291d350111a539bee75d46d3d577b7f3873b61ce.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/aa135cf4b4f860e7fc2ae4b19f4606c4c61dc47ce5aacaab09c48cf6b1c67083.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2537e4bbe1b9e69558a67d647cae9c21a3e272ec01b0d44d836d5d5270a74be7.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/bd6f917d3b298083806c1ee43ceea87e5ba210fff19c66c4458a8c5c7a873daf.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/480d1ac7c6a646463a367c9a7c0eb058ec23375bd5dac909f1a4a49ded3191a4.jpg",
+			"name": "Avance para lanzamiento Hatsune Miku: Project Mirai DX",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ae692dda88bf5d74a7d1540ee08637a9ba524a98dbb252a76451704c069b13ac.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "277"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e84c4a17eb1d4ec7e44bed44ad9eef467fdbceea79d3539e4cf7b7cef514675c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "277"
+				}
+			]
+		}
+	]
+}

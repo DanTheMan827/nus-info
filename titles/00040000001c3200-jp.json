@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000001C3200",
+	"eshop_id": "50010000042756",
+	"product_code": "CTR-N-KAWJ",
+	"name": "アルケミックダンジョンズ",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 1212,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c76d4b73d273ce1371598a61e155ab2190101f224d19187d83b335832d56ef93.jpg",
+	"data_size": "110979940",
+	"description": "『アルケミックダンジョンズ』はダンジョン自動生成システムを搭載した 「何度でも遊べるローグライクゲーム」です。 プレイヤー側と敵側が1ターンごとに1つのアクションを行う オーソドックスなローグライクゲーム。 本作には「アイテムクラフト機能」を搭載し、 手元のアイテムを組み合わせることにより、 戦いを有利に進めることができる防具や強いアイテムを生成することができます。 さまざまなアイテムを使って敵を倒し、 ダンジョンを攻略して行くというシンプルなゲームルールでありながら、 ちょっとした不注意で強敵に囲まれてしまったら絶望という、 お手軽にローグライクのスリルが楽しめる作品です。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-05-31",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b7f97e8b2e30b290ef284e3b28a53df6e049466e0ff80f4d4da59ad7625b4cb1.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b4723c761b2fca688b5063fc86af615cc2e011a4e47047d94b9caf24af6a491f.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/23e019709a6d612f83f1f7764a1bcff40e13c56f028cf4184784c5ea08e50128.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b443928f49fd24783a6ff10cf01a16366a5ace17bc9e971bde099095d0e5e6ee.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c00772f75cf1b10f18da50f829c3021bc1d3d9cffa733a94d4064523d8438888.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d3aedffe1c41e710c2b4895f75e8d3bd581be43dc049caead32d0ae4bd5741c2.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/73f8362fc664e3bac01d4048b2667adc6e7c1340070869df2d7edb0b0e4c36c8.jpg",
+			"name": "アルケミックダンジョンズ 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d2bedc1e2613145c889ae924024dc03f7bda55ac2c4e3070ec7ba62158539f0f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/66e160e6dd0cb30a4a0dfb7db03ade940863588c2cabb37bc4b415a520b29c6c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				}
+			]
+		}
+	]
+}

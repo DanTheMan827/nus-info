@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0004000000069F00",
+		"eshop_id": "50010000008981",
+		"product_code": "CTR-P-ATKJ",
+		"name": "鉄拳3D プライムエディション",
+		"platform": 18,
+		"platform_device": "CTR",
+		"publisher": 27,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a88fc11ae94821a408543068b2e4b020b8ad00fca8de6d3679f206541f3825e0.jpg",
+		"data_size": null,
+		"description": "3Dで秒間60フレームのゲームプレイを実現し、さらに3Dの映画も1本で楽しめる「鉄拳」が登場!タッチスクリーンによるお手軽操作で誰でも壮快な空中コンボ体験が可能。 インターネット対戦で世界中のプレイヤーと段位戦が行えます。歴代のCGイラストを3Dカード化した鉄拳カード集めなどやり込み要素も満載!!",
+		"availability": {
+			"eshop": false,
+			"retail": true,
+			"dates": {
+				"eshop": null,
+				"retail": "2012-02-16"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6122729cc6efdb2d4d8dc7ac5516a4cde34dac9ea044648b027c6d3a3b3a690a.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/77156f483f4414b3ac00061b5f53127206d1e1f54e7459aaee3910dac2caa99b.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/41914b7e0d1e5d92abca1f580b9e85f160c54d03ed99f4dc4f1bc818bc32c021.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/286b79b77122b26e38c7f6f8a4ebf4f76e59e9a53d5ff0eee51af86408cac78d.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5e91baabac7796eda3bcd7e1c2d26967bbc3f60c3456be79e5d396a2c6b4d5c0.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b5c10bbfbf59ae825a61acc758ade2b52d419d3ddf8d1ca25daf283d8314f531.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/317cb0580d0d37e0dc16cfecba7bb4a556c3727bdcda3180eb6db3f614a9748b.jpg",
+				"name": "鉄拳3D プライムエディション 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/06d434f70dbd7f2e30bfb543d1f946f762394d92eb365c19e0c73e749927e992.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "279"
+					}
+				]
+			}
+		]
+	}
+}

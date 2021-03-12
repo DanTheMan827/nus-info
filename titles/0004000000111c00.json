@@ -1,0 +1,2857 @@
+{
+	"AT": {
+		"title_id": "0004000000111C00",
+		"eshop_id": "50010000020434",
+		"product_code": "CTR-P-ATAP",
+		"name": "Yoshi's New Island™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/79bd4908d1fbfda2c16634871b4c9cdcb15091a772809de2cb66bc00abadf2f5.jpg",
+		"data_size": "440818580",
+		"description": "Yoshi's New Island ist die erste Veröffentlichung aus dieser Serie, seit Yoshi's Island DS 2006 erschienen ist. Yoshi kann wieder auf seine althergebrachten Fähigkeiten Flatterflug und Stampfattacke zurückgreifen und Eier werfen. Außerdem verfügt er über neue Fähigkeiten, mit denen er sich Herausforderungen stellt, welche die Funktionen des Nintendo 3DS nutzen. Du kannst \"Mega-Eier\" einsetzen, um Blöcke und Röhren zu zerstören und versteckte Münzen oder Schlüssel zu finden. Je mehr du zerstörst, desto höher steigt deine Mega-Ei-Anzeige, wodurch du Extra-Versuche bekommst. Die bildschöne Grafik verwendet viele klassische Stilelemente, z. B. Ölmalerei, Wasserfarben und Buntstiftzeichnungen.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-03-14",
+				"retail": "2014-03-14"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ffdf1e09d827089043131fde23850cf43e59e3b90c6c390ae394ca7c1341ac99.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/11ec37a97d5f3f4cbd93fc620c341b855e1781548a990f13ba8f6a4060b3166a.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7af9905727931c56c646882bb15c8894e7fcd19ea90e340590ce08f285ef0f40.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/26e0f46dca266fde1a71403bcfa8e5262f7a33ef5c742121a4267b022b2c9fc3.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/75514713e656ebe102c73c331d4a0e8c26c01110c99245508830e804f8f28371.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/88ff4da5a3f0536d7d830c5ce17238a6b31a7c02bfa73e7f55f3b3e770a9cb21.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island™: Trailer zum Verkaufsstart",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c3d8da195397da3845b6243c5643f19cd0f9c8c514e41b899b39983db265ce41.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "147"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0d898461b001ea94721ad2ea63f7746fa6f9e326b22b878e605e82f0963ea2c2.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "147"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island: Trailer (E3 2013)",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/04df9c53eb13f955f1b5147e5c8b375e1f00c6eaa14174809b017d793bf36aa8.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7399967abc2640d6144d796b499ec5caadf6a5a175bf9e774103d26b261e32f5.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island: Trailer 2",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd0eae9b7c1f198e4a7e2f7ca24e7cf9d303ac308c1e8a511ba586edd8749079.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "31"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd0eae9b7c1f198e4a7e2f7ca24e7cf9d303ac308c1e8a511ba586edd8749079.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "31"
+					}
+				]
+			}
+		]
+	},
+	"AU": {
+		"title_id": "0004000000111C00",
+		"eshop_id": "50010000020434",
+		"product_code": "CTR-P-ATAP",
+		"name": "Yoshi's New Island™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/79bd4908d1fbfda2c16634871b4c9cdcb15091a772809de2cb66bc00abadf2f5.jpg",
+		"data_size": "440818580",
+		"description": "Yoshi’s New Island is the first instalment in this series since Yoshi’s Island DS was released in 2006. Yoshi’s good old Flutter Jump, Ground Pound and egg-throwing return, along with new abilities and challenges that take advantage of the features of the Nintendo 3DS. You can use massive eggs called Mega-Eggs to destroy blocks and pipes, revealing secrets such as coins and hidden keys. The more things you destroy, the higher the Mega-Egg gauge goes, netting you extra lives in the process! The beautiful art is based on many classic styles, such as oil painting, watercolours and crayon drawings.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2013-03-15",
+				"retail": "2014-03-14"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ffdf1e09d827089043131fde23850cf43e59e3b90c6c390ae394ca7c1341ac99.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b3e3e931306ca3eb5a49fa82102c1ce49d2d638cc5b8a6c6ff0c811c1b6088f5.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7af9905727931c56c646882bb15c8894e7fcd19ea90e340590ce08f285ef0f40.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/325fdb0ca83f61c899fb16adb9af16f03f8d1e7a11cb32a044e5f6bfe71f70b1.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/75514713e656ebe102c73c331d4a0e8c26c01110c99245508830e804f8f28371.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8547e7cea11c7d4495e45c47562688c7c558874e4b1ec1e30fb2284c5fb3a628.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island: Trailer (E3 2013)",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/04df9c53eb13f955f1b5147e5c8b375e1f00c6eaa14174809b017d793bf36aa8.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7399967abc2640d6144d796b499ec5caadf6a5a175bf9e774103d26b261e32f5.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island: Trailer 2",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd0eae9b7c1f198e4a7e2f7ca24e7cf9d303ac308c1e8a511ba586edd8749079.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "31"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd0eae9b7c1f198e4a7e2f7ca24e7cf9d303ac308c1e8a511ba586edd8749079.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "31"
+					}
+				]
+			}
+		]
+	},
+	"BG": {
+		"title_id": "0004000000111C00",
+		"eshop_id": "50010000020434",
+		"product_code": "CTR-P-ATAP",
+		"name": "Yoshi's New Island™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/79bd4908d1fbfda2c16634871b4c9cdcb15091a772809de2cb66bc00abadf2f5.jpg",
+		"data_size": "440818580",
+		"description": "Yoshi’s New Island is the first instalment in this series since Yoshi’s Island DS was released in 2006. Yoshi’s good old Flutter Jump, Ground Pound and egg-throwing return, along with new abilities and challenges that take advantage of the features of the Nintendo 3DS. You can use massive eggs called Mega-Eggs to destroy blocks and pipes, revealing secrets such as coins and hidden keys. The more things you destroy, the higher the Mega-Egg gauge goes, netting you extra lives in the process! The beautiful art is based on many classic styles, such as oil painting, watercolours and crayon drawings.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-03-14",
+				"retail": "2014-03-14"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ffdf1e09d827089043131fde23850cf43e59e3b90c6c390ae394ca7c1341ac99.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b3e3e931306ca3eb5a49fa82102c1ce49d2d638cc5b8a6c6ff0c811c1b6088f5.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7af9905727931c56c646882bb15c8894e7fcd19ea90e340590ce08f285ef0f40.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/325fdb0ca83f61c899fb16adb9af16f03f8d1e7a11cb32a044e5f6bfe71f70b1.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/75514713e656ebe102c73c331d4a0e8c26c01110c99245508830e804f8f28371.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8547e7cea11c7d4495e45c47562688c7c558874e4b1ec1e30fb2284c5fb3a628.jpg"
+			}
+		],
+		"movies": []
+	},
+	"BE": {
+		"title_id": "0004000000111C00",
+		"eshop_id": "50010000020434",
+		"product_code": "CTR-P-ATAP",
+		"name": "Yoshi's New Island™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/79bd4908d1fbfda2c16634871b4c9cdcb15091a772809de2cb66bc00abadf2f5.jpg",
+		"data_size": "440818580",
+		"description": "Yoshi's New Island est le premier opus depuis la sortie de Yoshi’s Island DS en 2006. La fameux Saut Plané, l'Attaque Rodéo ou le lancer d'œufs de sont de retour dans ce jeu où Yoshi bénéficie de nouvelles capacités et devra faire face à des défis à résoudre grâce aux fonctionnalités de la Nintendo 3DS. Vous pouvez utiliser des œufs géants pour détruire des blocs et des tuyaux afin de révéler des secrets comme des pièces ou des clés cachées. Plus vous détruisez d'éléments, plus la jauge de Méga Œufs se remplit pour vous donner des vies au passage. Le style graphique est basé sur plusieurs styles graphiques, comme avec de la peinture à l'huile, avec des peintures à l'eau ou des dessins au crayon.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-03-14",
+				"retail": "2014-03-14"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ffdf1e09d827089043131fde23850cf43e59e3b90c6c390ae394ca7c1341ac99.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/475c9246d205670c00c58d3963059ac8d116f95658570fd4c31fcf2f898ed6a4.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7af9905727931c56c646882bb15c8894e7fcd19ea90e340590ce08f285ef0f40.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6c8590acde86f3c3625e6ec1e0aee98bc1bac4843bd214e412b0a2f8d11352e6.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/75514713e656ebe102c73c331d4a0e8c26c01110c99245508830e804f8f28371.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/45b519e1605f235f5b2478e34bca44d4fe29a16b9535095aa82da52125a20492.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island™ : bande-annonce de lancement ",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6066bee32d5d163b608b87699b3f53884f43c49e3f4d803e7951fdaa89ead0ab.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "147"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ff426bbaf629a3bfc0827d5eb204d30176f6ad2ee80572b0bf79458a698f7e18.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "147"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island : bande-annonce (E3 2013)",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/04df9c53eb13f955f1b5147e5c8b375e1f00c6eaa14174809b017d793bf36aa8.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7399967abc2640d6144d796b499ec5caadf6a5a175bf9e774103d26b261e32f5.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island : bande-annonce 2",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd0eae9b7c1f198e4a7e2f7ca24e7cf9d303ac308c1e8a511ba586edd8749079.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "31"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd0eae9b7c1f198e4a7e2f7ca24e7cf9d303ac308c1e8a511ba586edd8749079.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "31"
+					}
+				]
+			}
+		]
+	},
+	"CH": {
+		"title_id": "0004000000111C00",
+		"eshop_id": "50010000020434",
+		"product_code": "CTR-P-ATAP",
+		"name": "Yoshi's New Island™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/79bd4908d1fbfda2c16634871b4c9cdcb15091a772809de2cb66bc00abadf2f5.jpg",
+		"data_size": "440818580",
+		"description": "Yoshi's New Island ist die erste Veröffentlichung aus dieser Serie, seit Yoshi's Island DS 2006 erschienen ist. Yoshi kann wieder auf seine althergebrachten Fähigkeiten Flatterflug und Stampfattacke zurückgreifen und Eier werfen. Außerdem verfügt er über neue Fähigkeiten, mit denen er sich Herausforderungen stellt, welche die Funktionen des Nintendo 3DS nutzen. Du kannst \"Mega-Eier\" einsetzen, um Blöcke und Röhren zu zerstören und versteckte Münzen oder Schlüssel zu finden. Je mehr du zerstörst, desto höher steigt deine Mega-Ei-Anzeige, wodurch du Extra-Versuche bekommst. Die bildschöne Grafik verwendet viele klassische Stilelemente, z. B. Ölmalerei, Wasserfarben und Buntstiftzeichnungen.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-03-14",
+				"retail": "2014-03-14"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ffdf1e09d827089043131fde23850cf43e59e3b90c6c390ae394ca7c1341ac99.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/11ec37a97d5f3f4cbd93fc620c341b855e1781548a990f13ba8f6a4060b3166a.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7af9905727931c56c646882bb15c8894e7fcd19ea90e340590ce08f285ef0f40.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/26e0f46dca266fde1a71403bcfa8e5262f7a33ef5c742121a4267b022b2c9fc3.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/75514713e656ebe102c73c331d4a0e8c26c01110c99245508830e804f8f28371.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/88ff4da5a3f0536d7d830c5ce17238a6b31a7c02bfa73e7f55f3b3e770a9cb21.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island™: Trailer zum Verkaufsstart",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c3d8da195397da3845b6243c5643f19cd0f9c8c514e41b899b39983db265ce41.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "147"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0d898461b001ea94721ad2ea63f7746fa6f9e326b22b878e605e82f0963ea2c2.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "147"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island: Trailer (E3 2013)",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/04df9c53eb13f955f1b5147e5c8b375e1f00c6eaa14174809b017d793bf36aa8.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7399967abc2640d6144d796b499ec5caadf6a5a175bf9e774103d26b261e32f5.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island: Trailer 2",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd0eae9b7c1f198e4a7e2f7ca24e7cf9d303ac308c1e8a511ba586edd8749079.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "31"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd0eae9b7c1f198e4a7e2f7ca24e7cf9d303ac308c1e8a511ba586edd8749079.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "31"
+					}
+				]
+			}
+		]
+	},
+	"CY": {
+		"title_id": "0004000000111C00",
+		"eshop_id": "50010000020434",
+		"product_code": "CTR-P-ATAP",
+		"name": "Yoshi's New Island™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/79bd4908d1fbfda2c16634871b4c9cdcb15091a772809de2cb66bc00abadf2f5.jpg",
+		"data_size": "440818580",
+		"description": "Yoshi’s New Island is the first instalment in this series since Yoshi’s Island DS was released in 2006. Yoshi’s good old Flutter Jump, Ground Pound and egg-throwing return, along with new abilities and challenges that take advantage of the features of the Nintendo 3DS. You can use massive eggs called Mega-Eggs to destroy blocks and pipes, revealing secrets such as coins and hidden keys. The more things you destroy, the higher the Mega-Egg gauge goes, netting you extra lives in the process! The beautiful art is based on many classic styles, such as oil painting, watercolours and crayon drawings.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-03-14",
+				"retail": "2014-03-14"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ffdf1e09d827089043131fde23850cf43e59e3b90c6c390ae394ca7c1341ac99.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b3e3e931306ca3eb5a49fa82102c1ce49d2d638cc5b8a6c6ff0c811c1b6088f5.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7af9905727931c56c646882bb15c8894e7fcd19ea90e340590ce08f285ef0f40.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/325fdb0ca83f61c899fb16adb9af16f03f8d1e7a11cb32a044e5f6bfe71f70b1.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/75514713e656ebe102c73c331d4a0e8c26c01110c99245508830e804f8f28371.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8547e7cea11c7d4495e45c47562688c7c558874e4b1ec1e30fb2284c5fb3a628.jpg"
+			}
+		],
+		"movies": []
+	},
+	"DE": {
+		"title_id": "0004000000111C00",
+		"eshop_id": "50010000020434",
+		"product_code": "CTR-P-ATAP",
+		"name": "Yoshi's New Island™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/79bd4908d1fbfda2c16634871b4c9cdcb15091a772809de2cb66bc00abadf2f5.jpg",
+		"data_size": "440818580",
+		"description": "Yoshi's New Island ist die erste Veröffentlichung aus dieser Serie, seit Yoshi's Island DS 2006 erschienen ist. Yoshi kann wieder auf seine althergebrachten Fähigkeiten Flatterflug und Stampfattacke zurückgreifen und Eier werfen. Außerdem verfügt er über neue Fähigkeiten, mit denen er sich Herausforderungen stellt, welche die Funktionen des Nintendo 3DS nutzen. Du kannst \"Mega-Eier\" einsetzen, um Blöcke und Röhren zu zerstören und versteckte Münzen oder Schlüssel zu finden. Je mehr du zerstörst, desto höher steigt deine Mega-Ei-Anzeige, wodurch du Extra-Versuche bekommst. Die bildschöne Grafik verwendet viele klassische Stilelemente, z. B. Ölmalerei, Wasserfarben und Buntstiftzeichnungen.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-03-14",
+				"retail": "2014-03-14"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ffdf1e09d827089043131fde23850cf43e59e3b90c6c390ae394ca7c1341ac99.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/11ec37a97d5f3f4cbd93fc620c341b855e1781548a990f13ba8f6a4060b3166a.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7af9905727931c56c646882bb15c8894e7fcd19ea90e340590ce08f285ef0f40.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/26e0f46dca266fde1a71403bcfa8e5262f7a33ef5c742121a4267b022b2c9fc3.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/75514713e656ebe102c73c331d4a0e8c26c01110c99245508830e804f8f28371.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/88ff4da5a3f0536d7d830c5ce17238a6b31a7c02bfa73e7f55f3b3e770a9cb21.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island™: Trailer zum Verkaufsstart",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c3d8da195397da3845b6243c5643f19cd0f9c8c514e41b899b39983db265ce41.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "147"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0d898461b001ea94721ad2ea63f7746fa6f9e326b22b878e605e82f0963ea2c2.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "147"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island: Trailer (E3 2013)",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/04df9c53eb13f955f1b5147e5c8b375e1f00c6eaa14174809b017d793bf36aa8.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7399967abc2640d6144d796b499ec5caadf6a5a175bf9e774103d26b261e32f5.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island: Trailer 2",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd0eae9b7c1f198e4a7e2f7ca24e7cf9d303ac308c1e8a511ba586edd8749079.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "31"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd0eae9b7c1f198e4a7e2f7ca24e7cf9d303ac308c1e8a511ba586edd8749079.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "31"
+					}
+				]
+			}
+		]
+	},
+	"CZ": {
+		"title_id": "0004000000111C00",
+		"eshop_id": "50010000020434",
+		"product_code": "CTR-P-ATAP",
+		"name": "Yoshi's New Island™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/79bd4908d1fbfda2c16634871b4c9cdcb15091a772809de2cb66bc00abadf2f5.jpg",
+		"data_size": "440818580",
+		"description": "Yoshi’s New Island is the first instalment in this series since Yoshi’s Island DS was released in 2006. Yoshi’s good old Flutter Jump, Ground Pound and egg-throwing return, along with new abilities and challenges that take advantage of the features of the Nintendo 3DS. You can use massive eggs called Mega-Eggs to destroy blocks and pipes, revealing secrets such as coins and hidden keys. The more things you destroy, the higher the Mega-Egg gauge goes, netting you extra lives in the process! The beautiful art is based on many classic styles, such as oil painting, watercolours and crayon drawings.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-03-14",
+				"retail": "2014-03-14"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ffdf1e09d827089043131fde23850cf43e59e3b90c6c390ae394ca7c1341ac99.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b3e3e931306ca3eb5a49fa82102c1ce49d2d638cc5b8a6c6ff0c811c1b6088f5.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7af9905727931c56c646882bb15c8894e7fcd19ea90e340590ce08f285ef0f40.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/325fdb0ca83f61c899fb16adb9af16f03f8d1e7a11cb32a044e5f6bfe71f70b1.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/75514713e656ebe102c73c331d4a0e8c26c01110c99245508830e804f8f28371.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8547e7cea11c7d4495e45c47562688c7c558874e4b1ec1e30fb2284c5fb3a628.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island™: Launch Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/32039a82bd4e1ee38f0527782c3487f7cbc0e5fddfbb85407319d72ea261384f.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "147"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5df4c7b97a3456c85c44fb2e38635fc65f9c81800d6691d3993712cbc8aee674.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "147"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island: Trailer (E3 2013)",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/04df9c53eb13f955f1b5147e5c8b375e1f00c6eaa14174809b017d793bf36aa8.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7399967abc2640d6144d796b499ec5caadf6a5a175bf9e774103d26b261e32f5.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island: Trailer 2",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd0eae9b7c1f198e4a7e2f7ca24e7cf9d303ac308c1e8a511ba586edd8749079.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "31"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd0eae9b7c1f198e4a7e2f7ca24e7cf9d303ac308c1e8a511ba586edd8749079.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "31"
+					}
+				]
+			}
+		]
+	},
+	"DK": {
+		"title_id": "0004000000111C00",
+		"eshop_id": "50010000020434",
+		"product_code": "CTR-P-ATAP",
+		"name": "Yoshi's New Island™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/79bd4908d1fbfda2c16634871b4c9cdcb15091a772809de2cb66bc00abadf2f5.jpg",
+		"data_size": "440818580",
+		"description": "Yoshi’s New Island is the first instalment in this series since Yoshi’s Island DS was released in 2006. Yoshi’s good old Flutter Jump, Ground Pound and egg-throwing return, along with new abilities and challenges that take advantage of the features of the Nintendo 3DS. You can use massive eggs called Mega-Eggs to destroy blocks and pipes, revealing secrets such as coins and hidden keys. The more things you destroy, the higher the Mega-Egg gauge goes, netting you extra lives in the process! The beautiful art is based on many classic styles, such as oil painting, watercolours and crayon drawings.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-03-14",
+				"retail": "2014-03-14"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ffdf1e09d827089043131fde23850cf43e59e3b90c6c390ae394ca7c1341ac99.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b3e3e931306ca3eb5a49fa82102c1ce49d2d638cc5b8a6c6ff0c811c1b6088f5.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7af9905727931c56c646882bb15c8894e7fcd19ea90e340590ce08f285ef0f40.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/325fdb0ca83f61c899fb16adb9af16f03f8d1e7a11cb32a044e5f6bfe71f70b1.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/75514713e656ebe102c73c331d4a0e8c26c01110c99245508830e804f8f28371.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8547e7cea11c7d4495e45c47562688c7c558874e4b1ec1e30fb2284c5fb3a628.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island™: Launch Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/32039a82bd4e1ee38f0527782c3487f7cbc0e5fddfbb85407319d72ea261384f.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "147"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5df4c7b97a3456c85c44fb2e38635fc65f9c81800d6691d3993712cbc8aee674.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "147"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island: Trailer (E3 2013)",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/04df9c53eb13f955f1b5147e5c8b375e1f00c6eaa14174809b017d793bf36aa8.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7399967abc2640d6144d796b499ec5caadf6a5a175bf9e774103d26b261e32f5.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island: Trailer 2",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd0eae9b7c1f198e4a7e2f7ca24e7cf9d303ac308c1e8a511ba586edd8749079.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "31"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd0eae9b7c1f198e4a7e2f7ca24e7cf9d303ac308c1e8a511ba586edd8749079.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "31"
+					}
+				]
+			}
+		]
+	},
+	"EE": {
+		"title_id": "0004000000111C00",
+		"eshop_id": "50010000020434",
+		"product_code": "CTR-P-ATAP",
+		"name": "Yoshi's New Island™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/79bd4908d1fbfda2c16634871b4c9cdcb15091a772809de2cb66bc00abadf2f5.jpg",
+		"data_size": "440818580",
+		"description": "Yoshi’s New Island is the first instalment in this series since Yoshi’s Island DS was released in 2006. Yoshi’s good old Flutter Jump, Ground Pound and egg-throwing return, along with new abilities and challenges that take advantage of the features of the Nintendo 3DS. You can use massive eggs called Mega-Eggs to destroy blocks and pipes, revealing secrets such as coins and hidden keys. The more things you destroy, the higher the Mega-Egg gauge goes, netting you extra lives in the process! The beautiful art is based on many classic styles, such as oil painting, watercolours and crayon drawings.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-03-14",
+				"retail": "2014-03-14"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ffdf1e09d827089043131fde23850cf43e59e3b90c6c390ae394ca7c1341ac99.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b3e3e931306ca3eb5a49fa82102c1ce49d2d638cc5b8a6c6ff0c811c1b6088f5.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7af9905727931c56c646882bb15c8894e7fcd19ea90e340590ce08f285ef0f40.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/325fdb0ca83f61c899fb16adb9af16f03f8d1e7a11cb32a044e5f6bfe71f70b1.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/75514713e656ebe102c73c331d4a0e8c26c01110c99245508830e804f8f28371.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8547e7cea11c7d4495e45c47562688c7c558874e4b1ec1e30fb2284c5fb3a628.jpg"
+			}
+		],
+		"movies": []
+	},
+	"ES": {
+		"title_id": "0004000000111C00",
+		"eshop_id": "50010000020434",
+		"product_code": "CTR-P-ATAP",
+		"name": "Yoshi's New Island™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/79bd4908d1fbfda2c16634871b4c9cdcb15091a772809de2cb66bc00abadf2f5.jpg",
+		"data_size": "440818580",
+		"description": "Yoshi’s New Island es la primera entrega de la serie desde el lanzamiento de Yoshi’s Island DS en 2006. Yoshi sigue revoloteando, haciendo temblar el suelo y lanzando huevos en esta ocasión, pero se suman también nuevas habilidades y desafíos que sacan provecho de las características de la consola Nintendo 3DS. Podrás usar huevos gigantes llamados \"Mega-Eggs\" para destruir bloques y tuberías, revelando así objetos ocultos como monedas y llaves. Cuantas más cosas destruyas, más alto estará el marcador \"Mega-Egg\", ¡lo cual te proporcionará vidas extra! Los preciosos gráficos están basados en mucho estilos clásicos, como la pintura al óleo, las acuarelas y las ceras.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-03-14",
+				"retail": "2014-03-14"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ffdf1e09d827089043131fde23850cf43e59e3b90c6c390ae394ca7c1341ac99.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d1985e18d9cfdf597a1461ab4dbc41bebe214ff4e54b499a75dd770a1319b401.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7af9905727931c56c646882bb15c8894e7fcd19ea90e340590ce08f285ef0f40.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9d64e8cd4a70770c9c738a1fac8efbdd05f4c3316b93048be82edb1786f9cf67.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/75514713e656ebe102c73c331d4a0e8c26c01110c99245508830e804f8f28371.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4051bfc6f6468971cef830941380d469dd2ec6249183e559fbcb96fc05f38902.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island™: Tráiler de lanzamiento",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/798520b556013c532ca8e2d518d4868ddfefb8abefeb429b6c94614e6794958d.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "147"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/44c8405dc7d9007215267779af3c8374394c5c123b3f0408cfcfef5414c6340b.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "147"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island: Tráiler (E3 2013)",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/04df9c53eb13f955f1b5147e5c8b375e1f00c6eaa14174809b017d793bf36aa8.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7399967abc2640d6144d796b499ec5caadf6a5a175bf9e774103d26b261e32f5.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island: Tráiler 2",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd0eae9b7c1f198e4a7e2f7ca24e7cf9d303ac308c1e8a511ba586edd8749079.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "31"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd0eae9b7c1f198e4a7e2f7ca24e7cf9d303ac308c1e8a511ba586edd8749079.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "31"
+					}
+				]
+			}
+		]
+	},
+	"FI": {
+		"title_id": "0004000000111C00",
+		"eshop_id": "50010000020434",
+		"product_code": "CTR-P-ATAP",
+		"name": "Yoshi's New Island™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/79bd4908d1fbfda2c16634871b4c9cdcb15091a772809de2cb66bc00abadf2f5.jpg",
+		"data_size": "440818580",
+		"description": "Yoshi’s New Island is the first instalment in this series since Yoshi’s Island DS was released in 2006. Yoshi’s good old Flutter Jump, Ground Pound and egg-throwing return, along with new abilities and challenges that take advantage of the features of the Nintendo 3DS. You can use massive eggs called Mega-Eggs to destroy blocks and pipes, revealing secrets such as coins and hidden keys. The more things you destroy, the higher the Mega-Egg gauge goes, netting you extra lives in the process! The beautiful art is based on many classic styles, such as oil painting, watercolours and crayon drawings.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-03-14",
+				"retail": "2014-03-14"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ffdf1e09d827089043131fde23850cf43e59e3b90c6c390ae394ca7c1341ac99.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b3e3e931306ca3eb5a49fa82102c1ce49d2d638cc5b8a6c6ff0c811c1b6088f5.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7af9905727931c56c646882bb15c8894e7fcd19ea90e340590ce08f285ef0f40.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/325fdb0ca83f61c899fb16adb9af16f03f8d1e7a11cb32a044e5f6bfe71f70b1.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/75514713e656ebe102c73c331d4a0e8c26c01110c99245508830e804f8f28371.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8547e7cea11c7d4495e45c47562688c7c558874e4b1ec1e30fb2284c5fb3a628.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island™: Launch Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/32039a82bd4e1ee38f0527782c3487f7cbc0e5fddfbb85407319d72ea261384f.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "147"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5df4c7b97a3456c85c44fb2e38635fc65f9c81800d6691d3993712cbc8aee674.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "147"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island: Trailer (E3 2013)",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/04df9c53eb13f955f1b5147e5c8b375e1f00c6eaa14174809b017d793bf36aa8.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7399967abc2640d6144d796b499ec5caadf6a5a175bf9e774103d26b261e32f5.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island: Trailer 2",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd0eae9b7c1f198e4a7e2f7ca24e7cf9d303ac308c1e8a511ba586edd8749079.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "31"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd0eae9b7c1f198e4a7e2f7ca24e7cf9d303ac308c1e8a511ba586edd8749079.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "31"
+					}
+				]
+			}
+		]
+	},
+	"FR": {
+		"title_id": "0004000000111C00",
+		"eshop_id": "50010000020434",
+		"product_code": "CTR-P-ATAP",
+		"name": "Yoshi's New Island™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/79bd4908d1fbfda2c16634871b4c9cdcb15091a772809de2cb66bc00abadf2f5.jpg",
+		"data_size": "440818580",
+		"description": "Yoshi's New Island est le premier opus depuis la sortie de Yoshi’s Island DS en 2006. La fameux Saut Plané, l'Attaque Rodéo ou le lancer d'œufs de sont de retour dans ce jeu où Yoshi bénéficie de nouvelles capacités et devra faire face à des défis à résoudre grâce aux fonctionnalités de la Nintendo 3DS. Vous pouvez utiliser des œufs géants pour détruire des blocs et des tuyaux afin de révéler des secrets comme des pièces ou des clés cachées. Plus vous détruisez d'éléments, plus la jauge de Méga Œufs se remplit pour vous donner des vies au passage. Le style graphique est basé sur plusieurs styles graphiques, comme avec de la peinture à l'huile, avec des peintures à l'eau ou des dessins au crayon.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-03-14",
+				"retail": "2014-03-14"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ffdf1e09d827089043131fde23850cf43e59e3b90c6c390ae394ca7c1341ac99.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/475c9246d205670c00c58d3963059ac8d116f95658570fd4c31fcf2f898ed6a4.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7af9905727931c56c646882bb15c8894e7fcd19ea90e340590ce08f285ef0f40.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6c8590acde86f3c3625e6ec1e0aee98bc1bac4843bd214e412b0a2f8d11352e6.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/75514713e656ebe102c73c331d4a0e8c26c01110c99245508830e804f8f28371.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/45b519e1605f235f5b2478e34bca44d4fe29a16b9535095aa82da52125a20492.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island™ : bande-annonce de lancement ",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6066bee32d5d163b608b87699b3f53884f43c49e3f4d803e7951fdaa89ead0ab.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "147"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ff426bbaf629a3bfc0827d5eb204d30176f6ad2ee80572b0bf79458a698f7e18.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "147"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island : bande-annonce (E3 2013)",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/04df9c53eb13f955f1b5147e5c8b375e1f00c6eaa14174809b017d793bf36aa8.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7399967abc2640d6144d796b499ec5caadf6a5a175bf9e774103d26b261e32f5.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island : bande-annonce 2",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd0eae9b7c1f198e4a7e2f7ca24e7cf9d303ac308c1e8a511ba586edd8749079.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "31"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd0eae9b7c1f198e4a7e2f7ca24e7cf9d303ac308c1e8a511ba586edd8749079.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "31"
+					}
+				]
+			}
+		]
+	},
+	"GB": {
+		"title_id": "0004000000111C00",
+		"eshop_id": "50010000020434",
+		"product_code": "CTR-P-ATAP",
+		"name": "Yoshi's New Island™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/79bd4908d1fbfda2c16634871b4c9cdcb15091a772809de2cb66bc00abadf2f5.jpg",
+		"data_size": "440818580",
+		"description": "Yoshi’s New Island is the first instalment in this series since Yoshi’s Island DS was released in 2006. Yoshi’s good old Flutter Jump, Ground Pound and egg-throwing return, along with new abilities and challenges that take advantage of the features of the Nintendo 3DS. You can use massive eggs called Mega-Eggs to destroy blocks and pipes, revealing secrets such as coins and hidden keys. The more things you destroy, the higher the Mega-Egg gauge goes, netting you extra lives in the process! The beautiful art is based on many classic styles, such as oil painting, watercolours and crayon drawings.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-03-14",
+				"retail": "2014-03-14"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ffdf1e09d827089043131fde23850cf43e59e3b90c6c390ae394ca7c1341ac99.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b3e3e931306ca3eb5a49fa82102c1ce49d2d638cc5b8a6c6ff0c811c1b6088f5.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7af9905727931c56c646882bb15c8894e7fcd19ea90e340590ce08f285ef0f40.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/325fdb0ca83f61c899fb16adb9af16f03f8d1e7a11cb32a044e5f6bfe71f70b1.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/75514713e656ebe102c73c331d4a0e8c26c01110c99245508830e804f8f28371.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8547e7cea11c7d4495e45c47562688c7c558874e4b1ec1e30fb2284c5fb3a628.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island™: Launch Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/32039a82bd4e1ee38f0527782c3487f7cbc0e5fddfbb85407319d72ea261384f.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "147"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5df4c7b97a3456c85c44fb2e38635fc65f9c81800d6691d3993712cbc8aee674.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "147"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island: Trailer (E3 2013)",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/04df9c53eb13f955f1b5147e5c8b375e1f00c6eaa14174809b017d793bf36aa8.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7399967abc2640d6144d796b499ec5caadf6a5a175bf9e774103d26b261e32f5.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island: Trailer 2",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd0eae9b7c1f198e4a7e2f7ca24e7cf9d303ac308c1e8a511ba586edd8749079.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "31"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd0eae9b7c1f198e4a7e2f7ca24e7cf9d303ac308c1e8a511ba586edd8749079.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "31"
+					}
+				]
+			}
+		]
+	},
+	"GR": {
+		"title_id": "0004000000111C00",
+		"eshop_id": "50010000020434",
+		"product_code": "CTR-P-ATAP",
+		"name": "Yoshi's New Island™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/79bd4908d1fbfda2c16634871b4c9cdcb15091a772809de2cb66bc00abadf2f5.jpg",
+		"data_size": "440818580",
+		"description": "Yoshi’s New Island is the first instalment in this series since Yoshi’s Island DS was released in 2006. Yoshi’s good old Flutter Jump, Ground Pound and egg-throwing return, along with new abilities and challenges that take advantage of the features of the Nintendo 3DS. You can use massive eggs called Mega-Eggs to destroy blocks and pipes, revealing secrets such as coins and hidden keys. The more things you destroy, the higher the Mega-Egg gauge goes, netting you extra lives in the process! The beautiful art is based on many classic styles, such as oil painting, watercolours and crayon drawings.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-03-14",
+				"retail": "2014-03-14"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ffdf1e09d827089043131fde23850cf43e59e3b90c6c390ae394ca7c1341ac99.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b3e3e931306ca3eb5a49fa82102c1ce49d2d638cc5b8a6c6ff0c811c1b6088f5.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7af9905727931c56c646882bb15c8894e7fcd19ea90e340590ce08f285ef0f40.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/325fdb0ca83f61c899fb16adb9af16f03f8d1e7a11cb32a044e5f6bfe71f70b1.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/75514713e656ebe102c73c331d4a0e8c26c01110c99245508830e804f8f28371.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8547e7cea11c7d4495e45c47562688c7c558874e4b1ec1e30fb2284c5fb3a628.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island™: Launch Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/32039a82bd4e1ee38f0527782c3487f7cbc0e5fddfbb85407319d72ea261384f.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "147"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5df4c7b97a3456c85c44fb2e38635fc65f9c81800d6691d3993712cbc8aee674.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "147"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island: Trailer (E3 2013)",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/04df9c53eb13f955f1b5147e5c8b375e1f00c6eaa14174809b017d793bf36aa8.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7399967abc2640d6144d796b499ec5caadf6a5a175bf9e774103d26b261e32f5.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island: Trailer 2",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd0eae9b7c1f198e4a7e2f7ca24e7cf9d303ac308c1e8a511ba586edd8749079.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "31"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd0eae9b7c1f198e4a7e2f7ca24e7cf9d303ac308c1e8a511ba586edd8749079.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "31"
+					}
+				]
+			}
+		]
+	},
+	"HR": {
+		"title_id": "0004000000111C00",
+		"eshop_id": "50010000020434",
+		"product_code": "CTR-P-ATAP",
+		"name": "Yoshi's New Island™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/79bd4908d1fbfda2c16634871b4c9cdcb15091a772809de2cb66bc00abadf2f5.jpg",
+		"data_size": "440818580",
+		"description": "Yoshi’s New Island is the first instalment in this series since Yoshi’s Island DS was released in 2006. Yoshi’s good old Flutter Jump, Ground Pound and egg-throwing return, along with new abilities and challenges that take advantage of the features of the Nintendo 3DS. You can use massive eggs called Mega-Eggs to destroy blocks and pipes, revealing secrets such as coins and hidden keys. The more things you destroy, the higher the Mega-Egg gauge goes, netting you extra lives in the process! The beautiful art is based on many classic styles, such as oil painting, watercolours and crayon drawings.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-03-14",
+				"retail": "2014-03-14"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ffdf1e09d827089043131fde23850cf43e59e3b90c6c390ae394ca7c1341ac99.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b3e3e931306ca3eb5a49fa82102c1ce49d2d638cc5b8a6c6ff0c811c1b6088f5.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7af9905727931c56c646882bb15c8894e7fcd19ea90e340590ce08f285ef0f40.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/325fdb0ca83f61c899fb16adb9af16f03f8d1e7a11cb32a044e5f6bfe71f70b1.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/75514713e656ebe102c73c331d4a0e8c26c01110c99245508830e804f8f28371.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8547e7cea11c7d4495e45c47562688c7c558874e4b1ec1e30fb2284c5fb3a628.jpg"
+			}
+		],
+		"movies": []
+	},
+	"IE": {
+		"title_id": "0004000000111C00",
+		"eshop_id": "50010000020434",
+		"product_code": "CTR-P-ATAP",
+		"name": "Yoshi's New Island™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/79bd4908d1fbfda2c16634871b4c9cdcb15091a772809de2cb66bc00abadf2f5.jpg",
+		"data_size": "440818580",
+		"description": "Yoshi’s New Island is the first instalment in this series since Yoshi’s Island DS was released in 2006. Yoshi’s good old Flutter Jump, Ground Pound and egg-throwing return, along with new abilities and challenges that take advantage of the features of the Nintendo 3DS. You can use massive eggs called Mega-Eggs to destroy blocks and pipes, revealing secrets such as coins and hidden keys. The more things you destroy, the higher the Mega-Egg gauge goes, netting you extra lives in the process! The beautiful art is based on many classic styles, such as oil painting, watercolours and crayon drawings.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-03-14",
+				"retail": "2014-03-14"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ffdf1e09d827089043131fde23850cf43e59e3b90c6c390ae394ca7c1341ac99.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b3e3e931306ca3eb5a49fa82102c1ce49d2d638cc5b8a6c6ff0c811c1b6088f5.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7af9905727931c56c646882bb15c8894e7fcd19ea90e340590ce08f285ef0f40.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/325fdb0ca83f61c899fb16adb9af16f03f8d1e7a11cb32a044e5f6bfe71f70b1.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/75514713e656ebe102c73c331d4a0e8c26c01110c99245508830e804f8f28371.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8547e7cea11c7d4495e45c47562688c7c558874e4b1ec1e30fb2284c5fb3a628.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island™: Launch Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/32039a82bd4e1ee38f0527782c3487f7cbc0e5fddfbb85407319d72ea261384f.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "147"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5df4c7b97a3456c85c44fb2e38635fc65f9c81800d6691d3993712cbc8aee674.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "147"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island: Trailer (E3 2013)",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/04df9c53eb13f955f1b5147e5c8b375e1f00c6eaa14174809b017d793bf36aa8.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7399967abc2640d6144d796b499ec5caadf6a5a175bf9e774103d26b261e32f5.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island: Trailer 2",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd0eae9b7c1f198e4a7e2f7ca24e7cf9d303ac308c1e8a511ba586edd8749079.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "31"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd0eae9b7c1f198e4a7e2f7ca24e7cf9d303ac308c1e8a511ba586edd8749079.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "31"
+					}
+				]
+			}
+		]
+	},
+	"HU": {
+		"title_id": "0004000000111C00",
+		"eshop_id": "50010000020434",
+		"product_code": "CTR-P-ATAP",
+		"name": "Yoshi's New Island™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/79bd4908d1fbfda2c16634871b4c9cdcb15091a772809de2cb66bc00abadf2f5.jpg",
+		"data_size": "440818580",
+		"description": "Yoshi’s New Island is the first instalment in this series since Yoshi’s Island DS was released in 2006. Yoshi’s good old Flutter Jump, Ground Pound and egg-throwing return, along with new abilities and challenges that take advantage of the features of the Nintendo 3DS. You can use massive eggs called Mega-Eggs to destroy blocks and pipes, revealing secrets such as coins and hidden keys. The more things you destroy, the higher the Mega-Egg gauge goes, netting you extra lives in the process! The beautiful art is based on many classic styles, such as oil painting, watercolours and crayon drawings.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-03-14",
+				"retail": "2014-03-14"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ffdf1e09d827089043131fde23850cf43e59e3b90c6c390ae394ca7c1341ac99.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b3e3e931306ca3eb5a49fa82102c1ce49d2d638cc5b8a6c6ff0c811c1b6088f5.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7af9905727931c56c646882bb15c8894e7fcd19ea90e340590ce08f285ef0f40.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/325fdb0ca83f61c899fb16adb9af16f03f8d1e7a11cb32a044e5f6bfe71f70b1.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/75514713e656ebe102c73c331d4a0e8c26c01110c99245508830e804f8f28371.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8547e7cea11c7d4495e45c47562688c7c558874e4b1ec1e30fb2284c5fb3a628.jpg"
+			}
+		],
+		"movies": []
+	},
+	"IT": {
+		"title_id": "0004000000111C00",
+		"eshop_id": "50010000020434",
+		"product_code": "CTR-P-ATAP",
+		"name": "Yoshi's New Island™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/79bd4908d1fbfda2c16634871b4c9cdcb15091a772809de2cb66bc00abadf2f5.jpg",
+		"data_size": "440818580",
+		"description": "Yoshi’s New Island è il primo capitolo della serie dopo Yoshi's Island DS, uscito nel 2006. I vecchi trucchi di Yoshi, come il Salto svolazzante, lo schianto a terra e il lancio delle uova, tornano, questa volta insieme a nuove abilità e sfide che sfruttano al meglio le possibilita offerte da Nintendo 3DS. Potrai usare delle uova giganti per distruggere blocchi e tubi, rivelando preziosi oggetti nascosti come monete e chiavi. Più distruggi, più si alzerà il livello dell'uovo gigante, regalandoti nuove vite! L'incredibile grafica del gioco è basata su diversi stili classici, come la pittura ad olio, gli acquarelli e i disegni con i pastelli.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-03-14",
+				"retail": "2014-03-14"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ffdf1e09d827089043131fde23850cf43e59e3b90c6c390ae394ca7c1341ac99.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/893b3a7c091a77829134d89cd53ef0537cd5374c2fa96824716358bca79d18b4.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7af9905727931c56c646882bb15c8894e7fcd19ea90e340590ce08f285ef0f40.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/dc0298822630c6c466457f88809c9195b12a792c5423250457a92374e2976cf0.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/75514713e656ebe102c73c331d4a0e8c26c01110c99245508830e804f8f28371.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b70f8bfa42942a11769a5396ca246175ade93d554e8b74d3c03a0f9f4f9fea77.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island™: trailer di lancio",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6632cccdbd4a0fb96b872ab4c4e8c71cb364255bc3221f8174f30b3b311cdd61.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "147"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/09d2e366a7b9dd3830190e1ddc748314bd3ab4846cbfb63f9f611ea979d83958.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "147"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island: trailer (E3 2013)",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/04df9c53eb13f955f1b5147e5c8b375e1f00c6eaa14174809b017d793bf36aa8.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7399967abc2640d6144d796b499ec5caadf6a5a175bf9e774103d26b261e32f5.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island: trailer 2",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd0eae9b7c1f198e4a7e2f7ca24e7cf9d303ac308c1e8a511ba586edd8749079.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "31"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd0eae9b7c1f198e4a7e2f7ca24e7cf9d303ac308c1e8a511ba586edd8749079.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "31"
+					}
+				]
+			}
+		]
+	},
+	"LT": {
+		"title_id": "0004000000111C00",
+		"eshop_id": "50010000020434",
+		"product_code": "CTR-P-ATAP",
+		"name": "Yoshi's New Island™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/79bd4908d1fbfda2c16634871b4c9cdcb15091a772809de2cb66bc00abadf2f5.jpg",
+		"data_size": "440818580",
+		"description": "Yoshi’s New Island is the first instalment in this series since Yoshi’s Island DS was released in 2006. Yoshi’s good old Flutter Jump, Ground Pound and egg-throwing return, along with new abilities and challenges that take advantage of the features of the Nintendo 3DS. You can use massive eggs called Mega-Eggs to destroy blocks and pipes, revealing secrets such as coins and hidden keys. The more things you destroy, the higher the Mega-Egg gauge goes, netting you extra lives in the process! The beautiful art is based on many classic styles, such as oil painting, watercolours and crayon drawings.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-03-14",
+				"retail": "2014-03-14"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ffdf1e09d827089043131fde23850cf43e59e3b90c6c390ae394ca7c1341ac99.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b3e3e931306ca3eb5a49fa82102c1ce49d2d638cc5b8a6c6ff0c811c1b6088f5.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7af9905727931c56c646882bb15c8894e7fcd19ea90e340590ce08f285ef0f40.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/325fdb0ca83f61c899fb16adb9af16f03f8d1e7a11cb32a044e5f6bfe71f70b1.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/75514713e656ebe102c73c331d4a0e8c26c01110c99245508830e804f8f28371.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8547e7cea11c7d4495e45c47562688c7c558874e4b1ec1e30fb2284c5fb3a628.jpg"
+			}
+		],
+		"movies": []
+	},
+	"LV": {
+		"title_id": "0004000000111C00",
+		"eshop_id": "50010000020434",
+		"product_code": "CTR-P-ATAP",
+		"name": "Yoshi's New Island™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/79bd4908d1fbfda2c16634871b4c9cdcb15091a772809de2cb66bc00abadf2f5.jpg",
+		"data_size": "440818580",
+		"description": "Yoshi’s New Island is the first instalment in this series since Yoshi’s Island DS was released in 2006. Yoshi’s good old Flutter Jump, Ground Pound and egg-throwing return, along with new abilities and challenges that take advantage of the features of the Nintendo 3DS. You can use massive eggs called Mega-Eggs to destroy blocks and pipes, revealing secrets such as coins and hidden keys. The more things you destroy, the higher the Mega-Egg gauge goes, netting you extra lives in the process! The beautiful art is based on many classic styles, such as oil painting, watercolours and crayon drawings.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-03-14",
+				"retail": "2014-03-14"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ffdf1e09d827089043131fde23850cf43e59e3b90c6c390ae394ca7c1341ac99.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b3e3e931306ca3eb5a49fa82102c1ce49d2d638cc5b8a6c6ff0c811c1b6088f5.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7af9905727931c56c646882bb15c8894e7fcd19ea90e340590ce08f285ef0f40.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/325fdb0ca83f61c899fb16adb9af16f03f8d1e7a11cb32a044e5f6bfe71f70b1.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/75514713e656ebe102c73c331d4a0e8c26c01110c99245508830e804f8f28371.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8547e7cea11c7d4495e45c47562688c7c558874e4b1ec1e30fb2284c5fb3a628.jpg"
+			}
+		],
+		"movies": []
+	},
+	"LU": {
+		"title_id": "0004000000111C00",
+		"eshop_id": "50010000020434",
+		"product_code": "CTR-P-ATAP",
+		"name": "Yoshi's New Island™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/79bd4908d1fbfda2c16634871b4c9cdcb15091a772809de2cb66bc00abadf2f5.jpg",
+		"data_size": "440818580",
+		"description": "Yoshi's New Island est le premier opus depuis la sortie de Yoshi’s Island DS en 2006. La fameux Saut Plané, l'Attaque Rodéo ou le lancer d'œufs de sont de retour dans ce jeu où Yoshi bénéficie de nouvelles capacités et devra faire face à des défis à résoudre grâce aux fonctionnalités de la Nintendo 3DS. Vous pouvez utiliser des œufs géants pour détruire des blocs et des tuyaux afin de révéler des secrets comme des pièces ou des clés cachées. Plus vous détruisez d'éléments, plus la jauge de Méga Œufs se remplit pour vous donner des vies au passage. Le style graphique est basé sur plusieurs styles graphiques, comme avec de la peinture à l'huile, avec des peintures à l'eau ou des dessins au crayon.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-03-14",
+				"retail": "2014-03-14"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ffdf1e09d827089043131fde23850cf43e59e3b90c6c390ae394ca7c1341ac99.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/475c9246d205670c00c58d3963059ac8d116f95658570fd4c31fcf2f898ed6a4.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7af9905727931c56c646882bb15c8894e7fcd19ea90e340590ce08f285ef0f40.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6c8590acde86f3c3625e6ec1e0aee98bc1bac4843bd214e412b0a2f8d11352e6.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/75514713e656ebe102c73c331d4a0e8c26c01110c99245508830e804f8f28371.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/45b519e1605f235f5b2478e34bca44d4fe29a16b9535095aa82da52125a20492.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island™ : bande-annonce de lancement ",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6066bee32d5d163b608b87699b3f53884f43c49e3f4d803e7951fdaa89ead0ab.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "147"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ff426bbaf629a3bfc0827d5eb204d30176f6ad2ee80572b0bf79458a698f7e18.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "147"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island : bande-annonce (E3 2013)",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/04df9c53eb13f955f1b5147e5c8b375e1f00c6eaa14174809b017d793bf36aa8.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7399967abc2640d6144d796b499ec5caadf6a5a175bf9e774103d26b261e32f5.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island : bande-annonce 2",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd0eae9b7c1f198e4a7e2f7ca24e7cf9d303ac308c1e8a511ba586edd8749079.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "31"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd0eae9b7c1f198e4a7e2f7ca24e7cf9d303ac308c1e8a511ba586edd8749079.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "31"
+					}
+				]
+			}
+		]
+	},
+	"MT": {
+		"title_id": "0004000000111C00",
+		"eshop_id": "50010000020434",
+		"product_code": "CTR-P-ATAP",
+		"name": "Yoshi's New Island™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/79bd4908d1fbfda2c16634871b4c9cdcb15091a772809de2cb66bc00abadf2f5.jpg",
+		"data_size": "440818580",
+		"description": "Yoshi’s New Island is the first instalment in this series since Yoshi’s Island DS was released in 2006. Yoshi’s good old Flutter Jump, Ground Pound and egg-throwing return, along with new abilities and challenges that take advantage of the features of the Nintendo 3DS. You can use massive eggs called Mega-Eggs to destroy blocks and pipes, revealing secrets such as coins and hidden keys. The more things you destroy, the higher the Mega-Egg gauge goes, netting you extra lives in the process! The beautiful art is based on many classic styles, such as oil painting, watercolours and crayon drawings.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-03-14",
+				"retail": "2014-03-14"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ffdf1e09d827089043131fde23850cf43e59e3b90c6c390ae394ca7c1341ac99.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b3e3e931306ca3eb5a49fa82102c1ce49d2d638cc5b8a6c6ff0c811c1b6088f5.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7af9905727931c56c646882bb15c8894e7fcd19ea90e340590ce08f285ef0f40.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/325fdb0ca83f61c899fb16adb9af16f03f8d1e7a11cb32a044e5f6bfe71f70b1.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/75514713e656ebe102c73c331d4a0e8c26c01110c99245508830e804f8f28371.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8547e7cea11c7d4495e45c47562688c7c558874e4b1ec1e30fb2284c5fb3a628.jpg"
+			}
+		],
+		"movies": []
+	},
+	"NO": {
+		"title_id": "0004000000111C00",
+		"eshop_id": "50010000020434",
+		"product_code": "CTR-P-ATAP",
+		"name": "Yoshi's New Island™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/79bd4908d1fbfda2c16634871b4c9cdcb15091a772809de2cb66bc00abadf2f5.jpg",
+		"data_size": "440818580",
+		"description": "Yoshi’s New Island is the first instalment in this series since Yoshi’s Island DS was released in 2006. Yoshi’s good old Flutter Jump, Ground Pound and egg-throwing return, along with new abilities and challenges that take advantage of the features of the Nintendo 3DS. You can use massive eggs called Mega-Eggs to destroy blocks and pipes, revealing secrets such as coins and hidden keys. The more things you destroy, the higher the Mega-Egg gauge goes, netting you extra lives in the process! The beautiful art is based on many classic styles, such as oil painting, watercolours and crayon drawings.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-03-14",
+				"retail": "2014-03-14"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ffdf1e09d827089043131fde23850cf43e59e3b90c6c390ae394ca7c1341ac99.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b3e3e931306ca3eb5a49fa82102c1ce49d2d638cc5b8a6c6ff0c811c1b6088f5.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7af9905727931c56c646882bb15c8894e7fcd19ea90e340590ce08f285ef0f40.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/325fdb0ca83f61c899fb16adb9af16f03f8d1e7a11cb32a044e5f6bfe71f70b1.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/75514713e656ebe102c73c331d4a0e8c26c01110c99245508830e804f8f28371.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8547e7cea11c7d4495e45c47562688c7c558874e4b1ec1e30fb2284c5fb3a628.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island™: Launch Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/32039a82bd4e1ee38f0527782c3487f7cbc0e5fddfbb85407319d72ea261384f.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "147"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5df4c7b97a3456c85c44fb2e38635fc65f9c81800d6691d3993712cbc8aee674.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "147"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island: Trailer (E3 2013)",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/04df9c53eb13f955f1b5147e5c8b375e1f00c6eaa14174809b017d793bf36aa8.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7399967abc2640d6144d796b499ec5caadf6a5a175bf9e774103d26b261e32f5.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island: Trailer 2",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd0eae9b7c1f198e4a7e2f7ca24e7cf9d303ac308c1e8a511ba586edd8749079.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "31"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd0eae9b7c1f198e4a7e2f7ca24e7cf9d303ac308c1e8a511ba586edd8749079.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "31"
+					}
+				]
+			}
+		]
+	},
+	"NL": {
+		"title_id": "0004000000111C00",
+		"eshop_id": "50010000020434",
+		"product_code": "CTR-P-ATAP",
+		"name": "Yoshi's New Island™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/79bd4908d1fbfda2c16634871b4c9cdcb15091a772809de2cb66bc00abadf2f5.jpg",
+		"data_size": "440818580",
+		"description": "Yoshi's New Island is het eerste deel in de serie sinds Yoshi's Island DS uit 2006. Yoshi's oude vertrouwde fladdersprong, stampsprong en eierworpen zijn weer terug, naast nieuwe krachten en uitdagingen die gebruik maken van de onderdelen van Nintendo 3DS. Gebruik reusachtige eieren die Mega-Eggs heten, om blokken en pijpen te vernietigen en geheimen te onthullen. Hoe meer je vernielt, hoe meer de Mega-Egg-meter gevuld wordt, wat je extra levens oplevert! Het prachtige uiterlijk is gebaseerd op verschillende kunstmaterialen, waaronder olieverf, waterverf en pastelkrijt.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-03-14",
+				"retail": "2014-03-14"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ffdf1e09d827089043131fde23850cf43e59e3b90c6c390ae394ca7c1341ac99.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/900a364df813dfc970f22b040beba55df5a0f678a81c26912b3359c5f6fc2a6b.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7af9905727931c56c646882bb15c8894e7fcd19ea90e340590ce08f285ef0f40.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ea832af270af791ee085dc27741db08a5f81301e98a39289bdf422b12120631e.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/75514713e656ebe102c73c331d4a0e8c26c01110c99245508830e804f8f28371.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/87720a9a55edb0462cb64ee86e787d9551ee781748f613016574ae0405bc264c.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island™: Introductietrailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c01385b985162f72d43ec97b022137bdf93d360fc5784f39875cc8ed2bc103d2.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "147"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/23a25dcc5816577559b6dfc172fdf98f476e69111f8576cb7a59662eaa6d0531.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "147"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island: Trailer (E3 2013)",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/04df9c53eb13f955f1b5147e5c8b375e1f00c6eaa14174809b017d793bf36aa8.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7399967abc2640d6144d796b499ec5caadf6a5a175bf9e774103d26b261e32f5.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island: Trailer 2",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd0eae9b7c1f198e4a7e2f7ca24e7cf9d303ac308c1e8a511ba586edd8749079.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "31"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd0eae9b7c1f198e4a7e2f7ca24e7cf9d303ac308c1e8a511ba586edd8749079.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "31"
+					}
+				]
+			}
+		]
+	},
+	"NZ": {
+		"title_id": "0004000000111C00",
+		"eshop_id": "50010000020434",
+		"product_code": "CTR-P-ATAP",
+		"name": "Yoshi's New Island™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/79bd4908d1fbfda2c16634871b4c9cdcb15091a772809de2cb66bc00abadf2f5.jpg",
+		"data_size": "440818580",
+		"description": "Yoshi’s New Island is the first instalment in this series since Yoshi’s Island DS was released in 2006. Yoshi’s good old Flutter Jump, Ground Pound and egg-throwing return, along with new abilities and challenges that take advantage of the features of the Nintendo 3DS. You can use massive eggs called Mega-Eggs to destroy blocks and pipes, revealing secrets such as coins and hidden keys. The more things you destroy, the higher the Mega-Egg gauge goes, netting you extra lives in the process! The beautiful art is based on many classic styles, such as oil painting, watercolours and crayon drawings.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2013-03-15",
+				"retail": "2014-03-14"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ffdf1e09d827089043131fde23850cf43e59e3b90c6c390ae394ca7c1341ac99.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b3e3e931306ca3eb5a49fa82102c1ce49d2d638cc5b8a6c6ff0c811c1b6088f5.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7af9905727931c56c646882bb15c8894e7fcd19ea90e340590ce08f285ef0f40.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/325fdb0ca83f61c899fb16adb9af16f03f8d1e7a11cb32a044e5f6bfe71f70b1.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/75514713e656ebe102c73c331d4a0e8c26c01110c99245508830e804f8f28371.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8547e7cea11c7d4495e45c47562688c7c558874e4b1ec1e30fb2284c5fb3a628.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island: Trailer (E3 2013)",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/04df9c53eb13f955f1b5147e5c8b375e1f00c6eaa14174809b017d793bf36aa8.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7399967abc2640d6144d796b499ec5caadf6a5a175bf9e774103d26b261e32f5.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island: Trailer 2",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd0eae9b7c1f198e4a7e2f7ca24e7cf9d303ac308c1e8a511ba586edd8749079.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "31"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd0eae9b7c1f198e4a7e2f7ca24e7cf9d303ac308c1e8a511ba586edd8749079.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "31"
+					}
+				]
+			}
+		]
+	},
+	"PL": {
+		"title_id": "0004000000111C00",
+		"eshop_id": "50010000020434",
+		"product_code": "CTR-P-ATAP",
+		"name": "Yoshi's New Island™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/79bd4908d1fbfda2c16634871b4c9cdcb15091a772809de2cb66bc00abadf2f5.jpg",
+		"data_size": "440818580",
+		"description": "Yoshi’s New Island is the first instalment in this series since Yoshi’s Island DS was released in 2006. Yoshi’s good old Flutter Jump, Ground Pound and egg-throwing return, along with new abilities and challenges that take advantage of the features of the Nintendo 3DS. You can use massive eggs called Mega-Eggs to destroy blocks and pipes, revealing secrets such as coins and hidden keys. The more things you destroy, the higher the Mega-Egg gauge goes, netting you extra lives in the process! The beautiful art is based on many classic styles, such as oil painting, watercolours and crayon drawings.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-03-14",
+				"retail": "2014-03-14"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ffdf1e09d827089043131fde23850cf43e59e3b90c6c390ae394ca7c1341ac99.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b3e3e931306ca3eb5a49fa82102c1ce49d2d638cc5b8a6c6ff0c811c1b6088f5.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7af9905727931c56c646882bb15c8894e7fcd19ea90e340590ce08f285ef0f40.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/325fdb0ca83f61c899fb16adb9af16f03f8d1e7a11cb32a044e5f6bfe71f70b1.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/75514713e656ebe102c73c331d4a0e8c26c01110c99245508830e804f8f28371.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8547e7cea11c7d4495e45c47562688c7c558874e4b1ec1e30fb2284c5fb3a628.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island™: Launch Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/32039a82bd4e1ee38f0527782c3487f7cbc0e5fddfbb85407319d72ea261384f.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "147"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5df4c7b97a3456c85c44fb2e38635fc65f9c81800d6691d3993712cbc8aee674.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "147"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island: Trailer (E3 2013)",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/04df9c53eb13f955f1b5147e5c8b375e1f00c6eaa14174809b017d793bf36aa8.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7399967abc2640d6144d796b499ec5caadf6a5a175bf9e774103d26b261e32f5.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island: Trailer 2",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd0eae9b7c1f198e4a7e2f7ca24e7cf9d303ac308c1e8a511ba586edd8749079.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "31"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd0eae9b7c1f198e4a7e2f7ca24e7cf9d303ac308c1e8a511ba586edd8749079.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "31"
+					}
+				]
+			}
+		]
+	},
+	"PT": {
+		"title_id": "0004000000111C00",
+		"eshop_id": "50010000020434",
+		"product_code": "CTR-P-ATAP",
+		"name": "Yoshi's New Island™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/79bd4908d1fbfda2c16634871b4c9cdcb15091a772809de2cb66bc00abadf2f5.jpg",
+		"data_size": "440818580",
+		"description": "Yoshi's New Island é o primeiro título da série desde Yoshi's Island DS, em 2006. As clássicas jogadas de Yoshi, como o Flutter Jump, o Ground Pound e o lançamento de ovos, regressam e trazem consigo novas habilidades e desafios que tiram o maior partido das capacidades únicas da Nintendo 3DS. Podes utilizar ovos gigantes chamados Mega-Eggs para destruíres blocos e canos que revelarão segredos como moedas e chaves escondidas. Quantas mais coisas destruíres, mais o medidor de Mega-Eggs subirá, o que te valerá vidas extra! A deslumbrante arte do jogo é baseada em muitos estilos artísticos clássicos, como pinturas a óleo, aguarelas e desenhos com lápis de cera.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-03-14",
+				"retail": "2014-03-14"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ffdf1e09d827089043131fde23850cf43e59e3b90c6c390ae394ca7c1341ac99.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/50efb7d125135307cfed2e12db221649ce75155f33b0ab53f08eb1fe6bc1a628.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7af9905727931c56c646882bb15c8894e7fcd19ea90e340590ce08f285ef0f40.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8a9610a933ba42665b016411d4da846aa76abcbf694246b187a61e460997400a.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/75514713e656ebe102c73c331d4a0e8c26c01110c99245508830e804f8f28371.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4d4ceada3ff70cd6e76cc987a84dbc790809ade68cf7c00fffab3b8ed3ac37a0.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island™: Trailer de lançamento",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9148ef0bdf3fa161986057cf557f68b9d18865b7f392c83395ef6c19b1efd4a3.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "147"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/824b1bc87cc98f0dc9e7b3c5c124b4be14ca32249db3e0383357612ae34018ea.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "147"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island: Trailer (E3 2013)",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/04df9c53eb13f955f1b5147e5c8b375e1f00c6eaa14174809b017d793bf36aa8.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7399967abc2640d6144d796b499ec5caadf6a5a175bf9e774103d26b261e32f5.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island: Trailer 2",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd0eae9b7c1f198e4a7e2f7ca24e7cf9d303ac308c1e8a511ba586edd8749079.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "31"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd0eae9b7c1f198e4a7e2f7ca24e7cf9d303ac308c1e8a511ba586edd8749079.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "31"
+					}
+				]
+			}
+		]
+	},
+	"RU": {
+		"title_id": "0004000000111C00",
+		"eshop_id": "50010000020434",
+		"product_code": "CTR-P-ATAP",
+		"name": "Yoshi's New Island™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/79bd4908d1fbfda2c16634871b4c9cdcb15091a772809de2cb66bc00abadf2f5.jpg",
+		"data_size": "440818580",
+		"description": "Yoshi’s New Island — это первая игра этой серии со времен Yoshi’s Island DS, которая была выпущена в 2006 году. Уже полюбившиеся приемы йоши — прыжок-полет, удар о землю и бросок яйца — а также новые возможности и испытания, предстают в новом свете на Nintendo 3DS. Вы можете использовать большие яйца (Mega-Eggs), чтобы разрушать блоки и трубы, открывая секреты, например монетки и спрятанные ключи. Чем больше разрушаете, тем больше заполняется индикатор Mega-Egg, — и вы получаете дополнительные жизни! Создатели высокохудожественного дизайна вдохновлялись изобразительным искусством с использованием масляных красок, акварели и мелков.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-03-14",
+				"retail": "2014-03-14"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ffdf1e09d827089043131fde23850cf43e59e3b90c6c390ae394ca7c1341ac99.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/fdbc0618fd86979b12c8ab5960f44f04cae4fd57d0f603e25e5ed2cd4b515acc.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7af9905727931c56c646882bb15c8894e7fcd19ea90e340590ce08f285ef0f40.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ff2a73faad72573acf364caace804728a2443b2d3324155ac4a50f4234b7e9e3.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/75514713e656ebe102c73c331d4a0e8c26c01110c99245508830e804f8f28371.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0f2bb5d6e3c8d2d7c9f4a2201452993efdbbbf8e8246da81be595688e0597f2b.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island™: трейлер к выходу игры",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e4cf2ecb1ef8dc422c043cbd93934bcfc2d5cd1449b02c5fc2a322a78f453a55.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "147"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/26b16f90b01537d72d6b00fe0504bdd0ce6a9c5c1af7dca42bfbf157996615a6.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "147"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island: трейлер (E3 2013)",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/04df9c53eb13f955f1b5147e5c8b375e1f00c6eaa14174809b017d793bf36aa8.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7399967abc2640d6144d796b499ec5caadf6a5a175bf9e774103d26b261e32f5.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island: трейлер 2",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd0eae9b7c1f198e4a7e2f7ca24e7cf9d303ac308c1e8a511ba586edd8749079.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "31"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd0eae9b7c1f198e4a7e2f7ca24e7cf9d303ac308c1e8a511ba586edd8749079.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "31"
+					}
+				]
+			}
+		]
+	},
+	"SE": {
+		"title_id": "0004000000111C00",
+		"eshop_id": "50010000020434",
+		"product_code": "CTR-P-ATAP",
+		"name": "Yoshi's New Island™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/79bd4908d1fbfda2c16634871b4c9cdcb15091a772809de2cb66bc00abadf2f5.jpg",
+		"data_size": "440818580",
+		"description": "Yoshi’s New Island is the first instalment in this series since Yoshi’s Island DS was released in 2006. Yoshi’s good old Flutter Jump, Ground Pound and egg-throwing return, along with new abilities and challenges that take advantage of the features of the Nintendo 3DS. You can use massive eggs called Mega-Eggs to destroy blocks and pipes, revealing secrets such as coins and hidden keys. The more things you destroy, the higher the Mega-Egg gauge goes, netting you extra lives in the process! The beautiful art is based on many classic styles, such as oil painting, watercolours and crayon drawings.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-03-14",
+				"retail": "2014-03-14"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ffdf1e09d827089043131fde23850cf43e59e3b90c6c390ae394ca7c1341ac99.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b3e3e931306ca3eb5a49fa82102c1ce49d2d638cc5b8a6c6ff0c811c1b6088f5.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7af9905727931c56c646882bb15c8894e7fcd19ea90e340590ce08f285ef0f40.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/325fdb0ca83f61c899fb16adb9af16f03f8d1e7a11cb32a044e5f6bfe71f70b1.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/75514713e656ebe102c73c331d4a0e8c26c01110c99245508830e804f8f28371.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8547e7cea11c7d4495e45c47562688c7c558874e4b1ec1e30fb2284c5fb3a628.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island™: Launch Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/32039a82bd4e1ee38f0527782c3487f7cbc0e5fddfbb85407319d72ea261384f.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "147"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5df4c7b97a3456c85c44fb2e38635fc65f9c81800d6691d3993712cbc8aee674.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "147"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island: Trailer (E3 2013)",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/04df9c53eb13f955f1b5147e5c8b375e1f00c6eaa14174809b017d793bf36aa8.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7399967abc2640d6144d796b499ec5caadf6a5a175bf9e774103d26b261e32f5.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island: Trailer 2",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd0eae9b7c1f198e4a7e2f7ca24e7cf9d303ac308c1e8a511ba586edd8749079.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "31"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd0eae9b7c1f198e4a7e2f7ca24e7cf9d303ac308c1e8a511ba586edd8749079.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "31"
+					}
+				]
+			}
+		]
+	},
+	"RO": {
+		"title_id": "0004000000111C00",
+		"eshop_id": "50010000020434",
+		"product_code": "CTR-P-ATAP",
+		"name": "Yoshi's New Island™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/79bd4908d1fbfda2c16634871b4c9cdcb15091a772809de2cb66bc00abadf2f5.jpg",
+		"data_size": "440818580",
+		"description": "Yoshi’s New Island is the first instalment in this series since Yoshi’s Island DS was released in 2006. Yoshi’s good old Flutter Jump, Ground Pound and egg-throwing return, along with new abilities and challenges that take advantage of the features of the Nintendo 3DS. You can use massive eggs called Mega-Eggs to destroy blocks and pipes, revealing secrets such as coins and hidden keys. The more things you destroy, the higher the Mega-Egg gauge goes, netting you extra lives in the process! The beautiful art is based on many classic styles, such as oil painting, watercolours and crayon drawings.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-03-14",
+				"retail": "2014-03-14"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ffdf1e09d827089043131fde23850cf43e59e3b90c6c390ae394ca7c1341ac99.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b3e3e931306ca3eb5a49fa82102c1ce49d2d638cc5b8a6c6ff0c811c1b6088f5.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7af9905727931c56c646882bb15c8894e7fcd19ea90e340590ce08f285ef0f40.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/325fdb0ca83f61c899fb16adb9af16f03f8d1e7a11cb32a044e5f6bfe71f70b1.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/75514713e656ebe102c73c331d4a0e8c26c01110c99245508830e804f8f28371.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8547e7cea11c7d4495e45c47562688c7c558874e4b1ec1e30fb2284c5fb3a628.jpg"
+			}
+		],
+		"movies": []
+	},
+	"SK": {
+		"title_id": "0004000000111C00",
+		"eshop_id": "50010000020434",
+		"product_code": "CTR-P-ATAP",
+		"name": "Yoshi's New Island™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/79bd4908d1fbfda2c16634871b4c9cdcb15091a772809de2cb66bc00abadf2f5.jpg",
+		"data_size": "440818580",
+		"description": "Yoshi’s New Island is the first instalment in this series since Yoshi’s Island DS was released in 2006. Yoshi’s good old Flutter Jump, Ground Pound and egg-throwing return, along with new abilities and challenges that take advantage of the features of the Nintendo 3DS. You can use massive eggs called Mega-Eggs to destroy blocks and pipes, revealing secrets such as coins and hidden keys. The more things you destroy, the higher the Mega-Egg gauge goes, netting you extra lives in the process! The beautiful art is based on many classic styles, such as oil painting, watercolours and crayon drawings.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-03-14",
+				"retail": "2014-03-14"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ffdf1e09d827089043131fde23850cf43e59e3b90c6c390ae394ca7c1341ac99.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b3e3e931306ca3eb5a49fa82102c1ce49d2d638cc5b8a6c6ff0c811c1b6088f5.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7af9905727931c56c646882bb15c8894e7fcd19ea90e340590ce08f285ef0f40.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/325fdb0ca83f61c899fb16adb9af16f03f8d1e7a11cb32a044e5f6bfe71f70b1.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/75514713e656ebe102c73c331d4a0e8c26c01110c99245508830e804f8f28371.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8547e7cea11c7d4495e45c47562688c7c558874e4b1ec1e30fb2284c5fb3a628.jpg"
+			}
+		],
+		"movies": []
+	},
+	"SI": {
+		"title_id": "0004000000111C00",
+		"eshop_id": "50010000020434",
+		"product_code": "CTR-P-ATAP",
+		"name": "Yoshi's New Island™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/79bd4908d1fbfda2c16634871b4c9cdcb15091a772809de2cb66bc00abadf2f5.jpg",
+		"data_size": "440818580",
+		"description": "Yoshi’s New Island is the first instalment in this series since Yoshi’s Island DS was released in 2006. Yoshi’s good old Flutter Jump, Ground Pound and egg-throwing return, along with new abilities and challenges that take advantage of the features of the Nintendo 3DS. You can use massive eggs called Mega-Eggs to destroy blocks and pipes, revealing secrets such as coins and hidden keys. The more things you destroy, the higher the Mega-Egg gauge goes, netting you extra lives in the process! The beautiful art is based on many classic styles, such as oil painting, watercolours and crayon drawings.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-03-14",
+				"retail": "2014-03-14"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ffdf1e09d827089043131fde23850cf43e59e3b90c6c390ae394ca7c1341ac99.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b3e3e931306ca3eb5a49fa82102c1ce49d2d638cc5b8a6c6ff0c811c1b6088f5.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7af9905727931c56c646882bb15c8894e7fcd19ea90e340590ce08f285ef0f40.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/325fdb0ca83f61c899fb16adb9af16f03f8d1e7a11cb32a044e5f6bfe71f70b1.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/75514713e656ebe102c73c331d4a0e8c26c01110c99245508830e804f8f28371.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8547e7cea11c7d4495e45c47562688c7c558874e4b1ec1e30fb2284c5fb3a628.jpg"
+			}
+		],
+		"movies": []
+	},
+	"ZA": {
+		"title_id": "0004000000111C00",
+		"eshop_id": "50010000020434",
+		"product_code": "CTR-P-ATAP",
+		"name": "Yoshi's New Island™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/79bd4908d1fbfda2c16634871b4c9cdcb15091a772809de2cb66bc00abadf2f5.jpg",
+		"data_size": "440818580",
+		"description": "Yoshi’s New Island is the first instalment in this series since Yoshi’s Island DS was released in 2006. Yoshi’s good old Flutter Jump, Ground Pound and egg-throwing return, along with new abilities and challenges that take advantage of the features of the Nintendo 3DS. You can use massive eggs called Mega-Eggs to destroy blocks and pipes, revealing secrets such as coins and hidden keys. The more things you destroy, the higher the Mega-Egg gauge goes, netting you extra lives in the process! The beautiful art is based on many classic styles, such as oil painting, watercolours and crayon drawings.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-03-14",
+				"retail": "2014-03-14"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ffdf1e09d827089043131fde23850cf43e59e3b90c6c390ae394ca7c1341ac99.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b3e3e931306ca3eb5a49fa82102c1ce49d2d638cc5b8a6c6ff0c811c1b6088f5.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7af9905727931c56c646882bb15c8894e7fcd19ea90e340590ce08f285ef0f40.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/325fdb0ca83f61c899fb16adb9af16f03f8d1e7a11cb32a044e5f6bfe71f70b1.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/75514713e656ebe102c73c331d4a0e8c26c01110c99245508830e804f8f28371.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8547e7cea11c7d4495e45c47562688c7c558874e4b1ec1e30fb2284c5fb3a628.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island™: Launch Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/32039a82bd4e1ee38f0527782c3487f7cbc0e5fddfbb85407319d72ea261384f.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "147"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5df4c7b97a3456c85c44fb2e38635fc65f9c81800d6691d3993712cbc8aee674.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "147"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island: Trailer (E3 2013)",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/04df9c53eb13f955f1b5147e5c8b375e1f00c6eaa14174809b017d793bf36aa8.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7399967abc2640d6144d796b499ec5caadf6a5a175bf9e774103d26b261e32f5.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21447afd611a0715a049f61357d51b6e3c5097f7e3d2f8f2a65a15554b1c563e.jpg",
+				"name": "Yoshi's New Island: Trailer 2",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd0eae9b7c1f198e4a7e2f7ca24e7cf9d303ac308c1e8a511ba586edd8749079.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "31"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd0eae9b7c1f198e4a7e2f7ca24e7cf9d303ac308c1e8a511ba586edd8749079.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "31"
+					}
+				]
+			}
+		]
+	}
+}

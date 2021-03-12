@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000F702300",
+	"eshop_id": "50010000041326",
+	"product_code": "KTR-N-UALJ",
+	"name": "スーパーパンチアウト!!",
+	"platform": 1004,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c8b513bb300171ef854e6b920a0f7f548b22ab719442373a0287a3bb4357e599.jpg",
+	"data_size": "5765988",
+	"description": "このソフトは、1998年にスーパーファミコンのカセット書き換えシステム「ニンテンドウパワー」より発売されたスポーツゲームです。 ボクサーである主人公が、世界各国の個性豊かな強豪たちに挑戦します。パンチやダッキング、スウェーなど、本格的なボクシングのアクションを簡単な操作で行うことができ、強烈な威力のスペシャルパンチも繰り出せます。相手の動きや特徴に合わせてこれらのアクションを駆使し、チャンピオンをめざしてください。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-11-21",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/346ad411c269509c62e6d20928b2c9e33fc79f5b37a7ba2e0b04456925fcf9ab.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8ea48176f2c4d1b845d0ddd4de6d651019796a09d8964ae1179d8d85f86064a8.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2a02f265d1b511485616d50c56651b86b4b5bd144bffc0a3b8bb774711fbe6b3.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/64dc2dd088b20d8c577f72075cee06fa08905c70f486114fff14c68a71167fa8.jpg",
+			"name": "スーパーパンチアウト!! プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a2ba81e1930d7b6553b03f1c8e246eea0635a4b43d0331676d4d702a58adfff5.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "61"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/69f17150bc3b5a737d2c08078a2c3da5a776791070658868e21cf13991a1fcb0.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "61"
+				}
+			]
+		}
+	]
+}

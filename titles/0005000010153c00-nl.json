@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010153C00",
+	"eshop_id": "20010000006386",
+	"product_code": "WUP-N-FB8P",
+	"name": "Castlevania® Ⅱ Simon's Quest",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/df80565f3c1bc892bf7c3cfe0b63ea5d2965885ae5eb25f1f3f413eb7f849e60.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/78f372194ef32c4bf591d79105788b4bb934250b98d313992eb6b31cd27254fc.jpg",
+	"data_size": "36569228",
+	"description": "De beroemde vampierjager Simon Belmont is terug in Castlevania II: Simon’s Quest. Na zijn overwinning op Dracula in het oorspronkelijke spel, is Belmont getroffen door een dodelijke vloek en moet hij de vermiste lichaamsdelen van Dracula opsporen om ze te vernietigen en zichzelf te redden. Castlevania II gaat verder dan het voorgaande spel met de toevoeging van nieuwe elementen en een dag- en nachtsysteem. Praat overdag met de plaatselijke bewoners en verzamel aanwijzingen en wapens, en bereid je vervolgens voor op de wezens die zullen verschijnen na zonsondergang! Als je deze titel hebt gekocht op je Wii™, kom je in aanmerking voor een speciale upgrade-prijs als je je gegevens overzet van Wii naar Wii U™. Dit is de Amerikaanse versie van het spel.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-05-01",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/cc5bd1edf6a99d68ddc4d9dd86fe3365344a5084919cd00e073aa934e50a9add.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8f657c42076d8d7e6da7f2e9223273216d68253ed23bfa2f155bef1e47ce6d09.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/62c53ed74919a9788f552fd31604fff3db32c345908ca8d68a433fc5bec04c8b.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2da4c0b4fab3f894f724971849cc5fa3eae42b664ddf05eabc59dbba8fd54e6f.jpg",
+			"name": "Castlevania® Ⅱ Simon's Quest: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c4d126d8825a2a6eb8ec5f1d90ab2d46a0a7f6e6f422e8a6c3085701eaf5c580.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "41"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f9c73aa541b884be6d9fd51a6df538aa94070543dad2619cf97e191324af7f7e.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "41"
+				}
+			]
+		}
+	]
+}

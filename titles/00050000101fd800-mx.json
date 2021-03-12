@@ -1,0 +1,53 @@
+{
+	"title_id": "00050000101FD800",
+	"eshop_id": "20010000022887",
+	"product_code": "WUP-N-BR4E",
+	"name": "Prism Pets",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1479,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/83d8531f324e76cca42601fd2ab7027f2d7ddbfc7b1e6af8e189f498689d0780.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c9c370b2977a7cc4ec0a1f3f7f391ef1471659b8f2a2f4daf7a191fd0998da89.jpg",
+	"data_size": "146243724",
+	"description": "Prism Pets es un juego de puzzle encantador que combina animales lindos con todos los colores del arco iris. marca Craft nuevos colores por deslizamiento alrededor del campo de juego, pero no lo llene o se acabó el juego! Con cientos de diferentes combinaciones y casi una docena de animales diferentes para jugar, Prism admiten proporciona horas de destrozos, estrellarse, diversión colorida. Desafío sin fin de un modo de juego sencillo Una banda sonora relajante Mascotas adorables y colores brillantes hacen de este un gran juego para todas las edades",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-06-30",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/ee3e2376dedddc7de3c1270b2bb9dabfee1e9836b52f9211c811d28438eda104.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f38009d39e531cb7e6561232c488bbb2723ba436704035b43158699bc746b41b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8f1b6183f954bf72ad36c7cce6a22a1039d21705f12f9360c3ef52ad4f1281c1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c2b367898817bac11c4eeb1d92bab919fdedaba7efac9372913ed6034e88f897.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b0776ddd9065f0fb15b5c8ffd3a7f459ce3a8100048030b46ec4163e8b88dee4.jpg",
+			"name": "Avance para lanzamiento Prism Pets",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0f81679eba820241e971014d9a8e32624b9d2ea5000122137f988165f8170dbc.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/512dd321836f7979578aad1f58ea23375abf03d307bf4f6c47104d07d978208e.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				}
+			]
+		}
+	]
+}

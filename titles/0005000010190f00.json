@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010190F00",
+		"eshop_id": "20010000010707",
+		"product_code": "WUP-N-JC8J",
+		"name": "太閤立志伝",
+		"platform": 164,
+		"platform_device": "WUP",
+		"publisher": 267,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/da3972eb9a7a3fa2b3ee1b3b781321331fe5d7101f41a6b05d2b5238899bced9.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6f90fa9e79e60769a00312ee016eeaf0b38805bb780f05ce6efab2bf7e42c3ce.jpg",
+		"data_size": "43319456",
+		"description": "このソフトは、1993年に発売されたスーパーファミコン用のシミュレーションゲームです。 木下藤吉郎、のちの豊臣秀吉となって、桶狭間の戦いや本能寺の変などさまざまな歴史的事件を体験しながら、全国統一をめざします。織田信長や柴田勝家、徳川家康など、秀吉と関係のあった武将も登場します。織田信長の下でさまざまな仕事を行い、信頼を得ていきましょう。信頼を得ることで出世でき、難しい仕事を任されるようになります。仕事を達成すべく、メイン画面で主人公を操作し、全国各地の町や城を訪れてください。大名になると、自国の方針をすべて自分で決めることになります。敵国の城を攻略したり、他国の城主を調略して自国に引き入れたりなど、勢力を拡大しながらゲームクリアをめざしてください。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-05-20",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/8f2b6d472945e8dcff23dab8d445898d0b1fde4dc64c519e2c55a356bb6e54c6.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/22494544f51e29b3c34c3a2ab308b8e6541e4d665d3cd3611c005264a73a1836.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/78fae10ab1c5428f8bb717627530f82a556e6a2cd38c2d078f74144578c3b373.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e955c5f753d844d1d3fce5cee2a6bcfde6cb1671ec1835078bfe2a09a0d90222.jpg",
+				"name": "太閤立志伝 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e2ebc3d1ca062303ab4a735b7a65b5ad2af6a90de3137398627361b8a53db467.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "59"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/57b75d79f60def338c263409996f42de0a3f306e73b131eaee56103d61608274.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "59"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000017F800",
+	"eshop_id": "50010000039035",
+	"product_code": "CTR-N-KCAJ",
+	"name": "ハコボーイ！ もうひとハコ",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b144a6f59fa736f0798e7d84362e54fe77e8e95b8d193f00776c144085799f2f.jpg",
+	"data_size": "93121380",
+	"description": "ハコを出すことができる主人公「キュービィ」を操作して、さまざまな障害物を乗り越えゴールを目指す『ハコボーイ！』シリーズ第2弾。 本作ではキュービィがパワーアップし、なんと、ハコを2つ出せるようになりました。ステージも負けじとパワーアップし、新たな仕掛けとともにキュービィを待ち受けます。仕掛けを動かしたり、ハコにハコを引っかけて高い段差を乗り越えたり。2つのハコをどう使うか、ひらめきで解き進むパズルアクションゲームです。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-01-06",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8ed7252263befb94e578592cfd635a201ad64cc3b208294e298a66533ff03421.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/73347dccbb44089d8328b1bf548ded0ae4fa3f08f740685bd11d12a5a45f0891.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ef00b099dfe1fdf8d3ce6600dbdec47836a93066bf20aaabbc9f286fcbe5240f.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/08fa89fc020a578ac196eb654c107b64de4f9d89b2d13878423767022cc89929.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/79882d76eeb06ff2166a037b9f994369d89c1e4180baa2acde30204432d5857b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8fe743437fb4c9b8ba5715c6836048804c1cb426ab316bfd065119b294aa176b.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4db6a01760229ccc1b20bac947ecb5a4bbe47d9c0fda699a7b9cb067290bdb2d.jpg",
+			"name": "ハコボーイ！ もうひとハコ 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b4fa8820d887766f25610e43d2413f3877f84046c6aff7e051ba2e490bfb4819.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "203"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/dce2ce3b5213c3e4697c0ab5c9a183019d9e49ab6e8b78e6e847aa447f2a81b5.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "203"
+				}
+			]
+		}
+	]
+}

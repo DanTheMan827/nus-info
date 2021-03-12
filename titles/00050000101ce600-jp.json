@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101CE600",
+	"eshop_id": "20010000017010",
+	"product_code": "WUP-N-WKSJ",
+	"name": "Swords & Soldiers ソード アンド ソルジャーズ",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d4326db03b0004f0d30b1483c37483961858f2795d733b4002ac7cac07f3bf68.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6ad8e59f7e79f64284bd22ff920a9e2b59dee4ceea73858a1eb0ea65ced15562.jpg",
+	"data_size": "181207180",
+	"description": "特長の異なる兵士たちを、その時、その瞬間の判断で雇用しながら編成して、相手の陣地に進撃するリアルタイムストラテジー。 強力な力で相手を押し切るバイキング、毒矢などの間接攻撃が得意なアステック、変幻自在な攻撃で相手をかく乱するチャイナン。 特長の異なる3種類の種族の中から軍を選んでストーリーモードや対戦プレイを楽しめます。 Wii U GamePadとテレビ画面に分かれ、各々別の画面を見ながら戦う対戦モードは、相手との作戦の読み合いが重要なポイントとなります。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-11-13",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/e2ce3fed4df88f75000b9b3b0b3c61f5a382d1f3eff6c0c22ec5874184ac59da.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/fec1d01096e07f354759af6ecd440a9949ee06a36ec4f9a798c97b1e7a8adde6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7a16abfa20c239b7f03460d80b7d9e0234f4f7625340485e0ab910bddc0b90d6.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f2df53747aba166fb11f35092039d1860c31462f06d7556e9a1411e247a6b1d6.jpg",
+			"name": "Swords & Soldiers / Swords & Soldiers Ⅱ 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/dab9fbc0b03c230970aa0e5164b3b1305abc2cdef039076d71eb3966964d6b80.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "133"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/54f08c911f3dbc8ac24c08ce414872fe1e5ff3c86eaabb3502e1a6f91099e16e.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "133"
+				}
+			]
+		}
+	]
+}

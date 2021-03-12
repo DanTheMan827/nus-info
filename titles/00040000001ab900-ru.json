@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000001AB900",
+	"eshop_id": "50010000042130",
+	"product_code": "CTR-N-JLKP",
+	"name": "Team Kirby Clash Deluxe™",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9749d5e5129b04435b0b3c7fd6b3f77b4dc1bedf42405a798a843e1822923ea3.jpg",
+	"data_size": "133589860",
+	"description": "Эта игра доступна только на английском, французском, итальянском, немецком и испанском языках. Мирное Королевство грез подверглось неожиданной атаке! Объедините силы четырех пухлых героев и отправляйтесь на опасное задание вместе с тремя друзьями в Локальной игре или вместе с персонажами, управляемыми компьютером. Вооружайте команду Кирби надежными доспехами и оружием, изучайте уникальные способности каждого бойца и восстановите мир в Королевстве грез, одолев знаменитых врагов из вселенной Kirby! Станьте легендарным героем! Локальная игра с участием 4 игроков",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-04-13",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a4411e8f3904ad75be6962180f499788d01c8821205723288015613f0b7b2651.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/023111816d7dfc8bc8a483ea4f64e93eaf61ff373c8a5c39c97eb537754c48b7.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1e543b5b2744d50d5674991bdb287e961d5316e2121fc52d2ef22e7b81ea817c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/be157d1a2221895d12e9ef98059c4b464af5c2765fb0a3e610763e7962f987eb.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/fb8db0c594970f8bbc24ffde366b431ad9e71287988f5df25b681de3318273ba.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9b21472cd93533110aac61ac59ca848bca32a6a3e58da9e9db9c6a0f3109fcc2.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6daf909a02f9151a3a4c5468de4b9ac2dd7f610adf1452464c75901a5655c513.jpg",
+			"name": "Team Kirby Clash Deluxe: трейлер к выходу игры",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e3d1c97c8273306f55537e49d5206f82be01e6ff62df82e497916c31ba543ae3.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "106"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/965c5f304e58761353bbe41d496c609d3ed0bc18e7547e7773f27032c080576c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "106"
+				}
+			]
+		}
+	]
+}

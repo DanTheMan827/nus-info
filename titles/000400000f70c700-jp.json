@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000F70C700",
+	"eshop_id": "50010000042922",
+	"product_code": "KTR-N-CBMJ",
+	"name": "ママにゲーム隠された",
+	"platform": 1001,
+	"platform_device": "CTR",
+	"publisher": 1823,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/977586876759f87816f382c789a0179170f2e021cd422745c098ea0e67057886.jpg",
+	"data_size": "47803236",
+	"description": "ママに隠されたゲームを探し出そう!! タンスの中？本棚の上？それともソファーの下？ いったいどこなんだっーー!! さまざまなステージをいろいろなアイテムを駆使して「ゲーム」を探し出せ！ ゆるくてシュールな脱出ゲームです。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-07-12",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e045744909e8527f385dcfab2b231e9b9211a599db79564c391800b6f60f48a5.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f08532068984c3c947671f96e6039a122e78c567f0f8313af972f203464a4c1c.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1992fd429bc95c931b57d0654ed4d16a856f8d147526dd46592e3f3ce8321bf2.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7106e3a67fad298996c771982c453cee207c2faa7243c7803fa4821c2c9f7c22.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/4dadffef5512bad49f9507712ba43fa4d0e6d8842f765cbce3dee33de7ee63d1.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8742402ff3d2f43696917e8c38d86330d0cc69d5ef1c21a5fb89c40f57c342c6.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/99c2cd8f756d286495f4699ec4e46d45c4677180ec5a240408c352f1529c7ab1.jpg",
+			"name": "ママにゲーム隠された 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b1043e26dac54eb2fe23ba4de78443956a0b73d9641464b1646bee192fab407a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "65"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/eed07ae81ce369f613e746b52ed9670fe148a5019d825b89aad4d7bc045c65be.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "65"
+				}
+			]
+		}
+	]
+}

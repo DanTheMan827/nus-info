@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010200000",
+	"eshop_id": "20010000025027",
+	"product_code": "WUP-P-BT7P",
+	"name": "Solitaire",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 228,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e0e7a730780c518c64e32927481384900a3fe75fae5dfa7fc65acb4edd04c254.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/24c62ece1081807775cd514caba91496ba20acd909b39d76f89c6e593be5125c.jpg",
+	"data_size": "202080396",
+	"description": "Das allseits beliebte Kartenspiel. Jetzt kann man den Klassiker unter den Kartenspielen ganz neu kennen lernen, in einer digitalen Version für alle! Lege die Karten vom Ass bis zum König ab, in drei beliebten Spielmodi, und genieße einen unterhaltsamen und entspannenden Zeitvertreib. Eine klassische Knobelei, die volle Konzentration erfordert, wenn man möglichst viele Punkte sammeln möchte. Nur wer mit wenigen Spielzügen auskommt, wird seinen Namen oben in den internationalen Ranglisten wiederfinden. - 4 verschiedene Umgebungen: Kasino, Strand, Feld und Teeraum. - 3 Spielmodi: Spider, Klondike und FreeCell. - Angepasste Schwierigkeitsgrade. - Intuitive Steuerung. - Verschiedene Ranglisten: weltweit, lokal und im Vergleich zu Freunden. Ganz einfach, Solitaire.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-10-27",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/23c1df0802ed508a64f287252cb899e74f5ae2cf293e33c5940028639b577fbb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/496a956fcb95927a2d9b7956c859586cf27b470f2c159c99d1f3917203a5544a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/31a28e96f806b7339b40545299481ae48b37d36a5522fb2f69a4aa26096dbca9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/36a801797ff4918c7fc6a137a23f12fd3556c6ca0aaff1426a35fd64468597f9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/843f3bf8b613400a6aee7c00e7615954957411db42ee421592679b28e2d640b5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b540e3ece891d91af632a27312577ac21f52ab4987f9136925af1a4ee1473d91.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f71eb8b1e8e3c3374d2af9e65e5ff492b2147892eef15ba03a5c1781cbc5815f.jpg",
+			"name": "Solitaire: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/09cc7095cbc5474543e76c9caf62c1edcfc9a87d191b8a9381acd75ccc89b201.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "41"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/61f9f61d10932b3f265433f3423b973808f127d4e18e56eee1e808aa909615b1.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "41"
+				}
+			]
+		}
+	]
+}

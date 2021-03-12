@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101C8800",
+	"eshop_id": "20010000020310",
+	"product_code": "WUP-N-DAVP",
+	"name": "Kirby™ Mass Attack",
+	"platform": 169,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0ea02d9009bc55749bc7cfbf8395c4bf8ef02fa485d90b93e814c71155a82a83.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d3b288c492ddfc6d1567c1c4482938cbb273f8d03e63f9ad3d1e60d2a610147b.jpg",
+	"data_size": "65110136",
+	"description": "Terwijl hij een mysterieus eiland verkent, wordt Kirby in tien kopieën van zichzelf opgesplitst door de kwade leider van de Skull Gang. Kirby moet al zijn klonen verzamelen en de bende verslaan om de vloek ongedaan te maken. Kirby™ Mass Attack wordt gespeeld met behulp van de stylus en het touchscreen van je Wii U™ GamePad. Spoor de kopieën van Kirby op en begeleid er tot tien tegelijk door op het scherm te tikken. Hoe meer Kirbyklonen je bestuurt, hoe sterker je bent; sommige obstakels kun je alleen overwinnen met het juiste aantal!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-12-03",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/461e46b6b3e24d964fe077b1cc2787065933b19838a197748550f2861f5e2d64.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/74b329f2366e4665b38cd4798da92a80673242747ebb94b64fbd433bb18afb56.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d3be1199450acb06b569fb3f78fd3bcd348a2e1e554d306f1ee13abc118b5dc8.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/acf97bb1b31dc80776007aa3d23e30ca8c9e758ace237172a48305f5cb19eb39.jpg",
+			"name": "Kirby™ Mass Attack: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e01c5330f3a7b07e60f1a8e13bd41313b6ad117b7f4f860c6bf49f6b9142f25c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "62"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0cf441c699afe4169b28ce0e8826076be286a3043bc97e281fd1fb7be9ea3aeb.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "62"
+				}
+			]
+		}
+	]
+}

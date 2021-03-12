@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000F701500",
+	"eshop_id": "50010000039698",
+	"product_code": "KTR-N-UAEJ",
+	"name": "MOTHER2 ギーグの逆襲",
+	"platform": 1004,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/42746c8cddb88c533b4407b51bc9d1c1c6c1ee2eb52586892c9e4e79210f23bf.jpg",
+	"data_size": "8067940",
+	"description": "このソフトは、1994年に発売されたスーパーファミコン用のロールプレイングゲームです。 ゲームの舞台は199X年の地球。緑豊かな町オネットに住む少年ネスは、山に落ちた隕石を見に行ったことをきっかけに、世界を巡る冒険に出発します。いっしょに冒険してくれる心強い仲間や、「どせいさん」をはじめとする一風変わったキャラクターたちと出会いながら、世界中に散らばる8つのメロディーを集めてください。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-03-04",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ffcbb02edc9c0e15d2dfd380dcafb1fec44e58ef12b5f5409a99b8796b34ec58.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/337c83979ecf0fccc63c6aa384255796e733644a9fb2c239ce1d59509ed43da9.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c15ac1f6e655a5de2aad18b6161c363ae31f8d58670dcf1193bbc31ef186b3af.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a45a1efc068ca3db5fe04dbdef0b52071a513ec4f230cb4052d0333e400ab339.jpg",
+			"name": "MOTHER2 ギーグの逆襲 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bc2266f38acc0657cd057205b70982710f7123e90215ff9aff9a590a0d66b014.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "84"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ca8865a056e13b832312b78d9db34c9cc2d09b55e4e58ed60fed227c837019de.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "84"
+				}
+			]
+		}
+	]
+}

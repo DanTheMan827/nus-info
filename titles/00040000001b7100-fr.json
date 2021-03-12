@@ -1,0 +1,48 @@
+{
+	"title_id": "00040000001B7100",
+	"eshop_id": "50010000042479",
+	"product_code": "CTR-N-BYWP",
+	"name": "YO-KAI WATCH™ 2 : Version démo spéciale",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": null,
+	"data_size": "450870116",
+	"description": "Dans YO-KAI WATCH 2 Version démo spéciale, vous pouvez explorer la ville d'Ourcival, un charmant village où vous rencontrerez Hovernyan pour la première fois ! Découvrez la ville, affrontez des Yo-kai et décelez des secrets...",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-03-09",
+			"retail": null
+		}
+	},
+	"screenshots": [],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/237d1fb09036a245ed295bf35215e2097da36f8d271652b240d60353ad6c5db1.jpg",
+			"name": "YO-KAI WATCH 2 : Bande- annonce de présentation",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3f3f17a44457a748903f82239d1124db7fd85fb764a6bd9d2c8c5d591fcc7543.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "165"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b3608bcc12b0eccd5fcb2850d76a418b9bf39233749a655e1658fc8d2f549d65.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "165"
+				}
+			]
+		}
+	]
+}

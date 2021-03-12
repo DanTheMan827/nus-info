@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010151500",
+	"eshop_id": "20010000005645",
+	"product_code": "WUP-N-FB3P",
+	"name": "Castlevania",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f4deccf828ff3d021304f6a30a60a06cd16c819b7de79519b78ac29fac1050bb.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c048a4a31ac119fc2faa0829e87a75f402afdd705aca0697a72541121a77836e.jpg",
+	"data_size": "36569228",
+	"description": "Castlevania est le premier volet de la saga de Konami dont le succès est toujours au rendez-vous ! Vous incarnez le chasseur de vampires Simon Belmont, et devez vous frayer un chemin dans le château de Dracula en vous battant contre des armées de fantômes, de gobelins, de démons et de créatures toujours plus surnaturelles. Venez à bout de six niveaux plus complexes les uns que les autres pour enfin défier le comte. Vous devrez utiliser votre bon sens et vos armes pour survivre, car Dracula n'hésitera pas à vous mordre lorsque vous vous attaquerez à lui ! Soyez courageux et aiguisez vos pieux ! Si vous possédez ce titre sur votre Wii, faites un transfert Wii™ vers votre Wii U™ afin d'obtenir la version améliorée à un prix spécial ! Ceci est la version américaine du jeu.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-03-20",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/bf55541a78a94bc879a75693046fdff5f08e38783e02cfc3f1dff8c732cea8ee.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/476209b2064c7ace57dc62430a5d11084caddf5c701cd21ff4fa9991213edd0a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/42de1887c63e0da525ec3f056252c482f6b3aa301a937a5d4a72d261f6b54372.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/750a3b3e0fcd514828f8e6170a6afab8321dffe5b2f8660bf9a6b0bfd3537013.jpg",
+			"name": "Castlevania : vidéo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/997d078265940057f1bf276afb8599363980b597748071aa01ef8126aad8b5e5.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "61"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/22c0ad53ec5bda42deec5d7dfe7dd649291a24c62c893439ec4d136b0a621050.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "61"
+				}
+			]
+		}
+	]
+}

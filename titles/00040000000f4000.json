@@ -1,0 +1,69 @@
+{
+	"JP": {
+		"title_id": "00040000000F4000",
+		"eshop_id": "50010000016757",
+		"product_code": "CTR-N-BDNJ",
+		"name": "ダンボール戦機ウォーズ",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 456,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/cde6f6533d37221b9c97f1d1cf6aa3afe74623ff35a462b74603703245a692c2.jpg",
+		"data_size": "1150614372",
+		"description": "シミュレーションRPGとして進化を遂げた『ダンボール戦機』シリーズ新作。 巨大ジオラマ「セカンドワールド」を舞台に、小型ロボットLBXを駆使した世界戦争のシミュレーション「ウォータイム」が熱く繰り広げられる。 LBXは頭･胴･右腕･左腕･脚の5か所のパーツをプレイヤーが自由に組み替えることが可能。過去の作品に登場した機体はもちろん、TVアニメで活躍した機体や、ゲームにしか登場しないLBXも大量追加され、カスタマイズの可能性は無限大に。 また、シリーズ初となるアバターシステムの搭載で、主人公は男女20種の中からプレイヤーが自由に選択可能。テレビアニメとは異なる主人公を操作しながら、物語を違った角度から楽しめる。 最大6人参加の対戦プレイや、巨大メカ「ラージドロイド」との3人協力プレイといったシリーズおなじみのローカル通信プレイも健在。 より熱く、より戦略的となった新生･ダンボール戦機で、いざウォータイム開始!",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2013-10-31",
+				"retail": "2013-10-31"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b11fb9466e37d05595a5c189275550a0e2a4c2da4cb3359a17cbeb22eb789501.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/705c926083376f1b90ac96b8046c26880632e7350eee723729778245bf93d524.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2c5e31eb8350d35be0c57416ded5f3b2be71dcdbea64848717d758b8c0e87504.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/226674e4defc49ea863b2c1348b3ad92e53b95a2416df334f423678f3ef5b58c.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b4b179951b27b91f00a46964bf134bc151c64c6faa4b001092d9e0dc3e3197c9.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/be3af21748af63a3f526b27be585ee0fa6741d0d0836a50054d8a9db683d89f7.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4856079347033a94a1996fb68e775791c17c26206bac99f118c2980094b4dde0.jpg",
+				"name": "ダンボール戦機ウォーズ 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/945cd1ff056e7a9d7840997fae9bc5cee655fe44dd926710291627dc53ed7618.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "217"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f03307c423e34f8018ba6fd3b74f3598ea45fd450dd368ca8d78bc545b6a5515.jpg",
+				"name": "ダンボール戦機ウォーズ TVCM",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/28e5dee2b5ec802ad03e9a3cde9ffee9a59a518550b62dd9743ed35e1b064078.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "19"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,111 @@
+{
+	"JP": {
+		"title_id": "00040000000AC900",
+		"eshop_id": "50010000014297",
+		"product_code": "CTR-N-AKMJ",
+		"name": "クマ･トモ",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 27,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/198f95bd5b37a2c8641ad3bd74e3097c278325ac5554b0f00c239edfec835d73.jpg",
+		"data_size": "320195428",
+		"description": "おしゃべりするクマのぬいぐるみが、親友になっちゃうゲームです。 あなたのことを教えてあげるほど、どんどん仲良くなって、なんでも話せる友達に。あなたと仲良くなっていくと、クマからも料理を作ったり、プレゼントをくれたりします。 癒して、癒されて、365日ずっと一緒に楽しめる、クマとの友達生活をはじめてみませんか?",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2013-06-20",
+				"retail": "2013-06-20"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c5e3b8417e85778bc833c93e52e9afb51cd58cac4e0d902cb97634d83eb985c5.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/05dacf6f0b6f477c5453c663f41205ea9619f91d25748fedfd4ee918848845f8.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/cb2340d36228487f3e6e072e341a7c181f91100f597d39ed8ee86567a2da1199.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e79462c16219dd36f985408c00f57e8fc75ba9959cae18acca6bea266d16bab0.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/323639db14873874edf00bc8dd44da432239e5e7a0da6283e75a640467eedfee.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/34e82a1d82fd942930a7f0f69c3fc541ef92e9b9262dc5a47798bb7b3e7f003a.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d5f5a394f261be220d54fcdc291c12407704ed518ff6e84d4186a480eefdbb10.jpg",
+				"name": "クマ･トモ 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8f348155e6d0d8215537edf962eb12b58ce51ba8b13b6a344d01e9cccafd50db.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "236"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4183d5280af55207a7de5d4c97986babd6e6513e3c5ffcaa718fb4b27889ad47.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "236"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/792f1b6e4a3bdf474b06127caac0086f4dbdd3a3532fc7fb038e32b7d378a4dc.jpg",
+				"name": "クマ･トモ 紹介映像2",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c614b9971f56792804fae2dd5706dd1ffe562c9ebe3432e619374186dd18e64c.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "93"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7ca804daccb5391f18755dc7866a6663de1d06624e334f27741e0eb53f57d352.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "93"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7ca6e933355183440eb4e4c011b45a8a3c3846d1edf125826670134fbfa82d79.jpg",
+				"name": "クマ･トモ TVCM",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0cbc1a89de9ab06aea8cef63880f4df4012c7c24958f3f71c04ff1b72bc53977.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "30"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c09c95c33cd61d1845fccb23678a632ba4c79fa654a48e5253c10443c8a420f6.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "30"
+					}
+				]
+			}
+		]
+	}
+}

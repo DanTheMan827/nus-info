@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101A7900",
+	"eshop_id": "20010000014550",
+	"product_code": "WUP-N-FEXJ",
+	"name": "キングスナイト",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 246,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f4582b4ee55724f2fd3af868f0100b456e6642cda38b594bbc878a6db96280c7.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0c323d8dbb4ca7ae537306fa85f9a826408d66f1431327701448fd3613c307cd.jpg",
+	"data_size": "38863008",
+	"description": "このソフトは、1986年に発売されたファミリーコンピュータ用のフォーメーションRPGです。 王女を救い出すため、4人の勇者がそれぞれのステージを攻略し、最終ステージでは4人がフォーメーションを組み、ドラゴンに挑みます。縦にスクロールするステージを、ショットで敵を倒したり、障害物を崩したりしながらシューティングゲームのように進んでいきます。ステージの途中で「かくれキャラクター」を取ると、ショットの攻撃力がアップしたり、魔法が使えたりと、勇者の能力が強化されます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-07-06",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/fd3d5f9e6d4aea9d20758a6efbea2bf010405e92bdde71ffeefb8f4bf2112c5f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ed5c8c17c6113ebc16153d0d7a4b8aa0491ba43c5f5cd88b30e84c4f20782dc1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/54e9e80a8e1d524350978cdd380fff8195b2bb27c3e9104568ac00cbe774a214.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/99dc06522540cb626fa42c77241824cd15e7421eda8ed2c04ea7749b7b627409.jpg",
+			"name": "キングスナイト プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ea9ecc036e7d1f6575f2f4265e0ae567756dd64e196e0673a895631c846241fd.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "65"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/858f9f924f1668500d384fb69467482d358a4ed13f74973c09ab518c66ecfb19.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "65"
+				}
+			]
+		}
+	]
+}

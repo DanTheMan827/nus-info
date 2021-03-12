@@ -1,0 +1,53 @@
+{
+	"title_id": "0005000010129C00",
+	"eshop_id": "20010000001431",
+	"product_code": "WUP-N-FAYE",
+	"name": "Solomon's Key™",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 267,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7cdd9537c0f3a5e5610059d2a0fdffdf5e643cbce38aba8a00dbadc2ba07932a.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5c79e0a4b577af53ea46b346da1b270a891c252150f9ca9864a403b744c1e85a.jpg",
+	"data_size": "36569228",
+	"description": "Como el talentoso héroe Dana, deberás avanzar estratégicamente a través de más de 40 salas usando la misteriosa magia de piedra y otros poderes mágicos. Libera al hada cautiva de cada sala al encontrar la campana de Lilac y escapa usando la llave. ¡Piensa rápido y utiliza la magia de fuego para revelar objetos escondidos y evadir a numerosos enemigos mientras luchas en contra de reloj! ¡Solomon's Key también incluye más de 10 salas secretas y múltiples finales que podrás desbloquear! ¿Tienes lo que se necesita para revelar los secretos de Solomon's Key?",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-05-09",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/e123c13b92a391317d9a6e7618269339c06fd044e45e738671f9ca37a62d6b34.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/66c3e2ff0d2404cecb17479095e904e8ee6e50c3947b1866e615a7650b1ea317.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/58e6a176631f83d69d19f77ad8e86195075903a385e81cddce2c26cd4cb0ebaf.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7b0748d521cc2107bea44b0bdb2df4465040445f942f4a580136cf1117c2319a.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c9c01740749a7b98e522208b62c915dcf55343de9d13411f309a052924b56a81.jpg",
+			"name": "Avance para lanzamiento Solomon's Key™",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/17f07f08f4c62b770d06ef5635687185050928ef8809c1e5bcf72261b182c84b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "29"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d4b80dbeefc8c7573e9b2c0200e222cba8cecc6bde121624a4aa724396456b46.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "29"
+				}
+			]
+		}
+	]
+}

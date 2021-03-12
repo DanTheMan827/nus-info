@@ -1,0 +1,87 @@
+{
+	"JP": {
+		"title_id": "0004000000110700",
+		"eshop_id": "50010000017376",
+		"product_code": "CTR-N-JBXJ",
+		"name": "ビッグバス アーケード",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 19,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/03e4fa255b4988037c5e56089a317a9019ce419b7128f0fc1714f538196675c6.jpg",
+		"data_size": "40127332",
+		"description": "上級者から初心者まで手軽に楽しめる本格フィッシングゲーム! 美しい10のステージ、25種類のイベントとトーナメント。多様なゲームモードで、様々なシチュエーションで出会う魚達との熱いバトルをお楽しみください。 上級者から初心者まで手軽に楽しめる本格フィッシングゲーム! ■釣りそのものを楽しむためのゲームシステム 複雑なシステムを一切排除しつつ奥深さを追求したゲームシステム! 釣りゲームマニアはもちろん釣りゲーム初心者も楽しめます。 ■美麗なステージ ステージは全10ステージ!美しいステージを見ているだけでも癒されます。 様々なシチュエーションで出会う魚達との熱いバトルをお楽しみください。 ■多様なゲームモード! 25種類のイベントとトーナメントが用意されています。 じっくり釣りを楽しんだり、大会に出て優勝を目指したり、といった色んなプレイスタイルに対応したモードが用意されています!",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-10-30",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/33f5da2abeffc8c32ed6db350ebc892d1482354edfd08d3fff2029b6f7244262.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0cff6fd0a5a61bd3deeca7464adf2edf9487e827a1316c1cb38bbb4c82e47748.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0ee0cc0f71067423932413d9901e51eb033f3f711bdae0853e7c54a5881ece70.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/caabab704f025faa273043c048e2021d308c369b917949722001e68a494f8acb.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8cfeac371ced32a877220bd60e3dfe6e99c1ee4742b54f45aa5ad87409e37e19.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b6c86c30b4f89d48edc49e139eaedb7028863a39eef7cfa73d7faefabc91a3b3.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/af4400de68e73c2448c0364bc81f80b6255e0c19bae7f8011ef1ed12cf9405f8.jpg",
+				"name": "ビッグバス アーケード 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7a239e195cb70c05b8d9b0c93f9301157aa2b2de7bdae8042f666e1ac0a5db1a.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "116"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5bc8663b4d29ec7e63f403091dc34b0ec13aba262e9c2f5a02549456102d7e83.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "116"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4606d9d5d6f8210eb9d801b237afdd5b4932ddeb68f3c34337e68ff5469347a8.jpg",
+				"name": "ビッグバス アーケード プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/201b75ca6a328a3c7a4735460340f1b999ec424b359ca607a825af937232a506.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "55"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/05e4937b638a40724919fd7f295be3c446422390838e70aaf01704b33bef198c.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "55"
+					}
+				]
+			}
+		]
+	}
+}

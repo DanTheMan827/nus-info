@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001019F100",
+		"eshop_id": "20010000013370",
+		"product_code": "WUP-N-PCAJ",
+		"name": "ロックマン ゼロ 4",
+		"platform": 168,
+		"platform_device": "WUP",
+		"publisher": 39,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3b4db835eef536a1f3116e0d8403249ddd07be8afb83d02edc555e1073a6ad05.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/11c8eca1accf58d93b9c1f6f0864e8b14b3481454f1214c57aa707dd484a36fd.jpg",
+		"data_size": "78938252",
+		"description": "このソフトは、2005年に発売されたゲームボーイアドバンス用のアクションゲームです。 バイルによる圧政で、ネオ･アルカディアは混乱状態に陥った。 自分に逆らう者を許さないバイルは、さらに戦闘部隊を強化して治安にあたらせる。人間とレプリロイドは、バイルの支配を受け入れるか、荒野に逃げ出すかを選ばなければならなかった。 ゼロたちは、荒野に逃げ延びた人々やレプリロイドをネオ･アルカディアから救うため、各地で戦闘を続けていた。 ある時ゼロたちは、レプリロイドに襲われていたキャラバンを助ける。 キャラバンのリーダー、ネージュは、エリア･ゼロにある人間だけの集落を目指していることを語る。 そのころ、ネオ･アルカディアは新たな作戦を実行に移そうとしていた……。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-06-03",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/f643d510f11c9a43a226abc672a1acba3c8b9d7c5a4ff87fba0db0f246a68732.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/8eb33db08c833fb6ca2511556bafc9b37d35ed9f009458f6c5d2406307f80ae0.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/095b7b6ddd5c2c3a3726fe02e8ec1a855560d73e8d50462f78abfc733769f4b1.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6079a1b1f9a686ab3bfd7432b0a985441a4db4fa29f46a6c9ea1199043028326.jpg",
+				"name": "ロックマン ゼロ 4 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3095ac744dcc57a9f22be9bb76430c162c703ee4ec6dca7bbda79436c8546ee6.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "57"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/949dc2f7b01cc6aa15a7b163abd729e8f026e3359df100a20e7f316df7bcc793.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "57"
+					}
+				]
+			}
+		]
+	}
+}

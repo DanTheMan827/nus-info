@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000196F00",
+	"eshop_id": "50010000042835",
+	"product_code": "CTR-N-JHUA",
+	"name": "Kirby’s Blowout Blast™",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/37a3746380a7d36e34311aba56fe08440743733705be2b00277cdafab06323b9.jpg",
+	"data_size": "97995620",
+	"description": "Kirby está listo para la acción en una nueva dimensión… ¡la tercera dimensión! Diviértete en grande absorbiendo enemigos y escupiéndolos en más de 25 niveles. Absorbe suficientes enemigos y lanza un proyectil estelar que dañará a una tropa de Waddle Dees. ¡Esta es tu oportunidad de vencer a icónicos jefes como Kracko Jr. y el Rey Dedede en 3D! Absorber a múltiples enemigos para lanzar un proyectil penetrante es la mejor estrategia para aumentar tu puntuación y obtener monedas de bronce, de plata o de oro. Otra manera de aumentar la puntuación es obtener impactos al dispararles a los enemigos sin fallar. También puedes obtener monedas mientras saltas a través de las plataformas. A medida que progreses en el juego desbloquearás niveles EX que te brindarán un mayor desafío. ¡Celebra tus logros al escanear figuras amiibo™ de la serie de Kirby para construir estatuas y tocar nuevas melodías en la plaza!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-07-06",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/43eaffcd2b3dd1871aa2bf5edf7e0b67ba1e95edeec5cd9b8d155d33b0fa8f3f.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b65cca0cdd8a9f26ce79cb87d4cbec2288ccaba861e10287a454824a32622b6a.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5bd27ca477a70366a5e1c4a0b47031c15544f184056324a47d24559cf6dd0c6c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8efb2bf13ebdba6a0716ad1d789c966eec69fe62b57efad4e9dbcf8ef4437edc.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/56d8a6684d8f503e4f1741d16793cbc88c24868dbf93085ac9637dcb78e63bc6.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/61cb1c77e2dda456dde7bf719af4c6e32ec6786d3cf2482e82dad519c0711be0.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5020234f2257712bc98bab9689162ee8eb2cf91db6f9dea40996090d8ac0d076.jpg",
+			"name": "Kirby’s Blowout Blast – Launch Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6fc5378f73dc6855fd3197e94cdf0569fd5ddb3972d4bb9c42f9d93a669122e6.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "174"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5f9019efa5ae398522fc060444d2a46425cc9fe36f2a9c23899e2dc62b468ec1.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "174"
+				}
+			]
+		}
+	]
+}

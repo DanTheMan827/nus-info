@@ -1,0 +1,76 @@
+{
+	"title_id": "0005000010137200",
+	"eshop_id": "20010000006966",
+	"product_code": "WUP-P-AFMP",
+	"name": "Fit Music for Wii U",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 1302,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/148abb7853e2cf537a746d5c04c038063ab5e9dc0d46641f53403ea14fac432c.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a826900fde5ed961bf01bfeffc3c7f208588a13ced4d8998ce136cb3fba41faa.jpg",
+	"data_size": "11235591284",
+	"description": "Устал от спортивного клуба? Надоели одни и те же упражнения? Хочешь развить физическую форму, которую все бы тебе завидовали? С сегодняшнего дня существует Fit Music! Тренируй все группы мышц, делая развлекательные профессиональные упражнения под ритмом музыки DANCE, принеси спортзал в твой дом, забудь о напрасных усилиях и присоединись к празднику! Чемпион по фитнесу Патриция Сальвато будет твоим личным тренером, она будет сопровождать тебя по различным степеням игры, благодаря индивидуальным уровням сложности, разработанными в сотрудничестве с SHRO Филадельфии и Human Health Foundation, с которыми Fit Music участвует в кампании Fight Obesity (борьба с ожирением). Каждая тренировка предлагает все этапы с упражнениями для разминки, интенсивной тренировочной нагрузки и для расслабления в конце. Благодаря простому и интуитивному интерфейсу новой Wii U и захватывающему и ритмичному саундтреку сжигать калории и давать тонус своему телу никогда не было так весело.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2014-05-15",
+			"retail": "2014-04-30"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/1e34f2ca1f78b45390b7643e474f6d3ad540ec42951425cf20d5ec33e56d35f6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/132c10be096566a1aa5f3011b435a10a3e6434ea5644cd4532fcec67b879917e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c0667b04e70fc73bbe5704b2e7f88407d7eebf725cbc962c5d91e02cdf62be3c.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d798a4b9b0d34d161ed99bdf4ce7e0d0ef1125d2177b55c1187466b4919068b5.jpg",
+			"name": "The Healthy Side Of A Gamer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a05b1d388be012eda599f317af061ef4311dbc091fb999def24ebef9157999e6.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "62"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c2ea45df77a5005af871ea5c5f6b9374db5cb4ece886fcdba9e6617a906ac3e8.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "62"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2cbd2a2bf89f7ca34fa6a3f2e3c5ff38a1e323ce2ebf70b1c3f138239e316d48.jpg",
+			"name": "Fit Music for Wii U",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c9e2f59727a9d899c20146f2e39ce4ed15968cc7a4d63126b3091e2899d4d40f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/210b18558e51dacdad6456ec733a726da2ebd849148d71b71a715cb96e66767c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				}
+			]
+		}
+	]
+}

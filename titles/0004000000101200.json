@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000101200",
+		"eshop_id": "50010000019473",
+		"product_code": "CTR-N-BPTJ",
+		"name": "ぷよぷよテトリス",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 231,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/724e736048e70085c5e566b44b44dcb4e5e64d6e25ae9bd3ddaf5de20ca9ae7b.jpg",
+		"data_size": "475175828",
+		"description": "夢の対決「ぷよぷよVSテトリス」が遊べる「VS（ブイエス）」やぷよとテトリミノが1つのフィールドで共演する「ぷよテトミックス」など、本作ならではの新ルールが満載! インターネット通信では、都道府県のトップを目指す通信対戦モードや他プレイヤーのリプレイが見れるモードなど充実のネットワーク機能!",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-02-06",
+				"retail": "2014-02-06"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d4d71a5a82db460ab734f07673478b8745cb26cd56c77b01cfb6bd9547c60d43.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/20f100b3612348d2d3fb2c7781ef321faf27c8cc35c6a9b9e43071c139fd72bc.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3535bf0caf631beab9445e69fff5abd5e1f01a10fcba5808d3dd8d866e067d55.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a8ce388729c3a2eb9c778fb14f8d947259241f01a4eab64aeb9e935fa1b4ec28.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c98f3a696c88ae6e0bcb4b281e97ec634c33911a084266e574738085de7d6a17.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ced5dde67c4164317f18a7954bbf34fc6686500cb5f7ad206f6f013039523a99.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/94b402e6ef482e2adccda57904fde9bffa95f2fee47d4a8ccd1496326bcef62d.jpg",
+				"name": "ぷよぷよテトリス TVCM",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bdb44b228c243df68cd7a677e2f7e88548c1f5cdf136f72dd29ba43526606339.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "15"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8ae84ac39ee00ac29c64ece58932b2dc890a92deca9d46ff43adcfe9b5c0d1e6.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "15"
+					}
+				]
+			}
+		]
+	}
+}

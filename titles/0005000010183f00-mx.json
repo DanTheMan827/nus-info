@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010183F00",
+	"eshop_id": "20010000010346",
+	"product_code": "WUP-N-PBJE",
+	"name": "Castlevania Aria of Sorrow",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/74f96909ff7eb1e948a3f8cbb1e49ef31695a6fa0853a02d5b060c395e493d42.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/22fe6f229a7b6e10839eac8a175ea152d064bac71077b32f81d8cb7a7136abd8.jpg",
+	"data_size": "74252428",
+	"description": "Es el año 2035 y Soma Cruz está a punto de presenciar el primer eclipse solar del siglo XXI cuando de pronto pierde la conciencia y al despertar se da cuenta de que está dentro de un misterioso castillo. Como Soma deberás recorrer los laberintos del castillo mientras te enfrentas con peligrosos monstruos usando tus ataques y hechizo mágicos. Usando el Tactical Soul System recolectarás las almas de tus enemigos para aprender sus habilidades y usarlas para activar nuevos poderes. ¡Pero ten cuidado ya que deberás escapar antes de que la maldad te consuma! Una vez que sobrevivas los horrores del castillo podrás disfrutar de otros cuatro modos de juego.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-10-23",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/441d38060587e73c6e4e1e269b48e4a8478c04f1a6611d53041327d28f896cf7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a8a82ba0151c24447159ebc55ecb119d7e708b56cb995311a38501cedbc604b6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c1094c0e0b7ab0c526a81fb1087d40b9496690a5bbcbeec9e8d897123e7f83c6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bdc12b9485c38f334c0a91d462fcf6a5a8307847ba2fd033c2d5c6af1df6fd92.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a7a9f2b3de2bf8ab3a78fcb77f66c44e5fe047e70e389ad396f6662ff9ebf79c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/23e16a15733eff00b1dae251d19d13f5ce89e3a879595c8bec085315182dd1d9.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/67e0170cda4e259a8a8fe75a52c77d1310d9947f2ddb8c35696c1fb3d008d1c3.jpg",
+			"name": "Avance para lanzamiento Castlevania Aria of Sorrow",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a6311ed3dcec862a775231429db1d72bee1eece18886372c221ed943615ed419.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "64"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5c2388ec971160755b88aea746d545515ec62c989c6f491dc4fb4ec108ffa54e.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "64"
+				}
+			]
+		}
+	]
+}

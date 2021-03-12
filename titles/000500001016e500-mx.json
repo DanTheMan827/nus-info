@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001016E500",
+	"eshop_id": "20010000005084",
+	"product_code": "WUP-N-WBUE",
+	"name": "BLOK DROP U",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1269,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3a2ca7029c4ca53f9b4f9c2e905b69bf8be929748674099a45b6ffaf47bb0bee.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/368e9541c54e3466c05d034ed9a2a85a0089c44b428a30f773f8f736e5642438.jpg",
+	"data_size": "60260512",
+	"description": "BLOK DROP U is a simple, yet challenging, physics-based puzzle game exclusively for Wii U. Your goal is to guide the red blok safely to rest on any of the normal platforms by tapping, and destroying, the grey bloks. A number of different obstacles such as open holes, blades, bounce bloks and more will try to destroy your red blok.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-03-06",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/5c1cede64efdb094a82af5e020c15c8b648ab35d2fab2fda0a9dcf241fb30daa.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/158f3060d53ed758d796a6f01a89649f9038d5c11753a5ccdc333a725d491559.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/95d0b46f6605a1f9f19b105b6ac4608414c9c5e30f452f9f9ea6229d5c509cd4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/74d9ab7c31f703bd0f54dc0f550599039ce2e4396c3b9cf3a3f2ba0c95212aa4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b425fbba8549b105a9d33c5fc1b3ee27644f47282540b775c1681df1ecaf3f4a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/483a2e303df3cf063c890de5c7d56551eb6ec364bcf6e4d9cba91f81e8664e72.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3cfbfe23fffaf11df4a9020e6572fb5271bfd9fb696e8e3bd95c3cc9cd12bf9b.jpg",
+			"name": "Avance para lanzamiento Blok Drop U",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f8e746a46105ea5ea64dcf32fa29482ebfbf95d459869433006ee83d9866f85b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "34"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d433421e3430e3cf1a052bd0693b6db6f4abc2cd8a0774cf4cbefac2048f7159.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "34"
+				}
+			]
+		}
+	]
+}

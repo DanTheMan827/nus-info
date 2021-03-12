@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "00040000000DD400",
+		"eshop_id": "50010000018173",
+		"product_code": "CTR-N-ATSJ",
+		"name": "マリオパーティ アイランドツアー",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0957c5a59ba9f6adaaff0342afe6594a011751225f2a46fc42896b3b5551c4a4.jpg",
+		"data_size": "239836052",
+		"description": "『マリオパーティ』シリーズの最新作がニンテンドー3DSで登場。ニンテンドー3DSの特長を活かした80種類の新作ミニゲームと、ルールの異なる7種類のボードマップを収録しています。1人用ゲームを除くすべてのゲームを、1本のソフトで最大4人までお楽しみいただけます。",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-03-20",
+				"retail": "2014-03-20"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/84f593247a188964c4fc1ecb7bb0cac1a15dc2ea42f39f931442c813dab05896.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d17dd3a9072c908c515ab3c1219d6be2cbccf5757a4a62167a0342ada44063ad.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ec437030d47e8cd98013020f24ead4c01b2f108085d3bf96d16b054afb1116b6.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/bcdb48b54a63f55a1c8fd9647b6167bbf9089badfea79d583c4ad9c90b91ab93.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b621b9aa4bbeea059507de746748e8545ce8d1631489bb69650c5fcf24cb67bc.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/bc352539b58abce1cf2542148d11c0249832662a9e7d7d79c35e4e01fc02a60c.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/53c10a2a2986cafc118bd89a4d0728915e9866f050c98fe0365cf7b95239b49f.jpg",
+				"name": "マリオパーティ アイランドツアー 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/de98e7bc45d57e2c103dbdd14bf8e7bb44c815c294aeab41cc3f526b0708c1c7.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "197"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7423d5b58b10bb351d9b05dc15313e338491e0477558b55ddbc09abc75d2e32c.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "197"
+					}
+				]
+			}
+		]
+	}
+}

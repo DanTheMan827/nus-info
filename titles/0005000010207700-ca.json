@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010207700",
+	"eshop_id": "20010000026008",
+	"product_code": "WUP-P-AYGE",
+	"name": "Y.A.S.G",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1801,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5f83bc6140c449d0b0aced9b0c8c0e155f4b0611a1ec38003576c5e0d4d11c34.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/283ee81a783be831bb4203deb91bcc5d573d6ef22cfe87336bd2b4db2f0f45c5.jpg",
+	"data_size": "98042016",
+	"description": "Defend your planet! Y.A.S.G is an old-school arcade shooter, where your goal is to defend your planet from danger. Shoot enemy ships and asteroids that wish to destroy your home. But be aware, that some of them can fight back. If your home is destroyed it's game over. Get as many points as possible. Beat your records. You can always ask a friend to join you - double the player, double the fun!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-02-09",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/06b9cb90c8eb9ecca95ac2d217395cfd64c5860e59e7882398e379d1f2bc1f6f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/91d18241e0d1e7ba23252f11509011ad6e00c380e68be118387c48833654a962.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7180473034c03462f30b6ef63a097afb359f302f3021af2daee7e3052efcf949.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/fd98ef92b3ee1dc1d689ad1a9263075c7430ac334b0af734a5fe45e1a1c23097.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ced8cf1e6a601069f3a0281bd0203aaac283777aa74a54202e788a08c2094d32.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1120688f6eed92e5d9cdeed840fb451a17f343064a2537f32224914af39bf4a9.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a5f99e8b894b5adcc51d47c175a1574b141b7312d8af5941c6114f3be550372b.jpg",
+			"name": "Y.A.S.G - Gameplay video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7db5716e3071dc63feb7c69811dfc7913ea918f900fa48c9a27b17dc0d600fce.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "83"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/59738464f2cc2a4aed912a6f641da85c53c1509b1a03d8b8109b1e19ad2b782a.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "81"
+				}
+			]
+		}
+	]
+}

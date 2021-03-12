@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010141400",
+	"eshop_id": "20010000002770",
+	"product_code": "WUP-N-JBRJ",
+	"name": "真･女神転生Ⅱ",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 25,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c3488ba27bdbd9beab88de8e94bcbe2c5cc4f1909c3aad166af23d97f975a9a3.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/dfc7f349e34f927e635f2a38e5a0d9426dd1336ee426e928777865ab9000cc79.jpg",
+	"data_size": "41844876",
+	"description": "このソフトは、1994年に発売されたスーパーファミコン用のロールプレイングゲームです。 『真･女神転生』の続編となる本作の舞台は、かつて東京と呼ばれた街、TOKYOミレニアム。悪魔と戦うだけでなく、ときには交渉して仲魔(仲間の悪魔)を増やし、強敵に挑みます。主人公の行動や選択によってストーリーが大きく変わるという特徴はそのままに、悪魔合体での魔法の受け継ぎや、仮想空間での訓練で経験値を取得できる「ヴァーチャルバトラー」など、さまざまな要素が追加されています。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-09-25",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/e18736e2a24fc29b6283187485ca66e68ec7e3631d3e4e6e250c85c191df8888.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3fad01faedbb0066bd11f38657cf5a2c7f98ed386d8f8d4749d88c37b38ad1e8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1370a42a72a30b0693c005223ae96c012672bb131d1ccef85e7741a02adf378a.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/de8c55445ca9e37d6205a48a2fc10cf7bf6d4e307563f274e310cdb9d6634177.jpg",
+			"name": "真･女神転生Ⅱ プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/05610d10655f8175f22094086df8e594e71a4abb415cf6677fd8a997a55400d8.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/144c5f0a48226bb0dd949cdde3f1c183949a28aace6210d13b21649a7b488748.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				}
+			]
+		}
+	]
+}

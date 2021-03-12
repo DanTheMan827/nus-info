@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101B3900",
+	"eshop_id": "20010000016307",
+	"product_code": "WUP-N-DANP",
+	"name": "Fire Emblem™: Shadow Dragon",
+	"platform": 169,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5e08630b702ce02c78dc46868f665a9cabaa6d9e6dfde0a17a5b0c51138939be.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f73acbf47da96c3b0b91855ab5e6858987259de0f6eab8737b94be97e0b575d0.jpg",
+	"data_size": "89260152",
+	"description": "¡Descubre los orígenes de la saga Fire Emblem! Ponte en la piel del joven héroe Marth para recuperar la tierra natal que te han arrebatado y salva a tu hermana de las fuerzas malignas de Medeus. Fire Emblem™: Shadow Dragon es una nueva versión mejorada para Nintendo DS™ del juego original Fire Emblem para Famicom™, que hasta entonces solo se había publicado en Japón. Reúne un ejército y prepara tu estrategia en los combates por turnos, teniendo en cuenta el terreno y los puntos fuertes y débiles de las unidades, para vencer a las fuerzas enemigas. ¡Conviértete en una leyenda viviente, salva el reino y el futuro de tu familia!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-07-02",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/845dafd6cc246a8e4520acc552c2043d29c138111701ea1d954dba791515cbbb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/14a11337b26624b07d1d99d355fbd12d09b8a244aad7e83d7614daf0990fe584.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/69d32910fd215489ad8fb811ba6f538e3765752616bfa64e54427474e141ad1f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6c337ac6f387c5e6a4543b678caaf00fa2d00262f7519351606da85a3b416379.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/173dbb99a6eb4566b0421e836abf218096b8ab20a429637939aed1b851191dff.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b9b8004486a1d36faf1bf66a568445787ffd91ce4bc81d0f869402ad1a9bb5b6.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/330c87aec3eaa5628fb6dfb1b19b88de85eb8b7cd2ed343c26bd22242262598c.jpg",
+			"name": "Fire Emblem™: Shadow Dragon: Vídeo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5064e7ea89704b8e0248d9123ec9f8972d1ef5592729f118bc8d533ce5ae8b8a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "71"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/13a366ae51baaf3de7eedf45115371c11ec2d30aabed58a31a2609dda8862ec0.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "71"
+				}
+			]
+		}
+	]
+}

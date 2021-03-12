@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001018D800",
+	"eshop_id": "20010000008931",
+	"product_code": "WUP-P-ADGP",
+	"name": "SteamWorld Dig",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 130,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f78a20c19e40fa9855508af0685d34b65233a5a89b8005d2d75b8fe085338242.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4e688de30eb1161139b52bb70f9b99a80a38f744a4ed62205a4f56e1d7a96d94.jpg",
+	"data_size": "120160396",
+	"description": "SteamWorld Dig is a platform mining adventure with strong Metroidvanian influences. Take the role of Rusty, a lone mining steambot, as he arrives at an old mining town in great need. Dig your way through the old earth, gaining riches while uncovering the ancient threat that lurks below... Key Features - A rich world of steam-driven robots, inspired by Steampunk and Western themes. - Explore an underground world full of secrets, treasure and terrors. - Uncover the remnants of human civilization, a degenerate race of dynamite-wielding troglodytes. - Randomized worlds with emergent gameplay. - Clutter-free HD graphics. The map and other interface elements are now displayed on the Wii U™ GamePad. - Off-TV Play. Continue digging on the Wii U™ GamePad even when your TV is occupied or turned off. ",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-08-29",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/a232480418afa74c94cb53aa4d3c17a0060d2822a7f0e3e0327b84811964d223.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/41b2412d877dd717bae1e72b02053001cea2167502b48928f6a6563c8060c4ff.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e36d3e2becf37e999dab02377dbb5207370fd682a3b4b0fa5e837f48c48ee427.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d022bf03f1921f9285f50aec9d93434a9963b0328e9e360a0aaf50b3a6e932f8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/48a3a06668ecbee57e20bc91ada6b3c147acfc3553c59c2b47e5e38d54d23d46.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/24a216a663142f682117155d75f2b39cfaafc82dbe0e4f67621e24709f5a0385.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/35c3ad81c24c338b9000a252efea471c7a6a4cf1fb90e733762a6abcc0d74900.jpg",
+			"name": "SteamWorld Dig: Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2acbb2a2ad31d9489908c371b141743d8c519d66e1da290bd95e1145378c0437.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "120"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9ac30a166c6d0b77dca85514e4830d4bb63cb8d001d4e02e5636023dd8d8fe00.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "120"
+				}
+			]
+		}
+	]
+}

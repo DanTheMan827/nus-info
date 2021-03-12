@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010189D00",
+		"eshop_id": "20010000009326",
+		"product_code": "WUP-N-JC5J",
+		"name": "ライブ･ア･ライブ",
+		"platform": 164,
+		"platform_device": "WUP",
+		"publisher": 246,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ed79edfee95aa00433db1fc7a706a4812dc72e47094de73db9eb84ce26946e1d.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/71034206e78516b14d4cf4d290a51c2119f7b6f7a1e72ce8c34680c6e15f488c.jpg",
+		"data_size": "43942048",
+		"description": "このソフトは、1994年に発売されたスーパーファミコン用のロールプレイングゲームです。 場所も時代も別々の独立した世界で、それぞれの主人公たちが織りなす7つのシナリオを楽しめます。プレイする順番は自由に選ぶことができ、クリアすると次のシナリオが選べます。 言葉がない世界やバトルのみの世界、アドベンチャー要素の強いシナリオなど、どれも個性豊かなものばかり。 7つのシナリオをクリアするともう一つの世界「中世編」がプレイ可能となり、「中世編」をクリアするとさらに……衝撃の結末があなたを待つ! キャラクターデザインは7人の漫画家が担当し、キャラクターたちがより魅力的に描かれています。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-06-24",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/c3526151f18951b573bd1a8ef66ecf9f3e3b663279a8f55906787973c393a4ef.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/591e255c9cb3c21a1a37d8897c8bfefae78ec6d1416318f2790fa19b92cac76d.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/6fecd67b14b64acef0fe308c7c8528a9fca52c632f45b5ec560446e145833e7f.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/22aeb0b23a9d16c7d10fa3486cf28df8bdd76e2114d29c94ca9d5a7a9d0ea9c0.jpg",
+				"name": "ライブ･ア･ライブ ダイジェスト映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/23680de9ed01e4e1a52c7483ab509f4ad881d201011c5d03bc8e7cde7bd44acd.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "131"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/66d3c3b8a891bc494a17b6f428b62998dca502be9cb74b4844fcb53cfc2df4be.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "131"
+					}
+				]
+			}
+		]
+	}
+}

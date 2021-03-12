@@ -1,0 +1,69 @@
+{
+	"JP": {
+		"title_id": "0004000000064400",
+		"eshop_id": "50010000012195",
+		"product_code": "CTR-N-JGLJ",
+		"name": "おきらくゴルフ3D",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 19,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/79676a14dd0364a6fa27cbf196fbb319f14bafcd45be17c73cdf7b5fb83e5bd2.jpg",
+		"data_size": "65915748",
+		"description": "『おきらく』シリーズにゴルフゲームが登場! 総勢8人のおきらく一家が本格ゴルフに挑戦! パワーショットとさまざまなクラブを使い分け、「初級コース」をはじめとするさまざまなコースを制覇していきましょう。 1人でコースをまわる「ひとりプレイ」のほかに、コースでの総ストローク数で競う「対戦プレイ」、コースの勝利ホール数で競う「マッチプレイ」の2つのモードで対戦ができます。 また、CPUとの対戦だけではなく、1本のソフトを使ってお友達と交互に打ち合って対戦も可能! さらにドライバーの飛距離を争う「ドライビングコンテスト」、アイアンの精度を競う「ニアピンコンテスト」、カップインの回数を競う「パターコンテスト」の3つのコンテストモードを用意。 6つのゲームモードでボリュームもたっぷり。個性豊かなおきらく一家と、ゴルフの腕前を競い合いましょう!",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2012-10-24",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/78305f16c5e568d93b6c064eef4650f03f1261e82917bcb3aad001a43c03829c.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/181296e796d16297d200cd018d3e506d1ff3aae727b9375fabd79992ed0cc2e3.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e04c591ec5c0653390af62606e443bd0fbe8b2c50b0234836146e30b93164da2.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d577652892543c972ba1b847b627b0747180c3ccc1dd7a4e5283934968e5ca00.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ba13459411eaf31c9a5bd2f5a2d789d58a4982550ee3d7356c6d13b056e69484.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/efa9b7cfddb52627f532c2b787a5c3e904efc070fc84c2223053e464502bb573.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c25249f6cf5bd52ee134cd721e817d21498bc1b9ba6b3099a0b8c48ac103f16d.jpg",
+				"name": "おきらくゴルフ3D プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/08460bad6848d482160fb371df34c81b5a3673e2195e13c762ab4ee6e75257e4.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "47"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f2813183128a756dbbe51b085eed40407e738d8292aa55a21473d9d9624cd68a.jpg",
+				"name": "おきらくシリーズ 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/43980479d5b81ca71e33092405bf58ce910f77ededfe47317e9b9610245ba0c4.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "259"
+					}
+				]
+			}
+		]
+	}
+}

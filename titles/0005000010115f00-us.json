@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010115F00",
+	"eshop_id": "20010000000765",
+	"product_code": "WUP-N-WBAE",
+	"name": "Zen Pinball™ 2",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 582,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6e55f6f8beb768356345f3ca96a65941cc95558024f5f538d4d308b3cae2e536.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/939ea36cbb8a21191425a4b1cac3bfe2883a123c943aec4c2218cf6439679f4a.jpg",
+	"data_size": "370540684",
+	"description": "Zen Pinball 2 is the premiere pinball experience on Wii U, featuring an exciting library of pinball tables including Marvel Pinball, Plants vs. Zombies Pinball and Zen Studios original designs. Zen Pinball 2 features advanced ball physics, beautiful graphics, deep social connectivity, tournament play, multiplayer and regular releases of new add-on tables! Zen Pinball 2 is a FREE download on the Nintendo eShop and comes with trials for each table.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-03-21",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/15eb0c7d3ffffd0e7033005b5b53a34cda4c2158bf01c1c270f36c6370d797b2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8e43691c358c3d8be49977cc723063ef9f8b552c10875992fcb0e3acbbf16451.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f5ef3ac419812c0d0b668dded427d14ce3df2a79d3ea24286497d000c9b417bb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4dcb2e617c413330b715bd4396e98ee98545fbcb0e1707fb8151da0de651b154.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5989470bb670bb126cf2edbcd779200e4df3666defb8de3421b88e812544952f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6f3959e8e02b6b85a14b242fe2825ca0d49a02c1c61e9e77cb44559d38011c80.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5d7ce5955d1e8539fcba662e936cdb486bc10cdbf17000c051b776beb083abf1.jpg",
+			"name": "Zen Pinball™ 2 Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5bf8a3aa5bc2c2a5a7527242b7af02021d35d1a9b4fb586374801c16d277b20c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "109"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/14735e89ebcac0546b78a66bd12115d04c1f5201f75d10f5f13431ed7fb5e972.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "109"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101CE800",
+	"eshop_id": "20010000016327",
+	"product_code": "WUP-P-BNAP",
+	"name": "Never Alone (Kisima Ingitchuna)",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1550,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/447485060f238906fb2c3a89209da49f8a3d9b9e0c1e5f3a9883b567a2e79cbc.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/fe3ca19253db0efde37e08aa91d1636d444ce68cc71dabdc1b76a5802fc5e4fe.jpg",
+	"data_size": "1643413744",
+	"description": "Voyagez en compagnie de Nuna et du renard à la recherche de la source du blizzard éternel qui menace la survie de tout ce qu'ils ont jamais connu. Never Alone est un jeu de plateforme atmosphérique développé en collaboration avec les Iñupiat, un peuple originaire d'Alaska, tiré d'un conte traditionnel transmis de génération en génération. Guidez les deux personnages en mode Un joueur ou coopérez avec un ami pour franchir la toundra glaciale, sauter sur de traîtres blocs de glace, nager dans des cavernes sous-marines et affronter des ennemis, étranges comme familiers. Figurant sur plus de 75 listes de \"Meilleur jeu de 2014\" et vainquer du prix \"Meilleur premier jeu\" aux BAFTA Games Awards 2015, ce sont près de 40 membres de la communauté, conteurs et anciens natifs de l'Alaska qui ont contribué à la réalisation de ce jeu.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-07-09",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/b381425e35114ad8d17e774c641b85063cbb7227db2c37041d665676fc7cf1ab.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4366364d333cc6fd96098c2e212f4a3ffd9fa9d477f66981e4a198ffcb309710.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/beb35d1433357653a72cb3c33eb8c3b9fd9a950a793ff1291dcb7f69654d4a5d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/57dc93387977660df745080c927fca86b8b37b219382455566b914756a57747e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3673cb866d32f191d8649b4f7661850143462c294c5b0d9018d3a55864187f39.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f7bc134b46ae8d04f390b166f66a94762c7f39862a343bc7950185371c98ef9e.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d734565e527d6d06f3a9d358678e0b322acf48f2bb13dea038c98582142bb13a.jpg",
+			"name": "Never Alone : bande-annonce",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4d37a8d728d4858577e06097b071e794973b845aea50004f4817e5cd206cf4ea.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "111"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0c4bff3ab263815121f0ced38df89e3db93b1feb46398329bf1a2012df1c9ee8.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "111"
+				}
+			]
+		}
+	]
+}

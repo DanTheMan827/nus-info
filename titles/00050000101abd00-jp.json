@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101ABD00",
+	"eshop_id": "20010000014228",
+	"product_code": "WUP-N-DALJ",
+	"name": "怪盗ワリオ･ザ･セブン",
+	"platform": 169,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/97e0c82f052bddec465e9eb3332574affade20a25c25a7920573ce3cad1d2834.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d0dd7c630bd3bd1fc98133029f4d3aef8bf5149dd3d16bf39ba5585b2100e02a.jpg",
+	"data_size": "80248952",
+	"description": "このソフトは、2007年に発売されたニンテンドーDS用のタッチペンアクションゲームです。 もうけ話の情報が手に入らず、アンニュイな日々を過ごしていたワリオ。ある日、怪盗アニメ「紳士怪盗アルデンテ」を見て、テレビの中に入って怪盗が狙うお宝を横取りしようと思いつきます。ワリオは大急ぎでテレビの世界へ入れるヘルメット「テレメット」を作り、意気揚々とテレビの中へ入っていくのでした。 ワリオは不思議なステッキ「ステッキオ」の力で、7つの姿に変身することができます。タッチペンでワリオの上に決められた絵を描くと、それぞれ対応した姿に変身します。変身を使ってエリアの仕掛けを解いたり、敵を倒したりしながらお金や宝石を集めましょう。宝箱を開けるとミニゲームが始まり、クリアするとさまざまなお宝やアイテムを入手できます。 ※おすすめの画面レイアウトは「大きい画面レイアウト」です。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-10-07",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/fc578b88e606b59d39d68d787c20c83fb26d9f0742a78c0113e76ce3e569a40e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b6d7182524a914d7f053ae0124324362c445ef1cb1eb9dc236d1ee9a9f301969.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/21633fea13cd4ddbfb28c44359ea5c579976220de4ec5bcdf68d9969d777921f.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/70059595627133f0b36babe247fa39fc413bff7c0c3b905d8f2a718575d7fd3c.jpg",
+			"name": "怪盗ワリオ･ザ･セブン プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/494cc1173e87487f5338820264db52babfb250efb1b21cd5a4d69b8c0745fa9e.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "75"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/dbdd932bc9f142c8a481e6deb23055e13ea75dfda4e411f8701eeb7d89d31bd9.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "75"
+				}
+			]
+		}
+	]
+}

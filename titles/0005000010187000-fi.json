@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010187000",
+	"eshop_id": "20010000011086",
+	"product_code": "WUP-P-WGAP",
+	"name": "Pier Solar and the Great Architects",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1291,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d144ea4833f141898a56ae95ff7d38be41636435287b3a6f4c0fedbfcef6c695.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/32e902534eef5acfa348b4f48262644026d2834253dd89f152f353336aa591ad.jpg",
+	"data_size": "2511634752",
+	"description": "Pier Solar is an RPG that tells the story of Hoston, a young botanist who is on a quest to save his father from a mysterious illness. Along with his two best friends Alina and Edessot, the three friends embark on a quest seeking a rare herb to cure the illness of Hoston's father. Little do they know, it is the beginning of a winding journey that unravels his father's past and the mystery of Pier Solar and the Great Architects.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-11-27",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/d257db6d3041bad831d73da35094cf4038e4cfa5d5353dd125ffca721aaa93c7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f5844648d476ec54535eb176138053cb4e29cf6bdc791b6b665e4a5473e820bf.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b0b6bd201157e8bec243e022dcdbb6859fe6ca7a1d5bc9a64f152fbdb3192a73.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f627f123a0c68cf77d1834bbcecfaa14f608e87f231e33e324d2baf3b07b405b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/693b59861af7645b043cc5be8ccd71c354c5c4d1ac92bb0186dffd114621a86e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1d777e23bb57092f484a80192c05d941d08c78cc6c7cdf00b1b43ac45f451b97.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9dbdf3f49022684708d2483ce76e5bad98797a47daa843f5420224bf8253f7cf.jpg",
+			"name": "Pier Solar and the Great Architects: Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8233f387ccd7da3034ce489f46c029e5331d241adb580b8873ff9cf9cc43ebb6.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "115"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8da680b4b0081f5c19602f4b332b8d64d6af54595872c72782fad39029c10302.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "115"
+				}
+			]
+		}
+	]
+}

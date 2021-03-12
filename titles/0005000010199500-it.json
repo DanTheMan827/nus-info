@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010199500",
+	"eshop_id": "20010000013949",
+	"product_code": "WUP-N-NABE",
+	"name": "Super Mario™ 64",
+	"platform": 170,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b22664aa82d1835391e010186607077bdd6db6ea5cfed16eae42510fb59588e1.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/efb3f38fd72eba15100311591b32b6df95d53e46a4b61f5eae32a1ea1102c6c9.jpg",
+	"data_size": "55050360",
+	"description": "Invitato al castello della Principessa Peach, Mario scopre che ancora una volta è stata rapita da Bowser e dai suoi scagnozzi. Ma qualcosa è cambiato... Stavolta l’avventura è in 3D! Scopri i segreti del castello della Principessa Peach e trova tutte le 120 stelle mentre guidi Mario in una nuova dimensione in quest’indimenticabile titolo di lancio del Nintendo 64. Considerato da molti come uno dei migliori videogiochi di tutti i tempi, rimane fedele allo spirito della serie e nonostante Mario acquisti molte nuove mosse, resta semplice da controllare. Questo gioco segna anche l’introduzione dello stick analogico come uno standard nei videogiochi. Se possiedi questo titolo sulla tua console Wii™, effettua un trasferimento dati su Wii U™ per potere ottenere la versione ottimizzata a un prezzo speciale! Questa è la versione americana del gioco.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-04-02",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/384023562a1e18eb23b041624533aeecd12000b57eddf65e085efe57339f409d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d3464f4e101580cfe6d03f5a0d9996b97b176ef37936c67bf8fcb1138a884159.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/be372f6002495a14aaa63e2467e7b9a9bda315ecadbb374843c05138265f4a80.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6640f4e09875f9e7bc32d09189f8384904d40ca76c8c161cd5e31b76ec512a50.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ffbd24b2b10098383d8db1107528956a7b51946325777e2144f3edf7c2dbf50d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/351f2f39336fef1715e424604ebe1e8d3c2533fbacb8951a2e5c77db2509190a.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/09682b2fb115363f5f0a2af5498bea86005f9d36a44a3cd4f11c10eb4418b16d.jpg",
+			"name": "Super Mario™ 64: video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/624c84742fb39ffbeec4cd1a494c54cc29c5134dbaba388fae43c9e31b05539b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "51"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/595658b06ffe0e1f32b110ee3447870a876187d118dd25bc020b5d510b1185d5.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "51"
+				}
+			]
+		}
+	]
+}

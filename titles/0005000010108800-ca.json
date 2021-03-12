@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010108800",
+	"eshop_id": "20010000000584",
+	"product_code": "WUP-N-FAJE",
+	"name": "Balloon Fight™",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0733037ff7cb6a02f13f83820b361b35106f770ec92e781a1a9320e88891f2ac.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/306561be762d983a1d5d498cfc84605c5032c8caaf77da3d447eeb675b9dfc97.jpg",
+	"data_size": "36536460",
+	"description": "Maneuvering an airborne character to pop your opponents’ balloons before they pop yours sounds easy, but don’t be fooled by this game’s simple premise or cute visuals. Underneath these elements you’ll find a surprisingly challenging game with strategy to spare. After mastering the easy-to-learn controls, you'll still have to get a grip on the game’s impressively realistic physics as you to face ever-increasing enemies and environmental hazards like lightning and water. Take a break from the action and play the game’s second mode, Balloon Trip, to see how long you can stay aloft.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "TBD",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/69250160584031da64962d58a45e4ee0d4d3affefb1d539680f2f6dbc9b77e32.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/59df95abcd27360c983a7454806958d527a55ca9dde0ed441d6db219bec4e09b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f70f79b281ceadadc52d62e31bcde619cdcf7f30598fdb053b3b97d1ed78c47a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c27b1a1784b7a259dbe1ced5c2de2502020cc50e1ab602f08aea61e913af838c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/91389550e262e4399a52d2e0d3f891efd8f5b8f2d43494306798838d09b0f4c8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/43c3a08f5648940625dc11929762be7a24c01268ce48f6969b08352851a2a7c4.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a8ec991a1a0e9b2ad78afe654a1ced37effb08a7f58bdeae79aa9831fb1eb333.jpg",
+			"name": "Balloon Fight™ Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1284e1f83fcda1b6842c59531b6f6b373375e32f83f9339e014e48bf7dc74de0.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "25"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/731e0f0df38285804142e9182b106cacbaaa8f392d87f2c39571586e21d184c5.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "25"
+				}
+			]
+		}
+	]
+}

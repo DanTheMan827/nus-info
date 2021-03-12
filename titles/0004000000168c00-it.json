@@ -1,0 +1,85 @@
+{
+	"title_id": "0004000000168C00",
+	"eshop_id": "50010000035115",
+	"product_code": "CTR-P-ADNZ",
+	"name": "Little Battlers eXperience™",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/40c99ddf0d1dc8dc494e82d3c80227b5dc4c7dfc30299204e9fd6d66528995a2.jpg",
+	"data_size": "1898371940",
+	"description": "In un mondo dove i robot giocattolo non sono solo un passatempo per i bambini, tu giochi nei panni di Van Yamano, un ragazzo a cui è stato affidato un robot LBX speciale in grado di salvare il mondo dall'orlo del baratro! Crea il tuo LBX scegliendo tra più di 4000 parti diverse, ognuna dotata di abilità uniche, in grado di influenzare l'aspetto e le prestazioni del tuo robot. Completa più di 130 set di armature o unisci le parti a tuo piacimento per creare il robot da battaglia definitivo!",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2015-09-04",
+			"retail": "2015-09-04"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/9cfeb587ea037dfd466560cc2002cdecba9fb4b5b176aa984e85771f01c82473.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6cae6c6eb5b1336f4f49fb1c077c014592ddb7613e119d6c2731028b8be60576.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c7b118bf0ec1c69a4e8baa8e8d5b686ed2bef1b8783abb52ae263d3dfee676f7.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/461eee95d15b9e3a66195e4d02dc66fb4ed33ea1ca33e39064e6adf9b6dee761.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7d0e44500ed6829993b3907c17a9b9ba4795a18272970a8e7956d73e372af144.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/005ddb13a0a8d56c9a2d6bd67dfc70d1afcba99a8fff1ba4631e9914170b3ea7.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d63554472555d915707d549adab868af5e70b0613cbfd7156095e6f9fef08dda.jpg",
+			"name": "Little Battlers eXperience: trailer introduttivo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fc24a9a9dadf2919b0f2e625f8fa1d5f13654009309544a0b749ddfaf9f4af68.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "182"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ca1d95b8ca689344140d063482e6b953187a927e39d5b870c29eb5e87abc7cd9.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "182"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d63554472555d915707d549adab868af5e70b0613cbfd7156095e6f9fef08dda.jpg",
+			"name": "Little Battlers eXperience: trailer in inglese",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7428fcf4cf881c1a1d869ade48bf97de5881bee3899bb19fa06b7a9266d4454b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "63"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0f5047f08338fcc75f64890e7467ae0d8c87bd956e31d121fa5d0b330d6ba8e2.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "63"
+				}
+			]
+		}
+	]
+}

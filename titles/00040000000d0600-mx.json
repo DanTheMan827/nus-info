@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000D0600",
+	"eshop_id": "50010000014436",
+	"product_code": "CTR-N-JS2E",
+	"name": "Swords & Soldiers 3D",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 46,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5c93bee48548ebb69732c496c8245f1dee29bebdaad664b1d9716bb71294e85f.jpg",
+	"data_size": "51190628",
+	"description": "Prepárate para un encuentro con un pimiento monstruosamente grande: Swords & Soldiers 3D se está acercando a tí! Vuelve a escribir la historia en cuanto tomes el control de los brutales vikingos, los aztecas desviados o los chinos astutos en su búsqueda global para ganar el favor de los dioses! Swords & Soldiers 3D es un juego de estrategia side-scrolling que te permite controlar a todo un ejército y te permite empuñar mágicas habilidades devastadoras. Demuele el castillo de tu enemigo al final de estos campos de batalla de dos dimensiones y conducir tus tropas a la victoria! Características: Diversión estratégica como nunca has visto antes! Comanda a aztecas, vikingos y chinos en 30 misiones! Desafíos sin fin en escaramuzas de un sólo jugador! Gana logros difíciles!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-05-16",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bb6cefeb2f5201632db429eea9c3bf05bab1d632a1f10e36756d05e69ccf3acd.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2b7cf62b0f84f69f2451667b5248494e8eece5c43350b8438755fefb9b65d1e6.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e236081852aa6983a70a50d4713e55bf4d4422bc0f2ca80dc00eafc19d580a2b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ea72440cdc6b6210a808a1b449054ac778e6ab77d4aea87de000dc89f6fa3cce.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f2f7f64b28f5c430e60fab4d73fb6a361c1664fa3dfb2de16c36c62fdc4ae366.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a78cd153f234e9a6962487822313e3d02835d325bb5fcddd35972339782d84e2.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/79ab69dc078c63f6cace6a22fc65a81d145f1a44520d61a63274c0133c7e1ab4.jpg",
+			"name": "Avance para lanzamiento Swords & Soldiers 3D",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b01de50b8133cfa6df69a3aff1237e38d76af3370e8f82ed98d892cbb006b08d.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "101"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/80e90b795c4dd66cd04e5d5b4b4ceb662bc5789512aff9d063336ef5ae224f11.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "101"
+				}
+			]
+		}
+	]
+}

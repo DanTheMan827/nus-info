@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "00040000001B1900",
+		"eshop_id": "50010000042358",
+		"product_code": "CTR-N-KCTJ",
+		"name": "Chou2トーク",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 285,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b9e1c75e2c8d3fb62320f7e4edd6fbbcd2abe3cd8fb1712cd4793a3a2d5e9b6e.jpg",
+		"data_size": "25897828",
+		"description": "『Chou2トーク(シュシュトーク)』は、登録したフレンドとチャットや電話ができるニンテンドー3DS専用のコミュニケーションアプリです。 お友達とお話しながら、みんなでお絵描きのような手書きチャットができちゃうよ！ 今日の出来事や学校の話、遊びの約束、いろんな話題でお友達とチャットしましょう♪",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2017-08-09",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c3b87ad8dcce27915f1c2cae19f257cf58ac348ca663acd63114e377c3f51042.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4b14d1795136c04790e0545cddbacf21838783b3b57bf8df945b921d01c94704.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3979fad9756c6065692a2b30644076ded2ab18bbd4accd870d0d8e5f15a9c73a.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0c803d2955c5b0c11afa8ebc34b06ee85908548adefdf45bd3cd3a90334eef85.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/9a2e72d0f169299cff05dcfb54c8ad5628a210068c01acb6f6d92b05181e4c77.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5e4e159e4a979eb184439988350acf3bb6bd62241961ea9069572d1ae6a9e6fa.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b3a3233f285050c24307ecf2326dcbc013f68d3ac1afefe4098b5d3b0effc59.jpg",
+				"name": "Chou2トーク（シュシュトーク） 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c8895f464bf6b509ab388bf1403a8cbfa70a851eeec25f6ba3ab5002d7209cfe.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "43"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8d96c22e6a8b1a9552c5676bb7dfe72ba03eba00ccc84eea0f31300ebe0535b8.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "43"
+					}
+				]
+			}
+		]
+	}
+}

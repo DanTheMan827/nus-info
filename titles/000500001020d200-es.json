@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001020D200",
+	"eshop_id": "20010000025927",
+	"product_code": "WUP-P-AW5P",
+	"name": "Words Up! Academy",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1249,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bc4ca3f92bbe54019c6aa0658459ef26d264f0433473140d8fa56aaed84b80cc.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ff9ac318462bb206014e172656f0a92a2352a67581dde063b027083cd04a5453.jpg",
+	"data_size": "121340044",
+	"description": "Entrar a formar parte de la Academia no es fácil; sus más ilustres miembros te esperan dispuestos a retarte en este singular juego de ingenio y habilidad. Demuestra tu dominio del lenguaje en WordsUp! Academy y ¡atrévete a desafiarlos y conseguir su aprobado! Características: - ¡6 modos de juego! Desde el desafiante modo principal, hasta el nuevo modo Relax, que te permitirá disfrutar descubriendo palabras de manera tranquila, sin presiones... ¡le encantará a tu madre! - Practica vocabulario en seis idiomas diferentes: inglés, francés, alemán, español, italiano y portugués; ¡el complemento perfecto para tu estudio de un idioma! - Decenas de miles de palabras por descubrir. - Horas ilimitadas de juego. ¡Practica tu agilidad mental y tus conocimientos de la lengua en WordsUp! Academy!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-02-09",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/3b455967b659ec7111eb9782ba714bb9f79c8bd850fb166e1741e6c0b0001ba7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1f554afac4a3abd483b60a04bb29a6e2b16e3d6280c9ac8f9e9e579f45dcec63.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7f6bf06ced43a33bf409e31d022a0a65de26d454be7f66769186beefa712fa94.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b6409c6dd2076766bd7d2dea2803373684ea55fdb8c82e756a498722fada138f.jpg",
+			"name": "Words Up! Academy: Tráiler",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3163ad47079192583870a807397011787d0feb1a984b07a18ac42ef9ba249251.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "75"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2a77ac9c053589fc264516e6fc233f555ea5580368a2776cab5203c4cf90d4b7.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "75"
+				}
+			]
+		}
+	]
+}

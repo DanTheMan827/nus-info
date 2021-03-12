@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000C8C00",
+	"eshop_id": "50010000017313",
+	"product_code": "CTR-N-ARVE",
+	"name": "Sonic Lost World™",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 233,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/1718108001d6fdc120bcf5f5d4d43dbda580af49daf2cf28a10e42484421a80e.jpg",
+	"data_size": "1310333844",
+	"description": "When the Deadly Six threaten to destroy his world, Sonic’s new moves & power-ups are the only way to defeat them before it’s too late! In his latest plot to defeat Sonic and rule the world, Dr. Eggman has harnessed the power of six menacing creatures known as the Deadly Six. However, when the Deadly Six rise up against their new master, Sonic must unite with his arch nemesis Eggman and explore the mystical Lost Hex in order to take them on head-to-head. Use Sonic’s amazing new moves & incredible Color Powers to speed across a variety of unique terrains, racing inside, outside & upside down in every level.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-10-29",
+			"retail": "2013-10-29"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/15422e255c8363062d187c8a279fe9e9854f70115dc2d4bb8b774a5a389d0eb5.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/11b6567611e58cb74b87dd34ee0b1857f3be32c24e9ca94744c8d448f8771d6d.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b3363101aa2e2d96f84de17592287ca99cc35f44703adf3a55ba71c0aa265a07.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1934aaa0d0a4a9d865e96d22259c0dc2d44ed3e9f079af10b3ea0ab79b9c6f47.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/93ca0cb8373399fca6f1a862593c33f2816ee13b6e38f01f7fe2f1834a4189d8.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1bca2de85597518b9530953f70a7fafb8a2ea6ec61e98c62a7d2121edaa144a6.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/961e262e4c3e3c9911b472c94d0088ac8aeb66c1ce0f833bdd104650e5d68eaa.jpg",
+			"name": "Sonic Lost World Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d851d4618fca52d6a13e231e4b90c6946b6777ea5c0c3665d505889120660c29.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "80"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/99fd3efb8df2fa59d622725a09868c68311695414ebc83fe9d2f526e9de7b239.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "80"
+				}
+			]
+		}
+	]
+}

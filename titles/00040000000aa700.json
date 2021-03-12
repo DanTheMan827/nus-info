@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "00040000000AA700",
+		"eshop_id": "50010000019574",
+		"product_code": "CTR-N-AHRJ",
+		"name": "カセキホリダー ムゲンギア",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/1690aef5ee3f658c905b6a4e529e962d4eb8586c303af43ddd8bca2554c117af.jpg",
+		"data_size": "1408834404",
+		"description": "カセキを発掘し、復活させた恐竜でバトルするRPG。「カセキモービル」で道なき道を駆け巡り、カセキを求めて冒険します。カセキを発見したら、車に搭載された装備を生かしてカセキ発掘。きれいに発掘すればするほど、蘇る恐竜も強くなります。バトルで恐竜を育てながら最強のカセキホリダーを目指します。",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-02-27",
+				"retail": "2014-02-27"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/174a329fe63853733ace47f33f3ccb0ef19d46eb96db6f24d05b7d52d8d1f04a.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/571c5f1e3501fe3981a762545a42cae39bc1157181ed38ea5be1f6eb560efe8f.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/31a4d33938269555571df73059afe7bd5dd7f019661de1592efa386419fc60d4.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5cf060f75089967074ade4088f9acc4856f3a6150f98511068da58f1dd8676a0.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/728f85341d150f8b57b5de50092935c00b0eeeb84f9a4dfac84ddc9780c94f8c.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0afacff0733b6869e54d79b4c7821e3f351dd62974ee2d20cb6565cb2b921fa8.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7455c9cfd5ace55bd83acc8f25fac3cce1f2f04b72693918005a8c6568126807.jpg",
+				"name": "カセキホリダー ムゲンギア 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/29db6bcb6c6e30911e5603467d2aa2b7f6f79fb1414c6478f0ca1fc3629cfe61.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "312"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/348b6e77e24a505202f5b08a4427a4c416eaad433f720b5ebb63c41dc01a4119.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "312"
+					}
+				]
+			}
+		]
+	}
+}

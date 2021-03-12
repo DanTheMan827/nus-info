@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000065800",
+		"eshop_id": "50010000010871",
+		"product_code": "CTR-N-AR4J",
+		"name": "ルーンファクトリー4",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 628,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f9e7fa1fe4a45a59723301520a2a4775083e7e2863a6aed305104d72dde1d68a.jpg",
+		"data_size": "1466014564",
+		"description": "主人公はファンタジー世界の住人。王子(姫)として日常生活を送りながら、仲間と一緒に城の外へ冒険に出掛け、モンスターとの戦いに挑んで行く。登場人物や物語は完全新作、はじめてプレイする人でも遊びながらゲームの世界に入り込める。",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2013-01-24",
+				"retail": "2012-07-19"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/820caa0891ef14cdf8c8cd91bf41f570ff8a6c664377cd586052f8b611a2097d.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b0bd0432da4d7f552fbad6d629895ea9a9fe457709b7cd30ec85be2cd0c5faae.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/9c4686303b3267aa71443d2ab1ee58a7ac9e62e16840496bf0423c542edca80e.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4788fcd99ebcfd5cdd090679a9313b8765e00d38f35bc47a75adbdfcf88fd508.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/95019313966af69c3198a8fde653c343f733eb8fb19d7bacbdef0a44970bf916.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/16720055f28b4fe3a5c4a3532ecc8dd328499447ff1e2ce2d2b550b8b4fe06f8.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/537d6e50708375335242dfa12ad7645bf46846fb28aee2f81ab990fd8c8b68db.jpg",
+				"name": "ルーンファクトリー4 Best Collection 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4b9097bd343c0897cb7193c76f6ebbb1261ef29a1f1b4261765e9bd4cc56b198.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "134"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5ae464efc3a671ea80648f6a1b0e7a2444ce832923f8be78e7605c41ec6a6a7e.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "134"
+					}
+				]
+			}
+		]
+	}
+}

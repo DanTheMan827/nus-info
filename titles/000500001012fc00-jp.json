@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001012FC00",
+	"eshop_id": "20010000002068",
+	"product_code": "WUP-N-FBBJ",
+	"name": "光神話 パルテナの鏡",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0aebe4533ea9705b7e1d3f28963ce173d26dbe3afde40fdb0d5e85dd84254f3d.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/1f378232d3118d19b5174bb32ed894d9e755dd5b8fed1a25857c2fb5e6bb37f6.jpg",
+	"data_size": "36569228",
+	"description": "このソフトは、1986年に発売されたファミリーコンピュータ･ディスクシステム用のアクションゲームです。 光の女神パルテナにより弓矢を与えられた主人公ピットは、石像に変えられた仲間を助けながら三種の神器を集め、闇の女神メデューサを倒します。ステージは縦スクロールと横スクロールの2種類で構成され、さまざまな敵キャラクターがピットの邪魔をしてきます。「お店屋さん」や「ヤミ屋さん」では、敵を倒すことで手に入るハートを使ってアイテムを購入し、ピットをパワーアップさせることができます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-08-14",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/2595f155440bb63a4246178f6056ec9257bdd1e87b1383e1587dbe4d6aeed320.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/752bf0d120d211428629e6349ae69f7af0260abfb9f962c1fce3141e12e2ba58.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b5b317cb9d11c0e9e8c40d243abeff53ff0b4a9ad8ef6645e4bd7e8c6454d66b.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b0311ed9510487628a78a1d97cdc7b53c5f87b3bb6b0e68cbccc342f45c67fb2.jpg",
+			"name": "光神話 パルテナの鏡 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ccfee5ac53f70ddce2cb0333cc5137b4225a81f0711f767a37fb6d8552f7558b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "43"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/89ca9ca852349117c96ab26e96342eb2e0cc70e75d1e7df90d9809b761339fad.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "43"
+				}
+			]
+		}
+	]
+}

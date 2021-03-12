@@ -1,0 +1,79 @@
+{
+	"title_id": "00050000101F7400",
+	"eshop_id": "20010000022988",
+	"product_code": "WUP-P-AHZP",
+	"name": "Hot Rod Racer",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1271,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e68963a26dfb71630092afbc647794e35ea354bd2a561477a71805ace541e1bf.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ded100a6097c37173e7651ca5545e878acf8b696b006800a7ed1662afe2f1414.jpg",
+	"data_size": "69599392",
+	"description": "Nous sommes en 199X. La compétition de course la plus dangereuse du monde a été créé: le INFINITRACK GP! Imaginée par - En faite, on sait pas trop, certainement une entreprise des plus maléfiques - elle s'étend indéfiniment et n'a jamais été complétée. Bien entendu, cela n'a pas empêché des milliers d'amateurs de sensations fortes de tenter l'exploit, jour après jour, avec des véhicules toujours plus sophistiqués que l'on appelle Hot Rods. Et aujourd'hui, c'est à vous d’enregistrer votre nom dans la liste des fous qui ont tenté l'aventure. Un seul problème à noter, vous avez, pour le moment, uniquement testé la piste d’entrainement dans le sens contraire de la route. Mais bon, deux ou trois collisions frontales n'ont jamais fait de mal à personne, non? Choisissez votre véhicule, un peu de tuning et lancez-vous sur l'INFINITRACK GP pour voir jusqu'où vous pouvez aller! Bienvenue dans le monde de Hot Rod Racer!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-07-21",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/8c70b9074caceb24180ebd5e07605430cd725845b29194d956a9e4bd104f0b84.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/319e1429e281ba9652895fefd810ad725ddcd330a6708747537725a753bb764a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/54ac26f9fbc52a0ad2eb54e4a3acf2d394642ebad2add7131ea8382c726bc056.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4bf5cbccdb25e222d74150c9e285cabf4f1e6396e81acfd5a92f00b934efd06f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d22eb88a6229c176d7642e82c8347a08ba1d06e8690547f067ea04aebc3b1072.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b251f93e5dd7d6a45e67826d1f5b08a32acac46da9b7cdabb7c05a58267fca58.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cf1774e45bac7421934bf40b452f51a0cffc631e25d15a66c76df63b8473a649.jpg",
+			"name": "Hot Rod Racer : bande-annonce",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bf5883b32a84102aeb83e1868ca9e2555d4615d0d50b5d104066a46a5e851d6f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ae1d180b61f2cc8e124fc541c47f398e7e8e3d03189cb6fd459fd61699c9a46d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cf1774e45bac7421934bf40b452f51a0cffc631e25d15a66c76df63b8473a649.jpg",
+			"name": "Hot Rod Racer Gameplay : vidéo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a3ba1822e690317432d44b7e2ea094ffbb0a39c710d8815f2be8a1a9fd5367c3.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "82"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/30ac1079ef735804d3d00117a6baf30060e8681d92e66c0dd70cb1982f035bdc.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "82"
+				}
+			]
+		}
+	]
+}

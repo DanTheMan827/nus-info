@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001020DF00",
+	"eshop_id": "20010000026007",
+	"product_code": "WUP-P-BZ4P",
+	"name": "Star Splash: Shattered Star",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1809,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c5a8fcef9e4a0025c56fd4cf4e98c02cb1984c57dfbc8a672eff2f92dc5afcf7.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/bc9092286489e7a0dff768e13a03c514c13b302b879d4d158fa9dffa778db587.jpg",
+	"data_size": "213581964",
+	"description": "L'étoile mère céleste amène depuis des millénaires un équilibre à la planète. Mais à cause d'une créature maléfique, elle est maintenant brisée en milles morceaux. Un dauphin courageux doit retrouver les morceaux pour reconstituer l'étoile mère et vaincre le mal pour prévenir la destruction du monde ! Dans \"Star Splash: Shattered Star\" tu dois faire toutes sortes d'acrobaties bien calculées et précises pour attraper des étoiles dans plus de 30 niveaux. Nage à travers les océans, saute haut dans les airs, plonge et charge à haute vitesse pour sauver l'étoile mère ou compétitionnes avec un ami en mode 2 joueurs pour déterminer qui attrapera le plus d'étoiles !",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-02-02",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/2151b89251e33a59ce1aff4a2338bcca84374802a0a170087183a901d26eb209.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7a2bf2cd4f7aad49525cb9cc24ff39fa9b6222f9c3f3d1bd91cc6071fcc55373.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/34f34d2927b37f70b124e227c36f70f6d6f963e0a669f50cc6c29fb6427ba5cd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a5814f3531d6fe217f2c130b7f415d68303f2f6b259d00929e01c51d383ec295.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/37e6c1628c6242d36880debadac3de2d9e4422402fb26d1b5c046705427338c5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d9ee25b56970e3279488d7b0ac9ff9de857e3b5ac2a0ed2f8c95b018572bb8ae.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/830c8fc75a7f71496df5956591fc98819d40bd15443cd3136b9fe53a4a3b4013.jpg",
+			"name": "Star Splash: Shattered Star - bande-annonce",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4d9da1259975e0ae929eadfe8d3959ba338d6826177826fc0dc2961d0344980e.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "57"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c3e759ef712aa55aad98aeb52a43f42c8473c12593e641d3056005e367fc2738.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "57"
+				}
+			]
+		}
+	]
+}

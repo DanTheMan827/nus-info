@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000147F00",
+	"eshop_id": "50010000030195",
+	"product_code": "CTR-N-JVXP",
+	"name": "Kirby Fighters™ Deluxe",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/65e1b781bebc74343c6be8739c74d181403fb6deaf474fddc3a1fb9bb20696dd.jpg",
+	"data_size": "131652500",
+	"description": "Fight it out with your favorite pink puffball in a fierce four-player battle action game! Team up or go solo as you battle in new and classic Kirby™ arenas. Choose from powerful copy abilities like Sword, Ninja, Hammer and more as you take your fighting skills to the limit! Based on the wild battle mode introduced in Kirby: Triple Deluxe, this standalone game contains expanded gameplay features, the ability to play as a team, new arenas and more. Join up with a friend and fire the powerful new Team Cannon to blast opponents with mega-damage! Earn rare copy ability hats for defeating Kracko and the King Dedede army in the single-player gauntlet. Owners of Kirby: Triple Deluxe can also access two bonus copy abilities plus an exclusive arena – Waddle Dee Train Tracks! This software supports up to 4 players for both Local Play and Download Play.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-02-13",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bbf6b5b156078e946e0b8f33fb927b6f568b4b1a3d1031d2be11615b81bc235a.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/832b807f8d2107d57c1513c5a65aa863552bafc4891a1d4d9869197e31769a96.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8a193a6dbaec2370a33bcba9d4b7280e4f314e8e5a52d813926e7ce0bb7d6835.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f3a3a24b4baed4680171c61badad34be11f04df664984220e4698082a46bf656.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/87c4b203f53712e839eaa6519dfe79bf8e03e9c8ae87fb7d86ac400ec7c32677.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f2242c841367b0ba25ef50b04d07d9634401d92bf6d08d6a1a2eb2dfa4db6bf2.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d8428e997d30f25d9c79958030b6951a50116451ea7615cdb7150badfa0cef9a.jpg",
+			"name": "Kirby Fighters™ Deluxe: Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a7b45c1914c80e6ea8a85cd51ebf2111f85a3d5c541dd7edd6fcf1d6b1435292.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "74"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f226162662e9cbd8611983ece5d7eaf01ac5ef82ab8e90b0549cee1557af0bbb.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "74"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010185D00",
+		"eshop_id": "20010000009030",
+		"product_code": "WUP-N-FDWJ",
+		"name": "ファミコンウォーズ",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/10286f33025f11b0cc772d3dbce8fd8265a6227e3551eb106c82f8bd6790814d.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/71a64606d7d38bd73ef223c513575e558516708320568eaa26cf58a8fefc344d.jpg",
+		"data_size": "38699168",
+		"description": "このソフトは、1988年に発売されたファミリーコンピュータ用の戦略シミュレーションゲームです。 レッドスター軍かブルームーン軍を選び、部隊を進軍させ、敵基地を占領するか敵部隊を全滅させれば勝利です。生産できる部隊は歩兵や戦車など全部で16種類。都市･港･空港･工場の占領や、部隊の編成が勝敗を大きく左右します。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-12-03",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/65eed0881002a840c79021f45c91a198f9602179f94002700fc220eae9eb51c2.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/014e75b36d7e1ba6b23132f8748410f1e794e67b77306c27b807dd74115248fc.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/e4a6ce69903e1a0df2ffa3009bfc9b7f2fce3d7ca694379a7e624144fef5f988.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f0b2ee067e2349370294268cfc8ff3ed2d84b73f58db3f9485a17e8ef782f4ae.jpg",
+				"name": "ファミコンウォーズ プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3644458794c5e9e349cf803024727d878b653a70a2778d676234d9a588b0980c.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "53"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/876d9ab63294a61a430663519f06b07e9cf9128ac2ce629363d2d2ac3a1ef795.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "53"
+					}
+				]
+			}
+		]
+	}
+}

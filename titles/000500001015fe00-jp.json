@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001015FE00",
+	"eshop_id": "20010000005087",
+	"product_code": "WUP-N-JCCJ",
+	"name": "マーヴェラス ～もうひとつの宝島～ ",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/644075ec3f62250fb0ad73cb61b23c985983e1783ead147c898ceccd3efef421.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8e422f4350be1838a6f966d0d3df8313ff3fdcaff9138847b12a377ce054027f.jpg",
+	"data_size": "42270860",
+	"description": "このソフトは1996年に発売されたスーパーファミコン用のアクションアドベンチャーゲームです。 いつも元気な「ディオン」、太っちょの「マックス」、のっぽの「ジャック」。仲の良い3人組の少年が、夏のキャンプで訪れた島で、海賊にさらわれた先生を助けるため、伝説の海賊「キャプテン･マーヴェリック」の秘宝の謎解きに挑みます。 アヤシイところをくわしく調べる新感覚の「サーチ･システム」と、3人のキャラクターそれぞれの個性的な能力を使って謎を解く、壮大な冒険が待っています。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-02-12",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/3a2127875987de82e1395410c7f48884a86e01e2b277c10b29dec56960f841ad.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/597b854c9f9fb67d1146dea5e48fefd7cb3cd97d31d1b46751bb1e621950a55a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1feb79631918cafb9b51b32489b695f82135cc5a378bea5312253699f8424a60.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e0238f0506b6fc8e86a6f0e5c66dad29175f8136c8b3ff7f3a95983f499f07fd.jpg",
+			"name": "マーヴェラス ～もうひとつの宝島～ プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ee9936035c926dcfbacf10579d9114f126c1283bb7da95b8841c4424ca864931.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "43"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9ccd3f828e073f7c6635932da1d438d34ac6ea6a54ce1a03fc70f89e1eeb817a.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "43"
+				}
+			]
+		}
+	]
+}

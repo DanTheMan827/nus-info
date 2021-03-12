@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101A0C00",
+	"eshop_id": "20010000012467",
+	"product_code": "WUP-N-JDFJ",
+	"name": "魔神転生Ⅱ SPIRAL NEMESIS",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 25,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fcb71c29a4d29040544241951eb24e0532def307c0476075a601d12603ccf198.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9548ab9cdcb67363d5733dae993b0823fc9747f8bc7b4b0b6fc56962822f0466.jpg",
+	"data_size": "45482144",
+	"description": "このソフトは、1995年に発売されたスーパーファミコン用のシミュレーションRPGです。 1995年、冬の東京に突如現れたアクマの軍団。それに対抗する組織（パルチザン）に所属する主人公たちは、仲魔（仲間のアクマ）を使役して、敵と戦っていきます。 全体マップで各地を移動し、戦闘マップでは人間ユニットと仲魔ユニットで部隊を組んで戦闘を行います。 戦闘中にアクマと交渉することで仲魔にできます。アクマは種族によってさまざまな特徴があり、多くの仲魔を増やすことで戦略の幅が広がります。 仲魔にしたアクマを合体させる「REMIXシステム」では、強力なアクマを作り出すことができます。モンスターだけが使える特技「EXTRA」は、REMIXした仲魔に継承されていくので、「回復の使える攻撃型ユニット」など個性的なEXTRAを持つ仲魔を育てることも可能です。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-06-01",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/1ab61ef3814ae0b3690e19712c466dcda2007db0f1f239af6ceee0a266647638.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c2e77e142e35346184313956935ddee71a6e1f46a84ae7b704995d5cd19e7c22.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3bc64697f88bb2923cb54402ab1d8bc08790a9af32061daf3d341d21cc3dde86.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7593f1e67c8ed1b36363ba14374687729a547915b705c43224cff19490a969b0.jpg",
+			"name": "魔神転生Ⅱ SPIRAL NEMESIS プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8ab4e2e28b25276e307130479a1ffa4fbc12a3e7f4c8301cae51d1d9e5ea575a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "83"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f356d872ca1d12931391a78f39ba85da12ac50f2c79301c32cb790e8f012d173.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "83"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"title_id": "00050000101AA200",
+	"eshop_id": "20010000015167",
+	"product_code": "WUP-N-APJE",
+	"name": "Vector Assault",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1518,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9009f49ae80e5f66790196664837aa956d26632e38679de67a4f430772be1333.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/be94a9cd82f25cc8886e1476ceeb8c32caa842b089887004afa8dbb43ebc4cbe.jpg",
+	"data_size": "181174412",
+	"description": "Vector Asalto es un juego de palo, dual, donde tienes que sobrevivir a un embestida de ataques enemigos. Cuantos más enemigos que te derrotar mayor será tu puntuación será. Trate de lograr la mayor puntuación posible a través de múltiples modos de juego y niveles. Compite contra tus amigos y otros jugadores para ver quién puede conseguir la mayor puntuación en las tablas de clasificación online. O bien, puede jugar de forma cooperativa con un amigo en el modo multijugador local.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-05-21",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/6b051d14e5c7ce37b8d917d1dbaae562b8a192f8277ea847186c44afbfc25ff5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/12e2e4cf8c8345cfeb661a43f7dfc1c27791885d11b92806be2a4d930abe7d9d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e8026a2c52fdcace01afb626d1de89582174225f0ec456f65c03e3c1d14032e7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d04584a8e4020bd9a5ab6ad1fe4643f88e5a501f97b146b92770999c31abf253.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/87bf6a8df2191eb10402e792e17f097b2a5d67b5ac20e5f5cfcaca2b2498fbbc.jpg",
+			"name": "Avance para lanzamiento Vector Assault",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/760b4586eaa2f9e6b256e336d50cd230bed0adfaccd817ebdd21f51f7b512ba4.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "108"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8a5953051ffb0ece4525c98304b5a027acf3bd209ba82fb2e06aecdb6b5ea5b5.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "108"
+				}
+			]
+		}
+	]
+}

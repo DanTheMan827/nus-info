@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010134D00",
+		"eshop_id": "20010000001846",
+		"product_code": "WUP-N-JBFJ",
+		"name": "ファイアーエムブレム トラキア776",
+		"platform": 164,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7745e389ddcdcec907dd47d0b2c12c59dea5bd2a69449bd2915ef44486e7e4d3.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c169eba8a8ca2a2167cb4f4d658f1128acbb1d08e2f1ed915591b31dea56bc7f.jpg",
+		"data_size": "43548812",
+		"description": "このソフトは、1999年にスーパーファミコンのカセット書き換えシステム｢ニンテンドウパワー｣より発売され、その後2000年にスーパーファミコンでも発売されたシミュレーションRPGです。 レンスター王国を追われた主人公リーフ王子が、故国復興のため聖戦に赴きます。『ファイアーエムブレム 聖戦の系譜』の外伝が描かれる本作では、リーフとともに育った少女ナンナや忠臣フィンなど、『聖戦の系譜』の人物たちが数多く登場。これまで語られなかった人間関係や歴史が明かされます。 戦闘では、各ユニットの特徴を活かして進軍し、戦況を有利に進めて勝利を目指します。敵を捕虜にしてアイテムを奪う｢捕える｣や、味方をかついで敵の攻撃から保護する｢かつぐ｣などのコマンドが新登場し、戦略の幅が広がりました。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-07-10",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/fcd14759f70bdd23e27e4908130ddb08ea91781c0e0f991c94580d9f69b44204.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/7cf75c9f453b8097690fc7f375eeb8431648b9c051b7718ae69a1e56fa677af4.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/f5269c803e840f86d83743bcd9e31b3ade115800e16a96466c090e9a13dba7c7.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2288c4b5d4c1f8a36551c82ed3c1c7005b73305221c854238223d2dcfbb442c8.jpg",
+				"name": "ファイアーエムブレム トラキア776 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/936635fbec4a0356bd5e070e8472082e987d174b1e5b44933517a250b6988c08.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "51"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9979a3cdebbbba1513420f5ffafe7110147670abfd3125323afee4c961f20d5a.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "51"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101E6C00",
+		"eshop_id": "20010000024527",
+		"product_code": "WUP-N-DA8J",
+		"name": "立体ピクロス",
+		"platform": 169,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ded8fd985564b39eec88df8085228bfeeaea19628159192d4012ae78e4ad9d49.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6f37f306c750ccd1c985a6e75f8a249e07c074cfa99df1dc908b3ed6b838a886.jpg",
+		"data_size": "66683000",
+		"description": "このソフトは、2009年に発売されたニンテンドーDS用のパズルゲームです。 数字をヒントにブロックを壊して、隠れたカタチを完成させるというシンプルなルールで手軽に楽しめます。ブロックに描かれている数字は、その列に隠れている「残すブロック」の数。それらの数字をもとに、残すブロックを推理していきます。パズルをクリアすると、完成したさまざまなカタチのアニメーションが楽しめます。 ブロックを自由に配置して好きな色を塗る、オリジナルパズル作成モードも用意されています。 ※おすすめの画面レイアウトは「下画面 重視レイアウト」です。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-10-19",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/9086325b7955d491f0747c8b93ea406cabf3de47abd8e04cbd67cb5205b4531f.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/8c3fdefff18c8e603af470ebe1caccfb06654d921a6ad2ad6a555fa1dc39f613.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/c23cafc5af5ac7bda39ca716ceedae716751f85ab0c70314ba4e496ce6711620.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/61621e2f775c5a9d3e4046f7462b5de7a0e4e37248b99a38d370c50a420e0d8f.jpg",
+				"name": "立体ピクロス プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fbcc0d39fff750aa8a2926859c74b7fb529841afb56aa5cb537a09651a0c6a8d.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "72"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a11fd046b3311045ef1ba9bd8b650114239752aeb907aa800dff2399bc56cc1c.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "72"
+					}
+				]
+			}
+		]
+	}
+}

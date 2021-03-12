@@ -1,0 +1,815 @@
+{
+	"CA": {
+		"title_id": "000500001016DC00",
+		"eshop_id": "20010000009591",
+		"product_code": "WUP-N-ADRE",
+		"name": "Disney Infinity (2.0 Edition)",
+		"platform": 125,
+		"platform_device": "WUP",
+		"publisher": 64,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/eff5904878d1bcf76bfb5078d8fe80b4e6db167ea960c30e1f6a7d22c23f5d5d.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/28f82c8a0f15cf9cc345232186ef84c5adbcd75a5ea30642e8e47f4bd1350d4a.jpg",
+		"data_size": "11351819240",
+		"description": "Bring on the adventure! Play in a game universe where you have endless opportunities to create stories and fun-filled adventures featuring all-new characters and powers! Note: A Disney Infinity Figure and Base are required to play. Mix, match and mash up characters and worlds in Toy Box 2.0 to create any adventure you can imagine! Use the new Creator tool to quickly build your worlds with ease. Expand your fun-filled adventures by collecting additional Play Sets, Disney Infinity Figures and Power Discs. Items sold separately: Play Sets - Unlock new fun-filled adventures and action–packed missions! Power Discs - Unlock team attacks, gadgets, power-ups, costumes and more! Toy Box Game Discs - Unlock new customizable games in the Toy Box! All Disney Infinity Figures and Power Discs are forward compatible with the Disney Infinity (2.0 Edition) Video Game.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-11-04",
+				"retail": "TBD"
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/bb997bcd019fdbc13cdaffc369652be68f5fbd1831d3d5fe6c3edcf005472419.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/803d208efada94e5df8e9e5e35c744abf68ea4a63b757c75ec791fbd87eaf64b.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/5fcc352df8ebb06f0e0502e3ce896d147d510906b01b7683f6e6ba0e99ccc3aa.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/962bde7b80de51d3da78bcc1277fc9ae0818593606e90f978477df402900f3c0.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/d7d201374f742bd58591bdbc6b71308bb5e8cb271fe26a81ebaa2f262998c686.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/ff8b7462485d9cb58a43f5d999eac7bed64b0498f82ae0f6cc00c05c10c7a0bf.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bf87f9b7fdc9eecfb563a99f9b54529e3af234b708cd7c8e16014e95886976d1.jpg",
+				"name": "Disney Infinity 2.0: Marvel Super Heroes Walk It Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d612ed3257f4eac9be150068b876440abd5b8fa26c58c3fc6e18bd8a3b7db3c5.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "64"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a886fd2b6664e91a009e274516828f0b6d07cc87a7f036bd8aa7ecd63daceef7.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "64"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bf87f9b7fdc9eecfb563a99f9b54529e3af234b708cd7c8e16014e95886976d1.jpg",
+				"name": "Disney Infinity 2.0 Big Hero 6 Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/dc96901c4d9bf652ebc492444ae5ef64cad65a02af3a3fdf587e906272793fff.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "109"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/69cfe80944b9e71b3d79209d73b8cc20c1e9ea9003e0c181a4fb29d7a479ba81.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "109"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bf87f9b7fdc9eecfb563a99f9b54529e3af234b708cd7c8e16014e95886976d1.jpg",
+				"name": "Disney Infinity 2.0 Donald Duck Trailer ",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c66901c8b36bf3b73314c9e7bce59f45c3fb2ac23cfdbbbc0a6775812ed5758e.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "105"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/59229c3567d82a9d181bbaab5fa72ad7a4fba22cc1eb9c06cfcf1e9cdf0ea5bf.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "105"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bf87f9b7fdc9eecfb563a99f9b54529e3af234b708cd7c8e16014e95886976d1.jpg",
+				"name": "Disney Infinity 2.0 Guardians of the Galaxy Play Set Video",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5b49e59e747e3bd1f82c9b96d193f044c83a3af2e7366c2238301d3532f0ac03.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "163"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/039f6bc761475bc3aa60dc28c7179d9a6c601b1b306935f855b49d8569f4261b.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "163"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bf87f9b7fdc9eecfb563a99f9b54529e3af234b708cd7c8e16014e95886976d1.jpg",
+				"name": "Disney Infinity 2.0 Aladdin & Jasmine Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7d37747486bc597c54fef9cd620dfc2d04143d795d1d4ad36d11ef46fbebdb4b.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "110"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e784980fb373d02c29fb3c15f61be0f3562c617b792bb37c09cb4493f05d4241.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "110"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bf87f9b7fdc9eecfb563a99f9b54529e3af234b708cd7c8e16014e95886976d1.jpg",
+				"name": "Disney Infinity: Marvel Super Heroes (2.0 Edition) - Villains",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/93d588e94ff663bbca73abae4e2ba35e11c964e54e7bf6af5cd896033cd3c624.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "83"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/23f88e1384baa3ff4278152ca28d9beb487d82ceb891ade4a966fafe11599c6e.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "83"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4ae286756acba72ca78c910c0e0f10897e65c8bf20718a830b33b4f79f6e28ae.jpg",
+				"name": "Disney Infinity: Marvel Super Heroes (2.0 edition) Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bea3d4025adeb7bc4196e75cbe5937371e8cc11ff66156865232c7835f1c07ec.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "88"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d494ef8fdb1b7cc8222aca2857741d83729f0d1b2664267f1fd2dabec1b0c990.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "88"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bf87f9b7fdc9eecfb563a99f9b54529e3af234b708cd7c8e16014e95886976d1.jpg",
+				"name": "Disney Infinity 2.0 Stitch & Tinkerbell Play Set Video",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a5f5dc58e97bac85d792f66d765f6eadb77aceadd6bbd30e46ee5936722e1570.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "111"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/65ea38b8dc2ba6ecb4bbd15f6eb6eab49e2ea6afbdab12e832055dbe8f6fbf41.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "111"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bf87f9b7fdc9eecfb563a99f9b54529e3af234b708cd7c8e16014e95886976d1.jpg",
+				"name": "Disney Infinity 2.0 Spider-Man Play Set Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7642a40fa4043791b5476ea42ce05c614952d1fa1b9202f309334689f0fa05ad.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "158"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9cb7e2fbcfe332980c417631af8808f2201b25c2f4869f642debb81c65d4c10a.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "158"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bf87f9b7fdc9eecfb563a99f9b54529e3af234b708cd7c8e16014e95886976d1.jpg",
+				"name": "Disney Infinity 2.0 Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8aad267888704c5e2835f061914c125f25b02e383027482f6d7b5fda899a64f7.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "116"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2b285d04983a79eef7165aaf9dbb9f46fc2e6515f57130e208e820fd3c219c82.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "116"
+					}
+				]
+			}
+		]
+	},
+	"MX": {
+		"title_id": "000500001016DC00",
+		"eshop_id": "20010000009591",
+		"product_code": "WUP-N-ADRE",
+		"name": "Disney Infinity (2.0 Edition)",
+		"platform": 125,
+		"platform_device": "WUP",
+		"publisher": 64,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/eff5904878d1bcf76bfb5078d8fe80b4e6db167ea960c30e1f6a7d22c23f5d5d.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/28f82c8a0f15cf9cc345232186ef84c5adbcd75a5ea30642e8e47f4bd1350d4a.jpg",
+		"data_size": "11351819240",
+		"description": "¡Que empiece la aventura! ¡Juega en un universo de juego en el que tienes infinitas oportunidades de crear historias y divertidas aventuras con nuevos personajes y poderes! Nota: se necesitan una base y una figura de Disney Infinity para jugar el juego descargable. ¡Obtén la descarga digital de Disney Infinity (Edición 2.0) para desbloquear Toy Box 2.0! ¡Combina y mezcla personajes y mundos para crear cualquier aventura imaginable! Usa la nueva herramienta de Creador para construir rápidamente tus mundos con facilidad. Amplía tus divertidas aventuras coleccionando Sets de Juego, Discos de poder y figuras de Disney Infinity adicionales. Se venden por separado. Todas las figuras de Disney Infinity y los Discos de poder son compatibles con el videojuego Disney Infinity (Edición 2.0). Visita Disney.com/infinity para obtener más información.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-11-04",
+				"retail": "TBD"
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/bb997bcd019fdbc13cdaffc369652be68f5fbd1831d3d5fe6c3edcf005472419.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/803d208efada94e5df8e9e5e35c744abf68ea4a63b757c75ec791fbd87eaf64b.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/5fcc352df8ebb06f0e0502e3ce896d147d510906b01b7683f6e6ba0e99ccc3aa.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/962bde7b80de51d3da78bcc1277fc9ae0818593606e90f978477df402900f3c0.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/d7d201374f742bd58591bdbc6b71308bb5e8cb271fe26a81ebaa2f262998c686.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/ff8b7462485d9cb58a43f5d999eac7bed64b0498f82ae0f6cc00c05c10c7a0bf.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bf87f9b7fdc9eecfb563a99f9b54529e3af234b708cd7c8e16014e95886976d1.jpg",
+				"name": "Disney Infinity 2.0: Marvel Super Heroes Walk It Video",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3831b8c3158ec393e98bc49f7711c19a6ad5c6342cc41e212a595b37f213ab27.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "64"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/42671ee73238f3fa1d195c0d9f319ba41451ffadba091c03b78452ac840e348b.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "64"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bf87f9b7fdc9eecfb563a99f9b54529e3af234b708cd7c8e16014e95886976d1.jpg",
+				"name": "Disney Infinity 2.0 Big Hero 6 Video",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b1f0eea17e6cf36e4478b7fb3498c53267109850bc9f921611c375db9ae416d5.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "109"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/20d6da70497465458d3d73ddcaa61f691340317f4afc44694eb4bf25900dd19a.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "109"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bf87f9b7fdc9eecfb563a99f9b54529e3af234b708cd7c8e16014e95886976d1.jpg",
+				"name": "Disney Infinity 2.0 Donald Duck Video",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/643ebb996f7abc6dab50c5b44a64e863da151526e2628f22fb300fe6e0591a9e.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "105"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/757922b8cd1fe6902ff27f00cbf1286340eeff6592da0dd32cbaab069ad549c8.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "105"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bf87f9b7fdc9eecfb563a99f9b54529e3af234b708cd7c8e16014e95886976d1.jpg",
+				"name": "Disney Infinity 2.0 Guardians of the Galaxy Play Set Video",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2098f95741b5ba68b5683cc02d21afeea0563c9d955327487e0949b6e586d9c2.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "163"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d7c36873767562fcf2ab8de4711615463747e7d7beeb5f3ac305e46318b5013f.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "163"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bf87f9b7fdc9eecfb563a99f9b54529e3af234b708cd7c8e16014e95886976d1.jpg",
+				"name": "Disney Infinity 2.0 Aladdin & Jasmine Video",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/53524008c04ceebd37560683ae9168fe11cd438bde9dc5983cfa069a7b77f56d.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "110"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c7dcdff919084b9a581306bfa1c91b06ee5158637cb820ee100c21e1a7890c89.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "110"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bf87f9b7fdc9eecfb563a99f9b54529e3af234b708cd7c8e16014e95886976d1.jpg",
+				"name": "Disney Infinity: Marvel Super Heroes (2.0 Edition) - Villains",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fb4e0770ec7135596ba72c343249e1ba17b2b760ac25d36719ec69387f190194.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "83"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2b3898ffd144574f0f582eec74a01c764a24b028363f5bfe2d61cd94851d5483.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "83"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4ae286756acba72ca78c910c0e0f10897e65c8bf20718a830b33b4f79f6e28ae.jpg",
+				"name": "Disney Infinity: Marvel Super Heroes (2.0 edition) Video",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ae4dc049691616cc6249f76c9f974ae9be79948fbe1ac2edd67ba1935a8c5586.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "88"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/54a287ddfc9e48645e81bd90b41465d9b20e44d490da65d050381bc6cfc1acb3.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "88"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bf87f9b7fdc9eecfb563a99f9b54529e3af234b708cd7c8e16014e95886976d1.jpg",
+				"name": "Disney Infinity 2.0 Stitch & Tinkerbell Play Set Video",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/49a96630bd6acb9acaee41ad414ce39d6250abeb119314c5622373568d6e7b29.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "111"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8a17756eab236d019d3fc39130ecbb083ab7878c7d7228b2024a2591153234bc.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "111"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bf87f9b7fdc9eecfb563a99f9b54529e3af234b708cd7c8e16014e95886976d1.jpg",
+				"name": "Disney Infinity 2.0 Spider-Man Play Set Video",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7642a40fa4043791b5476ea42ce05c614952d1fa1b9202f309334689f0fa05ad.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "158"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/de58889b00b0cceeacbca4dd9346d6a63c034c40fb99401313d6116f98faeadc.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "158"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bf87f9b7fdc9eecfb563a99f9b54529e3af234b708cd7c8e16014e95886976d1.jpg",
+				"name": "Avance para lanzamiento Disney Infinity 2.0",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8aad267888704c5e2835f061914c125f25b02e383027482f6d7b5fda899a64f7.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "116"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2b285d04983a79eef7165aaf9dbb9f46fc2e6515f57130e208e820fd3c219c82.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "116"
+					}
+				]
+			}
+		]
+	},
+	"US": {
+		"title_id": "000500001016DC00",
+		"eshop_id": "20010000009591",
+		"product_code": "WUP-N-ADRE",
+		"name": "Disney Infinity (2.0 Edition)",
+		"platform": 125,
+		"platform_device": "WUP",
+		"publisher": 64,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/eff5904878d1bcf76bfb5078d8fe80b4e6db167ea960c30e1f6a7d22c23f5d5d.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/28f82c8a0f15cf9cc345232186ef84c5adbcd75a5ea30642e8e47f4bd1350d4a.jpg",
+		"data_size": "11351819240",
+		"description": "Bring on the adventure! Play in a game universe where you have endless opportunities to create stories and fun-filled adventures featuring all-new characters and powers! Note: A Disney Infinity Figure and Base are required to play. Mix, match and mash up characters and worlds in Toy Box 2.0 to create any adventure you can imagine! Use the new Creator tool to quickly build your worlds with ease. Expand your fun-filled adventures by collecting additional Play Sets, Disney Infinity Figures and Power Discs. Items sold separately: Play Sets - Unlock new fun-filled adventures and action–packed missions! Power Discs - Unlock team attacks, gadgets, power-ups, costumes and more! Toy Box Game Discs - Unlock new customizable games in the Toy Box! All Disney Infinity Figures and Power Discs are forward compatible with the Disney Infinity (2.0 Edition) Video Game.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-11-04",
+				"retail": "TBD"
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/bb997bcd019fdbc13cdaffc369652be68f5fbd1831d3d5fe6c3edcf005472419.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/803d208efada94e5df8e9e5e35c744abf68ea4a63b757c75ec791fbd87eaf64b.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/5fcc352df8ebb06f0e0502e3ce896d147d510906b01b7683f6e6ba0e99ccc3aa.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/962bde7b80de51d3da78bcc1277fc9ae0818593606e90f978477df402900f3c0.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/d7d201374f742bd58591bdbc6b71308bb5e8cb271fe26a81ebaa2f262998c686.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/ff8b7462485d9cb58a43f5d999eac7bed64b0498f82ae0f6cc00c05c10c7a0bf.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bf87f9b7fdc9eecfb563a99f9b54529e3af234b708cd7c8e16014e95886976d1.jpg",
+				"name": "Disney Infinity 2.0: Marvel Super Heroes Walk It Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d612ed3257f4eac9be150068b876440abd5b8fa26c58c3fc6e18bd8a3b7db3c5.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "64"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a886fd2b6664e91a009e274516828f0b6d07cc87a7f036bd8aa7ecd63daceef7.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "64"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bf87f9b7fdc9eecfb563a99f9b54529e3af234b708cd7c8e16014e95886976d1.jpg",
+				"name": "Disney Infinity 2.0 Big Hero 6 Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/dc96901c4d9bf652ebc492444ae5ef64cad65a02af3a3fdf587e906272793fff.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "109"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/69cfe80944b9e71b3d79209d73b8cc20c1e9ea9003e0c181a4fb29d7a479ba81.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "109"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bf87f9b7fdc9eecfb563a99f9b54529e3af234b708cd7c8e16014e95886976d1.jpg",
+				"name": "Disney Infinity 2.0 Donald Duck Trailer ",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c66901c8b36bf3b73314c9e7bce59f45c3fb2ac23cfdbbbc0a6775812ed5758e.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "105"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/59229c3567d82a9d181bbaab5fa72ad7a4fba22cc1eb9c06cfcf1e9cdf0ea5bf.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "105"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bf87f9b7fdc9eecfb563a99f9b54529e3af234b708cd7c8e16014e95886976d1.jpg",
+				"name": "Disney Infinity 2.0 Guardians of the Galaxy Play Set Video",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5b49e59e747e3bd1f82c9b96d193f044c83a3af2e7366c2238301d3532f0ac03.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "163"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/039f6bc761475bc3aa60dc28c7179d9a6c601b1b306935f855b49d8569f4261b.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "163"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bf87f9b7fdc9eecfb563a99f9b54529e3af234b708cd7c8e16014e95886976d1.jpg",
+				"name": "Disney Infinity 2.0 Aladdin & Jasmine Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7d37747486bc597c54fef9cd620dfc2d04143d795d1d4ad36d11ef46fbebdb4b.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "110"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e784980fb373d02c29fb3c15f61be0f3562c617b792bb37c09cb4493f05d4241.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "110"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bf87f9b7fdc9eecfb563a99f9b54529e3af234b708cd7c8e16014e95886976d1.jpg",
+				"name": "Disney Infinity: Marvel Super Heroes (2.0 Edition) - Villains",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/93d588e94ff663bbca73abae4e2ba35e11c964e54e7bf6af5cd896033cd3c624.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "83"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/23f88e1384baa3ff4278152ca28d9beb487d82ceb891ade4a966fafe11599c6e.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "83"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4ae286756acba72ca78c910c0e0f10897e65c8bf20718a830b33b4f79f6e28ae.jpg",
+				"name": "Disney Infinity: Marvel Super Heroes (2.0 edition) Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bea3d4025adeb7bc4196e75cbe5937371e8cc11ff66156865232c7835f1c07ec.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "88"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d494ef8fdb1b7cc8222aca2857741d83729f0d1b2664267f1fd2dabec1b0c990.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "88"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bf87f9b7fdc9eecfb563a99f9b54529e3af234b708cd7c8e16014e95886976d1.jpg",
+				"name": "Disney Infinity 2.0 Stitch & Tinkerbell Play Set Video",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a5f5dc58e97bac85d792f66d765f6eadb77aceadd6bbd30e46ee5936722e1570.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "111"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/65ea38b8dc2ba6ecb4bbd15f6eb6eab49e2ea6afbdab12e832055dbe8f6fbf41.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "111"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bf87f9b7fdc9eecfb563a99f9b54529e3af234b708cd7c8e16014e95886976d1.jpg",
+				"name": "Disney Infinity 2.0 Spider-Man Play Set Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7642a40fa4043791b5476ea42ce05c614952d1fa1b9202f309334689f0fa05ad.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "158"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9cb7e2fbcfe332980c417631af8808f2201b25c2f4869f642debb81c65d4c10a.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "158"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bf87f9b7fdc9eecfb563a99f9b54529e3af234b708cd7c8e16014e95886976d1.jpg",
+				"name": "Disney Infinity 2.0 Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8aad267888704c5e2835f061914c125f25b02e383027482f6d7b5fda899a64f7.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "116"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2b285d04983a79eef7165aaf9dbb9f46fc2e6515f57130e208e820fd3c219c82.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "116"
+					}
+				]
+			}
+		]
+	}
+}

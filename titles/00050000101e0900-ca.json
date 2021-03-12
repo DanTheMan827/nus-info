@@ -1,0 +1,79 @@
+{
+	"title_id": "00050000101E0900",
+	"eshop_id": "20010000021650",
+	"product_code": "WUP-N-BLVE",
+	"name": "Lovely Planet",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1541,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e60cf4fe340ec700684ee15a80853852204a32753e82bbeee2a7742b22050fad.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d8b1ac5024a6243d72ca6ec906594181f58b5ff9b8ec63c28d2eb668c5b37a8e.jpg",
+	"data_size": "171475084",
+	"description": "With boots of speed on your feet, an infinite supply of bullets for your semi-automatic and the ability to jump over twice your own height, you're well equipped to go up against any enemy on your quest to reach Lovely Planet! Balance between jumping around dodging bullets and taking aim for a better shot at your enemies, don't waste time camping at cover spots and waiting for enemies to pop out - artfully evade the onslaught of bullets and defeat all baddies that stand in your way!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-04-05",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/ee89c757f8c48382329a6acaa55a6c43a7dd62e472ee65fc187eafb1e2ec49de.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f3ddb046568db8f6a804259c83573e3a3155824a02f4faa8c7c77de2a4f56813.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f7586fd5ef067599833338efe6760412d34cad5491ebb1a2d47e77cdcf46ed75.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a4187811e1aa2441e212a38886ea8e2609b5c6a619619e6d1316082493e71a5c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/eb2e34f5bb5771b8723a52ed8e009fdedcf4e73d59f89781f0018b32f510e803.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ee7836bc381d3229dcb33cccc18dff01d0e9c944029a558ae84b9994de243347.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/063dd10c2125e7a5c42dd59a4b5d5955cc1c6931bd69ff9218b12815551f45fa.jpg",
+			"name": "Lovely Planet Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1e6096508fabf2798dd0bfc6a9e6d1b537e586c7e0a5a2a8e4e84c83f76b30c0.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "61"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bacffc4bfc34d8629da600b277eb0d0dc95b03fbc03d46efaa2a57780c2956c0.mp4",
+					"width": "864",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "61"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4f284c76fd962c829ddf58cd5313854a58232773731a5af69b5494964faa5ea8.jpg",
+			"name": "Lovely Planet – E3 Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0461a62579e3178fee80860197d0c7966a3588016a00bd38450d3b07aa2d275f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "61"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/896315018a54d5907c93aca1061e9fda55fe862261aad11979582d45ddc52f7b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "61"
+				}
+			]
+		}
+	]
+}

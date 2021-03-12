@@ -1,0 +1,85 @@
+{
+	"title_id": "000400000010BE00",
+	"eshop_id": "50010000017654",
+	"product_code": "CTR-N-BALJ",
+	"name": "星のカービィ トリプルデラックス",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e3f193071b14c85b1b08b8e563c41c6fa59321414e756fd153bbb4e2af33adde.jpg",
+	"data_size": "616995732",
+	"description": "『星のカービィ』が、ニンテンドー3DSに登場。奥行きのある新しいステージや、新しいコピー能力、そして超強力な「ビッグバンすいこみ」も加わって、パワーアップしたカービィの冒険が楽しめる、デラックスな一本です。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2014-01-11",
+			"retail": "2014-01-11"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/16b0734f1f48ab10bc57d882822f8f014a4de198a72159a60d2993dde6bcd4b7.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/414e2f839a14d5816622126e8527818ec5653ed4a9a794f7ad882ccd8b38cfc3.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c6bdbfe0f55fcce06b47e016b7816afa1d4608c3cd4c0d3dc6443b68b202ddbb.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7193fb0e9c95fdb058a1eba805d437b7fcac96ab65bef4b7e68a380ed056c4ef.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/df0a55690353442160db5b0e106894d636aea1ccf039731c53952065b9a7336e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/bebe7881b5ff4571077019448138480e781b51477204694da493396f11138fad.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/dd7a170a5bb41c378d2dd31a62c868d4953b4f444512aa7125a682d93fd86008.jpg",
+			"name": "星のカービィ トリプルデラックス 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/eca24eef90ef3368f1471335a289999293fe19639d8e4d390d597482dc3d758e.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "232"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/03836bd51940720119ba19ef9f605cebd43321127c5a53a2282e56e6b4ce621b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "232"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/80f1bfb714c78f7ea1c519d81c1be697744876ffdd23e33256fac9795c4f2b7c.jpg",
+			"name": "カービィファイターズ! 最強への道",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/558a3e7685e6c0071eb6aa5d342c48a72743bf533aba9589cedaafe2deff65d5.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "703"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/15dd7d2b3f37eb8fd2e0b8bbf38bba6e18f780ccd1ee34158d583f8033bff5ee.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "703"
+				}
+			]
+		}
+	]
+}

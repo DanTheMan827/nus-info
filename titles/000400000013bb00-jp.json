@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000013BB00",
+	"eshop_id": "50010000033435",
+	"product_code": "CTR-N-AX8A",
+	"name": "Dr. MARIO ギャクテン!特効薬 & 細菌撲滅",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/18ba36e8276fb016d6aa97c73540af714b6cb6c7405413fa848d08adb5ecd385.jpg",
+	"data_size": "64113556",
+	"description": "3色のカプセルでウイルスを消す『Dr. MARIO』と、L型カプセルでウイルスを消す『Dr. LUIGI』に逆転の切り札「特効薬」が登場します。「特効薬」とは、ランダムで出現するお助けアイテムのことです。特定の色のウイルスを全部消せたり、縦と横の一列を全部消せたりと、出現する「特効薬」によっては、初心者でも逆転できるチャンスが増えます。相手の邪魔をしたりなど、対戦プレイだけに登場する「特効薬」もあります。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-05-31",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ae8a4b15c28881f4598477776817d523926882c926e7dbf511cdc6086d28b8a3.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/dbaa73e1e712b7a0d09dbc159d8cadd3e06100713b46901cf3f57185c109887a.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2e1bd1bd0c54284caaa541b2e05b23becafc4f352e5be5df84dc49a8c0758ee1.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/52c38fa100da5df8b40dd4dcbabfb62ff59d7bb07d9771b50c16bf95516e7532.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/404cc364f1eafa7236f964b9dac780425a7ae5bf69931c856366317ebb628c6d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/bff26b39d19a9200a4433fbd9242c073856919aee8d371c4c3dcc72215d678f3.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ea56c7398e8464d673605d83a5caaba3fd9bb668435577ea20622aad248a5e2e.jpg",
+			"name": "Dr. MARIO ギャクテン!特効薬 & 細菌撲滅 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b3fc9d0caee68cf9a7c347bef2b733777505713f9a38ec3c8203d69c1284ec04.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "145"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a0bbe1ca654c8d593e5ee06961c566c45bff901083bb7bdd8f522d87d1a9c453.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "145"
+				}
+			]
+		}
+	]
+}

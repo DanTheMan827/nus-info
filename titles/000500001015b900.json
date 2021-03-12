@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001015B900",
+		"eshop_id": "20010000005966",
+		"product_code": "WUP-N-PNEJ",
+		"name": "ニュートピア ",
+		"platform": 166,
+		"platform_device": "WUP",
+		"publisher": 149,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/eaa966656d12c8f7ea08b9472a4fc059c4a5e8a206520e8f26dc1d1f7b37dab1.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e1d63d0c12e42fccb85a160d6b59affe3a4179b394a03a06d6a1d837a4b7a7fa.jpg",
+		"data_size": "81199224",
+		"description": "勇者「フレイ」が闇の皇帝に奪われた8つの「メダリオン」とさらわれた「ララン姫」を取り返すべく、冒険の旅にでるアクションロールプレイングゲームです。 「魔法のコンパス」と人々からの情報を頼りに迷宮の入口を探し出し、そこに待ち受けるボスを倒していきます。主人公が冒険する舞台は、ボスから「メダリオン」を取り戻していくことで「地上」から「地下」、「海」、「空」と、次々に広がって行きます。また、それぞれの迷宮には、謎解きやトラップがあちこちに仕掛けられており、ブロックを動かしたり壁を爆破したりすることで、秘密の部屋が姿を現します。なかには強力な装備や宝物が隠されているため、マップを手がかりに隅々まで探索することが攻略のポイントです。 セーブ機能への対応をはじめ、ほどよい難易度と経験値の要素をなくしたスピーディーな展開で、誰でも気軽に本格派ロールプレイングゲームが楽しめます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-04-16",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/0f6ee68a639ad0904a14f0695c11dad71fb22bf281bcff0072bf8f373fcb5b0a.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/1aa26c6486e0d3fa8742fe7c4f28bb6d2fe19152650adf19ef30e7761c8e8c61.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/fa34435da631e4731c93b0a2229ac71ec7cef30e18e2b404221d355d3b619fc8.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b18ca653d3df31e46a0dcb5fcef837e6d9170799d24303a536b65bed2397a8b6.jpg",
+				"name": "ニュートピア プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c36bea2e0010c9998890c7624ecc81ae197f66e29285c05bad919a7a405219c4.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "47"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d2f0d60d076b9497578622041117133c972ba9489eaa967dc9b6a4c6fddf2085.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "47"
+					}
+				]
+			}
+		]
+	}
+}

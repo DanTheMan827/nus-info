@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000013BB00",
+	"eshop_id": "50010000033435",
+	"product_code": "CTR-N-AX8A",
+	"name": "Dr. Mario™: Miracle Cure",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a271c8831e70daa8cd57edd25d7023cda919af8d319ac1d683e9aca64c9365f7.jpg",
+	"data_size": "64113556",
+	"description": "Wenn du Knobelspaß suchst, haben wir eine Medizin für dich, die Wunder wirkt: Dr. Mario: Miracle Cure, nur für die Systeme der Nintendo 3DS-Familie! Sowohl Dr. Mario als auch Dr. Luigi müssen sich in unterschiedlichen Modi voller klassischem Dr. Mario-Vergnügen mit dem Ausbrauch gefährlicher Viren auseinandersetzen. Wenn die Viren angreifen, besteht die einzige Chance auf Heilung darin, gleiche Farben zusammenzuführen!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-06-11",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/31077d63fcc458a01a9b33d1d00af20b9f2e52652cdcbdb8efa91d806d24241d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6d5f59a7b6db877726c98399606e6bbc6a5969350553c98200bdfdcc24fe7fbb.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/86538029045cd5da266a3ddf8977d11e9a4c0dd26b4d9cf3afbfd22b383dcc55.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d11dd6aafc732647b26d0324bd37379ca5d53469d2d9fba25f981ff9efb5e4f2.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3e1bb9c5b973f00cc21d4ea7e18cdc1f0851222634b65a514dbe2fbae2df410b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/32b1635b8928585e2516e35d73fe6d7c806094239af0e7d920bd3af37ad35e02.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8f0387d17f9b9194f744f2b97ec4e24a14db05e836614a965b1dbf6db6ca472e.jpg",
+			"name": "Dr. Mario: Miracle Cure: Trailer zum Verkaufsstart",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/235ee04bfe9059cc66d4ac4fd2af57f38d324f3e24e7f48deb9aa4bf4c27178a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "141"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/69edb2347ba91f28da751199e2635987bc737bfb3a47006bf45006f29a9f773a.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "141"
+				}
+			]
+		}
+	]
+}

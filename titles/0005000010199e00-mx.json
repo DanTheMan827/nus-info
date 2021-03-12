@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010199E00",
+	"eshop_id": "20010000014527",
+	"product_code": "WUP-N-BHSE",
+	"name": "High Strangeness",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1655,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c3002f34eabcdef81774ca1e424639961d91f13576134e441ee5d1795702ebde.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/15e43e8175a6dbbe47b20f194589086f640c32aadb8575f66d5f1391d747c7d0.jpg",
+	"data_size": "991068400",
+	"description": "High Strangeness es un híbrido de juegos de 8 y 16 bits: una aventura de 12 bits. Está inspirado en juegos de acción/aventura y de rol de antaño. La característica principal de este juego es su capacidad para cambiar entre mundos de 8 y 16 bits en los que el jugador usa sus diferencias generacionales para resolver acertijos y explorar el universo. A lo largo del juego, tu perspectiva pixelada del mundo será imbuida con visiones de ilustraciones en acuarela que te darán algunas pistas sobre tu misterioso entorno. La banda sonora estilo chiptune de Dino Lionetti y Rich Vreeland apoya la estética del mundo y crea el ambiente para extraños acontecimientos.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-05-06",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/c13fbd0889e26a54f997aebf2051513ce3552c34035fa4c6b7d09f2905747354.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1b2d5996432d05c1bdb69b1d1e896f5e6ea77ad859f93e2dd451613e4af853ab.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6e231e412733f31c982952a28874702f975fcb723537603f7b57158bd0702f44.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/646212904fc4ff06cad179b446a18e6533ba7f884b25f746016fa4f9182d624e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b21b7d02d288a459f14d193c2f9c0815c3d4106def6d24777a8837a767817b20.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d341c5accb3534a75f371220d31e9fcc3bb6e104cdbcc70d6684cb8ae9895cd1.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6668d1012a6309838f5784cae8a8729487167139eb29712e754e607253a2bbcb.jpg",
+			"name": "Avance para lanzamiento High Strangeness",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2f1eb083238e9fdbf14c8a012c1b8b8c52fc379765bcce8626c9efeb86e87088.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "62"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d606edc8cbd801d75d90601c45592897bc112f31cbb79f113a44549e8fc7cff4.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "62"
+				}
+			]
+		}
+	]
+}

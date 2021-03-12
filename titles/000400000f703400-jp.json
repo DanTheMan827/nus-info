@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000F703400",
+	"eshop_id": "50010000041327",
+	"product_code": "KTR-N-UAUJ",
+	"name": "悪魔城ドラキュラ",
+	"platform": 1004,
+	"platform_device": "CTR",
+	"publisher": 149,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/2968d384998067f1067496a35e449f30c5f7527339101ac11648d4df18f79582.jpg",
+	"data_size": "3808100",
+	"description": "このソフトは、1991年に発売されたスーパーファミコン用のアクションゲームです。 英雄の血を受け継ぐ青年シモンが、先祖から受け継ぐ不思議な力が宿ったムチで魔物たちを次々と倒し、魔王の野望を打ち砕きます。リングに引っ掛けてぶら下がったり攻撃を防いだりと、多彩なムチのアクションが楽しめます。おどろおどろしいグラフィックや物悲しいBGMはホラー要素も強く、中世ヨーロッパの古城の雰囲気を演出しています。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-11-21",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7f82b84d7c2992941fe531e342519575c64145564faef4e0425297d4319036bf.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c301379853615fb88a60ed2e8e158cc3767a26cee2c1478b16e43eb9b560eb28.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7a372ae1b84036d5c44bdd37f00df464087a3d4f5c5e77e96e83c13215b9e7f4.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d8370e78c7ecdda3072f45703b3b1127a957ccece3d8b778bcbd89f2e25ad751.jpg",
+			"name": "悪魔城ドラキュラ プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/42b61df387a0540fae92c7e4d7fba1fa93bf7e964a1f7ddd56b104c4c7a28511.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/52a730d0ad6e23ee9cbf8780bb6cafc09f062ce8fceb6440731473592343527f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				}
+			]
+		}
+	]
+}

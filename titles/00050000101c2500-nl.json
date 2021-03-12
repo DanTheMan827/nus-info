@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101C2500",
+	"eshop_id": "20010000020168",
+	"product_code": "WUP-N-FE6P",
+	"name": "Ninja Gaiden III™: The Ancient Ship of Doom",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 267,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8aaa5578d319a0e2664971cf0a7b786e974807234b0c778f4b02df1b6f636970.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b6af022c78f8b32dbbdd2855b5cd777a5dc909c950124c57c95c5ad0f92ca4c.jpg",
+	"data_size": "38895776",
+	"description": "De oorspronkelijke NES™-avonturen van Ryu Hayabusa komen tot een eind met Ninja Gaiden III: The Ancient Ship of Doom. Ten onrechte beschuldigd van moord moet Ryu zich al vechtend een weg banen door zeven levels die gevuld zijn met actie om zijn onschuld te bewijzen. Gewapend met zijn trouwe zwaard en ninja-magie is Ryu nu ook in staat om platformen en pijpen vast te grijpen om zowel van bovenaf als onderaf snelle aanvallen op vijanden uit te voeren. Je zult alle beschikbare vaardigheden van Ryu nodig hebben om de kwade machten te verslaan en de ware dader te ontmaskeren. Dit is de Amerikaanse versie van het spel.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-11-26",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/50151be0497ce0ba3c04cb011f053fe068c413773e635a2b15ad0004b54bd6f4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/cb528728848fa144c86ea5999a7f34c159c5a406ddd8ef99ece56d246c63f940.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9f8701fe123a00c57ea431b868e82302824b76e4b047ee4d2e75e105018d3500.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0488b2b5a6441c4288f78ebdf7c97e62d2249b5e33da99575a9a270410b19935.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c9d6750f13cc209d509e7515b70a13dd6d0c917226bc6d31c714de355d6fe2bc.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/89bad7721dd3cf975623390b68ee89b97e894477505d6468990ebe8282fc262f.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d67491b168dc12191b5dca482eb77dc988ad586755a51a3eb85ec578b11b9bac.jpg",
+			"name": "Ninja Gaiden III™: The Ancient Ship of Doom: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a1b169bda8be82c91a9276549dc697b95599dc7a3cd7628cf4329a3a2e60143c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "47"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4c1aba9ca9329e3f906a44f89ed46fe2057a1cadbfd3ce58e693282f9b05e390.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "47"
+				}
+			]
+		}
+	]
+}

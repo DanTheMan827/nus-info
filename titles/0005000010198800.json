@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010198800",
+		"eshop_id": "20010000013369",
+		"product_code": "WUP-N-DAEJ",
+		"name": "ヨッシーアイランドDS",
+		"platform": 169,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d6c0b58ae07516c0bd69665483aeaced7fa6e3e23a2e1eb4e3bf0d64ebd188be.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c4c8a9de5d7ecf08ac618e069772b3c310bf17bc09510aa2a710943e0355cf92.jpg",
+		"data_size": "67469432",
+		"description": "このソフトは、2007年に発売されたニンテンドーDS用のアクションゲームです。 山あり谷ありのヨッシーアイランドを、5人のベビィを背負ったヨッシーと冒険。ベビィとはぐれてしまわないように、敵に気をつけながら各コースのゴールを目指します。敵に当たるとベビィがヨッシーから離れてしまいます。スターのお守りがゼロになる前にベビィを取り戻してください。運ぶベビィによって変わる、5種類の「ベビィアクション」が使えます。コースの特徴に応じて、能力の異なるベビィアクションを使い分けて進んでいってください。 ※おすすめの画面レイアウトは「NintendoDSレイアウト」です。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-04-08",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/9788f087a3ae28b3ce29b06904beba18da7427586cd1ef3aaf428eab842e9d37.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/800e831ff8d68d44cfc3ba5c85a698bd67b9b6b371d3706fefd7b7862335ae4e.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/863b62785b668e4b6c76964987b3b15f82b476881f1d4c4ddddc2f96d4f25c9f.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/02a56cfbba34258db7af4219b817e2dfde4980980b068f9b72328460edd12088.jpg",
+				"name": "ヨッシーアイランドDS プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/450eacf04af971ab64d6d94506b3e199ae41d8fdc8af0b1a453153b103265282.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "44"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5da30f8918ebf09f5f60d7c627b2ede83137a7dc7aafa3d153bfcd6fb39d5511.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "44"
+					}
+				]
+			}
+		]
+	}
+}

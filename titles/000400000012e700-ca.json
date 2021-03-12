@@ -1,0 +1,85 @@
+{
+	"title_id": "000400000012E700",
+	"eshop_id": "50010000022436",
+	"product_code": "CTR-N-JURE",
+	"name": "Moon Chronicles™",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 743,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e0cd0d6ef3bbe9a770674f09835f5325df84fe10ed357ecdf5611d6a49546c8b.jpg",
+	"data_size": "131066724",
+	"description": "Offers in-game purchases Episodes 2, 3, 4 now available as Downloadable Content! Experience Renegade Kid's award-winning first-person shooter remastered in glorious 3D. Join Major Kane on a mysterious mission to Earth’s moon to investigate a unique hatch of unknown origin. With each new episode you are brought one step closer to understanding the secrets that lie beneath the surface of the moon. EPISODE 1: ONE SMALL STEP Major Kane's investigation quickly spirals into a desperate search for lost team members and the discovery of troubling evidence. BONUS MISSION: TSUKIGAMI'S VR TRAINING Created by Captain Tsukigami to emulate the behaviors of alien hostiles; this mission helps you perfect your skills, while providing some intense first-person shooter action.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-05-15",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/cdae9ed6ffa3ab069f9f2ff39744b73064a51016bcfe836be8846120e55b153e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/32ac091b94322e4f0908ced8389e0e4f290c8828ba3c30eda96200290dce4817.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/fdf7756b4c44a02fa4395c4461a244974e7d6df75c120b342e51c68ab3d72067.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/452744cbc5e98a746cede8de87a24f480c1034d38aa1bcda14c7dbf098e8c5d6.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/850c18c641473210cc540d6cdf706206e29ed96933a67d125152b152ddf1ff93.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a2a346079f146924a66ea553454911ddd2045b110137d5d95f5f057ed1185de7.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/25c5a0f598b74b999d960a24ba9c80f4ac0e074018234f671398e83f840a46eb.jpg",
+			"name": "Moon Chronicles - Episodes 2, 3 and 4 Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b72fe5495ef8fd09ec554c6fe30862048e93c4d0009ab177c1973fc89efe275c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "76"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/77c25d2a368597979774e8c47940ff50376ef6863a319326e965aa402d6399e8.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "76"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6d5846d0a11fcea100c7bd83a1e622c13b1e5f5199f6a4d44593214a801312df.jpg",
+			"name": "Moon Chronicles Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/41be13d9766373dc692abbdeb6b91ef54f4432a3d55062ba1752844517121a66.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1097bdd629f211c4d8629f85c8bf15b4874ea586f6bcf43c2a066d1d46a714ee.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				}
+			]
+		}
+	]
+}

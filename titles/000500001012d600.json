@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001012D600",
+		"eshop_id": "20010000000787",
+		"product_code": "WUP-N-WBRJ",
+		"name": "Wii U Panorama View リオでカーニバル!",
+		"platform": 124,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/62089003ebe613373430e45ac39beb5cb56300115e03cdbd9a4c6cd9ee8450e5.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e80b5354f4e068364daa97063d96a3f1b9d0b4805ace4f0e3cc0dfa9fe4ad855.jpg",
+		"data_size": "426442892",
+		"description": "Wii U GamePadを操作することで周囲360度を見渡せ、まるで自分がそこにいるかのような臨場感を味わうことができます。本作では、ブラジル、リオデジャネイロのカーニバルの景色やシチュエーションを映像で疑似体験することができます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-04-27",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/429a62ab594f113a5add98b0a01128fc00a699fea2d305a8634fd09bb4ac6eb7.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/0d56e0e30b3f84cb9d1297801495b9d6f3792677b3dd4837467f016a2f0662b0.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/8ed21ef764e718626b5f1243bd1bc785db39c6f8d3445a31e21b80a349924d72.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7112ad000b7842e33fb11f98c6c59c4d85201da41d4b4f7537927ddbfc9e276e.jpg",
+				"name": "Wii U Panorama View 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6f534bd6be63bccd11b23557512aa60f2e78fec313d697ffb3018c06ff76a3da.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "103"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f8708cdae7154a29c6fa4e8586948e7a6e6ae511a54ee9cc1d7dd83b1d44c783.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "103"
+					}
+				]
+			}
+		]
+	}
+}

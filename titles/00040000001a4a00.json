@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "00040000001A4A00",
+		"eshop_id": "50010000041485",
+		"product_code": "CTR-N-KWJJ",
+		"name": "こんな僕が救う世界",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 146,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/72d098f9bd7ae682144e73309e5d5bf0d8a244301a6bd0345e2a8a5d6fbe5867.jpg",
+		"data_size": "57289572",
+		"description": "ずっと一人で本に囲まれてくらしていたセイシュは、人付き合いが苦手な魔道士。 戦争、略奪、奴隷制度などのある人間たちに嫌気がさし、一人で細々と一生を終えようとしていた彼は、 ふとしたきっかけで、不本意ながら受けた恩を返すため、人々のために働くことになる。 大好きな本を読んで得た幅広い知識を生かして戦いを重ねるうちに、少しずつ変わっていく自身の気持ちに戸惑い…… 戦況を大きく変える陣形・戦術システムは奥深く、スキルをラーニングできるスキルブックシステムも活用することで、バリエーションに満ちた戦いかたができます。 サブクエストや敵図鑑などのやり込み要素も充実しています。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-10-19",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/68556f6b0a5a78878fdec03a2a037ec69e642524453a767cd4ffcf0626e9d2bc.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b506a750c40369cc5ff6ae20bd03c436b3ed4b33b26c24159e86e2a12f37073d.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2bf2419d53f713fbd6b1dba09caf3120e41e35be7cd24e3e5e1cc225281e8bd8.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7baf922c976824b36a3e5fbf698f1830f03657b1c4fd3e423e6aea1f4ffc34bd.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/95b93c4a57b829f74a99b2b9d0d64f8d29599ad24fc4d0bc8dd32efb3ba8be29.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b442b947f16a8e6c7691bbe8881fa576444c749b5fb39443ac9c6cb57dddda02.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/56f647afcb530a243873bc4d71490b5968ff592ce6ce0ea87e52ae5440dbfd31.jpg",
+				"name": "こんな僕が救う世界 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/afa5ef581963534f21e1bee7f4078960f4e0f459a595d17ed78473051e4312e1.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/def75d1fca8ee3b5722a7ee81223188fb02c103e42de3629d36dbff993fb7ca4.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					}
+				]
+			}
+		]
+	}
+}

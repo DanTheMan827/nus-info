@@ -1,0 +1,48 @@
+{
+	"title_id": "0005000010131700",
+	"eshop_id": "20010000000925",
+	"product_code": "WUP-P-WKYP",
+	"name": "Wii U™ Panorama View Rickshaw Around Kyoto",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/93ef0672d6f24f39f094a9a6d07470591a422317a879207e9efbc6a23ea8a1a5.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/97ceb44040e780a17e54be0fe32a4e5f17f63bcded4088f91d12042c4c3bf2ab.jpg",
+	"data_size": "430112908",
+	"description": "Kyoto, Japan In Rickshaw Around Kyoto, you will be accompanied by a beautiful Maiko (an apprentice geisha) and explore the traditional houses, temples and Japanese gardens in Kyoto. Throughout the entire ride on the rickshaw, the rickshaw man will explain all the details that you find in the city. The audio in this video is in Japanese.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-04-27",
+			"retail": null
+		}
+	},
+	"screenshots": [],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/36836f2f70bc549f09df88e4a37f587ccb8ca45df48f456f19a3b74ffa56f541.jpg",
+			"name": "Wii U™ Panorama View: Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a450de6be5f35b857949d3d21d864df20baa1d0f098bccb7d34318b78f7534b5.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "139"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bb510190e2c1f94f7a210f9e09dd125dc2aa790d5fb463453fc6451b8389798b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "139"
+				}
+			]
+		}
+	]
+}

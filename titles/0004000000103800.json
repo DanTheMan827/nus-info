@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000103800",
+		"eshop_id": "50010000017373",
+		"product_code": "CTR-N-JDUJ",
+		"name": "@SIMPLE DLシリーズ Vol.18 THE 将棋",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 57,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/47f04b702ca0afde55af3af41beb524b72d79bdc0307d5eae9b44363b569aec6.jpg",
+		"data_size": "39746404",
+		"description": "気軽に楽しめる「将棋」ゲームが『@SIMPLE DLシリーズ』に登場です。 ゲームにはすぐに遊べるフリー対戦モードと4段階の強さのコンピュータと様々な条件で対局ができるレベルUPモードがあり、楽しみながら自分の実力を伸ばすことができます。 また棋譜の保存機能や2人での対戦機能も搭載し、1台のニンテンドー3DSを使って友達との対局を楽しむことが可能です。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-10-30",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/dec7db2e20656e13859fede1da1478d1225e882fa08cb65ac1c2685f80dc5679.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/410913aa780e2c500ffe4a7568b5d2e88bbe3b08c8ba718a35fe96d063c8ea07.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/340052963af19d1c7b8c509383c020d69d1b0cca0181a11ee2c337223fa93252.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0f64599f75161327cd1661485c0c5101354d44681ffbfe986a2065da40b7be5f.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0e8ba02c310ce87b4febe515fc7fee5ee75217799b1b0bc759a8970e041f5b4d.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9b88e2c35227f0acf87a5ad866762ead0b9935ab2a80f7c36a785b8eb4efd8cb.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b635598a120debb1d6a148d487260a92e1f748d3c848a1ba1fbc00a45bf25741.jpg",
+				"name": "@SIMPLE DLシリーズ Vol.18 THE 将棋 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/86398f869066902a971e05dfd6ad843610d02b29b8f647b879771cc2fc61fe99.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "46"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2cf3d5b554af29ab895c57dc4cefc301d8ccd2a1d1842d86a32f9b5c5552325d.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "46"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001019BE00",
+		"eshop_id": "20010000012747",
+		"product_code": "WUP-N-PB9J",
+		"name": "Super Street FighterⅡ X Revival",
+		"platform": 168,
+		"platform_device": "WUP",
+		"publisher": 39,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8e4da37a1bcd49c5cc1e1b8bce7509ddef072dcc70f73d83a5b0edae1247d631.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4c66a839ffa1ff414686da5b89bcd6eb4c5c429f5440e67cc2e082e1105c9554.jpg",
+		"data_size": "73236620",
+		"description": "このソフトは、2001年に発売されたゲームボーイアドバンス用の格闘アクションゲームです。 強者を求めて世界に飛び出せ! 君がいる! 友がいる! そしてここがバトルアリーナとなる! アーケードモードでは「車」「タル」のボーナスステージが復活! そして、新たに書き下ろされたエンディングは必見! ボタン設定は「溜め押しモード」と「同時押しモード」で自分の格闘スタイルに合わせてカスタマイズできる。さらにゲーム中にセレクトボタンを押せば、必殺技を簡単に出せる「カンタンコマンド」に切り替わる! 敵を倒すと手に入る「VSポイント」を貯めると?? そして、真の闘いが始まる……。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-07-01",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/234a27d661d1bce22830ce5cdcd3769093cbc8788a426443d5ecc00fc1fca2fa.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/8ff0c2bd46c20938006db1df42d6e4ff170e0629407ba544118ffc67e7c608c9.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/389bba86cbb6cd6f145bbe148f90a8151e5a44ec2747a797d531ba32eebe1446.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/00b8537377f7144d043bfe8d60d0410a6bdc92c2242fc667eae144a2690aaff9.jpg",
+				"name": "Super Street FighterⅡ X Revival プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5947fd53265437a3a2971bd808564ba21a4d8b696c8502ac41ef8246d05ef470.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "58"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5c62608c02d5616c97d7908a9068fec05dd11a39ec6db0b8dc8bec9161284554.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "58"
+					}
+				]
+			}
+		]
+	}
+}

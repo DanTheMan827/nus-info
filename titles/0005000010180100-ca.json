@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010180100",
+	"eshop_id": "20010000009166",
+	"product_code": "WUP-N-PA9E",
+	"name": "MEGA MAN BATTLE CHIP CHALLENGE",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 39,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bb772f37dfcff64b854258884021cb35f07659adaa09fb25183ffeee55e12c6b.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7104fc3c3d9f40c8d7fc14d94f39f1a6803bdfbbeccafc47fb22da5cc8011573.jpg",
+	"data_size": "86081656",
+	"description": "Play as characters from the Mega Man Battle Network Universe, and help them win the Battle Chip Grand Prix! Each character has their own Net Navi--a unique program alter-ego that can navigate through the Internet--and will be competing against other network battlers for the ultimate prize! Strategize Battle Chips that activate attacks, healing, or specialized moves on a grid called a Program Deck. Complete each duel by defeating your opponent or having the most chips left in your Program Deck. Purchase new Battle Chips to equip for the next duel. Eliminate opponents from the tournament, and claim the title of champion!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-08-14",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/028f48ef967698af51fb8fc0b31a5339965554df809b53e7244829618cfe871e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8b3b85d82ef86e74032299407e3c85f0eb5c47495840a5001706c0b05d51f25d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4dd2ad4e4e1fc267b130e39152cc416db03fccd13749789696bc9a50d7aea2ab.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e5850b7074d02deff5a2cc63e4f49b8f3a54d9cad55e9be4cdd885762aa0eea4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bf97b339296c82f9d9579ebe458c0d6d8f1a86883bac1efa19191be6718fe5ae.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9074d292acd2434bd9575cc29ea5fe4407ae459f7db021aea8c6fa05d9e49ba2.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a125139e77820cd5cae60e19b6eeaf886bedd1e7227f7e8d15ec35c6ab20b9c8.jpg",
+			"name": "MEGA MAN BATTLE CHIP CHALLENGE Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5761c49a494395f8d5f647ca9a19184bb0abb2c12cd5a203a9da47b6c7eefef7.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "32"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/986afd985e0a3d326352178e2dcb695aa18f37e5a9d62db9cd4bc331de00c331.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "32"
+				}
+			]
+		}
+	]
+}

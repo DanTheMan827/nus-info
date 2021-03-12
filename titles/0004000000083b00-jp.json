@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000083B00",
+	"eshop_id": "50010000019855",
+	"product_code": "CTR-N-ATAJ",
+	"name": "ヨッシー New アイランド",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5f17a7a1324b02ca8600acbb170bcd26327236ded1cd9b9d10129bf88ae73f30.jpg",
+	"data_size": "438705044",
+	"description": "ヨッシーが、背中に乗せたベビィマリオを守りながらゴールを目指すアクションゲーム。巨大な「メガタマゴ」で土管やブロックを壊したり、重たい「テツタマゴ」で水中にもぐったりと、いろいろなタマゴをうまく使って冒険します。初めてプレイする方でも、冒険をアシストしてくれるアイテムが登場するので、安心して遊ぶことができます。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2014-07-24",
+			"retail": "2014-07-24"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/62ce509b0e7f0082f8c651905d77dd8aea3d3060e47eb63bc4853a36f5e24c04.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7c15ce6f9df17fa1c1cd3a4f59d294c615aabfd0eb9a7c57581e5a6e785d0e9b.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/05c14822f44b30b42735a40586bee600f191185ade6700fdcf2f0db72ab6aaf8.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8e8a6038bf5962d13731eac7a33b592ad6433d0331054ddb37e26ac20de29d69.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e3502a146848165eb2d983d777cca63370fb262a4daa703604740b0719edba40.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9777f44c7acb565cfe4b0c5a200a8d46f90a0387b868557d66037901d011ba3c.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/15e88862046d6e8d2ae20bb70fb4151cdb42fb07f9c15dd89b224d47565f12b5.jpg",
+			"name": "ヨッシー New アイランド 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/93495d05c171a2522725ed02fbcda1be84bd4a98e731d64aeba7a1c9b969b0fc.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "268"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6dad190edb9a0f325b929d9a455886bdd7ccf7cf9045a35fb3c5fbc2c9b0644c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "268"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101A0300",
+		"eshop_id": "20010000012629",
+		"product_code": "WUP-N-FERJ",
+		"name": "エクセリオン",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 1800,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/22b80bd50ccce244673f1ee216454379eff9e668b3bea6ff8209af46d774e4bd.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/17235d1b48eb692609036d9c14e554c96a479331a29e98db720febb70bb3394d.jpg",
+		"data_size": "38830240",
+		"description": "このソフトは、1985年に発売されたファミリーコンピュータ用のアクションゲームです。 宇宙世紀2991年、惑星「エクセリオン」はかつて友好関係にあった惑星「ゾルニ」から奇襲攻撃を受け、危機にさらされています。最新鋭迎撃機「ファイターEX」のパイロットとなり、次々に襲ってくるゾルニ軍を撃墜しましょう。 本作は4パターンのステージが登場します。ステージによって登場する敵の動きや攻撃方法も大きく変わるので、気を抜かずに進みましょう。ファイターEXは、連射ができる強力な「シングルビーム」と、2発同時に発射できる「デュアルビーム」の2種類を使うことができます。デュアルビームで弾数を温存しつつじっくり敵を倒すか、シングルビームで一気に敵を全滅させるか。状況に応じて2つのビームを使い分けることがステージ攻略の大きなカギです。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-09-16",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/9127618c85775d3221c45a0ed9874e8c86cb6393011d9e97d3df275d76e379b6.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/759228aa249754f12132071f13736f5ac38d99f4225129ecf0fe505f2db46d15.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/a0b242420ede1ec514d66bb98cab5bbc99cbed02138af5bc8c22bfeca4990e47.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bf22244ad58b5159d2b7ae7b78b8f1d0ec6c249f945930bbca5649ad2c29e5c5.jpg",
+				"name": "エクセリオン プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/69c6052846bb84ce3a9b040d9dbf1817f7274ed334ad5c63f2eb788a5b7c204b.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9164971bd3be9e2eab13fa084ff7496ab342e66060c0bb35d50ba2028e2e5d89.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					}
+				]
+			}
+		]
+	}
+}

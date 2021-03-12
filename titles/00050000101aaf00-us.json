@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101AAF00",
+	"eshop_id": "20010000017607",
+	"product_code": "WUP-N-BFTE",
+	"name": "Factotum",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1538,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/17fe9babe104d2ea512cf4f72e597b1699ffae60319538bc18037bced90df4fc.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/cfaa5d988d04296d60ef285bfb6e67508d973be035ac7ec57ceba6d184187156.jpg",
+	"data_size": "230391948",
+	"description": "You're in deep space and something's collided with the ship. Main power is offline and you're trapped. It's lucky you have access to this walker control terminal. It's a little old but with these two robots and some clever thinking you might be able to get power back on-line and save the day. Control two walker robots and puzzle your way through 30 levels to restore power, reactivate the life support and solve the mystery of the collision. An unknown voice on the other end of the terminal is your only guide. Find the data-stream collectables in each level to unlock Miiverse stamps. Use them in the walker control terminal to call for help or broadcast help to others.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-08-20",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/d8416e270691d9ea52df58d7d71aebe1549b8f2a37c3fd8c7cd38397ef05480e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/76cb276802c33b0c5c300b99585f6fcfda8c4b99ebc8f91925cf2c4f617882c6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/82757aa06003e586f3cf60a02354b0d340dcb4af8ec992660201716725199b44.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/39cfda4c0b713f724a9df96113f8b790c01e0aa66b9b425ad7cf4cba055a9ab0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b13e887cbfac7ce4e730ca0fdab034fe1464f73639e5cad91d477b362b344605.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a1402b549e2d19930b59e51be2b298d23ce6e1ea56cde971c34fe4998e8ed559.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f8848deb3deccc7f9e35a3294d71c4115380bfd016db708b93eee65dd287296e.jpg",
+			"name": "Factotum Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f17acb22196e7189d62a0eacc2399b7596733a3446e7fd6f3f65d27fa783fabc.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "110"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/103e5b09d929b2210c1435f50c87611b9b55dcf64a4ae403ddd5645645e84dd4.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "110"
+				}
+			]
+		}
+	]
+}

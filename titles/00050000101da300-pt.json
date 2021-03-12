@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101DA300",
+	"eshop_id": "20010000022247",
+	"product_code": "WUP-N-DA2P",
+	"name": "Mario™ Slam Basketball",
+	"platform": 169,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8fd25f72fc800980d48a6a872ed53210ef0b83dd0edee422620947b322b71324.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6651d9b1efc5b277294831e3ef1d1e7cf5920deedc7d5fbc8bd1e37b2d11c779.jpg",
+	"data_size": "83787896",
+	"description": "É um jogo de bola completamente novo quando o Mario enfia a bola no cesto! - Consegue aquele toque mágico. Há muitos jogos de basquetebol por aí, mas nenhum controlado através das mãos como em Mario Slam Basketball. Os jogadores utilizam o Ecrã Táctil para avançar no jogo enquanto executam dribles difíceis, passes especiais e lances suaves – tudo isto com pinceladas e toques do stylus. - Os jogadores escolhem as esquipas a partir de três personagens do universo do Mario e entram em campo. Power-ups como os dos Red Shells e dos Bob-ombs podem alterar tudo quando estes correm atrás de moedas – estas irão alterar a pontuação, por isso os jogadores apanham quantas puderem à medida que avançam para o cesto. Este jogo também está disponível em japonês.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-05-26",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/efe7df18a836ce795257a1b3bf7332565a5be9bae908154f71b11a92906f5871.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f463bf730b703998ce695b9aac483390477a7efe4acbd9eb008265f7ac336f16.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9699aecea9e006b20127089099f0de877ff2165d837112730161aea4d797b4f4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/fee24c4ad5bc4818e1e16a563e7ccb6f411bd5c9058d27f9730923b6142e754c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/97905c85651d4777af9948e6fbb47d1c1461c83baa1099359c451378b1a8456d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/232fd91fbb14bc30f70f58407a5935e147397d0f6df1f789caf87fa6327d4f98.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5f5ac4f30b89375871dcfa8601dfa33a291124268ab0ab1503d36d7cbeabdc49.jpg",
+			"name": "Mario™ Slam Basketball: Vídeo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/90b41f0784750bb15fe700f7b12b1e7afbb68ba3a4f66a45da49aae694986dc6.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6f64deb52a531b07c9a8e1ab008f49f89a56e37134c63a55c176923cae1db3b4.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				}
+			]
+		}
+	]
+}

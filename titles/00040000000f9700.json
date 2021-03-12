@@ -1,0 +1,111 @@
+{
+	"JP": {
+		"title_id": "00040000000F9700",
+		"eshop_id": "50010000018473",
+		"product_code": "CTR-N-JKUJ",
+		"name": "王だぁランド!",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 209,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/68fc51c0eaad015144bab984842808839e2b67d3ad7bd96316725985d156ba17.jpg",
+		"data_size": "122649444",
+		"description": "剣と魔法の世界で王様になる「王だぁ!」モード! 勇者となって打倒魔王を目指す「勇者」モード! 勇者を目指す若者となって冒険する「ボクも世界を救いたい」モード! 「ボクせか」モードで作った勇者は、すれちがい通信での交換はもちろん、QRコードでの交換も可能! さらに闘技場では作った勇者同士を戦わせることもできる!",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-12-11",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a21225399450f68d2a01ad1cfb683a254715d86a813c03958a252ce25b7a5900.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0fdc1f570f112da16d4f7027c895f11a6f9d27a952a002d1c19f419616cc065b.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/628c8d576c9667c7e6ef0681c277e28e30915272b94668965de73d94e40c7c38.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e6ea56659a1d86c9baab65ba1256ddf4c92f5c998e98d34b0824f857fa39c2e1.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/aa49c4cc3c8e77fd39a8cb3187596be96a066d7031ceb79f41ad34bc560eada8.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a4e5aaf5f505af123dd8349e22a6bd0da39e5e38f8ff3b39e758baca3efa8a1c.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8b92000ea0c8c725ea06bebe909adda7b2df7d74c0efd017727c82c5e5acb7c0.jpg",
+				"name": "王だぁランド! 紹介映像1",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5ee05ca0fd5327529b1dc50c8dd691bc3bb51c3c121f68fec9bd45b7cab8949d.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "171"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e9bf15a4c06c76118caaf8b76ee8844e8a28ae883f2270a2c0e6ee5aba0daff7.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "171"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/34a539c10c4703846e7ebff918cd0274b2e6a12375ca3ff018858ca357943a6e.jpg",
+				"name": "王だぁランド! 紹介映像2",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7e9568dbb304a82206e53886cf30395c1070f4a8f7d5abdb529998f40f600bad.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "174"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0d4b9992d7e2a1dfb75fe8e79ca3ce8504f50b87afd2041e1147871b879de9ff.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "174"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c07f05a2ad2522bfcfc0c4c479a05727f1295ee09a6922db0975f817677fe42e.jpg",
+				"name": "王だぁランド! プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/00963dd16d3adba1ffa7fad4892433b723a22a41683827a5f7b28bb8df28b715.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ad08a5660262c7d90d70186297b367e2aa9028abfca82d524342be1ce21210df.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "000400000018CB00",
+		"eshop_id": "50010000039365",
+		"product_code": "CTR-N-KMKJ",
+		"name": "Musicverse バーチャル キーボード",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 1292,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/2830c1b0dab692c5a10225635c4c556a71cce4dc3037c732a94ee5a745dc1583.jpg",
+		"data_size": "72403812",
+		"description": "『Musicverse バーチャル キーボード』は、誰でも簡単に音楽を作れるソフトです。ピアノ、アコーディオン、マリンバ、オルガンなどから楽器を選び、レゲエ、サンバ、ロックなどのリズムを選び、コードとテンポを調整し、あなただけのオリジナル曲が完成します。また、コード、ピッチベンド、メトロノーム、変奏、クォンタイズ、等々の細かい設定ができますので、ビギナー（チュートリアル画面あり）からエキスパートの方まで、曲作りが楽しめます。 完成した曲はQRコードで、Twitter、FacebookなどのSNSやMiiverseで投稿、共有が可能です。またMiiverseからは、ほかのユーザーの曲をインポートしてお楽しみいただけます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-03-02",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bedf6c7f3f1a3de1e9121948b08fd6574809d4fe3f8366959e983548ca3922b4.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4a169c42884e547653d3ce2ab7a6c40da71ab213b6c25f01c3f76ed1e4a497ee.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/cffd4b1ede137416df57dc95eb2e6256727ec3409b835015f60b8ee1b38d9fc9.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/fb5c9bd879f6479f8aa7ace967fd241fd503aefe75fdc79f47009527a79966c6.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c28dfd7a0520574d1800aaaf56cc119128b63f1acb28f8d7b09f94504360d4ac.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/738c341fabe3dafdeb8679ee90a683c56a9c2fc20394796dc41078b4c31d0780.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d978eb963287f0639dc92c9049cbda4f91a94c0cc7a2449657e4e3121bd2b20f.jpg",
+				"name": "Musicverse バーチャル キーボード 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c47bc8661e34206f67a9743bc988fe215dfd4b244dd6449308edb90865f38bd5.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "63"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c9882224573a31999a21b613d33e451dbd0cbb09862d70f152c62903f030aadf.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "63"
+					}
+				]
+			}
+		]
+	}
+}

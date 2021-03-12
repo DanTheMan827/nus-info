@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000EF500",
+	"eshop_id": "50010000022056",
+	"product_code": "CTR-N-RCEE",
+	"name": "Mega Man III™",
+	"platform": 21,
+	"platform_device": "CTR",
+	"publisher": 39,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9ad4f96f374d60d1eb43accc0b74261b0b71a78453a0f8c5d6d05e2855474260.jpg",
+	"data_size": "3611492",
+	"description": "The sinister Dr. Wily has taken control of an off-shore oil rig to drill to the center of the Earth. By reaching the molten core, he will be able to collect energy in order to power his latest invention. Sounds like a recipe for disaster, and Mega Man must put a stop to this! Join Rush and Flip-Top as you progress through Dr. Wily's fiendish fortress, battling various Robot Masters and collecting their weapons before facing the mad scientist and his ultimate creation!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-05-08",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f9a1fbf3d669614adce1f12cc87f27bf7da505718414fe84974cac77ad3f33ba.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d96d24d175dcc2009f8185a6eff53ba3dfd1667c24c0dde32afb7132ab88b260.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/384ebba644e2a5f076c10b6399036e69d1e2cda12783524932ea15dcaa66b7d8.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0a0913afe5c88b86f38eb741f82cde4dd103b2e124230ac869ce1fe8f034f2e1.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b75a5d65c4bacf34049798dcce56f2e2b5db2aba282c245c308eb8411845cd98.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6a8dd84322cb44d6bdac77036a4736cb5781edc00587b31d1c43750f4d308a78.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/00e6aa753af254cdafb5f456e42413a5e41b72ad823229d5da968c737c582e73.jpg",
+			"name": "Mega Man III™ Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e1c0ff5274dc0cec56e41bde04b3f6755917d79d06dfc8c4c3cd4821e3707c9c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "57"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cab1a8a3e97796f5bb8ac4d5d249fce63ded7dc4244ff5687edd20278baf315a.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "57"
+				}
+			]
+		}
+	]
+}

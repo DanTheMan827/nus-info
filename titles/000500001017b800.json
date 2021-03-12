@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001017B800",
+		"eshop_id": "20010000008608",
+		"product_code": "WUP-N-WBWJ",
+		"name": "タッチバトル戦車SP ",
+		"platform": 124,
+		"platform_device": "WUP",
+		"publisher": 237,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e69d06b55e88a134042fb2acebf8bd41b59cb9562e616f94dbde582fce6c1563.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/104666ceda3047b85c892c0d495f0cc8881bc24d3873fd3ec8f5b5a35f3881ad.jpg",
+		"data_size": "106135692",
+		"description": "アナログスティックで戦車を操縦して、タッチペンで狙いをつけて弾を撃つ、痛快白熱戦車バトルがWii Uに登場! 自機の戦車はパワータイプとスピードタイプの2種類。 パワータイプの自機は、壁を破壊し貫通力があるチャージ弾を装備! スピードタイプは弾よりも速い!? 機動力と敵弾をも飛び越せるジャンプ(戦車なのに!?)機能を装備! ステージ中の敵戦車をすべて破壊してステージクリアを目指します。 ステージは全部で70。敵戦車は通常弾･跳弾･誘導弾･迫撃弾など、さまざまな装備で攻撃してきます。 Wii Uならではの機能として、TVの大画面を活かしてステージ全体を表示してプレイすることが可能になりました。もちろんWii U GamePadだけでプレイすることも可能です。 さらに、Wii U専用にゲームのバランスが調整されています。 Wii Uならではのタッチバトル戦車をお楽しみください。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-07-30",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/128d36e441f08bfba490c4215b746ee1f2cca8de02f50dc02c42453339f8771e.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/1cfe6747c4d57ee262ea9c782b893147b56f3dfa612a43b3dae9a255a4c2ca91.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/a298bb6e5a9167b5e8961fa4832cff9f074efff388e41832e8c22f29c5c841b6.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/18aec7710c0759d1d03ce4299ed5fa92802b9563ad12e19657632fcda5287bde.jpg",
+				"name": "タッチバトル戦車SP 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/56ec12b491410ebb2a0066ac46b77b2ec69a4028f4459b21feeed96b257569bb.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "83"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/895a2efd299611ca25f66245cc04cfb73d0e594ad308818ed553d15489a07371.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "83"
+					}
+				]
+			}
+		]
+	}
+}

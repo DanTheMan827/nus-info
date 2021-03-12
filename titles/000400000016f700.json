@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "000400000016F700",
+		"eshop_id": "50010000035715",
+		"product_code": "CTR-N-KPNJ",
+		"name": "プチコンマガジン 創刊号",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 363,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7e2f0be28a1e473bd139e9e69b12edc1356f487b50a11610cd2fdd480f4de5a5.jpg",
+		"data_size": "24263524",
+		"description": "『プチコンマガジン 創刊号』はプログラムコンテスト「第3回プチコン大喜利」で集まった、優秀なゲームや実用ソフトをプチコン3号なしでも楽しめるようにした作品集です。 ･『プチコン3号 SmileBASIC』を使ったユーザージェネレートコンテンツ集 ･小規模ながら、斬新なアイデアで楽しめる38個の作品(うち4個は作品紹介のみ) ･『プチコン3号 SmileBASIC』がなくても、プレイすることができます。 ･SmileBASICで作った新作シューティング『SOLID GUNNER』も搭載",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-07-29",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f815a9d86ad4f1279e8005fa29ab4cd8f913fb41e68964b2d9863ba3064b6892.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b851fa0707cb7035dfc0e40acfac91e10da1c0b9118e566bf30707a5f1cd7192.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d279fec72b98a7127fa976f33aa32389bfc493e6d4843ceb54c8ab48795a73e4.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/64effcec47405a51d61389dc306b56cfcd4502af04c88eddd82e115be9211fb1.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7a7e751755ca220fb92a4f95dd8ae1e1a091ea30de4bb1a146a2031502392255.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7a86bf3d82f7b705658d8b8c9ba801ffe592fbfe92cbf2a5ddc3c9b877f99887.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/81988e26df75bd5dc66d2778f137b0f0c1cef5a2c99620d4f088a4a12cc658f8.jpg",
+				"name": "プチコンマガジン創刊号 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/28a6dbcd428b60ff48e90c5ddbff4fbe825c62c7addc70f7d8c72271f9872c74.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "88"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/68eb5ceda5f0dfbcb32e4e6303725fefac1778ad026e5dd5f44e921d8a4be076.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "88"
+					}
+				]
+			}
+		]
+	}
+}

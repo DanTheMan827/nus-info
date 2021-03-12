@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "00040000001AA300",
+		"eshop_id": "50010000041677",
+		"product_code": "CTR-N-BF3J",
+		"name": "セガ3D復刻アーカイブス3 FINAL STAGE",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 231,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c3ca6fd89a5b39ea1af760bc0df9da7defa4b7522ae428b34290549ae6e8e2ca.jpg",
+		"data_size": "84568932",
+		"description": "名作ゲームを3D化した『セガ3D復刻アーカイブス』、ついに完結！ 前作アンケートで収録希望堂々No.1となった『ターボアウトラン』（アーケード版）を収録！ さらにはテクノソフト制作のあの伝説の名作STG『サンダーフォースⅢ』、協力プレイも楽しい『エイリアンシンドローム』(アーケード版)、落ちものパズルの定番『コラムス』（メガドライブ版）と、計4タイトルのゲームを新たに3D化移植しました。過去作には収録されなかったタイトル『スーパーハングオン』『アフターバーナーⅡ』（以上アーケード版）『ベア・ナックルⅡ 死闘への鎮魂歌』『ガンスターヒーローズ』『ソニック・ザ・ヘッジホッグ2』（以上メガドライブ版）の5作すべてを収録し、全9タイトル！ 渾身の第3弾です。",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2016-12-22",
+				"retail": "2016-12-22"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/9f82fa4e90dec01bba91d57b11790155efad774ec065ec37495157847b5602e2.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6864210eb6006083fb1c06c4bc3428f67da494030686b5168ccce6b85ef93d8b.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/acc09d41dc1cd05fa7863ed2ebf4bc4347441ffe7fdcc4606caf22e4dd24bd76.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e107d490952343a6a1c5e4360b37ffafee039581169636a78bea231f529a7e56.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/22d379aa69e869a3a04c0fc0f0f5eb3c35427f02afbaa38cdea25e062482596f.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/32647dbfe4fa3cf24690a3097b6f271c68678872373a06f5f157d9e3b06eb8be.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f606f4878df959ca4067d081f8cac51dc1f56f1a8baaaaec2b98c569cde6ac9b.jpg",
+				"name": "セガ3D復刻アーカイブス3 FINAL STAGE 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/61658f03564a91913786858fe913713963c6e30f026cc6b5afd37d22a324d2f7.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "246"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fcb8c3a46cfdf30bb5669501e8a9cbe86d12b1e455b81f03977bbc5c2dca23c7.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "246"
+					}
+				]
+			}
+		]
+	}
+}

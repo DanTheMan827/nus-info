@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000134200",
+		"eshop_id": "50010000032395",
+		"product_code": "CTR-N-BKTJ",
+		"name": "ハローキティとサンリオキャラ クターズ ワールドロックツアー",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 1188,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/26eb7f0ed031a9c26b91ddfe9cb9f103d161b6dbbc44b97a3b5ce75e855532f4.jpg",
+		"data_size": "192928612",
+		"description": "みんなが大好きハローキティのパズル&リズムゲームが登場! パズルであそんで、おしゃれにコーディネートしたらさっそくライブでノリノリパフォーマンス! 気軽に楽しめるパズルはステージもたくさん! クリアしたポイントでハローキティの衣装や楽器を集めることができます。 パズルステージを進めていくとライブで一緒に演奏してくれるマイメロディやクロミ、シナモンなどサンリオキャラクターたちも登場します。 ライブステージでは4種類の楽器を選んでそれぞれのリズムゲームで遊ぶことができます。 ハローキティとサンリオキャラクターズのかわいいパフォーマンスをじっくり楽しんでね!",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-07-16",
+				"retail": "2015-07-16"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2b7604f56f37f1d40160672230ab944cda63234ebc2c1066334bb260f3aebaa2.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e991af27d2f6ad2f3d16ade237700634ac6d87c37ee8d6eb45913a04d915d461.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/4672c01da5eed4e7e848d77a5daf58e0c6ec92f1624dcdd854540d23f338b39d.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c2fe4dfe52b2fc802c87ceb3e5fb96697e4a97cab965b86f6978fec9a481a5fe.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/96e0095807349bf2e02db38fbadcb999b320a1f34a2780eef3b284a78215af95.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5068491d57793dd8f41e8a5e6bb79dfacd6ec89a786af37413d41d28a9467b8e.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/eea1009ea04e68b594fdc481eef1b847599c194ceb993a0cb65da5383b314c9a.jpg",
+				"name": "ハローキティとサンリオキャラクターズ ワールドロックツアー 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f57873581019092648ddcd6d45e098cf68bab8d1890de54770daa6bea14d6cdd.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "55"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/644900ed22ab1acc70afd61b48bcead5ff197e935fd565045a4a429855799232.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "55"
+					}
+				]
+			}
+		]
+	}
+}

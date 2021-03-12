@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001018D000",
+	"eshop_id": "20010000008807",
+	"product_code": "WUP-N-AQTE",
+	"name": "IQ Test",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1371,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/796a0c0bd899bdc2246bf46d9d2ca74f9d88ead8a4354bda234a783c91bd0721.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5717295061651019c9e19a02098b904db8e562313c9997c2b78d5433fdd4217a.jpg",
+	"data_size": "68124812",
+	"description": "Tap your way through tons of test questions and try to get the fastest time! Master the game, then laugh as your friends and family struggle with these simple but challenging puzzles! Funny sound effects add to the excitement and humor. FEATURES: Simple, addicting gameplay Tons of challenging puzzles Funny cute characters and sound effects Beautiful HD graphics You will LOVE watching your friends FAIL! ",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-07-31",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/0d424743f0b912d378e7fc97b4ee8a88ddcc18a9886ac885223e5fc51d81d2df.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/08bd4bc18fedd87c846915b480659851042da6364a207b1ba2f586464cf7d5a1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0276ef7e24c8e3ca7ee70e30f65592376a4900d383ab4ff158622b255fd24f77.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/957b6cf9247b9c51a54422e24c92218b291002ea138dc4cf5df5b6c3f7641bde.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0bb7f4b2c6984a803f77045f79e7cf9e0b3d2548b1b22d7997bd5b734f47add3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4e26065e8136d4a406f942de4d62328fc1a53790f9f67f4bbe7021fa7cbd3c6d.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f5a76938eebabf76882cc045de9abfa10004ebcbf95674fc465d514fe6b7c921.jpg",
+			"name": "Avance para lanzamiento IQ Test",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b5533608031f5467758f4cd0460d35cf4ef86986c58e2bf49b02399b0ccc8d31.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "29"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/84f3f27161c2fc783623d0494ee659650abfbf7076e557b2d9bfba8031f77704.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "29"
+				}
+			]
+		}
+	]
+}

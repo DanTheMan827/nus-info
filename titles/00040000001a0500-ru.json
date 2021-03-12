@@ -1,0 +1,85 @@
+{
+	"title_id": "00040000001A0500",
+	"eshop_id": "50010000041978",
+	"product_code": "CTR-P-AJHP",
+	"name": "Super Mario Maker™ for Nintendo 3DS",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0966de867939b357a20bc6584eefcc015654a9926beece0e95668b71fe608fb2.jpg",
+	"data_size": "384043876",
+	"description": "Изюминка игры Super Mario Maker for Nintendo 3DS — возможность играть на различных уровнях когда и где угодно. В игру уже включены 100 уровней от Nintendo. Для этих уровней также имеются испытания, например собрать все монетки или победить всех противников по пути к финальному флагу. За прохождение этих испытаний вы будете получать медали.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2016-12-02",
+			"retail": "2016-12-02"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/01de0774c957a50780f725109db3faf9edd2629e5d3360fa512fcc1344c462f3.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1b5b80e61040a85d2318b782640270866d1c357a4603e57b9f7d43b3d159fb34.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0ce4df9a52720a6b48dcd48d1f27bd22c4a473314a58c63a10f5063de9b2c3e9.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/24ac578c1160b7d6c8bbe259ae7d33ff36f3ad319cfd89c4fc26b0f4a9a267c9.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f88d7e757f5cb05cf194d262d8d22df8f65d1d30dc8498fb94e7f4900080b26b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8bffc163b1cd3a21bc0a9d3d41e9cd96eefaaeeea2a2f7550648f136433f7499.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4f1a94592a13bf23a0eee4337fb54c546a83b544e8d131d645e0e26d64868d0f.jpg",
+			"name": "Super Mario Maker for Nintendo 3DS: Обзорный ролик",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4591054a993a7c30c12b90e797572021503bce019fa234592a3a3400456f8500.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "266"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e40b22db05b713e853d6ccd038f9a6adbfa838f79c48350f280f26178dcc78e7.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "266"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4f1a94592a13bf23a0eee4337fb54c546a83b544e8d131d645e0e26d64868d0f.jpg",
+			"name": "Super Mario Maker for Nintendo 3DS: Медальные испытания",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1d92ef9863a39f94a245725e96e32ca2d89760828f1a6669b398044b34549e39.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "70"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/dfd172f93e9bf69216dd9ca503d1d588eb46c70ee1ffefcf48e3b2532bfebc2e.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "70"
+				}
+			]
+		}
+	]
+}

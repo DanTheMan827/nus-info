@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000F704D00",
+	"eshop_id": "50010000041502",
+	"product_code": "KTR-N-UA7J",
+	"name": "ファイナルファイト タフ",
+	"platform": 1004,
+	"platform_device": "CTR",
+	"publisher": 39,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c8c2dfdfd56afeb8e3e38699456d207412a930810c920f55c48c274981af45a4.jpg",
+	"data_size": "6191972",
+	"description": "このソフトは、1995年に発売されたスーパーファミコン用のアクションゲームです。 メトロシティで暴れているマッドギアの元下部組織「スカルクロス」を壊滅させるため、「ガイ」「ハガー」「ルシア」「ディーン」の4人のファイターが立ち上がります。 各キャラクターは、基本となるアクション以外にも独自の得意技を持っており、多彩な攻撃で敵と戦います。中でも「スーパーメガクラッシュ」は敵に大ダメージを与えることができ、使えば強敵との戦いが有利になるでしょう。 「オート2Pプレイ」では、コンピュータが操作するキャラクターとの協力プレイが楽しめます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-11-21",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8faa1b11111117bbba0d5982161b59ab0d7fbdfcb3527d46a35693c79f9631e1.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/889f84bd17e33866c157f9af5ffcd84d58bc9cb2b5c370567382994073df095c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f6ab95e1c5f4ea3c9533837263e20ac3fa80b31c0f5d97891bed0335eae72fc4.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e74bf64dd88e78126608429302b10ad047cc7af32ef5d55d5f7b8928de576515.jpg",
+			"name": "ファイナルファイト タフ プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9eba4175a26c0c8f78c575f63405aa4160f15f948542e6612a3a5cd7f159705f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/15916c57421042e91995d7cfd374d3dd215942291dc18613073e948ea03a82de.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				}
+			]
+		}
+	]
+}

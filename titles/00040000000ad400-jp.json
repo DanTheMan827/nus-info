@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000AD400",
+	"eshop_id": "50010000012432",
+	"product_code": "CTR-N-JA2J",
+	"name": "ぐるっとスプラッシュ!",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d7eecbddf03e615320a0272f90863574c618d10076648e65dbade0e11d479f73.jpg",
+	"data_size": "189344612",
+	"description": "ニンテンドー3DS本体を傾けたり、回したりして「水」のキャラクターを操作します。 3DSの傾きに合わせて流れる水の特性を利用して、しかけを解いたり、敵を倒したり。 冒険を進めていくと、水以外にも「氷」や「雲」に変身できるようになり、 特性やチカラを使い分ける奥深いパズルアクションを楽しめます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2012-12-19",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/05591704792ef91960816b1b9675bb70f69b5385f2dc54baef3459cf1a37ac00.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1a3abf3871d9d6da8488ab82a9e42b7167d9e2755ad04183dbe5d333d60fd575.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ace272236209dbf2edfc6cda89845345bf8deaf05e4513738a5dc1b05d9ed71c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8e51164e88b82fdc8c8feb55a7bc62bd224c37d00bf6153e676abf437979d3fa.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3d8eb89029ec427b4431637b6eb113961973dbb4c165a3a1feea8ae3cfe6e1f3.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/98ee5b59075ed6228642cd353f8b1e27d2ca0220c23b214cf333ea3e94ba740f.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/efa9b214cecae52f1ffe675fa2ed988a05ea4bae81650583eff0575c5c21184a.jpg",
+			"name": "ぐるっとスプラッシュ! 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3ec1fa996d9a1f500b9757cfabdbdfd9f0ee2acaada4b04428064cb21e1516a2.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "107"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/80c361ae26d4bc1d22c693109da79968348ec4eb8d04a25832d8c1af3973743f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "107"
+				}
+			]
+		}
+	]
+}

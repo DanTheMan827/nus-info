@@ -1,0 +1,87 @@
+{
+	"JP": {
+		"title_id": "0004000000178300",
+		"eshop_id": "50010000036935",
+		"product_code": "CTR-N-APJJ",
+		"name": "プリパラ めざせ! アイドル☆グランプリNo.1!",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 1206,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a7cd3c72ea73a3cc37f10df376971d8fc7799eaf3f45652f8d8bfed63791eac8.jpg",
+		"data_size": "446655332",
+		"description": "女の子に人気のアーケードゲーム「プリパラ」がついにニンテンドー3DSで登場! 自分で作ったマイキャラでらぁらたちとプリパラのライブをしてアイドル☆グランプリNo.1をめざそう! 収録コーデは200種以上。自分で「サイリウムドレス」もデザインできます。集めたりデザインしたアイテムはお店のゲーム機でも使用可能です。",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-10-22",
+				"retail": "2015-10-22"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/44abe9a7d50844eaa7278d85ef95fbb4e98f3d1ef1c42e1c1a01f54560d34075.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1949dd85b15aaa825d2100bb128e29610b5d58d2f21818935f906468e6e2225b.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1ac087b85a68ac819d58dec431724dde80c613c2056cb60457622cef67968fa6.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/bd31cc8173f5959c46ec6be32b40a73b21d714dea46bb93a6f55cf6b48adea61.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5c523523b572cde1bac724176a2971483cfe3ccdf976871ecc9eef375d83d701.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c7153c08474f65ff45cb7a60392fc690f74f6a7f59ead1160eed461e4dd55e15.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/dbfcb15f5ea16fa7621b39dce9be075b8ac72c4914b01e4fbd1a3b8fec0932ea.jpg",
+				"name": "プリパラ めざせ!アイドル☆ グランプリNo.1! 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/73fbb7f0dc2939a7cf0ea8cb78ef7b53be5798e918f2cae1c0fab60b756c5e1a.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "139"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/42b5692df959e267d0a960cfa5270fc8b1c92d4e388c014bf65bc9d742746052.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "139"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3607b017789335fd9d3d19be8613f1721966606e4dc1871bcef3584e65f6a251.jpg",
+				"name": "プリパラ めざせ!アイドル☆ グランプリNo.1! TVCM",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d6384223b86036e39bb532b6c9a5474c3bd231071204f65737b578349ffa2a9d.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "15"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/427135d0a9ccb7cf83dfd882d201f84bfe85a280712643a5e3be7bd452af694a.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "15"
+					}
+				]
+			}
+		]
+	}
+}

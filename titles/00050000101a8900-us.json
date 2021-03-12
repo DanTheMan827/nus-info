@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101A8900",
+	"eshop_id": "20010000012548",
+	"product_code": "WUP-N-BRZE",
+	"name": "Breezeblox",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1431,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/061a8360ac2463de573ceda79f6722db938dbb1dd79d642a4cdd3378d7f9262d.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/766b5ebe7787cbc78638856c20ba8c776e4b77cbd20aef83113a131cbf56e3bd.jpg",
+	"data_size": "75628684",
+	"description": "Breezeblox is an addictive puzzle game where the objective is to reach the end cube without moving off the platform. Special cubes throughout the puzzles will trigger different actions on the platform to aid you with progressing. With 150 challenging puzzles to complete, your brain will be plenty busy.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-01-22",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/2a001d481d2bdee28019004609a394cf000663aa965678bbac1068ecdf777fb6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f4afd69e960b62234fea4bff16515faa5bc7444bc5709d32a0bc75b665bda2c0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3f0408c82879cd8038490cd586defe963fdd8b08e1929fb718124233b5f84420.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/40fed6ef182560a110f05ae910e0f6aab251654aa90772fe566e79375d7a0183.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/15892e12de246c45c2ed5b8cb162f59a4aa3a34005a1c08549a522f373e757f4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d772379075ab1f50fe4763e29a87118efd673bdf29ab6528be5ab0942cef4e88.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5662f91ec374597812e7d4cf7bc2a56251e41ebbb5d0eca7c265910ca8093aeb.jpg",
+			"name": "Breezeblox Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/dd294d946aded1324128279f0ac2526b1eddaf547fc16465e7e65d83d56b2492.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/26fc9911a69158a4c5ddcda5b4167d30b175199a50fa934c0ef9a7d41d1e58d8.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				}
+			]
+		}
+	]
+}

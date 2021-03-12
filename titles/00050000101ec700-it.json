@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101EC700",
+	"eshop_id": "20010000021588",
+	"product_code": "WUP-P-WTRP",
+	"name": "The Beggar's Ride",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1644,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d68f5a933baeec0d46d3a8f5965db19934bfa12457e766421903138fb34c7507.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/85bdcc8e1953928e998d2326c5b4ca2284e142202eb6b365d0ffb4816b62ff3d.jpg",
+	"data_size": "974946524",
+	"description": "Una notte, un vecchio trovò una maschera sinistra, chiave per un mondo nascosto oltre il tempo. Era destinata a un campione, a un salvatore, a un eroe. Il vecchio, però, era solo un mendicante... Viaggia verso una terra misteriosa e affascinante quanto i sogni, dove grazie a poteri divini potrai dominare le leggi della natura e scoprire i segreti celati da una maschera più antica del sole. The Beggar's Ride è un puzzle platform dal gameplay unico e innovativo, in cui è possibile manipolare il mondo di gioco per risolvere enigmi e svelare una storia emozionante. ",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-03-31",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/3d1e2bb9a36a10f8f34a246c9121891bcb5ca66c1cccdf00e4650f497c0fa84a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2ce8bc9a493ab1d1da597dfa735a7c653ae41f1a579b35de7b473efe0737bc7b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/205c1164ea001e8275f908340b045ffb8ceccd3734bfc50acc58c4b40acae9cb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6c677cee560b9285cc09e7a92dcc2e164da3a84d1b2627617c28717c0af63883.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/79556430b95d1a5b2ce17719099edcf8712669d8515133d1ddcbf9272dc5e9e5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7b3d46a97462cc68dfbaf5d91026a054ecfbe88c86f1bbf28c028e752c561501.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/674aeb3021ceca0dc9c9e529d3cd3e2b82fe912026cbb2a72eee83970126724d.jpg",
+			"name": "The Beggar's Ride : video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8de4731e5cf8db847da48a6a3e05d4db58bf8f110b05b482f9af74929f2e4712.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ee20e210e182575295b1b4f95f2e309281fcc0307a589c96df30abc6be89cd3d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				}
+			]
+		}
+	]
+}

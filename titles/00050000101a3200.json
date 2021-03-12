@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101A3200",
+		"eshop_id": "20010000012247",
+		"product_code": "WUP-N-PCEJ",
+		"name": "伝説のスタフィー",
+		"platform": 168,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/65b2beffad1f6f68ebaf61903894368d277eeb76fb1b515ab4d037b1f84a05ce.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/47a36ada89369481b99499bbba403d4936a6762bc4d0682825b1c45f10dc0a97.jpg",
+		"data_size": "72122508",
+		"description": "このソフトは、2002年に発売されたゲームボーイアドバンス用のマリンアクションゲームです。 空に浮かぶ王国･テンカイの王子スタフィーは、ある日運んでいた宝物を海に落としてしまいます。すると急に大嵐が起こり、スタフィーも海に落ちてしまいました。海の長老のロブじいさんに助けられたスタフィーは、テンカイへ帰るための冒険に出るのでした。 テンカイまでの道のりは、迷路を抜けたり、海の乱暴者と対決したり危険がいっぱい。スピンアタックやムササビじゃんぷなどの多彩なアクションで切り抜けましょう。冒険の途中ではさまざまな乗り物が使えるようになります。空を飛べる「気球」や地中を進む「もぐらタンク」など、ステージに合った乗り物を使えば、アクションがいっそう楽しめます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-07-29",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/f9d10388e1a10f0491286ab867a130596cc0181b145b9dae28e370621ec19f0c.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/ce0cd4a152d5209ee21f4c2ab4b803841a5a8d4a87f6be4001e4599cd8a43d64.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/0d17a331e9b5caf213100117e3af3fa658d4c830c4a57c82c4d531311fdf9055.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9eedb38d5b7b1aa1e9215d178b31de7cf9be1d0963d6d320a5ffd069cf7d3191.jpg",
+				"name": "伝説のスタフィー プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/95bcfe6698abeb29409063a519c810b4c20c50683e97be3072f8fa0d89387499.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "42"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4f94dcc00aec7de3054e669ade665a06baf42d6d87a34fac5cb3a61e41aab178.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "42"
+					}
+				]
+			}
+		]
+	}
+}

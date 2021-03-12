@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010181000",
+		"eshop_id": "20010000008766",
+		"product_code": "WUP-N-PBFJ",
+		"name": "マリオパーティアドバンス",
+		"platform": 168,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/43036b86af57db556227f843757de41d48959958be7a7b9207061b1b1629d0fd.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0fe0182e2bc8f2a8b712b653835bcd69fb62d0a59c6607eebba64e5f54b8f577.jpg",
+		"data_size": "77201548",
+		"description": "このソフトは、2005年に発売されたゲームボーイアドバンス用のパーティゲームです。 たくさんのミニゲームやパーティグッズを楽しめるテーマパーク、マリパランド。しかし、楽しそうなマリオたちを許せないクッパが大暴れして、すべて吹き飛ばしてしまいました。あなたは、吹き飛ばされたミニゲームやパーティグッズを取り戻してほしいとキノピオに頼まれ、キノコシティへ冒険に出ます。 キノコシティの人々にお願いされるクエストをクリアしていくと、ミニゲームがもらえます。「チャレンジランド」でミニゲームを遊べばコインを集めることができ、さまざまなパーティグッズと交換できます。 ※本ソフトの「ふろく」モードで使用する「マリパボード」は、ゲームボーイアドバンス版『マリオパーティアドバンス』の公式ホームページからダウンロードいただけます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-10-28",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/d41414964180881b364b7d8944b5dd3f8aff9e0c23d9e6df089bf898ce05be1d.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/80ba41456ec483792d0eaa0582d73c99f0bc4bad9047bbde929cb48b785e1808.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/533643a62010c7e80d86e744d0a08aaa833e09d4c4d845a3cdfa371d5198eb8a.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/416496e688d83fab37b403e938ffbc851be9954278713a1367cdf5d9df77d3fb.jpg",
+				"name": "マリオパーティアドバンス プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/95d4d40b85e8dd4dd285cda020f61d3388bd05714cd85b6b56a3583fcd8598f2.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "89"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3bfcfcb953a7d06cdfcb1908c22ead335ab76e3d3528f1c5d67e4df9ac0c68ba.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "89"
+					}
+				]
+			}
+		]
+	}
+}

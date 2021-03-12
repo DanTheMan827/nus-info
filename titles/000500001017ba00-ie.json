@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001017BA00",
+	"eshop_id": "20010000009894",
+	"product_code": "WUP-N-PA7P",
+	"name": "Namco Museum",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 27,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bfee86527fd7e9923dcda683a2d76ad4d2625aee78e86fcaa233fffb5758ddc2.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5168d578e743b0278f6da50576778184b3f5e232ce373c827c46e89219bbc637.jpg",
+	"data_size": "94797944",
+	"description": "Namco Museum packs five historic arcade games into one retro gaming package: Ms. Pac-Man, Galaxian™, Galaga™, Pole Position and Dig Dug. Enjoy these blasts from the past with their original graphics, sound effects and gameplay faithfully recreated. You can also change the settings to your liking; altering lives, difficulty and screen modes. There's sure to be something for everyone in this classic coin-op compilation!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-10-23",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/133f1851992ac6d8ef05c087eee088c87354095eaf0fc652df1058ddbbd278d0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/627c92b47385dcb49c36c7e9d6f23c4b6fdb0172da3ec7832fe69c00db33dbd0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/70098a444e695f07aa2699e25d34e483215678e4682adebaeb6ecfbdf5c719bc.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5bfb3641c9dd058c1470d9fe6b02dde1eccb064b34575560cd97eed785473ab8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a2ec951db792eb2974187831d76deccc544c52108cc843d2cfa535d75876cbb1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5481e698ae71d73cf0e2b23ebf511176c44ae560cad68fb934db4c7ace68989b.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1012b4329e085a22356dd1ecfeea0936b876f3f7759733722fa56845e04622f4.jpg",
+			"name": "Namco Museum: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ee140c8005321d92a48f38c93e80165fff2119252c9576ce6d9f832d61cb9a9d.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "78"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b051a9d609052642d5f4f21684d74b957cf9eefc59ee7fad010b139874f69cd2.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "78"
+				}
+			]
+		}
+	]
+}

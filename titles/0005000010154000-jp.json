@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010154000",
+	"eshop_id": "20010000004504",
+	"product_code": "WUP-N-JB7J",
+	"name": "ファイナルファンタジーUSA ミスティッククエスト",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 246,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e4e903a49f308b7c11c12ab899b3e7987ca2c32ba169632197a153be5f05f07e.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4fce0e4d2033a4ff018bf4b59bbc816e04df57448ebc57285fb1739228c5d496.jpg",
+	"data_size": "40697996",
+	"description": "このソフトは、1993年に発売されたスーパーファミコン用のロールプレイングゲームです。 天変地異により苦しんでいる人々を救うため、主人公はクリスタルを取り戻し、悪の根源を倒す旅に出ます。旅の途中ではともに戦う4人の仲間との出会いと別れが待っています。武器やアイテムを使ったアクションで、各所に仕掛けられた謎を解きながら進んでいきます。戦闘では属性と武器の種類に注目して、敵の弱点を狙っていくことが重要です。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-04-16",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/28c2ba2d19f365c76fe39675272ff48d81283b654f3564ec2d1cacc4ea00da51.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/36bd371759ca2f3be9f052603308aef64dd1a47fea8f4479dc6a93653b2dfcd2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/46ca311b819a5b224ce1f0863398072026a163ca8135414cf9f54cd045fc1478.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e1860d9f3fda0fa8a454b05d6b408ff51d5f0b1bd5fbe9fd469d8c29785d17df.jpg",
+			"name": "ファイナルファンタジーUSA ミスティッククエスト プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5aae5e986dbb5d2ee1e48bc0460052c0af2b0991c930ad44b93ec25696febe5b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c9ef588ea9d27f7c686fbe6e0b05b25f77b91703966c18c1efbb6d3789fb79d7.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				}
+			]
+		}
+	]
+}

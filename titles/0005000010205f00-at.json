@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010205F00",
+	"eshop_id": "20010000024247",
+	"product_code": "WUP-P-AQVP",
+	"name": "Aqua TV",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1768,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b82d367ae43ebccd48f51d83c09ec5b4d01509a60790b8a672e54c9e8a88f819.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6a03ab03c8fc10e0dfda9ee94234700e8d6f0297eb82c825908466c8b29332c7.jpg",
+	"data_size": "290521228",
+	"description": "Aqua TV ist ein hinreißendes, vollständig anpassbares, virtuelles Aquarium. Wähle ein Aquarium, dann Boden, Wände, Schmuck – und natürlich Fische – und richte DEIN Aquarium ein! Alles in prachtvollem CGI. Merkmale: • Wunderschöne, animierte CGI-Fische. • Viele Anpassungsmöglichkeiten für individuelle Aquarien. • Shuffle-Modus für zufällige Wechsel zwischen mehreren Aquarien. • Aquarienansicht von oben oder von vorn! • Auswahl aus drei entspannenden Soundtracks. • Neue Hinweise und Tipps im Einstellungs-Menü sorgen dafür, dass Sie wissen, wie Sie das Beste aus Aqua TV herausholen! • Ein Demo-Modus wurde hinzugefügt, der es Ihnen ermöglicht, einige der coolen Dinge, die Sie mit Aqua TV kreieren können, zu entdecken!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-11-17",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/adbb5c51c76296e9987b4db515d202791d8a8fb5ea3f03743737e7855a23eeca.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9e4e7eb799bbf2cc1882383634d9ca839d21ee2c005206d9aa668c9e5c9b9ba8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/527f8bac3119c212c60b7d630988ca95a53633c9ef5d9cefd7cb365c4e496b24.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/93e803cc2805b61344b4a93d91207c73308b74d1a6eff2c9d4b1a5c69542354b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0a30cede6315b83f29ec3f2d390d0e47ba8c54604b951cd042bb788b27ff9ba4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3309f707f97a4fc6690c28b71c49184383c92d2f39b5d17c254fef334eac77aa.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/51a436953cee6a96e00a9331a48dc3a9f4e76085057c4695504061b139798506.jpg",
+			"name": "Aqua TV: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/da3883de4fd0166056de4e329a7d4752c434eea8007a13a20b0da82e6160dc46.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "95"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/616d1baf1a3fb97efadf466abab0809f37fbfd6b7158d16502fc44225a03e85a.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "95"
+				}
+			]
+		}
+	]
+}

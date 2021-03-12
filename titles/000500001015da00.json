@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001015DA00",
+		"eshop_id": "20010000004968",
+		"product_code": "WUP-N-PAGJ",
+		"name": "マリオvs.ドンキーコング",
+		"platform": 168,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e1951dd9d8cd6a66d68fd040de8e8bed523d907063dc6ad86123875c7caf8150.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/823160978bc85244ae96c99f6b8ad2178e9ea1b213c29a7c461fbb0b7dd53ba1.jpg",
+		"data_size": "88768632",
+		"description": "このソフトは、2004年に発売されたゲームボーイアドバンス用のパズルアクションゲームです。 盗まれたミニマリオを取り戻すためドンキーコングを追うマリオ。時間内に鍵を取り、ドンキーコングを追いつめよう! mm(ミニマリオ)ステージではミニマリオたちが後ろからついてくる。上手に誘導しておもちゃ箱へと返そう! ドンキーコングとの対決がその後に待っている! アイテムを駆使して立ちはだかるステージの最短ルートを見つけだそう! 逆立ちジャンプや鉄棒アクションなど、気持ちいいマリオアクションは今作も健在! ※当時のパッケージ裏面に記載された文章をもとにしています。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-07-23",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/48ed5ebac9e0e1fb8b34d36e7187b24415521455af41bb600d54ee49c3e2f6df.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/caa87cbaf00b4214186f27dc306a9cd577083a776f8abee726ebbf04f2c3ea31.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/bf67937e162658c1f3890da6f8cb347c2dd88255da558fda3d586d7873283451.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0eac9f71312af658f9d095ef19f0dfde59393c2a545cd1271800d64b03f91d3b.jpg",
+				"name": "マリオvs.ドンキーコング プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/99a1de256cbf2bd4c49d8e34b9507904bc17c4a9ab3097ac1af7249157a40d4e.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "50"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f7d173b3bc6c9edb7121db367f3e1d88a56d656bab9fc8e7ca07c03dc2b5e0d0.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "50"
+					}
+				]
+			}
+		]
+	}
+}

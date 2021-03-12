@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101D9200",
+	"eshop_id": "20010000018648",
+	"product_code": "WUP-P-BRAP",
+	"name": "I Fiumi di Alice : Versione estesa",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1217,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4733bb34f887b6fddd5d678fea6cdb45c76aa17a0a6968d6544cfad80617c5a4.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a678a2e43ed230c8bee5eeebd1db6924d5493baca78ab02f07bf4dd9636c2396.jpg",
+	"data_size": "649461940",
+	"description": "Ogni volta che Alice si addormenta, entra in un mondo di fantasia in cui il giocatore deve aiutare Alice ad affrontare le sue paure come la Pigrizia, l’Invidia, e la Menzogna... Un gioco piacevole da giocare senza nessuna fretta e godere delle belle grafiche realizzate ad acquerello, inchiostro e grafite, così come la della colonna sonora composta appositamente per il gruppo di Madrid, Vetusta Morla. Se ti piacciono i giochi di avventura, buona musica, l'arte e soprattutto, se non vai di fretta... Questo è il tuo gioco.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-09-24",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/af4dbe69bcb5fe17fc247a730b05d278221b8bf5e028cf419aff7731be39575f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/912ffca742acb3848c2c7d374f2355082e5dfde331ddecc1a39e77d06c654a25.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/295a29ec8c3da5890e63e1983322a13f8dccd7689064ccc4b9e84ecf8f6a13a3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/88a3cfcf8a2656d494a76a16a908911f8a61399eae522b58afbbc8cfb69f6145.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/30ec2b6ce401f67ef85c086523decc0a6e1819f0426af5ab52422fba5dc8c163.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f6d0ab9e88ad03297c88f741020cf94bddb5af2a1f5cec8f93c8d06f15b1bf12.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f91bdc2c26dca7d240dd31734e5007e89e3ab00dd6816b76189e3984282ccc1b.jpg",
+			"name": "I Fiumi di Alice: trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/af530c8dadeda95a863916795d5ba80711f0da67fea868d3546e321567f27508.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "129"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b4c0070184ef1e505559d17f32ba2afe80ec871a8e58d23745fdc5466e0f6730.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "129"
+				}
+			]
+		}
+	]
+}

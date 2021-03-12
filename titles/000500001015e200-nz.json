@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001015E200",
+	"eshop_id": "20010000005713",
+	"product_code": "WUP-N-PALP",
+	"name": "Advance Wars™",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8411ab3217c45039b4a5e07d00a7069cfd62a0f277fb5b141ba90811aa66fbe2.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8878ee127c6ee555630857ef5dea7bb5973fd86c52865abd055010a756537376.jpg",
+	"data_size": "101744760",
+	"description": "This means war! Enemy troops are amassing at your borders, so take command of ground, air and naval forces and repel the enemies’ attacks across more than 100 battlefields. Advance Wars is the critically acclaimed combat simulation that made a big impact on Game Boy™ Advance; blending tactical turn-based strategy with satisfying, accessible gameplay.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-04-04",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/7ab89a13d0af1858cbbb1b81457e3eaadf891b7c4b0de07f28e2f17af763bb4f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/65b3b88566bfaf4488078055c6a983995e9151e99f4ddf664b6ec696f835fda2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/20e3953bde1cc05e9663b302d2c431cdbe9cc9f1cbfdd3cb9fd5ac9273bc3d07.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c88b39a6d92a67b4822b596fedcce83c1254d73dd56280b325a03576a83dc136.jpg",
+			"name": "Advance Wars™: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/32ca17db95e3b0a728191e3886296f3e0b573d9adb2891e84e9fefb570959585.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "62"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/86bcd6a0a15bdfd9fb30279d8acac09174426d8965f32d7e36ee9291ee6369dd.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "62"
+				}
+			]
+		}
+	]
+}

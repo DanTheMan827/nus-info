@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010114300",
+	"eshop_id": "20010000001427",
+	"product_code": "WUP-N-FAMP",
+	"name": "Mario&Yoshi™",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bc468ff8208542b57bf6e510483a9daf438040e1bc3cece759995db1c2fdc998.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/008931d483402fbd5df3d4a208294abb1f02251525102d4e5fdcca795f8ea040.jpg",
+	"data_size": "36569228",
+	"description": "В игре Mario & Yoshi зевать не приходится: только и успевай ловить падающих сверху врагов, правильно их рассортировывать да складывать половинки яичной скорлупы, чтобы освободить дракончика Yoshi из заточения. Итак, задача игрока — передвигать Mario по экрану влево-вправо и ловить все, что валится на голову: Little Goombas, Boo Buddies, Bloopers и Piranha Plants. Зажмите одно из этих злобных существ меж двух половинок скорлупы, чтобы освободить Yoshi. Чем больше персонажей окажется в скорлупе, тем больше вырастет Yoshi и тем больший бонус вы получите. В игре доступен многопользовательский режим, благодаря которому два игрока (Марио и Луиджи) могут одновременно соревноваться друг с другом. Если вы приобрели игру на Wii™, вы можете передать ее на консоль Wii U™ и получить скидку на обновление игры до версии Wii U. Версия игры для США. Главный экран игры взят из европейской версии. Вы могли играть в эпизоды этой игры в программе amiibo Touch & Play: Nintendo Classics Highlights, где также используется название версии игры для США — Yoshi.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-06-13",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/32cbb729fb2d349bac451ca29c2dcd09e3f7fa6ccb8694e2f602a05484a48e22.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5c6172d5c0956abb77d557eacbf046bce13c5ff8d3c810a8f290841beae6cca1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/21059f847fa662145951aa3b0671ed9d695879f2735ff9ced1e30e79fdcd92db.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4568ca4c029b3b821e7da25ea87ea06d23613b0f4f43eabfa4f6e7d3578667e0.jpg",
+			"name": "Mario&Yoshi™: видео",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8faeecbd6a8149be8ef64fa0fdfbec5e185a9dcceeeef2314e1a0ef81d785d9f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e45d5e59b7bdf2971cebb52a4151acca8fb4d1d28affe203150c9b94f8a3db13.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				}
+			]
+		}
+	]
+}

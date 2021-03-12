@@ -1,0 +1,54 @@
+{
+	"title_id": "000500001016E800",
+	"eshop_id": "20010000008648",
+	"product_code": "WUP-P-WMRP",
+	"name": "Master Reboot",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1270,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/946e1fb1605efa9a4970eae1fd24c326533e55611c8d40a02ecc84def358fc45.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/df56a932102bc94c5ff92187b539e0262945d6e9d8a16f4751772fe4990bced4.jpg",
+	"data_size": "1344897244",
+	"description": "Imaginez un monde ou la mort n’est plus finale, où vos souvenirs sont sauvegardés pour toujours, où votre âme est immortelle, bienvenue au Soul Cloud. Téléchargez votre âme sur nos serveurs et relaxez-vous en sachant qu’une partie de vous vivra pour l’éternité; vos vacances préférées, les moments heureux de votre enfance, la première rencontre avec quelqu’un de special. Tous vos souvenirs seront sauvegardés afin que votre famille puissent les visiter plusieurs fois. Le Soul Cloud - sauvegardez votre passé pour assurer votre future.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-07-24",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/4c3e941d8b51aacf7254744d61a9b142da26178894f8db74efdbf80b400dd520.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b29d8fa85e6bd82317922987d1267eaeda1ad8a6887014f01fae11eb4ef26599.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7633f29ab710d3b8d8036966fe4e8df2bbdc119b2c9cfdf0f35c7a59b4857b86.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/873a924877942f8c424637eefcb1aff9abeaf7c9e298c218ad91564c447e41a9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9b0ef7352795ece89489f4ebd463fad6365bf96443e9acfcf6e31c72dd584cd1.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8d7c7abe3395e22c690e8a9c036ed4ed472c552326d92c5a020ac43e45ec1b21.jpg",
+			"name": "Master Reboot : bande-annonce",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/453b24660bd482b6ddcb3732cb47eb5d676bccd744c0b532a239db65ffd7867a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "86"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cf734fdc7d8c3a2a4e77afbfc1f93f4eb7a61d866331809c7f13820e04bc1fa4.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "86"
+				}
+			]
+		}
+	]
+}

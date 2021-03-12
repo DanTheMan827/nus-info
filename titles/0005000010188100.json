@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010188100",
+		"eshop_id": "20010000010309",
+		"product_code": "WUP-N-PBPJ",
+		"name": "ロックマン エグゼ 2",
+		"platform": 168,
+		"platform_device": "WUP",
+		"publisher": 39,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/357e1e59104b1251d4a80974baba68773ce2b22ae8315d6f708cdf268c46dfac.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7a51aca9fce07b128bda2458af971ebb334e3182daf037b3b3bf6cc8bcafb719.jpg",
+		"data_size": "74612876",
+		"description": "このソフトは、2001年に発売されたゲームボーイアドバンス用のデータアクションRPGです。 ネット犯罪組織WWW(ワールドスリー)壊滅により、弱まっていくと思われたコンピュータウイルス。 だが近頃ある組織によってその勢いを取り戻しつつある。そのある組織とは……謎のネットマフィア「ゴスペル」。 世界規模のネット犯罪を繰り返しており、ウイルスによる被害だけでなくネットナビを使ったテロ事件へも関与しているらしい。 今日は主人公･熱斗たちの通う秋原小学校の終業式。そこへクラスメイトのデカオから誘いが。 「オフィシャルスクエアで市民ネットバトラーの募集をしてるらしいんだ。みんなで行ってみようぜ!」 はたしてオフィシャルスクエアで熱斗たちを待ち受けるものとは? ※本ソフトでは通信機能を使用することができませんが、メニュー内の「つうしん」を選択することで、過去に通信機能を使用して入手できたチップが入手できるようになっております。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-11-12",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/8e62d25f6f33773faff174a0bae53883fc3f39baeca9939ecfa5f665a4e03a7d.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/1839e3f4fe081ef5146dc284df2716440d1d18a902b0b67f59cc2aa02f50482e.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/a732bc10d40001d50e169a852d32f667443180f8fa15c66e7363bcae786dadc8.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/07bb3d68160806ee0bb945999a32356640e5edf162a86c4cdc78afba839b742e.jpg",
+				"name": "ロックマン エグゼ 2 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/34421cd9d47e0dab7f372bb3c655e2ae93e3de3b32ae0fd00184b5be8483eae2.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "46"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d5ad9ce18c339bd53af6893b76ec43edda55754573b8f2cdce8e285cf1f20f5b.mp4",
+						"width": "800",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "46"
+					}
+				]
+			}
+		]
+	}
+}

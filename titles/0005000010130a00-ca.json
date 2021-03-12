@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010130A00",
+	"eshop_id": "20010000003744",
+	"product_code": "WUP-N-JA9E",
+	"name": "Super Castlevania® IV",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/64f7a72ea04f35bf06660da5d7af1ef04622d1b9e892df3c27eafeb0af58b149.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/bbf75838a8873dd4507bb0cf29c172de9f5b8a0851f98a1893e694d7e7b1664f.jpg",
+	"data_size": "41058444",
+	"description": "In the peaceful country of Transylvania, there is a legend of an evil castle and its master, the Prince of Darkness, Dracula. Once every hundred years, the powers of good mysteriously weaken, and evil attempts to resurrect Dracula. It's up to the Belmont clan to take up the eternal fight against the vampire. Players take on the role of Simon Belmont, armed with the legendary whip, Vampire Killer, to defeat Dracula and his evil minions. Luckily, Simon has many additional weapons at his disposal, including axes, holy water, crosses, knives and even a magical stopwatch that can stop the flow of time for a spell. Simon must travel through 11 stages, beginning in the countryside, to reach Dracula's Castle, all the while overcoming perilous traps and hideous monsters. Only the power of the Belmonts can quell the looming darkness.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-10-31",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/a38884e91add8395d5910f3d62275938c1b4e16d4c8af1f97668922464f877cb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/aede8f3a7cff8d9d5b8adcf6b91c8b09628cdadd63287f17666c615610e55245.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0b858f4059378aa7f0f4bcc86e69989e61bb3e0331196cd82313fe54f31e0afd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ec94f2e290686a9dde69a725006f751c7eddb64e7e97fcb3584e4d6b9578b863.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/89f551bbdfa31918f0ba9d4545465edd7ee3569161b35e693a73e6442bd50aa0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a58f13a0fe6525ee89597a4b36c65883f9a9b4cdf2d6e77ba364eb922beb4957.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/126444aad60dc6dc488565f707f939b306f2860539e1df9de8b67f196fd34830.jpg",
+			"name": "Super Castlevania® IV Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cf487c807bcaf52ad09c91875836adc349396d62c594cbc61bd09f7f82821008.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "51"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/de2006a88e6d7ff1b40b879505ce370ec80064e06f733f8ec2474846c50621f1.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "51"
+				}
+			]
+		}
+	]
+}

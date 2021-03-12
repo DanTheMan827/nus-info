@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101E3800",
+	"eshop_id": "20010000022328",
+	"product_code": "WUP-N-BD8E",
+	"name": "Dual Core",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1695,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/078696c0388eee53e1a4fe78ce67e4ab0437716257003e09f20a06afe832c242.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8d8c2b060dde6c0a9ae852e11286072f7c4d85a5d979b351406f05631b8b7524.jpg",
+	"data_size": "197886092",
+	"description": "A vibrant, futuristic, twin-stick style shooter. It's 2147 and the human colony on Europa has suffered a terrible fate. Rebooting after hibernation, two super-intelligent AI cores awake to find themselves installed within a couple of old security drones. Their attempts to uncover what occurred may end up becoming a lower priority than merely surviving... Lots of robots, lots of lasers, lots of aliens, lots of explosions! Retro arcade influences are front and center, but spiced up with a colorful modern style, a generous helping of sci-fi intrigue, and a dash of RPG ELEMENTS! Don't fight alone! Up to 4 players can battle together, but you'll always have your trusty (AI-controlled) robo-buddies by your side. In Story mode, battle through the labyrinth-like colony as you attempt to shed light on the calamity that has ocurred. Hone your skills in the arena-style Arcade mode. Battle wave after endless wave of the alien horde. Versus mode pits you against up to 3 friends.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-05-26",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/79e83a3c12bbe25d7a9a890fb2dc87379c722e6b3e2b102c89a0795dbed6fa04.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/dfb14d7d488f780c9abe44867f6ebc972d080019ee505a150d01d85a858247ad.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5674bc93ab5bc3f40c062321627049fe09cdf5a0b07b1e23f15e1d2cf9cc2321.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/95dc269445401acd22f77c9210ab332bf3e9c77edba5856cdb56c6932ade06c6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/dcaf8c0a8c6b034feba7e4fb0edb1e19a4a57ce3a0bd3d87c195500fb059498a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/60fe24901106309ced88c817b798880ddda72bc335b3f19b375f969bc2addb69.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/28b05515a94fc6d40d433c88bcb99f2fed01647e800f434d8d4099fc9b9d258f.jpg",
+			"name": "Dual Core Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8d13427e39a292f5a6499a8661443b7736d48248718e4bd5f97319a77cf283a0.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "159"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e17c15eba81a965747fa66eec162c0cc35a3b61dd0d0b92ddad3bcbad5736ab6.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "159"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000013D200",
+	"eshop_id": "50010000026577",
+	"product_code": "CTR-N-JNNE",
+	"name": "Ninja Battle Heroes",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 273,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4d41e8552e2cf5d3d25e1e7a521ea58f03f06200af868eb01f8dd22add3292a5.jpg",
+	"data_size": "66239332",
+	"description": "¡Coge tu catana y tus estrellas ninja y embárcate en un viaje por todo Japón en una misión para encontrar a Yukimura y a su Brigada Bestial! Usa tu catana para cortar en dos a los enemigos que se acercan por todas partes mientras atraviesas ciudades, bosques y cataratas. Líbrate de los enemigos a distancia lanzando estrellas ninja antes de que te disparen o carguen contra ti. Absorbe Espíritu de los enemigos que derrotas y úsalo para invocar poderosos héroes que hayas rescatado en tu viaje. Usa sus poderes como muros de fuego, columnas de hielo, ciclones, terremotos y hasta vuela mientras te enfrentas a enemigos cada vez más duros en tu viaje para encontrar a la Brigada Bestial.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-10-09",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8ba10be066ece39d2da19c3ce6ede51fa78d4a9019352cc2fb272742408bb164.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/46f4a0a4949b39b9657470545e9850798b8d13f511ff9429d14aa7b91aa504d3.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/65037a6f996b6d4b8c1bc49cff81c0eddb29fa9c4962df6ce25e2bfef2fea0d0.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c3c009ad8cfbd63d285f58752a84d04bf97e6526e6afcc9cb8f616562261a634.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2b7e0bb870359826ba93e35b411cac4036da9521b8fc864803b3203451152da4.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/89f615ff63faf576b4032f8b3a4d3616afb288d498c0e8253227006e5904fe92.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3f58ebcab64ec26c739233b5ab0005e72f4ab6dc2e4ffce52f283b1d15a49dbb.jpg",
+			"name": "Ninja Battle Heroes – Summoning Heroes Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7fc2980c39962e253c79e5d128d5096afabbbbba14435bd0291f8c5ebbab94b8.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "89"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e30ff2c40c85236b3490b4889d40ea988a14df614212938bb830a8056776b600.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "89"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010158900",
+	"eshop_id": "20010000005204",
+	"product_code": "WUP-N-FCCJ",
+	"name": "マイティボンジャック ",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 267,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d049de763f006d0cfdbccbbdfba4c385e05a06ba2f4972d76810e2db83e3042d.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9084c261b08b6af828e4ec656f5ed43fb69f6a1393dacfe70bc1f0792d06c040.jpg",
+	"data_size": "36536460",
+	"description": "このソフトは、1986年に発売されたファミリーコンピュータ用のアクションゲームです。 主人公のジャックが冒険するのは、魔王が支配する大ピラミッド。ジャンプが得意なジャックは、天井に届くほど高く跳んだり、落下中にふわふわと横に移動することも思いのまま。高い壁や火の海などをジャンプで飛び越え、隠されているたくさんの宝箱を開け、アイテムを手に入れながら冒険を進めていきます。ただし、アイテムを取りすぎると、地獄の拷問部屋へ移動させられるので注意が必要です。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-02-05",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/43c28e22110e356fd44da1c7f3589af137fc47086322758e7ef43da4b244276e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/16b2b9f82acf5434f3de89a2804b677e08cc207bac5f23444500b9c668968fe4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3b4f9e4acb81266dda753658b5ffa0d3dd8c38615a23767e11bb276c8ded0e2e.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/578b858c7433c3b0fb799c73759557b78ecb9c0c31ca59f1f98ead405954f4ac.jpg",
+			"name": "マイティボンジャック プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3b58836e5fdaa7630ff8aa8ce6cb19ad1e41e57ba080347bdaa299f759b22513.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "43"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b03e8d0a3022699be51cbaeb4de84a4cf008102468d63d861fa79eac4bc5a435.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "43"
+				}
+			]
+		}
+	]
+}

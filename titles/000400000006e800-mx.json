@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000006E800",
+	"eshop_id": "50010000017734",
+	"product_code": "CTR-N-TABE",
+	"name": "Super Mario Bros.™ 3",
+	"platform": 24,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/11a2f800ffa396c4450ccb93d22c5b6666f012b64d6cf09cca03b84a2a5a7b48.jpg",
+	"data_size": "13613972",
+	"description": "Bowser™ y los koopalines de nuevo están sembrando el caos, pero esta vez han ido más allá de las fronteras del Reino Champiñón hasta los siete mundos que lo rodean. Ahora Mario™ y Luigi™ deberán enfrentarse a diferentes enemigos, incluyendo un koopalín en cada uno de los mundos antes de afrontar al propio Bowser. Afortunadamente, los hermanos ahora disponen de más mejoras que nunca. Surca los cielos con la superhoja, desplázate por el agua más rápido gracias al traje de rana o derrota a los enemigos con el traje de los hermanos Martillo. Usa el nuevo mapa para jugar minijuegos a fin de hacerte con alguna vida extra o para encontrar casas de toad donde podrás conseguir objetos adicionales. Todo esto y más contribuye a uno de los títulos más conocidos y queridos del mundo de los videojuegos. ¡Jugarlo es un auténtico placer!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-04-17",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b28162cf3a870aca48e6427476c505cd3a0ca47989a8ed5be445379602fc17cf.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b745805fe4dfddc12407c9ff96df53fdb15717d1611659757db32380c35f8bc2.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/33fa06542cd62afab193b2ac0f4a673ddc1907e5b3d79a80febed9a1aa7b02d7.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e632ba3501d8fb24d55477ef834e45f4e10ea481a1085090f498cd15d76256cd.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a6c1110eb14ebf65f8ebd01eaa40603a42cdcb4b11067c9ec223ba5ea81874b9.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/80fcf65ed4a8b08a31227acd223e7009c8a07a879333b2dde4b0ee0be53ab9d1.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/749579451dd018ec3414ff7a94e09fa94dd036458a3a4f74634c8ae44da2d378.jpg",
+			"name": "Avance para lanzamiento Super Mario Bros.™ 3",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fe7a24442e9d57c70bd2969cbf4226f845c0821ffbda8a427436c857903e78e2.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "64"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/479f0b6c62e876093105d6e234ca4ff3a0b8f38b4b6b88d85f56b64a42ab0ce5.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "64"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000140600",
+	"eshop_id": "50010000028959",
+	"product_code": "CTR-N-KSTJ",
+	"name": "サンゴクストーリーズ天",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 209,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0767e8056f8de506839b5041db0b73af6cf343a6d38c97f4fdbe442a5c2f18d0.jpg",
+	"data_size": "55671652",
+	"description": "三国時代を生きた武将たちの物語を、さまざまなアクションゲームとして体験できるドラマチックアクションゲーム! 一騎討ち、スニーキング、探索、防衛などなど、さまざまな武将たちのエピソードを体験できるぞ! これをプレイしたら、貴方もきっと三国志のことを好きになる!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-01-14",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7374e5de11189ec532e21286cebab51d514a1d2850fe719e7414b3bf48ea9441.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a50d6e0f378b944f8783ff4dfe1a3b2f5bf80decaab28a15d1b978557dc1c134.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f4c503639d05940f68e7cc5886ba38635ca832315f4ef02d304f5055bd6a7905.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e9a026f5cd46efa8c0e6e2f1eadcfb1ad6a28fc556b815fb09cc6d05d99bfb25.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/84ddcd350282d12cd057d40a7938744d5090d2ed58bc3a4e18b77dc986861622.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/46036d979eb926f92ef8499995d5c6c951708881c118165730ec5d1aadf1b6cc.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d4918838898240bd17ca21a5380f151f449b92d00f6f5806d0dd07c55ee9b698.jpg",
+			"name": "サンゴクストーリーズ天 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/94fef85186989a7ceff0bb6dd1e56c2e71551286f2794127468b8d72ad50fcb2.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "126"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5ea4cce59685c61a00545a4e24337b302cc689a1112f2af63287bd47bd3a0237.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "126"
+				}
+			]
+		}
+	]
+}

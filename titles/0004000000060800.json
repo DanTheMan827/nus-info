@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0004000000060800",
+		"eshop_id": "50010000007665",
+		"product_code": "CTR-P-AJPJ",
+		"name": "ジュエルペット 魔法のリズムでイェイッ!",
+		"platform": 18,
+		"platform_device": "CTR",
+		"publisher": 442,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d6a67acd67687469ab45fe35fa1398d3a9167fa036dd7cb76f3c41e99021239d.jpg",
+		"data_size": null,
+		"description": "リズムに合わせて画面をタッチすると、ジュエルペットが可愛くダンス♪ ゲームをクリアするともらえるジュエルとレシピをあつめて、3つの魔法でがっきをゲットしよう。遊べるがっきはなんと160種類以上! ARカードを使えば「魔法のカメラ」でジュエルペットと一緒に写真がとれるよ。すれちがい通信ではおともだちと「おてがみ交換」して遊んでね。",
+		"availability": {
+			"eshop": false,
+			"retail": true,
+			"dates": {
+				"eshop": null,
+				"retail": "2011-11-10"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/673f5b2784c6ed8ba91882cf6317489d5138fa1722d844d14cbcd6e31f748cbb.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2997d4c8d0b566ffd301d951f9517f85ce7e91af6b61b770cd32311a5b204f0d.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b2c6717d2673ddd08efcf2860bc89c9f4f8f1e0b5e9f53fdc91f04a6565aab77.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/94a854ae7db27c608e355767e1f18214208d101848b4f44caf3ce5aa4d38a284.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2ca0691e89b14d0d97d38b8884001a6abf406b7aa6ff399e864b550c06e245db.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a79b3bec66f261c74e7ffd0aa1cff1dcc8b23cdd21cff9b00c88efc6ae71666b.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a480ad88d7624771176071726d5c70c522d14b9370eedb3510a02aefe1fafd97.jpg",
+				"name": "ジュエルペット 魔法のリズムでイェイッ! TVCM",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e68a59843d27dcd5da8cd3a42f076a88750ae17c68d702bd196c67621f216ff7.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "30"
+					}
+				]
+			}
+		]
+	}
+}

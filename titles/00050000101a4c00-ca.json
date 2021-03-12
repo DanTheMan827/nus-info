@@ -1,0 +1,79 @@
+{
+	"title_id": "00050000101A4C00",
+	"eshop_id": "20010000015187",
+	"product_code": "WUP-N-BSVE",
+	"name": "Stone Shire",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1368,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c772bd3f3e9c2e5a8f7238c5d036b5882112ce88aaafdbee88d71c01153f7d00.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/374bddbf2318ed41097fada3ccc2b6445afa09a9b48e1e80073cc3a8abdd074a.jpg",
+	"data_size": "95191180",
+	"description": "There once was a dwarf. It had a pickaxe. It had one goal in life: to explore the world and to see what lies both above and beneath it. So it took up its tool and set out on an adventure, waiting to see what the world has to offer. You are that ambitious explorer. Exploring through tree, snow, and sand, you will be able to manipulate the world to how you see fit. The world before you is made up of cubes. Using your pickaxe, or even just your hands, you can break blocks and use them to either build structures or craft unique items. Underground lies rare metals, such as gold and diamond. In order to find and mine them, you will have to craft stronger and stronger pickaxes. The only goal in this world is what you make of it.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-06-11",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/c4ad65a3a37ea7665a2889f0a91a0e94e67571f3262112627474bc53a36d8b4f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e70295f73d652fecb0cb25e93eaafa25fef7ff8d62650069fa25c2c977d9e5a8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/59be5d42c5a10c24190ec84b8fbbcedfd4678345a83085bde1ccd17bfe687f4d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/866ba18ff43c66e7a38cdb8bb31dce554847445dcc7b137decd5eec6b4fd2554.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ebef9d8b9354519033bad4bd75503d899e12d815d426917fd70c3e828194c802.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/11cd1a400967a260d365fc1ae935e36e5b189be6950a5a65c2a755fcfadcfd23.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7cf9f593d70e98280b74eaa65ad8d4d8b954f06840570e1da9cb0daae55863ba.jpg",
+			"name": "Stone Shire Trailer 2",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/50a0c5a14f7b0df6fa6e23524ee70f968f329a4e6ff46bf139f8aca313fec594.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "38"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/120240254d38ba6706f0f34fa137014ff99b6bb1d769a9383ed63a8513de9f21.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "38"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7cf9f593d70e98280b74eaa65ad8d4d8b954f06840570e1da9cb0daae55863ba.jpg",
+			"name": "Stone Shire Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/708f47b1a7f018d2b880b17075060e776376bf12ad0c8305ea3d720d6aaa51ec.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "106"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/61848975c8e54048ebf2c92b332f8ace2d3e422f1aaaa86719163061ff316b7f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "106"
+				}
+			]
+		}
+	]
+}

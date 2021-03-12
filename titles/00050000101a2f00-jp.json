@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101A2F00",
+	"eshop_id": "20010000013987",
+	"product_code": "WUP-N-WCTJ",
+	"name": "Super Toy Cars",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1402,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0aae0671da081e80632121a5f0a85278a9bfa1068e926573133d335d1e2f2708.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/70e09854fc4f50eb850ad4e732a834ba1e719382276f8b7706acdd7b13cb88cd.jpg",
+	"data_size": "554827936",
+	"description": "おもちゃ箱をひっくり返した子供部屋でミニカーを使って大レース。 対戦プレイはもちろん。車の改造やコースの作成もできます。 ひとりでもみんなでも楽しめるレースゲーム。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-04-08",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/757d269c7e96783e3fdc325235f5d10688b00de8eb4f9072d4c2784918d8d925.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6ac928c2a5c692d6db8a2fc8a06c4445ad48b178755fec09e1ec4d5c82929070.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/fe57509f7bacf7e79f9bf79b444496b44cf41043ed02b1f00a70d76618297761.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d9523aa14562806567aba3225a303114d17087115232c6eb54a1bbfacbca9ae0.jpg",
+			"name": "Super Toy Cars 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d13cd8eb2ab2042243119672db715822dabcc3426d5fe31958c5897e91efbd70.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "83"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2dbec33beb9902a055683ec950ea4a170cc4dc566c559c3da70128713de068dc.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "83"
+				}
+			]
+		}
+	]
+}

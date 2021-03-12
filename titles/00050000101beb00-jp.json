@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101BEB00",
+	"eshop_id": "20010000021291",
+	"product_code": "WUP-N-BWFJ",
+	"name": "スターフォックス ガード",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/04eb60018f7c2147e806ae21a4ec367871186ee5a6809e5daefa8b3593124b0d.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3ce66ca8540f481cbcb79b2d19fa92fd01743de624f979611baecfe6448e80c4.jpg",
+	"data_size": "1381105904",
+	"description": "あなたの任務は、レーザー付き監視カメラ「プロテカム」を駆使して、忍び寄るロボット軍団からレアメタルの採掘基地を防衛すること。テレビ画面に映し出される12個の監視カメラの映像を見ながら、Wii U GamePadを操作し、侵入してくる敵を探して撃つ、監視カメラシューティングゲームです。 『スターフォックス』の世界を舞台にした全100種類のミッションが用意されているほか、インターネットにつないで自分が編成した敵ロボットのユニットを世界に公開したり、ほかのプレイヤーが作ったユニットに挑戦したりすることもできます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-04-21",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/b86d66ae50a33d761b3dd535fb50d1081a9948fab0b09bf714ad9ef7cf176d86.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6edde3eabfa5bb973ed3659ec20176213968bd1e86473364317a260a81861622.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7f41b035e459b5af551110fa7f57a6335ed48a9b9c66ccbfa58e8a2b1fd8448e.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e0d3c513f5d50ade208148b47f4a4715dd9e5bb7ee71651602fa5d7ea4ee48f1.jpg",
+			"name": "宮本茂が紹介する 「スターフォックス」",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0fc38953b1882a12f0e9ffa82cc8de32eb9e40e6b8593caca6dbda3de77e1edd.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "236"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9c82e3b3c857194f4552b8f382b633f8784ff3eca30077941bb09393e8e54080.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "236"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010133C00",
+		"eshop_id": "20010000001544",
+		"product_code": "WUP-N-FBEJ",
+		"name": "いっき",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 256,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1ff57c436d6a4fe49d8c4a38631d34fe476a99f3453ab49ff6871bee441f11c7.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b36290f81ff4100a2eefd9b9f59cb385f363ca0fc9c9c38592cf49c3fae0e9ce.jpg",
+		"data_size": "36503692",
+		"description": "このソフトは、1985年に発売されたファミリーコンピュータ用のアクションゲームです。 年貢で生活を苦しめる悪代官をこらしめるため、一揆を起こした権べと田吾。代官の手下の忍者たちをカマや竹やりで倒しながら、落ちている8枚の小判をすべて集めるか、代官を捕まえるとクリアです。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-05-22",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/9e811bfb71c068bcb667a55333a0fbbecabc66f9d481e3a8be5407a8bbc130ff.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/83e13c62cd27fc3a878b3f0fec016386af5b69bcf31fdf08a497c9ec4938baf8.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/8cdfeaf0005cdc93eaad48336aa4940befbc8fe87ba39ab91c7c162b2991b191.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9ea44296afeebdc99e63b5c81127c3097011382be49d75036038e0acb8c72a37.jpg",
+				"name": "いっき プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2e17ac353e2fcc969b262fd353e63855cd0be52b280b5a4b86c541b8e68cf966.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "46"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/15e98dbbce063ca4e5f57a9682321772049ba378b1fc176f32b30cbcfeeb3177.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "46"
+					}
+				]
+			}
+		]
+	}
+}

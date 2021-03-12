@@ -1,0 +1,67 @@
+{
+	"title_id": "00040000000B3D00",
+	"eshop_id": "50010000012532",
+	"product_code": "CTR-P-ASRP",
+	"name": "Devilish Brain Training™ Can you stay focused?",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/88e7d8470f241bbdcc5b5eff4a4642344e38642370db369a637c387dddd18ca2.jpg",
+	"data_size": "772914020",
+	"description": "Эта игра доступна только на английском, французском, итальянском, немецком и испанском языках. Devilish Brain Training была разработана при поддержке нейробиолога доктора Риута Кавашима (Dr. Ryuta Kawashima) и стала третьей частью популярной серии Brain Training, разошедшейся в Европе более чем 15 млн. тиражом. Игра включает в себя ряд веселых упражнений и мини-игр, которые помогут натренировать «серое вещество» и развить навыки концентрации и кратковременной памяти - важные функции мозга, связанные с временным хранением информации.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2017-07-28",
+			"retail": "2017-07-28"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ab82ebbbc66ab6a492715d637ced3fd31444a3a51f8a1af253aea6a75122ecf8.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a0ba2cf2af2168aa4a597ab0554c9bc1e56b34ea2ae5ddb79496fbfb0e017ee2.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/16722cc25b7f48953c6c33bd262727aae92e9ba567dd4871f17adc59e5eb789f.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/cd5f01b3c44f4ee56662465e837980a34a90bc159127b696cdce70d67eae2be4.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ac1e0b5ad790e8bf992311f62b052e0c1b041c4108532da5db6798b75cdc6f4e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/66c0a31cff67769434e41ef8840464d7cfce001936b82ef9145f258882090d7e.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c3acaf65ad4ce3a798432b6805bc13d4529280a9a26b2257c32333feb9210b65.jpg",
+			"name": "Devilish Brain Training демоверсия: трейлер",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ca4fc47e0edcdaf0736d749128bca776fb4df006482bc1a21407d3dd79f4d13a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c3acaf65ad4ce3a798432b6805bc13d4529280a9a26b2257c32333feb9210b65.jpg",
+			"name": "Devilish Brain Training: трейлер к выходу игры",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c4e587fc4b8a1876b6b27a4512839e239d5bf273f602f19d90934262583a815a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "64"
+				}
+			]
+		}
+	]
+}

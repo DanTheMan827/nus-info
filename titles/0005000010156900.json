@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010156900",
+		"eshop_id": "20010000004584",
+		"product_code": "WUP-N-PABJ",
+		"name": "スーパーマリオアドバンス3",
+		"platform": 168,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/37e9aa60ba1339523d08e9e78b0aa1b20170fcee26c8aaa71f589a571fbad987.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b12fadb849d673ef9b30d6884bc129a8cc0781f86ea70f1a254d5f29b2baa89c.jpg",
+		"data_size": "86999160",
+		"description": "このソフトは、2002年に発売されたゲームボーイアドバンス用のアクションゲームです。スーパーファミコンで発売された『スーパーマリオ ヨッシーアイランド』をアレンジして収録しています。 カラフルヨッシーたちと赤ちゃんマリオが、絵本のような手描きタッチの世界で大活躍! タマゴを投げたり、へんしんアイテムを使ったりと新たなアクションで攻略の幅もグーンとアップ! かわいらしさいっぱいのふたりのヒーローが、キャンバス上をかけめぐる!! ※当時のパッケージ裏面に記載された文章をもとにしています。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-10-15",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/a93324c3d341512b56cd6e16030725a7142d5284e5d09b7c260b577b99f9c7a3.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/d962009b187bb0c7c05d2b1163bbfff771be0262f6f815217d4f556f6f1f49c0.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/cc2180e37746678d6b516464232c0709e57b88d9e2384d562845a85cc58662f9.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c6ff6e8d1da48f5d956d2a35e6a2f4dfd8ee64be950ec0d50b9c13b74d9f669f.jpg",
+				"name": "スーパーマリオアドバンス3 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3a283437e5c86a4dcb449d049875b2716239121a5b0de655e23ea4664d14cc82.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "49"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e2a1c2301cf428f9f6250a2be0fd5f35016f0b016dbf4e39995eedd585e118ec.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "49"
+					}
+				]
+			}
+		]
+	}
+}

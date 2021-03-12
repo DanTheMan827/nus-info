@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101C3F00",
+		"eshop_id": "20010000020398",
+		"product_code": "WUP-N-PC9J",
+		"name": "MOTHER3",
+		"platform": 168,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/325c5f0761f36685cb70f18da27d52f192da3d08bb5197b8dc142e224a713190.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9d190faf184d5b849433b7a36cb12a55e799b17e27102e6db1c4e90343cc5b66.jpg",
+		"data_size": "86802572",
+		"description": "このソフトは、2006年に発売されたゲームボーイアドバンス用のロールプレイングゲームです。 いかにものんびりした美しい風景のなかに、質素な山小屋がたっています。 主人公の少年の、おじいさんの住まいです。 お母さんと一緒に、おじいさんのうちに遊びに行った、双子の少年たちは、 今日のうちに、お父さんの待つタツマイリ村に帰ることになっています。 大きくて気だてのいい動物ドラゴと全身を使って遊んだり、 食卓を囲んでお母さんの手料理を味わったり、 たのしい時間は、あっというまに過ぎて行きます。 いつもの森を抜けて、あとは帰るだけ。不吉な気配など、みじんもありませんでした。 「もうじき帰りますよ」という手紙をくわえた鳩が、夕暮れの空を飛び立ちました。 ここが世界のどこなのか、いつの時代なのか、さらには、悲劇なのか喜劇なのか……。 すべては謎にされたまま、この物語は始まります。 WELCOME TO MOTHER3 WORLD ようこそ『MOTHER3』の世界へ!",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-12-17",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/5c84584cddd3fcdccc68869c6bc6af059fa0bb0132ba8adf221404fd6560f257.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/0985bb5c181e21af5211c9fbf7ffbb08625ebcd91194ff2348e11feaaad29678.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/28484ead565f5600bfbf3b587fbe2556f3da4ad91a434a74a6f2d829165cd7ba.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a13bd00ebbf2898c9abec4ac3e0e6ba4ce1b9b0ca8054f55ebb46a561459460c.jpg",
+				"name": "MOTHER3 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7f83b649a4e2445dcdb197a64d853c5edeff3d601b83b80d6b4a6326eb7be500.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "111"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9becd1aa942f5b80b77e65c58632c1a7c1d7b1de7f453a9c354d449dd30f896e.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "111"
+					}
+				]
+			}
+		]
+	}
+}

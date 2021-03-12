@@ -1,0 +1,85 @@
+{
+	"title_id": "000400000010C000",
+	"eshop_id": "50010000021213",
+	"product_code": "CTR-P-BALP",
+	"name": "Kirby™: Triple Deluxe",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b78a199ec4ec79a9f5556b28c33e829b06747f5086cb6f755e599b5a58b5e081.jpg",
+	"data_size": "631294868",
+	"description": "Scroll side-to-side and shift back-to-front in Kirby: Triple Deluxe, only on Nintendo 3DS family systems! Discover hidden depths as Kirby leaps in and out of the background to explore new areas, solve puzzles and dodge enemies. But beware, bad guys lie in wait both before and behind you, and they can attack from all directions!",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2014-05-17",
+			"retail": "2014-05-17"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7aaaa17718dc6afb7840fb038b6a12a4caea490c18a1ed8560cfffd844795c17.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/adebc766757ff89bee90bacc7a46d90b488e447c8867dc892c8a92f770f79327.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7886797e2e0b1308b25fa438c5d6aeda4a9dc5dbc3285aa7cc139718588d9fa9.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e2c14911a1e2bea4b114c6e610abc5d6d82c7499649465bc0ae85d729b456c6b.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/17d43678724fed9618c42e966764fc4b9ecc07e32ddcc7592b95ed1cb85d42cc.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/413fa4775acc569c2f5c121d996eb2cfb8d5f77550a129746cea8f89e050ac5a.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1622aa4f1bd8026f254a1f99a82227ca1216e3a2ff662d0d307c1385ca2e1dfc.jpg",
+			"name": "Kirby™: Triple Deluxe: Trailer (13/02/2014)",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fdbfd9243c29bffd35a22b82119c774bc4f82b80d1727cd285ef3f2f9cc1b166.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "69"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9baf560f0d2b3509cada995fa12c7dffc06660207c5f381eccb89859c9d5ec9a.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "69"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a48fdf3d4ede5acabee124a4b4832ec77ed37fb667643d4cc9d95be95fc38c5e.jpg",
+			"name": "Kirby for Nintendo 3DS: Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6993b6a924b18ab53b1ff43af346d7f597d9f6f8ddcf08bb584f65db9252d152.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5660b71ccf156879a0324350be38a633e87b6c17f71712c7e5028de3f27a4bb7.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				}
+			]
+		}
+	]
+}

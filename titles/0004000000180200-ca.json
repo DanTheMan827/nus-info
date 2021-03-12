@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000180200",
+	"eshop_id": "50010000037875",
+	"product_code": "CTR-N-KGVE",
+	"name": "Gunslugs 2",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 74,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a48ce0f3154df6d93ebe09d0ac3f7b9ccd859755d31add04730d2341527e4d65.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/2e1f31e39280ac0e9384cc6885ab1b3e7e2bba1ed1ce367fcc84a7686d05b6c7.jpg",
+	"data_size": "22645604",
+	"description": "The black duck army is back! They are sending signals into space, which can't be good... In fact, the army has teamed up with aliens! You and the gunslug squad have to defeat the risen army with all their might again before its too late. And of course the slugs have enough equipment to do that. Flamethrowers, tanks, guns and many more are at your disposal and ready to kick some alien butt! ",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-10-22",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f4f23d54e002a63c277b45f6ca017f84f5d0a7bf91d7671dbd88b6395bb0f59d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/544dfcf3aac4ee8aa27101d9f8fafda2cd5496f1d36c3482d69f63d09d1c654e.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d38807a8701a0ae3e670f4e116a058885114f7ff08b4b7102978083f80eca57b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f8200d14dd6c41ce7d2a3596249d8127f592fb15f87b6f9f81d16f11b65f9aeb.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2d8538827b4ef0a6e8137a3c35556d7df752b6002c8af593a3644a79fefb37a2.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/529ea94a0990f677a1ab3e85eb0cda6cbc255d26a23ea371f31dd3d324b3fc22.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b901ad1a49534c0fdeee70224213f235d53c0e305a64909f03bcb1eb33950b72.jpg",
+			"name": "Gunslugs 2 Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/972d77d13afa5a0575828de506f5bf9ab72ec35258bccd68a527e9563ffaee95.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c4f6dafcf17f250c5037c73dc9b719966018b8c38653b8aa3fbdb7d5ad1b16ca.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				}
+			]
+		}
+	]
+}

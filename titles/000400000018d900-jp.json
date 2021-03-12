@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000018D900",
+	"eshop_id": "50010000040596",
+	"product_code": "CTR-N-KQSJ",
+	"name": "スライムの野望",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 1212,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7a8ef6392619bd89a0e6c0e5624a0db4011f7a5c498b1f02d0b95de4eca1ce3d.jpg",
+	"data_size": "45140836",
+	"description": "『スライムの野望」』は、スライムを操作して、人間を「のっとり」、 スライムたちの野望をはたしていく、シミュレーションRPGです。 スライムたちは、基本非常に弱いので、そのまま人間と戦うと、簡単にやられてしまいます。 しかし、スライムたちだけに与えられた特殊能力「のっとる」を使うと、人間をのっとることができます。 のっとられた人間は、スライム側の味方になり、ともに人間と戦わせることができます。 ゲーム中には、ワープするスライム、ベトベトしたスライム、分裂するスライムなど、 さまざまな能力をもったスライムが登場します。 スライムの特徴と、敵との相性を考えて、 戦い方を考えるのが、勝利へのカギになります。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-06-15",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/14c2474f6153f695056e9aaee072ee29a7b7256464bdd738147c7d6fb4f01378.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/50e4c01639abf4a514c447dba3309b47098c532934fc5862363eb34f84946d7e.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/729dd0901df462de4fffc6a465be61e7bd1b14492be4cc8722375450a6bf5f14.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5032ba79453968f87143e9368743cc43d17fa8a0a40ca38dce7db6398d25b3d7.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/12cc55d9ded2a68fe9ad75166c60a28b085b303b159554ebcc3226a34b9eb2e6.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/27c4fec77faecd7b5e31e62b591fbfc515f18228a7fed5da003cd9a9294589ab.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/843b8cfbff2779e10dc3c4354b14062752ffa62bf731c56c67d41e3115364bff.jpg",
+			"name": "スライムの野望 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d2959493c0609e04a52fa7c3d47957b52d61d2be3f74e6839409050ad0d56901.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "100"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b23c780716af4b56abd569b21e1d21f6a826e31b70aca8cdd593e4b12b955305.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "100"
+				}
+			]
+		}
+	]
+}

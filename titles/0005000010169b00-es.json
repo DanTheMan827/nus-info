@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010169B00",
+	"eshop_id": "20010000007946",
+	"product_code": "WUP-N-PAPP",
+	"name": "Mario Power Tennis™",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1735a0624bd56deb78f06424bea2174a55538f25d48440f26cba27fb10ef5f26.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3a025f080b2bafbf9b0054f4a4437f1cbec9510b5e0b1ff1ca874124a196f3a9.jpg",
+	"data_size": "105939064",
+	"description": "Demuestra que tienes madera de campeón enfrentándote a los tenistas profesionales del universo de Mario™. Métete en la piel de un novato de la academia de tenis, y entrena y mejora tus habilidades para convertirte en el número uno del Reino Champiñón. Mario Power Tennis™, un juego que combina rol y simulación deportiva, te permite llevar a tu personaje a la cima en el modo Historia y dominar los golpes especiales en el modo de entrenamiento. Disfruta del amplio repertorio de movimientos con controles rápidos y sencillos, ¡y estate atento para no perderte ni una de las muchas caras conocidas que irán apareciendo!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-06-26",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/57550578f02f9f375f65e5e537d63b8fdfa59e60c10e20a916b81501a1f43035.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2feacfc73f1db321e8ea10d1f0308832e76823ea0f2b81b4b8039cccd6d7aa65.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/903573433d4026f1225ff2ef7dd98c3585d9754de84428f6a5fb90c733878937.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1e33b50a251764d9e1082706c38aeb382369270fc165d096aed1a1d1be6e6b53.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1fa8744e1b6b4899c21a454677e13068fad117183bf5f8d3d4b11253299140aa.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5e3aeee48db41560516dcec32663da8317baaecc2a35d2f6da75f3536754ae25.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/aaa2afae6455227deb48d43fbd9f808478ef008849567613471902d2cd0ee855.jpg",
+			"name": "Mario Power Tennis™: Vídeo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fb20b4d89dd184710d8f8ee6401c8c78ad7e12303c687647b414e249aa011d28.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "62"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2d849fdb0f7dae45e8a37d4fb5a5e9081da7c4237dfa4ce96abb3dd41110db20.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "62"
+				}
+			]
+		}
+	]
+}

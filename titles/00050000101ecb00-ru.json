@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101ECB00",
+	"eshop_id": "20010000024248",
+	"product_code": "WUP-N-VBVP",
+	"name": "WarioWare™ Smooth Moves",
+	"platform": 171,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d71321c6d31afa1eda4e372f1dd4d1593d9a2bbc9cdd690c26fb6e9b02725b41.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/79eff369ca2576496f1be852795b412380d908849c11e6288f9eb8a59db32c51.jpg",
+	"data_size": "3573580236",
+	"description": "WarioWare возвращается с новым набором движений! После того, как Wario (Варио) и его друзья находят странную штуковину, Form Baton (жезл Преображения), они начинают использовать его для изучения новых забавных движений. Включая в себя сотни микроигр, эта игра не менее безумная, чем все остальные игры из серии WarioWare, но вот игровая механика была полностью переработана и улучшена. Под попечительством Wario (Варио) и с помощью пульта Wii, игроки смогут качаться, кружиться и приседать на пути к победе. WarioWare: Smooth Moves придает интерактивным играм совсем новое значение с помощью 200 быстрых микроигр и разнообразных способов управления, начиная с выведения каракуль и заканчивая верчением в воздухе. Все, что понадобиться игрокам на пути к победе – это пульт Wii и их лучшие движения. WarioWare: Smooth Moves заставит вас и ваших друзей повеселиться с помощью игр, которые так же весело играть, как и смотреть, как играют в них другие. Весело будет всем!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-10-06",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/f7f6521312aab65a8582721fc1fa8a0152a3fb2332679f79875e7146da2ae5c5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b3cbdb719477340d8606fbc48b6b2fce56ef1645e7791b20e1cdfb12b7154256.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/90544476d6d99dac60fdf31b93c9f1520ef4c3e10ad73dc33219cb4f3d2addb2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/906bbfd27b6c7a4923d1903effc5d312d79ff75a4c0c138f703de186e945add5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/dd4d16721d5ef1dc0762d28cd116cf4419c02b473b8ad42c053b04ffdf48bbea.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/455ba701a2cca677ba7637ca6c633afe81c01ec76d2e347023c3c2fff2380b0b.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/78f8d2fd55abdf429b8ba9fcbc1d69be9670cc40470aa8adc47dd79c4ccf0aef.jpg",
+			"name": "WarioWare™ Smooth Moves: видео",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c2fcdd1f97ed809fec5e1fd28d0af698b2d11f97ac9d1ff9800cc6643b34e78f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "100"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ab8f96f1644fdf984ed59235cbf83a07a7d37accfa148621ba2e362e2357e2ef.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "100"
+				}
+			]
+		}
+	]
+}

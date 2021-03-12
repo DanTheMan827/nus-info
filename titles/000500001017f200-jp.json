@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001017F200",
+	"eshop_id": "20010000009026",
+	"product_code": "WUP-N-FDQJ",
+	"name": "闘いの挽歌",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 39,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ece17b70a1c1bb0324d8396ac6d8b36ff8d01f7ca097cc2368f513ca821b9b67.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7b1caa7069be8b8bd608ed1aef15a4e640d684d75aa3857899ee46644473f1c8.jpg",
+	"data_size": "38764704",
+	"description": "このソフトは、1986年に発売されたファミリーコンピュータ用のアクションゲームです。 核戦争が終局を迎えた世紀末、剣王の率いる悪の軍団によって支配され続けている世界がありました。この世界の人々は、悪の軍団の横暴なやり方におびえながらの生活を過ごしていました。すべての武術を習得した若者「リュウ」は、人々の依頼を受け、悪の軍団との戦いに挑みます。 1つのステージは前半と後半に分かれています。剣で攻撃し、盾で防御しながら進みますが、マジックボールを盾で受け止めると、剣と盾を飛ばされパンチとキックしか出せなくなります。 ステージや地下室の特定の場所で剣を振ると、「パワーアップ」や「スーパージャンプ」など、攻略に役立つさまざまなアイテムが出現します。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-08-31",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/005db318193ce316616dfb96d65e6c5565eb6b249ae6cba60bc8bef47bd9757a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/24f653a6ae60190afd94a421469e246428d0dba6b2d1e3ad00de88253f9168f8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2c48e37b4668e77c7b082f7ded296062c6eb8759aa836c8f49ae9baaa27ec458.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3463f264bdbf826826b484e7ff3b391bbfdd009668833e1111bf481891d70102.jpg",
+			"name": "闘いの挽歌 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3e440f6675ceef9ba788b512ad5451da7b1697ea4eb34c2dbdb32d3c9e871327.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "64"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0596ffa8455c22a5abdd41f9ad3b74bfdbebda038ce94b62314a53ad04555c39.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "64"
+				}
+			]
+		}
+	]
+}

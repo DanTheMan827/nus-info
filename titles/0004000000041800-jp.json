@@ -1,0 +1,52 @@
+{
+	"title_id": "0004000000041800",
+	"eshop_id": "50010000006753",
+	"product_code": "CTR-N-RAFJ",
+	"name": "星のカービィ",
+	"platform": 21,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/646722f0666d663c68e2cb914e6c388f3ccfc804ee5cd425a1043f5d41ca816b.jpg",
+	"data_size": "3328868",
+	"description": "1992年にゲームボーイ用ソフトとして発売されたアクションゲームです。 まんまるの主人公カービィの得意技は、大きな口でなんでも吸い込むこと。吸い込んだ敵を星に変えてほかの敵にぶつけたり、空気を吸い込んで空を飛んだりすることができます。カービィが住む国「プププランド」の自称王様「デデデ大王」から、プププランドのすべての食べ物と秘宝「きらきらぼし」を取り戻すため、カービィがデデデ大王の城に向かいます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2011-06-07",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7da78eda36b003a25dde8780b25e6e00e5a66875d49bad04cc8f5ce5f42e5d6f.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3b2a72a46914e7288f4aead5e23b272f871c2a946448ab2f09a07f8ec8da81ad.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d3860a4d2d68a6fc61ca16ed294dfc4c5b9bb9ee7fbb0ebf54b06685c1f7bec9.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/86dcdf7cc9cc3b3013e0884a919e4a8f0523dca2f3bd5ce5d2e7446677e91a78.jpg",
+			"name": "ゲームセンターCX 有野の挑戦 「3DS バーチャルコンソール」",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2366ba98a2292bc6ecaf3656cd78bfd794153b7d94b5acaeeb81f1fa3241423d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "1946"
+				}
+			]
+		}
+	]
+}

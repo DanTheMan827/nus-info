@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000012EC00",
+	"eshop_id": "50010000027515",
+	"product_code": "CTR-N-BTLE",
+	"name": "Tetris® Ultimate",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 278,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/83c75b86669eb92f40c94f92e0d1472fefbc2762268ffbfdcededa8b6a6f69b4.jpg",
+	"data_size": "52063124",
+	"description": "El juego de puzzle más adorado del mundo llega a Nintendo 3DS™: Tetris® Ultimate y está mejor que nunca. Con seis modos alucinante y uno modo exclusivo, la evolución de este juego no puede faltar en la 3DS. En este juego rápido de habilidades, puedes realizar el puzle por tu cuenta, en equipo o desafiar a amigos. Las fuentes sociales te permiten estar al tanto de eventos dentro del juego y seguir las puntuaciones de tus amigos. Tetris Ultimate captura y guarda tu estilo de juego para que siempre puedas jugar con o contra tus amigos, incluso cuando están desconectados. Si superan tu puntuación, mira las estrategias de tus amigos mediante las repeticiones, desafíalos y véncelos. Gracias a los marcadores, puedes publicar tus puntuaciones y compararte con tus amigos. Se implementó una clasificación oficial de Tetris con forma de tetrominós para identificar a los mejores jugadores. Sigue las reglas del campeonato para lograr una hazaña aún mayor y compararte con los jugadores de élite.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2014-11-11",
+			"retail": "2014-11-11"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c6a1b16034fe65df3295ccf6817c1bc9a3df6cc0b1db0d4d4caa39bd7f579d11.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/510cbcb3668f3c542fe702e07d85d7287b3eb8ffcbc356da28f006c2fc169dad.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ce768414b9b9939289278443f73c37be98c2cf7dd0792100b4a35a9e134e6570.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/797bf3dabd21035bdda34a7a7708a8bb04c6c7b4e6a5e76d69616f54a3de6afc.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ae3b4387f379640536287028e6d9336b0e62b0c4b9c9a315c43a995d789de13d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0875bd7eb9b18f2e921ee3e6bcf2df06dfcb9cfc35bbec98795bc59439603ff7.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9e2c1df5e155aac523afc2bced56e8311aeab7681f200ff45c786b4e36a2ccb6.jpg",
+			"name": "Avance para lanzamiento Tetris® Ultimate",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7fe8fd07a8725015083de9b47ba6055ad30c90ae46701ce4d9594c0144b99cae.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "119"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/10733cd4d8ab7780d4f24de40532bf5df0df21faf8fa4bb68189eabfe73f48d8.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "119"
+				}
+			]
+		}
+	]
+}

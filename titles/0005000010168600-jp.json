@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010168600",
+	"eshop_id": "20010000006526",
+	"product_code": "WUP-N-MNFJ",
+	"name": "クォース ",
+	"platform": 167,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/96e55395dded1fbde792651bb12d982c9d89ab54f5408940aa77627a28dbb662.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/aafe90954525ebf5ff8a067343a49b12ff953811a785d6cc7cbb1aa189cd4311.jpg",
+	"data_size": "76742776",
+	"description": "199X年、遠い宇宙空間で突如重力崩壊が始まり、大爆発が起こった。その時空間のひずみによってブロック群（クォース）が発生した。このクォースは、周辺のありとあらゆる物体を砕き、飲み込んでいった…。それらは地球の目の前まで迫ってきている。このままでは地球はクォースに砕かれ破壊されてしまうだろう。しかしクォースにも弱点があった。ブロックピース（正方形の弾）が当たると同化し、四角形（長方形、正方形）の形になると分子分解が起こり消えてしまうのだった。そして今、人類はブロックピース発射装置搭載の戦闘機を開発し、その最終段階に入っていた……。一見変わった、パズルと縦スクロールシューティングの絶妙な融合!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-04-23",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/1fa39290469bed65ead6d205fba85aa3c2a8cb56b2d6b634e8fc064474fb5124.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e28a54218dfd7016b6655b8625662a9c50da216435639b093ae342a81357893b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/abd9224ad139ba33b1d93f22f5760080b0f787bf8a480ae4e79d57128e91d3a3.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/23d00f7edc9dd3956a1a0d01094b62591218bd557acc21345b07e842482e405b.jpg",
+			"name": "クォース プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d3401de22c12a2c583c2c53a354093a9aaab8309081d8c38b96be22c797e6ced.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "37"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/307e741ec1d05bfe586d39853fa341a27c61aeac7eaa881841e7697f953ff3db.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "37"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"title_id": "000500001017FF00",
+	"eshop_id": "20010000008946",
+	"product_code": "WUP-N-PBAE",
+	"name": "MEGA MAN BATTLE NETWORK",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 39,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/13e97138f6c6ea5203f22ff607e90cd2673544482a256f85d2008b8cc61f1818.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9edcebed064de1fe864335984f90fa8b98c67f6b4a2988788bea0ed26fe6d873.jpg",
+	"data_size": "88375416",
+	"description": "En un futuro donde todos tienen una máquina personal de exploración “PET” por sus siglas en inglés, la conveniencia está al alcance de todos. Con la ayuda de “PET” la humanidad está conectada a una red que les permite comunicación instantánea y el manejo de todas las necesidades del diario. Pero con las últimas actualizaciones han florecido los virus. Lan y su extraordinario navegador de redes MEGA MAN.EXE son hábiles operadores en computación que pueden introducirse al extenso mundo de la red y enfrentarse a su crimen. Únete a la aventura mientras se enfrentan a la misteriosa organización criminal llamada World Three (conocida también como WWW) y pelean en contra de una variedad de piratas cibernéticos y virus en tiempo real. Obtén Battle Chips que contienen valiosas armas y crucial información de sistema que te ayudará en los próximos enfrentamientos. ¡Prepárate para una aventura de proporciones virulentas!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-07-31",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/69eaef4ef4648cdcef3a488fdf47010c5f585c8164771f863d9e862c22a385f8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a40c8e842508bef668ccd136d8f043efb612bf0a92e1188d48b9feb4fecea521.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/678d535a69d6e7ac7699aa9cf081a1d01f288b0e4a75a4966b90b3b32e9839ea.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8ed8045277862bde337f7d138403f10916e6eddda7c8c7d226315939457312c3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7a865883ae3edeef0527ced1155430a89b298d2ea935d23d706f443f8838cc47.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fae06612194221284a214b57853cd230841991ffe353f20c73d26b64aed60166.jpg",
+			"name": "Avance para lanzamiento MEGA MAN BATTLE NETWORK",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/63ed4c119cba72c1ee1a1430eef257e8f6512d6f51935730f68dfec099792353.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "70"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1692f5a48e4d3129e61d7843b1a29c3ba6594b024c5cc854c8dd507106761cbe.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "70"
+				}
+			]
+		}
+	]
+}

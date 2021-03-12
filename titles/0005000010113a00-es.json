@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010113A00",
+	"eshop_id": "20010000004524",
+	"product_code": "WUP-P-WCSP",
+	"name": "CastleStorm",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 582,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6b8d7e6e49b69b5cf2b5e0cdf88ad83cf648740e5c558a819165d7f25b675606.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b9655216d88b727ea31365aec5923de35a44bd2478ebaab26eda7345f73d0a44.jpg",
+	"data_size": "326467724",
+	"description": "En CastleStorm se enfrentarán caballeros y vikingos, ¡un combate medieval de destrucción con base física en 2D! Controlando la batalla en tiempo real, los jugadores aprovecharán el poder de la artillería medieval, gestionarán un temible ataque por tierra ¡y utilizarán potentes hechizos!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-12-26",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/8dc7a3ed0e1d6a817a7c2deb77370cbc1965de80c853766c78d91364f2a8541d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c4eb4406e2550dc769be32ece3d1eee8fbf9cf4e6c61da547b3fa63c2e644a8c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b6c8df66a5c0ff744cba09d971656ca0dd6c8a2cbc6c963db949c1c16f958ea7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c0c8127fc805885b4495cc53c33ff124431d9e536e1f28ecc2936b4d85a70399.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/143755a36e892d513c5a48140e2439f901223f87856a4a3f6233c3ac72829e8e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6cb458b80a3b0a1faeb1f3dbf723170a56533aad2b8071ccc43bddecabba37a1.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b356ba7152348b886f31ca1d411de91a893613e378e92fa934ee9ebb92f26fa2.jpg",
+			"name": "CastleStorm Vídeo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2ee457dcada8c7814e0742d23bbbf8440d871649da8bfbb98afc8ae737c12e9b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "94"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fbe3772784b27c632850814fdc0f9dbda03404d67bed5e64558cfbe23fae4a21.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "94"
+				}
+			]
+		}
+	]
+}

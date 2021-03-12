@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000015FC00",
+	"eshop_id": "50010000038395",
+	"product_code": "CTR-P-BTSP",
+	"name": "Story of Seasons",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f889b1aa43426daf1f629a4f19f6c56044b119f78cdbf6d244fa0051e6e89344.jpg",
+	"data_size": "759917412",
+	"description": "Lassé par la monotonie du quotidien, vous tombez sur une publicité pour le moins intrigante : le Village du Chêne recherche de nouvelles recrues pour découvrir la vie de fermier et aider à raviver le commerce local ! C'est un petit village, mais il offre la promesse d'une existence comblée par un travail gratifiant et une vie sociale épanouissante. Dès votre arrivée au village, vous commencez votre apprentissage à la ferme aux côtés d'aimables villageois très accueillants. Chaque jour est l'opportunité d'apprendre de nouvelles compétences telles que cultiver la terre, s'occuper de l'élevage, développer votre ferme, exporter des récoltes à l'étranger et même prendre soin d'animaux de compagnie. Toutes ces activités vous permettent de faire de nouvelles expériences à mille lieues de ce que vous avez connu auparavant ! Est-ce que vous pouvez réussir en tant que fermier au point de pouvoir rendre la pareille aux villageois qui vous ont chaleureusement accueilli dans leur communauté ? Quel genre d'expériences passionnantes et de leçons amusantes peuvent bien vous attendre ?",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2015-12-31",
+			"retail": "2015-12-31"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/23c1c7e33cd4779e78e730212a1eba56f972aa9dd4d0414d39119c10ec6767ae.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d357aff21fd7b217ee71d6780bc3046bf897ae8dd8216a4625b76f0542063da3.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d9bfaedccf64ee290a8efb7a54c7fbb1558ec0543b0e1315131d3ab174b2d8af.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/3677263aaf29c0b3e3d243a9091668bab3e1621cdbabb0d4e1c1c916483bdfec.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8cb1ac53fd2a52b3441580ab5c3d935f5a6c429a902c104103d4fb02ce0ba1f5.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0859ae93ac2d893f2a429d6beca72a0f56608ed739b59876a723e5161fc97097.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/625d9b0e0884763bd0777621fa7def5728b60af3db1dfd5b649528dabfd142fa.jpg",
+			"name": "Story of Seaons : bande-annonce de lancement ",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/affd0a849404658d0672756836890feac8359fb0f151cc32d7f4fcbbd6e14278.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "111"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3cab02fa8cb2fe7ecf9e0748e0a1a6f138a4b94ea341c25724b65b89bdf02d93.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "111"
+				}
+			]
+		}
+	]
+}

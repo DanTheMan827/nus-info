@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010192D00",
+	"eshop_id": "20010000013147",
+	"product_code": "WUP-N-PBZJ",
+	"name": "ロックマン ゼロ 3",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 39,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1e2b8c20a5abaf86742333a1986ea81aad5a5e2276cff6456fadce413c9ed04c.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d105b0c30003fa4f9ebaa12229a83ec449c86ff72df5b072518de6d81c6c6351.jpg",
+	"data_size": "73564300",
+	"description": "このソフトは、2004年に発売されたゲームボーイアドバンス用のアクションゲームです。 ダークエルフの悪夢も去り、ネオ･アルカディアからの攻撃も沈静化してきたある日、レジスタンスのもとに巨大な戦艦が雪原に落ちたという情報が入る。その現場にダークエルフと同じ強力なエネルギー反応があると知ったシエルは、ゼロとレジスタンスの仲間と共に調査に向かっていた。 一方、ネオ･アルカディアでは、統治の象徴であったエックス(コピー)がゼロにより討たれた際、人間の動揺を恐れ、その事実は隠された。 表向きは何も変わらぬ平和のまま、エックスの代行をハルピュイアが務め、実際の指揮を執っていたのだが……。 新たに現れた謎の敵バイルとその8人の部下「バイル八審官―バイル･ナンバーズ」 彼らは通常人間の姿を取り、エックス復活後新たに措かれた「ネオ･アルカディア中央評議会」の理事として、バイルを補佐している。 だが、それはあくまで仮の姿。 バイルに刃向かった者だけが、その真の姿を知ることになる―。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-05-13",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/fcb7b8ffa71fa9908ceab77ce91900140ad610e91e3c6d20a3e1458f3e73bea7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/498c5ca04c9fa5c338053b95b6fe606f8cd3bb82cc5420d3bb46b0143e3ef988.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6f515ee1ba63cb8fc99a27af437bc6cd0423d0c4a231abad111bfcd1bc7c457b.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/151de83fe16c6ce2ca18eec92c148d199a3f8d85a732ce4afc70f6bb12edf98e.jpg",
+			"name": "ロックマン ゼロ 3 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6d315786859b68812fe5df952a7a148d8ff3bb2098fbae3000c6a3bdba800c0d.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "59"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8a17f7a49db49db52058605c395b57e581333ab86a95cdb3df30f02f6d016cc7.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "59"
+				}
+			]
+		}
+	]
+}

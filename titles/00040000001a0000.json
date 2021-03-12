@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "00040000001A0000",
+		"eshop_id": "50010000041995",
+		"product_code": "CTR-N-JLKJ",
+		"name": "みんなで!カービィハンターズＺ",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8e138e9affbc97d7ab5c392c65ae1f4e67c4023693c7762bb76e8d546809c2f7.jpg",
+		"data_size": "129715044",
+		"description": "4人のカービィたちが協力して、巨大な敵と戦うアクションゲームです。 個性的な4種類のジョブのカービィたちでチームを編成し、ボス級の手強さを誇る強敵との戦いにのぞみます。 戦いを経てレベルを上げたり、強い「ぶき」や「ぼうぐ」を手に入れたりして、カービィをどんどん強くしていくことができます。 おともを引き連れて1人で遊ぶのはもちろん、ローカル通信で最大4人までの協力プレイも楽しめます。 本ソフトは、基本無料でお楽しみいただけますが、ソフト内でゲーム進行を助けるアイテムを購入することができます。 ※無料でもゲームクリアまでお楽しみいただけます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2017-04-13",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/46c044ed0604603b9c4765dfec32b15d36bee42360f1d086a84ef9eb87a6b470.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/aff189686985382a3602a51b017f957782eb29df7f9fee1a897d08887e154784.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/21f74745c935d45b4129803116bdee4bce20c7aafa1a4e46414af828991c2a6c.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/301b7a391b6fd8014664f4b0d1c28c12cb81cc0bace367d5ae1eba65e1fd00fa.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/aa1ec5932f887c6f448ccdd0a175578b993833ebc10c150962a41519f54f862c.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/3b198843d3a9285acea9926565d951d835abb404ce9d6b58be7ff1c4969390dd.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/660967840dcf7894e423da30c6a9a5a5f47489697d06ada24a7850ae4c96bd7c.jpg",
+				"name": "みんなで!カービィハンターズZ 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a08ed466aa16c64a95432ed821b3609e012a60adc8ec72baf48144001d1c4e6d.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "241"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f046b06f97443e83f1dad0ee1b79e20c5c19b10414cf9f06a72bbec4acb50603.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "241"
+					}
+				]
+			}
+		]
+	}
+}

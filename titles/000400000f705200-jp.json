@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000F705200",
+	"eshop_id": "50010000041560",
+	"product_code": "KTR-N-UA9J",
+	"name": "タクティクスオウガ",
+	"platform": 1004,
+	"platform_device": "CTR",
+	"publisher": 246,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9f5a47503451ad8457b6b2ed490eb8895edbb0b5a50737a6b09acaa6b5bb6642.jpg",
+	"data_size": "6667108",
+	"description": "このソフトは、1995年に発売されたスーパーファミコン用のシミュレーションRPGです。 舞台となるのは、ゼテギネア大陸の西に浮かぶヴァレリア諸島。島の民族紛争に巻き込まれた主人公が、人との出会いと別れを繰り返しながら紛争を終結させるまでを描いています。 ゲーム開始時のプレイヤーへの質問や、ゲーム内の会話や行動によって主人公の属性やパラメータ、性格が変化し、ストーリーに大きく影響していきます。戦闘フィールドでは、「草むら」や「石壁」、「水路」など、さまざまな種類の地形パネルが存在し、ユニットの攻撃力や防御力、移動コストなどに反映されるのが特徴です。「敵の殲滅」か「リーダーを倒す」のいずれかの勝利条件を満たせば勝利となり、敵陣を占拠することができます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-11-21",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/87f8cbadfffef01a1eb3a7d110b024b8569182557b902531270f264c6e7b84d8.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/482e20d66c287f81bdbe03c35fa6e71d06c4e012ef008cc4eb75b483f2a3a05b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c73d8dfc46d2381f438753b39ea3930d151bb06f10ed5a51950946a24b5ec331.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/592aaf5b47fb7e6cb6cd0adff5821a101733f4cfa972122fcbfc2986f65011d2.jpg",
+			"name": "タクティクスオウガ プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/06c101f7627ff18d90911898e1bf4b48105992adc868723e2c4bb456d69b2c40.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "75"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bb15f592b1020bcb297624c48471e61058609694f465feeed4f609b3052b7c3b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "75"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010164600",
+	"eshop_id": "20010000026053",
+	"product_code": "WUP-N-PNAP",
+	"name": "Gradius™",
+	"platform": 166,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c32a0faca6d66377b64f087dc3dca62af74ea5cd5460a2b00f3a6ac1f087ef57.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a06b439f2bb543d1543123ca53eeb810b6d0bf68332c068674422adb0a919b02.jpg",
+	"data_size": "393805964",
+	"description": "Du bist die letzte Hoffnung des sanftmütigen Volkes von Gradius. Du bist gerade abgehoben, um die verheerende Attacke der amöboiden Bacterions abzuwehren. Dein Hyperraum-Jäger ist mit dem umfangreichsten Waffenarsenal der Galaxie ausgestattet: Luft-Boden- und Doppelstrahl-Laserkanonen bieten unglaubliche Feuerkraft; mächtige Kraftfelder bieten Schutz; Zeit- und Raumwarps helfen dir, den Dimensionen zu entfliehen. All das brauchst du zum Überleben. Denn im Herzen des Bacterionischen Imperiums liegt die Superfestung Xaerous, das Nervenzentrum des allwissenden und allsehenden Bacterion-Bio-Computers. Bei diesem Todesduell sieht die gesamte Galaxie voller Hoffnung und Erwarten zu!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-02-02",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/fbd09b972fa75f6414285286cc795f9389441a3b73202fb314b8a08612fac5be.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c657e98cd2f5517ca567a8be77682d5cf5b867911b2739ea72415b2438fdae20.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/aa0eece7ffe85a23a6a5c5a407edaa6d27e0e0ce77df8cca4a3e2878c879a97e.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5e498373ffd2a6d62f274afa941ada70c3110ec472f5804fde7321e1e45960c4.jpg",
+			"name": "Gradius™: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d155b4c644c510a0df79a2e36c04f917414ae6f0164c41a584e29412eff17f52.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/48f59f1ecf1241bcc04a22e6ea75a5ae72341e5435b161367219e2740c2341e4.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				}
+			]
+		}
+	]
+}

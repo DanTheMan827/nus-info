@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101F6B00",
+	"eshop_id": "20010000022069",
+	"product_code": "WUP-P-AUPP",
+	"name": "PIXEL SLIME U",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1269,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f9eab456849765e8acc5bd273e05e766445925918ac08fe4725890b0ee89cb61.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c176fc5df335d21991e5451b5ee3d5a19c8cb07934671736b0b57e7228572917.jpg",
+	"data_size": "64553120",
+	"description": "PIXEL SLIME U is a unique platformer that challenges you to get the LOWEST score possible. Jump, twist, and glide your way through 40 challenging levels while trying to avoid death. This game will keep you coming back while you compete with others on Miiverse™ to have the LOWEST score.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-05-12",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/51ce4786a9f566c7fea9eb1a009fccdec71b486614e37c69480ba8fb3f6b4e62.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e6f763ad1b6f4273b426dd33b4e6c3aa2d83c7a2f02fd77e2b06360243d48f3a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9594ceb998948e102a75b4e168497e600e2b1d4abea9ac1095b7fb115774645f.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/dbcc5f48ee71b4ca03cb85e458a1d194362d3c32a214685ecf091cbd54880567.jpg",
+			"name": "PIXEL SLIME U: Launch Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/26f411f5aafc813cfb77cbfe6e8915e190630e51679a5cfdb5d60c26226c758c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "41"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0a46c22afa18eaaa19177c9153dc57b2b9a01e3b428ce987774cea598d244691.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "41"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000030200",
+	"eshop_id": "50010000009122",
+	"product_code": "CTR-P-AKDP",
+	"name": "Kid Icarus™: Uprising",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/bfd3d1ebf98e6ef08e21c4242704a6741c21e6f82bfc747eeb46f962c883f188.jpg",
+	"data_size": "1794612068",
+	"description": "Uma das marcas mais amadas da longa história da Nintendo faz um glorioso regresso, desta feita em 3D! O popular Kid Icarus regressa num novo jogo concebido especificamente para a consola Nintendo 3DS. Kid Icarus: Uprising é um título repleto de ação cujos disparos, aéreos ou terrestres, poderás controlar de forma simples e intuitiva. Contém uma enorme aventura para jogador único assim como a opção de jogar com amigos localmente e online. Para que até as longas sessões de jogo sejam confortáveis e divertidas, é possível adquirir separadamente, em alguns países, os cartões RA e o suporte da Nintendo 3DS™ que tinham sido incluídos na versão de retalho de Kid Icarus™: Uprising.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2014-04-09",
+			"retail": "2012-03-23"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/250ab43f2512c2b56a98875b8b2728155284b17c6a464fa5c4c6a93d5f2f81ff.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ee21ffcd33083acc95f1930c44b646ffd33fda57abce2e8f42b63b14031f5c11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7e6b497a99cea9786ee50e54e107ea1662d199b805482c1ed227a2f36bbc5f0c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/24d4f0e7f9f4316758495899893a3dc535d12c144788c8d6af6d881a42a5873f.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/40ab7e5b749340180a20e00e0ed5b833d7429f8eef4422d445f0c8059c8242cd.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8a9d080f078ba88d5a317b175426720a57f221229573c0dacd0fa712d0530067.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1c20466a15b032f4c47493d31bc8d64bacb16d9301d38ad368905af580aacb30.jpg",
+			"name": "Kid Icarus™: Uprising: Trailer alargado",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/23918da03d62703e184e37c4261015f988ce4bc07040e84c4c3a3d1e40adb4e8.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "271"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/06172949f0b2956350b90a1e2baebfb6a04bd173b34a36a1cea7d70b9aa4cb85.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "271"
+				}
+			]
+		}
+	]
+}

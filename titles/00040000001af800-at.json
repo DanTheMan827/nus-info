@@ -1,0 +1,82 @@
+{
+	"title_id": "00040000001AF800",
+	"eshop_id": "50010000042957",
+	"product_code": "CTR-P-BRCP",
+	"name": "Hey! Pikmin™",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f575e0e5b1363282f05bfedf7e0626ba46cbeecb440ede7210cae32a89874f52.jpg",
+	"data_size": "423041892",
+	"description": "Der wagemutige Weltraumforscher Captain Olimar muss für die Reparatur seines getreuen Raumschiffs unglaubliche 30.000 Glitzernüsse sammeln. Diese Aufgabe kann er jedoch nicht allein bewältigen. Zum Glück packen die tapferen, kleinen Pikmin gerne bereitwillig mit an! Diese entzückenden Geschöpfe stellen sich jeder Herausforderung. Tippe auf dem Touchscreen in die Richtung, in die du die Pikmin werfen möchtest – keine Sorge, sie nehmen dir das nicht übel – und sieh dir an, wie sich deine bunten, neuen Freunde sofort fleißig an die Arbeit machen! Die Handlung läuft sowohl auf dem oberen als auch auf dem unteren Bildschirm ab, sodass die Gegner und ihre faszinierende Welt besonders riesig erscheinen. Unter amiibo.nintendo.eu findest du eine Liste kompatibler amiibo™ und aktuelle Informationen. Um amiibo auf Nintendo 3DS-, Nintendo 3DS XL- und Nintendo 2DS-Systemen zu benutzen, wird ein Nintendo 3DS-NFC-Lese-/Schreibgerät benötigt.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2017-07-28",
+			"retail": "2017-07-28"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/850c1f8f85ceb757b1b4f11fadffe4bb864c336bc613c13dcdecb52121a1735b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/63c9bb6fa2902b50e20be28e6fbd117a92e7a9d7fb0f26ea956cac4e7f6d1d21.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/658f3b44e8b16ba3537f8662eee1dc44b5eb165bed67e10139cdbb99736d6cc5.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/753d082db10b1712861ff8a8beb32187a68a36421bc4241799f44cf0479193bd.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/89e2e41fa80cd4da508357e9668a3620fa064c78c6ed6affa3a22a703fc8775d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/81d0e19ba5479652a23e5cfc8b4b5c48c9e9c20803d0e732d7fc20f5a33bd798.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2c822ea63c2338e0f31051b7b97a1a4a06dc3d088fe2e6a65714fc1e3d009f40.jpg",
+			"name": "Hey! Pikmin: Einführungsvideo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/325b38bb6fbbc32e0b24f937ca3fef6da61b02e8ad5d3270d0ccc7f1699ffab8.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "66"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2c822ea63c2338e0f31051b7b97a1a4a06dc3d088fe2e6a65714fc1e3d009f40.jpg",
+			"name": "Hey! Pikmin Demo: Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/57ca9a0242d3e292cc19940e38b899ddfe28eae1ad5fa4d9c186b4d24346180d.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "36"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2c822ea63c2338e0f31051b7b97a1a4a06dc3d088fe2e6a65714fc1e3d009f40.jpg",
+			"name": "Hey! Pikmin: Trailer zum Verkaufsstart",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a5dcb316350b6fe11b550bef00c75e1aa60ae6a73fd492593e1fcb1c46843aab.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "160"
+				}
+			]
+		}
+	]
+}

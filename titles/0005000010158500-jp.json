@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010158500",
+	"eshop_id": "20010000004345",
+	"product_code": "WUP-N-FCAJ",
+	"name": "ファミコン探偵倶楽部 消えた後継者(前後編)",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5cd768016f0bfd0fbe0bb5f1f835c29dcfa11a22701289e49420b97fd2caf609.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3df7556c98e46b37a55acebc8005c5cb36ceca9fd79caa9dededb97f137b533b.jpg",
+	"data_size": "36634764",
+	"description": "このソフトは、1988年に発売されたファミリーコンピュータ・ディスクシステム用のアドベンチャーゲームです。 崖から滑り落ちて記憶を失ってしまった主人公。自分が探偵の助手で、財閥当主の不審死について調査中だったことをつきとめ、失われた記憶と事件の真相を知るために調査を再開します。コマンドを使い分け、さまざまな情報を集め、事件を解決に導きます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-05-28",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/bb256cad000ad47b06396b51514cef245f44b25996e4adf37fa91fa433c241ca.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8ab81c2b0da326f2872f5f2c5f8abb2c0152e184e7af8507cd85ec406345c7cc.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/749e0efe8d2f6c0e8999c8e19f7eef892d7dcbea57866d2f14b698e6979510b7.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8a702140ca589e1e28ed75b53b9e90095e1a7bf51719183543f2e089a892635e.jpg",
+			"name": "ファミコン探偵倶楽部 消えた後継者(前後編) プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5675bf6f459248f3c1d24a9cb6448594f474a043ef8def0b4f0724600045d8a7.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "42"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/81e58078a0c8ab84fa7732681f229d8c300f5cdac23021ef50b5c01736e34cf5.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "42"
+				}
+			]
+		}
+	]
+}

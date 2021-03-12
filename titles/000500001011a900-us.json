@@ -1,0 +1,53 @@
+{
+	"title_id": "000500001011A900",
+	"eshop_id": "20010000001728",
+	"product_code": "WUP-N-FASE",
+	"name": "Spelunker™",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 274,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2c3b075a3fb4eaed04eb0740bc5f409183c73b798c9bf7961c436a7b28d4a45e.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/77be2ead2d8527e2e6f6f566bfc5ea15ee39cac6f866bbadadac194704b8c2c9.jpg",
+	"data_size": "36536460",
+	"description": "Wander through miles of uncharted caves in search of the legendary underground pyramid and its vast treasures. To complete your adventure you will swing from ropes, climb ladders, run across unstable terrain and down ravines as well as operate elevators, mining carts and rafts. You will collect keys, bombs, flares, jewels, sacks of gold coins and other valuable items as you navigate the hazardous terrain. But beware of the scalding steam vents, poisonous bats and the avenging spirits of dead spelunkers that lurk in every corner of this massive underground labyrinth.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-06-06",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/90fe6007ac521f88d00d3abde1e15ce46ab599538444b09310a4528e0a88462e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1befa2300dd59f46090fb8aa0c6a65603b8e1184a90504b44c50041d2edbf66e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5d42d6b2d28f878ce0480ee3b7044bdef7eca5313cb7c60f83cbad36583eb64c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/034ed5e7a328ab5edf0a23b64188cd422fd004e9c314939d15ef685f56513469.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1ea7b1ef77813960e98d93914bfc7a91878669935cee9681ea20d191221b6376.jpg",
+			"name": "Spelunker™ Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c446c30787e48d8c596215c836f0239cf3f0cd2190b23c49dc00b15ec46629a6.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1550f9b0c5697f62a64d57e714c4565451e43aa0b72832a6958445f78512fe91.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				}
+			]
+		}
+	]
+}

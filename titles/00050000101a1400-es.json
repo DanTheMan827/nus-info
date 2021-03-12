@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101A1400",
+	"eshop_id": "20010000014828",
+	"product_code": "WUP-P-AUTP",
+	"name": "Ultratron",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1286,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5f46e63bb735a92f1d3c486d6aa92ef803f149a239877fb315acb3596e6d44db.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/43219f08878e9ec1b0a03e964c90cb8d620d0d46d5d6acc3ddf0ae98813ead7b.jpg",
+	"data_size": "195297420",
+	"description": "Disfruta del adictivo estilo de los clásicos arcade adaptado al siglo XXI con mejoras únicas, dificultad según el jugador y un sistema de tácticas combinadas con juego clásico. Ultratron es un arena shooter de doble stick inspirado en algunos de los mejores juegos de arcade clásicos, actualizado y mejorado para el siglo XXI. Unos malvados robots asesinos han aniquilado al último humano en el universo. Ya no quedan más droides humanoides de batalla en pie y tendrás que abrirte paso luchando a través de más de 40 niveles arcade para finalmente enfrentarte a los cuatro gigantescos robots jefe del apocalipsis. Ultratron, un arcade supervitaminado, combina juego en un entorno que recompensa el riesgo con un sistema de mejora, dificultad adaptada al jugador, drones mascota, habilidades de armas especiales, tablas de clasificación online y un modo cooperativo para dos jugadores.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-05-14",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/7435dc0530d7b664be7c8030bcc16f1fd84756884482b74164b89acb0c1a4a88.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a49ae293b465e1b373f3dffca6e3fdf81d397040e39c7d992fa161f8a019f56e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bafc4baa5b223209d5340e8fdcf441018cd907d860a681e8ba8838e9e060472c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8c1b597415c7f65a76a97728507585ca010d61ced674c5c93f2413bdae5bd7db.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b4d7884ad18bbd16091f665978d6f076841fd237413d731bbb669dc569d2f8d6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/92416f99bdba86368a980a641cca37ac45a201196cc30b8ac60c8e7421be442c.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b346b3e538b9adf401ff23647825fc1076f293985c8351a1e6fba84e05b3c56c.jpg",
+			"name": "Ultratron: Tráiler",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/81e579baebf1fa063de8e4b61fc96f7157cb7fbc9ea875ea39910624f85ff1d4.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "82"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/93db7336304f6af4cba4ded754cf62f3b39d432ba86b32452c86d6178365b9c3.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "82"
+				}
+			]
+		}
+	]
+}

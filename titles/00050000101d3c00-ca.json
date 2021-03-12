@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101D3C00",
+	"eshop_id": "20010000020869",
+	"product_code": "WUP-N-AL2E",
+	"name": "Level 22",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1214,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f4abdffe8276e1e6e3bfb37b1e967530aa4f9780b60c602c5a3c8140e4c7945f.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/12cb87233b8448155571511e6a3d10e072bee77c8a7500ad3a718b5ef848c781.jpg",
+	"data_size": "256835724",
+	"description": "Gary is an office worker who oversleeps after a drunken night out on the town. Here’s where it gets tricky, because this isn’t the first time Gary’s been late for work, and he could be fired if he’s spotted arriving at his desk after everyone else yet again. So he’ll have to prove he’s smart and sneaky enough to make his way up all the 22 floors between him and his office without being seen. Hide in closets, crawl through air vents, slink along the walls… nobody must spot you! Use everything in your reach to get to the end of the level: hide behind a newspaper, smash a vending machine with a well-aimed kick, or use donuts. Want to booby-trap photocopiers, creep around under a cardboard box or give laxatives to your co-workers? From the basement to the boss’s office via the research and development labs, explore the zany little universe of LEVEL 22, Gary’s Misadventures.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-01-28",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/9d56392cab383baebe9fb7caebfc4d24d11853c0799f141ecea9970d958ca7df.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/62fd1f9f5b15d8c3d3afa4e1723159f3d87ba3726c93859788a53a36b03845c7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c90f774cc6ca61d3b6baab295704322c7aace3c298ac10b15059057ae2b547f2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a22c199f073ecc0cff3d783182bfa0a6624baa6ecce2876cd30515855fe00344.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5c6091b4e85328cc244665632c98e88360a3b03e6f64ef16e8edfdf4a444a491.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4a8a742015c71117395f8d0f7bbd2094162a1aa89af6313ac493579344561bef.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7318de465b80a64b2fe6f8cbce050ea38e58ca1cfbda7ad397e6ca3893ee4266.jpg",
+			"name": "Level 22 Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c436779c621a09e59004b8644c5cd7690cddffcb112ddcf0773b52bbae706eb2.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c84a37b8296121e839361f1c06ae6f0c403cd9acc12e24f54498be3bd6c22b7b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				}
+			]
+		}
+	]
+}

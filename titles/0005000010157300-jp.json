@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010157300",
+	"eshop_id": "20010000004665",
+	"product_code": "WUP-N-PAEJ",
+	"name": "マリオ&ルイージRPG",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ec4e96891384a49d0b4fbf273d0a40f1c0ab8a516c3b970dd4ca0dac75aad066.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/47cf01e764e493533ada9bbcfeba62ee01a812c6cb31254d192d89d0512bea42.jpg",
+	"data_size": "90865784",
+	"description": "このソフトは、2003年に発売されたゲームボーイアドバンス用のブラザーアクションRPGです。 物語の舞台はマメーリア王国。そこに住む魔女･ゲラゲモーナにピーチ姫の美しい声が奪われてしまった! おなじみの兄弟コンビ“マリオ&ルイージ”はそのしらせを聞いて冒険の旅に出る。ボタンを押し分けて繰り出す“ブラザーアクション”や“ブラザーアタック”で、ゲラゲモーナ一味をやっつけろ! ※当時のパッケージ裏面に記載された文章をもとにしています。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-04-30",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/ee29979b5a97c147e72a021bc5a20a934b10e5d0ff5e6df1d116a7c17ba91d24.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/95d6606ff2f41103eca3ff722c38c2b51b5c4f71835d04f207f3b3278703700b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6eb6ba11e1515f8a62a061d498a38ab1ac626c43540b124c99187ed5df145c54.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c54e3de33745963e26f6c71705c0e3c03a6c0cd996d5334119a8a9e82b6be3fc.jpg",
+			"name": "マリオ&ルイージRPG プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1a1f753692657147ab0c98a1a26f412a63673046d9b3ac0fe7ce6ce136249ec9.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "42"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b25748b4458d3f985ac604d8ca56944f19e9fa2586fd2ab16b895a66b423ff22.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "42"
+				}
+			]
+		}
+	]
+}

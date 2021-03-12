@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010203900",
+	"eshop_id": "20010000023627",
+	"product_code": "WUP-P-AWKP",
+	"name": "Alice in Wonderland",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1380,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a5ceecd42f0f9c2ea9595156a8bb3c90093a5b9859a602a060849b4d411363ee.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3745644c9916289dae77cefd2df13cf1753aadbd08e08e2c8e7db1a96fb5154f.jpg",
+	"data_size": "348192948",
+	"description": "Découvrez une nouvelle visualisation de Lewis Carroll, Alice au pays des merveilles (initialement publié en 1865). Voyez l'histoire complète non modifiée, discutée par les spécialistes littéraires depuis des générations. Découvrez des personnages uniques et originaux dans le monde fascinant des merveilles. Des sensations merveilleuses pour votre cœur et votre esprit vous attendent dans ce conte intemporel. La langue du jeu est l'anglais, les voix peuvent être mis en sourdine.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-09-08",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/60d75ba80ee052dc206855d02a24e968e60ae00534543fea2b414cd9d28e89e0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/744a4f0258f6571b06e864045a71b9d48e5f153a23785537057436284eec8c31.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5384e030987c2289c2ed5f1bb87643b8c0bb38ccb9488f8813708f2e5eda9335.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/30da1fe82ccc7a6e4b40acce86d958cff9e7d942f51855c6379a76319bab18a4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/28fc76e05a1a2be185d360e00a06f706dbec6a547b7b2bb5304a09ae3aa370c3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7f057e77cbefcbbc7604ce58266a98c05a705bafdee5212dc019207380860ce3.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/663175bdb628f231b543c2071413858e52947db3a68183d709fdc777ad0afb5e.jpg",
+			"name": "Alice in Wonderland : vidéo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f3b6f24996f717f9e41b0d2143e6815949d025deec9c85b085f9e955e06cb1fd.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "152"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/baa2d63df6d57e0f209bf099cd6ab6222853da2fc905c55ef3a3d32164fbabe3.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "152"
+				}
+			]
+		}
+	]
+}

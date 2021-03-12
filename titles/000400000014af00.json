@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "000400000014AF00",
+		"eshop_id": "50010000025535",
+		"product_code": "CTR-N-JFEJ",
+		"name": "2048",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 1292,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c1c87b6c950c94214138cb83aeaabee634b9250af15fd1b7e8bc4c8cc0ca61b5.jpg",
+		"data_size": "9640804",
+		"description": "ハマる人続出! 話題のパズルゲーム! ついにニンテンドー3DSに登場します! 壁やほかのタイルにぶつかるまでスライドし、合体させて1枚のタイルをつくり、2048のタイルをめざす、はまるパズルゲーム! 「1024」「2048」「4096」のタイルをめざそう! ニンテンドー3DSの3D映像で、いままでない『2048』を経験しよう!",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-09-10",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ee078bf724f5bdc9cfc7a875b0fec559823087ae984c98bf5f1a0998361e0c24.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/053e2e78ae7a1d7bc0d4132957417666f21bb3416c12e51f3fb5e3423a822a28.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/36a18af2e8cec3d8606875312eda10b686b56e71c72c6eca43bcc066c82f7798.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9077e818f8c61366f7681da926cafe28a768b997a8c9ec79546826a7f1f34566.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2067350d3f7020fd4d42db68b6efecf54f29eb1a5e363b26b392c074f2af1183.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f13f9b5497425120dfa87d7e3c86e99148014cfb2f8cd1a1a2e5b24cce0e09f9.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b453498df836c552eb177e6fea3bd2606e3923fca5b1ba2b9137020d6a9557a4.jpg",
+				"name": "2048 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9d6410132584a1185455563c2bdbc915ca1fb9699e64c8afc0ee180269e392b8.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "46"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/228fb5bc8bcdb79d48e6c3a312951049dff15c1a2b4fbedf1468a0aca40c9975.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "46"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001020B900",
+	"eshop_id": "20010000025527",
+	"product_code": "WUP-P-BBDP",
+	"name": "Breakout Defense",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1610,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/50bd4cc5967e73bc5aba783c71e293d3dc7527b4d1093f5ec3c2e5a1a7cf12ba.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5a4b6d3da8098dcefb483da153539486966660c3110e7d12b5ba74a311cf4298.jpg",
+	"data_size": "116883596",
+	"description": "Breakout Defense is a breakout game for one or two players. Play single player against the AI and aim for a high score or two player mode competing against a friend. Supports Off-TV Play mode. This title cannot be played with the Wii Remote™ only.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-12-15",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/58ae25fef1a69785356c9b4f218d897402a319931b0e2e669e364dd268cce99f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1bce0bcaf83857f45cf35e145d1b1dccc11c8c39cf18df70c6ac2d53fdf3406e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e66e2f803d1e345a6d14c94727f565e0902579b641064578c3e2b36606a65807.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/da22ef5467845402477f58b16ae453da3c3d2837623072c826b5cdab0d587adb.jpg",
+			"name": "Breakout Defense trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6b2d85eb8719224f17571859c502f0691246a7312c778f3547b3644daa016018.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3486cde83a183913c86d5cc4866a736c0088fa3899c3b0af150d1e972196b52d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				}
+			]
+		}
+	]
+}

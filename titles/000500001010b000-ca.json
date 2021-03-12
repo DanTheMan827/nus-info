@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001010B000",
+	"eshop_id": "20010000000054",
+	"product_code": "WUP-N-ARBE",
+	"name": "Rabbids® Land",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 278,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2aa33fdd4886ddfef7b6ee58fd54fbea9c915c633408b58a19429a7a6b2781f0.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0ac6d037f2d551e2b0820e4381144194a3f47479482870ee17efc196cf505379.jpg",
+	"data_size": "7741080332",
+	"description": "Rabbids are taking over an amusement park! As Rabbids will always be Rabbids, you’ll see them misusing rides and going \"bwaaah\" at a souvenir shop before stopping in an overpriced themed restaurant. So whether it’s a sunny or rainy day, just grab your Wii U GamePad and get ready to invade Rabbids Land! Features Use the Wii U GamePad in crazy ways to challenge or team up with your friends! Discover how Rabbids take over attractions like the Haunted Mansion, Tunnel of Love, and Roller Coaster! Tons of mini-games to turn your party into a hilariously fun time!",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2012-11-18",
+			"retail": "2012-11-18"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/4723cbcfe36534981e1bd7b3bf4f332d01b86bca75c18a7b3ea870b57a52fee3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/90ff63de47162b66a96e2d5ff778aa27a6c52e147724a29fb26c3d90305d78c6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/866e172aa6e75809787935cf3496d4ef2f75e945360a8d4017df56d17b783b97.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9d57cf95ca3df8e4c4972687c17f614e77961066fcefba7767ebe22bcfd707ce.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4c2d2e20e3b196d642314f03adbe3b553c668d8c0ae8a3e01fb2ac761a9b8da9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/cada283c7888a8914787f6d1819fb79f30306230d1df5f9f31cae6fb04d78092.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7749955d83071c8b3e2687542c9ba333246b40aa82825f73be8a67744267868d.jpg",
+			"name": "Rabbids® Land Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/18062fdd5ce4a147b5ae87bff7c9f5d98113a73c4417f58ad13f035f717fc4b7.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "110"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ef45c2d5c3b716f810f54837eb17824068a061ee437cf5c8c767344675a934fb.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "110"
+				}
+			]
+		}
+	]
+}

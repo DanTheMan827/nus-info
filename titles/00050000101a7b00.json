@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101A7B00",
+		"eshop_id": "20010000014552",
+		"product_code": "WUP-N-JDGJ",
+		"name": "ルドラの秘宝",
+		"platform": 164,
+		"platform_device": "WUP",
+		"publisher": 246,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a988d4bbff1b9e35b3e991c22324278168b87c7439afccfdc870681f77cba532.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/cc9c65432c1256a819d498ffd931e35b460770f934b409c88b494f014e723bb8.jpg",
+		"data_size": "45187232",
+		"description": "このソフトは、1996年に発売されたスーパーファミコン用のロールプレイングゲームです。 20000年もの時の流れの中で、世紀末の魔物「ルドラ」が4000年ごとに現れて、世界を滅亡させては新たな種族を生み出してきた世界での物語です。5体目のルドラによって誕生した人間族が繁栄するこの世界は、2000年前から大気や海、大地の汚染が始まっていました。人間族が生まれてからまもなく4000年が経とうとしている中、運命に導かれた4人の戦いが始まります。 物語は3つのシナリオに分かれていて、それぞれ主人公が異なります。シナリオはすべて同じ世界･同じ時間で繰り広げられます。ある主人公の行動が、別の主人公のイベントに影響を与えることもあり、さまざまな角度から物語を体験できます。 「言霊(ことだま)」と呼ばれる魔法は、プレイヤーが自由に文字を入力して作り、入力した文字によって効果が決まります。効果には一定のルールがあり、うまく組み合わせれば目的に合った言霊を作ることができます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-12-02",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/1ab7038b8f2f57643f36a94629666599ea137171b014dcf95e9acc1eeb8f7818.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/0b3b01ca756719498556cc19d0ae05b0a7d93b280ef17f7f981ea3e56e95a0e6.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/8519b2fecd84c70fd193f2f482f98c3addf287eb4baff7543477755b039154ea.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/17ae9a8cec7273985e15d611000ee32890bf239c8523d357ed467d56fb03e21f.jpg",
+				"name": "ルドラの秘宝 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2dd5eca0c80365cb4cd853515118967500c33228d1aea50e79407c79339e46ba.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "83"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/404ab9525fb99841ec2c2bc57e73ce629617ba8697e8dbba7944be0e7f28b750.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "83"
+					}
+				]
+			}
+		]
+	}
+}

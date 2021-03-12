@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "000400000016AD00",
+		"eshop_id": "50010000039745",
+		"product_code": "CTR-N-BJ3J",
+		"name": "ドラゴンクエストモンスターズ ジョーカー3",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 246,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/78509c67ff297a73ffb76048b3e958c0c13ef442de6e480b73da36f5b0a32e1a.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/465345f06ad36fdd3046e4b6d980b3554d93d27c412d15b3e6374e893e92d48f.jpg",
+		"data_size": "898886500",
+		"description": "『ドラゴンクエスト』シリーズでおなじみのモンスターを仲間にして育成・配合しながら、自分だけのモンスターを生み出せる『ドラゴンクエストモンスターズ』シリーズ完全新作。 登場モンスターは“ジョーカー”シリーズ最大となる500体以上！ 本作では新たに「ライドシステム」によって、仲間にしたすべてのモンスターに乗ることが可能！ また、頭部に装着した「リアクター」で、モンスターやフィールド上のものをアナライズ（解析）できるなど、ますます冒険の幅が広がります。 さらに、通信機能を利用すれば、育てたモンスターパーティで日本中のライバルと白熱のバトルを楽しめます。",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2016-03-24",
+				"retail": "2016-03-24"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8dd5b5104b887c7d29ba753f525a9085cca50cc4e35ea682fc9a46c2be5f5f5c.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0dcb0338277939e6bf0fa8b246357100694fbfcf6495ba277022dea35422163c.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1ec9daeb49fc718944d23884a317aafdeb040003966029f79d92cc9334c247b9.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e7661c2688b01264b7c983e7f158bcde3e4d326d969a9ff12ab8c20c82489bc6.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/71cc104ce898158d967679f7f9c6381565ee4fea3024d11608acc46518e0a3b8.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ab55c6ce43345297b06f8707a1745680afd6983afc3250838baab9d97f685457.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9ec1f8482830d58c2999623681ebf411941816d96579eb50498c90ab2806ef51.jpg",
+				"name": "ドラゴンクエストモンスターズ ジョーカー3 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e22461245460ba2c61e365c46eae4b35f48c0311be2eab65ae8036d686ce012a.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "143"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/228300319567942d8b52a1d1d71390173910b8c6a83eb1ca93baf11333ff569d.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "143"
+					}
+				]
+			}
+		]
+	}
+}

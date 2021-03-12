@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001019F500",
+	"eshop_id": "20010000016748",
+	"product_code": "WUP-N-PCBJ",
+	"name": "ロックマン エグゼ 5 チーム オブ カーネル",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 39,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f8bea2d64e22d38907df2cd601ac8341705627ff6b24901ab1a60da7fb22bd23.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6c9eb8daca1365d99fddca181f048d477193cdac0cc7e7a9ddf10c6931a22c3b.jpg",
+	"data_size": "77103244",
+	"description": "このソフトは、2005年に発売されたゲームボーイアドバンス用のデータアクションRPGです。 部屋で宿題を始めたとたん、居眠りをはじめた熱斗。 平和な朝を過ごしていたが……。 いつもの仲間と一緒にパパのところにきてみると……。 突然「緊急事態発生!」のアナウンスが! 事件を解決するために、情報を集める熱斗とロックマン。 そして2人は、ある事件をきっかけに、 チームのメンバーとして戦うことになったのだ! チーム結成! ここから、チームバトルが始まる……!! ※本ソフトでは通信機能を使用できませんが、メニュー内の「つうしん」を選択することで、オリジナル版で通信機能を使用して入手できるチップを、本ソフトでも入手できます。 ※『ロックマン エグゼ 5 チーム オブ カーネル』は、基本的に『ロックマン エグゼ 5 チーム オブ ブルース』と同じゲーム内容となっておりますが、一部の内容に違いがございます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-09-09",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/1efad443ce828bf06fa13592a98700adc3fa814d53b02da140c0aafd894cbdda.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d0024271cd434571a2ad428b1ffa7336ba18bef1b9b4df855d5a5fd56de22031.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/da78ad7c462a8fc8342613e6940f6953d2e7b681892d1018567082767c701c2d.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/56f255f052ff42cf83d398bba69ecb378998b1ca14e8a750399eacff23d8b8fe.jpg",
+			"name": "ロックマン エグゼ 5 チーム オブ カーネル プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3ce0dbf7620335e8c49a896026894a8044e2f70bc4325a48c3271b3c05b3f1ce.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "69"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/19cbfbefe56c052d344f59836a7d417a21ef6786993aa765ca7480b3f7c2cea4.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "69"
+				}
+			]
+		}
+	]
+}

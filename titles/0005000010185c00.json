@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010185C00",
+		"eshop_id": "20010000008928",
+		"product_code": "WUP-N-FDVJ",
+		"name": "スマッシュピンポン",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b5084df154d0783facace0e4a1fc596f55baea092533fe0439858a1b5f1ad816.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/1a156b6b7ea176dbd94dcb83fa88acdc9aa97830d1b7a2c70b3cb9cf9ab9e97b.jpg",
+		"data_size": "38928544",
+		"description": "このソフトは、1987年に発売されたファミリーコンピュータ･ディスクシステム用のスポーツゲームです。 3ゲーム制で試合を行い、2ゲーム先取したプレイヤーの勝ちです。相手の球を打ち返すとき、自分のラケットは自動的に移動します。状況に応じて、3種類の球種をフォアハンドとバックハンドで打ち分けましょう。打ち返すタイミングの早さや向き、「スマッシュ」「ドライブ」「カット」といったテクニックによって、球の方向や速さを変えられます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-03-18",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/872f73324f7226941cd21e8532dd6b8e146cd1b3042e200a8d35bd974afd2ff6.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/9eabaa630230f57a42363405f2a5a9188f7636a1444dc163d8ac6cedf46bbef9.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/a33147441420f1e281be5c17aef9aecd6d74b3d392ecfbf0741a7cd5af2778af.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f7293c48c633ccf23a77c246315f6be0b08e6a22da811ca097353eb1270fd18e.jpg",
+				"name": "スマッシュピンポン プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d3c6ba295022c0b10e0f093efc9a9814772e1013a1d470ee4a80daba1e6aa9ee.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "41"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3c36b50af172b3d9688819a60d02c7a651c05f75a20f16c72fae340ff88a47b9.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "41"
+					}
+				]
+			}
+		]
+	}
+}

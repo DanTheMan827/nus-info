@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101B9E00",
+	"eshop_id": "20010000014551",
+	"product_code": "WUP-N-PCXJ",
+	"name": "通勤ヒトフデ",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6473bd68ca9f6f6b7bbef896c38ae7fe24048766eb25a2170a09b8c811224f09.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/bfc1e9c278047f0aa1d0277415b16fd341e99e56c6d7806b8ed1cf286336582d.jpg",
+	"data_size": "68780172",
+	"description": "このソフトは、2005年に発売されたゲームボーイアドバンス用のパズルゲームです。 なぞると色が変わる2色のピースを、横一列同じ色にそろえると消すことができます。このピースを1回の一筆書きですべて消すとクリアです。 全365ステージを1日1ステージを目標にじっくり解いていく「毎日ヒトフデ」、ランダムで出題されるステージをできるだけ早く解く「タイムアタック」、オリジナルステージを作れる「エディット」の3つのゲームモードがあります。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-01-13",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/6479b1f76016343f2151adb10a1c22150fb9e388df37838ccab549fe935e1541.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f5cabbe468fa93b1e5ff84a543ab9a1f11d0c5cd67f41274efe8ce6b2b86a4e0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ad15103336e446ee3e259b5b8b4eda397195ba20ef31221a7e05f10840a6a9b2.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9174c9b2f237a090849eb77d13c8cc24791b0f29de432d8085014a4d5f32ddce.jpg",
+			"name": "通勤ヒトフデ プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/973a0da328829d319c431b2fa09aa756044484ae4e5bb018f5c2a38c313ad157.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "47"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/09af6be73ae358a321a7248109668c28bc5eff6620254b4d6c57f8eeadc78dcd.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "47"
+				}
+			]
+		}
+	]
+}

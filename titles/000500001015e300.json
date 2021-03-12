@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001015E300",
+		"eshop_id": "20010000005104",
+		"product_code": "WUP-N-PAKJ",
+		"name": "ゼルダの伝説 ふしぎのぼうし",
+		"platform": 168,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6d3902ace4a0cdc98c8c2ac661481ae88cc1c83aaa7d274c5fe64ad58526b5b2.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ab0869e5659238a6fb4c3c8ed3ac4164b7125a4ce5ba7237cb2f3c849a24c00a.jpg",
+		"data_size": "90669176",
+		"description": "このソフトは、2004年に発売されたゲームボーイアドバンス用のアクションアドベンチャーゲームです。 ハイラルの危機を救うため旅をはじめたリンク。森の中で出会った“ふしぎのぼうし”エゼロは体を小さく変化させる力を持っていた……。小さくなったり、大きくなったり視点を変えて謎を解く、小さな世界の大きな冒険! ※当時のパッケージ裏面に記載された文章をもとにしています。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-04-30",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/1022d19d6172615ce6176ff770126eec7e97ee77cb73913facb7003541e2e5d6.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/e219ca2ccf5b2be62b9bd093b3f8a0e345861abe0e09eddaa9d952b36f51267c.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/bbb0f8c9b55701a9c12132d5a15e6488e23812261c7e80e5281cc1d36b845d14.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a58711993d59ee7d7a7cee7f411539851847b6035d84fa9ee9fcab722518dbf5.jpg",
+				"name": "ゼルダの伝説 ふしぎのぼうし プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6826c99f1f9210e191020f346866c628ebfc90c9a12b26a097a912245d206869.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "49"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1d9ee93b2cba31e18de003631ca0b9e0aa4a217167f9e49dc316b7e203231ae8.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "49"
+					}
+				]
+			}
+		]
+	}
+}

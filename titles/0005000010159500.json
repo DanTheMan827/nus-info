@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010159500",
+		"eshop_id": "20010000005086",
+		"product_code": "WUP-N-JCBJ",
+		"name": "Pop'nツインビー",
+		"platform": 164,
+		"platform_device": "WUP",
+		"publisher": 149,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f18c28c4eb1eb2a6faa60f54739c7bb5be5e250d1a4c5b0b96aea7f4cf54d5b3.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/bf0bab9b43114850f08ce9edb788a37b48d9899e3ffa3810fd9278b9e81c427b.jpg",
+		"data_size": "41025676",
+		"description": "このソフトは、1993年に発売されたスーパーファミコン用のシューティングゲームです。 ツインビーたちは、マドカという少女の祖父・マードック博士が悪人になってしまったと聞き、彼を元に戻すため飛び立ちます。本作は残機の概念がなく、ライフゲージが0になるまでは敵や弾に当たっても撃墜されません。雲の中から出現するベルは、攻撃を加えると色が変わり、さまざまな効果を得ることができます。2人同時プレイではライフを分け合ったり、相手を投げ飛ばして攻撃したりとユニークな遊びかたが楽しめます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-05-07",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/34fe9ccae1674ba47df2d81b1e02925a160f78c9f8489fdb45224f5e75bd2cd4.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/302f493b92864345810f2bba45dfaa56308004b6798a0078c0f3a3c6ef9fd9f5.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/7a84fb718f3417b1f59473d6d483374214ddbf75750a116c7dd4ecad9e124b7c.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/873e04c38842179c583d9844edc065d8e7021ff46c05b33fb50aa7a13bc21de6.jpg",
+				"name": "Pop'nツインビー プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cdea0b395daf63c8a927ebb881c0d85b73e42470f929c12eae4873ed6de85a41.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "46"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ec6c41ed4ad56c75ecca57cdb39924e2e43d1517f1312f8fd9e5c41150826d9e.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "46"
+					}
+				]
+			}
+		]
+	}
+}

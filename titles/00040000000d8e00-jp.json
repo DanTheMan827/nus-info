@@ -1,0 +1,85 @@
+{
+	"title_id": "00040000000D8E00",
+	"eshop_id": "50010000015014",
+	"product_code": "CTR-P-BHPJ",
+	"name": "ほっぺちゃん つくって!あそんで! ぷにぷにタウン!!",
+	"platform": 18,
+	"platform_device": "CTR",
+	"publisher": 367,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8072b3fac2de3d819a438e5a0a2faae657eb7b1425e13c89db6d51b8e61841ac.jpg",
+	"data_size": null,
+	"description": "小中学生の女の子に人気の「ほっぺちゃん」がついにゲームに登場! 「ほっぺちゃんの素（もと）」をしぼって形を作り、デコパーツをつけて、あなただけのほっぺちゃんを作りましょう! ほっぺちゃんをたくさん作って、いろんなゲームで一緒に遊ぶと、ほっぺちゃんが住む町「ぷにぷにタウン」がドンドンにぎやかになっていきます! ●つくっちゃお! 1000種類のデコパーツをつけて、自分だけのほっぺちゃんを作っていきましょう! 本物のほっぺちゃんを作るときの感覚が味わえます! ●遊んじゃお! おやつやふれあいなどのお世話をして、15種類のゲームでほっぺちゃんと一緒に遊びましょう! 仲よくなると「ほっぺちゃんの素」が増えて、新しいほっぺちゃんが作れます。 ●お楽しみ要素もいっぱい! ローカル通信でお友達と自慢のほっぺちゃんを交換したり、すれちがい通信で誰かのほっぺちゃんが遊びにきたりします! かわいいデコ写真も作れて、楽しみが広がります!",
+	"availability": {
+		"eshop": false,
+		"retail": true,
+		"dates": {
+			"eshop": null,
+			"retail": "2013-07-25"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c9ce2a9f459ce4d74a9aceb505fb06cd62787dcb73afebeb09e8f39215a1e98a.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/21ffa43b2b57febd05292f749421d72f3d572cb009031ce4072e3e1b8a1e916c.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/efa591e87f4ecc8e68df8b1b9690a6b682187d75fd7a58f88e1e345e2bfb7840.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/eebe31a1edfa1479608821a3fcb28ce1bd370dcae234154bb53b9323308ca511.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1a08e73e17f3ae7ce1e03d79dc164f595b192c122f83544fac908835ddfce0e2.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/17d0b0d9ef8fc36be49aab347f8ce93537c3e4ed85646179e03c357d2ac6cf38.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/12f55d8198e133d80870b1f3d0c204470c1db77f2b8ebaea5f13acb9df46f449.jpg",
+			"name": "ほっぺちゃん つくって!あそんで! ぷにぷにタウン!! 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/101b287304926a54cf3fd6a7c43438dfa4d592b0d97ec539418769ae6fc3b25f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "180"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d66c87582cb04ce183cab38d75405a2f2ea09eac455f1c1b617f084164c3b285.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "180"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/08623edf984904c55dbaf42d21b516ce1deceb7c5b0de1bcb1378afa5767b38f.jpg",
+			"name": "ほっぺちゃん つくって!あそんで! ぷにぷにタウン!! TVCM",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6b8b8c75ab4ec53665c7a4c0b3d510948fadb0fe616369e39266d74afddb3d40.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ab1988a7ea4f0338feeb603cb411a2131f14409146d6be3c15bb46db0abe7bfd.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				}
+			]
+		}
+	]
+}

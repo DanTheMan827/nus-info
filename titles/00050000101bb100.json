@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101BB100",
+		"eshop_id": "20010000021027",
+		"product_code": "WUP-N-NAPJ",
+		"name": "ヨッシーストーリー",
+		"platform": 170,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ac335311440fc3b60bc8778109ec919ba57f04b8f7bc81e48e7d6e451846a084.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/908ee36856aa7f775361d3342842c84d896ee6db29b0db563d835a3c5eed88b3.jpg",
+		"data_size": "62029944",
+		"description": "このソフトは、1997年に発売されたニンテンドウ64用のアクションゲームです。 ヨッシーたちの住む世界が突然、絵本に閉じ込められてしまいました。ベビークッパに「スーパーしあわせのツリー」を奪われて、みんなへなへなヨッシーに……。 しかし、島のはずれに残された、6個のたまごは無事でした！ たまごから生まれたばかりの「ちびヨッシー」たちは、フルーツをいっぱい食べて幸せになれば、みんなも幸せになると信じて、冒険に旅立つのでした。 本作はただ「ゴールをめざす」のではなく、「コース内にたくさんあるフルーツのうち、30個を手に入れる」ことでコースクリアとなります。「ゲームに慣れないうちは、どんどんフルーツを集めてクリア」「ゲームに慣れたら、ハイスコアをめざしてクリア」など、さまざまな方法で楽しめるのです。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-02-17",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/f6d8881f1486baa348c76a7d859eb98a3e92abf146673486e29d2dcc53a972c9.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/7ff6889231dd40cb450c662d71318d06a4616ec0c39771f4c5dbb081c7c62896.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/7a54057514d441037892ec0fc4c639605457a55461344f73316c06ea29aaf0e9.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d6123794e66083a97996686781eca6b34d1573a77bf431da76d559ce03b2c687.jpg",
+				"name": "ヨッシーストーリー プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5847b0e5b6e013856858aeec7869d50beea2665050dbf5795a141ea281445b94.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "82"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4f518b1b50b560d2a54a9af2e7ed80b65978e671dd25d31b0915a26dc3d5e947.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "82"
+					}
+				]
+			}
+		]
+	}
+}

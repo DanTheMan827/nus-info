@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000108B00",
+	"eshop_id": "50010000018873",
+	"product_code": "CTR-N-JEGE",
+	"name": "EDGE ",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 277,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b900eea277a0279b29ea5b3acc184ab07d21d76ff64ecfe012dfe7a086927b67.jpg",
+	"data_size": "78691172",
+	"description": "En EDGE, el galardonado juego de plataformas de inspiración retro, el jugador toma el mando de un cubo que tendrá que hacer rodar por las docenas de niveles del juego. Busca todos los prismas, encuentra los atajos para mejorar tus tiempos. Plataformas de estilo retro Banda sonora inspirada en los clásicos de 8 bits Más de 100 niveles (originales, de bonificación y extendidos)",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-12-26",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/9264d4564c2e65613c90832ea9216e4a29acc355d7ae263d385dbcec88242e86.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8f221f3412edc208af11090beaa56b4f177782a45ffaf248444386047bc694ee.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/16e98a4c6c7c3e6cb9cb3a337e63b0086f1da298e0547ec7a6d799905e6bc79b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2aa5f15e8bad535e0d2523df58d474d9b6b941ee1edf739662f686403a076622.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5fae182d7cf1ea8a0682921ecddd85315ef9a89b4bd0b25eb1cb4dff45884395.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d3a3334ad1196e577baea85bb7b83d53056e980611667f095907445d9a6fab5c.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/62ffa58f846d9e9a6e8e219f4b5f61b88854820a9f06943a4d2807a87110bea4.jpg",
+			"name": "Avance para lanzamiento EDGE",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0b9940f681fa66246e889c03b177ca66e6ade681548febc6fb5554311ea9bec2.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/132b79ebc7a5bf580f9cab8d8812765704c57e714ccf5ff1ee71bddd0e1162cb.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				}
+			]
+		}
+	]
+}

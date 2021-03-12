@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000F8200",
+	"eshop_id": "50010000017559",
+	"product_code": "CTR-P-ATSP",
+	"name": "Mario Party™: Island Tour",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/cf491cd19a9af29c35c8cb117ca2b59e7ad9d97cef19b54c6975cfe1cbda0a95.jpg",
+	"data_size": "257813396",
+	"description": "Готовы к умопомрачительной мобильной вечеринке? Марио и его друзья будут на седьмом небе от счастья, ведь это не только самая увлекательная игра из серии Mario Party, но и ее первое появление на системах линейки Nintendo 3DS! И не забудьте пригласить своих друзей! Вас ждет море веселья в многопользовательском режиме Mario Party: Island Tour, который доступен через функцию «Загружаемая игра», так что вам понадобится только одна игровая карта, чтобы вчетвером играть практически во все режимы игры.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2014-01-17",
+			"retail": "2014-01-17"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d81a8952af1a8e56ad7e124c2c9763a4c0ea2d8fddeac2e8ce9bc3d740354fa4.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f956b19e3ac68bf29be488dc2db9d35577430624b543ba395c136b38ddaa6c0f.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e6fbdcd1f0186215e0f73111d4ce7d1803d9b5eea9ba87c1d3882bab95482ab7.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a94abd7e41bb9408be1e01f8263ba133bba44e564650b235ceaa3e467967760b.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b22e07efbda51333f00b201a0b46b29db89e4945eb2d142ff942626ee8f80a55.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2a20eb09281a74c28f50f0a7419223eaac0499ea0bd27761a2ec42cbfe99bb0b.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f409ea87e46b522e1a2e7ab3859b53762b816bdf27fa403d098a68b36b9f24b1.jpg",
+			"name": "Mario Party™ Island Tour: трейлер",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/345543ca62b31617c56731a88cab86a18316adc43a566e130ed74cebd45b38ce.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "150"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/355f25396b18deda9046fcf1e42f5aa71e2938828b6b487550cc0c596c92ecc2.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "150"
+				}
+			]
+		}
+	]
+}

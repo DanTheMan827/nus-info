@@ -1,0 +1,43 @@
+{
+	"title_id": "000500001019D400",
+	"eshop_id": "20010000010208",
+	"product_code": "WUP-N-VADJ",
+	"name": "星のカービィ Wii",
+	"platform": 171,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7b5a61c97b1f64bf3dd26b9ca4f09ca61d407ae7179333ab1830b4ea1e9377c8.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d5ec62788c5f6be76fa36e1cb1d4da866c24bd574914d55b9aeede6258f77867.jpg",
+	"data_size": "1238335768",
+	"description": "このソフトは、2011年に発売されたWii用のアクションゲームです。 すって、はいて、敵の能力をコピーするカービィが主役のアクションゲームです。カービィは敵をのみこむことで、その能力をコピーすることができます。能力をうまく使い分けることがクリアへの近道。本作では、おなじみのコピー能力のほかにウォータ―、リーフ、ウィップ、スピアなどの新しいコピー能力も使えます。また、特殊な敵をすいこむと発動できる、「スーパー能力」が新登場。 最大4人まで、一緒にプレイできます。2人目以降のプレイヤーは、カービィ以外のキャラクターも選ぶことができ、それぞれの個性を活かして助け合いながら冒険します。また、プレイの途中から参加したり、逆に途中で抜け出すことも自由です。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-01-28",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/368d6a87761aeb7d80dafd20db6242a8539515126ad629259798cfedd26dd8b3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bc8265f3d18d6718f4efa995e36e8ed9308e43118600470eb9f0f03782d9d07f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c4fcebb9b124438acf1b5ebaf7fe9333bcfc961b60a6eef6340d79e896debe87.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cd5cf0e2bd69d3d14099adcc7918d53a3a6f368995f1d89ded85181c6276caef.jpg",
+			"name": "星のカービィ Wii 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3b62f40a3eed11fe2bb60a25002a96756d55da24264bc74db861c79361d09743.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "244"
+				}
+			]
+		}
+	]
+}

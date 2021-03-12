@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000F703D00",
+	"eshop_id": "50010000040636",
+	"product_code": "KTR-N-UAXJ",
+	"name": "ファイアーエムブレム 紋章の謎",
+	"platform": 1004,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/2b02a0eda6c5fa223c2c04664ba308c46ef0e226e46992dc5dffa7c4da800910.jpg",
+	"data_size": "6630244",
+	"description": "このソフトは、1994年に発売されたスーパーファミコン用のシミュレーションRPGです。 主人公マルスの率いる軍を指揮して、アカネイア大陸で起こった2度の戦乱を体験します。個性あふれるたくさんのキャラクターが登場し、なかには味方として、戦いに加勢してくれる者も。ただし、敵に倒されてしまった仲間は基本的に二度と生き返らないので注意してください。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-06-22",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/83d387c4d46d3f631f240851f8f5e5f20ecc27498b2b55cdf693c70aa6e0bce0.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/446b41e686799dee83e37b2eb8e2e26554c43a8cda19ae4678b692b6430e5d18.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/85f7f3e5f99499b86520b5dcb49ebd4ce0ee6211e8d8fb41da06c9f755bac6a4.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/66a142b4e27e56cee098373803e958a8c2d6a7d425fe69c6ae6449e76896c223.jpg",
+			"name": "ファイアーエムブレム 紋章の謎 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/515ce86c24323746b60daa52fba50d9fdfd1371d8878a20386b81f6b895453b8.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "84"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3a15b46ddb7d03a4c0a4cc18e31933aeee8a173f2203ae68160900825e054c99.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "84"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"title_id": "00050000101B4F00",
+	"eshop_id": "20010000016607",
+	"product_code": "WUP-N-AQYE",
+	"name": "Asteroid Quarry",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1426,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/629e8dc5db58c76209148baae91c9dcfcaaab24cac3616b2fda2890e9dadf257.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/90d00468e979d60258ce3aaad347c7f534d6d689b040134b76aa27e1a7f11c1d.jpg",
+	"data_size": "59965600",
+	"description": "Tierra ha agotado todos los recursos. Ahora equipado con naves espaciales avanzadas, la humanidad puede utilizar los recursos del cosmos para ampliar aún más. Surca los cielos y extraer el mineral en los asteroides. Esto parece una tarea sencilla, sin embargo, es necesario tener cuidado. Al igual que con todas las nuevas fronteras que hay algunos que se aprovechan de las zonas no protegidas. Estos piratas estan en todas las zonas, y que están buscando la emoción de la caza y usted como la presa.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-07-09",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/551d511181cabcbe80404e199d99313b71dc93809d10266f23edcc703e9abfea.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5586712741e1f862460bbab87e283fe8c2cf56d1ae3648dfef67722a3dbc3688.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/99818a703b49a83146286d2758b109b7ef983cd32c53a92b984877f57d8f6ce1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/64188db08182773b822b1fa93a449d970452121c1b44bf0452395cc006875e9c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6bead8447670880983724b561e448f538ee663c51f27e55d8dd767a337b6e409.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e6bc1cca2ddf12a8a26a1a0a1ba7a4efbc998a87104d6c85e89e3b3ee022dc54.jpg",
+			"name": "Avance para lanzamiento Asteroid Quarry",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bae51a464de1a544a05947e4baf2903c4174effa81552e75a716f0246fc08161.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "82"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4064f3eac0883e080b367df28adae85af1630b58e42d36d0fe3e8d32595f97a8.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "82"
+				}
+			]
+		}
+	]
+}

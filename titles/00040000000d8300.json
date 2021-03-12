@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00040000000D8300",
+		"eshop_id": "50010000013673",
+		"product_code": "CTR-N-JM7J",
+		"name": "@SIMPLE DLシリーズ Vol.9 THE 密室からの脱出 テレビ局編",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 57,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/1f619eee3e1887bfdd4c8cf6e9cb85b8e4b116fec48e67dfad82dae21f1ce7b2.jpg",
+		"data_size": "51792740",
+		"description": "さまざまなアイテムを駆使して閉鎖空間からの脱出を試みる謎解きアドベンチャーゲーム。 今度の舞台はテレビ局。主人公は、人気司会者が登場するバラエティ番組のアシスタント。収録が終わり、タレントや俳優たちは控え室へ。撤収作業が終わり、スタジオを出ようとすると、あれ、ドアが開かない。今、再び脱出劇が始まる。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-04-03",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2857fc7c1f7b48eec6ca5cc43dcc671008f706d4f35bc7bb5029e0d3581b1960.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/504ec46ec8dce8182100cdb9522d8c0d17fdf0acdea6fbf2fe52a8fe3eed4f28.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/4f1b558bf440b6c08b221fe2e3fa62c6f855a8431910a9d6e09184427ccf6c6c.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4eda74e7f0f65a3b3cb9885fe7f03d195a0277b830be1bce15712bf539c039bd.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/546ae1299a61a1335e05ded94b8c32404bc9ae7f288b6a2e2d6e7bfd12624138.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7a3f8db4528aa02757db88c056650ecb4988ea6e413e13649b2632af5b842584.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6f798e247d4aeeb6dd48d5606a91995cc00f093b3c9236712cad9ce90ecd150b.jpg",
+				"name": "@SIMPLE DLシリーズ Vol.9 THE 密室からの脱出 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/50b9016e46f39704f0ecf3933d6ab91bc66702120e7abc45f01a96c984e53302.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "50"
+					}
+				]
+			}
+		]
+	}
+}

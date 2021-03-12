@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010179D00",
+	"eshop_id": "20010000006827",
+	"product_code": "WUP-N-DABJ",
+	"name": "キャッチ！タッチ！ヨッシー！",
+	"platform": 169,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/131d7a92b77e53519186494128638356258d4fc189de07c3aae150bb604cefeb.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b0099ab428a9b3d9ac834c650a0135a668c51ea36973ee338a5acb177d52649.jpg",
+	"data_size": "45678712",
+	"description": "このソフトは、2005年に発売されたニンテンドーDS用のタッチペンアクションゲームです。 複雑なボタン操作はなく、直感的な操作で遊べます。 ステージは空と地上の二部構成になっています。上から下にスクロールする空のコースでは、雲に沿って落ちてくるベビィマリオをヨッシーのいる地上まで誘導します。敵に当たらないよう、上手に雲を描きましょう。 左から右にスクロールする地上のコースでは、背中にベビィマリオを乗せたヨッシーをコウノトリの待つゴールまで誘導します。雲の道を描いてヨッシーを導いてください。 スコアアタックは、ゴールにたどりつくまでの得点を競うモードです。空のコースで高得点を出すと、地上のコースの難易度が上がりますが、高得点を狙いやすくなります。 ※おすすめの画面レイアウトは「縦レイアウト」です。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-05-18",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/908247bc6016026272202187996bace5e64566b53571419fdc1f543fe5061e3a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/451ac53002f52883060290b922562b68c96e1eacb233379169459c06ff72341c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/57ed43843d709d5493b46845a5abe56a8ca59df1d0294ad72c26d888b57f0d8a.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ccb33e5bb446f6331811c0b927822da2097fc1d888bc3180e5b717d82cf50b38.jpg",
+			"name": "キャッチ!タッチ!ヨッシー! プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/33c21b3472fd57d842c52acfae089c554f80a26b2a3c876c601ad9adfb20edc8.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "77"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/47ef84e44b004ab8dfee1174a06f68b9ba0e4b98dc7cefe649697e19727cad77.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "77"
+				}
+			]
+		}
+	]
+}

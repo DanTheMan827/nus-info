@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000154800",
+	"eshop_id": "50010000030256",
+	"product_code": "CTR-N-BPNE",
+	"name": "SpongeBob HeroPants",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 7,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d66d18de87c5d2db08675d5b0aba4e7fca7f88143d793751f81f9ab157f581ab.jpg",
+	"data_size": "378534756",
+	"description": "Only a hero would dare to enter the world of SpongeBob's cotton candy and rainbow filled mind! Play as fan favorite characters in regular form or as heroes from the movie! You can even play as Plankton! Weave your way through obstacles and puzzles in popular settings from the movie, including Bikini Bottom!",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2015-02-03",
+			"retail": "2015-02-03"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7427e4a5ea78c06eb02de1e5dbed6f350fc5caa0bbdadba02f3f45f6d3fcb023.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5fce7368f9d6a360c92207e21bee36f265abeb4e800f398a70f1cca100f0ecde.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7d482a122507277ce0dceec2d778764c75c5f239f2383061af461267d9922937.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f50ef070d68271a5149fd1fb6421e81925d9344d56665f4c2b55ab4c0e5c79b1.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8f026e9953c415089ca416d04feb549b336f839e20f7704a2518ab66ad9f5e33.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e2a05a49166522dccb35844dcbc18cf7e27b63ba270bd653ba544a8d2c218bb0.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/43bee786af5060babb994bd0dc13913815b679e77548aba4953112a6cef93dc9.jpg",
+			"name": "SpongeBob HeroPants Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cdd2d4ff8ce0b86f8e7cd65c865d1ea25c8f8159e5ecf1ca1810f719c557678e.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/97e6ab406e456e7d51aa443db3d36bec5913c00d215789fd4e42669a33ec6b60.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				}
+			]
+		}
+	]
+}

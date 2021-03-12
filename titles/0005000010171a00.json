@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010171A00",
+		"eshop_id": "20010000006747",
+		"product_code": "WUP-N-JCKJ",
+		"name": "くにおくんのドッジボールだよ全員集合!",
+		"platform": 164,
+		"platform_device": "WUP",
+		"publisher": 19,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9658595c3e8c099586297746406ed1f2df9f1b231ba5d21568336609e8755a76.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ae7a0743cd3d7823cce50153e6f36bfd90bcd5f4809b0035dbbca489950db7e4.jpg",
+		"data_size": "43384992",
+		"description": "このソフトは、1993年に発売されたスーパーファミコン用のスポーツゲームです。 世界一のドッジボールチームを目指して、くにおくんが仲間とともに各国の個性豊かなチームと戦います。多彩なジャンプやパスが使えるほか、ダイナミックな必殺シュートも用意されています。各ステージにはユニークな仕掛けが隠されており、試合が予想外の展開になることもあります。アイテムを購入したり、選手を育成したりすることでチームを強化できるので、理想のチームを編成して敵チームに挑んでください。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-07-16",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/894962986c1e1f1fe195e3a1b4a7bc55ac438a8341748c915b2848e8cd047029.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/f9ccc6b41bc4c79ff383df5d96c3616698825a98780fe02bd13ad52f78675740.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/5c733c1ccb69cac3f86a761235cd54237cb1d2177abde983d869af2dbbcfedc8.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bbb0219da198be88f74511234db999bbb6ede4ddfb83daa3b3c7f11b431a1f5f.jpg",
+				"name": "くにおくんのドッジボールだよ 全員集合! プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2fdeaca35e4e31055e38d6ab13c376b5e706c66b9612cdca7ef93ef85c4d2443.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "43"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/36b7e97d159f4b4b57b8739377fe3719c0d5188a7db81987b0c7b418ebba5a0f.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "43"
+					}
+				]
+			}
+		]
+	}
+}

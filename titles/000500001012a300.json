@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001012A300",
+		"eshop_id": "20010000002784",
+		"product_code": "WUP-N-JAXJ",
+		"name": "がんばれゴエモン3 獅子重禄兵衛のからくり卍固め ",
+		"platform": 164,
+		"platform_device": "WUP",
+		"publisher": 149,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9e5ce1c41280a4517deba684cb8a872e7007fabe2bd4d690bdbbf0c2b4577f97.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9dbe3d92dce2d7f03ad29f031052661ceb8e968a7002928bc92efaf82d5e656d.jpg",
+		"data_size": "41975948",
+		"description": "このソフトは、1994年に発売されたスーパーファミコン用のアクションゲームです。 タイムマシンで未来を訪れたものの、そこでさらわれてしまった「物知りじいさん」を追って、ゴエモンたちが未来を冒険します。シリーズではおなじみのからくりメカや「ゴエモン･いんぱくと」が登場するほか、町を探索したり、情報を集めてストーリーを進めたりといったアドベンチャー要素も追加されています。選べるキャラクターはゴエモン、エビス丸、サスケに加え、女忍者「ヤエ」が初登場します。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-10-16",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/8416215d4bf4a8f62b5160a308dc478b08bb26d4ed444b93a062351ddd78922c.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/4b471e585aaf205e731efd152b05f2fc7153a8d95bd6742312263738d73f9c43.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/bb83f7bb95ea483ec4deefcb38881680a4f7ac1b571c0cd67cc6db4f284ac21c.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f3c745d2b41cba93155fbdfb44b418fd1c31e93c8083e765dba681a7a7932fb0.jpg",
+				"name": "がんばれゴエモン3 獅子重禄兵衛の からくり卍固め プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e6268331041555489dd5ff1c6eb86f31d4353fb0f94d14116ca9c633661d6ae5.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "44"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c1035e13c04f925c02687cf3a21415cb0086ed49da8313e82d0d7506405e3597.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "44"
+					}
+				]
+			}
+		]
+	}
+}

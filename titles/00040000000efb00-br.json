@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000EFB00",
+	"eshop_id": "50010000022058",
+	"product_code": "CTR-N-RCGE",
+	"name": "Mega Man™ V",
+	"platform": 21,
+	"platform_device": "CTR",
+	"publisher": 39,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/bc4a282182abd84d2b697492bbb4fc9dc09177ad6b2e9bd3b06abab85673505c.jpg",
+	"data_size": "3996516",
+	"description": "Após outra tentativa frustrada do Dr. Wily de dominar o mundo, a paz retorna à Terra mais uma vez, ou pelo menos é o que aparenta... Durante uma caminhada tranquila com a sua irmã, Roll, Mega Man é confrontado por um poderoso robô, chamado Terra, que caiu do céu. Ele facilmente derrota Mega Man e logo em seguida envia um exército de robôs para dominar a Terra. Ao acordar no laboratório do Dr. Light, Mega Man é presenteado com uma nova e poderosa arma, Mega Arm, que vai ajudá-lo a impedir a invasão extraterrestre. Agora bem equipado para derrotar os seus inimigos, Mega Man vai à luta para restaurar a paz de uma vez por todas. Com armas aprimoradas e com o auxílio de companheiros lute contra uma onda de robôs inimigos, e resolva o mistério por trás do ataque alienígena.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-05-22",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/dbb53276ee1ada1daff14ec40176c5260767235bea4ae378a65ffedfec769fbf.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0cedc5158c51fed01b2e102487c0aded762dbb896663b790b7c86ad12eaeb0eb.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d59f051b6110fe9d84dffeb1c2454b5eca99ef5680b5ddb7ccf3471dc3549ebe.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1b7b906cbc35f93aa04a985186e8aa26dcc1b6fce571e522443656cb6b4f00d8.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/33c2ca0cb79a8df91a9d8523b541c9b44d374780bf9196ed5c8bbb4d7b302266.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1b4f8358b470a7dcec74fd2e08d81cb4def25c4236919444daf6acbcebc3fe80.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0e3e65bce778221f167e595ea1380678b85c1d7ecc5636789e4fc68e74bcb3c7.jpg",
+			"name": "Trailer de lançamento Mega Man™ V",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/57157280f57388b76d100450a4486764337694e4b1014c72ce8dba4b342c1f64.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "35"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/56a42184ea09613ad371d1c4de0a52c503e7844ecfb00b8af154d0c7137d0387.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "35"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000126000",
+	"eshop_id": "50010000020414",
+	"product_code": "CTR-N-JR8P",
+	"name": "Pokémon™ Link: Battle!",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/1b04170323a5ca0d05cc5a0506e78a5e0dba064e6c2df94780dee52de1d34c6c.jpg",
+	"data_size": "50367332",
+	"description": "En Pokémon Link: Battle! para Nintendo 3DS, los jugadores deben mantener la sangre fría y moverse a la velocidad del rayo para capturar a todos los Pokémon salvajes del juego. La mecánica es bien sencilla: el Pokémon que aparece en la pantalla superior es tu rival y objetivo. Tu misión es alinear Pokémon de la misma especie en el área de juego de la pantalla inferior para lanzarle ataques. Cuando alinees un mínimo de tres Pokémon iguales, desaparecerán del área de juego y acumularás energía con la que atacar al Pokémon salvaje y reducir sus PS. Haz que lleguen a cero... ¡y será tuyo! Pero cuidado, porque los Pokémon salvajes también te atacarán a ti, minando la energía de tu área de juego. ¡Incluso podrían abrir brecha en el muro y ponerte las cosas aún más difíciles! No permitas que se agote la energía de tu área de juego, o perderás la partida. Pokémon Link: Battle! reúne a los 718 Pokémon descubiertos hasta la fecha, incluidos los de Pokémon X y Pokémon Y. Todos los Pokémon que aparecen en este juego presentan una imagen renovada, con iconos que no solo son chulos, sino también muy monos. Pokémon Link: Battle! es compatible con la función StreetPass de tu consola Nintendo 3DS. Cuando te cruces con otra persona que esté jugando a Pokémon Link: Battle!, podréis intercambiar datos de juego. Si has seleccionado un Pokémon como tu favorito, podrás compartirlo con el resto de usuarios, y todo Pokémon que recibas de esta manera pasará a formar parte de tus aliados.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-03-13",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/285ebf7307e6ec157892a5aa923c6af334ce84dc13875b24805d1b7823f42d50.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/52bbe062bbe960c02a90d67a09a4028ae000270e664dedb1550591d7f6e04603.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b940403f9fa10a610c75a86fbe6673adf074351c54b9314bb1214736e6e54aea.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/08b411f8137baf59304c562e1826b04e1862f81586e147edcbb544130dc86307.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a952dd8f9a36f34ecbf2d93b3f00320f3e17032fa1d50c60a9e9a65232a79687.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/39380a7bd347d0c15b5aba7b74a8fa5970827c06bc3e7f1654ccdcddc52a710e.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3e1f991eb1cf9679ea0f3dce0caad4810a4e27f069f471c6fcba23efd4478a4b.jpg",
+			"name": "Pokémon™ Link: Battle!: Tráiler de lanzamiento",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e7815a5bc3143d5460487b075cf235cefa1e8ac6dd79eec4093602712d2721f7.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "70"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0a00a12d75936bbef3d7cb84275f4ccdd26b6c49deba3fb4dc77450ec2d55051.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "70"
+				}
+			]
+		}
+	]
+}

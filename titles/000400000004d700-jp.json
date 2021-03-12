@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000004D700",
+	"eshop_id": "50010000007047",
+	"product_code": "CTR-N-ACCJ",
+	"name": "スーパーポケモンスクランブル",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 210,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5764c95240895d452097562185f7513ff1701f1cee08575a81f6fbf05700e776.jpg",
+	"data_size": "316361572",
+	"description": "歴代すべてのポケモンが登場するアクションゲーム。ふしぎなネジで動くおもちゃのポケモンの世界で、強いポケモンを集め、強者が集まるバトルを勝ち抜きます。ローカルプレイで友だちと協力してポケモンを集めたり、すれちがい通信で同じソフトを持ったプレイヤーが集めたポケモンとバトルを楽しんだりすることもできます。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-01-30",
+			"retail": "2011-08-11"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0bd9fddea4b68c1b25f50e288138bf43583f1d22b709d20e28847179e7367c42.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/3f72b7e664129c0440af90cde05e43513ca7c42b734de9027cf95e0eddfc9a02.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/cf62156dacaea94e5716bcbde6194a44fa00f647d1ac8c6e78e58e1f3adc0171.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4d03e2ef94283f6ebfb22efc2325170fc5d2bf71dc8b3e3b6297d5d8fff09f3f.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c0ce2cab7e549cbbea0ffe21be9dc766b53762de02a73831d984fb5d84d4a0f6.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/46a71948a1024224de8133fd14ae194ea79e245b7deb54df16225107ae9bd854.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4f8f37de896fab8cc2cf29abe803fd111fc488dae418c4e58558a6f36a1d077f.jpg",
+			"name": "スーパーポケモンスクランブル 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a141eb2acbe200f9b8f327ddf02e5390dac037098decb9b5de0ae63fc0fa74c6.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "260"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fab50480490ce1b14fb229a9d3d93d0e9257f89d0da8491c5d5522d00b52ecc6.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "260"
+				}
+			]
+		}
+	]
+}

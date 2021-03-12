@@ -1,0 +1,78 @@
+{
+	"title_id": "0005000010146900",
+	"eshop_id": "20010000003444",
+	"product_code": "WUP-P-AS5E",
+	"name": "SpongeBob SquarePants™: Plankton's Robotic Revenge",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 7,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ce4cf38e4dabcc7eb97d57fcd2d930e6052d521b430ac371295552f321f593be.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/074f6d8a01069ca4989a72b20466ff7549a24529a368a76efaaf477bfba57fcb.jpg",
+	"data_size": "1338048732",
+	"description": "Plankton and his new legion of evil robots have destroyed the Krusty Krab and stolen the safe that houses the famous Krabby Patty formula! It’s up to you and your friends to locate the hidden keys for the safe before the secret is lost forever! Play as 5 of your favorite characters— SpongeBob, Patrick, Sandy, Squidward and Mr. Krabbs. Switch between them as often as you’d like! Travel across lands from the show: Bikini Bottom, Rock Bottom and Dutchman's Triangle.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2014-10-30",
+			"retail": "2013-10-18"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/3e7a552c86e09ea3929af290bf1420c0e5024ea856426dbb11f7c02ebdc710b4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/67b136cfdba7022d86e94164c4ba9ed7dc5528e197111dfa6ab11f1dae98b3cc.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7080dfb1be08bb3689a443c3e48a2293f0c2b6010854154d8e28f607177f6a2d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8fd003107f3fee812dfb6e6df6c80d23b552781d0f7f64e80f05f3ba4b8d50dc.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e37093d921f5abaf5e4aa60e4c4849d255f338e5dbe613192370e0778aef691d.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8c0931ad7381ecc79153b153826f5c1fe71b69f4dad9d5f42bc39e14423db826.jpg",
+			"name": "SpongeBob: PRR Video 2",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5d41362d634224c73908c59e604788e62982b860b37b29fcda7c314ab8fe63ff.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "63"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c842e3238e8bff16ffb6047d3c8e87c9b9f748ea98251fc9c203d96274d2ee05.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "63"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f365eaeb0e7f6beae5d7ecb61c7fbe158ea608ccb626f90d703aca86434a8300.jpg",
+			"name": "Spongebob Squarepants Plankton's Robotic Revenge Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3b1638e502d05a6c5ea3e4b4fd0453038c2610c331f800c2f11507a2e4f0633d.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "47"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/27a44c4204584e0e8a9eb9a8a30086b8c2d712b0c16eb16a80b9566e72958cdc.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "47"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,85 @@
+{
+	"title_id": "0004000000076400",
+	"eshop_id": "50010000013373",
+	"product_code": "CTR-N-AGGJ",
+	"name": "ルイージマンション2",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/048460d3398e41f8753650360bd14a6e4d90b900d2d61913ad6d8f86c92ae5c2.jpg",
+	"data_size": "883268500",
+	"description": "突然狂暴化したオバケたちが、イタズラし放題のオバ渓谷。 調査にムリヤリ駆り出されたのは、やっぱりあの男。 オバケを吸い込む掃除機\"オバキューム\"を手に、ちょっぴり臆病なルイージが、さまざまな\"マンション\"を探索。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-03-20",
+			"retail": "2013-03-20"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/01154d3dd3e6af217cbde7f9c787f703c47d561c2269d4f1c7b730e4ae8b7108.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8b1e18948dd11e81c896e4b8284a2d85712a8f4c2bebdc28c74cb9ddff0ed0c6.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/59c9c1cabe1dd6489a6b79454a568b28b9d11cc431ce45277a3818022726f85e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9026f8964f2008824c00b41c339a782cd383aa639ec7707f5697ab5eae606b3b.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e4fb67622b83953f3e780eed769e800f48bb4db3f638b77d29dd8fe86c231514.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/701e77080cce91012933fc42dbd038d5582c20cecaa8e77b6bd2af7a33bdd4e1.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/249d1bcc32aa1f41013ca314f6f64628b7c64bc197f9343a6692cd13eb05b1d9.jpg",
+			"name": "ルイージマンション2 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e4f859d5e1c7f3766382edfaf8ce08820cc79a618f045baf3ec562e7486f9adf.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "256"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ff6abb9de438276ab8959039ca9b5ed737c26eec89b13c18b8e06442edb78e0f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "256"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4d56e181966fe57c821216a849150ff2bb43e33b652c5c5b825c8f9838d27e80.jpg",
+			"name": "宮本茂が紹介する ルイージマンション2",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d7692b3267be7b7df2d9b9b5bb6cd7cb4ebe0b9ab7fc7893888becd878d59c5b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "307"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4e33cc47ed4b09dbc105841629ac047ffa4da3c28e5ea16e30fdaaa60266e9e4.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "307"
+				}
+			]
+		}
+	]
+}

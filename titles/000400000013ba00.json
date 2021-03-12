@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "000400000013BA00",
+		"eshop_id": "50010000024275",
+		"product_code": "CTR-N-KRDJ",
+		"name": "@SIMPLE DLシリーズ Vol.31 THE 密室からの脱出 カラオケ編",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 57,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e6942289efcbb9af40323e3bcff4985361f0aef4bd5d4fc290401618a86cee26.jpg",
+		"data_size": "73960292",
+		"description": "さまざまな場所に閉じ込められ、謎を解きながら脱出を試みるアドベンチャーゲーム。 今度の舞台は、熱唱してストレス発散! のカラオケルーム。 実在する店舗「カラオケパセラ」協力により、室内を忠実に再現しました。マイクやカラオケ機械、ハニートーストにまで仕掛けられた謎を解き、閉じ込められた部屋からの脱出を楽しもう。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-07-30",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7bb626712d3fd422820e6aa8f5625d4790071af5ea8d93ab49e119c350421e02.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/24cbe8d4b81773bf46cd8776e4442d6d9f1e29628ec8e800b3a0e19fb7dc0634.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/faef5e14c605c2e7c065896a691b7a8f9c7ee303caa0d8eed15d0e38d6120f9f.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f2ab8bc906a7c5100e307c24b9a9e04212a5883ff0e9159188e0a4ab481edd5b.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1f06efc6007a8c85ce560ceadb84b5b34731ceb3d90c6e344908ac2a18189fff.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ccc18a32238bc0003aa274f7837f98da1772bd51e984ca75bc40e24f9008f740.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3a15b8dca7a2089a351c89fd81b2ce747d0cc2b503a8332949f35bad8ff1922a.jpg",
+				"name": "THE 密室からの脱出 ～延長必至のカラオケ編～ 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d9879b91a7e9f5172212323c60a3ed617a3779fb9953343677afec66eac7155c.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "112"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d0b2df9325109eb1d921bb602c82e1793b239d189fd37e8fbf98d01c7520e52b.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "112"
+					}
+				]
+			}
+		]
+	}
+}

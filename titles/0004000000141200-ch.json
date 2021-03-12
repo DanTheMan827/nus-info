@@ -1,0 +1,57 @@
+{
+	"title_id": "0004000000141200",
+	"eshop_id": "50010000030735",
+	"product_code": "CTR-N-KLTP",
+	"name": "Nintendo Anime Channel",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/785c3aa77304808920711823898d1cd2c726108e72c5acc9cc236d5f0022a109.jpg",
+	"data_size": "25492324",
+	"description": "Der Nintendo Anime Channel ist ein kostenloser Streaming-Service für Videos auf Abruf, der von Nintendo angeboten wird. Dieser Service erlaubt es dir, Folgen von Anime-Serien direkt auf jedes System der Nintendo 3DS-Familie zu streamen. Nintendo wählt alle Inhalte mit größter Sorgfalt aus. Neue Inhalte werden dem Katalog regelmäßig hinzugefügt – so kannst du die komplette Serie deiner Lieblingsanimes ansehen!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-02-13",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/032b615ca4edd0be0acaeae8d90ee5b5c384c2eb6dabca29f9c5d3b45300f78e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f1682ee4e4fab38a1be3577ff7f4b04b7570b335fe8be846d3c2fcb1647be822.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f781caae58b3bbce5432b3abb4c81bc893f8c31bc3094c05bf83f2596ccc19ea.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4d14c5a6d3cc3258d517869ad2e328f41d411c4582b7c7ec587679cf6ca8b287.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f47b4b9f3fcd8f626dd4cac18f4c1629f3f5bdeb682f27513f00b9accebb994d.jpg",
+			"name": "Nintendo Anime Channel: Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e497b7e3b12a0c62ffc93066ab944f2ebe00af0898a16cb12898764df6196d8a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "129"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1fe28c6b9a1c1c6dd952477238463922dae0760fd2dafbf503848485ecfb23eb.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "129"
+				}
+			]
+		}
+	]
+}

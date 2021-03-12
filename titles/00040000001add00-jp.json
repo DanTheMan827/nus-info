@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000001ADD00",
+	"eshop_id": "50010000041863",
+	"product_code": "CTR-N-AKQJ",
+	"name": "桃太郎電鉄2017 たちあがれ日本!!",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0f7dd7cfac2bef8144df91421d33087670214c7a5607fabda3561742f4341661.jpg",
+	"data_size": "113498980",
+	"description": "全国を旅して日本一の社長を目指す、国民的ボードゲーム『桃太郎電鉄』シリーズの完全新作。 新しいカードや最新のニュースを含んだイベント、個性的なキャラクターたちが追加され、ひとりでもみんなでもたっぷり楽しめます。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2016-12-22",
+			"retail": "2016-12-22"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0ae250a614987206cf1238980faf0ada682a44c5fe844122693f57c26f8069c4.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/adb51a276427451d8ed8999ed3969dd51122b593276802b1126f0b1eb9de268f.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3b1e2d1a10f30ad78f8dffba118b925cd273f2e560e952869f59e795b9985568.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c3955ab26edfce219243e18deee5e2daa12a8056fe37b85df5f92915bc128b2b.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c8b4a714f6e3cc608877178c818105f8c14cf71eb6571c25abdf251d078f4d0f.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ffd03059a121114be5e1beb883ea10864160c0e4f4707ded1b5926b5011f5fea.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e0a160d211c2a97b5acc849a40c6a64d631f8fc627d8f4c1ff75caf64db120e1.jpg",
+			"name": "桃太郎電鉄2017 たちあがれ日本!! 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/75555f23c4380c0a77cef2823015f75f70eb14bc5998aaa1eb2300f0c15c2cbc.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "274"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/115ea0bb7efd6b4adf9ca159b6bfffe5dbe33eb7103cbe81d2eeb6e90b3cb406.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "274"
+				}
+			]
+		}
+	]
+}

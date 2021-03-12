@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010200300",
+	"eshop_id": "20010000023247",
+	"product_code": "WUP-P-BR2P",
+	"name": "Armikrog",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1722,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3cab42371febd775ca23e80ffca1a41178fd38b6e98ddb5057c6bf6e58f4faa1.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5dae3bf747df421b544bfca444afe65f40b5b70314b8c1b4832b6d10672c74a6.jpg",
+	"data_size": "1965752600",
+	"description": "Armikrog est un jeu d'aventure animé en pâte à modeler, conçu par les créateurs d'Earthworm Jim et The Neverhood. Percez les mystères de la forteresse qui retient Tommynaut et son chien aveugle Beak-Beak prisonniers en l'explorant et en résolvant ses énigmes !",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-08-23",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/b0c8119851c3bee49addab3b9968df54186795c6c58e39cf73593262c55f5781.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a24a05b8593c40d858aaf28f8b738ef44e73580bba6d4544f2bfc4bca1186a87.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/943a850922c378d2b594faeb7eee9215a2ba88c51b6da7934f17c41bd2fc7a85.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7964b42f5d98cb4990056ec96bcaefb5841779f9192d0f6997c3352c70e4538a.jpg",
+			"name": "ARMIKROG : vidéo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a9fb5addd38f2581a15c21e793bb19245e91fe4b8dc6aec9a60be3f40e675afd.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "71"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/64e3fb55d4280fe024dbf457fe55f1d4e4ab57560a516a1129f1bf5788f86541.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "71"
+				}
+			]
+		}
+	]
+}

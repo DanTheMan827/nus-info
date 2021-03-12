@@ -1,0 +1,85 @@
+{
+	"title_id": "00040000000BA900",
+	"eshop_id": "50010000014012",
+	"product_code": "CTR-P-APDP",
+	"name": "Pokémon™ Mystery Dungeon: Portale in die Unendlichkeit",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/2212bc416c986a12b5b6a5fbfbb6a364a464a519154590a9ef28212faa665098.jpg",
+	"data_size": "885996388",
+	"description": "Die Pokémon Mystery Dungeon-Serie gibt es jetzt für Nintendo 3DS! Die Spieler schlüpfen in die Rolle eines Pokémon und erkunden eine Welt voller Spannung, Abenteuer und Dungeons mit sich stets wandelndem Layout. Tritt gegen andere Pokémon an, und rekrutiere sie für dein Team, verwandle Pokémon-Paradies in eine florierende Stadt, und entdecke mit den Außenkameras des Nintendo 3DS so genannte Magnaportale, die den Weg zu neuen Dungeons frei geben!",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-05-17",
+			"retail": "2013-05-17"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7d43a890a229610d3f0b135e8a7cb97a3e50fdc9ba49591e163dc6774b7473ce.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/af752b2aaff0887aedb28ac7595503382d8414c7d34941d8eca3cc4e6780b814.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/082b8da313a383b0d9694f0008e1b6d3ac5416e2b813c46bdeb2b41424ecf143.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0ba9baa8f1a6bf67c575b300cf468ee1af157da34d4e64db603fc272f868480f.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/9dbd54fb6635e27e84ed6a65d3917611d3674b1335af282ae13cefae586ca539.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8a305d066fd55a244821cf2e81218f261f07229e6e221263302ce3e27857da6f.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5a98d002c20905b6fa3556963a5ad7da9fd72204d659c36ab4b36a6dd1feadd7.jpg",
+			"name": "Pokémon™ Mystery Dungeon: Portale in die Unendlichkeit Trailer 2",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/af2b83c7f3c2c8f85bdbab4fab0b88344d321a8c5bfd02a775513a1953701926.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "80"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8475244fabd2c3f52db4814a3d6b83d98f35719f057f8fdfb160d6158bf0dc20.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "80"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5a98d002c20905b6fa3556963a5ad7da9fd72204d659c36ab4b36a6dd1feadd7.jpg",
+			"name": "Pokémon™ Mystery Dungeon: Portale in die Unendlichkeit Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a1a92a922b1da1a5b62c6b9512b63f7f729dd91b6440116c943c14e54e8a4dcb.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "66"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3a4398553119968b47e66e6e27733aa9aebe4b0eb47d108eb5169c6dc9f53f2a.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "66"
+				}
+			]
+		}
+	]
+}

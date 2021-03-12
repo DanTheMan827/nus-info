@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101DA700",
+	"eshop_id": "20010000021627",
+	"product_code": "WUP-N-NASJ",
+	"name": "ポケモンスナップ",
+	"platform": 170,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0c97483a715728fac2e658cee610ffdaf4bfb5bf35550aa074c6852525eab565.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e7e8c285706e4ba344f42c353c28c5ad15e3f6d145177b886aaecab290778da1.jpg",
+	"data_size": "61997176",
+	"description": "このソフトは、1999年に発売されたニンテンドウ64用のカメラアクションゲームです。 主人公は「ポケモントレーナー」ではなく、「ポケモンカメラマン」。「ポケモンアイランド」に住むポケモンたちの姿をカメラに収めていくのが、このゲームの目的です。 『ポケットモンスター』シリーズでおなじみのポケモンたちが60種類以上も登場し、カメラに向かってポーズをとったり、みんなで楽しく遊んでいたり、その動きは実にさまざまです。 お気に入りの写真は「ポケモンアルバム」に残すことができ、自由にコメントをつけられます。写真をオーキド博士に採点してもらって総合得点を増やせば、撮影に役立つ「どうぐ」をもらうことができます。どうぐを使うといつもと違う反応を見せるポケモンがいるので、手に入れたらいろいろなところで使ってみましょう。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-04-06",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/e6e8ba11e4844a144ce5ea6c5b746d6d246db33cd173439eda7363c91f7785bd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bbba5f524663b33fecb1a5bfa69fd92f1feb7229fe09e29042f8670e0fbad249.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/246941d724b6220cfc4b74428f670702aa633dbc4500a68170db6b67f3b99af6.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f0af8edb06b1d09707a815b1b4dccafb506970e65544c10de22e57a2e2980fc5.jpg",
+			"name": "ポケモンスナップ プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3320e082572f653a84df9e50334ddfb82b532558c369ca0ee5f72c8fd553cef7.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "74"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f46e89411f57f6357eb2992b8ac4db9982e1bf656a44507fb69e884f31d452ec.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "74"
+				}
+			]
+		}
+	]
+}

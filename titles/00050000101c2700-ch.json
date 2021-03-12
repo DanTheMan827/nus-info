@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101C2700",
+	"eshop_id": "20010000018527",
+	"product_code": "WUP-N-FE7P",
+	"name": "Tecmo Bowl™",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 267,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/280cba221837fce4ce8e1163318c38b3c4a0826fd185856e9f64648380a171d3.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/97e37fae745236fc3a2f793e6641bd7c141079855fcef7a55d912252f3594a47.jpg",
+	"data_size": "38830240",
+	"description": "Auf Basis des klassischen Arcade-Spiels bringt dich Tecmo Bowl™ in spannende American-Football-Matches. Du übernimmst die Kontrolle von einem der 12 Teams und versuchst sie ganz nach oben zu bringen. Messe dich mit einem menschlichen Gegner oder den Computer im Action- oder im Coaching-Modus. Plane deine Spiele wie ein Profi und hinterlasse deine Spuren auf dem Spielfeld. Du kontrollierst jeden Pass, Block, Spurt und Tackel. Hierbei handelt es sich um die US-Version des Spiels.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-09-17",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/883302953ba165430e413abd91ad91318454cc1953440069a7930625236b7e78.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9fb0354c513e37c43b2bc67da36d2094d3df99a3538c7457574c8dff536ecd20.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/84cb351bd1250e31876dada5425b1ac5d526067aa8c4cba7727da3b714d4085d.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5dfed095fb22bc67827212396557bd3e42861e4f8da16e409d0c1417cc21d3c8.jpg",
+			"name": "Tecmo Bowl™: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/27efa9a819885760474c83a7ee74f5729814c2df25d583afa9c9ce4aaa25cd69.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cf8dd5d74bb9994a20af0768787c6343aa6d5d1b1fa17c7eeab7911e9113c2c0.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				}
+			]
+		}
+	]
+}

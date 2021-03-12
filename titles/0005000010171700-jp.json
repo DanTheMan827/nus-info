@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010171700",
+	"eshop_id": "20010000008306",
+	"product_code": "WUP-N-JCJJ",
+	"name": "スーパーチャイニーズワールド",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 416,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/95f08a8d358493f2028f98a54cd3a78e80c052231e5bf18347c642382b5f5522.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/92b05c526996e074af4d86e5e6b16422e29004c005017661aadbedb64c4fb5d7.jpg",
+	"data_size": "42926240",
+	"description": "このソフトは、1991年に発売されたスーパーファミコン用のアクションゲームです。 愉快な人々が楽しく暮らすチャイニーズランドに、ある日謎の宇宙船団が現れました。宇宙平和使節団の代表を名乗るパキンは、チャイニーズランドの珍の始皇帝との間に宇宙平和会談を行います。宇宙船団が姿を消した頃、ヨウカンの都では事件が起きていました。主人公のジャックとリュウは解決のため都へ向かいます。 敵との戦闘は、フィールドではアクションゲーム、ボス戦ではコマンド入力で戦うゲームとなります。「ダブルしゅりけん」などのアクションや忍術、アイテムを使って、手ごわい敵に対抗してください。2人同時プレイでは、味方を持ち上げていろいろなアクションができます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-10-01",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/041f40ea1629187e84b7a44dfb71534505f0f7f010b1d5231df5fc1fd5f9e588.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9c14215a45c42d3e48eb160c874943468dddfc84f1fbe5e2d03995b4ef457b55.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/318007109bd70a9f3ab45ab7ea8886961957b213fec1f70a76f4f5bdc19d7558.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/90ba3f8505548a43bbf6a80cee589581aba935b2759dc6d4f3f21f6f204e7cac.jpg",
+			"name": "スーパーチャイニーズワールド プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fa19b6eff23d693a1d534b16f56475884b36d4abcdf389b2ccab7bc366a8542b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9457f052421620d435f3d87cb948d9929b6c9970fcad22399fcaa42501bb2965.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				}
+			]
+		}
+	]
+}

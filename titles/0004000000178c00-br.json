@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000178C00",
+	"eshop_id": "50010000038475",
+	"product_code": "CTR-N-ALNE",
+	"name": "I Love My Pony",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 31,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6777a8f82eb6d37fd42daf765bcaab7d2672f9acd9248a7ffad6da0e220398fa.jpg",
+	"data_size": "66534244",
+	"description": "Discover a rich and enthralling story where you prove to your rival that love and respect for your pony are just as important as training. Choose your pony and care for it with a variety of activities. Your pony's health and happiness are key to your success in the competitions. Train at the riding centre and take part in the jumping and racing competitions to become a true champion! A captivating story, from your first day at the riding stables to when you take part in the biggest competitions. Ten different activities for caring for your pony. Lots of different training challenges to improve your riding skills. Two types of competitions in four different environments (the country, the mountains, the desert and the beach).",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-11-19",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/eeb7dd610ee9db5dded4126c713c5191b13a9b75fcc66685ca66c4279020bc8d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8546eaec6a496e2b3188ce6cf4ebe23eb00c9e1e22a2bf2df937bf422134335d.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b7d9318052465f23e51d20c6fee69e21ea5ab6994fd52c6d99ddc1d23fb70e7a.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f3ba71aea0c5f50f571e4df955ad33abc9e61f6294b2f3ba6b45017ac9fa1ab0.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c6cb1b49183144c813369dff407fd2b8076ec8c573abf5c7bbab3d759b18a293.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d8ea41172274ce9e1caeb0428ea215cea4a97222a9ce4372b7298a5333335787.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/39e09dc71bd849949a1b118eda5e54b81c8a3a17363e7755fef6323cbc6d55b0.jpg",
+			"name": "Trailer de lançamento I Love My Pony",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5e7925b7dd3e590caaee7b68e8e17228bfeaf782494d2cb1d89b994c67a055cd.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/93de8ad05dec08e14dfb90ece9d040158d8359e510b5447869ff6ecd02e93b4d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001019D800",
+	"eshop_id": "20010000022008",
+	"product_code": "WUP-N-VAEE",
+	"name": "Xenoblade Chronicles™",
+	"platform": 171,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4c2093b7d2fe363a275223eddaca35101ee8c3aff110be389fdab2cf3c7b5473.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e5623fdab849daa93ee70d9710e06dc0a8df733051d6599c40b3e33940c88911.jpg",
+	"data_size": "6903857852",
+	"description": "Vive el épico conflicto entre los mekon (robots) y humas (humanos). En este título encontrarás opciones de personalización de combatientes, mejoras y un sistema único de combates. Solo tú podrás cambiar el futuro de la humanidad con ayuda de tus valerosos aliados y de la mítica espada Monado.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-04-28",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/41e63017325acaee11578f62a805b551219882c344f0d3fafa27c736d1edfad1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a10fd45e4c593ad58c3e233321872db80508748bc44218f2b985d27df8dce84a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b32f3dd3a0400d49d9d1f8fb33e82fcfb9d42f1da740dc54f42ca3c6214ce155.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0dc1c6b1eedfdc2b337fdb1600efa385a3add9877361b2b52ed890e7adbcfe43.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5e98bf5b77acacf175a85bdd9c01e5527080a4bca0d736adc0715e00fa2333da.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5131505737dacb3b51134c5c6df0306e5ac2f86a17a0b3aae03b9c82c5c3b98b.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2164ca2d41d50dce9cba1bbc528487a85a5fb5e519547676d222f19a74efb07c.jpg",
+			"name": "Avance para lanzamiento Xenoblade Chronicles™",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/343dd1e3801b9cf0cc7c727ef7dbfe5d0eec82c7b732432673963a2b6432e93a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "185"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/13b4474a7d0d0027113f6c76d044579e7f7db432d6a8772dbbffa9c8f1fc574a.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "185"
+				}
+			]
+		}
+	]
+}

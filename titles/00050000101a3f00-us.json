@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101A3F00",
+	"eshop_id": "20010000011286",
+	"product_code": "WUP-N-BHPE",
+	"name": "Heptrix",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1336,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/dda697a61ce18e40f70f8ad453f1fcd21ca106341d02ca25a97a551ac6da0527.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/282b7274484c415594f2284573bed253402892998b46ba0141f6c4c4fcf86e55.jpg",
+	"data_size": "166527116",
+	"description": "Like the famous falling blocks game but with seven blocks each piece. Clear 7 lines to complete the level. Each piece landed give 7 points. Each line cleared 70 points and increase exponentially by the numbers of simultaneous lines. At every level completed, the speed increases.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-11-27",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/1c7485f31e17084675d9acef469c60aeba0f24fbab1daa2328b17130fc571913.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f6459ee328498c8e0e40a33c12e2ab3ed066229d6e144069757f88e00e29c658.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4ec9a4598c6f0ebef4d8e66a676dd8daa315c2d01c96b204666dc064547c07f9.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d6f60e66e525b6da6b10fb07f5911885b042217da0eb242c0176d1cad97df40a.jpg",
+			"name": "Heptrix Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/18c8fc16c904d9c86324352ed91e6b85bff624ede54758514397e6fca985d857.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "88"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5ff29bcca069aeb9f3570a03adb952a92029a26d6a430004ff47bd35675b165f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "88"
+				}
+			]
+		}
+	]
+}

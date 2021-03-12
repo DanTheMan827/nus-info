@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000C2700",
+	"eshop_id": "50010000012830",
+	"product_code": "CTR-N-AMZY",
+	"name": "Mahjong 3D - Warriors of the Emperor",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 1187,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d6da08810e82f6dc1a312a39615759108bc05dc34173c34966132d8ebe190a26.jpg",
+	"data_size": "69065572",
+	"description": "¡El famoso juego de mesa en 3D, prepárate para la mejor experiencia Mahjong de todos los tiempos! <p> ¡Haz historia! Entra en el campo de batalla como un poderoso general y conquista el imperio chino con la ayuda del emocionante juego Mahjong. Sumérgete en el entorno 3D y vive una nueva dimensión en los juegos de mesa. <p> Resuelve más de 160 complicados rompecabezas de Mahjong. Te ayudarán los Power Up especiales como Torbellino o Terremoto. Construye y juega un número inacabable de rompecabezas en el editor de niveles. Disfruta de una historia llena de humor.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2012-12-27",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a2bfe72350b905e35284d725d254714257f5f4e621ae3de04f844c1365547a68.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a10cfb6d094060229abe30feee9bac53f9e075a97aa817d9f088b59d9f71ebee.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5a4c9245ffccb16df306d52f55fa65921adaf6d46c2538975784cc327e692084.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/3397c85ce667d8e02bc94ab5805f9a4b02591913237f5392afbac49b70d6c96f.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b897f7c7f14601e16d199641eb71e423e4026a945c7a5d6623d3b104c784eeea.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4b6f49e3cd686cf2ff5975aa457762acc6e7bbad635c0d01d3549534295855b7.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/25aa7139de0022017669f999d0d244d621c0d3f3fa5126a74ced2bc43fc22eb5.jpg",
+			"name": "Mahjong 3D - Warriors of the Emperor Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7bd9e47eb33962bfcfb5288bde3c16cd1a3206d286e7c94a653a272e8c82404a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "85"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d0f08a0091a81b973ca2ff60f98a8679282aaec1d1a555e8eaf18721d60b2b68.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "85"
+				}
+			]
+		}
+	]
+}

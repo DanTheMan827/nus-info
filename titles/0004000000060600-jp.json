@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000060600",
+	"eshop_id": "50010000014303",
+	"product_code": "CTR-N-AYMJ",
+	"name": "マリオ&ルイージRPG4 ドリームアドベンチャー",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/275a39dcb4490bd4060f0d8bf0c6855102cdfb9b67af6e2e18e97e671cbba7c0.jpg",
+	"data_size": "854809444",
+	"description": "マリオとルイージが力をあわせて冒険する「マリオ&ルイージRPG」シリーズの第4弾。さらわれたピーチ姫を助けるため、ルイージの\"夢\"の中を舞台に、兄弟が冒険の旅へと出発します。 夢世界では大量のルイージたちの力を借りて、敵を豪快になぎ倒したり、下画面の眠っているルイージの顔をいじって夢世界に変化を起こして謎を解いたりと、個性あふれるアクションが楽しめます。また、ヒントやサポート機能があるので、はじめての方でも安心してプレイいただけます。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-07-18",
+			"retail": "2013-07-18"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/705e4f641e65ed9829229e03cad69751f8bea2dbfe0b81695c16425f61aeebe7.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2ba19eb4e126c8d3168fb9dd5425f523cc978b420044d0a995fffddf0ed3cd09.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a0bf8e94d02f99476e971cb97f8610f3ee5491da1a834cc784cb3f73ab197200.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7c26ff1702c3b5b479a7e5077aeede30e4a4937e38038b1eb49ac0238d58289f.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/40ddf99a99e325bbae625d7cb6cd1260999797049b9a1eed3c7680c8ccafc6e9.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b07ab5261e073720b460dc0259f5c19aae0d699ce2be109d29b2bc9a5c484335.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d5406f00459ea17d79dff4fab225526ac9cac5a3db35663d2168c90809e5d6f6.jpg",
+			"name": "マリオ&ルイージRPG4 ドリームアドベンチャー 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/29369812152ecf918ba5ba830431fc099e6b5e9a5bab3b5d3e449c0ad3386973.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "316"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/064fa74e26ff73cd77a5283c0d1a31e4eaf60b5f4c616149c9e9b34301dff784.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "316"
+				}
+			]
+		}
+	]
+}

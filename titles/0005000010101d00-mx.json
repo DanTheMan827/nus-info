@@ -1,0 +1,70 @@
+{
+	"title_id": "0005000010101D00",
+	"eshop_id": "20010000000055",
+	"product_code": "WUP-N-ARPE",
+	"name": "New Super Mario Bros.™ U ",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1bd1ce3218b9a9205173e5cd971438f3669347e4dbabeaae3428763d54e1b889.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8402238488cad1130addd480bf7f2febde85c93c341722b89dd3b2571216f4ac.jpg",
+	"data_size": "1816199408",
+	"description": "New Super Mario Bros. U es una nueva aventura en dos dimensiones con funciones de Miiverse. Hasta cinco participantes* pueden descubrir nuevas formas de jugar gracias al control Wii U GamePad. Ahora es tu oportunidad de volver al Reino Champiñón y explorar nuevos mundos y nuevos poderes con Mario, Luigi, Toad e incluso tu personaje Mii y planear como ardilla voladora o flotar con bebé Yoshi globo. El Wii U GamePad ofrece una nueva forma de jugar, permitiendo a un quinto jugador crear bloques de apoyo para ayudar a los jugadores o estorbarles en su misión de rescatar a la princesa Peach. Y en el modo de un jugador, el usuario puede jugar directamente en el GamePad mientras que otros usen la televisión.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2012-11-18",
+			"retail": "2012-11-18"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/e5bed4360aa407656b0eddfc55b292f166c219f2aee1177e114ada2585430f39.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2407e9937a9eb91bc7b933bb168190c8527538a33e8f4b815802fe4b0c8dddd7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/60628ce0b1e856c7afbc53977abd806cbab6e40805c4b0ab5d3802a89f55a1ee.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/99b84a08b8f04076cbd1c2e5bdcbb1a5bbbcf86c38cdaae1a9caa9264f99a7c3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/02aa240a1e1f02482b3ea39a7ea91bf9fb2846a60fd9c053d7de7612fbde79a4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/63d7fdd7dcc3f527e6b225033326069473270cdfad1a238be24ac6d9955441a1.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6a90f70feebc3540ff84fc407d9ab40c9e87e1f7430e6746faae72d41d825e5b.jpg",
+			"name": "New Super Mario Bros.™ U Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/369f2468aac430e08102b3f13ea743c7db028f611878aac117ecf5ca0b0b6450.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "128"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0354cabff03e45cf1989c1d6f5d783b163c9d80948440c01aadb3f67e6e7d767.jpg",
+			"name": "New Super Luigi U Video 11/06/2013",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d5d54030768c440151d70a32511e88e092666580cd4b8ee1960fed126a8c0611.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "106"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/88a086b8ae38660bcb61851e216dc0abde7cffe8fe271468673e31ccfccc9a55.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "106"
+				}
+			]
+		}
+	]
+}

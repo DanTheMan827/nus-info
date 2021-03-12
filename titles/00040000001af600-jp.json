@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000001AF600",
+	"eshop_id": "50010000042078",
+	"product_code": "CTR-N-KMXJ",
+	"name": "新みんなの塗り絵 マイメロディ",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 358,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/1e223956b3e794978d41425075e17ad9e8c5605c78be1349d71739343ea1d292.jpg",
+	"data_size": "151231332",
+	"description": "クレヨンや色鉛筆がなくても、ニンテンドー3DSだけあればすぐに塗り絵（ぬりえ）が遊べます。 お部屋を汚すことだってありません。 さあ、マイメロディのかわいいイラストで気軽に塗り絵を楽しみましょう！ 用意されている見本絵と線画のセットは20種類。 簡単なものからちょっと難しいものまで、いろいろな塗り絵を選べます。 スタンプやコロコロツールの種類はとっても豊富。かわいいデコレーションだって思いのままです。 また塗り絵だけではなく、絵を勉強したい人にはトレーシングペーパーを使ったような線画を自分で描けるモードもあります。 ローカル通信機能を使えば、できあがった作品を見てもらえます。何度も交換ができるので、一緒に協力して作品を仕上げることも可能です。 『新みんなの塗り絵』シリーズなら違うタイトルのものでも通信できます。お友だちが持っていない塗り絵を送ったり、お友だちが作った自作の塗り絵をもらうこともできます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-12-07",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2380a5768790fc3389d36ef9660c46040c99ef04e3fe7e347a62ba5b95c5a79d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/15ea44e0cc87a8af98c8cf1c67ced560990a3844745573cec3727d4e55f8cbd9.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a903c2d9431a006a1db4c9a40654323cedc611afbfe4f9935dab815df0cc6bee.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c286b36921bc7a42124727ee50ad1e0a5ba48ea5636dbe2b0b01b31490e72e51.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f731613f56f1d7d05ee00efb7d35e6d76483a43c8a5612cc55edd6d5f91d8186.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/19a1d51df4280964483e20ae37c12a2125755ff7961083b31140426cf1ef0c19.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/24d896bdf30874c6948097ad0948a0b631f99218aaa71f3f2a669310af6597a2.jpg",
+			"name": "新みんなの塗り絵 マイメロディ 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6836951aa974fa3bac929bb46e71548e65e9a1490eb4015dd6ce2458349ccff3.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "70"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/79f95888e62b4dac4c956b695b74c95df114d218ba0b95b0a2346d61ebc4bac5.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "70"
+				}
+			]
+		}
+	]
+}

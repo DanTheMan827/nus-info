@@ -1,0 +1,69 @@
+{
+	"JP": {
+		"title_id": "0004000000080400",
+		"eshop_id": "50010000011627",
+		"product_code": "CTR-N-JMXJ",
+		"name": "ケモノミクス+",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 223,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/693e0cc764ae1c0f9bad0a0dfcd82c212285d924060c06d604a2a5f8bd76ac77.jpg",
+		"data_size": "24341348",
+		"description": "『ケモノミクス』はニンテンドーDSiウェアで配信されたゲームです。 『ケモノミクス+』では『ケモノミクス』の楽しさをそのままにケモノの可愛さ、楽しさをちょっとプラスしました。 きっと今回もあなた好みのケモノが作れることでしょう。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2012-08-29",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/4c52af357219b0f7fe81606bac3cea7292205ef4aa0abe540fcdac7de90100d4.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a29d448d38152d65ae95b79dcdad2d1822fc7578704526f6d6e2739dd29106cc.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7f6240a63dc307d29570c8ed42902cf78e5b6258efa8cc29156f5d504167fcc9.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/78300e442c28945109d7bf8ad902e31c20a05727e1a63af31f125beb5f6d1e29.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/644f2f0033d83f71975802f4c8834d494387576cf9f92f982d76e4c7e055a4cb.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/80a0c6716a2791b1a7d8e397e4337580d173e6409c679ea567bd59d148409555.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8206f01c54a049437fe5af8b912abbe5ca78a0088c3a56e70c52319f3fe988fd.jpg",
+				"name": "ケモノミクス+ 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3813d8c9a3440cc0bd281f87c59c1d35836e22f40854b4c03b3dd41402a6fb71.mp4",
+						"width": "640",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "94"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cce2a00fdc3f82d690d082b16cf5ebfd02e367fcf3ec1a21c395575edb8df342.jpg",
+				"name": "ケモノミクス+ プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/89808951f88108df31992d82d68a3cc94a2e180352da776e64589b5ee728df4e.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "56"
+					}
+				]
+			}
+		]
+	}
+}

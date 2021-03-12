@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101E2C00",
+	"eshop_id": "20010000022947",
+	"product_code": "WUP-P-BDYP",
+	"name": "Bit Dungeon+",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1331,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/555bd043592994a0f10218b86b0c7f234457d225a03ae5cbce144283f67f9f6a.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a29d0a92d1ba1f1c49d34975e47e0e6f014263e58a606bdedcddaeb588eef353.jpg",
+	"data_size": "343670944",
+	"description": "Bit Dungeon+ is a two player action roguelike endless adventure. You and your loved one were captured by demons! You have been trapped in a dungeon for a thousand years asleep... You wake up trapped in cell, grab your weapon and let the quest to find her soul begin! Explore randomized dungeons and hack and slash your way through dangerous bosses. The difficultly increases as you become stronger and stronger. Build your character how you want with deadly passive abilities.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-07-14",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/dd55651c7371aa4cbface4b2b7674202761f729f80913437522313cf686dcff1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/236a1b9b1eac1605cbb62c1e80b203330321ca7967a0e1d49065f3b70dbf9ab8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c7141c7d0b6803eacc28bc6631eb1f302af47711961ecc8bf593d7dfaf373b7a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/58933831b16d92fb20e6f9dbd7e4920de83c7f95b45e537ccaa50d629ab8f580.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/00fef32f386864b87abff2dc8e5b292b0b7b284204d1e7b0dfb90de327ac6688.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f6da144f1cf6623a48fa639bc54c40096076ceeb8ee1df43e1415138f0b9b003.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6148641f23c6be43dbc795dc3fdbf7a5cac8d84ceac460a6b0e384db55800ceb.jpg",
+			"name": "Bit Dungeon+: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/14d30e92c863a78280198b41d5aa6c1de6e11c9e5e1bf05d1617c6417c20c5d3.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "67"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/11d8559ff47337dc4e8ea52e857222c2554fb59345911c423478c7833d967e4f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "67"
+				}
+			]
+		}
+	]
+}

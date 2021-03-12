@@ -1,0 +1,79 @@
+{
+	"title_id": "00050000101CE000",
+	"eshop_id": "20010000020148",
+	"product_code": "WUP-P-ATVP",
+	"name": "Typoman",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1731,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c680cb32cfc4d160250fba1317093a083b8d745301ed227c5a3964463b67614b.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a5b1c6e2dee37cf3c8e82392ada1e4eb5928dad85e4ff327fdfc0d221bcc1e4e.jpg",
+	"data_size": "744915124",
+	"description": "Typoman is a two dimensional puzzle platformer distinguished by a unique game world. You slip into the role of the HERO struggling to make your way through a dark, surreal world. Despite your small stature you have a powerful gift: You can use letters to alter your environment! Dive into a dark tale of heroes and monsters, where words can either be a blessing ...or a curse!!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-11-19",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/8e02039058589cd554cdfe27e8ca41992b3ce84e58cd20dcdb516b34afe12014.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/827f12547ab346e0e21165b722c226ed40705c9c5b2a0c0343a508e0495eeff4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4902d96f47410e14bde91d25e84a634a39b2ded8300cdc5be3d6bcfb4e7d4fee.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9b5c1674b2e69d3196df6c4a046c654de757aa7cb588a51aef1ac26e47a82cf9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4a18f495ff9f27416c01427ed88584b1cab5fd2529af07fd7507c28e177d9b72.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b8f248ff620cf619e50016167d001a41455e8306ce89a5cef05263fa4408893c.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fdd3565169c2a0b38186b57d2a50f8814edce49e948bd15e88e16aa2255f662f.jpg",
+			"name": "Typoman: видео геймплея",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/812febfc5ae0744a9765d631ea4e4eb4a5f4529f39d7db65d147d3b974f0edad.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "102"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/80bd7a5f0cc6e860fc2a77315cf0ff9166f414cffa41b5a15488d657ac17b46f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "103"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/279e5e5cadbf6e6ae62636dbbc153b4ada123556116fc56d75744fe09318cf9e.jpg",
+			"name": "Typoman: трейлер",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3e437424a0361e657b4be96238eaa28c1ffea2e0a53249f5196e8560851cbb80.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "137"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d51ed95831ab6a457b2302d11e5ef9923eeb0acb118856b9e66bc39c4d44fe75.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "137"
+				}
+			]
+		}
+	]
+}

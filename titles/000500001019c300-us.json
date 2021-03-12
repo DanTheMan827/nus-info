@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001019C300",
+	"eshop_id": "20010000022567",
+	"product_code": "WUP-N-BTXE",
+	"name": "Terraria",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 4,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b789ff34bca1c3ccb0ffe35c474e00f339e05a1b7adb98171e9535ca2359c28e.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/21747d3f6c3490e4328da71e11d1677afdbb27ac2da4ecf36c9e621dd7c789ea.jpg",
+	"data_size": "230457484",
+	"description": "Carve out your own adventure in the infinite possibilities offered by Terraria! Explore vast fantasy worlds by soaring up to floating islands in the sky or excavating down to the depth of the earth. Wage war on hundreds of different enemies and giant bosses with weapons and armor you’ve crafted yourself. Build amazing structures and dwellings with ease, laying brick and stone with an intuitive touch interface. Share the adventure with your friends using online and splitscreen multiplayer. Intuitive touchscreen controls allow you to reach directly into the world of Terraria, and fashion elaborate structures with your fingertips. Up to 8 players can inhabit your world online, or enjoy up to four-player splitscreen using Wii Remotes™! Post in-game accomplishments on Miiverse™ 14 different game environments and over 150 enemies including monstrous bosses Over 100 different block types, numerous decorations and hundreds of weapons, armor and other items to craft",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2016-06-16",
+			"retail": "2016-06-28"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/45dc376ded0d2a8615d79685fc9989000d22c05a03f35a01f2198c79405a358c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ff1559f963d8cb585e234752a0700acee774cb226a844b60836aaa34bb81fbd5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e43a4da0872d3c030fd16ff2625c8f47461147497fbab11633174d7cec0a2286.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8cef664ee202ab60d3b233bc967e216548905c0fc059ea6a7bed86c946d71d99.jpg",
+			"name": "Terraria Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/56070aa03e544e8c8b349bbe43ed4ff3cc5b2253e29ae2adcafaab136cb9f112.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "62"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/840e3b5d5e6daf6d255264fa55d895f0b7fc5aa73763f9bc43d390c7c3d19781.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "62"
+				}
+			]
+		}
+	]
+}

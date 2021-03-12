@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000001AE100",
+	"eshop_id": "50010000041631",
+	"product_code": "CTR-N-AEVJ",
+	"name": "進撃の巨人 死地からの脱出",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 267,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/09cb293198a5d9269ea6314131701266ac1687579420a8b50291724c56999939.jpg",
+	"data_size": "497896292",
+	"description": "TVアニメ「進撃の巨人」が\"戦慄の脱出アドベンチャー\"となって登場! 物語の舞台は、人間を食らう脅威「巨人」がうごめく謎の古城。「進撃の巨人」のキャラクターたちとともに、いまだかつてなく絶望的な状況から生還を目指す緊張感あふれる脱出劇が展開します。 さらに、ビジュアルや舞台背景、キャラクターボイスはTVアニメ「進撃の巨人」の制作スタッフ・声優陣が担当。 追い詰められた極限状態で垣間見える仲間たちの意外な一面やエピソードをドラマチックに描き出します。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2017-05-11",
+			"retail": "2017-05-11"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/9b04fd305f5b48d02f40052e48a81d7906d1ee572824846d90cad8cbc7ec1e8d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/eb1855e652ba0c418a4279cc21cd7678d1a7bc9f243b42c0503ecaf884a42abe.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/856ae409096340b9bc93a55d62b6694b644c3eab8cf7ce1e624b2abf599a2ef3.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b76dc8b5ba5260acf6cee92a2f1f43b9711de058172eedf5042755877421f73b.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2eed1e940cb6a460d6d2c5da5523412a1f2e4a1566303e8efc0fe5c30d47940d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/301083d2088f7240d64876639925c6e64fec8295ebd4d1ac4768bb7b11d3181f.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/52af1abe7b82a6d0466d60efe990bb128e4aed494fdce25053d37dc0397ace71.jpg",
+			"name": "進撃の巨人 死地からの脱出 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/552c8c56a0dd76390d7ec2df3269b430af4030c9ebaf11e8fde55a30abd304f8.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "113"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2472bb82bb669964878fb02ad86d99762b0d2a7ee9663c5cc140654fffe5cb87.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "113"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001017F100",
+		"eshop_id": "20010000009947",
+		"product_code": "WUP-N-FDPJ",
+		"name": "がんばれゴエモン外伝2 天下の財宝",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 149,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/860676e8d75169ed22303fb98032d24e2ae0319c10ce4b5fffb5665e333b0e4d.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/2cdf66f8c67a2eb5607cf4dca38092f484e8c3ab026ef8be7357b3446a51bbe4.jpg",
+		"data_size": "39026848",
+		"description": "このソフトは、1992年に発売されたファミリーコンピュータ用のロールプレイングゲームです。 「世界ドロボウ大会」に出場すべく、旅立ったゴエモンとエビス丸。敵と戦いながら各地をめぐり、優勝に必要な8つのカギを集めます。立ちはだかる敵を倒し、出会う人々を助けながらの2人の珍道中はユーモアたっぷりです。町や村では買い物をして装備を整え、人々と話して情報を集めながら旅を進めてください。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-05-20",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/56a857b9da422be1989481d3d4f1583036d0f613c6974f349db44c94db43c848.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/34fa8578fea2ef001d5c44492e9928a2d75ed5e15b5a64d4dfeb7c2ae9a7bbc1.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/4ffcdc7a4ee890116b0422dd0380fba4b35797fe2978a44352e28d47e1c936c4.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5e49233703f5bf10aaff1afe4ab53351bc42a86eb1961d39cbfaf02973861144.jpg",
+				"name": "がんばれゴエモン外伝2 天下の財宝 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/40b38f152686015b24f301f7bd19b443d8dec19cf7028e9f1fd12b2f62d6c8e5.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8ba416db4216605e6847675614c3e735a8fb328f0443b69e621c6bf897ffdb3c.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					}
+				]
+			}
+		]
+	}
+}

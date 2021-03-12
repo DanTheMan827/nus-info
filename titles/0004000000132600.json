@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000132600",
+		"eshop_id": "50010000038458",
+		"product_code": "CTR-N-AYNJ",
+		"name": "マリオ&ルイージRPG ペーパーマリオMIX",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/1e83624614f1be8d69cc6827eceb40bdff22a3779c44a575353e4834d09bfbac.jpg",
+		"data_size": "418868068",
+		"description": "不思議な本から飛び出したペラペラなピーチやキノピオたちを元の世界に戻すため、マリオとルイージが新たな仲間“ペーパーマリオ”と共に、3人で世界を駆け巡ります。マリオとルイージが力を合わせて冒険する『マリオ&ルイージRPG』シリーズのタイトルです。",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-12-03",
+				"retail": "2015-12-03"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b83de4704d56271aa89eb15b4de5a3177018c152bce8deccb5519577cc2a655a.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/11507b673836408e4fca10e0c1aae3b6479a75afa98f5aba33f6b2b9831069e3.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d980cf15c0828cf26701addcf1652e28fd18251835e117323fe55d4fe7ef1d41.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/29028f82c6a7e6c6fd920f2fe6b65fb2cef5fc1f36238765993f2c98fc1e8049.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d5fcd95a3346b3f3b77f9e0b08d9a84185009e1889d8068ac113fa4a437e01a8.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b52bf4a6eb345f9f67d9d1c2ab821d8600b9d2fdba05dfe2c6c02e8f90d65c4f.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/42ee276014fe423de2ff7265f3fc870159b7147351006e37192d8cfe3c31d9cb.jpg",
+				"name": "マリオ＆ルイージRPG ペーパーマリオMIX 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2b212807f02edd464ccaf4bc82bc2ebb6d96c841b99dbbba5dc09fc5c08063f0.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "296"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/200ab1dd12501ce60bfa93e1008797616fca14349037a34954dc7cc019ccd34b.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "296"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010179A00",
+		"eshop_id": "20010000006826",
+		"product_code": "WUP-N-DAAJ",
+		"name": "東北大学未来科学技術共同研究センター川島隆太教授監修 脳を鍛える大人のDSトレーニング",
+		"platform": 169,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/619971236d0eea144981f7a45d261928fc14cdf90c2bbcbd8cef8c89ae97a908.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e2b5421f2fd381f87591bacee1718fbc4fe9e085d345ba022205faa7b8168a5b.jpg",
+		"data_size": "46465144",
+		"description": "このソフトは、2005年に発売されたニンテンドーDS用の脳活性化ソフトです。 脳の機能は青年期を過ぎると加齢とともに低下します。しかし、毎日積極的に脳を使う習慣をつけることによって、脳の機能の低下を防ぐことができます。このソフトは、簡単な計算や音読を基本とした脳に最適なトレーニングを毎日楽しく続けられるように作られています。3つのテストで脳年齢を測定でき、測定結果の推移はグラフで確認することができます。1日数分のちょっとした時間を利用して、効果的に脳を鍛えましょう。 ※おすすめの画面レイアウトは「縦もちDSソフト用レイアウト」です。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-08-05",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/6c8aee3b1522fbdf9af9b1333daa1e4522501775c2ac7dc735a55929710346d6.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/223f578e797f352dae7e2227eb9854297fc56465f3b105d470e38f6f8ce56d92.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/c4f73c19ef90715afaa2d7d4f759f06f4ad4f78ec52f167f362696116aaa9687.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1185b540a94c823f6f872698255ab502d9173e27eb161d97b26a7bcc103a26e3.jpg",
+				"name": "東北大学 川島隆太教授監修 脳を鍛えるDSトレーニング プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3321422f17abc9c24b30e35e8541cd1ed01a55e2ee020bafe3012895e43ac584.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "79"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/758a3a1b01fb8b6c4d02f88a3fbb90785c8dcb7368fe6f9282650f6b3bc5a082.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "79"
+					}
+				]
+			}
+		]
+	}
+}

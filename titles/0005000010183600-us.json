@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010183600",
+	"eshop_id": "20010000012149",
+	"product_code": "WUP-N-PBHE",
+	"name": "Pokémon™ Pinball: Ruby & Sapphire",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c8724707561a4306114e3d54dd9c012f4cc6c59101de2f0a443a117203300b7f.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/23bdb791a224562269449e74bb561aff415fbbf0f5db40c28d1830b03bf58c46.jpg",
+	"data_size": "76611724",
+	"description": "Much more than a regular pinball game, Pokémon Pinball combines fast flipper action with a unique way to catch your favorite Pokémon. Control the flippers to shoot the Poké Ball at targets on one of two PlayFields. Play on either the Ruby or Sapphire Field to rack up as many points as possible. Catch over 200 Pokémon—featuring characters from Pokémon Ruby and Pokémon Sapphire!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-01-01",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/810f5a3c7478e636c2f692602ea0e388e8149b26d39a7c6bfd21ddbe4910dc26.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1f96a179a7275ff8e6806dfda8ff9b52cb39a2b749071e9c98202d8ee81b994f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/80c2b74e0b52e1ec8faf493f4475f969a14afd7fc01726e1418df2c8a0324875.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8cd427dc18a59d6ebc80271b380f86f30eee2013a2db3d1acf35f9d71b958898.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c68c93c4a9d863369b97904251e65013ed583dd167a2631ab1e44a1c3c5f5c76.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3d7bd9624ad90ebf41f27b0de2018f9c39422ec3b815cd40ca716e99447e383a.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3c7ea08672855416bcb48b574464bfce4958a2ec75892d85db72ac54b7dc406d.jpg",
+			"name": "Pokémon™ Pinball: Ruby & Sapphire Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/92b335baf84f3a430d191db072cf05e579880b6cd6ad164d714797e2236dced2.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c0627e2a5f41b66ce81609c5e1d22f818a7153e7c5d016b9ee248c996dc63733.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				}
+			]
+		}
+	]
+}

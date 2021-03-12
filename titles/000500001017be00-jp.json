@@ -1,0 +1,76 @@
+{
+	"title_id": "000500001017BE00",
+	"eshop_id": "20010000014047",
+	"product_code": "WUP-N-BXAJ",
+	"name": "じっくり絵心教室",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e8ea0a32b606836998cb100db0505ea6b3ae244da3acb77950d8ae6d1668d4f7.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/911511042714a62eb2b44b7d450978c87e29d9a22e176a19f610d2c9d4b0950e.jpg",
+	"data_size": "5261656584",
+	"description": "『じっくり絵心教室』は教室に通ったり、画材をそろえたりする煩わしさがなく、絵を上手に描くためのコツをご自宅のリビングで気軽に学べるソフトです。レッスン以外にも、テレビ画面に映し出された参考画像を見ながら絵を描くなど、自由に絵を描くこともできます。 ",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2015-11-12",
+			"retail": "2015-11-12"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/3ef9db60b9e2a1a90bdcfb367355e2e6207e73120e2790e13217095afe5026c4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9e80f819479c0cc94ac41b105b66c6382227addd78ad953fb8d387d3381e6b7c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bee1ce3d6eb1b50b3cd55aaf804e713c67e7b0d9b7e95d1337a2dab9bf0fe304.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/48d38c7f10ed62ed7f0179c29883d2a1b070ae27c2ace2072c25266b28b4e4e6.jpg",
+			"name": "じっくり絵心教室 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b185bfd1d4e491f56d4b6a325077d1dfa22e05e83387fc064adccf69b7449803.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "343"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9b9b5f6bb5ca3ac78ec4d269f4b0512ca3c0a0456c704e95504690acc0f0b4ba.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "343"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c8ff259de4a9e0d2c05fae1ecb9a0955afc2c88245f9d1f62b3b2a36158d098e.jpg",
+			"name": "じっくり絵心教室で お寿司を描いてみました。",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c3d3cedc06f4c91912d8c0ad54f25cc3d279ecd19dbb2398c1d7977953735219.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "125"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e8c7e6ba376db56b972eca98badea443089baab5fe1364e5c0faa0e7bc0227b6.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "125"
+				}
+			]
+		}
+	]
+}

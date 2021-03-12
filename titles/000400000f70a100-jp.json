@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000F70A100",
+	"eshop_id": "50010000042388",
+	"product_code": "KTR-N-CBPJ",
+	"name": "かいぞくポップ",
+	"platform": 1001,
+	"platform_device": "CTR",
+	"publisher": 1292,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/2595d65ddf34d42663af5e3dd69620a648793590b9d62af75509f9814a6990cd.jpg",
+	"data_size": "74672996",
+	"description": "まるで、レトロLCDポケットゲーム機をプレイしている懐かしい感覚が味わえる！ 悪名高きバブル海賊が島の人たちをバブルに閉じ込めてしまった！ 主人公「ピートJr」は愛用のイカリを片手に、彼らを倒すために立ち上がるのだった……バブルを避けながら、愛用のイカリでバブルを次々と割って、パワーアップアイテムを集めよう。ただし、敵は常に重力を操って攻撃を仕掛けてくるので、要注意。集めたコインで、音楽とキャラに加え、ゲーム内ショップでフェイスプレート、ボタン、バックライトの購入が可能。ポケットゲームを自分好みにカスタマイズができる。 さあ、バブル割りの航海に出発だ。イカリをあげろ！",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-02-22",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/aa4df13f9b94897b18b7aff8de9d48dae7dd6d803877cdd084bd9d47522ed70d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ba871587b9509d2e4155b06de06cfd0285b7b23b7c7df8952e59248dc4a500c6.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/4e13f6fb1d6bb7e1777ac7254721ae26cb66dee37180b548a640128cfcc10351.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e7ed02c095269c196ff1dc53261331c6bfbff98a502f4edf7215ac736f791b01.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c6eafe2d2a4e1f41826384e19c6d1ebdfe9e58df566e0ae2fca88662bbe5e49f.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d68c59cc88d1c9c194fa254a707b8db61b7eac88cbe4a5b72d66e86db6665bbc.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/eddfa79606c2d124c3f3f82f65334516fd469dcb9ba02ebeb82bc11cd2535178.jpg",
+			"name": "かいぞくポップ 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6d042bd56c334dce21fb722c5f33b471ebfef17c6a7bcc93889fa96430e43780.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "156"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d4977f67291770e3a0e23857f67669b9fb7140ad4a2be55f7b942e01f23dc5b9.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "156"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101E0F00",
+		"eshop_id": "20010000023020",
+		"product_code": "WUP-N-DA5J",
+		"name": "ポケモンレンジャー バトナージ",
+		"platform": 169,
+		"platform_device": "WUP",
+		"publisher": 210,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2e8b2560598f2fa2a67a3ec21f45ebd78e678d74d67103b1fa7927383d2a3c2e.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/fdd42fade0f769b3a927d064a0e160c46e79ed62c5d407847ca6d5c826c629b2.jpg",
+		"data_size": "76841080",
+		"description": "このソフトは、2008年に発売されたニンテンドーDS用のアクションアドベンチャーゲームです。 ポケモンレンジャーとは、ポケモンの力を借りて平和を守る人々のことです。アルミア地方のレンジャースクールを卒業してポケモンレンジャーとなった主人公は、ポケモンたちと心をかよわせ、力を合わせて、さまざまなミッションをクリアしていきます。 そのころ、アルミア地方ではポケモンが突然暴れ出すなど、不可解な出来事が起こり始めました。原因究明のために活動していくと、ポケモンの力を利用しようとしているあやしい組織「ヤミヤミ団」の存在が見えてきます。ヤミヤミ団に立ち向かい、その悪事をあばきながら、トップレンジャーをめざしてください。 ※おすすめの画面レイアウトは「下画面 重視レイアウト」です。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-07-27",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/4c8afc9adcf36ad27b4c633ba495f56409e239f3752858bf509d39a8a6e9c111.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/fb7f558472664766cd680f21a35c37d6618512e33d597ede25343ec086c9d3ac.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/fd33916e986951034ea22ccc671e739b21b57b1ef8fe9e21d7de228957ce0dfb.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8b0907913b6f2715c3b090a98f45def11dd27d72add51fc292b34589443e7254.jpg",
+				"name": "ポケモンレンジャー バトナージ プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/71def9605c86c6448620d95cf7599e745947a868c3c68308612ded1bd284369e.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "73"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6d858d641bf936266de072ba1121b36404e58d7bf9f5790af548ed80d35a4afc.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "73"
+					}
+				]
+			}
+		]
+	}
+}

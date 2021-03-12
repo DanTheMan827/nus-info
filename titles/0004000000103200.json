@@ -1,0 +1,87 @@
+{
+	"JP": {
+		"title_id": "0004000000103200",
+		"eshop_id": "50010000017521",
+		"product_code": "CTR-N-BWNJ",
+		"name": "わんニャンペットショップ",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 367,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8458e4dece4f9f0528fcba4c0724146f46168dc20bc5949d4b6fe2599da3ccc9.jpg",
+		"data_size": "419384164",
+		"description": "今日からアナタは、ペットショップの店員さん!わんニャンたちがステキな飼い主さんに出会えるように、ベビーから大事に育ててあげよう。 ごはんやシャンプー、トリミングなどのお世話はもちろん、レジ打ちやお掃除もがんばって、店長さんをめざそう!休日は、着せ替えやインテリアのコーディネートも楽しめるよ! ●人気のわんニャンが30種類登場! ミルクをあげたり、シャンプーやトリミングをして、ベビーから大事に育てていこう! ●自分のお店を持って、自由にコーディネート! お店のお掃除など店員さんとしてのオシゴトもがんばると、自分のお店を持てるようになって、自分好みのインテリアにできるよ! ●アイテムコレクションも楽しい! 休日に洋服を買ったり、ヘアスタイルを変えたりするのはもちろん、他の「あこがれガールズコレクション」とすれちがい通信が成立すると、特別なアイテムがゲットできるよ!",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2013-11-28",
+				"retail": "2013-11-28"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0abed33afa82ad1c358dae1cfe888b5f32a8b01ca5df5618095d126cb517a942.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/355318990131d02a25317e689f99c56f2606767198ed98353f1fef858bfc4ecf.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/11e607f8ca9fd2c4eb1a5ee793d6646f58343218a428fc61704b34d66624dd68.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5663bbce9ffa7b71be39efd7681345f2b7261be52ffb98c7f4e29c1b1bd45fe0.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a5ccfdedc5f55632d786be625c2a868b1cb0f8d9e9c6b2f3c8081b5d40a015b2.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/88c3a74e1b15d62203cfc44a77ec116f97f5425a6f6492838f454ebfe09c5a0a.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c36ac22552f3f5d2be3c2c83fbd5db74a128844dd2efa8c28c65de401919b9a6.jpg",
+				"name": "わんニャンペットショップ 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/db31554e260ef8929b78f13cdcb56c9f17ed094c081b5c12729dd5b55a9e4bfd.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "142"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4ce2aac1779b2b4e2a00202469f025fcefbc280d3378616e956c05339fbd601d.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "142"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0688e00c8f7043027c41896eecd11121a4a99fada12cf51bd66a950a63954360.jpg",
+				"name": "わんニャンペットショップ TVCM",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/56ed314eec6841a7f429eaa53cb626e35e4bff7afb0ebf20e74a8fa7cd48535e.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "30"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/90ee2a3cd3b1399873add6b7a14cc03933d203a6ba7a7f34336d5f0d7bdc5366.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "30"
+					}
+				]
+			}
+		]
+	}
+}

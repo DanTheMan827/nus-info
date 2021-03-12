@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010185F00",
+	"eshop_id": "20010000009387",
+	"product_code": "WUP-N-FDYJ",
+	"name": "スカイキッド",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 27,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/54d27b1fd1e4afa1b5fc6e9f28299a1e4f9a503f608e65571df38bea78237315.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/662e5a43d2f2d113c77e1e6c2cbdac018f3c17426c51d4938ff2913d75c95aae.jpg",
+	"data_size": "38731936",
+	"description": "このソフトは、1986年に発売されたファミリーコンピュータ用のシューティングゲームです。 鳥たちの国バードランドに攻めてきた黒い軍団「メカズキン」に対抗するため、飛行機野郎のバロンとマックスが飛び立ちます。機銃や爆弾で敵を攻撃したり、宙返りで敵の攻撃をかわしたりしながら進み、ステージ最後の基地に着陸するとミッションクリア。司令部や戦艦に爆弾を投下して破壊すると、ハイスコアを獲得できます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-03-04",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/a060eb225631f2a456161379bca33bd82604732fbb11364dcf0f5dfb274f97c9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7a5bf18ed04273f85d590c202fbad7fdbfea74c514c87426bfdd4f4854ad2a16.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4311b52a0075419e758262535e501497125458dfae04a820df70d5a0b052f97e.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6fab6f2d5950b292aee43861a155ff4e6268de71735bda0553cd9778be98bf8a.jpg",
+			"name": "スカイキッド プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bb1591cfacea7f3af500db1f416e5c845921a632a76ee6e5c2f648ecab538cef.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "53"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6c5b8399fb63d183b91eaaa2204310874d7a8917cdf98a1d9947b37eb47fd11b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "53"
+				}
+			]
+		}
+	]
+}

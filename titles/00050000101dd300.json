@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101DD300",
+		"eshop_id": "20010000019589",
+		"product_code": "WUP-N-WAEJ",
+		"name": "Rock 'N Racing Off Road",
+		"platform": 124,
+		"platform_device": "WUP",
+		"publisher": 1402,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/855b0cc73856c56d06fb66d87424529f7067d15a598d92ea9f73c28559845d8e.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c02e08e836c7225d7ca2a30d3ab6961b69a12f07a7c6bb22427812b4944eea68.jpg",
+		"data_size": "284557452",
+		"description": "最大5人まで対戦プレイができる『Rock 'N Racing Off Road』で家族や友だちと盛り上がりましょう。普通のレースゲームとは一味違う、レトロゲームのような上からのゲーム画面で、懐かしいけど新しいゲーム体験を味わえます。カップモード、タイムトライアルといった遊びかたで、誰でも気軽にオフロードレースに参加できます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-10-28",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/adbc7e04cfd3998451cdf5e712acad051e834a8ecae040f4e28034101125a747.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/b42031e72ac3d4fe79bab240a25f2dd55ea838dde1b6cc55b40cfc11a9f8185c.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/3fa1bb62b50b0008cbf4ceb8663cbdb6ab88eec41ac98728047ff8d323b73587.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fcf212f44e0a306ace630cde54ca059d5c740f13070c80744157c3b4dd0b4264.jpg",
+				"name": "Rock 'N Racing Off Road 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/48d5c8e1b3f0400cbd812b714896cd95575da0d2f880a57da391a5fe9142a113.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "51"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/59a243fe16f6a17c516863c0eaf415d8422dac1af3e2d6e418bed615c254555b.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "51"
+					}
+				]
+			}
+		]
+	}
+}

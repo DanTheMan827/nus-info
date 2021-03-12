@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010198F00",
+	"eshop_id": "20010000022427",
+	"product_code": "WUP-P-BTXP",
+	"name": "Terraria",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 4,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d3d3406f59eb05334b83c62bb9ead08a00696803fc020a0be90b1b1b292aebaf.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/56de94efcbf16b7d4197742307bc445d59b65854bfecbd841841a042dd7e974e.jpg",
+	"data_size": "214466700",
+	"description": "Scopri le possibilità infinite di Terraria con l'interfaccia più intuitiva che c'è! Esplora vasti mondi fantasy e affronta centinaia di nemici diversi usando armi e armature che tu hai scelto di creare. Costruisci di tutto, da umili dimore a immense fortezze, facendo semplicemente scorrere lo stilo per Wii U™ GamePad. Ti aspettano centinaia di ore di divertimento!",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2016-06-09",
+			"retail": "2016-06-24"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/b05aca3b4d9eaf7d31d24e674787aded086024136c8e72f0860d1ff7fc68243d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8e6f36eaca744a5c591dcabbe088324c3700610a7980a91ffaa56c307b2c5f56.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/39b44961d0a8424b8a982b37324ffc0460ad5a1431a0a95598bc678d529bae5b.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6d316a3fd0b6c7246f623aef3e957aae7be59b3cd6cc1df8dea2ebf78282b662.jpg",
+			"name": "Terraria: video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/552ea4b001baae8bbbae74e76b9d9535c65138f9ed7236cfac6f099eed43feb9.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "59"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b0cceb091b6188ca655c52f5520c9a7caff875728d3e0a170977ebf0b4aee42a.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "59"
+				}
+			]
+		}
+	]
+}

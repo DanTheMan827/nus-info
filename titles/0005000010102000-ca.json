@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010102000",
+	"eshop_id": "20010000000045",
+	"product_code": "WUP-N-ALCE",
+	"name": "Nintendo Land™",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8ac123265fc32dddd508b735a33b4dbb61e269abcf1027219a4f619f4a518c48.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0eb4b474329cdc6b6d6a5e0c680adbe04c95137114bd411882722bb2003dc7ed.jpg",
+	"data_size": "2989850964",
+	"description": "Experience Nintendo’s greatest game worlds in one giant theme park! Nintendo Land™ is a fun and lively virtual theme park filled with attractions based on popular Nintendo game worlds. Each attraction features unique and innovative gameplay experiences made possible by the Wii U™ GamePad controller. Depending on the attraction, players can play solo, compete against other players, or even team up to play cooperatively. Up to five players can participate in dynamic multiplayer modes in select attractions. The experiences change depending on whether players are using the GamePad, a Wii Remote™ controller, or just watching others play on the TV screen. Multiplayer modes require additional accessories required, which are sold separately.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2012-11-18",
+			"retail": "2012-11-18"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/b2e48f5810e0704b78db93a88ef214f4531acdd8b32498aafae5ddffed4ac2e3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5cee6ba6236d4348e2334d05101db4a574f79c2abaa39920762b6203e3ba18c4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e7c0c88ba60c5c6f9ce0752126701f56c371de45243088402e72a5e7efddd599.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2d662744c8b34e8f2a8799da45150d8c84e70067cf722c751df33175d74a5688.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/62c1405c59e94ff152f1896a370c61b1ef0e0f446eac3f76405627d28d3917f3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/487eeabdea6455dde2db7606d32dfc6cecb246bec1ab9ec2788123e0bb35e7cb.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0db8d7926250276b398aa78e374f72528902815b79fc5860416dfd8cc371f69b.jpg",
+			"name": "Nintendo Land™ Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/85e07479ef6df327b7c68b8587a58685e5e27a6412ab70f2783dd218f907485e.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "94"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8a3a08a0db1297e7937dd1929806333edd33884adb9c4111a1e0dbc179157c7d.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "94"
+				}
+			]
+		}
+	]
+}

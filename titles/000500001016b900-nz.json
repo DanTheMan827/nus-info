@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001016B900",
+	"eshop_id": "20010000007606",
+	"product_code": "WUP-N-FCZP",
+	"name": "PAC-LAND",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 27,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cfdc7a4c60fc38890568c2af34fc6ca5005d0bb99cfc3ac4a7954aa48c00a4c0.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/cacd87e297ce6b328335d04df4a756b50466719f19ba9e48e2b8374c50f1e797.jpg",
+	"data_size": "38699168",
+	"description": "This classic arcade conversion sees Pac-Man™ leave the maze for his home of Pac-Land, running and jumping his way through towns, mountains and deserts to help bring a lost fairy home, dodging or dispatching the ghosts who get in his way. Just like the traditional Pac-Man games, grab power pellets to gobble up ghosts, and fruit to increase your score. There are also new items like the helmet that allows you to defeat small ghosts. This is the US version of the game.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-06-13",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/db407ca95b3a996ff9bfcc3c7323dd1af5f294f96d3518315d1cf49456c292dc.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9106125b0670b523c94f98464968ed720fa8b8efc8d3a65d716d07120d6a65f2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/cb28123ad02df9e3b45a60cf30d3eec41349cec580c9517cb913f83df710fa2e.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0e4e4660c722af13244c1e8b8e515d1823cb57ebffecfd9d994e43bce5763e2a.jpg",
+			"name": "PAC-LAND: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3b9abe1a3958104b5cd935bd734382cc5db9e1ab52eb91562fd665e81fabf1a4.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fae713eb4b7172c1374d944be2d1cdffc69a890f8fb17685d224b9536a44cdea.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000001A0F00",
+	"eshop_id": "50010000041275",
+	"product_code": "CTR-N-KFJJ",
+	"name": "不思議な点つなぎ3D アイドル編",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 358,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/04fd46bcfb6be27e12e58082a69b70d5e451260a382e275142950d9a21b65f61.jpg",
+	"data_size": "164748132",
+	"description": "『不思議な点つなぎ3D』は、星神様が用意する点をつないで様々なアイテムを作り出し、地上で困っている人々にプレゼントするゲームです。 ■問題数は全60問！ 完全新作の本作では、学校やアイドルにちなんだアイテムが登場します。 さらに、『不思議な点つなぎ3D メルヘン編』を遊んでくれた人には、おまけステージが追加されます！ ■模様替えが可能に！ すべてが3Dで作成されたアイテムは自由に部屋に飾ることができます。 また、ゲームをクリアするともらえる星を一定数集めると、部屋の壁紙も変えられるようになります。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-09-07",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1e7fb6d2e7b5a6a2dcd4c33376d22320e15a36db0598db9e351bcf21e249ab94.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2b04dfd66d9270e1daa5202f478f68c12976725376b5f8a74371dc0d9f371ca8.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2876d4b05cd2299f020870a383e3989ffdb3f1170b0d194d75a507e2cae15b49.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/118aa78ad7deeeaf24195b935193dafaa1d18a3597c25ab87f94f4d027dba4b7.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e123f65735a0f59b58a34992ecfe61f842a41b107bd6320e1a87170301485b33.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/cd79839f214144ab49857aa3e555cdbebf3d1df51892a702d0524e4728173eaa.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bb9152c778356de44263b4dd0551805867087b3009f25bb88989a6806ee8cffa.jpg",
+			"name": "不思議な点つなぎ3D アイドル編 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9842b94c4b6b78701926e715405e331c6dc00ea97bb96b905a7b316673e6ac40.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "82"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/029cb4377c47556bee6b1aeb16ad8f7bfe1b7ab8eeaeb6c49d1bc1a560c46351.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "82"
+				}
+			]
+		}
+	]
+}

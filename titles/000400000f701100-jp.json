@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000F701100",
+	"eshop_id": "50010000039976",
+	"product_code": "KTR-N-UACJ",
+	"name": "スーパーメトロイド",
+	"platform": 1004,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9cc3582bd1bddb6edc776523ac4072c9c4039f5a65f4a4a07161a062a31857d0.jpg",
+	"data_size": "7555940",
+	"description": "このソフトは、1994年に発売されたスーパーファミコン用のSFアクション･アドベンチャーゲームです。 パワードスーツの女戦士サムス･アランを主人公とするシリーズの第三弾。かつて主人公サムスが戦闘を繰り広げた惑星ゼーベスを舞台として、奪われた謎の生命体「メトロイド」をめぐり、宇宙海賊との死闘が始まります。マップの途中で発見できるさまざまなアイテムを装備することにより、行動範囲と攻撃手段が広がっていきます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-04-06",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/96efdd5717f37ebdcb06d3b10681813bcd30bc4521fe77d5de139e5d3d2f4186.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8b423a35ce7785827f2da5ecefec4f4502e2cb5978c29ad4764af9954f2f21dd.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a4141e379a94a34b3a6eaa003d880263d37b8e08ec0bf9c6e7bc5871ee8a9aff.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d771671d551f8526edf4e8cae9cded436fbb71af5fedba319a4c14f2c604fcfb.jpg",
+			"name": "スーパーメトロイド プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7aa837e7735755deffab1a336d731fea385b842cb09210363dde04a673b00379.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "74"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/584cd2fb3c93c5f1f3648c8b30f405833f700815bc48da2cd53f7d6fe4acbee2.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "74"
+				}
+			]
+		}
+	]
+}

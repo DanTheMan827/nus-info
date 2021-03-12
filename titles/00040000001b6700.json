@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "00040000001B6700",
+		"eshop_id": "50010000042230",
+		"product_code": "CTR-N-KZCJ",
+		"name": "ねむネコ パズルでも寝ています",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 442,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/69abf5347a533e92ba1dea6720dfb345361994d0774cb25ad8ccfc521d0d3fc9.jpg",
+		"data_size": "49101668",
+		"description": "ねむネコたちが気持ちよさそうに寝ている近くでパズルゲームをしていると… なんとっ！ こねむネコたちがいっぱい降ってきました！ それでも、ねむネコたちはいつものように気持ちよさそうに寝ています。 もっとパズルゲームをして、ねむネコたちを起こしちゃおう♪ ■まったり遊べるパズルゲーム 同じ色のピースを3つ以上つなげるとこねむネコが降ってくるよ。 どんどん画面をにぎやかにして、ねむネコを起こしちゃおう♪ ■コレクションがいっぱい♪ パズルを遊ぶと、ねむネコたちの楽しい4コママンガやかわいいイラストがもらえるよ。 たくさん遊んでたくさんのねむネココレクションを集めてね。 ■ミッションがいっぱい♪ パズルのステージにはいろんなミッションがあるよ。 ミッションをクリアして、コレクションをもらっちゃおう♪",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2017-01-25",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8f29353afdb9370c4155cf176424b7746879a860163a3e1d8b584e086d54f82e.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/35ceada0291dd5368d87e2f74dc0883d6358a9d25b1b2998373aa31f2dbc1036.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5a71de57a464cf35f488185446d3bc8f2ff06461e66e3f9ecee2e7573d70faf3.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/47139137deec918734de0429c6d7d7eacfc47e16627c5afbeec2cc5d3afab919.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2a3c57e2b7940976d9cf586550c366100486a23fb609327f1a777b1c447883de.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/af886edd7a1b178975e39fefc268ca766193b1f36eb6f8626947718b7b68b59a.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/454de3bc2d2027ebb2382fecc2eae8186056d98eaeb5d8b2ca9ae137bcab005e.jpg",
+				"name": "ねむネコ パズルでも寝ています プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/317e5a763dbdc5b846bbc9288f3dad7ee3e10a410664bcc70eeecbfd7041307e.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "79"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/143ec7c983ee0ec4d81fac964b388483f8a3235e625790522ab324eca4277f41.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "79"
+					}
+				]
+			}
+		]
+	}
+}

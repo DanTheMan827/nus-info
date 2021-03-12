@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000FA800",
+	"eshop_id": "50010000020299",
+	"product_code": "CTR-N-BKMJ",
+	"name": "くまモン★ボンバー パズル de くまモン体操",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 222,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3aec440f478bdf2613c942d9e33f356537e01d15d8ceca5dbbb01d116b267aa7.jpg",
+	"data_size": "72817508",
+	"description": "熊本県のPRキャラクター･くまモンと一緒に、日本全国を巡りながら笑顔を届けるパズルゲーム。 同じ色のグミを3つそろえて消していくシンプルルールで、各都道府県のお題をクリアしていきます。パズル中は、くまモンとMiiがダンスを披露。 パズルで高得点をとるほど、画面がはなやかに彩られていきます。 さらに、「写真フレーム」や、「ARカード」、「くまもと大図鑑」も楽しめます。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2014-03-13",
+			"retail": "2014-03-13"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6ea65aedb7b0d967cc57a7ff29a07db6b36c4faef813bb3681285a01755de279.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9de2b4d367cb8638e1ceb99e5b7f09657d86d33686548e0272e5ce69d01166d5.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d7e51db6f7f22c23ecd71fa8c878352183fb6711cc842b6484fd1a56bad264a5.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/fb2f589427a8ea5858b47e93a550c7a4a575cb423e8897f681f44ecff543d476.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/352b6a3ed4307e95570ea820e2dae3af28e2b4a16dd6da435da098dcab5bcb5e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0548d7f7b1c97ebf7869842935af163ea760a1fc14fb691ea5dd99a9dc03cccb.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/066f49e6cae7383247d99205464c6df3e84fbc8f56b43349367e2d8b143c44a5.jpg",
+			"name": "くまモン★ボンバー パズル de くまモン体操 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/af70eb0d2dc91d8f6265c7e4f6d9c2548f839cebabc929792e479d7edfe523ae.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "99"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/63c1ddcbb8f7d2d353f32fe6925b8d1be5c0e7b019f0d67262230692c112bd38.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "99"
+				}
+			]
+		}
+	]
+}

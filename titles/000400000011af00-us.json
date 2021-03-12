@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000011AF00",
+	"eshop_id": "50010000029995",
+	"product_code": "CTR-N-TD6E",
+	"name": "S.C.A.T.",
+	"platform": 24,
+	"platform_device": "CTR",
+	"publisher": 179,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c4fb0577d82904021b363527d5a498a19d9cc83d50c072c78d0043c6dda639f9.jpg",
+	"data_size": "12700564",
+	"description": "In the year 2029, Supreme Commander Vile Malmort and his army land on Earth, setting in motion their plans for world domination. Humanity's last hope now resides in the hands of the Special Cybernetic Attack Team, or SCAT for short. Play as a male or female half-human and half-machine soldier, solo or with a friend. Blast and fly through relentless enemies and bosses while collecting power-ups that provide new weapons, speed boosts, and life recoveries. Your main objective is to send these alien invaders back home packing. Get ready, soldier. You're Earth's only hope.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-01-22",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b9fc9cd42964686747ebb911cd87389a0dcc9d417a9ff3fff1cd3ba598fab408.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9e436452472906c78b3b4d090962f469d431408aff50666d6628edb8ace704bd.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/677052b1241ad69e1c4a2896bac241193bb9c1bafefa1c9852ce65f046256c9a.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/224ca51cc599700fee7395235a66b31e20f22380d90ef0c0c7a55c117aaa1883.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f529ba36a3b0f238871b63ec5c4d81f98cb0177a97973ef7192fbb41fa7cd8cb.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e4d7be6403cf7e0b7b99959e809067d96c392a2dcf8f8c15128864fc47a72e66.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5bc7f2e1e7769421a16497072b57c47525ad3d91172b13440ecdcded2151e0d1.jpg",
+			"name": "S.C.A.T. Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/286c0fde0412942e07b2632e7697a1723c74b34fa799618a39251fc31214c33b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e7bb97afa937c0c8a55e234510f2104cc205026084f8358abed2ba794037ceeb.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				}
+			]
+		}
+	]
+}

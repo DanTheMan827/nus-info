@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001018B800",
+	"eshop_id": "20010000009946",
+	"product_code": "WUP-N-FD9J",
+	"name": "マッピーランド",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 27,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/723b63c005617267f05b4465546695aeb2783f64693f06b26ae63654308b6189.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/81cbaeeaa0940d308b83b8e2846b1dadba14933b888b3b11d9ede8b4224e0f85.jpg",
+	"data_size": "38764704",
+	"description": "このソフトは、1986年に発売されたファミリーコンピュータ用のアクションゲームです。 かわいいキャラクターとシンプルな面白さで人気を呼んだ『マッピー』の続編です。 敵につかまらないように、トランポリンやはしごを使いながらターゲットを集めます。すべてのターゲットを集めて、エリアの右側にある出口に到達すればクリアとなります。4つの各ストーリーごとに、集めるターゲットが異なっています。トランポリンに乗ると上下に移動でき、敵に触れてもミスになりません。連続で乗ると色が変わっていき、赤のときに乗ると破れてしまいますが、赤くなる前に床に着地すればもとの青に戻ります。足止め用アイテムや反撃用アイテムと合わせてうまく使い、高得点を狙ってください。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-05-13",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/98eeade70a7784aeca590892f40b9b30b7d408abe80a0a95b7577f0822525c0b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/394317aa68422ccfcff63bd8ab30050ade051bad30ae17cde17842b1e7786a12.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/47e91c6f89ddbf49c06db7455866d0efa0cc4f1793cb4879bfc9fb5542cbcc03.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/25297da3a1a9491b57762d5c5447a962ad088add5124d901233b4e7e39395781.jpg",
+			"name": "マッピーランド プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b966b365cd18c72e2d5135df33bdd09ca4d9f88efd5bf2add866e3401c65bb81.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b52d565662cdda3563af78e3d62b9d65338c2d1fe86953fea6e350475e4690c2.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				}
+			]
+		}
+	]
+}

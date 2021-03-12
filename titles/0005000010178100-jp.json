@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010178100",
+	"eshop_id": "20010000007646",
+	"product_code": "WUP-N-JCRJ",
+	"name": "すってはっくん",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2081255cee5b4e3b0ddbf8a0ca48d86c70f1bedb0cc7aa6509bf32e7fc4f0f60.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6328492a0a1cce3de039e6f9b2cf5c2e5affad7517f09375973ba4a75544a350.jpg",
+	"data_size": "43221152",
+	"description": "このソフトは、1998年にスーパーファミコンのカセット書き換えシステム「ニンテンドウパワー」より発売され、その後1999年にスーパーファミコンでも発売されたアクションパズルゲームです。 口でブロックを吸ったりはいたりできる能力を持つ「はっくん」を操作して、ブロックで道を作り、「虹のかけら」を集めていきます。「すべての虹のかけらを集めればクリア」とルールはとてもシンプルですが、どのように集めていくかはプレイヤーの自由です。 「はっくん」はブロックを吸ったまま移動できるので、吸った場所とは別の場所にはいてブロックを移動させることができます。ブロックの配置を工夫して、「虹のかけら」までのルートを作り出してください。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-02-04",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/2bd4413e5113cc57f40e41c2b83c7302bf8bfda6f588c4027acfdde69d8331d6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/62d6c5d7c9533e143ed401f32dc4c37ff1127c0946d776d01def082dd28e4c7f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f168f7f0bb9d2c27f887770c7ffbcc52038a16882fa999f7663b4661527febda.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/49f1978f9514af56b00de22ffe65524afffea418c1d870c1e2cf37ea0cc4b903.jpg",
+			"name": "すってはっくん プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d63addedc570a46de957a245d42923ea4cd36b9ff8a6b37f1d89b69eccff3490.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "41"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3043cb03bd0b53264cc83edbd5b10f2f51c78384431b3e82413ac0e10c0711e7.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "41"
+				}
+			]
+		}
+	]
+}

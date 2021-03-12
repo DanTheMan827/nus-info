@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000C3900",
+	"eshop_id": "50010000017973",
+	"product_code": "CTR-N-AZGJ",
+	"name": "パズドラＺ",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 1261,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f4aafcd379f48e2ff60970039768ca7c15baa944ab166d404ea80b37016aa01d.jpg",
+	"data_size": "793918308",
+	"description": "ドラゴンを操るドラゴンテイマーとなり、悪の組織によってバラバラにされた世界を取り戻す冒険パズルRPG。 同じ属性の「ドロップ」を3つ以上揃えて消すことでモンスターを操り、敵とバトル! モンスターを収集･進化させ、ダンジョンを攻略!通信によるモンスタートレードで、友だちや家族と一緒にお楽しみ頂けます。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-12-12",
+			"retail": "2013-12-12"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1b064ada0391d514fcb95835b3fb8346aada4d79cb138fc97e2ad11454cd2e09.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ce1f6c363df2bc28e31c989541e7c85499043d9411a847d8e080b27ccbc536f7.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/9bfbf40ae3c178de1c89f85a600395c9903646c7bcb10b859f2784360778c3a3.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/82cbc608f968c141ac3eff9393177caa495f3784c4514a022aa267f7a7157601.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bc319d871da290a861f496c049a7b15fdb05f4bac68da5494c7a24c15a623a0e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/251d422af54d076ec63b2372a332b033524bcf8a897467341947ad5ab357aecf.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5a2afb508171e505adfdae05eeba3bd1d600ed4e4a54d72b265c6af46f0832cf.jpg",
+			"name": "パズドラZ 紹介映像2",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6cef0dec0076c6fd0fb43a0e425811f217915d556634c8bca8d24def1a589789.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "282"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7a2312fc1c0693d3d4fe8c08cebb749de10960e43384502607deb8ae03cf02a5.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "282"
+				}
+			]
+		}
+	]
+}

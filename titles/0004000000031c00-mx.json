@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000031C00",
+	"eshop_id": "50010000000261",
+	"product_code": "CTR-N-AWAE",
+	"name": "Pilotwings Resort™",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9af14d3a6527356520cb0880752712e155f5dace105660bab5cc640315490089.jpg",
+	"data_size": "97082212",
+	"description": "¡Surca los cielos en 3D sin usar lentes especiales! Pilotea aviones, mochilas propulsoras y alas delta a lo largo de más de 40 misiones, o vuela a tus anchas en el modo libre. Usa tu personaje Mii™ y explora la Isla Wuhu de Wii Sports Resort™. Toma fotos panorámicas del mismo juego en 3D y guárdalas en el álbum de fotos de Nintendo 3DS.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2012-12-20",
+			"retail": "2011-03-27"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/10cb2289462a4fcda007ba1214edf1055e38fac5275d582717b026f1d57d4c6d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/35fe761c2af3b65337cec629f4dbf8824ba2eacb8eba6004e59fa37b4ba35851.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5336ce1c0df86b02a63f2a2c1a62d887012bfc6a928cb3770db0b67801f46303.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/251717887313bf2f3dc008b3363caa02c44d9244f7c378a0329c2beeb7e4ef55.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/98e50e5d89fc8c5c608fb97bd5df53601ac85d6bc92f9cbe8b8a9ebb805e902c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/918df310d42afef9dd7b63b39088dfe63c3f8cd3dd3b14e77f2420c296b48a40.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b0af566837d038096db109e778b0b496154ebb61aeb815c25924dec7fca29422.jpg",
+			"name": "Pilotwings Resort™ Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e857dc86c5c204c5dc2f428f78b0994bcbed49e0ae9b9e1ef238525fde862ea4.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "110"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ea800d30d87b45c278059009e881d08d838648add8461e8bd1f6518159d8b2dd.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "110"
+				}
+			]
+		}
+	]
+}

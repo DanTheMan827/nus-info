@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "00040000001A7500",
+		"eshop_id": "50010000042116",
+		"product_code": "CTR-N-KR9J",
+		"name": "ドローンファイト",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 237,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8df8330775879e72af3cde14a003b82a2da26cb8b724c0fc4493a8bed311fb15.jpg",
+		"data_size": "113212260",
+		"description": "『ドローンファイト』は小型の無人航空機（ドローン）を操作して、各コースを攻略していく爽快フライトレースゲームです。 ■自分のドローンを選ぼう 登場するドローンは全部で四種類あります。 どのドローンも異なる特徴を持っているので、プレイスタイルや好みに合わせて選択しましょう。 ドローンを選んだらレースへ出発！ ■自由に空を飛びまわろう 簡単操作でドローンを操ることができます。 前へ後ろへ上空へ自由に動かしてドローンを楽しもう！ ■二つのモードを遊びつくそう ほかのドローンと対決するCPUバトルと一秒でも早くコースを駆け抜けるタイムアタックがあります。 CPUバトルではアイテムによる駆け引きが、タイムアタックではドローンを上手に操るテクニックを磨くことができます。 さまざまなコースを翔けぬけトップを目指そう！",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-12-28",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/38b1bd06629d1ff8431a13b22315906240175de658195ce7623ebe383412140d.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e760f8fa9c0a4d602ded556bb836bf506de07bfcc527a22744b955f602f61784.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/34bb117b600e7a2d46c2dfa16827cfdafa0c548bb22a3c92d61b95e968833735.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/71b47f344ddd1f85d03f89ae5e8525996f6fdae8798209b1decc2f5b14c1a5c1.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/72b371e019874f48ada8a689ba438b642fa21b9bac118b7a7cffe73eeca134bc.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1689a82113cbc3e3b4cf8a28657f5a3fcb90f998bc5c0ec2bfb66882f409bb08.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2695c353439d877926f46c79c500d6a6a283f36ba30f5b8fbb35378dfad3606e.jpg",
+				"name": "ドローンファイト 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/09091be03661f004c0a16ac0b6312b3691edd0b77bd59d0c23427b596aec82a1.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "111"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8912b40eb06db295899dec28029e63dbc1c8ce4fcf4573da65bc96cc05abe934.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "111"
+					}
+				]
+			}
+		]
+	}
+}

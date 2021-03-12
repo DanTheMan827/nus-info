@@ -1,0 +1,76 @@
+{
+	"title_id": "0005000010199000",
+	"eshop_id": "20010000019247",
+	"product_code": "WUP-N-AVXJ",
+	"name": "マリオテニス ウルトラスマッシュ",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1a85e00819ee3078b8940b3002cb820051be01b336736e5fee9e86e0f4997d8c.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c9b0b63465c4dd55dfdd27a144b90dc4adf5824f8ad896f7c12026d63108db90.jpg",
+	"data_size": "887423176",
+	"description": "シンプルな操作で多彩なショットを打ち分け、誰でもラリーの楽しさを味わえる「マリオテニス」シリーズ。 新作となる『マリオテニス ウルトラスマッシュ』は、ローカル対戦や協力、インターネット対戦はもちろんのこと、シリーズ初となる「ジャンプショット」が追加され、ロブなどの頭上を越えていく高いボールも打ち返せる激しい空中戦が楽しめるようになりました。 さらに、試合中に登場する巨大キノコにより巨大化する「メガバトル」モードでは、大きさも、ショットの強さもメガ級の迫力テニスバトルが展開されます。 また、本作はamiiboに対応しており、育てたamiiboをダブルスのパートナーにして、世界に挑戦することもできます。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2016-01-28",
+			"retail": "2016-01-28"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/1b47f3ffdbebb328a1de361d84ad355857970c2a1046c1c288d4fa49a2612e01.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/605ccf315d6b6cb5f3ffb442ee0a43a84221c9897e9a072b8afc541b8a76118c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a605de6d00691beb94e1773e98c78db93b965c5989c5a04d314e8f6411a4127d.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/348c5c03a831189fd65158e5c104be10f818f64e08e72c7aac9f4e2d2dde01cc.jpg",
+			"name": "ゲームセンターDX 「マリオテニス ウルトラスマッシュ」",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3893954797dde6dfbac1b05b90a0e48ea819cfce66eeb5b9dea91f301e194842.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "2047"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/00e6a65a1230b145f38cc7daea88af5e57071e202cae932c6b55fdc64a6be63e.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "2047"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cbeec1585f2b400bf1fdd90f200924eef2f65e069ab69fc00c389342951910f1.jpg",
+			"name": "マリオテニス ウルトラスマッシュ 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5ec686b88b4f99ef98a8666cc65a4e606b668a83e3bb68adb0a6baa1bfeab362.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "304"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/05ea88203754f80e218cc06341a421d2b1fa929f9e5e6a2cf06982021d1d2311.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "304"
+				}
+			]
+		}
+	]
+}

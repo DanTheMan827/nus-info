@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "00040000000CC000",
+		"eshop_id": "50010000013770",
+		"product_code": "CTR-N-AYTJ",
+		"name": "ドンキーコング リターンズ 3D",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/51adaee8dadb680223125a952b729844d95f5fe59d92ab1f767daa8185852ffa.jpg",
+		"data_size": "2312915812",
+		"description": "Wiiソフト『ドンキーコング リターンズ』を、ニンテンドー3DSに完全移植。さらに、ニンテンドー3DS版だけで楽しめる新作コースと、より遊びやすくなった「ニューモード」が追加されました。 ドンキーコングと相棒ディディーコングのダイナミックなアクションを、ニンテンドー3DSでいつでも手軽に、お楽しみいただけます。",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2013-06-13",
+				"retail": "2013-06-13"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ea4d342f92f456037fe579793255f1ab85f97e069a8f2877e301a4702b894905.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/aa2df4d069f80b6afc4ceb1978a808e528c371a235a78d8e180688c2dd15272e.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6adb5e727abab2adcb4f37d2db841835c4c7e21525e66b979e0edb01adfb1439.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/20e1a5cc2d7a98143558d558e7c2d52991c67c229d990c5e27b5b3dae81dbe9e.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/729cd3d2390eb393252a90f1d06c33426d67e6e230e4e8c9fdeb1447339bcf79.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d0a149ef39074b7b7c5073cd64b32e6d733ca2fbf0513c683680cd60618c5ecb.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0afae6834eb3a5b137cf088bb4ba7a2447f23d3cb095bbab7a62a22a4833ddf4.jpg",
+				"name": "ドンキーコング リターンズ 3D 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d92c4ea1733393edc53a08ced54169c79336cb0c2c0f60fc68e14506d95cffdc.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "219"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/091ef526e932e0f813fd1986a34f7cacce5463f0743e03c41d7a2709eb437e08.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "219"
+					}
+				]
+			}
+		]
+	}
+}

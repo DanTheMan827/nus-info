@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101A7F00",
+	"eshop_id": "20010000016247",
+	"product_code": "WUP-N-ALGE",
+	"name": "Shiftlings",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 7,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/47198239ba3cfed59b85c1b4c562cdc69dc855b7b5ec68e28b6ee4baff0eca8a.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/05fc01799dc25394633791ed46c5bfccfb04fb08ffab36178bfef3a6319a165f.jpg",
+	"data_size": "2605908308",
+	"description": "Control two adorably dim-witted alien space janitors on their quirky quest to repair the galaxy! Strategic Single Player & Co-op Missions: Play on your own, challenge a friend locally. Over 50 Dynamic Interplanetary Puzzles: 5 themed planets with 10 levels each which increases in difficulty as players advance. Cosmic Challenges of Size & Space: Shift weight between the custodian cosmonauts quickly to avoid traps. High Re-playability: Blast back to the beginning to discover new hidden collectibles to unlock more secrets to the universe.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-06-25",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/e0541cf876e959e47832b4090ca9bf389dc0b73354582834ef12b59593a3b3e1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c777d4114faff5a326b603864804b8651ae867712102c7ba28b0f2ab85f8048a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0c8c831f0f35b9c1aa74886fb55a9343f17168732f597b5ce084f0d6c4ae4977.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/10b81069209204fe6f0a4c2cefdfad1e55e75581d8e72febed140b184d5f7e3b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8d122176274d9ef650d5a0506d172b6e46565bca40be61ca6a4db8f0128d92d4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/17883db47ab0e716ecf0154f9874d9760c7c7d9ab967a5031c99d938b96ce117.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/884882b8bd3083a0bf8d2456708efa94c033e2ee46e3e146b91bc0b7b6914f72.jpg",
+			"name": "Shiftlings Announcement Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/39fef4930ed16888d2ebc7e6d1316fe045627bf18678fbb0099655b66e389343.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "65"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8f3d292243eacae9ead09ae6a6060ca250369caa057d121690ef5c08ad32cf43.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "65"
+				}
+			]
+		}
+	]
+}

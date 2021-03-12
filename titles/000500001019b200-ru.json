@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001019B200",
+	"eshop_id": "20010000021607",
+	"product_code": "WUP-P-BTCP",
+	"name": "Tachyon Project",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1272,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/00871e8552b8df362e1c14451084ca17c00f9c42e063dd3382e9f8b4f72f5229.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/41140a886c8c2032c9f1f5227e08f5f60745fd37df4b338bf78e4e24d4929adf.jpg",
+	"data_size": "313163916",
+	"description": "Tachyon Project is an action packed dual-stick shooter driven by a story. Through the story mode you'll progressively unlock all the weapons, secondary weapons and perks available to configure your ship. You'll need them to face the increasingly hard enemies you'll find with over 30 different types (including 4 bosses). In Tachyon Project you take control of Ada, a software program that has taken conscience and that was designed to hack into the most secure servers on Earth. After some rather misterious events, Ada is thrown out of the test server where it was living and out into the Internet, but when she tries to go back there she finds she's unable to. She'll then start a journey to uncover the truth behind what happened to her creators, which she considers her parents. In the process she'll find out that things were a bit more complex than she initially thought.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-03-31",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/fea7f18997710b361987a1738b31019c206f8eee42d5accc8e23c452db3d6464.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f4e83022f2399f8819edba39310753d44cd75f715bd58ec826598b226b6ce2fe.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/14546948d299fe2f22b9b6cd39978363b4817c119adcc7d841c3ef68b02081c3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/80b8acd73520367be76743d2abb930ad01ee20c9cd8b34a5dd8a9d7a0c14ae7d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/177f25cf729e91ccf6226aea02dc5fea00fa337114f6b95cdc321bab4a879b3a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/aa407cabc2bd81e35d6a44dcb78ebe328945ee6780ee285c5a1b85156c1e4782.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ea2dde65d595344f9fc22da22919d7a9474481875c5622378c9229e5ab68057f.jpg",
+			"name": "Tachyon Project Trailer: видео",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/076117dd221290b175e3980d9795ca243da3aeeed4b90a7c6466eaa725150a4c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "87"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5a18a350455ec914cc2faf04710c877c1d5f499798711f30be04b046106b2808.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "87"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001019F900",
+	"eshop_id": "20010000024487",
+	"product_code": "WUP-N-FEMJ",
+	"name": "スーパーチャイニーズ2 ドラゴンキッド",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 416,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b6196414ed82124d4e4df5040a20d759b1719f2c765d8a692f8636c66d8fa69a.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/90d71e116130f2d0a84d6679eb77b5d64d6539aed7645589820f5e7963a141fc.jpg",
+	"data_size": "38994080",
+	"description": "このソフトは、1989年に発売されたファミリーコンピュータ用のアクションゲームです。 王様・珍の始皇帝が妖魔軍団に捕らえられ、占領されてしまったチャイニーズランド。熱血拳法少年のジャックとリュウは平和を取り戻すため、珍の都・ヨウカンへ旅立ちます。 ストーリーを楽しむ「おもしろRPG」と、運動会形式で6種類の競技が遊べる「おもしろうんどうかい」の2つのモードから選んで遊べます。おもしろRPGで「2プレイ」を選んでゲームを始めるか、コンビニ屋でプレイ人数を変更すると、2人で一緒に冒険することもできます。敵に出会うとアクション形式で戦闘が始まりますが、ボスキャラとの戦闘ではコマンドを選んで戦います。 お笑い要素やパロディがいたるところに散りばめられているので、コミカルな雰囲気が楽しめる一本です。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-10-19",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/11e212f3ab1a445f37f724e56dadba9aa781e8dd0b80cb58918b2ee6dd8d3290.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ebde85e2e18ffdb6ca4d5f7937cb6f88d2ba60097c350455537f686d95088312.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/79947debaf04f99f3947cc6637522e7c013860fb942ca3c25e9ee3d88b53624c.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d52e797e94e4ebc388f625e0c4654bc233b56050fde72a024c3825122db198f3.jpg",
+			"name": "スーパーチャイニーズ2 ドラゴンキッド プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/47543400cb0015b98ea3c17de26761d8ff78c062ac0abd727b30c4b71e7dd62e.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/19d2b4375bf5bfee7a475f1a076550f864e49354beb827baae15e87a698dcae2.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				}
+			]
+		}
+	]
+}

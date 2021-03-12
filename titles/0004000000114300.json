@@ -1,0 +1,87 @@
+{
+	"JP": {
+		"title_id": "0004000000114300",
+		"eshop_id": "50010000021534",
+		"product_code": "CTR-N-AM8J",
+		"name": "タイタニック殺人事件",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 19,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/35e64ffbb8091a373f4b53b19ced199868d58f1c50d4c0719e1e72e2ea27c25d.jpg",
+		"data_size": "85470052",
+		"description": "大西洋の波間を優美に進む、豪華客船タイタニック号。 順風満帆と思われた航海の最中、船内で殺人事件が起こってしまう……。 被害者はなぜ殺されたのか? そして犯人は誰なのか……? タイタニック号の船長から依頼を受けたラーソン教授と“あなた”はさっそく事件の捜査を開始する。 このゲームは豪華客船タイタニック号を舞台としたアドベンチャーゲームです。 プレイヤーはさまざまな殺人事件を解決してきたラーソン教授とともに船内で起こった殺人事件を捜査していきます。 豪華客船の名のとおり、美しい装飾が施された船内のさまざまな施設を調べ、犯人への手掛かりを見つけていきましょう。 果たして、あなたはこの事件を解決できるのでしょうか……?",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-04-16",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/243e39a5e1fa53e981b207f2a108049992257460c1e49d3c77d07b527ff46aac.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/608404851e961074769c7c0ac0ce8f4566dd19f2bccca0a50640d3adfa53168f.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d32699b397fab156e337b70921a92e3034e6bbed925297976343e1c2665c806f.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/27539f81c33d9a128b2f35f80c2dbae223125dd790af5f2c3f55c9c7c2714131.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d7bbd2354e3ed3c35555c77d552f09aaae6a4505ad7279300f3d4098006499db.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e5b6be759a645117c3f36c4b8a6c806bd308615d2e35837f15718800878b8edf.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0caef03709d0f108e76d3d5c0f331f57b2dd95e6085f57e4e06d8b24957ab3c4.jpg",
+				"name": "タイタニック殺人事件 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2431b051cc9f34e8f334ea3f0b2782c574a08b951c94da2f594c385a40a51b40.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "121"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/72cdf95d307bbe733b04684321fa7278cecc4496ba1487d9b01db93a33ae1c2d.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "121"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b8758a0e21cbb1f52f6a73d474caeca06dd4ee0b2b52ac37ade3226f4d86c697.jpg",
+				"name": "タイタニック殺人事件 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/266ae2c0ae24c248c7651c44cd10ef823aebe248f9483a21aeed72701bf910df.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bb5438077b9e5c16f1fe927d893b1fdbe2e30dc865a7b80e490743cab6a325fe.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					}
+				]
+			}
+		]
+	}
+}

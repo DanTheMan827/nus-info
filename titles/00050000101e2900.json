@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101E2900",
+		"eshop_id": "20010000021790",
+		"product_code": "WUP-N-PPQJ",
+		"name": "愛・超兄貴",
+		"platform": 166,
+		"platform_device": "WUP",
+		"publisher": 81,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/97523fdf7141f4a5da16446810246b819e0dca9752797e33ba00ecfb08e6c57e.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9400d4cb9b038e052245ab1d5f5745fefa7caf9e76488d5175e42847ae52d94d.jpg",
+		"data_size": "109052044",
+		"description": "筋肉派シューティングゲームとして異彩を放つ『超兄貴』の続編で、ボディビルのポーズを決めて敵を撃破していく「ポージングゲーム」です。 前作で脇役に甘んじていた「アドン」と「サムソン」が今回の主役。消息不明になった「イダテン」を探すため、「ベンテン」が2人をビルダー星系へ送り出します。 プレイヤーは自機である彼らを十字ボタンとコマンド入力で操作し、鍛え抜かれた肉体から放たれる愛の力「ポージング」を駆使して全4ステージを戦い抜きます。 時の番人が定めた制限時間内で、どれだけ正確かつ華麗に技を決められるかがポージングの真骨頂。マッチョなノリがさらに深まる本作では「汗汗乱舞」や「男魂」といった汗が吹き出しそうな技の数々に加え、男の一撃「メンズビーム」も健在です。 ベンテンが運ぶアイテムでパワーアップしながら、究極の肉体美を表現してください。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-04-20",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/eb9ef03a260c64d46d88ff92a2794e165dbe1cbbaa4d2862758005ab2054e94b.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/6882187acee0ef14a10553d6fb437338cd2fee4c826c1750827cdf76311b61fd.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/bd473c2e312704c75cb790c20495a12d604a7214f44783df6e3f9afc39fdc27a.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/536258a1eff53bcd0584df1a54be4e928908a63f42f63dd8404ba495b62ee54a.jpg",
+				"name": "愛・超兄貴 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/78d3f79b6c0d36c459ec092b32aac55a64095dc568b6857b6aee7f67f28582c5.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "76"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3148dcc3bbb11d671ec5a04ee3643d4cbffd701d24f627f76ad9a6f58de41487.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "76"
+					}
+				]
+			}
+		]
+	}
+}

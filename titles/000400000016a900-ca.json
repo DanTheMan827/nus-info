@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000016A900",
+	"eshop_id": "50010000038735",
+	"product_code": "CTR-N-BTEE",
+	"name": "Terraria",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 4,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/156eae713558d81de4565b7c7215931c73440c57053cfceeeb1e039ac642ea06.jpg",
+	"data_size": "57703268",
+	"description": "Experience the infinite possibilities of Terraria with the most intuitive interface imaginable Explore vast fantasy worlds by excavating down to the depths of the earth or soaring up to islands in the sky. Wage war on hundreds of different enemies and giant bosses with weapons and armour you've crafted yourself. Reach directly into the world of Terraria using the intuitive touch-screen interface, building anything from simple dwellings to immense fortresses with the swipe of your stylus. Share the adventure with up to four friends via Local Play, teaming up to battle monstrous bosses or build amazing super-structures. Hundreds of hours of entertainment await in Terraria, where the only limit is your imagination!",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2015-12-10",
+			"retail": "TBD"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/aae940d5b7f10be1b9cad01059478b1b4f069909b3bb2af7591e374dd7cbf6fb.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/da9acabd6e362665b046dea86a15925102953224b1bfdb5fae39060a2030317f.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/fd402c71127ef443c7dbfb25b9acc1d2d3a57d10ebee5dfea8b0ead4991b8d96.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/348dd71165c2647dceadfe0f6491d128d222c9e781e7ae4572d5ce037cdc0c04.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/84ab16ea79d0f7ec82080c13a15bd65b666bcb380cf36ff7394759d5efc1fbea.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f0de028166523d5de5a35d6a4cd2cbedde48b9f67ff02e9930bc5f45c706fca5.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d14e70db7cb6215202df9e0ac8e0df9dddcf965461fb6436f4b1030b41660d77.jpg",
+			"name": "Terraria Announcement Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b97094a60c9f6bf1de8340a4864ad248b0515c9fa0af94d7caa0fc6754b54f49.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "83"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3c594f016d983d6b3a92cdaff47bf963c731adba627e736405a8e5bbf2de49d5.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "83"
+				}
+			]
+		}
+	]
+}

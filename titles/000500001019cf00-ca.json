@@ -1,0 +1,54 @@
+{
+	"title_id": "000500001019CF00",
+	"eshop_id": "20010000021648",
+	"product_code": "WUP-N-VABE",
+	"name": "Donkey Kong Country™ Returns",
+	"platform": 171,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1ab079590e63ef75d1ef723b060dd5725158c7e41ebdca60c44ca552fbef7e0e.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/078b97c3da353ee523d03d2467aa558ea5dd1e4936248cf828d080d4ffa3aa7b.jpg",
+	"data_size": "3653992908",
+	"description": "Donkey Kong Island has been taken over by the musical Tiki Tak Tribe! Jump, swing, and blast your way through over 65 levels spanning eight worlds. There are many hidden items to uncover in each level, and collecting them all will unlock something special! Invite a friend to take control of Diddy Kong for two-player cooperative play!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-09-22",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/1e532d77225fad7349e3f34dab4b95ec770084d9d6b08b271eeaeadef83c9553.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d49985649c94f86a9bac16c56f537cb1018f628113d28396cf7c19e705398e2b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2753b9227df364245d525be34d7f501a131d70d76b8ced5688ce8fe31fe962d1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bb27b36c77232482f4247e41e8550df79513de75f53775971bab7d45ec2df8d8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2f15bfca0e81059eb53d94761f86cd4276a5f588fef01db8d2bb31b0afcbe90f.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5f4e15a6b9ade807d2f0de321541dcbbda533335b0050f99fed8c248b6582291.jpg",
+			"name": "Donkey Kong Country Returns Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5e44ef303216c93d81d7bb14a4a6a3d8f4d47cf04c1c91c83b98b73612be27e1.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "76"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e8ebea481afb1fe8ba1349cff5981573a0ab2293bb8498e8feb8cd3874925cbf.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "76"
+				}
+			]
+		}
+	]
+}

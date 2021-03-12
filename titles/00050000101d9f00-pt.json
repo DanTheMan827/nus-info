@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101D9F00",
+	"eshop_id": "20010000020397",
+	"product_code": "WUP-P-AJLP",
+	"name": "Job the Leprechaun",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1561,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9317f1c0b74134769090bb1a562ad3d59599f07042cadc09761628e07d49b908.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/cb8cd158cbf49ae73246a6725dc5d26b0da6a910e1905608f676309ccc9fa862.jpg",
+	"data_size": "70320288",
+	"description": "Help Job the Leprechaun to rescue his friend Eri in this retro style platformer game. Collect all clovers on stage and find the door to go to the next level. A horde of goblins, zombies, caterpillars and more monsters will try to stop you, use your Magic Hat to fight them. But you are not alone in this adventure, a cow and an elf will help you with their abilities. 35 levels full of monsters and puzzles Retro Pixel-Art and Chiptune Sound",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-12-17",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/8f9bf693c1deae5ffd8a8187460e2b98dfa2ad2e589262779ddfc953a712a340.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/38642a7f175f8bdf2c9f5f6f3628847a18341b16bd0e94b7095ed2f0541f765b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3e7b352b58fe0952201622a937ea78370d057bfb0b302bb4cb549c88df79974b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6d0c2e554ee783531aef5a76de915d72ef2300e348f83dfaad1a12737c4ac342.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1e3af5e2e509a94401111d3e0f502dec303a9a0bc175b6e11902c665600cc174.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1349b4fa84b83df0338f10730f22fa100d1ccc5bb8a123739b2a1943f007bfed.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bd41c4104322f45be324c02fa27802570f2fafd7852b1bdc13b1e4f75de67941.jpg",
+			"name": "Job the Leprechaun: Vídeo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/16cfcc3222e3d1d241d5768257eebcbe52526bbf34d031f46036012d8337b354.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/951391a3dcb99179aa846ab979f56fe1bb995001223b721a802be104aba3f593.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				}
+			]
+		}
+	]
+}

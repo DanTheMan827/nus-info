@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010189300",
+	"eshop_id": "20010000009266",
+	"product_code": "WUP-N-BTFE",
+	"name": "The Fall",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1348,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/86c5896a066f43927c8d5e58b122163c791d148c6895116c45aafe5cbe0742bc.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/1911329239f8ce5c48dfd1b59fee96fa2180aa64b6eec6255ae3e4ca8e8fcc33.jpg",
+	"data_size": "576880800",
+	"description": "Experience the first story in a mind bending trilogy! Take on the role of ARID, the artificial intelligence onboard a high-tech combat suit. ARID's program activates after crashing on an unknown planet. The human pilot within the combat suit is unconscious, and it is ARID's duty to protect him at all costs! As she progresses into her twisted and hostile surroundings, events transpire that will cause her to rethink her rules, regulations, and her very self-image. The Fall is a unique blend of adventure-game puzzle solving, and side-scroller action. Exploration will be paramount to surviving your adventure. Utilize ARID's flashlight to uncover a myriad of interactive objects as you progress through a rich and detailed story, hand-crafted over the course of two years to blend seemlessly with gameplay. Get ready for a disturbing journey as you fight, explore, and think your way forward, expanding ARID's world, in spite of her protocols.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-08-26",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/ddd6a03565360e06f78ad2716932f71cd539f1bff8caa17bf49f45d70d737811.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8d807e9fb075fda96bfb3c1033e8cbbad0204e0dbb2bb115cbbadbbaa78a1687.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/db00b94b7a107014339c62727480b77fbc702bcb68da8f25ea8bf085a39f5af6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c4d23227f14d1d278b62ca68f5d4a55c2827c967b7dbe733bbc77f8c5dc6a42c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a2b8c82fb3ad07dedcdf7711bafb2e516eefb2400f3d483a3450349906e3e8a3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c0c795ecfcd7dfd4a50f19c02711f7dba9b95d4d2092038205092c281f4f0fbe.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8b56716687e66b890dc5344128cbae7f77c1229fbf51db85b186b08ebaba063c.jpg",
+			"name": "The Fall Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c1148235ac01e255d56bf1ff16f780f6a5da3849999946033285c0452ee4ab3a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "87"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5ade2d07a23123ba9090c3888369fff78b265f497e5159800fc6af978b6d95e7.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "87"
+				}
+			]
+		}
+	]
+}

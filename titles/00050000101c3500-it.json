@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101C3500",
+	"eshop_id": "20010000020390",
+	"product_code": "WUP-N-DASP",
+	"name": "Super Mario™ 64 DS",
+	"platform": 169,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7cf76d1d08ecdf5c5186ef9d794262690028c10b2f7aa7dd87dce3c4c93fabce.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d94a740368ac229376679d56485c7decc9dc718f3b833c724182661003432ea2.jpg",
+	"data_size": "54919288",
+	"description": "Questo gioco di azione in 3D è uno dei titoli di lancio più popolari per Nintendo DS™. Rispetto all'originale Super Mario™ 64, questa versione presenta una serie di nuove funzionalità che piaceranno sia ai nuovi arrivati che ai veterani. Durante la missione di Mario, potranno essere sbloccati 3 nuovi personaggi giocabili (Luigi, Yoshi e Wario), ognuno di loro con abilità uniche. Il gioco include anche nuovi livelli, con il numero di Stelle totali dopo il completamento che passa da 120 a 150.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-12-24",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/a360b7111535fba69c086ad8e19c5b660b3b35ce07bfd8efa55f1b20e1c9fae9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/94b3b6e3d1f092fe37429b1ac392c0a0e00a2862f84f97f3a89763d396299d92.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b87ed5566b18cd75716f3b1a3e29618979676a38510176e0f3d7ee8fc0021620.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8082137d3d733ff971b57e3611db70c4a3429e72edc8104619ab519a7b24d145.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0571cdbe0058dbf189438aec33f3eec645a604aca5151cda81ff5ad9195ff033.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c05165aa7e95e5c38b4caca9b0c026d4da0b4706dcb19f54be1d19a8d5885006.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f7b2f4c3310be5e9317f8597bf767e613a1834e175e01fe88b945b86ae55d050.jpg",
+			"name": "Super Mario™ 64 DS: video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/849449865443a5ed35d9ad7d399c910a0b0851789f589e99d8de0767244e1116.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "72"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0c4b26888d34a0a3d7cbda12301b97ed410a99922511f1e30bc3289d26bc449f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "72"
+				}
+			]
+		}
+	]
+}

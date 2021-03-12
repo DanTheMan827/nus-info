@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000032500",
+		"eshop_id": "50010000009203",
+		"product_code": "CTR-N-ACMJ",
+		"name": "マリオ&ソニック AT ロンドンオリンピック™",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/757ef5dc566c054eb6e8db94be8576cb68d8feb930776e8c1412b9b6ebf31f21.jpg",
+		"data_size": "351665044",
+		"description": "2014年3月31日(月)に、本ソフトの配信を終了いたしました。 ------------------------------------------- 2012年夏開催のロンドンオリンピックを舞台に、マリオやソニック、そしてその仲間たちがオリンピック正式種目に挑戦します。 ニンテンドー3DSならではの特徴的な操作方法で手軽に遊べる種目を57種類収録しており、さまざまな種目をテンポ良く楽しむことができます。 また本体を持ち寄れば、ソフト1本で全ての種目を最大4人まで一緒にプレイできます。",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2012-11-01",
+				"retail": "2012-03-01"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d160f2acc2d3663f913fdf0670c5306221d3f2413a8796453b15a35c5c825f6a.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b60f14a373a979202558a7efaf346e11e5c06aa74946444b67cc322fafe10c86.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6f115ed7b59afe4d0149e314872c4b256a4de78c5870d069db4da06e06d14cdf.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f09766e05cda43e5304de03aa614d2bc06323c2f7d1deea7b7946a9c9d9d638a.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/9aafd248d62255d110612c72fad0bd0320c317b25aa6c59be040841e0d739520.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e4c4687d2c3519fd70d115ab36c2ec00642a0547b82d1bb8dbe5a7c2f55f835e.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/80139eb3017c4753d3a97eb13f2d16e02ab8784ec5a81ec4836f01ac78e67fe1.jpg",
+				"name": "マリオ&ソニック AT ロンドンオリンピック™ 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/45ff17e36c2587b14a7a04fad3447a3c3c4a805ddb921be2254373e7fb9b96fa.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "206"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f7cdc13028f0907aa28e8a3c45a2f2305d450f0f82738bf57e37eecafa29ae41.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "206"
+					}
+				]
+			}
+		]
+	}
+}

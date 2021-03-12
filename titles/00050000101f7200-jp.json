@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101F7200",
+	"eshop_id": "20010000023013",
+	"product_code": "WUP-N-ADUJ",
+	"name": "ブロック ビルダー",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1292,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7fb94b718b7e455f6f59a82362c0c3657048480362a92661f95c7db1a40f93fb.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/fc0879ca995fd050ed65fa6a621a3903ace48d3986d782979fad20cf8a77bd54.jpg",
+	"data_size": "151552140",
+	"description": "ここは、「ブロック」で作られた広大な世界。あらゆる場所を探検しながら、好きなところに任意のブロックを使って、「家」や「建物」、「村」や「都市」など自由に作れます。一人でも、二人でも（協力プレイ）遊べます。 特徴：インクで「ブロック」の色を変えたり、「電気回路」を「ワイヤー」と「スイッチ」で制作したり、また、斜めの「ブロック」を使ったり、さらに形状の違う「パイプ」同士を組み合わせて、長いタイプを完成させたり、さまざまなデザインのオブジェクトを自由自在に作れます。選べる「ブロック」はなんと200種類以上！ 通常タイプのほか、「ハンバーガー」、「タイヤ」、「レトロゲーム」、「パイプ」などとてもユニークなものも収録しました。 バラエティーに富む「ブロック」を使って、あなただけのオリジナルワールドを作ってみませんか。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-08-31",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/ed11fd2f290b9cf07353f2bbd0070dc890d7a0b4372132add8eee218b49054a2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/43773e3f0c4a574ca2fcd2c9c70bd6a80eabc9ebc1974b41a2adbd76705320dc.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9f3eeb583eafb1fd2c7f9d458faa450e74864adc8255fa6ac3f835edcc7a7827.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/186a99856997653603c89ae5f4118e03a414b6e8a80027a94969e502621cf044.jpg",
+			"name": "ブロック ビルダー 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3dd708fa5e36de3ab84a291614bc61315e1d2a06d2f9e66eb08c193d9e3cb03f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "136"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ea6e189c64215505a161a5eec773a7e0f3f0e6b88a21f58efdf149072b7e5e5e.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "136"
+				}
+			]
+		}
+	]
+}

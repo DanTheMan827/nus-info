@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101E0100",
+	"eshop_id": "20010000020747",
+	"product_code": "WUP-N-BMTE",
+	"name": "Minecraft: Story Mode - Episode 1: The Order of the Stone",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 268,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/880ba25f4d5f2fa52b786f052fd83741d31370a630078ac563acdef37e40204f.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/029b811c552016fbdb0c6e0cde2d818e7c516499001ab836d099cc1151f6ad8d.jpg",
+	"data_size": "633438388",
+	"description": "LA AVENTURA DE TU VIDA EN EL MUNDO DE MINECRAFT Al igual que Jesse, te embarcarás en una peligrosa aventura por el Mundo abierto, a través de Nether y El Fin. Tú y tus amigos reverencian la legendaria Orden de la Piedra: Guerrero, Ingeniero Redstone, Intimidador y Arquitecto asesinos del Dragón Ender. Mientras que en EnderCon con la esperanza de conocer al Guerrero Gabriel, tú y tus amigos descubren que algo está mal... algo terrible. Desarrollado por los galardonados creadores de juegos de aventuras Telltale Games, en colaboración con los creadores de Minecraft, Mojang Conducirás la historia de acuerdo a las decisiones que tomes: lo que digas a la gente (y cómo lo digas), y lo que elijas hacer en los momentos de trepidante acción hará de ésta TU historia",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-01-21",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/e75114758c6c60291f511d42ee1ac09d5c6f011fb5064707255d8c649cf68204.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4ff875a67654bb63331da5c304fcf2e8439dad949fc17da6d3b3d3ed56093dfb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d9c6210605d02e378a4d923651da6082438b283da226ea77ed26a691f9f4ca82.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/776a00f3caa86718c4cd4d003d57ce98e40203c2382f8134221596837dd801da.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e5944d0f8840f3503f7c99fb5a11915ec838d84434d61e1b377cb6c837b0f425.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/81d30fa75c3cbedb3fa722c3b949a85cbb9458e15c96d48be719a36acc825160.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0a534d2160e520005d9e18b3611754b34651e6f109b44787b19de7f4a57c0264.jpg",
+			"name": "Avance para lanzamiento Minecraft: Story Mode",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f8e52cdf7b328c11a0d07fd35cab80d9bc3afa8f3d543ead04ec5309e86d3d82.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "100"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0b719c2ac1693587eb3a513235460f0ab485945499484d5e4f351fd9e9c8223b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "100"
+				}
+			]
+		}
+	]
+}

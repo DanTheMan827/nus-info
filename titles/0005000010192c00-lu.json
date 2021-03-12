@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010192C00",
+	"eshop_id": "20010000016348",
+	"product_code": "WUP-N-PBYP",
+	"name": "Megaman Battle Network 4 Red Sun",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 39,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b4ba7dfbf2c23a49001395b44266d9ed93f1610af94cd379f93db3a55f7ef55c.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/483c0e50d1e2f25dc09f9969faa90e4c2bd5faaa5fb965605b2bb6a5b06ff1c1.jpg",
+	"data_size": "92045452",
+	"description": "Lan et son alter ego cybernétique Mega Max.EXE sont confrontés à une double menace : un astéroïde se dirige vers la Terre pendant qu'un mystérieux NetNavi menace le réseau. Au même moment, le duo doit prouver son talent dans un nouveau tournoi de NetBattle. Mêlant jeu de rôle et simulation de combat, Mega Man™ Battle Network 4 comporte deux versions : Red Sun et Blue Moon. Ces deux versions ont des histoires, des ennemis, des améliorations et des Battle Chips différents à découvrir. Récupérez des Battle Chips pour choisir de nouvelles stratégies et activez le nouveau système Soul Unison pour accéder à de nouvelles techniques.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-07-09",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/7f5cdc8fe7a51694c20af78ea36128a9223124c3265e65f0c024a0b48f666a18.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b43dfcc6169884561ca2efa06241a1a2479c4397dd1e33111e70ae8c908f8837.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4ce42b848ef008e441d3ce0a0a7d8b444e58650c2b5c782a6104d9f6f561dc21.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/244cec5058b02dc4613a4d0b9e2c8ada51bf5306a007f65ba646b5fd8dd1b3c4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/04dc5a53a0a4bfcf382590afcc418c4817ce3e4793a87367604f866f6be70dfd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6398a5ba2732950b644fb4df1cb41ed53af69c68100d5bad966db4e470c8aa50.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6dd20688de9b569789037d76014d9767e44689c4d8bce8142f68e8c7db9394b6.jpg",
+			"name": "Megaman Battle Network 4 Blue Moon & Red Sun : vidéo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/49118f6138b564391c8f57bbc11b3f95924d1a64c0698268a23987c2c8f068fb.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "59"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3809a6d9311cb60d037be42c6f07eec52742ad3695238d2f778a1241ad5741ae.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "59"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001016DB00",
+	"eshop_id": "20010000010446",
+	"product_code": "WUP-P-WDWP",
+	"name": "Ittle Dew",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1303,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/818d205b8b931d566a324a57ee336358daa30199403cfe099ada8e244a829939.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/dbde55d17b66e461a46f9701b19337117b3247e60bbd2da9d6adb65fd2ef8c23.jpg",
+	"data_size": "628392116",
+	"description": "Abenteurerin Ittle Dew und ihr Sidekick Tippsie stranden auf einer merkwürdigen Insel, auf der es Beute und merkwürdige Bewohner zu entdecken gibt. Schnell wird dem Duo klar, dass dies ihr bislang größtes Abenteuer wird. Ittle Dew destilliert das klassische Adventure-Format, bis nur noch Spaß übrig ist. Erlebe teuflische Puzzles, zeitloses Gameplay und jede Menge Erforschung! - Viele Geheimnisse und Abkürzungen zu finden - Kombiniere Gegenstände auf raffinierte Art und Weise - Wunderschöne handgemalte HD-Wackelgrafik",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-11-27",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/a3acef8ad486150b1bd27a26812e4b2bad4a73f59199d5d79f06073771a88071.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1ee0c31c02538da32f177b2791eb4dc8e1518538c5b1dbcd435b2330f6d2da55.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/62cbf5b3e29a9c133c07da69fe409cef07656f31dbd665260dd82679c1e739e3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2c7f624f49a0e30bd8cfaf37a3b9a1e8ee8234a8bebe2c519143d364c04c4761.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1d08399ff40e8960ddbc604d37b9808ac83bc18523107870e18adef845484177.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/46c6181dd96f3a92d4f668abcb541a0a1982de9238de0c81eca247a04b63247f.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7257ec55b720bd459580123ea9d6fa104ec27820db741dfb48cdc0c990fb83ff.jpg",
+			"name": "Ittle Dew: Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/94677d5c15c851c21ba6ebf7e9c2f56b66cfca41ed901417c6bbc8d953a3c39b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "89"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f8058bb704fa501d37ec39d7299167b73935c0be9fdcf8c5ce8c0742e3cc146f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "89"
+				}
+			]
+		}
+	]
+}

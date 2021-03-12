@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010192500",
+	"eshop_id": "20010000011306",
+	"product_code": "WUP-N-FEHE",
+	"name": "Duck Hunt™",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bd807397387a4003ae4629f6c5974201d5a2d8f737805e7d4a9ee817db6377fe.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0764153549819197e0dbd6741053479fb120b4f279a2c21533e92fa0f5d567f2.jpg",
+	"data_size": "38731936",
+	"description": "Es temporada de caza de patos y tu confiable perro está listo para el campo abierto. Prueba tu puntería mientras tus objetivos vuelan. Apúrate a derribarlos o tu compañero canino ¡no se detendrá para hacerte el hazmerreír de los otros cazadores! ¿Ocupas un escenario diferente? ¡Pues mejora tu puntuación disparándole a platos en lugar de a patos! Prepárate para enfrentarte a la acelerada acción que encontrarás en tres divertidos modos de juego para escoger. Tan solo tienes tres tiros antes de que tu objetivo vuele fuera de la pantalla y las cosas se podrían poner algo complicadas a medida que avances a la siguiente ronda ya que los patos y los platos valorarán cada vez más rápido. ¡Juega solo o enfréntate a un amigo mientras pones a prueba tu determinación y tu velocidad en este clásico de NES™!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-12-25",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/f01a9b5fda8c087013a517fa1ab6e83bf22eb6820beeeee8ee048f1ab8febb46.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f5298c43ce72db4cd39128de86a01252b0f779184deb6b1089500fb3cfccb3d5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ed6ba9b739a516ef6022d0e060d158d5941dd76d805e9cd814493833837c711e.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2b83e71271ed30d579a2a3862568bacc47450ea61a09036c8eab9ed6fa25f183.jpg",
+			"name": "Avance para lanzamiento Duck Hunt™",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/17eb2df573b4688d7fa20252e9e8489d0e3726652a24ad953bb4b43073a037bb.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c3da6687414cd09de7ef72c8323e93f45d6049fa40e882303afb83e1f2093ec8.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000016BA00",
+	"eshop_id": "50010000041664",
+	"product_code": "CTR-N-KTCJ",
+	"name": "動かそう！ ちびキャラ工房",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 358,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8eadb4fbe3d93750542fedecf61c5ab8d58554d655c4ef5805dd2abaaec6cf3d.jpg",
+	"data_size": "113503076",
+	"description": "ドット絵を描く、描いた絵でアニメーションを作る、作った作品をギャラリーへ投稿する。そのすべてをこのソフト1つで楽しむことができます。 豪華な絵を作成して発表してもよし、かわいいアニメを作ってみんなを癒すのもよし。何を作るかはあなた次第です！ ■ドット絵を描く■ 大きめな一枚絵を作成できることはもちろんのこと、キャラクター単位で絵を描いていくこともでき、自由に複製することも可能です。 また、アンドゥ・リドゥやレイヤー機能はもちろんのこと、オニオンスキン、透明部分のロック、さまざまな濃さのトーンなど、ドット絵アニメを描く際に便利な機能がすべてそろっています。 ■オブジェクトを作成する■ 描いた絵を組み合わせ、アニメーションに配置するためのオブジェクトを作成します。 オブジェクトには、パラパラアニメを作成できる「キャラオブジェクト」と、チップをタイル状に配置できる「マップオブジェクト」の2種類があります。 ■アニメーションを作成する■ 自由にタイムラインを作成することができ、作成した複数のオブジェクトを同時に作品内に表示させることができます。 配置したオブジェクトは、「フレーム間補間」という機能を使って、簡単に移動や拡大縮小、不透明度などの動きをつけることができます。 また、「フレーム間補間」は、等速だけでなく、「最初をゆっくり」「最後をゆっくり」のように、動きに緩急をつけられます。 ■ギャラリーに作品を投稿、閲覧する■ ニンテンドー3DSがインターネットにつながる環境にあれば、作った作品を自由に投稿したり、本ソフトに内蔵している「ギャラリー」から閲覧することができます(*)。 さらに、ギャラリーでは、ほかの人の作品に対して評価したり、コメントを残すことができますので、簡単なコミュニケーションツールとしても楽しむことができます。 （*投稿するには、不正な投稿などを防止するため、無料のアカウントを登録する必要があります。）",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-10-26",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f94bd0ee781a02637154b9e286ef5764a5d2e2319f8e98970da7b6e841698a0e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/49f3e3c9d23b52c8c68f12231ff2114dd227532b686a28ddf3d19828eef60d40.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/df8d48fcfcb019c00589019696bcfd910995634fa5aee8eead391c6365305840.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d10937e5d930bcf2bd1db17c93e7842f153e8ace7ca1687ddbf10731075fb865.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b5aada78973cb7edb406ba806a3fa98119bbe3efadfd36c5bc690746cbbc487c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/065a3f27b878dd50e94f6121bbac730b302da0c5420e41fc3e3fddecaeb491a5.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e17656a7e90f880598f898b0d9c646e99d25bf9d2f34ad2c946ac23c99f6a821.jpg",
+			"name": "動かそう！ ちびキャラ工房 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1e108abc68b5ec60562273ed3bc93964f2579c4f4e8d8f8aeefea0818e73e3c2.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "123"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3e8caf5f0d5c29e243787e6c8797795b0a2225ec38d2f533d8c685bb957de1c5.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "123"
+				}
+			]
+		}
+	]
+}

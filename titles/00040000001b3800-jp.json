@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000001B3800",
+	"eshop_id": "50010000042028",
+	"product_code": "CTR-N-KMRJ",
+	"name": "ぐるみん3D",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 1212,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3b11c8c25e96c273499bae785ab813d46e98656e599c58a1835d477822ad47ee.jpg",
+	"data_size": "506682212",
+	"description": "『ぐるみん3D』は、主人公のパリンが、 ドリルを片手に大冒険を繰り広げる 「爽快ドリルアクションRPG」です。 「伝説のドリル」に選ばれたパリンを操作し、 ぎゅ～んと突進する「チャージ攻撃」や、 ぐるぐるして発動するド派手な必殺技で敵をなぎ倒し、 山、遺跡、洞窟などのさまざまなダンジョンを制覇しながら、 物語を進めていきましょう。 ダンジョンには隠された謎がたくさん！ 隅々まで攻略すれば思わぬイベントやアイテムが発見できるかも!? 着せ替え可能な装備品はゲーム中のビジュアルに反映するので、 コンプリートしてパリンの七変化を楽しもう。 モグラたたきや岩ぶっこわし対戦などミニゲームも満載！",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-11-30",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/354454ec324888227acc1c0b4cce76b6b2bdb7dd4e76425eb14283a4c032aa73.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/dcd629240ec1dc085c83de74dcccf023f80e6cc49389daedb1137bac1d9f2145.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/74be84c4b79670c599d6874c5ad18ca122fd708766f43889b9d00b7ca9b5c30b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/77861e1b799b9d697aa82e0f168215b49216ddd3b9fd7db9e57994dfccfd69ae.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6770531800b962456c01d7cab345c3561ac994c5ee93c4b43728b00f4afff9f6.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/47449c7f9a564aa1db120b8d5721b9b7c34df73df1648b57b7cce79e71f0fd54.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bffc2d63d9d51762ac376cc45ec00574574f59f07ece3f85acb7fdc17037123b.jpg",
+			"name": "ぐるみん3D 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/37859341a688ae0d0ea066cbf0552aebc9e93904bfb458831df3df2475adef1a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "148"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/aaa0f97681c1f78854bab16865c0aaad1429f2a836ce7e0a8e451f107a8077ed.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "148"
+				}
+			]
+		}
+	]
+}

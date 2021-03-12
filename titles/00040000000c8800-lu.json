@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000C8800",
+	"eshop_id": "50010000013375",
+	"product_code": "CTR-N-JHSP",
+	"name": "Splash or Crash™",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/417df44d3e23e20d4dc26c8bf634c0686ad0ea3dbce6d82d0fb28b47e903a22f.jpg",
+	"data_size": "25291620",
+	"description": "Laisser tomber un caillou dans un puits pour l'entendre faire plouf est très amusant. Mais vous êtes-vous déjà demandé ce qui arrivait à ce caillou ? Dans Splash or Crash, vous êtes un caillou, une boule en acier, un bijou ou un autre objet bizarre jeté dans les abysses. Chacun d'entre eux a une vitesse et une résistance différentes. Guidez-les, évitez les obstacles et atteignez l'eau en un morceau. Avancez dans le jeu pour débloquer de nouveaux objets et des puits encore plus difficiles. Vous pouvez également échanger vos meilleurs scores avec vos amis via StreetPass™.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-02-28",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f7e8db34e53b8486d5d436b8809130bfa68f1060de32ea6cbeadddacc0fa994b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/47b00899c616de775f847a61d923b1b3df811c756eab7c0b324cd46aea2fee31.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/06073442cfad5de03abc61e4878fafd3f9b094855260fd717515265172f15fe6.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/47b00899c616de775f847a61d923b1b3df811c756eab7c0b324cd46aea2fee31.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/14e2e48c7078163dc76c86af2435bbdb08054ff040118229ef01c7baf401467e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/47b00899c616de775f847a61d923b1b3df811c756eab7c0b324cd46aea2fee31.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4ea47c259908d6ab657f03b707848eb01f10258ad8701378fae44b8e3fdd3d93.jpg",
+			"name": "Splash or Crash bande-annonce",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1f162a176a5bcb5b3192cc1b494b98133b2eef639e9b6f30125fabc2a0ee65cf.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/370910b3e9355c40f8c366036680d5a21e11e0b6531956658059c44a82bcf40e.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				}
+			]
+		}
+	]
+}

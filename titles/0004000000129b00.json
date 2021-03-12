@@ -1,0 +1,87 @@
+{
+	"JP": {
+		"title_id": "0004000000129B00",
+		"eshop_id": "50010000021654",
+		"product_code": "CTR-N-JYNJ",
+		"name": "プチノベル「青嵐の四月」",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 1212,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/fdf4865c91963cec9e90d73e5272ce982eefe72ec410a534a9f3e31fc43c255d.jpg",
+		"data_size": "87841636",
+		"description": "『青嵐の四月』は、神の住まう町･多紙町で暮らす高校生、紺野柾木の過ごす4月のできごとを描いたビジュアルノベルゲームです。 蒼と再会を果たした柾木。 この人を避けるために、柾木は一年前、逃げるように多紙町まで来たのだった。 柾木をめぐる戦いはさらなる混沌へ。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-04-23",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/44e36d68aecc3182bcb11a72f82f1c85611df5eff39b25d3bfad11e6a18db3b6.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/dacd6bfb3c180773fce8dc00bcf82e50a6f4320a6bd4d5b7a3b7a4c0d641a52b.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d0199e11d8a1358d933f36a9a73a325d902e8a72e798ad845e4f305145df145f.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/14421a06adc06d312015839b370e215497f58a226fab029c30bd451b6a5ba36c.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6710888181608d7ea6a007cd2b23ae2475dfe8e1288cb2ebc8c56c3d368dab32.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/3a8b9cf04e63459aad4fe4dbcced96e751f6c8888ad2f3db200e9f239b108d53.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3156658606f979dfac76ed880ade26f201829091a9ac1fb88d3a4c5d6e89758e.jpg",
+				"name": "プチノベル「青嵐の四月」 オープニング映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/286f82e82eb559f4181c77fefa2f83ebab8ae0a12e2e052e47e49b8dfd030230.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "132"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c4d57d5786df0f9a4f874f6509dda9156e92832bc3f29e578b61f7fe3a2b280a.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "132"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2548f5a10859d397c8683793aaf47cfeeec1ace21349db8e06b048cb0ebb3194.jpg",
+				"name": "プチノベル「青嵐の四月」 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/008a9495b55e33077d7a91db0a6997f39a8b6764bd1b152465cd43f06d0be33f.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "46"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/66c59d2ed1bcf3d60f19068d5ac0e6220bfd36abdb364036d65b2a92db23b451.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "46"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010161100",
+		"eshop_id": "20010000007228",
+		"product_code": "WUP-N-FCWJ",
+		"name": "スーパーチャイニーズ",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 416,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/03ea2ae7330347f1e6c5a2dab39e24dbfcb56a56ad1b670d1a8cb3f829dbf471.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/fe69151c8a1806afbfa074ecc8fd9ae501847c2ead468a544637fadb7ace3d7c.jpg",
+		"data_size": "36536460",
+		"description": "このソフトは、1986年に発売されたファミリーコンピュータ用のアクションゲームです。 チャイニーズランドの王女ミンミン姫と10の宝が、妖魔軍団に奪われてしまいました。カンフーの達人ジャッキーとリーは、姫と宝を取り戻すため立ち上がります。8つの魔館には敵が次々と現れます。宝箱などから手に入るアイテムでパワーアップしながら敵を倒し、館を制覇してください。ミラクルキックは空中で方向を変えることができ、いろいろな場面で活用できますが、使用回数が限られているため注意が必要です。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-07-23",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/c0b9c4f8ca611b9bb8a25150abb57b2136880e126c63f10ad98efa5d2cb3bff5.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/a0cef30488f1dfb3f958b8ccf1c8d9c12ef7b1b231b28daf9047914fef5a0176.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/e5a007e3096b97fa868dad6ab861c2a9886e32bc727b6fede2523b38b385db15.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7f5565e06ba8f79da4d993f2a1ce3319826e0eb0dfca246ba7a9d3140e3485b3.jpg",
+				"name": "スーパーチャイニーズ プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/718e5a655914192a22de3ff4637306743013b07068716c2f535401d183343e8f.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "50"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5a8485c1b76ad2c5018a4b110fea784f9fd25d1f1049cf732b5b9bc3926e4a07.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "50"
+					}
+				]
+			}
+		]
+	}
+}

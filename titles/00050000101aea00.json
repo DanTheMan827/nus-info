@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101AEA00",
+		"eshop_id": "20010000018007",
+		"product_code": "WUP-N-PCUJ",
+		"name": "逆転裁判 2",
+		"platform": 168,
+		"platform_device": "WUP",
+		"publisher": 39,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b327387caaca17e37011da20608f2432ec9957969d933e2817dec6e9a6e57a9.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5629ef022870f16f0e12cca1ed3d14fc447d517a68d62cc79cadb9e2a5279bb2.jpg",
+		"data_size": "73236620",
+		"description": "このソフトは、2002年に発売されたゲームボーイアドバンス用の法廷バトルゲームです。 弁護士･成歩堂龍一(なるほどうりゅういち)となり、絶体絶命の依頼人を守り抜き、真犯人を暴き出してください。ライバル･御剣怜侍(みつるぎれいじ)や新キャラクター･狩魔冥(かるまめい)など、個性的なキャラクターたちが物語を盛り上げ、法廷でのさらなる熱いバトルを楽しめます。 『逆転裁判 2』からの新システム「心理錠(サイコ･ロック)」は、秘密やウソをかかえた証人に出会うと現れます。このロックを解除すれば新たな情報を得られますが、失敗するとペナルティが発生してしまいます。正しい「証拠品」をつきつけて真実に近づいてください。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-12-02",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/f73cd89890c03a66f61c96ac5557a4a7c129c0418ab4e55aa625d466baafaed3.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/6c951a4e72cab615da168edeaa6c0504b550c018941d07af516d7a89a2a088bf.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/a8dbd9e55ae75e0bb06bdca4558c045eae32ce4acd87c6f1a4c7dffbbffcbcfb.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/27cc422e32c27cc3f596e8648c417a0a40e6fdac86946e00d0c0da2cb90354d1.jpg",
+				"name": "逆転裁判 2 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/630329a8cbde027fc930ec7cfff62bbb52727534361fd896a4fbd89115d91f4d.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "85"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ab5e8158b1645e9180dfcdc133458b9437157edc420cbfb632f49f21ced489ed.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "85"
+					}
+				]
+			}
+		]
+	}
+}

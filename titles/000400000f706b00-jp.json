@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000F706B00",
+	"eshop_id": "50010000041722",
+	"product_code": "KTR-N-UBJJ",
+	"name": "ライブ・ア・ライブ",
+	"platform": 1004,
+	"platform_device": "CTR",
+	"publisher": 246,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/33e660a74204549e9b1d23e405bc3fc67e619dabaaa6a10477fa0c168e306649.jpg",
+	"data_size": "4987748",
+	"description": "このソフトは、1994年に発売されたスーパーファミコン用のロールプレイングゲームです。 場所も時代も別々の独立した世界で、それぞれの主人公たちが織りなす7つのシナリオを楽しめます。プレイする順番は自由に選ぶことができ、クリアすると次のシナリオが選べます。 言葉がない世界やバトルのみの世界、アドベンチャー要素の強いシナリオなど、どれも個性豊かなものばかり。 7つのシナリオをクリアするともう一つの世界「中世編」がプレイ可能となり、「中世編」をクリアするとさらに……衝撃の結末があなたを待つ! キャラクターデザインは7人の漫画家が担当し、キャラクターたちがより魅力的に描かれています。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-11-28",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/990665ff63a7505f22935c56682c45bfcd6e5000f09417a01be193db0e819f6b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0ce06e468c52a5f472c1aac8d7248149952d99ab34e5e34c6425f88cbdced776.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/90495068f499bb2b59715711ad1a291ff45e9f635e76eac0a13b89bd5ae154fa.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/39f5d04fc20e0ab61793ae035ab0209df3f7b854740091adbd1ace773f0dea17.jpg",
+			"name": "ライブ・ア・ライブ プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/02376a0d83cd6df7628bf1e48f5110a3c75d8bcd94fdaceac775006ca43f1d7c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "78"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/322b4383fc8214785c636c4a3e6f4672c40c528b0cddc5803c06876b1e593c29.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "78"
+				}
+			]
+		}
+	]
+}

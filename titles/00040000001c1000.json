@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "00040000001C1000",
+		"eshop_id": "50010000042623",
+		"product_code": "CTR-N-KG5J",
+		"name": "ゲキヤバランナーハバネロ",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 1212,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b8651945141a572e38168bd5e304afd8691bfe1b66f2661337f8017ada20ba72.jpg",
+		"data_size": "46369636",
+		"description": "『ゲキヤバランナーハバネロ』はひたすらつっ走る妖精を操作し、カンガルーの如く「ジャンプ」で障害物を跳び越しバッファローの如く「バッファロータックル」で障害物をこっぱみじんにし、モモンガの如く「パンツグライダー」で大きなガケから滑降し、チーターの如く「スーパーダッシュ」で落石を避け、さらには、宇宙人の如く「タイムリバース」で時間をまき戻しステージをクリアし、とらわれの姫君を救いに行く「ゲキヤバランアクション」です。 前作「ゲキヤバランナー」から、難易度はさらに激辛に！ そしてステージ数は前作3倍の135ステージ！ このご時世には珍しい、ライト層お断りな、心折(しんせつ)設計満載な、ゲキヤバなスピードランアクションです。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2017-06-07",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7f54bb4e86b329affdce808791cdbb512a4436edaeb42a4bafc62d64ac3b49e4.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1dfdd0e35283ce0d27a8d0fa0b450960ef0c7972315b8e6382bbf6458009ddad.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2fd9dfd0372e46e378593e1f69b26a59b2b82778f4d85bdc13bda3839271fe1d.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/db76aa170a2a278331df608e6430a7d34041252b7d571c0dacaf407f80912555.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/52ed1a860b99d23f86dc87008c7d58eba403a6a9bdbcfa9167fdb1cf7685d2ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d8bbdd3b8b696c08e6771471a1a5053db3aefce7e09a97d7c0802300c3172a49.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5ca465d4bc88e1f2f7b6dbb2a701d458d18f940f27f6e144ac7cada2e94c3016.jpg",
+				"name": "ゲキヤバランナーハバネロ 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7d4c9efbb1319b27294deaf2678192cf0d5cfc9bf3602b20937639dc4bb61dad.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "56"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1f42d694725840275e46d3958221fb2d158a81f89176ce9e87f1ec648c378fc0.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "56"
+					}
+				]
+			}
+		]
+	}
+}

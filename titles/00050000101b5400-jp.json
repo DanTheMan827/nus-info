@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101B5400",
+	"eshop_id": "20010000014387",
+	"product_code": "WUP-N-FHAJ",
+	"name": "ホーガンズアレイ",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/aba0c8806f96140203facc99d0481394dc9cc1e171bbf01ce5f58da5ed388f4b.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/061dc3fab02807ca3ef221c1043f56a83346831fe4864c1978e7f0b18b86cfb8.jpg",
+	"data_size": "38731936",
+	"description": "このソフトは、1984年に発売されたファミリーコンピュータ用のガンシューティングゲームです。 現れるパネルの中からギャングを見分けて撃つ「GAME A」と「GAME B」、放り出される空き缶を撃ってはね上げ、得点を重ねて楽しむ「GAME C」の3つのモードがあります。 パネルは、GAME Aでは3枚ずつ規則的に現れ、GAME Bでは建物の窓やすき間にさまざまなタイミングで現れます。ギャングのほかに警察官や市民のパネルが現れますが、ギャングだけを見分けて撃ちましょう。 GAME Cは画面の右側から放り出される5つの空き缶を撃ってはね上げ、ブロック台に乗せます。画面下に空き缶を落とすとミスになります。 ※このソフトをプレイするにはWiiリモコン（またはWiiリモコンプラス）とセンサーバーが必要です。センサーバーは、Wii U GamePadのセンサーバーでも代用できます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-06-22",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/2e72b22573fcdf10f04356ade75d940ff3b16c1a7493a5b418a7ea43450055cf.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/dfa00114438511fb5d6f6f0599ae47b9b58597d29032edd3e90ed0df300e9d2d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f29c2017ee847800cffba1529c76ce26b520fe3a40c21446b2f4052b42b17cbe.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/53d8b818550aebb853dee485edad85eaee7367db1570bfa1e3b62c817de6e1ed.jpg",
+			"name": "ホーガンズアレイ プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c84f8c7445e8c1854ec3dfe4d86d1ea38a8b98cd51aef95ca0918817cbd73621.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "62"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0f1d6a5d902792e6e91c678ab032c143c2ca7f417f6730985ef8a59258560900.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "62"
+				}
+			]
+		}
+	]
+}

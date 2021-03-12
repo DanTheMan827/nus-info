@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010171400",
+	"eshop_id": "20010000006707",
+	"product_code": "WUP-N-FDBJ",
+	"name": "バベルの塔",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 27,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e58363edd99b22518892d1df72f4f241501134efaf1b418111853ec19fc72967.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5f32a7cbd02c39b97f7512ea683656fa908c80958b5c1ec68ffb520f9eafe7ab.jpg",
+	"data_size": "38731936",
+	"description": "このソフトは、1986年に発売されたファミリーコンピュータ用のパズル&アクションゲームです。 考古学研究者で探検家のインディー･ボーグナインを操作して、頂上にある空中庭園をめざすのが目的です。不思議な石を運んで組みかえたり落としたりして、出口にたどりつくとステージクリアとなり、次のフロアへ進みます。フロアによっては敵が待ち構えていますが、石をぶつけて下敷きにするとやっつけることができます。また、8フロアごとに「壁画の間」があり、塔の頂上へ上がるために必要な「謎の絵」が隠されています。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-10-22",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/60137fba4c3b97c415f3d4a95fcdb2b82246f9ca8d32935dde309103c8cd7fbe.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0af9f5f2ebafcf1f8e816a1920cd5ecbb40c05e23773ef2a3b8b3735273852ba.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e062118ea2d5614ec53046b9f058452927ca4e9e390d11695f8c29c74fb7c4b0.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/951fd6be5497b2c35f58c5aaa87fbfce1f2d3765d0d881f929fa7634bf7112f3.jpg",
+			"name": "バベルの塔 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3fb23b7c40d6951f15edc1835a37d1e05385bdc7febcbc6099616b948ff3023b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e6a55e02e86d78c7ffb76cfb0ce49e94c922854295afa250535261cee62c3925.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				}
+			]
+		}
+	]
+}

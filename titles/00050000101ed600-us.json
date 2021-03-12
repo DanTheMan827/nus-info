@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101ED600",
+	"eshop_id": "20010000024187",
+	"product_code": "WUP-N-BZRE",
+	"name": "SphereZor",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1748,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/523424d5a5bb0e119dc56aeb8671c757a37f60039f7f9ea62b666553a43a94cc.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7758dfadcb3c199ade8ff5747fa18f6ba9c2cc79b89ceff8bebf10828331be9a.jpg",
+	"data_size": "423329952",
+	"description": "With its classic Arcade Style feel, SpherZor takes you back to the good old days of gaming. But no need to wait in line and count your coins at the arcade, you can get the unlimited SphereZor experience in the comfort of your own home. Enjoy crossover gameplay inspired by classic games you’d find in an 80s arcade. In 70 challenging levels, help SphereZor and SphereZora to escape the TriZors. And if you like, share the SphereZor fun with up to 4 additional players to battle it out with you. Guide SphereZor through challenging environments and level hazards to collect all the Power Cores. Beware the evil TriZors - they will stop you at all costs from saving the land of SphereZoria.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-09-08",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/fbde4fb174d32ff8bad525e1a25b3c12e67f4dcdb0df89aab6226bee60256d78.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/505d48dde4db81b709e488a0e2fcd8e7b349c719ba28953022362fde405d5bee.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b2912593ac8c007e28c406e4b0475a0e5809bb67d7dac026f42f869738da5996.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a79df99748787b31124eb58a39be43292faa2723e8e641be61007118918d65e6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8e45a823b122c966d5d0b310e134c9e168f4d7fcaf5a9e93e5a0d8f43afe9b6e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/09ceaee8cfcdd7bc4eaa27aa76ff7fc19f842d949aa8ca21735d0fe35e5ff7ec.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/896e7693212cac0d137eaa392f739ae4391a94ea7588699a6d6557ceb5d23f73.jpg",
+			"name": "SphereZor Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/71d00e8cbc1b236a970a09fd0e7a55e3100163e971111c88d39ecd15d4335a1d.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "116"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c402cf8195aafdf77ace7d151e2f60bf367e27e363dd0ed9d657614ca183972b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "116"
+				}
+			]
+		}
+	]
+}

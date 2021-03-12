@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010195000",
+	"eshop_id": "20010000019427",
+	"product_code": "WUP-N-MNVJ",
+	"name": "HYPER SPORTS 2 ハイパースポーツ2",
+	"platform": 167,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f9fbbd1b6aa0b779b88c070182a883634d21c432616fa1cab4b3d8a243d59b96.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/1a2c1de578001827cd04e0c658ff365456509e57705afb571f1c332d00829dcb.jpg",
+	"data_size": "78708876",
+	"description": "本作は1984年にリリースされたスポーツゲーム。プレイヤーはクレー射撃、アーチェリー、重量あげの選手になり、世界記録を目指して三種目にトライしていきます。 一つ一つの競技に基準点が存在し、この基準点をクリアすることで、次の競技に進むことができるようになります。基準点のクリアだけなら難度は低めですが、世界記録を狙ったプレイを行うと、高難度のゲームを楽しむことができるでしょう。 各競技の操作方法を上手く駆使していけば、高得点獲得が可能なので、タイミングを体に叩き込んで競技に挑戦していきましょう。 三種目全ての基準点クリアで、また最初のクレー射撃に戻りますが、2週目、3週目と基準点は少しずつ高くなります。少しづつ目標を上げながらのプレイが、攻略と世界記録への近道になるかもしれません。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-10-28",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/0c011e22eb052a14f70c325a3ae65544a056eadc33170c7e82e03a2cdf02b2e0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ce263ca4cb77e882fac0c30086d1f6d4ac619b00bae3f7994454b580a7f6f962.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c7a0753b783e200fadb224cbb4b37c6dbb06e61bb761469905e6e26d0adc7f49.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/098ed074d1e75a204f1c85a80370c332f8f9fdeb7b2f5e16e0ccccceb43e2c21.jpg",
+			"name": "ハイパースポーツ2 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/eeb9fe8733d7b77d2774b635eff7d753707316d301b592d6bbd0ec5f8ea4db7e.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b5fd330d414804814d3b14ea5c0b55922f4a406a5505455a936986d22529e852.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "00040000001C9700",
+		"eshop_id": "50010000043335",
+		"product_code": "CTR-N-J4CJ",
+		"name": "空のフォークロア",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 146,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/625a47616dc16205984b206440a06ce1345d018058b4f1ec195b5f665fadf650.jpg",
+		"data_size": "83172196",
+		"description": "『グリモア（神様）』の存在が希薄になっている時代の物語。 主人公エアルが成人の儀を受けている最中、突如、町が何者かに襲われ、炎に包まれてしまう。 この混乱の中、エアルは皆を助けるべく空のグリモア・ノグアルドと契約する。 エアルとノグアルドは町を火の海にした犯人を探し、凶行をとめるため、ほかのグリモアたちを探す旅に出ることになった……。 『空のフォークロア』は、スキルセットによる自由なキャラクターメイキングが楽しいファンタジーRPGです。 仲間と、そしてグリモアたちとの冒険を、ぜひお楽しみください。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2017-10-11",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ece5c638758ca9e6b703e8a5881cc76273991fef6e1ac5226becfb398ca07464.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/72efb2a3b708d171d3013a5082040e3d6720adf12d8b81518184df8466ac6d8e.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/248f33f6ca1a36204bab8ed1ee1f863b315846df41eecc2392bea11e2d63d8d7.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/86d854d64726a339e424911cb5b7a520b28dd414eea7780199b4c730015bb399.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/761d859048129542f186c28e2a64f1d11d7bbb3f8918675a41a13b890283f290.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7886e0a5e20c5911112ef2545ff1750e471515be99035f0ca20a247577cca919.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/615e9fc3e29342033d621a86bf52de9ae26b4b790f43491ff58ae41f1f2264c6.jpg",
+				"name": "空のフォークロア 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0efa405d12985314dc197ce593509504f762a953bd8b988fae451b188528ad6a.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "88"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/eb797fcb3b3eff5d7231024194cba6bebc2a6d62bce6a0131e0731725ea512bd.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "88"
+					}
+				]
+			}
+		]
+	}
+}

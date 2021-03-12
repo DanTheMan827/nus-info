@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000F8200",
+	"eshop_id": "50010000017559",
+	"product_code": "CTR-P-ATSP",
+	"name": "Mario Party™: Island Tour",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/cf491cd19a9af29c35c8cb117ca2b59e7ad9d97cef19b54c6975cfe1cbda0a95.jpg",
+	"data_size": "257813396",
+	"description": "Sei pronto per il party game in versione portatile definitivo? Unisciti a Mario e ai suoi amici nella loro corsa verso le nuvole in quello che non solo è il titolo della serie Mario Party più elettrizzante di sempre, ma è anche il primo ad apparire sulla famiglia di console Nintendo 3DS! Essendo un party game targato Mario, non dimenticare che lo scopo principale è coinvolgere i tuoi amici nell'azione! Mario Party: Island Tour offre risate in multiplayer, tramite la funzione Download Play, il che significa che ti basta una sola scheda di gioco per divertirti insieme ad altri tre amici in quasi tutte le modalità del gioco.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2014-01-17",
+			"retail": "2014-01-17"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/17fbd8d1945e08f96bce0e6f7969b86df56c2f03668ae5bba83ec1f119c7dfaf.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/3b0d8f7c841d372a3b1e1fbb52047480ff7b1e8d64be5b0696fa90c437c6fb2c.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e6fbdcd1f0186215e0f73111d4ce7d1803d9b5eea9ba87c1d3882bab95482ab7.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a94abd7e41bb9408be1e01f8263ba133bba44e564650b235ceaa3e467967760b.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b22e07efbda51333f00b201a0b46b29db89e4945eb2d142ff942626ee8f80a55.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2a20eb09281a74c28f50f0a7419223eaac0499ea0bd27761a2ec42cbfe99bb0b.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f409ea87e46b522e1a2e7ab3859b53762b816bdf27fa403d098a68b36b9f24b1.jpg",
+			"name": "Mario Party™ Island Tour: trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/987576a751855b8bedd40073ffc348b56fcfdc6d2c3959e8bfcd9aa6340fff59.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "150"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/de8f7bfdf3a037d8207aeef297343dad7ea92d501cd678a5a983f76fc3e5299c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "150"
+				}
+			]
+		}
+	]
+}

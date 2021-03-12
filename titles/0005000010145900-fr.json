@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010145900",
+	"eshop_id": "20010000004024",
+	"product_code": "WUP-P-WCDP",
+	"name": "Coaster Crazy Deluxe©",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 87,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d6bec70d876bff1e5e6e2147084e0c453383e802c078337c98296c04a9af9ad7.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/004a8ba0a653a48e8f8020e4c34827a6bb53d7cfc97eee9a78a2ff87900356eb.jpg",
+	"data_size": "457867404",
+	"description": "Un nouveau type de jeu qui saura vous mettre au défi, par les créateurs de RollerCoaster Tycoon® 3 et LostWinds®. Coaster Crazy Deluxe vous fait voyager à travers le monde (et sur la Lune) pour construire un empire de montagnes russes florissant composé de créations toutes plus farfelues les unes que les autres. Débloquez des pièces spéciales, des trains et des types de circuit pour gagner encore plus d'argent, et accomplissez les défis imposés par les personnages Dingos du jeu.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-11-21",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/692f29f4be575dfdc82a758057a7ccf799dbd039b8342a213d3b7bc045f1f1f2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/717373a5f359631766c86c31ebe3e047f6ffd8227a465881200f11a891179f72.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5c930689f221d4ba22197ea5846771637bf4957f6e59aaf5350a27c28a531dd6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/839f2c0af3ba5821d3c5a1cb8a752f4933dcd2e51d9dc5836589b81228c11a03.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/fa4e1918287f047f18ab6b1acdc734acd1a718aff6a70bba41dd3647caac295c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/071e7f4f0b31b3a5e3d97226e0acc604942d4802b1e98e475a7e1d2e46d2037b.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/650ba2e223f106a85eed4049f3cf14362f9c875ad6861919de5bf54c4d4d7b0b.jpg",
+			"name": "Coaster Crazy Deluxe",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2501953c68524d76c3c3cee8f2369c8f2e97237f5e58cd5ae15734221788d88c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "99"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b06b75107a01d6e1c6f5d528eb48869c604478ab998f9dc9c9867c3a93a87c9d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "99"
+				}
+			]
+		}
+	]
+}

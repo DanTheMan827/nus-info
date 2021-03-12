@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010160900",
+	"eshop_id": "20010000008646",
+	"product_code": "WUP-N-FCQP",
+	"name": "Mach Rider",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ed160e922bf2bf733dd8debb5458b5eacded4d62565ce861dde54771d5d9e36d.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9e65c12b04cf9339f307a904dee03040f85faaec879e8e4517351d616ebefc52.jpg",
+	"data_size": "36536460",
+	"description": "La terre, en l'an 2112. Un motard solitaire parcourt le monde, seul contre les envahisseurs, à la recherche de survivants. Vous êtes Mach Rider ! En mode combat, atteignez la ligne d'arrivée en mitraillant vos adversaires ou en les poussant sur des obstacles. En mode endurance, mettez vos compétences à l'épreuve dans un contre-la-montre effréné, ou testez vos talents de motard dans le mode solo, sans aucun ennemi pour vous barrer la route. Dans Mach Rider, vous pouvez également concevoir vos propres courses grâce au mode création. Si vous possédez ce titre sur votre Wii, faites un transfert Wii™ vers votre Wii U™ afin d'obtenir la version améliorée à un prix spécial ! Ceci est la version américaine du jeu.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-08-07",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/b88e622e0fa508e9ea0fd0fc21950d639f49579892bf4f982de14cdb84b18182.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b9b6a7038a17f2e4b3152ad446e84fd0442e794572df60316fb6a2386f4f504c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/df840799996b2ba1fdf9461b6ef67b95e292d6fb6ce6f02b03cd83ed7ad32581.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5fb200ca62acf523ec7135d754d0425c0fcaf83ab7ad405170d7d0dbfbc5eade.jpg",
+			"name": "Mach Rider : vidéo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/affa3e6b3e8900d1226333b6b2dc28cebf4d378e5acf519fa0e5d4701129e0f0.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0fe11563deee985df199ff0467b50f1daf3d642b75cdae9b3af277f71543bdb8.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				}
+			]
+		}
+	]
+}

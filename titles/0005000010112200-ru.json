@@ -1,0 +1,79 @@
+{
+	"title_id": "0005000010112200",
+	"eshop_id": "20010000000293",
+	"product_code": "WUP-P-WBDP",
+	"name": "Trine 2: Director's Cut",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1042,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e7ff5dd7d7c1ecac39d5bfd5c0ddbbd155a94b27e16bdd976df29421e09d7e87.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b01fb699729624e698fb308561bc9af2ca645987cadda5d536f3a648f5d85708.jpg",
+	"data_size": "2034499864",
+	"description": "Trine 2: Director's Cut — это потрясающая смесь платформера, экшна и пазла. Игра перенесет вас в сказочный мир, где настоящие герои умеют не только быстро бегать, высоко прыгать и сражаться со злобными гоблинами, но и решать хитроумные задачи! Чтобы осилить все головоломки, вам придется вспомнить закон всемирного тяготения, а также физические свойства огня и воды. Кроме того, в сказочном мире можно и нужно колдовать!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2012-11-30",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/479d272b5c0890a88d2b639b052c997dc24c2ea525a19a7965c90746de19cfad.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3ffc6678808f8039de7d5c27c1d81c4ca9cddc32daeebae5937f78d09a4d435a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/caf86eeb99c8b7bc0be7b2a33d2c7261c70e905f24d4c54c461fc72099d341a8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/93d53df67ed4235ccea8eaf5c43398c3c97e36daeedf7d355834b8db5e03f475.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5af5b2877020b2612fa7360b5b5fe8fe237c6f384b5a8151111258eaa1067761.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bd4a1893fe558fe009c0332f1d45869d4db6891261cf1b4cc5fa2ce3e4b884f8.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6193d3c84a8182ff7a43bb62bf1209282f4647c5951d1d9818fb27dda02daa79.jpg",
+			"name": "Trine 2: Director's Cut: видео",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/03b2f53ff69fa186ba4dbeb4b297d38c051e4fbf9a292df3a58e3ed04c0e8aa5.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "116"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6ac760e6c7d4649f0ecce79a532e32d734366893dbe563c0766cf05198d905ac.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "116"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/decd9ed4384f94390f8410d057335a5f19b0396cfb8b48465c18dfc5d062dac6.jpg",
+			"name": "Trine 2: Director's Cut: видео",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d00e8f009d5d2422ed6e8e32f34fde5c52f4ec76687c0fca27dee9cadaeb771c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "70"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0c731207990e3f960c1ec5681c0722a457a82df469f3955a5c2e4f7cb3d3a6cc.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "70"
+				}
+			]
+		}
+	]
+}

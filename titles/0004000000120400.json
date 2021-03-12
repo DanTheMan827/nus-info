@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000120400",
+		"eshop_id": "50010000023019",
+		"product_code": "CTR-N-JTQJ",
+		"name": "ガチャレーシング",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 19,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b7436df03264c9beaff43205dde89a4ab715b74d67da626bdcc9b6853d15d7d7.jpg",
+		"data_size": "113089380",
+		"description": "『ガチャレーシング』は、ガチャで手に入れたパーツでマシンをカスタマイズしていく見下ろし型レースゲームです。 レースに出場して稼いだお金でガチャを引き、手に入れたパーツでマシンを強化してさらなるレースに挑みましょう。 パーツの合成や、特殊効果を持ったアクセサリを装備するなど、カスタマイズの手段は様々です。 サーキットをフルスロットルで駆け抜けたり、ドリフトで峠を攻めたり……。 全12種類のコースで繰り広げられるレースは全部で30以上。 さらにすれちがい通信にも対応し、すれちがったプレイヤーのマシンと対戦することも! 最速のマシンを組み立てて、全レースの制覇を目指せ!",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-07-02",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b10b3ff0fd6b4068d49e68afe10ab760c78b133614df2a81c49e06e3c45dd3ea.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5222ed9349a51162a316920d252489d54f40d56241615f097d4ea649358d6191.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5bc43da81d770de2de5bceffed611ff8681af146e004cea22036262102972602.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b35addf119fcb8c9a807db525ac2d9a6574262c797124644b846dfcf34f792b8.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e0af639ca611dbce999dde353e91298ff5237a0796c1f09c9d312601c88a42ac.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/58db07a38ea116e38e6ef62ab257a3bc8c7bfa986780516c682f8e5795607fa2.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ab31aed91a5bfefcea52ad458f152381529128d92d2b727ac8f7225df82c2d44.jpg",
+				"name": "ガチャレーシング 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/067caefb3d23b2838af3b321ddbcdb251891f6bc4f4c6451ec11eda71a5d8d65.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "96"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/72db6c78afaf13328477ae616849ff3a72a1fef49fce13a0e894323ae4f3cf8a.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "96"
+					}
+				]
+			}
+		]
+	}
+}

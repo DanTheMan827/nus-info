@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000D0A00",
+	"eshop_id": "50010000025495",
+	"product_code": "CTR-N-BPCE",
+	"name": "Pokémon™ Art Academy™",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/899f2712ed5eba5a7a43889bc81d029a55782cb81cba0f43b67ab29b25015100.jpg",
+	"data_size": "336198500",
+	"description": "Los jugadores hacen el papel de jóvenes artistas que se inscriben en Pokémon Art Academy para aprender a dibujar Pokémon bajo el tutelaje del profesor Andy. En las lecciones iniciales, los estudiantes aprenden los conceptos básicos del arte, como crear formas y colorear, y se les presentan varias herramientas y técnicas que usarán para crear sus obras. A medida que avancen en el juego, los jugadores podrán crear ilustraciones de Pokémon y dibujar en las numerosas lecciones de la academia utilizando la pantalla táctil de la consola Nintendo 3DS. Cuando se gradúen, se desbloquearán todas las opciones del juego, incluyendo una serie de lecciones especiales sobre Pokémon megaevolucionados.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2014-10-24",
+			"retail": "2014-10-24"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d0ed6f797021ea17be3f5203b1b5f81fa669d9d9bbb118d76418a06109f9e6fb.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7e0e9cc31da1a9d0368a2172b9864fe2ac719b94b4cdefbd3c6ab2c2de099fa8.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/49042a65c5edf48f21f4363860fbbddf90563a51c11133dd5ec7d834b0b890c9.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6c6391a560649861f39de5b88701dfb588df11201d15609f417e81e71fd72c3b.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5b996536ce9a1c0efa5cc2b184cbab5834589221f5d8b95e79652ddb9664822e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d24853637d1012ce3d57742858df8a4d9c8df7a4d57db5cb7eaf29035e11567a.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0386f2291688dca031d3a1f5964ad0e4ef79f17b425bd30aaf1e96ff2c0d19f1.jpg",
+			"name": "Pokémon™ Art Academy™ E3 2014 Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1129e95d95079629040a0510f6d878cddcbdff96e01d0fa7a7c2064b35f41ffd.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "286"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b7187e4e53869f2ff0d0c0a2998e5b1fc17f9349c6003e030dc9469695b9448f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "286"
+				}
+			]
+		}
+	]
+}

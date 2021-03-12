@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010163300",
+	"eshop_id": "20010000012907",
+	"product_code": "WUP-N-PPBJ",
+	"name": "ビジランテ ",
+	"platform": 166,
+	"platform_device": "WUP",
+	"publisher": 136,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/835178074b0e57b75edafcd803a8862209124c9b2abdf3d80be40a8a0528e8eb.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ad1a7d2a5fc3a4636fb9f167088dc17a723e28a7e330291c537c8d68a71359c1.jpg",
+	"data_size": "83624076",
+	"description": "大都会ニューヨークを舞台に繰り広げられる、横スクロールアクションゲーム。プレイヤーは主人公「ビジランテ」となって、悪の集団によってさらわれた愛しの「マドンナ」を救い出すため、単身で敵地にのりこみます。 敵は「鉄パイプ」や「チェーン」「拳銃」「オートバイ」といったさまざまな武器を手に襲いかかってきます。 連続攻撃が可能な「パンチ」、間合いをとって繰り出せる「キック」、そしてステージ上に落ちているパワーアップアイテムの「ヌンチャク」を上手く使い分けて敵を倒し、各ステージの最後に待ち構えるボスを倒すとステージクリア。 美しいグラフィックで表現された「表通り」、「スクラップ場」、「ブルックリンブリッジ」、「裏通り」、「ファイナルラウンド」の全5ステージを、激戦を繰り広げながら戦い抜いていきましょう。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-02-10",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/47c9c3fa21dcae5689d8c313959acee906224a8be9453d43d2308be17567c1b2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/147735a5a7ee922cd3cfc425c52495ae7603b23ea135ca03c3ff3f9ac9bd0a28.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3f15c865a0e06703862c1a99631c50dc5026b2aaa4e5090c31352d0660f0cbd1.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/297349a9fb84fecdaefacd6a2555333cfac4c250d08971f1b1a82263b2f2a124.jpg",
+			"name": "ビジランテ プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4ed3cfe9a2978b4e69af89dc876988c8c3c2a721d4d95060a3f6ed23c10cf564.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "41"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/41dfd4a06eaa896d78e785a24d676da31ba05f7b095b13e27ff40788d18700ff.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "41"
+				}
+			]
+		}
+	]
+}

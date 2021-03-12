@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000163600",
+		"eshop_id": "50010000031816",
+		"product_code": "CTR-N-KS3J",
+		"name": "@SIMPLE DLシリーズ Vol.36 THE 密室からの脱出 鉄道編",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 57,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b9ee480b9a54f9aa9ae04b15908b137440062c3fe2e64bf101bdb8f8368743fd.jpg",
+		"data_size": "59399012",
+		"description": "さまざまな場所に閉じ込められ、謎を解きながら脱出を試みるアドベンチャーゲームです。 今回の舞台は鉄道車両。特急列車や、駅の改札、寝台列車が密室に! その場にあるアイテムを上手く使って脱出を目指しましょう。 鉄道ファンも、そうでない方も、旅行気分でお楽しみください。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-04-01",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c566c36cd40983b2433416d57759433372b7dda53db9e0e8f009b1a0601a6a97.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9b80e10a074965e26d38920ce39f2987074d97dbb196cc4a13dfb7a53a03a0fe.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/777a27838bfe9b24855ae3084d2b913833f360df84ec76edab925c3f2fc20cae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/edb756b4a15e57d7f517a84011e8f69d46386341281dcf785bbe264d6232d579.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b03ecfa2b615d71f682fa4a448e68ac3891bc56e56ff4acaa7bd2e8892c36323.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c3838e35e06ed3fd9e5fbf6f6fb6e2483774ef4ebbd34f3a697dd9965fc4ef36.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4086e4cca5ec56c38ae78da5a827d75ad78d4fcc42d4fec80778876f5bccc062.jpg",
+				"name": "THE 密室からの脱出 ～旅は道連れ!鉄道編～ 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/851633432fdfdee3c018105a6c726d6a6d02f604a465ee39aa4f9b5a3674b289.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "111"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e7c4b654033def25bf2ccdad9ead7b4aa41138a7f97cf3180bacb2911d10e97a.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "111"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010182700",
+	"eshop_id": "20010000009806",
+	"product_code": "WUP-P-WCQP",
+	"name": "99Seconds",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 76,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d6235afaafc3abebe2f349705b0bbcea07b67058086bf7ce1c0fafa7c48d52ba.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/325fddedd8dbb8ec9db8f58aae8f18e577b6b905f24d4b38cb249ea0effdabc1.jpg",
+	"data_size": "152731788",
+	"description": "Despues de 99Bullets la saga continua. Ahora tu problema no será el número de balas, será el tiempo. 99Seconds, un divertido video juego con estética retro, donde podrás modificar el tiempo para evitar todo tipo de peligros. Despues de acabar con Black Eye, V-99 entró en una misteriosa zona llamada Bit 8, sin saber porque V-99 podia modificar el tiempo!. Pero todo se complico al aparecer los BLACK VECTORS unos misteriosos seres con la intencion de acabar con cualquier intruso que llegue a Bit 8. - ¡Tabla de Clasificación Online! - ¡ Controla a V-99, esquivando, usando el SLOW DOWN para ralentizar! - ¡ Modalidad Arcade como en los clásicos recreativos ! - ¡ 60 Images por segundo en 1080p. - ¡ 5 jugadores en Modo Arcade y Supervivencia ! - ¡ Niveles de estilo retro ! - ¡ Increíbles patrones de enemigos ! - ¡ Modo sin televisión !",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-10-02",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/d41ec7faa2adbc6db90fa2283cada5e28fe94527056df2ff26f85d6303984dca.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/49e9f463f0f56a40fdc214382dd07b8f64193c385fcd2e939508aff5c46e420b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7bdce0be7fd7ecb861387c0e32444a551f510767c0a390a8b35a76c98b58b556.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/23d93c3d698f71ac823dd7bcb07807ad96d19f493fbe7c2006b115988591142e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5ac26a95a8eed65979bd608992228d4286fd9d27a629af6bb55cc42efd037ca2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/94556e0245ed754297fc8578f9c21035428f882eb7e4d95dbbed337c1b5d0d33.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bed07a557a4db566224dfcce21ebad453a6e625eb7a4e5fad9a0e023c9fdb173.jpg",
+			"name": "99Seconds Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d7c6a1246770040f1218cc1a90dbb67cc184d833bd611a30b05f7b7e6fd9a3fb.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "66"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8050b01364201d2dcfe55efeb29b3f891c1e1eb4ad8f54e39c39d4dbc08da264.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "67"
+				}
+			]
+		}
+	]
+}

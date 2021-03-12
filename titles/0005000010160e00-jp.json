@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010160E00",
+	"eshop_id": "20010000006006",
+	"product_code": "WUP-N-FCTJ",
+	"name": "バトルシティー",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 27,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4637f04ad17e02b3b18c833f14eee73ec9b76ea2098c7437b6e54e705e162096.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/1bad81077688a75b63f40fb5295f8c067c0dca63864257ef587a3d4caab2a0c7.jpg",
+	"data_size": "36536460",
+	"description": "このソフトは、1985年に発売されたファミリーコンピュータ用のシューティングゲームです。 マイタンク(戦車)を操作し、司令部を守りながら決められた数の敵を倒すとステージクリアになります。赤く点滅した敵タンクを倒すと出現するスペシャルターゲットを取ると、マイタンクがパワーアップしたり、敵の動きが止まったりと、さまざまな効果があります。 特徴の異なる数々のバトルフィールドを舞台に、前に出て敵を撃つか、守りを固めるか、戦略的なプレイが楽しめます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-07-09",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/edc0d830e5500526a696753deb9cc7d55fb442f1a9b4ca6e37298b392279cde2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/21ced6455618b2c3aef621838f90049f33b2196c5929a3baef48c8c3919d2182.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/19eb7752bda51cf98ffa082e64c7052189308a3472158cd02815172695327999.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fe8f479685c027ac4e4319a01c6ce960c91fa3573997ec60e5763b00fb2e3848.jpg",
+			"name": "バトルシティー プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2d099062be95a9e60af4e55aa30d0db789a0ebb9ead3397758ed9363af465ebd.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "42"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ebaae315d24808dbc77f5a2f3309a7b1f2d856b4ab1a2289d9e202300c4fb519.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "42"
+				}
+			]
+		}
+	]
+}

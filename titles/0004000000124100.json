@@ -1,0 +1,87 @@
+{
+	"JP": {
+		"title_id": "0004000000124100",
+		"eshop_id": "50010000021435",
+		"product_code": "CTR-N-BJSJ",
+		"name": "JSガール ドキドキ モデルチャレンジ",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 367,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b87ec09277fb9b55e875910ddd5ec04b04eaef97f383fdb3c909907834465eab.jpg",
+		"data_size": "411077476",
+		"description": "今日からアナタは、女子小学生に人気の雑誌『JSガール』の読者モデル。笑顔やモデルポーズはもちろん、コーディネートセンスなどいろいろな「モデルテク」を身に着けて、人気モデルになっちゃおう! 雑誌の撮影やファッションショーなど、読モ生活をまるごと体験できます! ★キラキラな読モ生活を体験! スタジオやファッションショーなどで、編集さんの注文にこたえながら、撮影をしていこう。ポーズやコーデなどがうまくできると、誌面に写真が大きくのって、どんどん人気が出るよ! ★実際のモデル練習もおまかせ! 笑顔の練習に「スマイルチェック」機能を使うと、あなたの笑顔を採点してくれるよ。「ポーズトレーニング」機能でポーズ練習もできるので、あこがれのモデルに近づけちゃいます。",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-04-24",
+				"retail": "2014-04-24"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f97d66a18edcfe7c272c24e4eeb8807ec939e9096e138663641659d144b949e4.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6aa50b7fb028d2c93466e0cb5aa4872d0961a74515b0270d3bc743b31b1b17a2.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5f51aec3fb68957750279cd0c6020f89bb514a8812482a5974ae63dffe4f29cd.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/64d74d7c487898932b66159e616fe8a718db27e43974ad44677c9bdbb503b17f.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/82ef736daba2103409d289b1274e6067469e0fdc75788f7105dc58db60b6063a.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/95aaf71c5008dcb3fc8057ec0bdfdb4229b566de31dbb9aeb1e2b2a636464fcb.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bdd77d95a483523455a953d391b6f2181e9d0ab254e3d2afe528b6ccd99658fb.jpg",
+				"name": "JSガール ドキドキ モデルチャレンジ 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/de48d0145c3ac69b1b7fb120dcbbf0706dc7a13e01a26af26d3865e8fe2b6b26.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "180"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a9260ad02dd5e6fa541b4f05f604300fa2e676e602fe2433492668a7e8dbc0b8.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "180"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e56bf4261e0490f509b19a2cc12ac1f139fe479adcbe02100a66953a16af7927.jpg",
+				"name": "JSガール ドキドキ モデルチャレンジ TVCM",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e0506ea8e2cea2cc4aa3a371e0760d3ca97242c68e6ab9e158f4d62f3d2dac2b.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "30"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/976d784df15c741c980a0199b264f917ad9dfe1031af116a736f3b155315bbe0.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "30"
+					}
+				]
+			}
+		]
+	}
+}

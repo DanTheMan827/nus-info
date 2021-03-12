@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001016B000",
+		"eshop_id": "20010000004966",
+		"product_code": "WUP-N-WDFJ",
+		"name": "まちがいさがしパーティー",
+		"platform": 124,
+		"platform_device": "WUP",
+		"publisher": 1292,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e93e0b24e88326fa77c2dfd6d9e1a2d078d8bd00deb547ee1df871930a8eaef3.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4a7fa268a5f0ebde3e57f65f3db1ff2f70bbd400aae96812f27684409f52d2f7.jpg",
+		"data_size": "448594080",
+		"description": "GamePadまたはWiiリモコンを使用しTVで探す2通りの遊びかたが選べる間違い探しゲーム! ときには、1人で。ときには、家族や友達とパーティーモードで。複数のWiiリモコンを使い、TVでみんな同時に探す大対戦! さらに、350種類の写真があるので、飽きずに長い間楽しめる!",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-01-22",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/1cb06b2b8014079c8dec08b335f1bdb00661e957359c522ec0f74cfaf68d2800.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/7d7841594c11407d36eba9d40c41bb73ac10ffc9b60ada56af4719aa5108f4d9.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/87b591661fae8de91a1bb8e7aea94dc807ff77bafe49290221eb23680831383b.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0d84eace10f31567d8ff3e50a9487445cb6ebba1907ad891c434248c4f94df2f.jpg",
+				"name": "まちがいさがしパーティー 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/91c33e57bdb790d04bcfbec192336c335707e2f65e06af15b3e9017c2183b16c.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1c2b98d8fe0bec3c6b185f659073af3c396aefe34d43d7b9646c1c26fc797303.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					}
+				]
+			}
+		]
+	}
+}

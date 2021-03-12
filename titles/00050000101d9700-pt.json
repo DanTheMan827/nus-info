@@ -1,0 +1,79 @@
+{
+	"title_id": "00050000101D9700",
+	"eshop_id": "20010000022327",
+	"product_code": "WUP-P-AKKP",
+	"name": "Kick & Fennick",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 5,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e48f11743fd04b365b2fab04dcbf4427094ebf111ee9cb4875ddb47e0870879f.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/fc9e0cc7047604607a4193b485e2814b50df33548aaf802f4a81c405a3ee35f6.jpg",
+	"data_size": "2439938408",
+	"description": "Kick & Fennick é uma aventura em plataforma sobre um menininho com uma arma muito especial. Logo depois de acordar num mundo lindo, mas desolado, Kick encontra um robozinho voador chamado Fennick. Quando Fennick salva Kick de um robô-guarda ameaçador, eles descobrem que a bateria de Fennick está quebrada. Juntos, eles embarcam numa aventura até a Torre Central para encontrar um novo núcleo de energia para o Fennick.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-06-02",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/1cf6e2bd06b2956be14c629af2b795f1d79162507fe5858fb0d53656197394e2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6461eb5ac3a16fd622f3351950daf02503a41a034920e61144d9f611317c1fa3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f6d3a3db15141f966ef54f1affb38465a63791e33aa4c2bc8b6e44a089d3927d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/47513c9e118859d48407b4326917284d04396275d781fbf0958f66bc11752f30.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/91ba8efeae2d0a88e0a9e0bd0d5916362153d416f694dbbcca3c5fd337c9ccb7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1c5e0ba49712aba657fbac1badf92cb41786cd73aa7df20cca19ca8c2ccad232.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4227616f6f4e01c53a6614501654636249b0209e455b694a6d732ba2ca2692bc.jpg",
+			"name": "Kick & Fennick: Vídeo 1",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d7d91423ff0134a0c7eb23c869138b4db7501f7834d95451bf519098b5da0ce9.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fe18ad29686dd00acfc5f3edbbe9b5c61a5be1541a81cbfda94541349dc081b9.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/da742ce70d49bae50917a1482bc6c9aa7b8e55b3e211271508feda41dde824f2.jpg",
+			"name": "Kick & Fennick: Vídeo 2",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ec4303b98a3a35c2584067e8e20566d4caabb9202c3799129558223303c92c63.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "71"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fec00d06d59b3dbdd045f501c5823249ec529159579baac8de43acb46fce772d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "71"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000114F00",
+	"eshop_id": "50010000018717",
+	"product_code": "CTR-N-JWCJ",
+	"name": "WORLD CONQUEROR 3D",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 19,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/613ccee45449b2145d1412c55f0392738b907955e925b5142b8a6334be7bb6d9.jpg",
+	"data_size": "85625700",
+	"description": "『WORLD CONQUEROR 3D』は、第二次世界大戦を舞台とした戦争シミュレーションゲームです。 プレイヤーは1国の指揮をとり、3つの軍隊を使って全ての敵勢力の首都を占領していきます。サイコロでバトルを行い、カードで戦略を実行するという、一見シンプルなゲームのようではありますが、国の特性とカードの選択により、戦況は多様に変化します。 カードは全9種類。攻撃力を上げる効果をもつ戦術カードや、1度の使用で戦況をひっくり返すことができるほど強力な国独自の特殊カードなど、さまざまなカードがあります。 また、このゲームでは当時の各国の特徴をなぞらえているため、国によって有利不利などが無数に存在します。軍隊の種類や国の特徴をつかみ、戦況を理解することが勝利への必要条件となります。 複数の国が入り乱れる当時の戦況を背景に、カードとサイコロを駆使して世界征服を目指しましょう。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-12-18",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/04a84235b97ee91d7468268d95159d311f3cdb80c8b052476d58da3ecbd71a39.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/da65a17531d565c2d0892ae35e015c5f0a03193ecd0d58fd0f0b93c99f99e619.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b6e457f2810656e0d3006abca15654989a59c476135965af94854b71c3bea54a.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/429300e486fe16e2d216daf5d6face9141a27b67c12749c9c23d100ea3884913.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2d437b9b8804e5c51184a71da2b605ac55b13b8012916392d86e6390e527dbdd.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7f0aed467bedc55ead117a5709c88f0bdc0ad9acb940b3dbfd8f19a0b8c3db4d.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/62f549ef012c4a17af4ecdc6b802974e1377edc5ef9bb0b76e9c86b5dcfe33d1.jpg",
+			"name": "WORLD CONQUEROR 3D プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d7015761105beebb91250e96c3c5e7aa809b92f04bf8d1eee45abd85cf67d08f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/10e70013ee2a0b1b372c378a091d3793b28fcefca81c17097ba0d33fb98faa3c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				}
+			]
+		}
+	]
+}

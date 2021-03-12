@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010190800",
+		"eshop_id": "20010000011067",
+		"product_code": "WUP-N-FEDJ",
+		"name": "チャンピオンシップ･ロードランナー",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 149,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5480b402f260f69b97bb12928af6719ea68870c30b3d945b8d9aa05d249aa709.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/fca3e7e982dc8917c72c25b5edc8d06a2da1d7a0a6de3f61a0530702a9411c7d.jpg",
+		"data_size": "38731936",
+		"description": "このソフトは、1985年に発売されたファミリーコンピュータ用のアクションパズルゲームです。 1984年に発売された『ロードランナー』の上級者版で、難易度は非常に高くなっています。 ランナーを操作し、ステージ中の金塊をすべて集めてステージから脱出すればクリアです。ただし、ステージには金塊集めを邪魔するロボットがいたり、一見進めないような場所に金塊があったりと、一筋縄ではいきません。有効な手順やテクニックを見つけ出し、クリアをめざしてください。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-07-08",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/5a97d820ae3aa3c292d5b18a03bf866413c5f268e42c956297ad6604bc4a3486.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/e0c8c1b666ac2490ed1595d2542fda44fdc8cb7500855d45b49259b31b4c3ca0.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/395d2fcf67da22874bfc2626568825a4c64169ffd40ab07f9d3c226338fa7485.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/87c409bdce3bd3028c235210485ccfbbb2cf724f60d3fba30203cb4187f1037f.jpg",
+				"name": "チャンピオンシップ･ロードランナー プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e586b01643c3da649a1ad16d278c66a2b8b51fd6738072db099eb2eb3dac92a7.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "51"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9600a7882e7b1c2d2e1dd8be6d30043f79aa33f5e937bcaf63815060234f0d58.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "51"
+					}
+				]
+			}
+		]
+	}
+}

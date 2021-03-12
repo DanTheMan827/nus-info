@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101A7D00",
+	"eshop_id": "20010000014548",
+	"product_code": "WUP-N-JDJJ",
+	"name": "ダライアスツイン DARIUS TWIN",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 246,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4a440d58c568e33287fba43edab530b8b02c55b1225cd0096e9df5d12dad30f3.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/12e4450eda2acc0de7b9cc393ab82c29f441ee54a62308df9faa23270fadfece.jpg",
+	"data_size": "43090080",
+	"description": "このソフトは、1991年に発売されたスーパーファミコン用のシューティングゲームです。 かつて「ベルサー」と名乗る謎の異星人の艦隊を撃破した、惑星「ダライアス」のプロコとティアット。彼らの子孫たちが築いた銀河連邦に再びベルサーの侵攻が始まった今、戦闘機「シルバーホーク」が飛び立ちます。 敵キャラ「ヤズカ」の6機編隊を撃破したときに出現するパワーアップアイテムを取ると、ショットやボム、ARMと呼ばれるシールドの3つが強化され、レベルが上がるたびに強力になっていきます。 各ラウンドの最後には、シーラカンスやクジラなど水棲生物をモチーフにした巨大戦艦が登場します。ラウンドをクリアすると、次に挑戦するラウンドが選べる場合があります。どのラウンドに進むかでエンディングが変わるので、いろいろなルートを試してみてください。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-10-12",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/c79786bc2ad7fc670c5a01e72099786cb07f693d7f54e5825351dbc9207f146d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7e539b7ef17f636adb9bead88aef4fe74d7048f536e732dd43c65e75c2c04acb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f349dac82a77c2ae3bdbe94b46b17f9fbfeb558edf021ce3169464efc633ca89.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3f9ba0fd4a19e5d17eda7ec8ca3d52677a3039a1a63516834cf44db78e7617b5.jpg",
+			"name": "ダライアスツイン DARIUS TWIN プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/20c1fb9bdf176aaee304cb61d2fe5ebbb45955b97cad2950fe6f2b0bb043f5cd.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "53"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4ebf509d3ef689edb2c87a41053b254982648ce019a298b5c8a4ae618a4a0034.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "53"
+				}
+			]
+		}
+	]
+}

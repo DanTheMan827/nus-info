@@ -1,0 +1,54 @@
+{
+	"title_id": "000500001017DC00",
+	"eshop_id": "20010000012807",
+	"product_code": "WUP-N-WFUE",
+	"name": "Frenchy Bird",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1316,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ab08d0927c27b41e53de667dd531fc3c629f672db066ef82787d8b4a11809c76.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/de8bb9111c754e98ce1b1d3e3bbd1662390922bf68641e1dc07ec07c3840d220.jpg",
+	"data_size": "167411852",
+	"description": "Haz como si fueras una paloma parisino y vola a través de las calles de París evitando las farolas! Comparte tu puntuación sobre Miiverse ™ y alcanza los puestos más altos del ránking mundial de los 100 mejores jugadores! Características Acción arcade clásico Publica tu puntuación en Miiverse ™ con un mensaje pre-rellanado y la función de capturas de pantalla Ránking Mundial de los 100 mejores jugadores Posibilidad de desbloquear sellos en Miiverse ™ haciendo una buena puntuación Juego sin televisión",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-01-29",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/5d68679732e8f05129e70b26cef9b98f15d89a49ad9c0af6b3c44508f9a2ebd2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/fb1322be3a1117530cb73ef02bedba3e704888a0902e4f4ba11c5467aa67cf31.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/93247d9670ea2de5dc3fb9d96d05c6678b4bd14e434a0e01a55bac28209820d3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c92ce692dc4588c5db5a39001e53e06ff3f2253291bf18105ad29f45d742b89a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e1e434560c37aa0a4defb57d8c9a2ec946032e8b66ddb0cba979e27ea401d0d5.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/18a61b8f021dfe55c2488d517533f9f9f2be85636de3d518b9ac12f80ce80b78.jpg",
+			"name": "Avance para lanzamiento Frenchy Bird",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/23fe61dd5b51d89a9d601694c254c614f5444825068ee7f1075538cb6b308d4f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "54"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/af4a4cac89f2b490264890846231b55412e500d9f196eea5e6e0396452657b2a.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "54"
+				}
+			]
+		}
+	]
+}

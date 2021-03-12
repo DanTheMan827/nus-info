@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010109E00",
+	"eshop_id": "20010000001083",
+	"product_code": "WUP-N-JAEP",
+	"name": "Kirby Super Star™",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b368cd104bd37eb941ea08202fadb6a8942f4a11b5f87a190a73ea4f8f620417.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4ca77f54ce9ed18eb4737b43c3da435baa2c6399dd89f3dbcf5fd0b6e06fe98c.jpg",
+	"data_size": "43352204",
+	"description": "In Kirby Super Star gibt es nicht ein oder zwei, sondern sechs Spiele in einem – mit zusätzlichen Modi und Minispielen. Überall spielt der mächtige rosafarbene Held mit der Fähigkeit, sich die gegnerische Spezial-Power anzueignen, die Hauptrolle. Jedes Abenteuer hat eine eigene Hintergrundgeschichte: Kirby tritt unter anderem gegen klassische Gegner wie Meta-Knight und König Dedede an. In jedem Abenteuer variiert das Gameplay: von Jump’n’Run über Schatzsuche bis zu einem Shoot’em Up im Weltraum! Ein Freund kann als Kirbys Helfer mitmachen und die eigene Kopierfähigkeit einsetzen, um Gegner zu attackieren und Kirby zu unterstützen. Wenn du diesen Titel bereits auf deiner Wii™ erworben hast, führe einen System-Transfer von deiner Wii auf deine Wii U™ durch, um ein Upgrade-Sonderangebot zu erhalten. Hierbei handelt es sich um die US-Version des Spiels.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-05-23",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/a4bca4970a875f5e1256d80e829cdf1367330488f5a64469b235b64d80987802.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/beb2dca62d51a877a0856e10d34185d55516c28c0692327001084538ab50a496.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c7be534ac12f4ed91d99c67f2361bddad615f46445f2ba7c323a32e864c37cf9.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3d3627c168f9106df3681b9dc05792e45e7a41846dddb865cc27d7fadb4bf9c9.jpg",
+			"name": "Kirby Super Star™: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6234b8aa5747f5d5d6d007a1afc873b7081a430879fa54716b7ad80bfd1d9a72.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "69"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/79afccb86a7995b70ea6a9a0a9ba325e898dce8796e5ab2fc680b458ced8f076.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "69"
+				}
+			]
+		}
+	]
+}

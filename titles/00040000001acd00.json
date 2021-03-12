@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "00040000001ACD00",
+		"eshop_id": "50010000041421",
+		"product_code": "CTR-N-KBWJ",
+		"name": "ブレイブダンジョン",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 1759,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8043e01fa2d79dd2b7bb818f14ddb26b6fc433c7f5c5613ec2957b4b5ece8712.jpg",
+		"data_size": "216427364",
+		"description": "5人のキャラクターから選んだ3人パーティーでダンジョンを探索するRPGです。 【ダンジョン探索】 宝が眠る「ゴッズヒル」をクリアすることが目的ですが 全部で5つあるダンジョンを好きな順番で攻略していくことができます。 もちろん「ゴッズヒル」は序盤では難しいですが、 ほかのダンジョンを探索してキャラクターを成長させることで、 「ゴッズヒル」の探索をすることができるようになります。 【キャラクター成長】 キャラクターやパーティーを強くする方法がさまざまに用意されています。 経験値によるレベルアップ・素材合成で作成するアクセサリ・クラスチェンジ マジックアイテム・ステータス振り分け・ゴハンタイム など、プレイヤーの好みの方法を模索できるようになっています。 【やりこみ要素】 ゲームをクリアした後にはさらなる高難易度のダンジョンの登場や 条件をクリアすることでおまけ画像が見れる「プレイングレベル」 2周目からパワーアップできるアイテムが手に入る「シェガーショップ」 シェガーショップで使用するシェガーをあつめる「ポーカー」「テキヨケランナー」 ゲームコインを使ってドット絵を集めてデコれる「シェガチャ」など ゲームを1度クリアした後もいろいろと遊べるようなシステムが登場します。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-11-30",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/301a139aa3ea05d40e45a05381fecaecf57ee31223843d2c3a9020934d18c7a6.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/eea9b43af79eda73b643d6622768956bd5ffa2c9a907933d0ba8d2a1d4d7ed22.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/50922ea29113248f838adfb3107a40865c5154fbc3001f04f1860eed7c814dce.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/205ba4594efe5dec437ba1e893463baf7df30a301a460ff2b5a5c6ee1f734cbe.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/500ed7b36074349ecaa0583612c5472fc4beb1c83c8cbbd2d22eee372a8cff45.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7c6e13cf178272abc3161f4c01f9b4f51350c28c04db19a8b6711fbb4e5f23e8.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cae88291b06986f941539959963611e29d00af92b448c0a417c466391b619712.jpg",
+				"name": "ブレイブダンジョン 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/636455591521f127c0ed673fb49b869cabd54cb2e8c6578396ca69c68ace0346.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "302"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/56a1e325b08eea2201cfc40e72cb296defafd2f5ab0b440085bd2d8e921cc191.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "302"
+					}
+				]
+			}
+		]
+	}
+}

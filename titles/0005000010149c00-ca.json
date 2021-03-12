@@ -1,0 +1,53 @@
+{
+	"title_id": "0005000010149C00",
+	"eshop_id": "20010000003205",
+	"product_code": "WUP-N-FBME",
+	"name": "Tennis",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/01a0c4651a96bb1c57671c020e4f7954379b4f190963416c14d77ea8b80abe32.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/007fa4ccf56332f48a9f5058962feaa0c0696473b2c92053fced9989b5ac97e5.jpg",
+	"data_size": "36503692",
+	"description": "Players can choose between five different levels of difficulty, ranging from Beginner all the way up to Advanced. If players want to become true champs, they should be ready to show off their most brilliant lobs and most powerful smashes. Play a singles match or grab a partner for doubles, and go head to head with your opponent. Whatever you do, don't lose your nerve at the sight of a full crowd, or when Mario sits in as referee for all of your games!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-10-10",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/2ec975cbebd373ec5626a26cca48f984ee617ef8fd53ed588007a7d1e8cff4ec.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e82bbad160bc3ef41d05df8b811d483daceed2807860b36c8ee7692cb6e77710.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bafaf8a07b785b3d556e0accc37ed0a1da86279ab61b47bea77de7b4de972e4d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1cf0ff712603b9bbfaf5e3ec5ddf246f418c850b54ebe9839bb74008193946e7.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4ffdff068d0fd3e397960e1ac1febe4e3c5bd292edd3b0d0e3fc2d94380d7d5a.jpg",
+			"name": "Tennis Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4db3bff8235a2d2cdfb653a91c8578b5170e078dc81b135d4c1e5a74a816cac4.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "17"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/51ed6c817b47106517b8bdbadf1cb013f2ee1037f71b3a76906bb074efcefaf5.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "17"
+				}
+			]
+		}
+	]
+}

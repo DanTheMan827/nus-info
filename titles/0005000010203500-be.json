@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010203500",
+	"eshop_id": "20010000026134",
+	"product_code": "WUP-P-ANVP",
+	"name": "Sky Force Anniversary",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 346,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d0a16febc137e9b62e5825238da4c2fe97abd562588fa5e237b080f88a1520c2.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a9b02ffd4b77754044178f75f94cd54547b91882b65d06fa886dc6109ae1993d.jpg",
+	"data_size": "526516384",
+	"description": "Le shmup légendaire est de retour pour fêter ses 10 ans de manière explosive. Combinant l'intensité des classiques de l'arcade avec des graphismes modernes, Sky Force Anniversary offre une expérience époustouflante avec un nouvel élément de gameplay social incroyable. Il y a plus de 10 ans, IGN disait, “Pour faire simple, Sky Force est génial.” Obtenant la note incroyable de 9,5 sur 10. Et maintenant, il est de retour. Plus grand, plus audacieux et plus intense que jamais. Cette édition fêtant les 10 ans du jeu, ajoute beaucoup de profondeur à la série avec des superbes graphiques 3D, des contrôles intuitifs et un système d'améliorations puissantes qui vous tiendront en haleine pendant des heures.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-03-16",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/f1da2f41a415b97d61847876cf1a59744c58706dff49a1414b997cecb9c61214.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/84eab0991202e4b073fc985fbb5299fe333d3e05822107c1ffdc28a7a1914973.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/00120c20dd3962dfcdeccf20678d139b841e58a9d611d27978c9cdf866ad760d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6483cb3d2b74e03c33c2d235a030fc1f4e4b060fbaca1418175ff416e9d2880e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e67712f7d6993129a331ce7f213d266a5ca0393e9bf601202342608072d5833d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/599f0923a5a09e6a150c7593f7bfb169dcfc6610334295f83a8376e0bd9c2cc0.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f98e281cccc87566a5199bdc8793ac98e7a9f659b41859d5c37cba36780dc2d9.jpg",
+			"name": "Sky Force Anniversary - bande-annonce de lancement",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/370d8a0e20ddb3b879497398231eed46b6f27caecd20aeeea64669642f3d93a1.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "48"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c8de525235d9dc239067954a49fc4d1a534e10ab2b2488897797095b6bdfaab9.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "48"
+				}
+			]
+		}
+	]
+}

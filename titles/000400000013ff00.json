@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "000400000013FF00",
+		"eshop_id": "50010000033319",
+		"product_code": "CTR-N-BSGJ",
+		"name": "遊んで将棋が強くなる! 銀星将棋DX",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 237,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/2f91489588f6a95882400877fa5a55bfa30bc035e319bb8cf10c61af014fb9f9.jpg",
+		"data_size": "187853668",
+		"description": "パソコンやゲーム機で高く評価された、『銀星将棋』がついにニンテンドー3DSに登場! 300万手の定跡に裏づけされた実力を持つ最強の「四段」から、初心者向けの「入門」までの幅広い難易度設定に加え、将棋を基本から学べる「将棋教室」モード、対局中の二択ヒントや駒の利き表示などのサポート機能によって、初心者でも楽しく将棋を遊べます。 さらに自分の実力と同程度の相手と対局する「レーティング対局」モード、得意戦法を持ったキャラクターと対局する「将棋道場」モード、全100問の問題を解く「詰将棋」モードの3種類のモードで、さまざまな形の対局をお楽しみいただけます。",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-07-30",
+				"retail": "2015-07-30"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/65c98863ac57d5ddd404982643db74b80fc62f780d1d498cb54293d1b3b286d9.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/93bb794d2d9665cb4922cd972333249e15116d5eb02c8c47cce2ce60f6174099.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e522fbe4a406f8323384f6659d5ae06d5eca49b9fa582d86dbf639e7c17cc265.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/aa0995d9c1e732cc51428160ae90067bd787b7671eca2b55905f1bff43fde581.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a6293d40d3ba687ee9d58466580e3c3105e283187b55a978e39028b7fe3839a2.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2c32bad6275acc209b2651f0b98596d3b4ddeb5f8fe87dcc020784f2bfffb096.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/67f5199dca74b5cff7209646644549ea699e9cc5a57864f784067993c5ea9567.jpg",
+				"name": "遊んで将棋が強くなる! 銀星将棋DX 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5ad57291605e3baca8c8ca014831067328498a75d2eab5cf55ee9554668f485b.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "181"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5c08711871622205c62db55fb3b7ddc3421661b81695d52bad9ca0d3d4ffb6ae.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "181"
+					}
+				]
+			}
+		]
+	}
+}

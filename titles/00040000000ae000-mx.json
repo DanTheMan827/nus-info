@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000AE000",
+	"eshop_id": "50010000012044",
+	"product_code": "CTR-N-JA2E",
+	"name": "Fluidity: Spin Cycle",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c3fed72575c6dd6c167155ea3628d835f79ab75c93e8f2daf5e257d13c0b02f5.jpg",
+	"data_size": "191724388",
+	"description": "Inclina, gira y hasta da la vuelta entera a tu consola Nintendo 3DS para guiar a un charco de agua llamado Eddy a través de un laberíntico mundo repleto de traviesos túneles e ingeniosos mecanismos. Cambia de estado de líquido a hielo o vapor para resolver rompecabezas de gravedad en tu misión de derrotar a los monstruos de Goop y rescatar a los espíritus arcoíris atrapados en las páginas de un libro mágico. Cada estado de agua le otorga al jugador distintas habilidades que tendrá que perfeccionar. Los niveles están diseñados para jugarse una y otra vez con el objetivo de recolectar todas las burbujas de agua y piezas de rompecabezas ocultas para obtener la calificación estelar máxima. Cada capítulo del libro cuenta la historia de una época diferente, desde la era perdida de los dinosaurios hasta la modernidad ¡y más allá! ",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2012-12-27",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/53037abc71d2f4ebdeb0d580deafdffdc8066bef3044c365ccf827dd76f18363.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2d00d9b0a5d839155141383b7026425656b807a70318882fdde10d5868ce2882.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e71dfbcca01264d37345d044c482f08f7a68d0b28e2f11e7b308ef679eeedd68.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/435fd109e694fe87295b0c2b335d2aeb536a072f0f05eb372fbd4c6b8ca055ba.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8390ff0ca3047932d6939862ddb6ad2ac05e95792220956cc66ed4b260c28d31.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c6fcd3ba8344f4d9f049d63bacf249bca685e37b38dcfa5e3b84d92eddeca17b.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c30e6e3daf72bece2bf11fe778a934fbeead01a77fdc4993a01b8c5a4cda5287.jpg",
+			"name": "Fluidity: Spin Cycle Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8ccf8b96905bc81419e6ac5bb4475a15a9819d670413658f3d823339b6c022fc.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "68"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0a55ad1dd4317d487320ec0f7c18864d9a0a2b77bc4a6149cf7d237b3c44a159.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "68"
+				}
+			]
+		}
+	]
+}

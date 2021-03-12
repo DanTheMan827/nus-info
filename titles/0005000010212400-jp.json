@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010212400",
+	"eshop_id": "20010000026712",
+	"product_code": "WUP-N-AEUJ",
+	"name": "タロミア",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 882,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/aa03e92538698002233e4cfb2a15d1a033fabdf8a2367facb7783df486ebbc1c.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e542f6b66558a7b832fd444281d2313cb5eee0f19a36b80ccb54b801996590e5.jpg",
+	"data_size": "362086560",
+	"description": "『タロミア』はランダムに生成されるダンジョンを舞台にしたローグライクアクションゲームです。プレイヤーは勇者を操作して、タロミア姫が趣味で作成するダンジョンを突き進みます。 タロミア姫は毎回違うダンジョンを作成するので、ゲームオーバーになって初めからやり直しても同じダンジョンをプレイすることはなく、ゲームを始めるたびに新しいダンジョンが待ち受けています。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-08-02",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/ebb1f947726d85853dd95904503747c0d6d26fa156bc118667b17ee0fd7ddae5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/563aca59613cf35f7a21142cdc7bc97c9eb9ca4fbe7814cb6ce4834c601a3431.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/170828ed5e07a68f930fc4e2a9f22a23c4282b085a4c3de815665f309b54d143.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c0ec10055412e9358e2f764e72a97032627900e30e0b1b579894163726e07081.jpg",
+			"name": "タロミア 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5a4a22eea007f49d2cb4110e1cd0203dc2e4ca2fdf8c64a43898e691405c46df.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "65"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6790865b8bf2bd202a633ce670f15f8b4b7457ae94464d19ff554d5ee808b1ce.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "65"
+				}
+			]
+		}
+	]
+}

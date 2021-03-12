@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001012A600",
+	"eshop_id": "20010000002525",
+	"product_code": "WUP-N-JAYE",
+	"name": "Street Fighter™ II Turbo: Hyper Fighting",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 41,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b25b0bdb03ade064db2b067bd0642d214f92e13d92592eee885ea574250e8616.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4bfbfc6ba66f513723a6fbb08fea5adfe0a64d300f30a1acf6e17528f44300ed.jpg",
+	"data_size": "42303628",
+	"description": "Street Fighter™ II definió a la industria de los videojuegos en la década de los noventa al revolucionar el género de pelea. Street Fighter™ II Turbo: Hyper Fighting, considerado uno de los mejores juegos de todos los tiempos, fue el tercer y último lanzamiento de la serie original de Street Fighter II. Este juego incluye los ocho guerreros originales y la posibilidad de elegir a los personajes jefes Balrog, Sagat y M. Bison. El juego ofrece un incremento en la velocidad de juego y mejoras en el balance de los personajes.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-08-22",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/06f630a1776f564443bff5992b09e12684463072eb409152e5f375fd1c00a431.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2d5e0f2c6b7d48c6f3c2c057bcac0b245aa20e9d674d7738ab3c1603e118bea7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a61da501e434db09efdbd16048308bb55cfd88fd354c378ee6ac0e56b13d69e9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a4b457f57c24bea5ed1bf08f6bcad3d5f265a204badd9f3bef9bb7734cec1e15.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7f69cc4b0a952704417330ea3652a8e3524621cd3fc4db2725aeaba4c0c764f1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/84ed42e1f597f171ec9cc8750d350ac543170011ce9d53b16ff4192e0b4ff3fb.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ce9318a24fcc61b466c961786ca863c1a52fab33221295519ffa46fbc86a728a.jpg",
+			"name": "Avance para lanzamiento Street Fighter™ II Turbo: Hyper Fighting",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0f8ac02e68e9fbb2c62ad3b8b5e8738a880b31dfd08fb977a041aede7d6beb02.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6c4404de1975ec96394e794757ee8f7e3fa3c51164b546c7e681bf437edeffb4.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				}
+			]
+		}
+	]
+}

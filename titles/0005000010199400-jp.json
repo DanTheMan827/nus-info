@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010199400",
+	"eshop_id": "20010000013027",
+	"product_code": "WUP-N-NABJ",
+	"name": "スーパーマリオ64",
+	"platform": 170,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7adb56bc7a9bdc5aad68f023c370005dc4194ad751e41786514e8b2d720feff0.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/483329fbea073ebd83ee7e04ee96e4ca9e55f2f91165c5113bd1df8c531a1bf0.jpg",
+	"data_size": "54001784",
+	"description": "このソフトは、1996年に発売されたニンテンドウ64用のアクションゲームです。 横スクロールによる2次元のステージで作られていたマリオシリーズから、3次元空間の世界へ進化したのがこの『スーパーマリオ64』です。3Dで表現されたマリオの多彩なアクションを駆使して「パワースター」を集め、クッパによって絵の中に連れ去られたピーチ姫やキノピオを助け出すことが目的です。ジャンプ中にひらりと宙返りしたり、壁を蹴って高くジャンプしたりと、身軽な動きを楽しみながらキノコ城を探索してください。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-04-08",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/e7bb6a2437d251815c32f21bc31d19b349b696faeaa96e5a7fbb09473c64317b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/57e091e2f955f50e1a01e7b68aa6b08e84278dcc059d21849390a61ecb845d34.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/73f528be3a4f264ab3cb9fb2aac447446a25d9637458df82ebf792a35eb7f293.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/478b345c2b3ebaaff469b0a66d21e0553336f4dbf7edefd4d2835543b5bf126e.jpg",
+			"name": "スーパーマリオ64 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/685cb4aa00eb1cb777804847e3a5f5d35a36ac3de7485e8a21cb033192fdee4e.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f3175ec2b8a858fa660180d2c14fef66868c5abe62a61b34e12602f2f89965b9.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				}
+			]
+		}
+	]
+}

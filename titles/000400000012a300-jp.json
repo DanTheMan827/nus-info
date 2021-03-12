@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000012A300",
+	"eshop_id": "50010000021614",
+	"product_code": "CTR-N-JDPJ",
+	"name": "スター★シリーズ: キュートウィッチ",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 1307,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b0919dd15cbef93e44d87849eed6172ffb24b3437d3e3f857e72b1a2c53b4ee3.jpg",
+	"data_size": "22293348",
+	"description": "かわいい女の子が手軽に作成できるのが特徴のゲームです。 女の子の特徴は「肌の色/目の形と色/髪型と色/シャツ/ズボン･スカート/靴/アクセサリ」といった豊富なアイテムの中から選ぶことができます。 衣装を変更してもゲームには一切影響しないので、プレイヤーの好みだけで自由に変更することが可能です。 ゲームは障害物を避け続けるだけの、シンプルなゲーム性ですので子供でも手軽に楽しむことができます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-04-16",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a983349ead18c0d03dc11fdf0eb0c6e6be49abcb550369190e56081d46be12d2.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/dc69b488692922004deb26a23a3626ca319f9bd12cb51801ba09bb620a8f9553.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1f2e2b91590905abbbb0df54498eddb87ff3bea7e282e118a4a79a91422eec14.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/de535708df9230aa7967d61eb5c480f8584b87f5073260b33dda25a4a90ae697.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/71131127c2bf49133a42f2b3e0baad5b4b24b0b9fdf7cf4d8abc9e58e0e0340d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d8bd98776665bad44d3303c0b92dd577b160cab3e87ffe13e39d0a07faa48d08.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1e8002114a2c063bcd90b080d9020ed85fbc5d93c52121fdc6e3b40ec3204d21.jpg",
+			"name": "スター★シリーズ:キュートウィッチ プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ad969bf6cf26afad1548c160e881cb347ab45c45b775476450aaf2f353cac1af.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d5422dcc76cf00731d8e7567f76c2e106eb4dfcb07ec549fee6bd6daa374cd62.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				}
+			]
+		}
+	]
+}

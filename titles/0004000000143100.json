@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000143100",
+		"eshop_id": "50010000025817",
+		"product_code": "CTR-N-JA9J",
+		"name": "トレジャーレイダー ピラミッドから脱出!",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 1307,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/905967f101c1cba8543a2371dbb626dbd38df7449083aede0716a112c5cebeb4.jpg",
+		"data_size": "24243044",
+		"description": "『トレジャーレイダー ピラミッドから脱出!』はピラミッドのなかに閉じ込められた冒険者を操作して、より多くの宝を持ったまま脱出するパズルアクションゲームです。 行く手を阻む多くのトラップやモンスターたちによってプレイヤーのウデが試されます。 便利なスコップは冒険者の周りに自在にブロックを作ってくれます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-09-24",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2011a61c2b043e5f5c5f36fe82e2945816d7f0fdd42aa4e3a19820eea6aa3846.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/cea78c703823a7dc2c46deba708a4f7ab6cc0760413b5a26a7dc20a63b9e079c.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c46e71133083badfa51ae151c92d858b8df7e4b378a249948c28bdf8f11c8d74.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/26f546200da29bda45912fce3e5e64d31b962f09444025a0b32e590b27edf927.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/16487273dcd1831b05de63bd70a9e4746663f5a485cca0239b0e4b82755639e5.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2acd1344f4b3844fcfa40df2107d2b44ff3ceb62f849ae1b66d026c49a291b1b.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4b9b08b810b9bfdd1a8d0714c312104b332cbe6c2db5344d1a9d9221afc96bf3.jpg",
+				"name": "トレジャーレイダー ピラミッドから脱出! 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3bffd447f898b82303635c5ba45d0d87b679e39b0025c1aae903e6993c744138.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "64"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6f720b3fe1ccc45424e5fc342fdab03da30d722b371acf0e986a2e38b68d2c4f.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "64"
+					}
+				]
+			}
+		]
+	}
+}

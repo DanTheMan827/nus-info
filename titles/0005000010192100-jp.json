@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010192100",
+	"eshop_id": "20010000009786",
+	"product_code": "WUP-N-ALAJ",
+	"name": "LEGO®ムービー ザ･ゲーム ",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 483,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/68077afbf2a61b6577003d281024ae89caa2579c74e1b77e63217c742124af74.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/855febca01e57b2f3784a8bb938aeb361151b800c310257e93c631c0e8d5e2b2.jpg",
+	"data_size": "7361659620",
+	"description": "君のひらめきが世界を救う! 驚きのレゴ体験! 高層ビルが立ち並ぶ大都市、最新型の飛行機や蒸気機関車、山々がそびえ立つ大自然から雲の上の世界まで、どこでだって、どんな事だって、君のひらめきがあれば大丈夫! おしごと大王からレゴ®ワールドと自由を救うのは君だ! バットマン、スーパーマン、グリーン･ランタンにガンダルフ、スクリーンで観た、あのキャラクターたちと一緒にさまざまなフィールドを縦横無尽に冒険しよう。 森川智之、沢城みゆき、山寺宏一など映画版と同じキャストで日本語音声収録。家族みんなで楽しめます。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2014-11-06",
+			"retail": "2014-11-06"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/24bf8544ec2e341dd2be2bf0875116a8bbaf2939f17f5d66a5930a8dd9cc7e92.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/05b390378b2da1d978860048a5a454da74b5161db707a7da04a23f91d31151e4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ead4dd9d6cdb7fe28d811e2854f963366c8863208ce2001e886aa902e665db91.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f3923c31dc6f6320cc531dea010a3f2b92de8233eb6ebefcf7d09e3e7a3e4af1.jpg",
+			"name": "LEGO®ムービー ザ･ゲーム 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/89ac57f60ce283e05cbff708ed50fc96d01e20f366883668787a37bca9896373.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "77"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4fec37f60a63c53343a623322e44ae22b5bf8b987f9b4f1a9945e8fd6e1ba915.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "77"
+				}
+			]
+		}
+	]
+}

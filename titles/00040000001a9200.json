@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "00040000001A9200",
+		"eshop_id": "50010000042836",
+		"product_code": "CTR-N-BRCJ",
+		"name": "Hey! ピクミン",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/58b21edb8500af721ef00f526a3f4ff66070ca352d60ec6812ec8ad4b2dbd085.jpg",
+		"data_size": "422234980",
+		"description": "本作は、基本の操作をタッチペンで簡単にできる、シンプルで遊びやすい横スクロールアクションゲームです。タッチペンで好きな場所にピクミンを投げて、仕掛けを動かしてもらったり、ものを運んでもらったり、危険な原生生物と戦わせたりします。40以上あるバリエーション豊かな冒険のステージで、お宝を集めながらゴールを目指していきます。「ピクミンを1匹も死なせない」、「お宝をすべて見つけられるか」など、やりこみ要素も充実しています。 ■ストーリー ある日の仕事帰り、オリマーの操縦するロケットがピクミンたちの生息する惑星に墜落……！ 再びロケットを動かすのに必要な「キラキラエネルギー」を集めるために、ピクミンたちとの大冒険が始まる。",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2017-07-13",
+				"retail": "2017-07-13"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/73e2d616f6e63e7dc8c2b6cfb1bd5e822d4354f2eee097e72f7bf3d01938a95e.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1349382f33e8d306ee9d3f64888ff93dc8743460c11bfd095fd1169ac1a33a97.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/171eb6609695312e5918bd0f2e0548566615952c215e127f0b4aaaac8414aec1.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/780904a89cbdc938e8dd647b1e936e25ccd83c16cd2f1c9ad04e5bbf79893b76.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bfba7df772196bd5404b36c7c5544a5891f5a4e75c5cfab7fc6e37f65a3663b7.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4c93279eb1c5ed7107d0726787b41d28faa9f2080dfbafcdf46d36ec14125da2.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b243dfc2e2a00646a669bdf59b67677f62e6ab59cad7255e1cf1dbbb0cb6c69.jpg",
+				"name": "Hey! ピクミンのうた (歌詞付き/フルVer.)",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6cb9babb4900ac4f8f8b038b32de3443fc9f6c8b0408cdd7bb9a5672c3c6a359.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "72"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3b9c54818b97df26d35a4aae1eff0b878cb9591b62ccd514099dff6dcb19fcbe.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "72"
+					}
+				]
+			}
+		]
+	}
+}

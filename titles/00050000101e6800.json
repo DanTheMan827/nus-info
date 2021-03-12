@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101E6800",
+		"eshop_id": "20010000022971",
+		"product_code": "WUP-N-DA6J",
+		"name": "わがままファッション GIRLS MODE",
+		"platform": 169,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8aa846cd9c59db7bc0d80b9dcc8382930bea8c79e8a6693a6fe32014c57c2e6c.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/adfab934597ce66d81bb674ca3188add3e2d0d890a66617f361902c228722fd7.jpg",
+		"data_size": "100106360",
+		"description": "このソフトは、2008年に発売されたニンテンドーDS用のわがままコーディネートゲームです。 物語はあなたが人気ショップ「ルミナ」で働き始めるところからスタートします。厳しい世界ですが、センスが認められればどんどん活躍の場が広がり、自分のショップを持つこともできます。まずはルミナの店員として、たくさんのお客様に喜んでもらえるようにがんばってください。 登場するアイテムは1万点以上。個性豊かなブランドが16種類そろっています。来店するお客様のリクエストに合わせたコーディネートをおすすめしてみましょう。 お店に仕入れたアイテムはサンプルとして自分の部屋に届き、自由に着ることができます。ヘアスタイルやメイクを変えて、あなた自身のおしゃれも楽しめます。 ※おすすめの画面レイアウトは「縦もちDSソフト用レイアウト」です。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-07-13",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/d64e3fa88e1f3e48fe084642630614e1e438eb6643c494d60ed93fb17c181eb6.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/b27327e01891fdbae9ee606101574dffcf877b9c3efbf0e7971ae537486c10ce.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/f506df6c2a7bf2e0e041e66a2c6c53efa74dfb03c71e34e7cb3f7b149d14b2f6.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/eda94ce92ef012f7c26763f20cd848bcdb6e4b42eb35c3b67b65a8e2a731b4b4.jpg",
+				"name": "わがままファッション GIRLS MODE プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/182332226accca2f3f0baaf0b265e3e0fdc3a18f6a88f37665a49e4ab1f97498.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "73"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ed5a1b1eca5cc644c071cdc26aea6a664c9d883c9a1252bacdb0be96b1545db9.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "73"
+					}
+				]
+			}
+		]
+	}
+}

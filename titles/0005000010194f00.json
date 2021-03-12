@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010194F00",
+		"eshop_id": "20010000017227",
+		"product_code": "WUP-N-MNUJ",
+		"name": "マジカル ツリー ",
+		"platform": 167,
+		"platform_device": "WUP",
+		"publisher": 149,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5b39833e7e9bf1f5360b903db9f11943112416a02c494d72f24d5c70cf229e1f.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/bb19925da561859baa4321b5549f86f3fde71f426e04f1e096cddbb97215f7b0.jpg",
+		"data_size": "78708876",
+		"description": "本作は1984年にリリースされたアクションゲーム。プレイヤーはアパッチ君を操作して大樹の頂点を目指します。 ジャンプを駆使して木を登っていく異色のアクションゲームで、途中おじゃま虫、ふくろう、ミノ虫、カミナリといった敵も登場するほか、ボーナスアイテムが出現します。 落下や制限時間ではミスになりませんが、上手くジャンプを使っていかないと、大きく落下してやり直しに。落下中に枝に捕まることができれば、落下の被害を最小限に抑えることができます。 大樹の根本から頂上までの距離は2000フィート。頂上に広がる景色を目指し、ひたすら登って行きましょう。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-08-19",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/2e4d4d08855647234b2107618ba512e3d5a9b6777b243510a5f512b173f1a67d.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/ae94440e416442b14763c6ba21580f92ed62ff84c2c2ebac6ff49031a7ac9a3a.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/d8320e77748c2e54ce057b388d0f36fd7e7f21ab56897afddc2ce75014502e70.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/546a6e5341dfc047cf898a22232801cf8440a6e04408b00742c8dee1bcd9940d.jpg",
+				"name": "マジカル ツリー プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6fa4a2e11303fa8eb76c7b0a2c61b521ffb37a2ac87c907dc5de0b971b0d03ae.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "60"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7e7da54ea81f8a83ef1ec4fcf2bf22f3d0d84e12ef3ef9d6e6c240240cde5df6.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "60"
+					}
+				]
+			}
+		]
+	}
+}

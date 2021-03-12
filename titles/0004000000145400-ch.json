@@ -1,0 +1,85 @@
+{
+	"title_id": "0004000000145400",
+	"eshop_id": "50010000032415",
+	"product_code": "CTR-P-AHRD",
+	"name": "Fossil Fighters™ Frontier",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d11aad2a07a063796844182f04587b65555f2ed5a990cf7f8aa3169cbe97224a.jpg",
+	"data_size": "1575983972",
+	"description": "Im aufregenden RPG Fossil Fighters: Frontier für Nintendo 3DS und 2DS können die Spieler in ihre Fahrzeuge springen und an exotische Orte fahren, um Fossilien auszugraben, die sich in lebendige Dinosaurier, im Spiel Vivosaurier genannt, verwandeln. Die Spieler kämpfen mit wilden Vivosauriern, denen sie auf ihren Ausgrabungstouren begegnen.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2015-05-29",
+			"retail": "2015-05-29"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0f63dabc8a29989d5278fda867343073a7b0ea1ea568526620d5326c83d37d3d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ba9c6feb4bdc1cb5e3635861b9b93a9c84b7d3fc4e8f6a9228ff869e91fcf981.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/18f73bcce31612745498ad13d9d17e8fd69c3d2247ac18320651772be9a6a0da.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/931460b628601275c47b44613857a450dcdc0057d17822b53c5ed854ac706543.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/996abac5210a0c54a36976b4ae06ae51073a35f5b0a71429c71aafdf3fab8279.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9eb1cd03513bdf7c87256f265e6eddae3b4de6ad688569cbc8d64a6c1e4ff4b1.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/875f4cfc92d020949c0515f8e885dec551a12be862f293ef43ea7065679c3885.jpg",
+			"name": "Fossil Fighters Frontier: Trailer (E3 2014)",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a198d035032ded90614e5ead271e16b9671f1f1acfffff45615bad399bd11da6.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "106"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/480ab7066e5a0cef2d507f42e064c6a360e60d32e074d4cfc30b12c41f443d0d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "106"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/86bff3831d1c5505031f4d8abc1db33aed936dc58955f9aacd02782793801779.jpg",
+			"name": "Fossil Fighters Frontier: Trailer zum Verkaufsstart",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/aa468ef6ed2bfa73e2d5472d1f57b70df2c71e7e2c03ffa269eae1bfc899e7e0.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "132"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/82a174d5c10942b372a468eeb62896dbd99c10239a7710396035592d880485c0.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "132"
+				}
+			]
+		}
+	]
+}

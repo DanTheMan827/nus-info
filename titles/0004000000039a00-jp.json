@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000039A00",
+	"eshop_id": "50010000010451",
+	"product_code": "CTR-N-ACBJ",
+	"name": "カルドセプト®",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/106cebc8f926d5a353fdad38bfedf5c50b892c9e32b1e68a9e9a656cee9b8b4e.jpg",
+	"data_size": "157174676",
+	"description": "サイコロを振ってゴールを目指すシンプルな”ボードゲーム”に、戦略が勝敗を左右する ”カードゲーム”を融合したゲーム。 どのサイコロの目が出るか分からない「運」の要素と、カードの組み合わせ次第で戦況を変えられる「知略」の要素が織り成す、新しい遊びが楽しめます。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-01-30",
+			"retail": "2012-06-28"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/318bd59c345cb9e3ea8c00be34e6e19bcbb2b8701f4f229be9936bfa29c43269.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/3665353e2d284f701f67f8d156081a4f283fb50b3ed4ef360c322b1b652bed81.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7ab5bbaaa2f836b7b871aa1450143c66e0f6bca078835cd1f4f8b8e77713c00d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/67886d76147c308c8149bb2c7828b2a20ee03713e026edd442af93974ed49e0d.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/4d76240c2274ee24aed5dcccfd9c41142061d79dab13d1530d38309f42136357.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5b8fbe2bad673066355f3217073211e83f01e773dd491c8d8b760dce162f9817.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1d9136c6ef23f80634f017f6499d13cadf166acd7c0353c74fe53046608f9dd6.jpg",
+			"name": "カルドセプト® 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ec9431b791e17c4e0e2edc4d0ba7cbc37386d03be57be5158da46c2b9e6ed5a4.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "303"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e3ce3f166f5b70de24aa7ad15abe70ecd385b8d2d91afd9cc46aa6cd2ba2d8ca.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "303"
+				}
+			]
+		}
+	]
+}

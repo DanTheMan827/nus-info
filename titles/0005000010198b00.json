@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010198B00",
+		"eshop_id": "20010000013967",
+		"product_code": "WUP-N-DAFJ",
+		"name": "やわらかあたま塾",
+		"platform": 169,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/70beb44b65388de9d62286f01755193eedb78ef62cfaae1af32ec8cad057152c.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/dd82999386a4f65c1de11dcd9efd6e9a8be85d53784c37c916887f0759b0f4ee.jpg",
+		"data_size": "43876472",
+		"description": "このソフトは、2005年に発売されたニンテンドーDS用の脳活性化ソフトです。 あたまがカタイと言われたことはありませんか？ 『やわらかあたま塾』では、あなたのあたまをやわらかくするためのさまざまな問題をご用意しました。次々に出題されるカンタンおもしろ問題で、あたまのストレッチを始めましょう。 「言語」、「記憶」、「分析」、「数字」、「知覚」の５つのジャンルから、単純だけど奥の深い問題を集めました。コドモでも分かるけれども、オトナでも思わず考え込んでしまう、そんな問題があなたのあたまのツボを刺激します。問題はすべてタッチペン１本の簡単操作で解けるから、コドモもオトナもみんなで一緒に楽しめます。 ※おすすめの画面レイアウトは「縦レイアウト」です。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-04-02",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/570c4d51827cc8228ff44fb721c9deb4aa34840f48d15a2637a76dea0c3d5215.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/04c3453b418ec13b27075c6c3f003bfb382d09da57888552b733dd10d2d2f347.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/35042aa490d256d5b8d1466e108f4c34c94edf9e2f292f6a5412d77de0b28116.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bf8991ce1a98b78dafb54ba6e1deb8e53e21befaaa2ac0bf533f5d618f0c8d18.jpg",
+				"name": "やわらかあたま塾 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0e854d1733ff3d93f1a329ebc3b78ef7532b41a3e207d66a9119ec8751de517f.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "57"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7a717e50ae74c3f0100b955314d8713b57a0649b3d17dce25b68115d2e4fc1da.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "57"
+					}
+				]
+			}
+		]
+	}
+}

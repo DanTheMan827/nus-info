@@ -1,0 +1,54 @@
+{
+	"title_id": "000500001011AE00",
+	"eshop_id": "20010000004864",
+	"product_code": "WUP-N-FATE",
+	"name": "Gradius™",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f67c62059010e0744b62b08dde9305fa4c361f38295a91a05039fb005dac7a14.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9b2acd38147d60e00192851eb181dd788a463caa5023c41b7ebd954c1c05f92b.jpg",
+	"data_size": "36569228",
+	"description": "En la lejanía de la galaxia existe un planeta llamado Gradius, pero la pacífica existencia de este planeta ha sido interrumpida por una intensa invasión espacial conducida por una raza conocida como los bacteriones. Para salvar al planeta la nave de batalla hiperespacial prototipo, Warp Rattler, ha sido enviada para repeler la invasión de los bacteriones. Controla la nave Warp Rattler a través de siete etapas, mientras destruyes enemigos y evades sus ataques y los obstáculos que encuentres en el camino utilizando mejoras como misiles, cañones láser, opciones y barreras de campo de fuerza. El objetivo final de la nave Warp Rattler es la superfortaleza enemiga Xaerous. La única manera de terminar esta guerra será llegar a lo profundo de las fuerzas enemigas y destruirlas desde adentro.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-01-09",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/f2501555f871660364f004fd7491c0620797667162db1f6e74b1e043d73fc3d2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0b32830c25d56316deac12c7d4dc07be3f4b762334dbc6f95438cc87bd79ba8e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2a26e270d0253437336fe0e8500972abee1867b4898c45aae4f9cdfbdc68039f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b9b60f1c5642ba233a2538f68f43f4e4c8094388e1a79c597502b81c10e81357.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/edccd5cc323b44ea0ad001691ada96799c0235b64df78d87385a8a78c5d30694.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/274919f7dbcee78256e9b06990b68bc012e250f2ca780b60e5650094c15dadee.jpg",
+			"name": "Avance para lanzamiento Gradius™",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7e6a3b72cb64ee7b98a46043cd869e7adc0dfceb72d1f441af43e906f2775af0.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "31"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/adec3b49fb8cb5ac9d3ec340c2e848475b1fa8d7754296e8a01abea5620e947e.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "31"
+				}
+			]
+		}
+	]
+}

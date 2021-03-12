@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010168500",
+		"eshop_id": "20010000007709",
+		"product_code": "WUP-N-MNEJ",
+		"name": "ロードファイター ",
+		"platform": 167,
+		"platform_device": "WUP",
+		"publisher": 149,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/53f2563947b527599923f371179f5fc7ddbd6b0fd27768e9db55d5f0aacf7779.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/22e367d994989d9d607b1977fbacdac0faa1eb64415f2aeb6ddaf6b219b7323f.jpg",
+		"data_size": "78741644",
+		"description": "1984年発売の同名アーケードゲーム『ロードファイター』を移植した、1985年のMSX版。アーケード版よりもシンプルな内容にアレンジしつつも、スピード感は数あるレーシングゲームの中でトップクラス。敵車をかわしオイルを避けていきましょう。もしもスリップしたら、カウンタステア(逆ハンドル)などのテクニックを駆使して切り抜け、目指すは全6ステージの完走です。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-06-19",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/aec07e3f57978dc642e151e55050e3c235a4ef322a0b6e8b57818235d76c480f.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/be3fe1fe642b4979a3b7c8bd978d74b8c5f3144a1d63cdf8c96d9e47a84acd05.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/b5a9f712c6f33c159525c46efc2727fac16b0db535df4b772cce861081b6629a.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f406846083f5683a33be4545ca98596dd7ee82b0e1e41b8e9c44e9719a9dac85.jpg",
+				"name": "ロードファイター プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/723fd4693aa08e85dc21b1c180b734fd38b53ca0d261d6d6ce9eefbeaf5f79ed.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "46"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ad009046f7f1efbc8085cc94141a25deef4a9c549fb3b7fc1f5da031c8f0b48d.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "46"
+					}
+				]
+			}
+		]
+	}
+}

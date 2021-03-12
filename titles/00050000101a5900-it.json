@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101A5900",
+	"eshop_id": "20010000018167",
+	"product_code": "WUP-N-NAGE",
+	"name": "Mario Golf™",
+	"platform": 170,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/49315aeda2d47494bf35262b55e11b7d822f4f4cec4624f6ffe34acac5be811d.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5ae4c13cac38303a3c2a9d69cd9dcdaa395825a4d08c59a572e38a4f4ee3a028.jpg",
+	"data_size": "79986808",
+	"description": "Gioca a golf insieme a Mario e i suoi amici! Scegli fra 14 personaggi diversi, ognuno con la propria potenza e stile. Puoi anche infastidire gli avversari per fare perdere loro la concentrazione! Mario Golf™ è ricco di contenuti, incluse 10 modalità differenti (come Tournament (Torneo), Speed Golf (Golf rapido) e persino il Mini-Golf (minigolf)) e a 6 campi diversi in cui poter giocare e guadagnare Experience points (punti esperienza) per progredire. Con una modalità di gioco intuitiva e la modalità competizione a 4 giocatori chiunque può diventare un campione in Mario Golf! Se possiedi questo titolo sulla tua console Wii™, effettua un trasferimento dati su Wii U™ per potere ottenere la versione ottimizzata a un prezzo speciale! Questa è la versione americana del gioco.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-10-08",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/0e1f17dd0e4dea4a7226733cff8af141539d613340e217e83e8246b185f2b8f6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/14dfabe02af57b7971c175041211ebd7be1a818d8c51b0159a7429db75d6d220.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3b3f73c4e5ca5645fbb032b930c1c7098ded59995195456b313d89d129948cc9.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/763d087d51c0b0fc4bdca6834a6811052ec4f2259eace24efd8a081c004760c6.jpg",
+			"name": "Mario Golf™: video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a80260e5425347f4973b41837a88c7d1d752624f3fa2e9aec34d309c28695cf8.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c6ae5646251b290b69775d7dfbf72ad2bdd1cab30eaaec977a7ae1f92f448fc1.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				}
+			]
+		}
+	]
+}

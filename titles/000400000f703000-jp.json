@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000F703000",
+	"eshop_id": "50010000040556",
+	"product_code": "KTR-N-UASJ",
+	"name": "スーパーストリートファイターⅡ ザ ニューチャレンジャーズ",
+	"platform": 1004,
+	"platform_device": "CTR",
+	"publisher": 39,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/10e346e19892f98a233f9a7f9a77affc55290a95fbc2a2dc19c2f5a55efddb96.jpg",
+	"data_size": "8530788",
+	"description": "このソフトは、1994年に発売されたスーパーファミコン用の格闘ゲームです。 これまでの『ストリートファイターII』シリーズでは、12人の格闘家たちが強さを競ってきましたが、本作では新たに「キャミィ」「フェイロン」「ディージェイ」「サンダー･ホーク」の4人のキャラクターが参戦します。また前作までの3つのモードに加え、団体戦やトーナメント戦、タイムアタックが追加され、これまでと違った遊びかたで楽しめます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-06-07",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7319fde4a4b90436ed9c8879f5af281abcf48723c835e6551e857664b111e61b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/aefd6ed252a651faf742f34bc1849c1c164b94629fe89584ca2edb730404a6be.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/dfcdbe6a005a54cdf6090cfae2f8e865409aaf6abb095aa0b3270ec3dc00c9dd.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b3df25b059f5fa7311ad55b49f959ad9ec80b9d503b00bb762b9d1bb0713dbb5.jpg",
+			"name": "スーパーストリートファイターⅡ ザ ニューチャレンジャーズ プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fb0ef6804d6b8e306827587911f7c457eda5ff1c089b3fcdb77d707bf582de29.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "59"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/82bffe7580897641731f6ecc7e9d3a67d487be5928350a78e9dabd4848cec3bb.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "59"
+				}
+			]
+		}
+	]
+}

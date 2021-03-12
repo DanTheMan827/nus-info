@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000007C200",
+	"eshop_id": "50010000012430",
+	"product_code": "CTR-N-AM7E",
+	"name": "Myst",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 1346,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d45019c2aad02453917a66b701fe24caec9c26e00a8d12f41de8cc91c5bd845e.jpg",
+	"data_size": "210217828",
+	"description": "É mais do que um jogo. É uma jornada. E agora a jornada conta com gráficos em 3D para uma imersão ainda maior na fantástica aventura de MYST. Você embarcará em uma viagem extraordinária como The Stranger, para explorar esta ilha cheia de intrigas, à medida que encontra pistas sobre o ambiente ao seu redor e sobre sua jornada. Agora, o jogo de aventura mais conhecido do mundo ganha vida na nova versão em 3D deste jogo clássico! Com inúmeros enigmas, charadas e labirintos para você solucionar, e uma Age completamente nova adicionada para melhorar a experiência de MYST, você vai ver que o jogo para o Nintendo 3DS é ainda mais divertido do que o original.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2012-11-15",
+			"retail": "2012-07-31"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7039bdb5fed20f502c22f9d8f39bfbb2dc05b6d7e21671d65b0f09c02c6b7896.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7a6c27a1770d46a493233271a3c94dcffa572864f32bcb93498ef9ff258dda09.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/9e02c9764d206a77f596b0573c1ffe65b8d059d06aa76e03ca0cae2d190f90fe.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1810e0c9d8f5e55827352e63d9e952c33804c345e3cf6e0f8d5d78568e2b9341.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/4106fb7c0caa50c64ed45cb2464e12aa25934afdb33646d1ed53b4d732ccad8c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7e26798082fd1027060cffbae98a7b600b1c21bd6a66055fd6212f07e587223d.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/116690daad2dd557b315d9405afed3e60466945d982ac60ea5482c6278303704.jpg",
+			"name": "Myst Vídeo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/45a5dbfc192ef07f9857fbed7145f3e962d63b1264f69c37547e5f4dec46b106.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/285603930d6a1c9e7851738b6da131c59a933a43522fba3839a87bb642c021e9.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				}
+			]
+		}
+	]
+}

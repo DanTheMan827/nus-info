@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000154600",
+	"eshop_id": "50010000032455",
+	"product_code": "CTR-N-JCPP",
+	"name": "BOXBOY!™",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/2edb3743c5afabe5d4579eb7976ea9945a4dde1f341e9e61015924a912c587c3.jpg",
+	"data_size": "84474772",
+	"description": "BOXBOY!™ é um jogo de plataformas disponível em exclusivo para a Nintendo 3DS™, no qual terás que resolver uma série de puzzles. Os gráficos a preto e branco contribuem para o estilo minimalista do jogo, que se centra na habilidade do personagem principal, Qbby, em criar caixas que possa utilizar para se proteger, escalar ou ativar interruptores.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-04-02",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7d4c8e23541f245039a8377ed76034471d3c9ebf0db870d5c415ca61580a30ce.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2ed0147fe59b306bdd81b8d27d459eac6d10c783fe46014da39caa17a86c3334.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2b822c7e9f903c0d96ab66fa01e56946d2372199f59d0a650b64b0615884015a.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2d93a0b9532a1e1137a7ea4097ba0c3023d0320b2aa179f6f6ee859fb21d149f.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bf8d895781b61868f35cc95222eaecc071233b21856dde1126e8ecab7ba9e95b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5be3f69550bb8bd84fb0bf20c7d6dc6b1564b79d9b5910432f3fb657c74c83e6.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f8616232f30a522b0d28056c46c61809dd6061ee1f22ce8a139a78a0f6e80707.jpg",
+			"name": "Boxboy!: Trailer de lançamento",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/288152f7ed4590f215283e3572e9bf9be581cde597bea0188140d326a52d879e.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "96"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a8ae31a627848ad9f57a23c702e31a78008890a6f6abea8a95a04370a96daaf4.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "96"
+				}
+			]
+		}
+	]
+}

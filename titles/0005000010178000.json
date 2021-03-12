@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010178000",
+		"eshop_id": "20010000007529",
+		"product_code": "WUP-N-JCQJ",
+		"name": "平成 新･鬼ヶ島 後編",
+		"platform": 164,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/dec1387fb5691315685e0d2376c9dfb957eb0018de7c5756473c30c9a3969b2a.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/701c6420cf17d78b8159118a80a26051b7498e905709d5898c1f2a8fb3997edb.jpg",
+		"data_size": "44368032",
+		"description": "このソフトは、1997年にスーパーファミコンのカセット書き換えシステム「ニンテンドウパワー」より発売されたアドベンチャーゲームです。 『平成 新･鬼ヶ島』は、ディスクシステム用ソフト『ふぁみこんむかし話 新･鬼ヶ島』でお供役だった3匹の動物たちが主人公となる物語です。後編の三話はキジの「おはな」と漁師の「太郎」、竜宮城の「乙姫」のお話です。四話は「おはな」と前編の主人公だった「りんご」と「まつのすけ」を中心にお話が進みます。 会話の途中でチャイム音が鳴ることがありますが、これは重要なヒントが出てきた合図です。チャイム音がしたらその会話の内容に注目してみてください。途中、ミニゲームをプレイする場面があり、アクションや謎解きなどさまざまな種類のゲームが登場します。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-09-24",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/46f70bd14c9021e1fce020c6385accf0ed20110d1a3990aee3920a2d4a6076c9.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/cd5092d5e85046fac470827cace6dc4772a7532ce44a1f7874da0e13e53ec79c.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/a629fa3d3deed0f90c2223d11ac6aac8ca493ed12ccc28f46997ba3b7066ad06.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d99cedec8376518dcd6c511f41e9ffe1878616fa3bf9f045e2cf4e9f1ee23273.jpg",
+				"name": "平成 新･鬼ヶ島 後編 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e64dd707df5eaf8d6c29faba5253c4d79d13ce27cacba023fe85aefa4aaff363.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "47"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ec576ba21b749bf291a53c69fa9aafbd5ad9b2d3902e25804886a5a0b0f708fb.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "47"
+					}
+				]
+			}
+		]
+	}
+}

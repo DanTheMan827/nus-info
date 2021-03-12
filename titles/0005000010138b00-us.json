@@ -1,0 +1,79 @@
+{
+	"title_id": "0005000010138B00",
+	"eshop_id": "20010000003585",
+	"product_code": "WUP-N-ASBE",
+	"name": "Assassin's Creed® IV Black Flag™",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 278,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1961becff92ab3736101e2c1f3503232c0aca9bb7ef8978ea98738196b0e22c4.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/31572c33c32a354904e420d9a595eca57ef0afc8dde8b544951afb5816e08f79.jpg",
+	"data_size": "13962806648",
+	"description": "It is 1715. Pirates rule the Caribbean and have established a lawless pirate republic. Among these outlaws is a fearsome young captain named Edward Kenway. His exploits earn the respect of pirate legends like Blackbeard, but draw him into an ancient war that may destroy everything the pirates have built.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-10-29",
+			"retail": "2013-10-29"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/180d6597552a307f8c3ba37f8ae6679bb4f01d0e96b3d03b4b6d652e352926aa.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9d2a275cc0026685efe79c99799ec8f7da3e6b3de460dda8a20e7c60720497fd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/878adacdf4c098d93a2a1d9f77448da597ff9044c1c24fbda1db695633cfdcf2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/fa854d9b2c2e2ab4d16045c3d38151321945870e3e86fe74117042a777649bdb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d62aaeb39abf41e56bacb627598d5dba4d84fc38d9d7d367d5db9e6c757e418a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e1063e129dab9d0ec3c4da78ee96e5968f3fdda65f52e9a0af1395309fe4c363.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f99f0026acec6b911dc6016342bedd047de867455211825f8ec5734615a7694e.jpg",
+			"name": "Assassin's Creed IV Black Flag Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/10662f08e8de8f4bc69f584bcba67e155c8425728d3ba59bd7fba24132e0656c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "80"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7804386443cfe7b8050fce9053d5e0880172b83de62cb9a6ccdea285f6014353.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "80"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f99f0026acec6b911dc6016342bedd047de867455211825f8ec5734615a7694e.jpg",
+			"name": "Assassin’s Creed®IV Black Flag™ Video 3",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f095e81f741d9c1dea87c0f76a65ba1d896b6ee3c4fc7f13ba4f4268310aca94.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "186"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/189947fbe2d9cf6aa608be8fea3b19fe04de4bd37da81a44701abb5b04d476b3.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "186"
+				}
+			]
+		}
+	]
+}

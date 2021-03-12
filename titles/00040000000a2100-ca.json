@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000A2100",
+	"eshop_id": "50010000011507",
+	"product_code": "CTR-N-AF7E",
+	"name": "Disney/Pixar: Finding Nemo Escape to the Big Blue Edition",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 64,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c52dff9d73553d83fa93dcb7523f6e43a47afda0829fef5956b5b333b60cf847.jpg",
+	"data_size": "409144164",
+	"description": "Inspired by the beloved original Disney/Pixar animted film \"Finding Nemo\" returning to the big screen - for the first time ever in thrilling Disney Digital 3D, the Finding Nemo: Escape to the Big Blue Special Edition video game puts the journey of a lifetime in your hands as you help Nemo and his friends find their way home. Enjoy more than 30 engaging action-oriented mini-games and play as one of the key \"Finding Nemo\" characters, customize your very own interactive reef and watch exciting new \"Finding Nemo 3D\" film clips available on the Nintendo 3DS!",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-01-17",
+			"retail": "2012-09-11"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/857124b67a6d1e7bf72bc7bdaeb9bba5e729615cac75f30f8230d9af5f6e5525.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a75553a8e70cc5df95c8eba192d89ae76f0bd82c59c8a5feb039329e5d4ab586.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f0603da0bf83ea4d4c855e7658633826f7590d26f15414f958557bf43a933992.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/200e1e6a60ae442cfcbb9302cdd5d3af81c720c9fda0c6948e6bbc700f309c57.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2cd2d5b64aefdc8afb28ad7a973aac6b265407e90112dd88a71b2d161961eefc.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/741d23321dc9651473589152152fbd2512df8f4fde6db24d77f47bd018f19748.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/76684c51ab171e3dfcb9488ea4f16bd653553e22acbc46f3cb6fe4dd6de4ec6e.jpg",
+			"name": "Disney/Pixar: Finding Nemo Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/410903a5c8778612e0e4e28c1ad7ed448b7fb78a428a305e20540d99b809d6b7.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "62"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/50b3d8326ec611f8cb24d3ba84b0756ca6a1b8acf5e356cf4a6b9ce554eccfdc.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "62"
+				}
+			]
+		}
+	]
+}

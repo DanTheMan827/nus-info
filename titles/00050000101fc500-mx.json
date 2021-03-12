@@ -1,0 +1,53 @@
+{
+	"title_id": "00050000101FC500",
+	"eshop_id": "20010000023987",
+	"product_code": "WUP-N-AYBE",
+	"name": "Skunky B's Super Slots Saga #1",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1447,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3b4d5e75b88ec733bc03543541211eba3114f2d72db35b7d43874a5dc9574793.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7edd9a3b5dc96c6c706482bd159cf0beb5854d6c0a801396b3dd03f6332ba578.jpg",
+	"data_size": "263422092",
+	"description": "Are you ready for a heart pounding slots adventure? An exciting new slots adventure with over 20 slots to unlock. Have a blast gambling your way through the levels to reveal even more slots! Be careful not to go bankrupt or else you will have to reset your level progress!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-09-01",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/3ddd593462196743fc98c8a27faacdbb2c3ffe9f85957dfe53d30561de02cd13.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/eb13d4a0767347cbebb619ccc3b834223af28c112127157de7bc5f688dfcf3af.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3f97ed0a9bed5307aadb1479fc257a8d2e8d232318b1d345ccc541f1be5ca669.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/32ecde94b509330a84d6029e5f23c396593120522e168f44959f75395d45787f.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2a43e55d1ec669585a71114bd804139ca9c632cc279f3ad95e806a143d7bdae8.jpg",
+			"name": "Avance para lanzamiento Skunky B's Super Slots Saga #1",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b1fd5d2e612533ce3cead6db9d067499da2b17dad01fd08533dcbf6ece1d4dd6.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/833ef0d20bb9fdd98c3927d331e5ee598fd2ee64b3a1669826bec60df2044454.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				}
+			]
+		}
+	]
+}

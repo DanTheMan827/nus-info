@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101BB200",
+	"eshop_id": "20010000021567",
+	"product_code": "WUP-N-NAPE",
+	"name": "Yoshi's Story™",
+	"platform": 170,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/28787e7b166b20619126514e4c67a7a25781b3a90c683e65d1a781293004d723.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/36406dabbdc63febb1fb0502e376af460d5cd831dfe9f6c5d866b40166b3d7e4.jpg",
+	"data_size": "63078520",
+	"description": "Der geniale Super Mario 64-Schöpfer Shigeru Miyamoto hat ein weiteres fantastisches Spiel mit einem garantiert märchenhaften Ende vorgelegt. Du folgst den Abenteuern von sechs Yoshis und suchst in sonnigen Wäldern, dunklen Höhlen, hoch aufragenden Bergen, feuchten Dschungeln, riesigen Ozeanen und finsteren Burgen nach dem Happybaum, den der gefürchtete Baby Bowser gestohlen hat. Yoshi's Story basiert in groben Zügen auf dem Super Nintendo-Klassiker Yoshi's Island, nutzt jedoch die Stärken des Nintendo 64 voll aus. Yoshi kann gehen, laufen, schwimmen, springen, flattern und mit erstaunlicher Präzision Eier abfeuern. Das Spiel läuft auf \"Buchseiten\" ab, die aus papierartigem Material und anderen vertrauten Stoffen bestehen - du bekommst also hauchdünne Wälder, Jeans-Wolken und aufblasbare Plastikinseln zu Gesicht. Wenn du diesen Titel bereits auf deiner Wii™ erworben hast, führe einen System-Transfer von deiner Wii auf deine Wii U™ durch, um ein Upgrade-Sonderangebot zu erhalten. Hierbei handelt es sich um die US-Version des Spiels.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-04-14",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/49170c773c2fea6e862360077916e43c67fade816cc2c35554732b78754da7b1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4200f20894cdb3a70bfd79f07b5c95269095cb9cd33ea20a9bc5e0ce55c338e4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/721cfcb9dc070c40943d15dbeef737e3c81f10680b3fb944e596fc57294491eb.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/aef7ef76a32afe9cc8e0fd73da2102259d0ebb550149c7b9465d29de8058b227.jpg",
+			"name": "Yoshi's Story™: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/dacda40f91c36e0a52cb311b31679fa1fcf67bc06c51644214c3d6d88105b4dc.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "58"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b3181df0e1b1251d2fd0b9c767cd1a6ec404a02af0cbbd2fbe101197fd7085f0.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "58"
+				}
+			]
+		}
+	]
+}

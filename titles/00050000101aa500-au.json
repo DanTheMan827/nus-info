@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101AA500",
+	"eshop_id": "20010000020189",
+	"product_code": "WUP-P-BKFP",
+	"name": "Kung Fu Panda: Showdown of Legendary Legends",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 1186,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/93b2312943ce53139e6f07caa3417c074ba901360efaeef06553219140447177.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/26a7b923709c9d3bee20614ef251292d52faa3372a4d12b03e937702282a9c78.jpg",
+	"data_size": "1534034160",
+	"description": "Join Po, Tigress, Monkey, Tai Lung, Master Shifu, and all of your favorite Kung Fu Panda characters as they compete in the thrilling Showdown of Legendary Legends. Up to four players can face-off in iconic locations throughout the Valley of Peace and beyond. Compete in an epic Tournament where all Kung Fu warriors contend for honor and glory.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2015-11-27",
+			"retail": "2015-11-27"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/fc6241c33572e694d350b804c4e70c9b3063a43fca2597a7dffc221110fbe116.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/440fa4eb2da547bd4a7b3a8458a981e83b837fc58ce94e9db90bfb7afe1cc92a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3fbc481a184b940ef67b11c75fe5cb09b1cb3f91b8a09393b21ef5472d22c2a9.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/05a08f9eff72a81dce65d1011642b2188999fd56b85630078dad4b683beb4445.jpg",
+			"name": "Kung Fu Panda: Showdown of Legendary Legends",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e47e35118139cda3bab41333223f1eaab36e9156240d8753c473a75fa221ae64.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/691cd22adc1965524fee0c6c8428fe30a9094f787693c4ec13f606c45d514fee.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				}
+			]
+		}
+	]
+}

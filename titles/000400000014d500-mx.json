@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000014D500",
+	"eshop_id": "50010000027438",
+	"product_code": "CTR-N-BSQE",
+	"name": "Safari Quest",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 1062,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c57e008347084fe7bac09e51c48b3f3c165ab3666c304f277850876e5d2cf7db.jpg",
+	"data_size": "28404580",
+	"description": "¡Embárcate en una misión para encontrar al león blanco en este excitante juego de safari! En una tierra llamada Africania, encontrarás diversos desafíos mientras tomas fotografías de la vida salvaje de los alrededores. Con 10 exuberantes paisajes y un total de 10 niveles para completar el juego, ¡esta aventura Match-3 te mantendrá en puntas de pie!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-11-11",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d435c1cdfe794d0055780b1ef090cf24ceb42595f0520efe575e67271589a2b4.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/564efc738ae3ad20b190b32f91764313c5c639a6aa1f0e7f717450da0547bcf5.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3fd9189e0a3623c119cd27ffa598fbe4e5c81a338499a76ed47cebaa681f4c19.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ae28b6760657483ecddceeca23ad09cf92bf14442a3629d100e87848bda695f0.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/748ecaa0bfd96f8ded382e37d7d3fe2ffbeebe123f68e7f1ce1a9b06f360dd31.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/681d4bd7bce417b619bef2d940511436cf0bb3680c09bc395123fc746c57d761.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fee67edee44e1281c6ed57a6dda32e9e43e40b77ed2a5585faa9f2fe388c59bd.jpg",
+			"name": "Avance para lanzamiento Safari Quest",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/18109014aab1c4d82c229175c42944e691b4f9d7ec4f8c1e818d045cb6c9912c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "78"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ecc56e3ee300aff68765a9e2859502003cfaf1983b03011f4121996c4b099aac.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "78"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101CE800",
+	"eshop_id": "20010000016327",
+	"product_code": "WUP-P-BNAP",
+	"name": "Never Alone (Kisima Ingitchuna)",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1550,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/447485060f238906fb2c3a89209da49f8a3d9b9e0c1e5f3a9883b567a2e79cbc.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/fe3ca19253db0efde37e08aa91d1636d444ce68cc71dabdc1b76a5802fc5e4fe.jpg",
+	"data_size": "1643413744",
+	"description": "Окунитесь в эпическое путешествие Нуны и песца, стремящихся найти источник непрекращающейся метели, которая может разрушить весь известный им мир. Never Alone — волшебный платформер с головоломками, разработанный в сотрудничестве с инуитами, коренным народом Аляски, и основанный на традиционной истории, передающейся из поколения в поколение. Веди обоих персонажей в режиме одиночной игры или совместной игры с другом, прокладывая им путь через ледяную тундру, вероломные льдины и подводные пещеры и сражаясь как с известными, так и с незнакомыми врагами. Игра вошла в более 75 списков «Лучшие за 2014 год» и победила в номинации «Лучшая дебютная игра» Премии Британской Академии в области видеоигр 2015. В создании участвовали более 40 старейшин, рассказчиков и членов общины. Играя на Wii U™, соберите более 20 культурных артефактов из коллекций Смитсоновского института, к каждому из которых прилагается качественное изображение и интересные факты из культурной жизни коренного населения Аляски.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-07-09",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/b381425e35114ad8d17e774c641b85063cbb7227db2c37041d665676fc7cf1ab.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4366364d333cc6fd96098c2e212f4a3ffd9fa9d477f66981e4a198ffcb309710.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/beb35d1433357653a72cb3c33eb8c3b9fd9a950a793ff1291dcb7f69654d4a5d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ec07a15be5a21cebc3215ac6b36a1969da645f750cbd842becbe6952e8ad67ac.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3673cb866d32f191d8649b4f7661850143462c294c5b0d9018d3a55864187f39.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f7bc134b46ae8d04f390b166f66a94762c7f39862a343bc7950185371c98ef9e.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d734565e527d6d06f3a9d358678e0b322acf48f2bb13dea038c98582142bb13a.jpg",
+			"name": "Never Alone: трейлер",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4d37a8d728d4858577e06097b071e794973b845aea50004f4817e5cd206cf4ea.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "111"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0c4bff3ab263815121f0ced38df89e3db93b1feb46398329bf1a2012df1c9ee8.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "111"
+				}
+			]
+		}
+	]
+}

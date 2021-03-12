@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010170900",
+	"eshop_id": "20010000012527",
+	"product_code": "WUP-N-PASP",
+	"name": "Castlevania®",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a775428bf0410a6bb224abadc9fb324685f8bdab303a00a6610cf7701b0357ff.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9fe3513c87d706c9e6462ffa34a64eb981389426234a149d37c366fec9d2604c.jpg",
+	"data_size": "100302968",
+	"description": "Dracula is rising once again. At the full moon, the resurrection will be complete! As vampire slayer Nathan Graves, you must storm Dracula’s castle in time to save your mentor before his life force is used to restore the Count’s. In this, the first Castlevania for Game Boy Advance, defeat monstrous enemies and giant bosses, and gain experience points and special abilities to help explore new areas. Combine action and attribute cards to create more than 80 unique magic spells; from fire whips to ice blizzards. Can you whip Dracula into shape?",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-01-29",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/912201c89d726b4c272a03766eaccc91ad272664eb6e528814960e2dab72a150.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f1fe2e3a2796f2663088f7ee74422063524fdd09386a2437f548b840297bcc6d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1cbac313a24a4b83b1ed23e33a495a8dde66f8eb09bf2b7d1a3853dd51c39a13.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/450dbac0356335305a1d16d7ffe8e9b4a6162c79513cda5d40896e54ed45c382.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c42c776242f215cb588cd411cfaf09db6cf8a8aa5e094d9baae2b83040bdce30.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c760e3418315a374b36f71d70dcc4303b11a33868ef3c561c5d2425fe77d60ca.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/45929abbfb04e5a47e7f88590054b89dc6f6a0bd85988651038368c6110b2655.jpg",
+			"name": "Castlevania®: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ea8c66f7461647684050e9ef3de7d5bc05abdf9d43126d87e4d25ad01e65c359.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "53"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6bd8ca981c39b1b86b684689531b86da0192066f7412e31758a0511598c14b39.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "53"
+				}
+			]
+		}
+	]
+}

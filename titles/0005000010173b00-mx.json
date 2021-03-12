@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010173B00",
+	"eshop_id": "20010000011529",
+	"product_code": "WUP-N-PAZE",
+	"name": "Fire Emblem™",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/52d2ae14ac4f3a3551fe2e0440ab34b099e71ca1310096cd4d96fda3ceabe008.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b90bdd2e135b4cf09203566806af6e657cebd5a1ff2bd934619fb815ed394c90.jpg",
+	"data_size": "100761720",
+	"description": "Después de cientos de años de paz, intensas rivalidades amenazan con poner al mundo en llamas en una batalla de fuego. Los tambores de la guerra suenan, las casas de los nobles traman una traición y los aliados se convierten en enemigos. Mientras Lycia se prepara para la guerra, un sombrío personaje manipula al imperio para sus beneficios. Lyn, Eliwood y Hector son guerreros valientes dispuestos a pelear contra las fuerzas que quieren destruir sus tierras. Ayúdalos a reunir a otros héroes para pelear junto a ellos y asegúrate de que no pierdan la batalla, de lo contrario estarán perdidos para siempre. Prepara tu estrategia y comanda el campo de batalla mientras entrenas y aprendes las debilidades y destrezas de cada unidad de combate. ¡Conviértete en un estratega y detén esta ardiente guerra antes de que reduzcan al mundo a cenizas!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-12-04",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/d5b988272e65748718b349ef6e81a34372d53cf06b860c859b87574a47f597c2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d596f107704e6efffb5f2ad4b22678e09d7bbd430ca1e43c842831592c5ddd04.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6ff909f439d68576f624016d8e9f46c0799d4871dc3009b108fb0979db89fdb0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8216fd8b8e79f982bcb707c1321c7f69f1de9685c4d3bb62d9e6a9b6b6e05b20.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/361ed627a8cb639bba01c6f3643ac325509514a11b520a7aa231ed6c39614384.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d662051bf373386e268fba26d3e4c15394e85aa05ce20152c244d476b8f50bff.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c6154e8ccefd883dcbe294046f2f6007c44d317a264cfd15e947079fcfa14878.jpg",
+			"name": "Avance para lanzamiento Fire Emblem™",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f17fa95c2d46bf4aa8e316b9d430df4fc849b88470d0b07efbf4607556df92b7.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "48"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0618d4b266299acaa8b66f5218ca62ab42e45649fae759b79080b3bd6a46aa71.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "48"
+				}
+			]
+		}
+	]
+}

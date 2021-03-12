@@ -1,0 +1,82 @@
+{
+	"title_id": "00040000001AF800",
+	"eshop_id": "50010000042957",
+	"product_code": "CTR-P-BRCP",
+	"name": "Hey! Pikmin™",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f575e0e5b1363282f05bfedf7e0626ba46cbeecb440ede7210cae32a89874f52.jpg",
+	"data_size": "423041892",
+	"description": "Эта игра доступна только на английском, французском, итальянском, немецком и испанском языках. Отважный исследователь космоса капитан Олимар должен собрать 30 000 сияющих семян, чтобы восстановить свой корабль. Но один он не справится. К счастью, малыши-пикмины готовы ему помочь! Для этих храбрых существ нет невыполнимых задач. Коснитесь сенсорного дисплея, чтобы выбрать место, куда вы хотите забросить их. Не волнуйтесь, они совсем не против! Ваши разноцветные друзья тут же примутся за дело. Действие разворачивается сразу на двух экранах системы, чтобы передать грандиозные размеры мира и населяющих его существ. Посетите amiibo.nintendo.eu для получения информации о совместимых amiibo™ и прочей актуальной информации. Чтобы использовать amiibo с системами Nintendo 3DS, Nintendo 3DS XL или Nintendo 2DS, необходимо устройство чтения/записи NFC для Nintendo 3DS.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2017-07-28",
+			"retail": "2017-07-28"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/850c1f8f85ceb757b1b4f11fadffe4bb864c336bc613c13dcdecb52121a1735b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/63c9bb6fa2902b50e20be28e6fbd117a92e7a9d7fb0f26ea956cac4e7f6d1d21.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/658f3b44e8b16ba3537f8662eee1dc44b5eb165bed67e10139cdbb99736d6cc5.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/753d082db10b1712861ff8a8beb32187a68a36421bc4241799f44cf0479193bd.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/89e2e41fa80cd4da508357e9668a3620fa064c78c6ed6affa3a22a703fc8775d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/734391cb2c5124e955cba88545384314b70217bca6bec12ed0d786ecffa7065d.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2c822ea63c2338e0f31051b7b97a1a4a06dc3d088fe2e6a65714fc1e3d009f40.jpg",
+			"name": "Hey! Pikmin: ознакомительный трейлер",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/45df2219ac5fb79341d4c054899f7e5e62f48fb6516715938ae3815af8ecb1d7.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "66"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2c822ea63c2338e0f31051b7b97a1a4a06dc3d088fe2e6a65714fc1e3d009f40.jpg",
+			"name": "Hey! Pikmin демоверсия: трейлер",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/dcc09fea894f66ab77c5671e46fca60da8899c08f492fc10200d7ed5ce146cc3.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "36"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2c822ea63c2338e0f31051b7b97a1a4a06dc3d088fe2e6a65714fc1e3d009f40.jpg",
+			"name": "Hey! Pikmin: трейлер к выходу игры",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cdcee401ae0b953ad52d2acbee7a635de6c47cc29110a525c5100eda7578addc.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "160"
+				}
+			]
+		}
+	]
+}

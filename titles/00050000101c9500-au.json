@@ -1,0 +1,79 @@
+{
+	"title_id": "00050000101C9500",
+	"eshop_id": "20010000026089",
+	"product_code": "WUP-P-ALZP",
+	"name": "The Legend of Zelda™: Breath of the Wild",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/18a28622fd963d12cab162c04ed3502b57e8be8da6ad50fe872af4bab4b56150.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c25ed5357bafad026c51bfeaa9807ede024879c4a66d1759f050cf0d8bde6588.jpg",
+	"data_size": "10551265752",
+	"description": "No kingdom. No memories. After a 100-year slumber, all he had left...was hope. Forget everything you know about The Legend of Zelda games. Step into a world of discovery, exploration and adventure in The Legend of Zelda: Breath of the Wild, a boundary-breaking new game in the acclaimed series. Travel across fields, through forests and to mountain peaks as you discover what has become of the ruined kingdom of Hyrule in this stunning open-air adventure. Visit amiibo.nintendo.com.au for compatible amiibo™ and the latest information.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2017-03-03",
+			"retail": "2017-03-03"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/44b2e287590e7d4eb0f37276957b301c528bd2d5672e37e848397f38ff74b2d5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/61484f00ca97642ef2d53317423f091969dd4e6063827053c8e2278796d0eadc.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4fae6c8b937eba525ee9db1ca47ba23ea20b086d9690573b2f3c4f7af2b85361.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/de2f0c3058bf4730ee8118dd4d87af5666fa7927c13a6dcad9ff39c1c7b95aad.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8cc629e17264aeaae0b4c75ae822f8ed25ecb4f0f793878147d62268048d71b3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ca07fab95ef4964983d7a8ec798ef2085934476cb99feb5b708f70dd518da37a.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b3e33004c45b356b3c1fccb3a497b9a2f30bd3012633800e663a295a7fe1f3ea.jpg",
+			"name": "The Legend of Zelda: Breath of the Wild - Life in the Ruins",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/74cfebabd2505610f9b93e9318e8661a40882de58f680da99f16f3b50cbfa095.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "86"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/dd3db128e597a9dcb164131946b56daa121911aee10c8e32c74c919f825c9c65.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "86"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/270370549ee7aaf0eb783861aee50a5131d1684c90d271e00f13063e48343cb9.jpg",
+			"name": "Zelda: Breath of the Wild: Nintendo Switch Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6f498830c4035e3a2f35301de89529f076e7287a5c967b7f06c20398b141c8fb.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "229"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b12a963f5805f24aace13ab97efad1bef69e802950c0ed3433960c650ccb39cd.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "229"
+				}
+			]
+		}
+	]
+}

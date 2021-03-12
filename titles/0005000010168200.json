@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010168200",
+		"eshop_id": "20010000005024",
+		"product_code": "WUP-N-MNBJ",
+		"name": "夢大陸アドベンチャー ",
+		"platform": 167,
+		"platform_device": "WUP",
+		"publisher": 149,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/276f7630517b4c08d3d93893d7fbfa08130f83808fc922c55b59587ba7b1c4c3.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6c1c495e070d413cc05213a2eb0d5d742b256d1937f0c32f40a3792fae66907d.jpg",
+		"data_size": "76513400",
+		"description": "「けっきょく南極大冒険」の続編として、1986年、MSX用に発売されたアクションゲーム。病に倒れたペンギン王国のペン子姫を助けるため、主人公のペンギンくんが氷上、洞窟、海中を駆け抜けます。氷上ステージのみだった前作に対し、本作では洞窟や海中等新たなステージが追加され、視覚的に飽きのこない構成に。また、道具屋でアイテムを購入しパワーアップできるなど、システム面でも大幅な強化が図られており、続編というより新作といえる仕上がりとなっているタイトルです。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-01-29",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/b24278f675cce7eb309a30a6c0bd3fd1ef0ef626e3922b2b2aad842f6a3337e2.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/76a772ec8a852de89417cf1fad5a478afa091d8c5756606bef44bea8d01d5f44.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/7802768145adbdf0a74e5b42d87198ef1185d15cbcdf1c9e9114d82adbebee09.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0c56a10e7b3fecde6d78cd901de1e71c9616eb6871563101f18501c0a01ced3c.jpg",
+				"name": "夢大陸アドベンチャー プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/64d585cb1de6f8f385b4a95101585240466d4051f8d3bf301a19615273220144.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "40"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/33dbef89e98f89cb5d0477a2f82845c34018f4898e0ebb73715ec5c16a3c78d2.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "40"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000A0B00",
+	"eshop_id": "50010000017473",
+	"product_code": "CTR-N-ANEJ",
+	"name": "大合奏!バンドブラザーズP",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8b7ddecd4d08b263144ab6652b1ce32265bb569f6dfb7d9dddcdd4c39efd2060.jpg",
+	"data_size": "579038052",
+	"description": "演奏、合奏、作曲と音楽をトコトン楽しめる『大合奏!バンドブラザーズ』シリーズ最新作。自分そっくりのボーカロイド™を操作するボーカルパートが追加され、さらに音楽の世界に没頭できるようになりました。インターネットに接続すれば、自分の好きな曲をダウンロードできたり、遠くの人とセッションすることもできます。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-11-14",
+			"retail": "2013-11-14"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0a79ea59d690c769ff8513a92cf1fb719727bc9c4fc48f74d93d63c6b1898ec5.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0e5b0ce99914ecc3a0f1988f5dfc5c6c60c0e835de8b40344cad741c846ce29d.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7a5888faa64b7cdaf67bece4e91f86dda5c68d748eee324f5f4490c837793b99.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6bf50923fa9e0994656a6be9cbf53f5786c1413a18d009813aa40d9adda09195.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c294cb7de1f63cd81e40fa9f45d52458fe685afeee7397d25391b0111b2c247a.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/913379baf6cd3c7edb6e3ebfd56c587759c89ed9f3745b844b993b73313d9e92.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a936d11551acbb7990b11cde53e851a44ec453b86f001d905c38ed1479606365.jpg",
+			"name": "大合奏!バンドブラザーズP 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0cd9330f73b9429445f5222a2ca34340c3d9c3ee252a9ff262fade67372a5679.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "269"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd3820885c78a2bdb9c3eceaef853586caecb6a88622fff5a836317d1872102c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "269"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001017E100",
+	"eshop_id": "20010000008666",
+	"product_code": "WUP-P-WSFP",
+	"name": "Айс Крим Сёрфер",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1331,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/682e1a035ffcc0214b861da3e087e39c4f61c68b7075b0a20ff2c20b06222e86.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/843d7441258608cb64d33fd4b09390f046579e6d20f882bda400442a2eb1b880.jpg",
+	"data_size": "259326092",
+	"description": "Устав от того, что дети ненавидят овощи и обожают мороженное, злобный брокколи собирает армию. Его план - покончить с миром вкусняшек. и заставить всех есть безвкусные овощи. Ты готов освободить мир от Злобных Овощей?",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-07-31",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/697f5f83fd0bf8c142da6b21634bc238caed6b8a4a4450e2a9607548ccd3fb50.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/621b7f160d7cac44370f3294a6eeb3817eb859bf05bba41f8ac88d1be3cf12a0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9b65bdbdd9f5860e2d977bd26dbf42d4a7aa55554c64a0958880b6564637026c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/778b36cd06fc32acc931201eda49915c8e68b8e28686219f71ba4444dd8be244.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3bad50254bdd2ec077f35cb6b95425cfaa34398b644df0c688f37e4590855987.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2dd09170f3cf6b874fa5e1292242fb378cc6a9b54672956a9a4da0200cacb4fb.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e58e12f1e3dc281a31607d234a12927142508b2f9ce64474e6d094592b8d4c81.jpg",
+			"name": "Айс Крим Сёрфер трейлер",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/faf87c2a68f822241a5e2ba569769bb7d25dbc4cf10ad1c626582a0a4625e370.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "86"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/aedbe5af5fb64abf50b8dc686cc42a4ed12ebd8255c2c70546e4c0b4858fe861.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "86"
+				}
+			]
+		}
+	]
+}

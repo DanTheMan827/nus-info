@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001017CB00",
+	"eshop_id": "20010000010226",
+	"product_code": "WUP-N-WABJ",
+	"name": "アートオブバランス ",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 19,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1dd515e3e57b22ccd020bc90c350d826c6d86c7c63573a906d4c7d491fa6b5c7.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4fbd2a1452e4d589c88fb89029fbd2a29a74dbfc6b0ff9316603d0ca3ac8e574.jpg",
+	"data_size": "179044492",
+	"description": "老若男女、誰でも楽しめる「バランス」パズルゲームがパワーアップ! ルールは超簡単。 すべてのブロックをバランス良く積み上げればステージクリア。危ういブロックの挙動にハラハラドキドキ! 200ステージをクリアしていく「アーケードモード」、ランダムで出現するステージをクリアしていく「サバイバルモード」に加え、みんなでブロックを積んで競う「タワーブレイクモード」と協力してステージの早解きを競う「VSモード」が登場。 すべてのモードは最大5人でのプレイが可能。協力したり、対戦したり、みんなでワイワイ楽しもう! また、「VSモード」ではオンラインモードで、世界中のライバルたちと対戦可能。 さらに「サバイバルモード」と「VSモード」はオンラインランキングに対応。 より美しくなったグラフィックと繊細なブロック挙動、そしてより多彩となった芸術的なバランスゲームをお楽しみください!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-10-29",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/103cb2d92845aa4497410bd680483c9f1ebaca19dc3bb34f39321c3ac08b73f2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a887dc3d5dd2bde064f854eaafd47c49762a7a84a9d7d5bf4b99d6c59bb066db.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2d674d726cbcf6f7c0a242b057dfed1dde3db2e873ad4e567045e29999b7bf5e.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/563ddd7c65fc48244f146ad4db8c468e0b2deaef267ed349dba96cc90d576079.jpg",
+			"name": "アートオブバランス 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6bed4e7c5b0912f700bd1d488bb3ae737eb5fd32cc38e50a302af8de2bff4f9e.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "67"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/61db2a5ab4d5fbbdd6f7da967b56a3fd528ea5bd3f1b38b54e3b9da04adac725.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "67"
+				}
+			]
+		}
+	]
+}

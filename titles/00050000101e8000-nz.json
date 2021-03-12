@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101E8000",
+	"eshop_id": "20010000021508",
+	"product_code": "WUP-P-AF4P",
+	"name": "FreezeME",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1553,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/05df789040f8b8d2cb228162ca41ea7113206019c8cdf9f3f5f7b70f6577e289.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f5b8829caf66ae9b37c3d0312640067d251e370d6f47634cdf335422fc30f419.jpg",
+	"data_size": "949387464",
+	"description": "FreezeME is a A 3D platformer in the style of the 90s-era but wait there is a twist! The main character “R” has one special tool – a camera around her neck. This camera allows her to literally freeze the objects she photographs!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-04-01",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/4073c16da2f733a5b87ae0a81b143bedf1089980b92d5b3c3eedc076f50e68b1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f7e62d5469ba8e9713c56e43d523fd05949d45790e76a5bd50b0fb18d93bf17b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a58abc18bcb710a14e9c76635d603afcaf7b9b0c69402638b57d12975bf68fef.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/532ee5d2f4ecaab00f50bd6095ca521980dcb8a8c9eedd177806c91a158de42c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/21310c16b7d0341ede5d01192036acef07375a5665197f016b151cad234611c1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/eed90b540db221da1f4b611b9d569d2deb687c479c42bb0459cab70b58820b7b.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/69980d3acf30dcfb13c6810155349f7f02fae7460d7944386a97152f86f2984b.jpg",
+			"name": "FreezeME: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d1aefc806e8af06b2ace3f8ee37a01133abf3e94f74780464128e8b29a879832.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "128"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/03d39560d203dd51910250db635a31b1946d06c6dc9a3dd8dafd9f223d20a470.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "128"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101DDA00",
+		"eshop_id": "20010000019588",
+		"product_code": "WUP-N-AGWJ",
+		"name": "ガンマンストーリーHDコレクション ",
+		"platform": 124,
+		"platform_device": "WUP",
+		"publisher": 1212,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1a285407bef0ec6f6b41e359f26d0307d1a56a0ad711a8b685f73490877ef95f.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/48c02b98b5c2549c9138492daa5caf9180191667533212f29d0b880216ed4447.jpg",
+		"data_size": "148963468",
+		"description": "『ガンマンストーリーHDコレクション』は、ガンマンの「クライブ」を操作し、 ガンを片手に、ステージをクリアしていく「ガンマンアクションゲーム」です。 西部劇にありそうなシチュエーションと、現実世界にはありえないギミック! 手元の拳銃一丁で、行く手を阻む敵を倒し、重力をあやつり(?)、パンダを乗りこなし(??)、恐竜を倒し(???)、 反射神経を最大限に駆使し、クリアを目指せ! そして『2』で参戦したキャラクター「ボブ」が『1』でも操作可能に! ヤリの使い手「ボブ」で、行く道塞ぐ敵を倒し、突き進め! ゲーム全体を彩るウェスタンテイストなビジュアルとサウンド、そしてオーソドックスなアクションが魅力な、シンプルながらも、サプライズにあふれる「ガンマンアクションゲーム」です。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-10-28",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/dfbedbfa51a899e3b9c99554a7283828b973c39a01893999cd653b231aff978c.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/ccbc46324b1be439511665be6cd4bd0efaf23c739d1a89511853de5c3257e68c.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/f9f049b05eb3fae7e5963284915088d75645dc8c2ad0397a74dcd019faea81b2.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6f32182df9b9703dc68bbc15501ea81a381bfb73ffdda4d8fc6ac9950f308969.jpg",
+				"name": "ガンマンストーリーHDコレクション 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ee54cbae92110178715b0d2076efa94924ead6e6f08c00fa6b26b07a0f082255.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "71"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/569cca499b6e0620998896ea77d5a4433945b978a39132e6160fc277c5373f09.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "71"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101AC400",
+	"eshop_id": "20010000021407",
+	"product_code": "WUP-N-NAJE",
+	"name": "Star Fox® 64",
+	"platform": 170,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1018aa24e4aac2841050c82e2aafe63ea41a86a2ebd9713a38fdaaa0b12d03e2.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b543f2d484d1c4d963b815bdd06ed4a23860848d7c562559f0e7c4afb9721516.jpg",
+	"data_size": "58687608",
+	"description": "Andross has launched an all-out attack on the Lylat System, and only Fox McCloud and the Star Fox team stand in his way. Jump into your Arwing fighter, Landmaster tank or Blue Marine sub, and blast Andross’s forces into atoms! Battle through 15 varied levels of air, space, land, and undersea combat. Discover hidden paths in forward-scrolling missions and switch into All-Range Mode for full 360-degree manoeuvring. Star Fox 64 also features a VS. mode for up to four players to battle it out in three thrilling game types. If you own Lylat Wars™ on your Wii™, perform a system transfer from your Wii to your Wii U™ to receive a special upgrade price. This is the US version of the game.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-03-25",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/ed9084758a67ce6b437cdbf2e91ca5dfc0897483f8d60a87533317dcfc9b0370.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3e691ae93f42a1311c4782fcd24ca78fb7f9d38cf007e64019d4b1447cde6437.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/edcee46be92b0ba631a2fc7215d30d67f7ffdbc40c2a73e1b80d18c3b7dd7a68.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/99de4f59231e7c7381c1a301ef4c7b0bfb6ce2ecdda658db24b09d63bf4e3a9b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/91dc911cfa3f3a50d796c6f9037c02a56797d75f4b9be9e7cfadbe47ba1316f1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ff54ce5899fd87bed19c12093ab15913ec9857080f45ec7dd4ba02d95ea0d37f.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/403b72d324b688a808f33c5d5646ecac69f679b5b1e4d3e227df142807ff19db.jpg",
+			"name": "Star Fox® 64: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ccfea4309a9572172b59164d1f6c6df966ebc09277720760901629ad4ed16801.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "86"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/79dfcc248148c3f838972eb82705a5e49788ac30e17b9b841b8d744a9d48c77a.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "86"
+				}
+			]
+		}
+	]
+}

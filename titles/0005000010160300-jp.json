@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010160300",
+	"eshop_id": "20010000005406",
+	"product_code": "WUP-N-FCNJ",
+	"name": "ファイアーエムブレム 外伝",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c302ba4b16eaa7f3c4002440cc47c4b33c97285e334d2f06ed651de80ea00b23.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8484d9c57bb8f7610b0b8c097f4904fe9b7093fa56c64e29b0bab344d28a9b51.jpg",
+	"data_size": "36733068",
+	"description": "このソフトは、1992年に発売されたファミリーコンピュータ用のシミュレーションRPGです。 バレンシア大陸の戦乱をおさめるため、主人公アルムまたはセリカの部隊を指揮して戦います。戦闘は自軍と敵軍のターンが交互に進み、魔道士やアーチャーなどのキャラクター(ユニット)を操作して、敵軍を全滅させると勝利となります。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-08-20",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/38eb05e67acdfdcf8c014b901966309f5d854442bbe621bf4e1ae125277e47f1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b16644d156fa82a6d7d7bcb4b682296c8944cda09928440ff38af715c72cfb50.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/afc1672d4e31e77956c5e80db7a1f85bc6931c80cd0495a2e1f1bc6441d2b235.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/19578fd1d792a747ff4c006fa0172e25714a42417ca365dfbf7e09783e5ada19.jpg",
+			"name": "ファイアーエムブレム 外伝 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d2f6fbdd42d5af83d589dfe5802a268cd2122817ecb19b2ea57a9dbc209af89f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "48"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4ced5980a31a47a5e861100090915f4f1f41d031f28d91c4f87491d99a56a058.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "48"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001019CA00",
+	"eshop_id": "20010000010951",
+	"product_code": "WUP-P-ARZP",
+	"name": "Rock Zombie",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 76,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e9dfb7cdd06bc87cb499420b69394911bc6f3538dd5eac8821e44011aa1329e4.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7faf285ac06e333e6b1a8447039c45d7fac403f2a67b09d197f2381172ad3cd7.jpg",
+	"data_size": "905871560",
+	"description": "¿Qué pasaría si el concierto de rock de una banda femenina fuera invadido por una horda de zombies? La respuesta a esta pregunta es este videojuego, donde se combina la jugabilidad clásica de la era dorada de los arcades con coloridos gráficos tridimensionales. Características: - 20 niveles llenos de acción en los cuales lucharas contra toda clase de enemigos, montarás en moto, conducirás coches y mucho más. - Historia alucinante contada a través de 300 viñetas de comic entre las escenas de acción. - Tres personajes para elegir : Zoe, Sasha y Crystal. - Variedad de armas, trajes, concept arts y material coleccionable a desbloquear en el museo zombie. - Banda sonora que combina Hard Rock, Nu metal y Rock Alternativo para sumergirte dentro de una oscura y lluviosa atmosfera callejera. - Modo sin televisión.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-11-20",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/fd8da20c7cded66bbf260ba61a5cb4309a1e371176efc1cd1587d6b870a721d9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/162bcddec2c00e3d550dade949f3d3063b68b239958cc339bd686ac4c9212ff6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f2d68bfd5a53a31153498108895ee1279f5097572f3206b6325c89e44a70a92c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/fc911e29794f708ed77a4341c3f400089147691dc356909eeb382547a30798e6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2284b732b4e799fbddce8e38bd5012b10edf74e9e19f47ea15cef89c1d4ea17f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b12e21e9f98ee30d119949835316988f3d8a5a2b611b95d90d57f3e94f67089b.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ce959e44f2965396d90af20bedb81c707d8f97ea9dd7952a198d451766ae96a5.jpg",
+			"name": "Rock Zombie: Tráiler",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f482533d55efae6723488df01d64fa37cb3b6a6ab1860f1214becf9da9693d57.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "158"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/167a975f5b509eb11ee1228729a1c62bb1c2468da5d31af5100cb45596145df1.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "158"
+				}
+			]
+		}
+	]
+}

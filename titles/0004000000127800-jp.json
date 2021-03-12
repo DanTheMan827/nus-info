@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000127800",
+	"eshop_id": "50010000020298",
+	"product_code": "CTR-N-JZFJ",
+	"name": "プチノベル「贈与の二月」",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 1212,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/65da2fb8abb84a3acc2e99d5d03f84eb308f2342f63549e568179e0606b9fab5.jpg",
+	"data_size": "82414436",
+	"description": "『プチノベル「贈与の二月」』は、多紙町で暮らす女子高生、森野早苗（もりの さなえ）の過ごす2月のできごとを描いたビジュアルノベルゲームです。 12月の遭難事件以来、耕平を意識するようになった早苗。 彼の手のあたたかみが忘れられない。 変化は関係の崩壊を招くかもしれない。 けれど、欲しいものは常に恐怖の向こう側にある。 来るバレンタインデー。 とどけ、この想い。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-02-26",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/526565e67ba3aa8ee89b04a34fbc12d85e8e34f682f6052e4caf9d44f2d7012a.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5444a32b9a127934082fde330032d784405a25fdb87162321a233a1fa4417e18.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ea0f73999664a0aa5e8f584b8dec0bc9e94d3a6030b7492d60d51be13c28466d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1912d9524ec11a2f24d271ce5ddfff22b6665805c274323f8fd7b24fd74fca68.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/fecaa72613b7e2e29995e861246b295baaa0c4c1403953264cbf7bb223580b62.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a320bec09a9dd617d1b8a18fa631e61f5b9fc575dd0f551035c7482a62d23bd4.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1d9e2c9c254ddc8f4ebd3449becb6cad9e19aaa7d22e9b536758f1ebf24ac84d.jpg",
+			"name": "プチノベル「贈与の二月」 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c98e5f3730a6bb4be21a8bc67c2cd5b8f8967c6f425e9dfc7672248c1807cbf7.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/82ea5394f88aa2a3d98bd2ddcdc67c413d9c8e9894d1c4cee84eb194281a19d5.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				}
+			]
+		}
+	]
+}

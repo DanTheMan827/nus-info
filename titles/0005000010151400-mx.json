@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010151400",
+	"eshop_id": "20010000004564",
+	"product_code": "WUP-N-FB3E",
+	"name": "Castlevania",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/390f94c54b2aae100665bc352ff13449abdcf8dd5cc09b434e3264b62eae9686.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7ac04b4b57b66c550bf0e1abeb460dfd5853a04e78762d921f5539843f9a95be.jpg",
+	"data_size": "36569228",
+	"description": "Ingresa en las sombras de la vivienda más funesta de la tierra. Has llegado a Castlevania con un propósito: destruir la maldición del malvado conde de una vez por todas. Ábrete camino a lo largo de seis tenebrosos pisos llenos de murciélagos, fantasmas, zombis y toda clase de creaturas malvadas imaginables. Usa el legendario látigo y una multitud de armas mortíferas para abrirte camino hacia la habitación donde te espera Drácula y el último duelo del bien en contra del mal.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-12-19",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/94f88a2c9cfbfac3556fb8cd14400155c51f21ebb1fef8399814b7ef62f54402.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f40c18d3f4d16a8967e9c1b72a87b98329e8c484babed916a8b43a441c057481.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2052084945b565ec851934307bec56c10985dca2fc993df1c22282f670593acc.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/917aec4e2acbf06e6815062b98bf88d5bc8300bc3d1e425304070855b58ed9b5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/00030988b67c9a86bc1cdba3bbfc3e5cb8b0fb9f167d8cfe590d75b2816b97f7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/73cf25c2305130bb8c56c462144639cd441d67406d2a24c74141fcb8e6fe8cfd.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e1c6226c3ea677766a6233bbb620bf40453ab1255fe309155226541c7964810f.jpg",
+			"name": "Avance para lanzamiento Castlevania®",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4e682c9ad73b77be653adc7d2da0c2c143166bb384c6330727974fcf3c3db85c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "42"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/27f762fac805440f17c7009c9161e55fab8a9e24687b62a6940376261ff5df75.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "42"
+				}
+			]
+		}
+	]
+}

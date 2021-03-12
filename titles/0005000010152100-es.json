@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010152100",
+	"eshop_id": "20010000004084",
+	"product_code": "WUP-P-WEDP",
+	"name": "EDGE ",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 277,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1eed6cf92a63e64ea868116b0f092196c590ae25a310e6d38d127777b9a5b567.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7849e4650389ec1d4f5c566b822239558f5de3609623e3c19b3d65d349fce30e.jpg",
+	"data_size": "140017784",
+	"description": "EDGE es el segundo de los tres clásicos de Two Tribes que llegan a Nintendo eShop. Los otros dos juegos de esta colección son el rompecabezas de plataformas en 2D Toki Tori y el rompecabezas en 3D RUSH. En EDGE, el galardonado juego de plataformas de inspiración retro, el jugador toma el mando de un cubo que tendrá que hacer rodar por las docenas de niveles del juego. Busca todos los prismas, encuentra los atajos para mejorar tus tiempos. - Compatibilidad con el juego sin televisor - Plataformas de estilo retro - Banda sonora inspirada en los clásicos de 8 bits - Más de 100 niveles (originales, de bonificación y extendidos) - rendimiento de 60 cuadros por segundo en 1080",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-11-21",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/89790866f778d09fb654aef09aa5c84018b3bf7cff2f1170c0aba1e3894cc21d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9539f9aa74e6fc2f117b74320aea68df1251d0d73f90ab22b32cd0226b11d477.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6af0cb6be56fb3dbb4622fcd7f5132d79ac6df6d4ba303da79b1bd1ba50383fa.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/125de1fca4f2e19370470968369ed86d45a510c2092a0d84d483578e7931f791.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a658660ed07b8bf4d2e0e2e39e1d50a4209e336d5597c9570d943c1c7948580a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5dbd7bc254eecc995d78a19619418571a06488d18b06696a88815e3557219dfe.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/95b8597366b8e35d4e16b8bea71f34b629341285cc9cb36b5bc30a87b5e2ef4b.jpg",
+			"name": "Official trailer Edge",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8389c9e752d3d82b6b8db97f5191c8bf91dd821668946bfef29f93c043bbd0e6.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/63bf0f4de19467166173c3547c099c289ca394e5aa7ffa17105625af1f36910f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				}
+			]
+		}
+	]
+}

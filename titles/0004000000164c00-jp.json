@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000164C00",
+	"eshop_id": "50010000030575",
+	"product_code": "CTR-N-KMZJ",
+	"name": "KAMI",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 1212,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c26bc122b1b8c2a2e749779abf6e35ca2cd41108fc1c62a7bda766971e88863c.jpg",
+	"data_size": "41261924",
+	"description": "『KAMI』は、いろんな模様に描かれたステージを、紙をめくり1つの色に整えていく、純粋思考型パズルゲームです。 下画面のマス目をタッチすると、それに隣接したマスが続々と同じ色にめくれていきます。 指定されたステップ数以内に、ステージを1つの色に整えることができれば、ステージクリアです。 和風の紙をテーマにした世界観とサウンドで、めくるめく、紙(KAMI)のパズルをお楽しみください。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-02-18",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6a92e41e1483cf5fc7a82389f8381a9603fb9b224091da3129ec342658f55981.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/11ce2d284d93cf5bd1d60ff61c003dd7b2b536a5f2d358c0106b7a240a2edb97.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/4712fc30b335b7b4d8cbf47f7476a3898f299331f360c82e1d4c1e1240eff800.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0e5d1c5016d2cd54cd75b180b96132471ea189e56b179120615a8c9ea825c91d.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b1430e61c9cf73397744387f42275453ad55f8961e0c3ca0f66d9f5985899dc9.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/cbcdc86991b3348aa926205b5ffa3801feefb5450556cc36d1177b20e413fe75.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/99cb8296a86681a1791ea496c9204ffad88f8bae485a0008d8419d632f8879d5.jpg",
+			"name": "KAMI 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/291a8edd4999827c40882b2a8faabda3b685715e59c205967f30e880e21acdcc.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c1f32610c12bbc46dea46a2f34dde50a6bb97f639915057cd3498e63615cebb2.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000147800",
+	"eshop_id": "50010000024475",
+	"product_code": "CTR-N-KFKJ",
+	"name": "ブレイブリーデフォルト たっぷり無料で遊べる版",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 246,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e38f3da4791dc7f2fa6da8cbf22f1808de060c1fc60e6409cc9b8a8ebe945943.jpg",
+	"data_size": "789298020",
+	"description": "林直孝(5pb.)による重厚なストーリー、吉田明彦(SQEX)が描く魅力的な世界とキャラクター、そして、Revo(Linked Horizon)が書き下ろした珠玉のサウンド。 日本のRPGファンが馴れ親しんだ、ジョブとアビリティの組み合わせで楽しむ、高純度のターン制コマンドバトル。 そして、バトルをより戦略的に楽しむための新システム、\"ブレイブ&デフォルト\"。 スクウェア･エニックスRPGの遺伝子を受け継ぎ、日本のRPGファンのために制作、発売された王道ファンタジーRPG、それが『ブレイブリーデフォルト』です。 『ブレイブリーデフォルトたっぷり無料で遊べる版』では、4章クリアまでたっぷり無料でプレイすることができ、アップデートキットをご購入いただくことで、第5章以降のシナリオ･イベントシーンのキャラクターボイス･いくつかのムービーといったすべての要素をお楽しみいただけます。 この機会に、ぜひ『ブレイブリーデフォルト』を遊んでみてください。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-07-28",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/4084395a2917f38b702ddad5fbeaecb081d554658cc3a0e3ee7113d9d1e7703c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a681e5816143cef2fc585e718756ab74c263baa64cbe352d014ae441e12973b1.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f676e70d87bb63d2fac79d09005abaf3d33a07a948df3164fa13319ad85bb8ac.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5a3641348875788ecc54317fc77408cd4e7fa00b8f5f74b651a7165237cff331.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c24bf45834475a4cd97741984070de7d752a94b4df6b8974aca82969893e471b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/272972874bfee4352681abfedeee706f143731b4d1a2749e41b2697e6a4661c9.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a9adb7f127be3061177f43bcaf22fd6c8facc6ca968a4db692380ddad4f5d835.jpg",
+			"name": "BRAVELY DEFAULT -For the Sequel- 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/af18c64566a57efc000d52ac298b4a14ad2defef1a618810466ddca2c73ec28d.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "185"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0b12819973c8e3bd00cb394b10395a93b8650fa1d0c4c2a94cc07affd644c657.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "185"
+				}
+			]
+		}
+	]
+}

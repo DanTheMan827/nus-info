@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000BBF00",
+	"eshop_id": "50010000012690",
+	"product_code": "CTR-N-JCZE",
+	"name": "CRIMSON SHROUD",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 456,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b66aff36e6e57cdd92d61013bbbe171d600d608a70dc42986227e037283162c0.jpg",
+	"data_size": "256748388",
+	"description": "LEVEL-5 y Yasumi Matsuno han reunido a los creadores de juegos de rol más venerados de la industria para afrontar el desafío y ayudar en la producción de CRIMSOM SHROUD. En un tributo a los juegos de rol de mesa, las decisiones importantes dependen de un tiro de dados. Los jugadores tiran los dados en tiempo real y unen sus habilidades para ganar bonus con dados de mayor valor. Usa tus dados de forma estratégica sino tus enemigos se quedarán con lo mejor de tí. Sigue la historia de un joven \"cazador\" llamado Giauque, cuando él y su equipo se ven involucrados en el misterio del Obsequio original, el Crimson Shroud. ¡Una intrepida, aventura nueva te espera!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2012-12-13",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ce58b7148f342ccab17892967cdcb774499c904e39aebad25894b3376a6b621b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ae8dd712190168e22f386523f3c720d61f8a729e042053c4a3192187cc93175f.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/de3e1054b854d78d6693f2b645cb189791f569aef0e82e4d78d00e3ed499d68f.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2d3874cb54868b51a520c958dbdf2969168b1a566deed1f8a5c5d7fa39aa55c2.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/86bd74cc29e6d1da5daf09f4023f2f1f2e0d97adfd4e24fbb20b8878f9e0b8da.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8244c71e2420e0d3476e07640cd6a246089d22f43f93d6d1ae57f175528b15b2.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a8b8db7ec47750fe042011e2f15e2a3aa0c8c546c213e000034ea6ac18d0b30b.jpg",
+			"name": "CRIMSON SHROUD Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7a9d261ef1af739da7cc4b324a25dc6cf8600c0b7fb04fde388d9ba6a616d237.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "147"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/73a644e60a5e3298b6f2303a31c49e30a58c0136585b193a652f1f5c62f1d0f9.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "147"
+				}
+			]
+		}
+	]
+}

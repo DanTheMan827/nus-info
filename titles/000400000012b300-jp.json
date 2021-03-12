@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000012B300",
+	"eshop_id": "50010000022136",
+	"product_code": "CTR-N-JD7J",
+	"name": "スター★シリーズ:3D ダーツ",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 1307,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/103c9a73867bdb486b9bf8afa56ec6617522cfc4379696c91a8c80e7e4f15023.jpg",
+	"data_size": "45693844",
+	"description": "カウントアップで高いスコアを競う「クラシックモード」、もっともポピュラーな「ゼロワンモード」、シングルプレイの「アーケードモード」など、ダーツの基本が十二分に楽しめます。 ゼロワンモードは「ダブルイン」と「ダブルアウト」の2つのルールを自由に組み合わせることが可能。 初心者から上級者まで楽しめます。 ダーツを投げる操作ではモーションセンサーを使用するので、実際にダーツボードを狙っている気分が味わえます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-05-07",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/cc52db579d1d1574a7af8b85971a1054e4f8e0d08947bf032279a029aeffb304.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/79e4710003a391ab3798fd606cf483fea713ba02e4bc2203f0e72d236310a3f2.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/669c00c20361705fedafc053560d311e173ad60d1a567b179a8348bc6e71ddaf.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f08979deab6e35e0f4d607ee9c79794aae4913b0d96ff253d825a5183eb80ba3.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/17764da8fae2b5737c283ba7efcbb6bf6a7257e63e3ca5d3120ae31c5ab9ddf0.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/031504d25d6630b6e909bfc875f1935c7ec1bc02a86ea0abc2c216e562c53cba.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f47c66285d6cca0a4e6169e25ddb17f1ddda556d17b8b3a32d242b69bd32b496.jpg",
+			"name": "スター★シリーズ：3D ダーツ プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/81a48874a7d7fdb30c62ff94b4074ff59ef448a58d60b16233ec6e0485815376.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/24511fc50824be7af0a155ad7bbbcd17735c59d9c6621c95c026ee1c90cd2eaf.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000008E300",
+	"eshop_id": "50010000010687",
+	"product_code": "CTR-N-JMVE",
+	"name": "Marvel Pinball 3D",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 582,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3dd8b2345b215f01adddd4044f068a37fbb6ff1063a44325ad3e190b4e10d493.jpg",
+	"data_size": "79092580",
+	"description": "The critically acclaimed Marvel Pinball series from Zen Studios, the definitive leader in videogame pinball, is now available for Nintendo 3DS™! Marvel Pinball 3D is the ultimate Super Hero pinball experience, featuring original tables based on legendary characters from the Marvel Universe. See Tony Stark suit up for action on the Iron Man table as he fights against his infamous archenemy, the Mandarin. Join Blade and Hannibal in New York to fight off the vampiric hordes led by Deacon Frost and Dracula. Rally the troops and help Captain America and the Howling Commandos defend freedom against Baron Zemo and the Red Skull! Defeat Doctor Doom alongside Marvel's first family, the Fantastic Four, featuring Mister Fantastic, the Invisible Woman, the Thing and the Human Torch. Marvel Pinball 3D features the most advanced ball physics, online leader boards ranking you against other players, in-game friend challenges, interactive 3D models, and more!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2012-06-28",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/fcde07a30c83de4ab49f70e33440d4228a42edcf4f4d2f1c9dcf2acb0798fff9.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7c877d0389424c1cab0b8cf5ab06ab9506420b57392b6d54e7a860f65b7e8cd7.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0c5a55bc976f06a4671a209e562da1ce40ae396d3800daf5d5879b12c37193b7.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f5e3250f0a4c4c6b94d920fc7d3f542fe86e9bb2674193303adf4b1cf12ccfb4.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ef996a5e729108d366e42e8ab3bae40b65fae9eae8beef79fa7bd694f43d7452.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9d17e41628c965898af7783ffc246037fb5af29fae2def7367baf98a723c4001.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1c934d7b565ea7b7fa2cb0668d618e1919df14dc23ca75f30c21e7b4366e0264.jpg",
+			"name": "Marvel Pinball 3D Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/54230bf0891e6efdc75848f536e42dd56b159c33f3a76d920b4d5e395a089dab.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "68"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5a583eaca83995e6b3f137acee21246d18e31ebdfc76ba8b41df8e34ab9b49c3.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "68"
+				}
+			]
+		}
+	]
+}

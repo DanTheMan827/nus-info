@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000017DD00",
+	"eshop_id": "50010000038722",
+	"product_code": "CTR-N-KDJJ",
+	"name": "大開拓時代 ～街をつくろう～",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 19,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/fd70be066e0e2ee64b4b7eb56665771985dc408d09fbebd1514ed807d41584bf.jpg",
+	"data_size": "66194276",
+	"description": "『大開拓時代 ～街をつくろう～』は、開拓者に指示をして資材を集め、いろいろな建物を建てて街を大きく発展させる街育成シミュレーションゲームです。 「開拓者」は木を伐ると「丸太」、岩を採掘すると「原石」と採取するモノによって様々な資材を手に入れることができるぞ。 資材を手に入れたら「建物」を建てていこう！ 「製材所」では「丸太」を「木材」に加工できたり、「畑」では野菜を育てたり、建物によっていろいろなことができるようになるぞ！ 「粉引き所」や「教会」、「製鉄所」に「市場」などさまざまな建物を使って、街を発展させていこう！ また、開拓しているとさまざまな効果を持つ「発明カード」というアイテムを手に入れることがあります。 畑からの収穫を増やす「肥料をまく」や石山を掘る速度がアップする「鋼鉄のつるはし」など、 発明カードは全部で180種類以上。上手く使って開拓を進めよう！ 実績にも対応！ 40個の実績をクリアすると、アークシステムワークスでお馴染みのキャラクターが登場するイラストを見ることができるぞ！ 全部クリアして見てみよう！ さあ、「開拓者」と一緒に開拓を始めよう！",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-12-16",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7b0901a2343068262e604ee982180fd9e1091075537fa48f60778f2bfe13daca.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1880ee9635b3e9daff947136f064c2ae865bf4326fc667b94eacfcca60744344.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/24f77936b7d0ee15d30cfa8b37ed416209ed6d5580274f8eac64a0752465b9ef.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f004df62687fb5dee58dbe0b259619bd093ebc5ddff79578e6108d80e8ecc3dc.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c87eff75da4fb7a9c07c78fe0c692fb1caf928834d110e2ee2aa3e8bb92e06ba.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/984ae0256c23230b820931dfba55d06f3fd62570b6241dc976d85ceb10d8b710.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/351a45bbef7fa568dbffaeaf467437468b1e3720fd8dc35f0ed56511c4b252fb.jpg",
+			"name": "大開拓時代 ～街をつくろう～ 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2050bdeae094d7c4bf4902a721cdbdc349b476f2992247925f357d643b87017f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "92"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6b9be3d2aa11a0679c5ee8d848ac28287529cc6bf47527e60ddf4f587eda389b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "92"
+				}
+			]
+		}
+	]
+}

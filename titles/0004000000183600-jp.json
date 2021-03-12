@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000183600",
+	"eshop_id": "50010000039739",
+	"product_code": "CTR-N-AT3A",
+	"name": "星のカービィ ロボボプラネット",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/666203ba2b464bd387bb8162ef142c0b4941c60d3f8b8e241ebda5a79d8792be.jpg",
+	"data_size": "696400788",
+	"description": "いろいろなコピー能力を使って冒険する『星のカービィ』新作がニンテンドー3DSに登場。今回は、敵の能力をスキャンしてさまざまなモードに変形するロボット「ロボボアーマー」とともに、キカイ化された世界を突き進みます。最大4人で協力するサブゲーム『みんなで！カービィハンターズ』では、ひとりでもみんなでも遊べます。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2016-04-28",
+			"retail": "2016-04-28"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/018b8211cbabf9b5eab79e075c4073d9c9aafbb8adf45eaa22a1fe2626e185b5.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1a7b442f564ab5f275b49219e7363e27ec3abaaf46949218d61a3056b4ae023c.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bd19c7e552e0bdbb13e9c5c3ad25c8720a5cb61affddbadc72c61b0579ebff3d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/366b536323f71feb0162f1793bafe56fa6d9ac451da163da0812f11da14d8048.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3972c45d1ae2b9f0a256f069b030d151a7579407a12b25638b811e3eede86067.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/daacb4142db3106fc0a18b31156bd39fdc707f229e50f7cf13a93e16cd59dc81.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c95d382d8bfb5fd531908eed18df5198d57e10f7e298363102dcde4612977deb.jpg",
+			"name": "星のカービィ ロボボプラネット 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c384a81e806acb5cfd464ac95c1c606e14762ab4a61a23da1c05a1ff67e0dc27.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "298"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/02a5a8d845f877f8261d166065fabfe32be3def60b7e05b953da1ab289e4e4c2.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "298"
+				}
+			]
+		}
+	]
+}

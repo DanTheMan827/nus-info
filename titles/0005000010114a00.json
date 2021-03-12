@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010114A00",
+		"eshop_id": "20010000001105",
+		"product_code": "WUP-N-FAQJ",
+		"name": "ダウンタウン熱血行進曲 それゆけ大運動会",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 19,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a71fa11ceba09dd1bdb697876dd9696d2345dc4fc7aec01fd1efdacf20f96bfd.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f23428449803f74430971f3f90df638278f3e621c810dc7140987c1dc6abfe9d.jpg",
+		"data_size": "36667532",
+		"description": "このソフトは、1990年に発売されたファミリーコンピュータ用のアクションゲームです。 くにおくんがキャプテンを務める「熱血高校チーム」をはじめ、4チームが運動会で大暴れ。競技は「夢見町クロスカントリー」「障害部屋競走」「棒の上の玉割り競争」「勝ち抜き格闘大会」の4つ。ライバルたちを制して優勝をめざします。選手の能力はそれぞれ違うため、アクション操作の腕だけでなく、采配能力も試されます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-04-27",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/097b8ebd6db0a6b7a7ea8bfbfd3669726d72e1ff623dc7436054dd7ac13626ff.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/b7db0c2473e78e15a2ea99782806d9ca1d471bf30bdabff5901fa8fc83d11e45.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/2e7201cdc12f97b8674812a71ef3bbc94f608037c1507746d566a99f83599580.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7d0fc975823f1445f1c5dddd45273612b92bc2a1ef3d63d5e56167b09b43e6fc.jpg",
+				"name": "ダウンタウン熱血行進曲 それゆけ大運動会 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cf15253befd232c71aad1338a69a516f6628deac6ae835c88db7c2819f4dcc4e.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "45"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9b84c12f5c2ff9a8db773a6f313206f7509cce6a2c1fb6e856f3845a2e123b92.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "45"
+					}
+				]
+			}
+		]
+	}
+}

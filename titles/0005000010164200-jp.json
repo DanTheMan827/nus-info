@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010164200",
+	"eshop_id": "20010000014007",
+	"product_code": "WUP-N-PPGJ",
+	"name": "Mr.HELIの大冒険 ",
+	"platform": 166,
+	"platform_device": "WUP",
+	"publisher": 136,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2e93b8af78833a214db7bacf6e4429e6dafa2c7427752186b9a68a40996f4b98.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/080b8a23a5716f50aa128d25017c87a6ff561244555c189170e8f41ed40dbd4e.jpg",
+	"data_size": "84246668",
+	"description": "かわいらしい小型ヘリコプター「ミスターヘリ」が主役の、全方向スクロールシューティングゲーム。 マッドサイエンティストに支配された星を救うため、火山地帯や地下生物のすみかを突破し、大ボスがひそむ惑星深部を目指します。 「金ヘリ」や「忍ヘリ」などのユニークな敵が飛び交う全6ステージを、制限時間内にクリアしていきましょう。 特定のブロックを破壊すると出現する「水晶」を集め、パワーアップアイテムを購入していくことが攻略の近道。 飛来する敵の攻撃を上下左右にかわしつつ、頭上にミサイル、両サイドのショットガン、足もとに爆弾を投げつけ敵を撃破してください。 通常モードの他に、難易度が高めのアーケードモードも用意され、初心者から上級者まで幅広く「大冒険」を楽しむことができます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-04-15",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/d72d2bffe32919eb7d915bdea43d1579c657bcb0e10fc8e503fef6d642b95b5e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/85825dc070bc8882fd3cdb2718d1e219c2dc42301adb01e38e51f8d20f2dad75.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3394b8851ee0f7613ade1f754864c08504ac17d4d24cb45c671bee02adaf1db1.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d1d4c15b9ef85fe9ac5565680eb4b3f1f03294ece9e679e3f57639c19bbe7360.jpg",
+			"name": "Mr.HELIの大冒険 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e629f9fb83bfde7e8b1c02926cdfef8a845f887d13a5e5291a46754b039057ed.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "47"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7c58412ab6853dcefd6088bceb1550bfe1495ac6d88e9359417284c0101dd168.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "47"
+				}
+			]
+		}
+	]
+}

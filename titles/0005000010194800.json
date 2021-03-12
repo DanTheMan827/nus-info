@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010194800",
+		"eshop_id": "20010000013527",
+		"product_code": "WUP-N-MNMJ",
+		"name": "ツインビー ",
+		"platform": 167,
+		"platform_device": "WUP",
+		"publisher": 149,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/58bf4a5ef2b6d8cc39fbdf00cd3b238ea4faf939096466f9053ec4ff1d900c8c.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8eff3b4c7a7330187cda72e7b65466ec409a99f6fb3dacecdce80e10adfadfae.jpg",
+		"data_size": "78708876",
+		"description": "本作は1986年にリリースされたシューティングゲーム。プレイヤーはシナモン博士が開発した戦闘機ツインビーとウインビーを操作して、宝の玉を取り戻すためにスパイス大王の軍勢と戦います。 ツインビーとウインビーには対空用ショット、対地用爆弾の2種類の武器が搭載され、これらを主力に敵と戦います。 パワーアップは雲の中に隠れたベルをショットして、任意の色に変えて取ることが可能。スピードアップ、ツイン砲、分身、バリヤーなどのパワーアップでゲームを有利に進めましょう。 さらに、地上の敵を破壊することで出現するアイテムも、ベルとはまた違った効果でプレイヤーを助けます。 2人同時プレイ時では合体攻撃もあり、プレイヤーの工夫次第で繰り出せる多彩な攻撃がゲームを盛り上げます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-03-18",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/2f5758dbb6be832beac2ab40abcf875966257718664a1049000c77e7cde2f6d4.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/0394bd5aecbe054cd266008208b838beb5bd2cae8bae9aee48692a1da02628a4.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/fe0e8eeedb78a4d0705c7f31d0dd84ffcc905bc623a50f0984e6b204bdbfe734.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f75e9c1c27d41287a9f804cd1af92b7bd0b8903fa93dd454e174a391b7a5f89a.jpg",
+				"name": "ツインビー プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f9a2b3ba0717c212eaa1cb7693fe5a3383953d73f359a2d4bdb6cd1dc9e48a01.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "44"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/901867cec29b3a1ec47bb6b747c003881fef76b7ab3688e21833de5cad38d03d.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "44"
+					}
+				]
+			}
+		]
+	}
+}

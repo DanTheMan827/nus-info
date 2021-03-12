@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000170200",
+		"eshop_id": "50010000038399",
+		"product_code": "CTR-N-JNYJ",
+		"name": "ノアの揺り籠",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 237,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4a77c83509b496dc05eba7f72967b7528142ec7520f7f0653a79f082dbeaaf41.jpg",
+		"data_size": "64162660",
+		"description": "地球を追われ、『ノアの揺り籠』と呼ばれる恒星間宇宙船でさまよう人類。たどり着いた赤い星で未知の兵器から一方的な攻撃を受ける。人類は生き残るため、新兵器の投入を行った。 選べる機体は軽量型、汎用型、重装備型の3種類。ミサイル、レーザー、ドローン、バリアーなど多数の装備を組み替えて、隕石やハリケーンが吹き荒れる6つのエリアを制圧せよ!",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-11-18",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/93ef366bc09a93c95a04b3a1905465d0869b50f990aa3ce6b6ca9bb6af1569ed.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7801f837fb019b649b68008aa406897297ac41441be8a1fbbe8df2b866d83488.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c8094ad1be238dfd4ace4137150b3f94d75e62d2cd23d2bcacdf10db320f0321.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f9c2711ab1c6223bf6b2a0b14c7678483a6b761173bdc998337b7e5e6567493b.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/035b3c705b1ef0bacbd8ebfb5c23396f0b131c22a3a035eff9a7e8687a5761ba.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8846bf23aa1c23cb7ee7a78d37594a233c334ec6a36fa5dba76016965ccf86d5.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8f636549b343f2232b86e1d7908f3c477a05af41752d4fdcf049708f020ee826.jpg",
+				"name": "ノアの揺り籠 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2b9d8199cb2bfa73ff153e194d4f438f72a1846766052c0b53b05d9c635502e1.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "47"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fc2eb9b0a5b1f0db84521636007d164f5d145e320a64d114d1fead64c7f52cdb.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "47"
+					}
+				]
+			}
+		]
+	}
+}

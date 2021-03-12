@@ -1,0 +1,109 @@
+{
+	"title_id": "0004000000110A00",
+	"eshop_id": "50010000021013",
+	"product_code": "CTR-N-JUNJ",
+	"name": "黒子スタイル",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 1247,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/de9840e14077674c56f12a7902eba5d98992123033992b42d3278ed4db18881b.jpg",
+	"data_size": "71232356",
+	"description": "自動スクロールでせまる足場を飛び越えましょう。「スタイル」はスイマを倒すほどにレベルアップします。 「復活」や「速さの変化」･「ジュエル獲得率UP」など黒子が「スタイル」を身に着けることでページ(ステージ)の難易度が変化いたします。「スタイル」合わせは忘れずに! 一度クリアしたステージも、足場が動くムズッ!モードで長くお楽しみいただけます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-03-12",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b75cf4c85f9d4e993e64e3a378a0bbecdbf3abd4acc4a5fb6652c868331373a4.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f39013752de81e6c8ab10694e1f397d6e69c6925b8e62c4376888137f10c950b.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2cf295b068636fc8d483c3d4cc74590082323dc6cda105c2d6e51ddd2eefdcdd.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/71651c185e748af576c618570ed5c22d981d20eea248e850207a49eb6c621e84.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b46366aa04fef1d252ddcd004bcfeed2d90ed6a38a96c801d0fe046e5b5b5596.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2959c626bdcecc4ff586f356e3be3ce92c89c1b05c4eb386e0d3c3dadf2df07c.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e08a83c91e6f4a97631018a3c84a31ce96bce3e0fff449c985d2abd4d7dc2f72.jpg",
+			"name": "黒子スタイル 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8bda50a96b5f023e6e2e6bb3ba339abfdc43926c2e0d5315ca93bd721e0f5a35.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "117"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a0a0d5df25bf52344a3af2dbd9f031b0c6b150043dd32e25ff81f948872d0182.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "117"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5cde7cd4853d91a47308a7edaefe6f5a394e596d97034ea8780e89325425885e.jpg",
+			"name": "黒子スタイル プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/22bc3e4305362258720852d1da5ae0ef50fa4175e3147fd94950de13fa5f7b00.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0e2aa39e92370124661b054e0cd498e430372f6d2e01a90ba30fa92917bb23b7.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bb1a965662897324058896e8752057a7ee193a759105fe52c9c06654e73e6880.jpg",
+			"name": "黒子スタイル プレイ映像2",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/924bef105f3e9f2b1e3e79d467264b25c961de501d89fe8ee8514c529e4641a4.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "82"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b10d9d120f0c132364d4de6ebfd678103336145c5ea4b982a00c15805513cb3c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "82"
+				}
+			]
+		}
+	]
+}

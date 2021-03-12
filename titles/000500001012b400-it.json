@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001012B400",
+	"eshop_id": "20010000001428",
+	"product_code": "WUP-P-ABHP",
+	"name": "Resident Evil Revelations",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 40,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/26b2ac210dce39df0a5bf187e03323afc3553e04f772105a746196241e83be6a.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9a2bc66574611bd37b38beb0798d6632b7d467bdba12b834df0902cbfd977311.jpg",
+	"data_size": "13639156952",
+	"description": "L'apprezzato titolo survival horror Resident Evil™ Revelations torna migliorato per console con una grafica HD di alta qualità, effetti di luce migliorati e un'esperienza audio immersiva. Inoltre, questa nuova versione si arricchisce di nuovi contenuti, come un nuovo e terrificante nemico, un livello di difficoltà avanzato e una modalità Raid migliorata con nuove armi, abilità e personaggi giocabili (compresi Hunk e Rachael)!",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-05-24",
+			"retail": "2013-05-24"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/e3f4c22dacf9452dd851ad476c094ce9a42df50e7ca68cd7a14ba53d690352d3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f40106bf8372b636c8d1bf57e5b4e7ddf2c0524c891c152fbc3b7e5d19c5d714.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b30ff72f135df00751b4d9b1ac7838bef1bd6c6e673c127b4f0d47020d1b4eac.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/02bb1c03d7f6e2c818362abc95cf10f87a277b83ed114bf4929c23b1b8dc2c46.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/424f7f06600df2da9fb29333b84bc22deba9973b006a8dc023d6124f937b1037.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9fe7863fd4e090fc3172989d2f0ac754f871fbf343ac3342773d2ad86d79e399.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ce310fa8456bbfda9aad2fa7611c1217597b7bc34d29f3d3d860d1a6bbd64df4.jpg",
+			"name": "Resident Evil Revelations Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4b1618cc26adbbdd17b78737e9304338c1253f2d084559cd1e8a14bd4d891a84.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "73"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/aa2c18aa57a6056a9fbc654fefcf08525829582d762ae41dd855edda82cc1c16.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "73"
+				}
+			]
+		}
+	]
+}

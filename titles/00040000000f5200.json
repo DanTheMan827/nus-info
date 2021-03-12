@@ -1,0 +1,69 @@
+{
+	"JP": {
+		"title_id": "00040000000F5200",
+		"eshop_id": "50010000014892",
+		"product_code": "CTR-N-JT4J",
+		"name": "ゲキヤバランナー",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 1212,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/cba7d37b68a05c56e5f460bc7e82cdd2de8284bde7df108aa000cd420beaacc0.jpg",
+		"data_size": "42314596",
+		"description": "『ゲキヤバランナー』は、走り出したらとまらない｢森のヨーセー｣さんを操作し、ゴールを目指すハイスピードランアクションゲームです。 道中にはさまざまな障害物があり、｢ジャンプ｣や｢バッファロー｣や｢パンツグライダー｣や｢タイムクロック(まき戻し)｣を駆使し越えていかなければなりません。 メルヘンチックな世界観とは裏腹に、一部ゲキムズなギミックとステージが、腕に自信があるアナタを待ち受けます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-06-26",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/09f5e500976f294189d7a28752b2bfd0987158787c380422778303dce0b9bffa.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/40a1c669e184c29b732aaac90143786982d03cc971ec3dab42fe3023d8b813cb.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/36de3336ffdb27708163c1b7dde53f76ab2d67b6f3199c982da4514f550d5d46.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2ba5d760eaa71b823637f1d617aefd1e63c00b9942ed63993d4b53f2603ffba4.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/cc8217abb2e06e262ad4f1b7bb10e4113a0f6b3042e9f93bd1fa4ce0548e5a7d.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/aedd4bc47d98ef90c8eaa2754424f7baee8edc4c72e0a3a62f79a6c807b8c583.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/abc8de428992c8695dc275c9e60f91917db1f40669b32e72ec2b9d6874f64cf4.jpg",
+				"name": "ゲキヤバランナー 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/65be629f384bff97c3afc10fdd6890b8e4c4c990a89748ab82625d7f6e925be5.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "101"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/11856133539ed56b21ea2ead49ecfaa8df9e4c74ec1d120dae7f9e011de8433a.jpg",
+				"name": "ゲキヤバランナー プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/06a1ad6dd179223b30319529b1c5c171ddb0a6408691f8bcf60410d845974f36.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "49"
+					}
+				]
+			}
+		]
+	}
+}

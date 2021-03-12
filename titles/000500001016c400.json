@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001016C400",
+		"eshop_id": "20010000007846",
+		"product_code": "WUP-N-JCGJ",
+		"name": "ストリートファイターZERO2",
+		"platform": 164,
+		"platform_device": "WUP",
+		"publisher": 39,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/48589f54f7f8c2480fe5a0f6d9be0f693c100e193ddbe1b24a6d71c8e8b2d2a4.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/26a31658b079c3b0bbc4d19a4c897406b37f0aa4714d429619fc6753088a5dee.jpg",
+		"data_size": "48693408",
+		"description": "このソフトは、1996年に発売されたスーパーファミコン用の対戦格闘ゲームです。 個性豊かな総勢18キャラクターが、ストリートファイトの世界で闘います。ある者は修行のため、またある者は復讐のため……。それぞれが目的を持って相手と拳を交えます。 シリーズでおなじみの基本的なアクションに、ジャンプ中に攻撃を防ぐ「空中ガード」や、ダウン攻撃を受けたときに体勢を立て直す「ダウン回避」が加わりました。スーパーコンボレベルゲージを消費すれば、強力な必殺技「スーパーコンボ」や、素早くガードを解いて反撃する「ZEROカウンター」、動きを一定時間速くする「オリジナルコンボ」が使用できます。キャラクターや戦況に合わせ、うまく使って闘ってください。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-08-20",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/f592f637200126e19ceb502a6e80300bd90a1fd5e6750c40eb588e154e1b0350.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/7d80441290a449377ddb60870994b0db6adc8c7ca8bd8755e42da4f7d099fff2.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/6f4e67bc854f49e9adc88a5b3c45d7f54f8ddba27d4df6f9bdfb1031247a1db1.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/aedb3e2f0213961f9bd701f42277695f0c9770e4b1c3905862898fb26ac2ef7b.jpg",
+				"name": "ストリートファイターZERO2 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a268093b0f4dccd7b8686ae91099207271c3cd23022723f78e2ea4c2951cfaf3.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1e6fb2927c7e0c073c90a9bd0a7f62ddebf81d5ccf27bdd2a2b43f0e0168002a.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001011AD00",
+	"eshop_id": "20010000011967",
+	"product_code": "WUP-N-FAVP",
+	"name": "Lode Runner™",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c10d969436b04d141ac643ac389e490f8ed31c7fb2687b68cf141e531f3d5367.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/cc0b8fb7a63719ef339efcccc1c8e5bdfede7cca2069462963ae535913e7f947.jpg",
+	"data_size": "36536460",
+	"description": "El emblemático juego Lode Runner, que combina puzles y acción, ha originado una saga y ha servido de inspiración a innumerables títulos. La acción en estado puro se mezcla con los enrevesados niveles, mientras recoges oro y evitas a los robots enemigos haciendo agujeros en el suelo. Usa la cabeza y tus reflejos para completar los puzles y avanzar a los siguientes. Además del juego normal, en el modo edición podrás diseñar tus propios niveles... ¡y alcanzar nuevas cotas de diversión! Si posees este título en tu Wii™, puedes realizar una transferencia de datos de Wii a Wii U™ y obtener una actualización a un precio especial. Esta es la versión estadounidense del juego.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-01-08",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/ca675ad6f378f7be543f37c0d7e477328db4cdcbc175aea7c4333dd8fa011fc2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b3840a5afa9ab1c9608742a47f24fdf09d9ccd7bf9a8f0fa8f3b50f8f743ded8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/58136310dbb418d1a73254fd7a18ffb14a91aa8673a2da63df89f10462d6d898.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/93308d4a3ddcdd021c97ec865d91acf6b5c5da889f7a58deb759d62ee398a793.jpg",
+			"name": "Lode Runner™: Vídeo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/aba86820bf0d107f866b21ce5497755798755259e0f4e9eb887e53069e0abdac.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "42"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2469ac5c41d1dde46e0e6b30b1264aab5bd9816d327068af5cd6fa76b971fed8.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "42"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101C4A00",
+	"eshop_id": "20010000020007",
+	"product_code": "WUP-P-AWPP",
+	"name": "Word Party",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1480,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/91e5fe6923c978fc6f95d4ea71fd2f2bf42f6b766186b2c03376b1bc459b9375.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/456f26865c440785d7b52159fda7b993fd740c72ee431ca4164b2af28debaad9.jpg",
+	"data_size": "101384352",
+	"description": "Word Party is a word puzzle mini-game extravaganza for up to five players! Think fast and act fast in 28 mini-games, featuring bees, robots, fish, spaceships and more! Enjoy brand new word games as well as unique multiplayer versions of classics like word search, anagrams, and crosswords.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-11-12",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/e9bcb5265325390f26b758c4d8bef0227e74374369b594b6b62bb704c62e7c90.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/dac03915333be7058f548f8461cfb73015afcaf79ff38f96f0d8b75324d22690.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/18d2bf4fad7704af285b8359c2dd3d507f9a256b946642bb969ec047fc4c4c88.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f766f92a76c022c72f3aadf7c8d9ec835d3bcae4a4edcd35265eb003d855734a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/fe85dea13c783c7de2816e304df06c97c919cf0c76e5e8020e3ca09fe3e4512b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4154b071c1b2ed19677daadc338170d2cf59ff904bae7c0f9e9b4349d21cf5a0.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/322584d7272521d6d29b6ad8ecbf5638435fb9d48b25e151148686a804963b82.jpg",
+			"name": "Word Party Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ee1f0111cc2a5ddd1fa8c7b9aa98af6cc32b23177b072eefd06fb3e029d64569.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f7fff45b5957bd1a1abde2f3ce078b961ae062460f89d62f055bde9da4ccc140.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				}
+			]
+		}
+	]
+}

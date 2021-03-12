@@ -1,0 +1,45 @@
+{
+	"JP": {
+		"title_id": "00050000101BDC00",
+		"eshop_id": "20010000014768",
+		"product_code": "WUP-N-VBFJ",
+		"name": "マリオストライカーズ チャージド",
+		"platform": 171,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8f491cce7b50e179fb9595eae41daf8bbc2224d3eb576727fd6e59fa8369bbfa.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5e175c066268845b2d272996fb71feb5f6693667db19bc51ec35a61432e961df.jpg",
+		"data_size": "2017100116",
+		"description": "このソフトは、2007年に発売されたWii用のファイティングサッカーゲームです。 格闘技のようなファイティングサッカーで、マリオと仲間たちが激突!必殺シュート、アイテム攻撃、ラフプレーまでなんでもアリの過激な試合展開!! キャプテンだけが使える必殺シュート「メガストライク」は、ボタン操作のタイミングでシュートしたボールの数やスピードが変化し、最高で一度に6点を決めることも可能! 対するキーパーは飛んでくるボールにWiiリモコンを向けてキャッチ、操作次第で0点に抑えることも可能! 友達と対戦・協力プレイで、最大4人一緒に楽しめます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-08-17",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/7041d4962791950548b2f8c69445661ac45538f184d53dd57ea0b23c4626aad7.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/395e0798da5ceafdc5ffcab84991cb07288d37e601fd4543635de6109d1029ef.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/3980b196d89a9be57a4f63e02c6291c7031549c194fb5d92047a2d337a334f90.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4ba5658ad92ee39f5b4e89b23650fe8dc9c71a649827938f4e3091236b4d5df2.jpg",
+				"name": "マリオストライカーズ チャージド 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f015c67210e8884fe22240457851e930de1d63e1cfeeba20a8908d2725d16e5f.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "134"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010109600",
+	"eshop_id": "20010000009890",
+	"product_code": "WUP-N-JACP",
+	"name": "Donkey Kong Country™",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6ca63d56b3c790d54cd4fa2a9a2ce56bcc87e43746832af12410e36782191b1d.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/904d794fe227b3bb1f1e22b846ffc7f333e8f6672d79b4f5f8c80908a5837a0d.jpg",
+	"data_size": "42958988",
+	"description": "Em 1994, nos primórdios das consolas de 32 bits, um jogo arrasou a concorrência com os seus gráficos 3D pré-renderizados, animação semelhante a desenhos animados e música atmosférica. Tudo isto na Super NES™ de 16 bits! A personagem Donkey Kong™ ganhou nova vida com Donkey Kong Country, um jogo que também deu a conhecer aos jogadores de todo o mundo Diddy Kong™, Cranky Kong™ e os mauzões Kremlings. Junta-te a DK e a Diddy numa aventura para recuperar as suas bananas roubadas. Atravessa mais de 30 níveis desafiantes, apanha boleia às cavalitas de animais amigos e tenta sobreviver às sequências frenéticas nos carrinhos de mina. Donkey Kong Country não é decididamente um jogo para bananas! Caso já tenha adquirido este título para a sua Wii, faça uma transferência de dados da sua Wii™ para a sua Wii U™ com atualizações a um preço especial. Esta é a versão do jogo para os EUA.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-10-16",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/39804492b9dbfc931a09566b5863f0a591ed54c68c39672f37692f756193a34c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/fe99c95bdd27814c32296c2e24be057516f7c070295b83a56f3b5e09349937e3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/577dba803312857c2d0756e9fd40b9d59690a153404177fae8ce39ddfecd0bce.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8fa8031cecca37a1e86817d4be7944722ad8f67f7ebb843f7815acf83e981bc0.jpg",
+			"name": "Donkey Kong Country™: Vídeo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ef02d51032c9c8d1a56c3ea06a31adc835ce5169f3f69f98405d3ad3fd74a7bd.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "66"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9890e774f791a5a9db7ada819d2716dee7172f1848fa34efb6a935d4f285333a.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "66"
+				}
+			]
+		}
+	]
+}

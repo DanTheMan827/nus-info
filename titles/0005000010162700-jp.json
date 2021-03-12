@@ -1,0 +1,100 @@
+{
+	"title_id": "0005000010162700",
+	"eshop_id": "20010000005886",
+	"product_code": "WUP-P-AFDJ",
+	"name": "ファミコンリミックス1+2",
+	"platform": 30,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/de5dfe1f86c41fca2eb36dd0e31f8a3e1920a0db98f4b36e541c274ffb5eeb5e.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e59b5b0fc387766bdd36a52d07a1396b5bde205066a5812dcc56a5ed4cc38dee.jpg",
+	"data_size": null,
+	"description": "ファミコンソフトの一部シーンを切り取って、新たなルールやしかけでアレンジ。懐かしいけれど、オリジナルとは一味違う遊びを多数収録しています。ゲーム内に新要素を加えた「リミックス」ステージのほか、内容はそのままに、新たに「お題」を設定した「ファミコン」ステージの2つの遊びが楽しめます。Wii Uダウンロードソフトとして配信する2つのソフトが一緒になったパッケージソフトです。",
+	"availability": {
+		"eshop": false,
+		"retail": true,
+		"dates": {
+			"eshop": null,
+			"retail": "2014-04-24"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/d9b5675dcebbc94e811f9eaa7d405c151f85cabd283ab0b25e1175ec9ddfc67b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ecf69897693bb2e06645cf01566ea8d8957883a98fca24cc4c657b965d70e93e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/cfc96b8a122615c736fb6e4afc9c7a9c6be09eb6d16bf0bec6978f645edcf858.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3fbeea4d5717d03a6c8e4b1c8b79cb6a20e9faacdcb4c0cb486a9fca347e8720.jpg",
+			"name": "ファミコンリミックス 1+2 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5b9c8f91c57010b33d9f8cf2c6aeedc23c1f0fbef4db89c5a2daf585b09ecb7f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "212"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/875eb9cbb26bea897201e00a386c5af5d278c9395124469785ddd94968770256.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "212"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a0b626c78a7504ecb44b3a87e582b813a15505f4b74002820c0cb979226bd619.jpg",
+			"name": "ゲームセンターCX 有野の挑戦 「ファミコンリミックス 1+2」前編",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/97f1f04e08f8e01a928a5c77503c30ed7d1839027525ea0911ce732511331c68.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "1011"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/90dac63a34a24a239bbcb3dd44ecbb83bb97de4cf09b9fd1f1186865a2b6b090.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "1011"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0ad33738cac7bee42d99d59b0c1868eefed00af8cfddc3785b90e66e77dfce95.jpg",
+			"name": "ゲームセンターCX 有野の挑戦 「ファミコンリミックス 1+2」後編",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0e0f57cf14643808d39a2981170eb824b4d477cce3518b566a02dc7304683733.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "1041"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/124be8c2ae20097db80965724542e8c945511bc8157f40ba9ba8c94d6241bec5.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "1041"
+				}
+			]
+		}
+	]
+}

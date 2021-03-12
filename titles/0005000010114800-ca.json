@@ -1,0 +1,78 @@
+{
+	"title_id": "0005000010114800",
+	"eshop_id": "20010000001767",
+	"product_code": "WUP-N-FAPE",
+	"name": "Mega Man™ 2",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 39,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/266767c64317ad65e1a8d08c1139480bb9bf1416fcf11a3c6a01fdcd2ef84016.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8977aeb192c35dc705279bf1863a6ba332cc055d4b69fd0dc2a27b9c1dd19260.jpg",
+	"data_size": "36667532",
+	"description": "Mega Man 2 is widely regarded by fans as one of the greatest action games of all time. With even more stages and Robot Masters than the previous installment, its sheer size and scope is enough to get any action gamer's heart palpitating. The year is 200X. Dr. Light's super robot, Mega Man, had succeeded in smashing the evil ambition of the nefarious Dr. Wily, and peace reigns over the planet. However, Dr. Wily proves to be a hard man to keep down and has returned with a new army of Robot Masters in tow to challenge our hero. Can Mega Man save the world again?",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-06-11",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/8f49abfa8fd3d31920df0b658ed29623a035377aa13d565f448cc089e0d870d2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/cfbbb74a817392670fef0d26489399e7fc46a87a7465c5ba01fb97911e14b707.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/20714f83619014f6278ce9a91a65b6ecb0ee4b7cf2a08b57e055fb92b841c680.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/256892cd82878a68f5a3629658dffe1274f25c6e5054745f10d80bba62234650.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8fbf364314a949e3f9ff8f79df2914d92441ff7b0e0116ca85f3e7c4b59471ce.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ee6f648033da1f7b7787214935fcff2a7e97a0b6bd8067009557cc5b15303007.jpg",
+			"name": "Nintendo Minute - Mega Man 2",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5d0f6ccf7f140ffb4349d6e386bc15c1cb8154c48cd350487f72a62a0d701c3c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "375"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f5a2a191e07bd6282f281b1bda8adbd5c2c19d9ccc8d2efa8a31e6e64216fc53.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "375"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8d6efbe87e12b99918d53950828ff76e9130041ae2de3bc65c93f12738f4e3c6.jpg",
+			"name": "Mega Man™ 2 Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fb8b929ce1b4be2636a3d3c100953f82cdab5161d4c5fe5fe988af991c018ed1.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8df842632ac503ae0be59397da0bc9f6abaf4163702eefc7a9a7b031d1b6d36e.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,87 @@
+{
+	"JP": {
+		"title_id": "000400000013FC00",
+		"eshop_id": "50010000026355",
+		"product_code": "CTR-N-KFRJ",
+		"name": "フェアルーン",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 1212,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d7a4b922a8cec9d0ab8698001497d524798ce6477a8a435a107c5143b41d380b.jpg",
+		"data_size": "101878628",
+		"description": "『フェアルーン』は、レトロな世界観の中で、モンスターを倒しながら、世界に隠されたさまざまなナゾを解いていく、「レトロ風謎解きアクションRPG」です。 8Bitテイストのイラストとサウンド、およびシンプルな操作方法で、誰でも簡単にプレイできます。(片手だけでのプレイにも対応。) 選ばれし勇者よ、3体の精霊像を見つけ出し再び魔王の魂を封印するのだ!",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-10-08",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f9dfdaf8689b150d7ed50e14353112a2569b85d5569281d40c5200aba0c83d1f.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e967d9df3f41288ecda0aff3db0d64804947a4dad9fab941f5f20adc29c4a446.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0cd09116ac1219ded30e1d5b244bc06f2de0d32e79b56ad73314abb93dd0a136.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e245cd977ff1cb2719ef7e8db2d8db4d6b3c52525ed46faf8130137526de8337.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/733b87d54827a934766b7cc7f4d149b026778e731b810031686fa3fd02830417.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/dca77cad26456cecbe3bdea7ea31862fce937a1c8f782ccf6170fdb34fd3e985.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6a41163c5cf88abcd133d33f09b4334194230d1b99466fda57cd5e0482a7917a.jpg",
+				"name": "フェアルーン 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c5f59769e18dc8f1a57856224c0afb3a87f11fa91278911d482e8179a61a489e.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "62"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ec830c411941a8347d28b4da61f8f378458871c44a573a1aa5e47481fd935e46.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "62"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a7e1eeb2fbec399ed346166c95928b95eca49ddf2d5aca53d47768d9ca086714.jpg",
+				"name": "フェアルーン 紹介映像2",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/da14af749204063d7801c288816ddde748a32abc8e52662a0cada8bad9c6259e.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "119"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0baa5622e795dabed93b8943e5a30cb9859cdd0cd00c1ffc55f7e84ec18f5849.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "119"
+					}
+				]
+			}
+		]
+	}
+}

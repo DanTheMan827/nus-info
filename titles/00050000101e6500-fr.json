@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101E6500",
+	"eshop_id": "20010000025608",
+	"product_code": "WUP-N-NATE",
+	"name": "Excitebike® 64",
+	"platform": 170,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/66893f22c0bc6a179f09feea23cb630a8c640438f49fa83218a0b349c07190f8.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/cfb7558e84efbe90febc144686241b5f1fb3ae676755a4cfd15ae8411796abb9.jpg",
+	"data_size": "63864952",
+	"description": "Plongez-vous dans le monde des sports extrêmes avec le motocross, et effectuez un tas de figures extravagantes, comme des Heel clickers, des Cliffhangers et des Bar hops ! Sélectionnez l'un des six pilotes au style unique, et faites la course sur les 20 circuits en stade ou en extérieur. Vous pouvez aussi créer vos propres circuits ou vous mesurer jusqu'à quatre de vos amis simultanément. Ceci est la version américaine du jeu.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-12-08",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/79bcbf7e898c8bf9de942a7891dec72e95087498b6f974487afeefd730eb4f6e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/925d6395112ff396103c0902c9639c9415fd64add870b88ad9ba14ecd105b1c7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c3ed25293f09e152b6a8b6a074fd8c4e725d7c2ddc5a41ce90563bf5ca7ec134.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8baac0f9ecc32e038cad7d4b4d8719b546e8eec4ac984faae8997fa912cfd71c.jpg",
+			"name": "Excitebike® 64 : vidéo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f8787aa10dd4adb99e0e04afc9601b2f2d75b67b75267568d39fabd6452c51c1.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fe8efc0e6fc7bd9850bac8c6cbfb29eee4d8b317e5e0219e35ea35c9d71fcb14.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				}
+			]
+		}
+	]
+}

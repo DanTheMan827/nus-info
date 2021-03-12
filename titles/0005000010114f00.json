@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010114F00",
+		"eshop_id": "20010000001964",
+		"product_code": "WUP-N-JAMJ",
+		"name": "ストリートファイターⅡ ザ ワールド ウォーリアー",
+		"platform": 164,
+		"platform_device": "WUP",
+		"publisher": 39,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/efd21ca3a64b82dd4855b557c13343b73ae3439f8fbc4ebc8ecf19578c4abad2.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/2c0b932a7bcb9c6b48b491c94fc83f93bf935542494ec703d7f3066afb17e18b.jpg",
+		"data_size": "41812108",
+		"description": "このソフトは、1992年に発売されたスーパーファミコン用の格闘ゲームです。 真の格闘家を目指し、強者たちがストリートファイトに挑みます。それぞれの拳に思いを乗せた真剣勝負は、数々のドラマを生み出します。8人のキャラクターはさまざまな必殺技と個性を持ち、多彩なテクニックを駆使して闘うことが勝利へのカギとなります。「V.S. BATTLE」モードでは2人で対戦することができ、対人戦ならではの戦略や駆け引きが楽しめるでしょう。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-06-25",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/05cc2802755d28434987884f5ac64381bdab04851466abeeba498c3b86cc17c4.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/3e53aa9cd955cf54a85c18c4ddd7daefc4502a1ba336c045b8381ffb76ffe689.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/42b30cd567526b0b6fadab30bb6952157186f0fc14bddc450e375347c21d819f.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/24dde98e32137f3152436869995b1d016be21af4fdbb1c58012f8f299b5570a2.jpg",
+				"name": "ストリートファイターⅡ ザ ワールド ウォーリアー プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/37109d2479b6f912baa85b7ad5da0cda29ed249d9e72d5491f6a50cbbd834b57.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e847ae7121754b333c93ba490abf950c170e0fe687aefe526a170a4e6a14191e.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					}
+				]
+			}
+		]
+	}
+}

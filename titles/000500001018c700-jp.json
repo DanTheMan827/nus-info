@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001018C700",
+	"eshop_id": "20010000009708",
+	"product_code": "WUP-N-AXZJ",
+	"name": "THE SWAPPER ザ･スワッパー",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ce356e93eb2c04b7f9cc35ba120201ce5ffd2389d2e875bfbe08eb6ef5d50686.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/659b1cc2d99b25dc0489f111d4b6f6fe6262f16e6ce0aa7a2e769c29a1b36143.jpg",
+	"data_size": "409534624",
+	"description": "朽ち果てた宇宙ステーション「テーセウス」に不時着した主人公が、たった1人で脱出を試みる、2D探索パズルアクションゲームです。プレイヤーは、4体までの分身を作り出す「クローン」、そして、作り出したクローンに操作を切り替える「スワップ」という、2つの力を駆使し、入り組んだ宇宙ステーションからの生還を目指します。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-04-02",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/e88bec6117d2c8d32b58c25ade9ddc9dc27ed4af0ee1b597a93979ef6b756647.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d952c10fae92aba6275002b923cbd61e8274d40eddb3bdf10d62d28babc1ed7f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/70e52c1d4517e098d9f7e4ef3822bd5f2ca685e0ade54c2abc028571c5c02da1.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5df268cb2e237f4da7c30e9b341984a99ddf6b6a59fb0ad3e60d04392a0a12ec.jpg",
+			"name": "THE SWAPPER ザ･スワッパー 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cdcdee328a9b422f4ccc489c330cc004f588d440be47527397b7cc658d80ce1e.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "190"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2ce8a8c205d345939e509ee60b8aa863cae414763d659c97f630cdf66353266c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "190"
+				}
+			]
+		}
+	]
+}

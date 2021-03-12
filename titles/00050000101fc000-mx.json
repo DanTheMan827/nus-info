@@ -1,0 +1,79 @@
+{
+	"title_id": "00050000101FC000",
+	"eshop_id": "20010000023349",
+	"product_code": "WUP-N-BGPE",
+	"name": "BLOC",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1421,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2b0a1b1dcee7f59b8dd7844e164e0e7d2e46c84ea76dc575b65ca8357f628c9d.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/12001665ea7d3a9bf434866a0db24c1b005725352276a16bee00fe9e12264957.jpg",
+	"data_size": "87621792",
+	"description": "Control up to 4 BLOCS at the same time to prevent the star or ball from going offscreen! Features multiplayer for up to 4 players: each player shares the Wii U GamePad™ to control BLOCS on each side of the screen. Play with bumpers in one of 4 stages!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-07-28",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/01a73aec1f40919ce74896eae57a690be1da58a0ba255f61dff5c9321c28dd8f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5e8ddba824ba1bfb026cc144d465bf2829b00ec476eb5726f15c207a368279f0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5f9d74565cfbc4b3bd444cc206a031efc03953fe4da15dc4c10f1f0475433a60.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bf31174874f71c9b121742788921e544b4b881960c95d08ed096433514822e06.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/09de01a0afaea898a2e33188c84c732f3b4a97cbf3be0b68fb6a9a9d74713423.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/28ce8e60609f0e2faef5df4196f836e857de98c473812739b6eab413020436ed.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9e30f0b06e3da53b108ac6eb3fcae3bf2d57d14eee0a881fea89558e94c1571b.jpg",
+			"name": "Versión 1.0 Nuevas funciones - BLOC | Wii U",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e2f81747e407283fa2edf6be84b6907f29a9358dd96eca658aca1ec08b595c67.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "25"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a1107e04f37a72895f646b1c7e628351429825baf7e2fcc2f694eb967df81ef0.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "25"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b51ee0edef77a71fa209663b4a662623440a2c6ca1644864eae119716aebcd82.jpg",
+			"name": "Avance para lanzamiento BLOC",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/16466263aa9b80cf46f99c4d19a573d05a9f7998c6937e66c14ba60a36216cb1.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f6b7604718ee46c297fb987abb68301a70da720239ea1a1c903d2e4ee0ef118f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				}
+			]
+		}
+	]
+}

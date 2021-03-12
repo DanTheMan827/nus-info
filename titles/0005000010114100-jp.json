@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010114100",
+	"eshop_id": "20010000001106",
+	"product_code": "WUP-N-FAMJ",
+	"name": "ヨッシーのたまご",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/05194a9884116e2283133c469947c5bb51886c420ea9fa8be91e5e041ed75456.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b265d9a5c376932098a55a775ebb6205e014c785147d98eb6f51d304ee851336.jpg",
+	"data_size": "36569228",
+	"description": "このソフトは、1991年に発売されたファミリーコンピュータ用のアクションパズルゲームです。 画面の下にいるマリオを動かし、上から落ちてくるクリボーやテレサといったキャラクターをうまくトレーに振り分け、上下に2つ重ねて消していきます。2種類のたまごのかけら「うえたまご」と「したたまご」をうまく組み合わせると、中からヨッシーが生まれ、高いスコアが獲得できます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-06-12",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/7b133ade6caea84062aebcebbac11f3ec4d557f10865757b305c47848f211875.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/93da45fe0fee78b19fb51389b8b982e43f033b37709b53733af0ee0b14b28fec.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9cfec65d78bff79a6562fa3ac54ceb7f27cb4ddc027b2c12d7741986d52c1c9e.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/72dc6588922d989c6161b19528ee5b5a64c69c63159e9ce1c0a173af088c890b.jpg",
+			"name": "ヨッシーのたまご プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/df5bc70c0a880d7c03a34f8e14d847222182621150cb3dd5ae26bc75587be3b5.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c676db8064c57b3ce0606f2007c726e4649879e718324a797095f39e2c45df47.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101B6500",
+		"eshop_id": "20010000013168",
+		"product_code": "WUP-N-WG3J",
+		"name": "TENGAMI",
+		"platform": 124,
+		"platform_device": "WUP",
+		"publisher": 1292,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8bdfeac11a4aa871407d52ae6af8e87afd5511a72826f31a25e0430a50fd7a3d.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4d6639d5b25b99e8ee8475b5d6df813b31c075a31e2845b0bde918050790ea93.jpg",
+		"data_size": "383942816",
+		"description": "日本の伝統美である和紙を使用して制作しました。まるで「飛び出す絵本」を楽しむように、神話の世界を探索する、3Dアドベンチャーゲームです。深い森の奥に眠る神社、穏やかな山裾の滝、圧倒的なビジュアルで描かれる神話の世界で、「散りゆく桜」の「隠された秘密と謎」を解き明かしてください。 ･美しい日本神話の世界を「飛び出す絵本」感覚で楽しむ3Dアドベンチャーゲームです。 ･タッチペンの操作により、紙をスライドさせ、まるで絵本を読んでいるような感覚でゲームが進行しますので、思わずこの世界に引き込まれることでしょう。 ･オブジェクトを動かし、パズルを解きながら、ゲームを進めていきましょう。 ･世界観にマッチした雰囲気のあるBGMはさらに物語を盛り上げます。 ･隠されたMiiverseのハンコも見つけましょう。 ･TVでも、Wii U GamePadのみでも、プレイ可能です。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-03-04",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/0650d9122fc1466c438eb69bf4323c17b28a293ce098d3e66dfd80a58fbb40e0.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/5b57bb319a05109d8df3ceb7ff83d8ecfe17ad0454c7ea9dcad2963fea9c0267.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/6d2cebcae22aa59bafcc722cfa0fc443bd42b03bb2ae1d0d9b3b995ea568ba96.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/731b328e48e8553d075fc203b4b334a76484a80222931cd7d1c1bfb163f8e8ec.jpg",
+				"name": "TENGAMI 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e03b7e42d12a57ef8a8917869004bf33c656423134f73098a9174bce8a6834ce.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "85"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0c413be3c55f22573045f591f2022dbb49fb35926465873485e312a06390bd6d.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "85"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010158600",
+		"eshop_id": "20010000005144",
+		"product_code": "WUP-N-FCBJ",
+		"name": "忍者龍剣伝",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 267,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/082b5af51a6385d03ae2402cff9144bfca255c9dccbca8ebe59490aac2e5204c.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4d45976d1e0322b59f6a385968936cc0154fce2fbcb4b69edd9bdd12994d9581.jpg",
+		"data_size": "36634764",
+		"description": "このソフトは、1988年に発売されたファミリーコンピュータ用のアクションゲームです。 父の遺言に従い秘伝の龍剣を持って、渦巻く野望が待ち受けるアメリカに渡ったリュウ･ハヤブサ。手裏剣や炎波の術など、忍術を使って敵と戦います。入り組んだ地形では、壁から壁へ飛び移る「壁蹴りジャンプ」を使うのがコツ。手応えある難易度に加えて、ゲーム内のビジュアルシーンが、物語を盛り上げます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-03-26",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/6f79846801d8c238920d04b7c2fc6b0d0e7739e177c9f52640662e4aeaee6e9c.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/3e7232a141791719cad175c75cb8c8f296347009775cd463c7d4b583690bd621.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/7894e7ca70c12b3175b5b4b354e727c901e81daba44223530cec3230241bc54e.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/49f1d3e2c6aca818e87e1d17b20ac41df168be0e26e8e987d7391e996be9d2d6.jpg",
+				"name": "忍者龍剣伝 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/41de45dea6a40507b924e48f07691ff2ddfa04f1299f2cad2f0edf1b0b007dec.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "39"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5cd2b4c191788847e00f211293228d7d975d448c9bce9e12f65a2f48381cecf4.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "39"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101B3A00",
+		"eshop_id": "20010000016267",
+		"product_code": "WUP-N-DAPJ",
+		"name": "メトロイドプライム ハンターズ",
+		"platform": 169,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9fd73bf03e5276c4f0541c6b6ed1f9479930e40c326a17586b788af979187dbe.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7318b7e1843e229e0118ca83849eadf0fae0e24d2b41dbcb128ffd71a22c5af3.jpg",
+		"data_size": "91521144",
+		"description": "このソフトは、2006年に発売されたニンテンドーDS用のファースト･パーソン･シューティングゲームです。 宇宙のはるか遠くに存在する「アレンビッククラスター」は、かつて平和的で強大なアレンビック族の文明が支配する地でした。しかし、数千年あるいは数万年前、最高の兵器に護られた「オクトリス」を残して、彼らはこつ然と姿を消したのです。それから幾世紀もの時を経たある日、アレンビッククラスターから発信されたテレパシーメッセージが届きます。 「究極の力、その秘密はアレンビッククラスターに眠る」と訳されたこのメッセージの真相を解明するため、バウンティハンターたち、そしてサムス･アランはアレンビッククラスターに向かいます。 アドベンチャーモードは主人公のサムスを操作し、敵と戦ったり謎を解いたりしながら物語を進めるモードです。アレンビッククラスターの惑星など4つのステージを訪れて、「究極の力」にかかわる謎のアイテム･オクトリスを集めることが目的です。サムスと同様、6人のハンターたちがオクトリスを狙っています。彼らと戦って敗れると持っているオクトリスを奪われてしまいますが、再び相手と戦って倒し、奪い返しましょう。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-09-30",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/5e39aae4ec7ff1ec48c1038c6dbc0a6aab1acf3f1789a28ef0355eee37d441e2.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/746e47fc656987d27a8717eadb151efb6737bc3bf6cc2fa903e688ba6da7fffa.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/4526a6e25dd6fcd6a3eed9a09bfd8277dd71c2d8380c4d4743fcf90a36ef631d.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f14d954ff6b88e18d678f55f11252d6bc8ab3f152c0bc48cacd8ffe50f76da9a.jpg",
+				"name": "メトロイドプライム ハンターズ プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b4ad14024b0c31d564bb7cb22d55786fad41b8ca52987bbbeced68bc2da0ba96.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "67"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c77b8a6da49c828e3376fd5860600bd2d6d84ca5dc22fe4d0b54188538f6ebc0.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "67"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "00040000001C2800",
+		"eshop_id": "50010000042656",
+		"product_code": "CTR-N-J2XJ",
+		"name": "デジコロ じーさん邪 Vol.012 ゴミひろいでキレイキレイじゃっ!!",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 462,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/06c6e5e2d777912d6eb87a785ff87684a3c36307e14688397b75db90c76a7dad.jpg",
+		"data_size": "153963364",
+		"description": "デジタルとコロコロコミックが合体！ それがデジコロです！ これまでにない新しいコミックがいよいよ登場します。 コロコロコミックでおなじみのあのキャラクターがデジコロになって、しゃべる！ 動き出す！ 今までの電子コミックをはるかに超えたおもしろさを体感してください。 道ばたの空きかんをなにげに蹴った孫。 その先にはじーさんと、あの動物!? ゴミが多いからこのままではいけないと思ったじーさんと孫はゴミひろいをして街をキレイにすることに。 しかし途中でじーさんは……。 さらに街のゴミの原因が明らかに!? 予想もしない、ゴミ拾いの最後が……!! デジコロの情報はコロコロコミックをチェックしてください！ このあとも続々登場します！ 楽しみに待っていてください！",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2017-05-10",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/90a436d5b01221669d9dea67477639031e39a51841d7a26f5f03bf3dc067c656.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2334cd5d929c977b14ccf16f221e7e55da139a077a5bd293d0708def893c47da.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/cf69bb22886e78be0eb4df6040c234b7d10c8c617875826b95b2f52a5a905dbc.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2334cd5d929c977b14ccf16f221e7e55da139a077a5bd293d0708def893c47da.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/50e26444368852e4a470fce71b57cf8c2ab4c3b1675c3a99ca3803a75177f5c7.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2334cd5d929c977b14ccf16f221e7e55da139a077a5bd293d0708def893c47da.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/16b6ca2acc5f5f3b945454be7d93e4fa92c484d49f362f3662497997a06a33cf.jpg",
+				"name": "うごくまんが デジコロ 紹介映像 2017年5月配信タイトル",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9239fabdc1850b9247912e48f11a2364575e321370929dcf20dd48022cb68bc4.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "111"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bb58aeb05ebd663e64ae534ff761afcd2a5ac9c55b168d370b879322d31ae6e8.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "111"
+					}
+				]
+			}
+		]
+	}
+}

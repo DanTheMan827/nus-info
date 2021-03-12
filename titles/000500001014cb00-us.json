@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001014CB00",
+	"eshop_id": "20010000002765",
+	"product_code": "WUP-N-WGSE",
+	"name": "Giana Sisters: Twisted Dreams",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1232,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a061d5e06d6d3584d25316737889396457a7828bce9aeb13c609d279da1bbbe0.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e910aefbf0603be78a8c4c60f704853fbb256b05b65f34466a65181e58c73a13.jpg",
+	"data_size": "3783360912",
+	"description": "Morph at will between two dynamically different dream worlds in this fast-paced platformer! Giana Sisters: Twisted Dreams combines punchy graphics and tight controls with the challenge of retro era platforming. Fluidly combine the special moves of perky and punk Giana as you flip between the dreams at the press of a button. Take skillful shortcuts to barrel through a level at top speed or keep your eyes peeled for the oodles of secret areas hidden within. Intertwine the classic chiptunes of Chris Huelsbeck with their metal counterparts by Machinae Supremacy as you switch worlds.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-09-05",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/5135c4b18bc9f752450cc52356e9e75ac600da665c454adb59a67c3cc1071a86.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4adbc12ebd268e0051c9c0163baa25826c6d6955ac3e1bd9f2d2cd50d584a454.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bb0530a47ca1413ec48972bb0fdd28caf4f52f58a6d7022dbdd7e5ea6b651e95.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/fa61c90488a811aba2af57b6af7893f2a83ed91799abba8981d14dd463d8f06c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3dc615879533f3547808440af4538383c93d8baf41cf27c620c8fa176e496add.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e8af3746a0808cc9bc59a973a863afe7077b1383fcbcdc30add83f02df94a784.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/95a3cd6ad886ab7fcfc8c3119581cc2a50d6cd527550bf547f97795922474b99.jpg",
+			"name": "Giana Sisters: Twisted Dreams Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4c81e25fd14764bb9898cab6289206877aa010775eb4099969ba3bd1b5742ad2.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "99"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0b25a7642cedbd322f92319cbd5e015f56a3f21dfc27de4807da33eab611e86c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "99"
+				}
+			]
+		}
+	]
+}

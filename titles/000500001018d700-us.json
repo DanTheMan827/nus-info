@@ -1,0 +1,54 @@
+{
+	"title_id": "000500001018D700",
+	"eshop_id": "20010000009006",
+	"product_code": "WUP-N-BSHE",
+	"name": "SHUT THE BOX",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1269,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3cbf566c63e9edb03f3dd6e744e0069704698d0341b81c66e0c3d3ccf752033a.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f874be79abce595faa88299aff92e88f1aa48f0001f6e0f0e4b13259ef1b4750.jpg",
+	"data_size": "59080864",
+	"description": "SHUT THE BOX is an exciting game of chance and luck. In this title, you must roll the dice and select the number of tiles that correspond with what you have just rolled. You may choose to select one or more tiles in order to gain the desired number. The goal of the game is to eliminate all the tiles and score a perfect game. Give it a try today and see how high you can score!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-08-07",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/f65b7083a97678509a690984a20d1ea6be5c0cf988dd28b11e989384933fc0f6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/dd4d435e5a1fb88a0bd0b580b6b240664f9ffd3ba03c3769e9146466315aae03.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8a4fc60d9534622f4f2d9e1fa2edd066c7366e1a1393660c7ad0dee00fc39369.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/63110e1248c8196022b4718436e28e923390f2cd3c2bf0523fb3f0eb7f9369fe.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f7537887673e820359292a2357685f88a1011e36978de712c278f0b2b537c6bb.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b58177f95716d88e8b336c98ff520055b201728ca922498c33ea52349cb373b9.jpg",
+			"name": "SHUT THE BOX Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0c05f6fc8fe01cd4ccff10fb71307149fe649b8caf6b43c62fac335a04f2fa0d.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "41"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e3621ffd7b253d1aaa36f6c9ea9ff7dbd38a74f683f34841490c7d2380e6ceca.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "41"
+				}
+			]
+		}
+	]
+}

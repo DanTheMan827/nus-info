@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101E3300",
+	"eshop_id": "20010000021707",
+	"product_code": "WUP-P-AR7P",
+	"name": "Olympia Rising",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1406,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/27f2c7a9345d588242313f39f1f6f0d5a932ffb6bdb758fc892b916258d31bc2.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/45bec542fc6f125239ec09be633931623890481419907dd6f8af4d96a0e1c028.jpg",
+	"data_size": "87425184",
+	"description": "Iola is a young warrior who has been cast into the Underworld after meeting an untimely end. She must navigate through the various twisted regions of Hades' domain, fighting through hoards of deadly creatures as she attempts her escape, making her way to Mount Olympus. Jump, climb, slash, and incinerate your way through each stage. - Fast-paced aerial combat propels you up through the Underworld, as you slash enemies to bits with your blade and incinerate them with powerful magic. - Navigate through deadly environments with fluid maneuverability, looking for the most efficient way to climb to the top. Chain enemy kills as you jump through the air - build up a big combo to earn even more coins to pay Charon the Ferryman and pass through the many gates of the Underworld. - Explore 6 unique, twisted environments of the Underworld - each offering different challenges, creatures, and fierce boss encounters to overcome.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-04-15",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/2dfe6217bc4e702125b6920fd443829daabeee4732ecf118fd6c0f642fcffbe9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a4b200c75e6eb026471cbe5dd6748ab5e3152bc0cf15fee2b0835fc79e0797fd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c6abe90e4d805765c38ae7c5369e9e876b98bcb3ce91d22d921c06a20655f485.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a9231c84049e481afb11e0061a98d89adf1e656ca72d2424ac94bd670f286126.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/df6b25f551bc553645a37bdaf106f6ac89d6cd5c9eb29ca9409b901e0ec6b0df.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/fa39d116f22380e8fb258828fca19b246e965e7c438b08b201426c14ffa838f2.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5b8da20b287c0848fe603d01257c9af92167624902678b925b2983ea92ba104d.jpg",
+			"name": "Olympia Rising: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c03f76faaad303fcaa35943144b56b6457b50457a134a501a5dedcc89a3218ff.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "156"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/294c533c47c2df4ccf28f587d404edf5b00464fb0267aeed169ce7da01cf5f2d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "156"
+				}
+			]
+		}
+	]
+}

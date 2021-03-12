@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010129E00",
+		"eshop_id": "20010000001368",
+		"product_code": "WUP-N-FAZJ",
+		"name": "ロックマン3 Dr.ワイリーの最期!?",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 39,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3af3902c2abaebda36dcbcb7ae010e65da1780a721234bebc4bb86804cd1f426.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/98ec062271b320f3eb449f34394ff482328b2a9086a5fabf87de1ebe0b1ffcb3.jpg",
+		"data_size": "36765836",
+		"description": "このソフトは、1990年に発売されたファミリーコンピュータ用のアクションゲームです。 未知の惑星で起きたロボットたちの暴走を知り、宇宙へ出発したロックマン。サポートロボットのラッシュとともに、8体のボスに立ち向かいます。各ステージのボスを倒すごとにそのボスが使用していた武器が手に入り、敵に大ダメージを与えたり、特殊な壁を壊してステージの先に進めるようになります。今作から加わったスライディングを使うと、狭い通路の移動や攻撃の回避など、スピード感のあるアクションが楽しめます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-05-01",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/a56b155eecdd72edad0665f14d0e7955a8d6d7eb9035413102ccb96446627646.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/02387e67a779183b3779c29d21498facd475ec6e2427bf9d0de46c393c4f3e07.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/5ddb6f495b131ca7141f6ae5061ed8f463f48779487b1eca92f6aa31f729b2e1.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/027c531ab950ee17d635ccdfcb156e15352f81509c45b9c38f86600e15a48201.jpg",
+				"name": "ロックマン3 Dr.ワイリーの最期!? プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6deda652663d0cd05fe5bae7181c0e4a6e22d569e30cfa695e6d06d435c99863.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "40"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1f722bb05b8d6d4ca44ee24403d8da9ec5c12c24c7eaadc056cd54b4125f70df.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "40"
+					}
+				]
+			}
+		]
+	}
+}

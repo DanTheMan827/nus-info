@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010184200",
+		"eshop_id": "20010000009487",
+		"product_code": "WUP-N-PBKJ",
+		"name": "風のクロノアG2 ドリームチャンプ･トーナメント",
+		"platform": 168,
+		"platform_device": "WUP",
+		"publisher": 27,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4d64dae516b610b11c8282a16242245433e7eea07c0e85c4a5a19a1862334548.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/eb29d7408bd298e8a235723a82b1a8039c786259de0da402bf0b48de87c8f0cd.jpg",
+		"data_size": "71630988",
+		"description": "このソフトは、2002年に発売されたゲームボーイアドバンス用のアクションゲームです。 空から降ってきた「ドリームチャンプ･トーナメント」の招待チケットを手にしたクロノアは、突然、謎の会場に飛ばされてしまいます。夢の世界の冒険者の中から最高のヒーローを決めるこの大会、何かワナがありそうです！ クロノアの運命やいかに!? 新たなる冒険の始まりです！",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-01-20",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/b87b3e6a76e0e8d2528b82a1a4a06b7b796c8c4a81d03f70630b5faf6e64bb0f.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/305d89ef0518c374b07d2df41d548968f9170840985d57353426dd7abe1ca008.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/13c50ef49bd212bec108a32a1d0656c113826498f08b13a447865c755fb5e5db.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/00763fe19f351806b3b292a41f3de51dfd80f0a8296ca02a7b870bfa90f6af19.jpg",
+				"name": "風のクロノアG2 ドリームチャンプ･ トーナメント プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e2bbaa30819ed41af8b843da063b5b24849fdfa27c0db2799cc5ac7bae73952b.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "72"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1ea9ab0dba632d43efe943d6759e246a6da381456b9988e677baa08bb61a83bc.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "72"
+					}
+				]
+			}
+		]
+	}
+}

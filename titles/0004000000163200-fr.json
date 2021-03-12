@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000163200",
+	"eshop_id": "50010000032636",
+	"product_code": "CTR-N-KAAP",
+	"name": "Fullblox™",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/905874456836dc0f661dc470639e0bab75563e3cc4e43f6bc7525d80eb3dac11.jpg",
+	"data_size": "92318564",
+	"description": "À découvrir gratuitement ! Dorénavant, tout le monde peut s'essayer à la fameuse série Pullblox. Fullblox est le quatrième casse-tête de la série Pullblox, avec une fois de plus à l'affiche le charmant Millo et ses amis. Le jeu, dont la jouabilité se base sur le prédécesseur Pullblox, consiste à tirer et pousser des ensembles de blocs pour ouvrir un chemin jusqu'à un objectif situé au somment d'une structure. Pour la première fois depuis le début de la série, les joueurs ont la possibilité d'étendre les blocs dans chaque direction (y compris l'arrière) de la structure. Achats disponibles dans le jeu.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-05-14",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/509db8df09d06a180ae728c5ffcab8d59eda1824949a1e21a06aae7793f5c7e7.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/28b7d349f2af824ba37c748c294cc4ec7188e20502cffa148ed845dc81e9a51a.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/298505e07a6f16eefafd3a8d93403728548b7c2130aefd0ffce460c47555ead8.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/418c164f382cdbeb2942a6f3d0afe2f0694008bdb31b2c467ce3572c520dd08d.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3d3c94493ccfcce63366645ae870bdf57d14ac642bf1ca6367e7234436204c1c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9e4eb800e57926b3b8bd8cdb53009f54d82f41ac983801417aedb61d6ac3dcb6.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e7e059520aa474db7c21815d841af3b9a4eb4847927d49a4ebaa3394eada4e0b.jpg",
+			"name": "Fullblox™ : bande-annonce",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8717ef684a2f5a19076226a91f67c31fc890d86aae73764a4754211b059d35dc.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "168"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ef18cc526754aea4436856174cce7a76fdca2f76c5e9b719df8c7662d194194b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "168"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,109 @@
+{
+	"title_id": "000400000018F200",
+	"eshop_id": "50010000041963",
+	"product_code": "CTR-P-BQ8P",
+	"name": "Dragon Quest® VIII: Journey of the Cursed King",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/62bfb903a0ace05ec9144dfbe48e27551de2a20968de7e88f64f6f63012776bb.jpg",
+	"data_size": "3199757156",
+	"description": "Эта игра доступна только на английском, французском, итальянском, немецком и испанском языках. Игра начинается с того, как в замок Тродейн заявляется шут Дулмагус и крадет скипетр короля. Воспользовавшись силой реликвии, он превращает его величество в тролля, принцессу в лошадь, а обитателей замка в растения. Одинокий стражник оказывается единственным, кому удается избежать проклятия, и поэтому на его плечи ложится непростая задача спасения королевства.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2017-01-20",
+			"retail": "2017-01-20"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/df9b9e09bf78a6072b090300553ea631e3185119fa8880a3825674e53d55df57.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b8fb3306b0e01cb494ee081af4bf7304f6a0b39cb92ba5a8a56cccfd5b01679b.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2c2e533cb0db24a10d5a7ded09d28ece0fc34e1958842c9194b7612b32ff9304.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/81eb686dda6959937a3818bd7426ea202605750e768987a9f78c318241b655d6.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/720e2faca7acaed4bea1b9b307cea05b8ebc5f10c4e72cdb14ee1dbeb68def84.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4787ca2ff945a32d81ddf517e63bf601680b246c108b529a59be278464187212.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/557dcbc50557bd5bb441158859a9ef89ce068e13c1402e72ee6f573b6739a313.jpg",
+			"name": "Dragon Quest VIII: трейлер к выходу игры",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6fea3f787d71aab587f0d584ac0c844d6ac6391f329ea39fc2fd3781046c01f6.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "155"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6db857bb9e765c969efef9e16c13c54af61a186f771830d91c48e44a1cae654c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "155"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/557dcbc50557bd5bb441158859a9ef89ce068e13c1402e72ee6f573b6739a313.jpg",
+			"name": "Dragon Quest VIII: Видеоролик о сюжете игры",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/82d9474913d9836b17d9c29dc9f859d73cbf6c664d26edff34fcb3784cfa1940.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "155"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/40a5938bd9512e9e0ffb7271e16c1a8075ac1941cb65b20c458f693aafe98d46.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "155"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/557dcbc50557bd5bb441158859a9ef89ce068e13c1402e72ee6f573b6739a313.jpg",
+			"name": "Dragon Quest VIII: Особенности игры",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bbc252ae93ac66753760d1ecbb37ad2b411e9377dbeec7c4de2c731b245af7f4.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "138"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7a704906a891b7dc16046a6bd5349f3d7ad11da8f8c8ae122a91d8325bc0a2ad.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "138"
+				}
+			]
+		}
+	]
+}

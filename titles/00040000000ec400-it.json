@@ -1,0 +1,109 @@
+{
+	"title_id": "00040000000EC400",
+	"eshop_id": "50010000017393",
+	"product_code": "CTR-P-BZLP",
+	"name": "The Legend of Zelda™: A Link Between Worlds",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/fca6a4cfd12db7fc3fc8e19145f612f5f1f7c7301e068da521541508fded7cfc.jpg",
+	"data_size": "717814628",
+	"description": "The Legend of Zelda: A Link Between Worlds segue gli eventi della storia su Super NES del 1991, narrando di un'avventura nella terra di Hyrule. Le visuali in 3D di Nintendo 3DS, portano un nuovo livello di profondità al mondo di gioco, permettendoti di vivere le altezze come mai prima d'ora. Ai tempi potrebbe esserti risultato difficile percepire la distanza tra i diversi piani, ma le cose sono cambiate, regalando un nuovo realismo alle battaglie e all'esplorazione dei dungeon!",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-11-22",
+			"retail": "TBD"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/19ce4d2f3a2670191627a9606b74852c76bd12d3214dfc1d560a807a411145ec.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9d1825c6d3c69e6bad7032f4ad2eb5cfc7ea0c3776c214ba3e17e066ccacd2ef.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8c5c07893c7bb7204e0c9fac98aa69c3155b6d872454e5c1404aa53edbbdabc6.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1e740ebf5db103176732d3ac78ba0debf2960a2a6ae0748426d02bc2d925c18c.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/50be26f00e587461523e8d54c45105b008801594da291a5303443b27f9001578.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/fbac00c97c067838439c09569c086b0a8844acb83891eaf3eb973175cfbb827e.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f3b248d45c98de15c906bc20b48a4ae1f07143b58b00478505f829138e1926fe.jpg",
+			"name": "The Legend of Zelda™: A Link Between Worlds: trailer 3",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/455f9db4b62c1ca36d29fc81aee34266715a9e3ff1b782a69a6b903b973c5918.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "149"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2836123815ef44331c7ed599ffd40cae9c0a8fbd1ea64f93f4b054bbc85528a8.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "149"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f3b248d45c98de15c906bc20b48a4ae1f07143b58b00478505f829138e1926fe.jpg",
+			"name": "Zelda: A Link Between Worlds: trailer 2 ",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/67466749152b0a370d91903c29319a823dcf009c76fb8217ca594b30a3c75f06.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "141"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/362c04a8658cdab87b2ef6890c554dbf62166c57b6d0f45a5c467856bc69563c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "141"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a89b313c3130f231ef944f5a2b26cc583cc9153c72cf7bc32409a8697aef296e.jpg",
+			"name": "Zelda: A Link Between Worlds: trailer (E3 2013)",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/897978e685b0d79e6a07c8888981344a12534931d23218779ea172605f314730.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "51"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8de722a5c4855898767757d49d4f0bd23a02a627f0f2fcdf22a0d3cc26635490.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "51"
+				}
+			]
+		}
+	]
+}

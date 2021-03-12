@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010174D00",
+	"eshop_id": "20010000007547",
+	"product_code": "WUP-N-JCNJ",
+	"name": "ロックマン7 宿命の対決!",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 39,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0f6a4c3c2495ed7a798b22905225bccde0f854139e9282d14b83372feb6d6d79.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f72b89fbf83b228e353204a49f5dc6d10ff0508ed8f2ad7ade9d9e46f2c05756.jpg",
+	"data_size": "43778208",
+	"description": "このソフトは、1995年に発売されたスーパーファミコン用のアクションゲームです。 ロックマンの活躍で逮捕されたはずのDr.ワイリーが刑務所を脱獄してしまいました。平和を取り戻すため再び戦いへ向かったロックマンの前に、謎のロボット「フォルテ」が現れます。 各ステージのボスは弱点を持ち、弱点をつく特殊武器を使用すれば効率よくダメージを与えられます。特殊武器は各ボスを倒すと手に入るため、攻略するステージの順番を考えることが重要です。敵を倒すと出現する「ネジ」は、集めるとビッグエディーでいろいろなアイテムと交換できます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-08-06",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/0ccc25612989e252a8cb2bb41f4e4a832089b59c7b4aa4a7fb8c8a8329652f65.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/95fcb3883e0e7521ed40abd336785389ea3117db36fd08354306f3d7d66fbcb0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e69c5e7f7a8a75f2798c77d59034f364a0bf10b4ee8cf7534bd16414f4b759ab.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e265377bb8a855ab798086325e76e4b11c813563b29ca7950f11d951ee4cb9bc.jpg",
+			"name": "ロックマン7 宿命の対決! プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/51dadae85af40be3bc42ec7181ce4c44fe8b6f23f00e0e9648c454a652d62537.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "43"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4477e1ce8240b7f8bfd813b29d26f1b4f600f3c1ab29f0991fb1cbab63332867.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "43"
+				}
+			]
+		}
+	]
+}

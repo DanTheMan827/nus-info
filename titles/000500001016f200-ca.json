@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001016F200",
+	"eshop_id": "20010000010068",
+	"product_code": "WUP-N-PASE",
+	"name": "Castlevania Circle of the Moon",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d69fc601b7b7e9c9f719d16c92c30f3e8bd9ec1c7778823fce72a5bbf3801c4d.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/700b8043c07e138e4006fa41b7ac71ad46a44573d83b7bebb56f759ffd36df1f.jpg",
+	"data_size": "87261304",
+	"description": "Count Dracula has resurrected once more, and he seeks his vengence on those who oppose him. As Nathan Graves, you must storm Dracula's castle to save your mentor, who will otherwise be used to restore Dracula to his full power. Battle the evil lord's minions with your trusty whip, and gain experience points as well as other useful items and weapons. Defeat bosses and gain special abilities that aid in exploring new areas of the castle. Use the Dual Set-Up System to combine action and attribute cards to create over 80 unique magic spells. Hours of monster-slaying action await you in five different game modes. Can you rid the world of Dracula's evil once and for all?",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-10-09",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/fd458fb0ab5d37c073a85ff846317f04e5e440ecc220dd9be088685b9ead5493.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6154de28f1feef1cd2fb6e3e4fb96109d7029be090d5efc91c5314015630cb27.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/35bded1d79d0c303427317cd28373262d37d64e77938cf535cb2aeb145982c93.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/385cc7e2c61ad27ccb5d851e12301b80d7c7e534521a9999e553e99a2b55b981.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/33c87dcb1654df7db234c430ac6497bb0298cdb20cf9821cc8112a977bda6ff1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7ce463ff724520097ebe66bf1fb61e5f32b7b9beff520f510d34aba104aaaa59.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cd3310f0c1559ea708be2f33eaf9dd9ba028f6f5000ee8959c45cfc03adbc117.jpg",
+			"name": "Castlevania Circle of the Moon Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ce818c9fb05efbe15aff5d877c962aa5ef5699ace7e07adc9da84afbf8984cf1.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "48"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a356f46a8c9fadb696daea1df009d925ee15fcd2c3b08cb2185c40a888eee5ea.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "48"
+				}
+			]
+		}
+	]
+}

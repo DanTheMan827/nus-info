@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101AAC00",
+	"eshop_id": "20010000013047",
+	"product_code": "WUP-P-ARHP",
+	"name": "Red Riding Hood",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1380,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/698ab0ea980c764b4fc7bf53b459d20bcd9d7d3ad71ca51bd64e5120fa3a37ff.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7507489468e6e57beb5702776324fb58373dfbb1474a5040fb3fa67c0067a869.jpg",
+	"data_size": "89882784",
+	"description": "Brave Rock Game's Red Riding Hood is viewable via the Wii U™ GamePad. Meet Maisie, a young child that is well liked by everyone. After hearing her Grandmother is ill, Maisie prepares to visit her. She dons her favorite scarlet cloak and becomes Red Riding Hood. Journey with her to experience breathtaking visuals and an immersive audio experience. Make a life altering decision that will affect the flow of the story. Experience the dangers and the exciting of the world of Red Riding Hood.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-02-12",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/52dbde80ac02a1158a75e6e80fa5bd17e8b4021c98d0ee62e5330bf1657f1865.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e5c2d2925164207155fa50e352584c831dbfdbbadba604a0b7db2d162df04ef2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/179febc1ad36c4cd2ccadb1717d5155f7f68b04ef92a16528d2b881355edded8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4a280633aaf3d405d06cd54298d1a579e7c859adb31f9111a40b4ff83ef762ee.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/14a52a9a412886d6e799dd67ebbeac640b361b2a09673a728d614a1bf4b3999d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4aa518b04cbdc1428d19f7b4006d25a1f4370ae709bde63800e6f7e9a911cd4d.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8b581afa20a067c119f7910bfd59e3efd67c3d73adbc9150935f405540233671.jpg",
+			"name": "Red Riding Hood: trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b1e8c75a7b8bca5daa2b8985461668467ecbb74414778f94461a3d5d969bb4a9.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "80"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/555709eb60ea3507949ac90a0bdd2a03e997c98ed85e42ec406816354a0e0ac2.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "80"
+				}
+			]
+		}
+	]
+}

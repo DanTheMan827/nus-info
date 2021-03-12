@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001019F700",
+	"eshop_id": "20010000020493",
+	"product_code": "WUP-N-PCCE",
+	"name": "MEGA MAN BN 5 PROTOMAN",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 39,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c23034f074c110685fabc22fb7e6c16bf2092d06e54a3e92943aa2ff20669953.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/74c9dcec4c2eca5ad171591536494adf26d5e9ec2a4336d170a23b15e4f94473.jpg",
+	"data_size": "75202700",
+	"description": "Dr. Regal and his cronies from Nebula HQ have returned and raided SciLab. It's up to Lan and Mega Man to return the stolen PETS to their rightful owners! Game content is the same for MEGA MAN BN 5 PROTOMAN and MEGA MAN BN 5 COLONEL, but NetNavi chips and other items may differ.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-12-17",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/5be67649c0b6f3b08a299f6ed07f4bbb28c4bb9f803abcd9e77d99f227fc9943.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ddb96b858796b40525d37feee8d23548a4fd437abf576d2b8b9b5bdb981f1054.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f5de389122f7bb9cc2a4497396a72d501af4f7b8c4d6d401d3700f7285d525da.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0b89c26c972f5419c15c4548acf0d748291eab13ac4017e0f636453bffc76a1d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0b89c26c972f5419c15c4548acf0d748291eab13ac4017e0f636453bffc76a1d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b860e4ee6b72100b00d95d88877b5bb3db6ac9632c60939df5bf1bc945308f23.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d155053875e1bea39171832141f101276551374e412434a731e15e02015437db.jpg",
+			"name": "MEGA MAN BATTLE NETWORK 5 TEAM PROTOMAN Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/946a388819efb63bc397e31a168a986aa43a5877a346e081f22d4253cfcb2670.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "42"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1a8878715cb8198c0ee84dfe2b7bcd3349f2a1205cea18c624276c8501106e9a.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "42"
+				}
+			]
+		}
+	]
+}

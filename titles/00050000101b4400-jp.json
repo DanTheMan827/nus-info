@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101B4400",
+	"eshop_id": "20010000013767",
+	"product_code": "WUP-N-WC4J",
+	"name": "Chariot",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1517,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ea3ef0dfccdc3e34cb0ba69d756c09cdfcfa51f54c3595e33a4dde31ca0eb2a8.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f470c7d001ab9fdbd677d3bee19144e3e8050e4a96db5656045f611ca8dd4bb3.jpg",
+	"data_size": "616693940",
+	"description": "世界中で数々の賞を受賞した『Chariot』(チャリオット)が、ついにWii Uに登場! プリンセスとフィアンセを操作して洞窟を進み、チャリオットを王様のお墓にふさわしい場所へと導こう。 テキストはもちろん、セリフもすべて日本語に吹き替え対応! 『Chariot』の美しくも不思議な世界をお楽しみください。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-03-25",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/d9ec5a505801ad689133f827ea78e5f7973fcf4b353280387bd09a2873dbab4c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/beca110d9a1081dd9be8fe5a1f1250f362bcdbc541a7c61184c3f55afe4264a0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8097157479a31404773372c3e41f19db65cfb954760593ce33b4986f039af122.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/dc2eeb08cd3eb2ebc26b69822c5794d89a782ad510dd60d917cc329ce707875d.jpg",
+			"name": "Chariot 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/724ca46f8a8364eab205096f8a2f7f8aafb9c6da1026a81997dd1831d319bd73.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "73"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/620974fbc018c7dcf41bcb7b7622db73682149cafb59a590c2c227558d46b38b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "73"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101FE700",
+		"eshop_id": "20010000026290",
+		"product_code": "WUP-N-NAZJ",
+		"name": "爆BOMBERMAN",
+		"platform": 170,
+		"platform_device": "WUP",
+		"publisher": 149,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/eeb6f8136ce6da3a7abdff18c8f2f510fc26a5aace0327765146d1b2a0dc9742.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/fa9c03dd94a7ea0c9efb6ac18a6f54d7900aa12465331db29b16098925dc8f93.jpg",
+		"data_size": "53379192",
+		"description": "このソフトは、1997年に発売されたニンテンドウ64用のアクションゲームです。 強大な「コズミックキューブ」のパワーを利用し、ボンバー星を侵略しようとする男「アルタイル」を倒すため、ボンバーマンは謎の協力者「シリウス」とともに戦います。 本作はストーリーモードとバトルモードの2つのモードが用意されています。ストーリーモードでは4つの惑星を攻略し、黒幕・アルタイルの待つブラックシティへと乗り込みます。バトルモードは1～4人の対戦モードで、シングルバトルとチームバトルの2つのバトルから選んで遊ぶことができます。 爆弾の上に飛び乗り、足場にすることでジャンプできる「ボムジャンプ」や、爆弾を持ち上げてAボタンを連打し、爆弾を大きくさせて破壊力を増す「溜めボム」などの新しいテクニックを駆使して、戦いを有利に進めましょう。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2017-06-28",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/80939858fefa531eb9f39e352edf348c04a8c0a1d33550f1e6ce9b9875daa980.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/37fe40b49beafefa70148f8a389f30a0a3ee6598e65f6044fb6dde8d856ab802.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/b964e562557b28250e02a6cc9418832b3c064e54c617f1fc1879433fbe68c498.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c7c674ac7608114bec5ba6004a5482da882874877bf3be5549290f56e3ad763d.jpg",
+				"name": "爆BOMBERMAN プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/25244e31bbe79e9cee82d324659af53bc9f138fc8ed0b5a620109aba9b5c6334.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "68"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a9fdd6ce6c31f8f382fa3bab76b11c1d0171ae17ab39c7e05fa056a43acdebc2.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "68"
+					}
+				]
+			}
+		]
+	}
+}

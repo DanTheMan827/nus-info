@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000141000",
+	"eshop_id": "50010000029615",
+	"product_code": "CTR-N-KRXA",
+	"name": "Pokémon™ Shuffle",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 210,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4c12e9107deb8e19c1323f6707b1a6fb0322f0a96bad59b85969c83d6647ecea.jpg",
+	"data_size": "93342564",
+	"description": "Bereite dich bei Pokémon Shuffle, das jetzt zum Download aus dem Nintendo eShop für den Nintendo 3DS und 2DS erhältlich ist, auf rasante Puzzleaction vor! Bei Pokémon Shuffle besteht das Ziel darin, verschiedene Stufen durch das Aufreihen gleichartiger Pokémon abzuschließen und diese anschließend aus dem Shuffle-Bereich zu entfernen. In jeder Rätselstufe wirst du mit wilden Pokémon konfrontiert, denen du Schaden hinzufügst, indem du drei Pokémon derselben Art aufreihst, um sie zu entfernen. Kämpfe gegen die Pokémon und versuche, sie einzufangen, bevor dir die Züge ausgehen!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-02-18",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e58090b2da16400a7d480de2b81c06e91c404a4349616cd11963d506c737d2b9.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5c0558dd14994963c84024f56338bf5cfd521a795dabbea758366962f6f37f84.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0bbf5b480cbadf2a521ba4f29aa56844efa15ac9e437919c2edf7cec211644c8.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/466c25357df0279c58ab0cff194a74f8d6835ade50ab9cad55d7863a4c5bfd84.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b6dd43c11a25b6615db877405e956b9cf205b284d6cd8bce6984fedbd1626914.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/62e2804ab17679e0076856b39e417bc1a8884a1b96b746b22731d108fc284fa1.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5bcc5b4d94e5b037be40c946fc5b803d08742ea07c67dfc7239b59ef2e4be223.jpg",
+			"name": "Pokémon Shuffle: Trailer zum Verkaufsstart",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0c5605d659d2ad6e6a1efa9fe6ca0e353c2ee9845c755d922eea42e0235c29dc.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "98"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1be7eb055fe6f1b99a349d65a6b1c27653356d00050991a9805efecc1498aebe.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "98"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "000400000013FE00",
+		"eshop_id": "50010000026695",
+		"product_code": "CTR-N-KDGJ",
+		"name": "王国の道具屋さん",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 1212,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/988aa786630e676ae55198c8919e99dba35adab758ad2163dd7843e1c749d845.jpg",
+		"data_size": "164547428",
+		"description": "■RPGの裏舞台、のぞいてみませんか? 『王国の道具屋さん』は、RPGの世界で道具屋さんを経営するゲームです。 ダンジョンの探検、合成、注文の対応など、道具屋さんの仕事は盛りだくさん! ゲームをしていないときでも店番をしたり、アイテムを売ってくれたりする「じい」と一緒に、王国一番の道具屋さんを目指しましょう!",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-10-22",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/94a41a205d30a106e8c61d286bcd810a8923485c7cb4b25ccc1eae7014e56c30.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/13d3e8d075505b79a92b5cfe4c379b94b537e4ec1252c6e24e1e367ad83e127b.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7ac23d09a77b6380161c222775df033a7374e34e86e3cef3ce17c028438f47e0.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/65c0f0141568943ebef8ddc7c9141192d8703e6ce62d107ea36d3c5e65bcd444.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1ecb9f123388195dfe09d3797f5a9c2e1c9f10fa6e7ba467920bf8a99d204d8d.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/622e45d2be3becb100aa5637e71c16c0f9390c33e6bd462e26a23672732f24ef.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/55d4a94904864b8daa0ccec714b9b3f4f3681998b0647f911ea8e22abcd46d97.jpg",
+				"name": "王国の道具屋さん 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2085a6beb1b1e591303ef27fbef679eca4679b771a0b4b0880507f1a0e96679b.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "93"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/821db61f9d3efa98285ec11141f06f982aa3860feeb57d979ca452f6f2370761.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "93"
+					}
+				]
+			}
+		]
+	}
+}

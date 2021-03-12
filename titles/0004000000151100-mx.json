@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000151100",
+	"eshop_id": "50010000028915",
+	"product_code": "CTR-N-KCCE",
+	"name": "Cube Creator 3D",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 33,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c0cab0547416b1bdbc14ec0bc369162bd667337029949a208aecc27ceae4b707.jpg",
+	"data_size": "28326756",
+	"description": "Crea tu propio reino en increíbles mundos generados al azar en Cube Creator 3D. También puedes reunir recursos, combinar elementos, explorar y combatir extrañas criaturas para sobrevivir en este dominio cúbico en expansión. El Mode Creativo te permite explorar mundos en verdadero 3D estereoscópico. Los controles de pantalla táctil fáciles de usar hacen que el juego de mundo abierto sea mejor que nunca. Los sorprendentes efectos e iluminación dinámica colocan a Cube Creator 3D un cubo por encima del resto. En Modo Supervivencia, los jugadores pueden explorar, crear, explotar y luchar en mundos de selvas, desiertos y tundra. Para comenzar, solo debes usar tus manos para reunir recursos, para luego crear herramientas y armas, y construir refugios. Construir mejores herramientas y armas te permite explorar cuevas, extraer sus piedras preciosas y combatir malvados monstruos. Crea, explora y conquista estos mundos de vóxeles para que se conviertan en tu propio reino.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-04-23",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bb9e43d16ebb85d8e766f07cede8960641c77fddf282963518142ab8886cc202.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9033027e8341fb97848baf26af9fd2ae3f6f29d6ae6078570c30fd3da0ad3fb9.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7b58bdc0af399631e233872980166cb27d0b8762544a3f54e6b6c20dadae647b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7914e2028702e82f9575a4f418bd32cff28590dfd0ab59b75581f519c09ff789.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a0eafb93738667fda01d5b3532109809dca82473ce2f822f13843cf9ee6caf4c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a1ca8c80615e6271ba728a256bf5360f44653f83e7220692f916e69e311144ce.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/19701024fc03a105bc80907b5fa93c58b4ffd242b5c64f7635c29fc54e588773.jpg",
+			"name": "Avance para lanzamiento Cube Creator 3D",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8084c951ff9bd76c377f70142dfc3e72826c587681d42970caf9a67b172e985c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "80"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7ba32802ed9142588ff7337316cd24eb2021953dc89b3d1c58602c509b55cb53.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "80"
+				}
+			]
+		}
+	]
+}

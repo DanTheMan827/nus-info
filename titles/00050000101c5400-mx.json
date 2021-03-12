@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101C5400",
+	"eshop_id": "20010000017547",
+	"product_code": "WUP-N-ABCE",
+	"name": "The Bridge",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1499,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4ed6226fb6caf4d787419055d5af507d07ab1dbe90eb65fb92e46a852bd30eca.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9f399f9d01802ba292faec74fe19cecf10d4277803e7c3322058377d897bc7e3.jpg",
+	"data_size": "301695116",
+	"description": "The Bridge es un juego de lógica y puzles en dos dimensiones que obliga al jugador a reevaluar sus ideas preconcebidas sobre la física y la perspectiva. Es una mezcla entre Isaac Newton y M. C. Escher. Manipula la gravedad para convertir el techo en el suelo mientras te aventuras en arquitecturas imposibles. Explora mundos cada vez más complejos, cuidadosamente detallados y diseñados para producir en el jugador una sensación de realización intelectual. The Bridge ejemplifica el concepto de juego como forma de arte, con un precioso estilo artístico dibujado a mano en blanco y negro, similar al de una litografía.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-08-20",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/7638c000b31c8d5641b80f302048900f69b6351ead0738e7e2f8cd58892b5e7b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/217f5c3064367842679555e18804a3985c50ed6bf13ca5a46ce71a4af64053ca.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2e372da74019decb27e77c3bc74e8de3f88d95c6520de480f13ed6253fd3a9f2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7132c19b6f9bb6d4e45a2928d0f893b956605efb54319c8a414bc5781a4b2eb5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bd4473fe55cae68d6b86286ee2ecc087bbd1bba00b81b0114c6946cafc93302d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d0c7f1d1519c8b190b3a7dda1e3379bcb51ce811caace9727d6b182a29f50259.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/899302ecf0523c4c2144b0fceffe6f9fb09ef534d603830cd632984a3b065bc0.jpg",
+			"name": "Avance para lanzamiento The Bridge",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0a18ba5c422a6e9936856332eca3514c36141062f8657cb281beccad19ffb212.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "78"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5b56f5dc27d0904447547cb0ed27149f724c3d2741234686af7725e2562dc629.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "78"
+				}
+			]
+		}
+	]
+}

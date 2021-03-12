@@ -1,0 +1,79 @@
+{
+	"title_id": "0005000010189100",
+	"eshop_id": "20010000024347",
+	"product_code": "WUP-N-BAXE",
+	"name": "Soul Axiom",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1270,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f625dd5a6a1593e9d8b3fc50eaa9d3a98957d665ea6c59c188843492ae00eebf.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7dd2b478b22a1dceaad228663429b2ec169d6489eadab9c2002ac9e5cd1a4d26.jpg",
+	"data_size": "3830743480",
+	"description": "Collect unique hand powers in this compelling cyber-thriller to solve puzzles, manipulate the environment and unlock the path to your adventure. Immerse yourself in a dramatic story with over 20 hours of gameplay and 40 distinct locations to explore. Choose your destiny and discover multiple endings as you unravel the mysteries of your digital afterlife. Take your first steps to paradise by uploading your soul to Elysia, the latest state of the art Digital Soul Provider. Elysia is a sprawling server where your memories and dreams become reality. In Elysia, death has no dominion and life has no boundaries. You will be taken on an intriguing voyage of discovery, through beautiful, haunting locations, facing challenges that will lead you into danger on your mission to unlock your identity, your story, your mystery.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-09-29",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/c9e66f0f557542161af1de0d043ce5976381c0f618eea29ce9fcbc6c7ce48778.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7f166e871309070ba517963aeea290ab43335e0a81fb13397cc14d17ba18c0db.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/956d09336af75e9bf4d9d1dfcfe708235f49c54fefc6ab9ef4f7f30c6029fb80.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b48c4eb9548a3dd84dbb040e093eff1dabf053eb1fa4f219f430fb4ef0c856ea.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/660685b53c6cdfeef76fd5404287e5000e1c59de1c0df402666efd3e5f8219ff.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0141271721c4939a60b2e2704c0356b3e80ddcc6800168c150cb44a69d2155a2.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/af958ff4af8fbf3680f5e2727eb91482022d382d5aa05a1506eab3beeccdee32.jpg",
+			"name": "Soul Axiom Story Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cc457e04fd761302640b02fc6982627ed65034fc7fce6bf04286c3660d64de84.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "108"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1f21cc0bc2e573b80e3cae64473d994b5ab513557df8e5ca09b0a7fcf5e6bef6.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "108"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/af958ff4af8fbf3680f5e2727eb91482022d382d5aa05a1506eab3beeccdee32.jpg",
+			"name": "Soul Axiom – E3 Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fab782781d7fa18cc7bfd1079acd620018b24ea23e45f050d8b8109899d30c52.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "95"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d085ca0204c5505f2cba1765cd7d7fbc7b6294143d2412e4247a370fb37dd833.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "95"
+				}
+			]
+		}
+	]
+}

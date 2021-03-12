@@ -1,0 +1,85 @@
+{
+	"title_id": "0004000000120800",
+	"eshop_id": "50010000023255",
+	"product_code": "CTR-N-BDZJ",
+	"name": "IslandDays",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 1106,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3de7ef723c279b2ced20a73ccc292f8180afca673ca6e81b675e21646050dbdd.jpg",
+	"data_size": "467696484",
+	"description": "2017年8月21日(月)19時に、本ソフトの配信を終了いたしました。 ------------------------------------------- 本作は「ストーリーパート」と「バトルパート」のふたつのパートをを交互にくり返しながら進める恋愛サバイバル･ゲーム。 ストーリーパートではヒロインとともに島を探索し、バトルパートでは襲いくる野生動物たちをタワーディフェンス形式のバトルで撃退します。 プレイヤーの選択やバトルの結果次第で、物語はさまざまな結末を迎えます。 思わぬトラブルから始まった無人島生活、果たしてその行方は……?",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2014-07-03",
+			"retail": "2014-07-03"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/9972a95461787ecdf3645c15556f65c47ad74be1526030c13b58a92dd1aad81b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5513305e3e9d6decfba1bab42439835290e37341f0a0e962f7ba396a082991db.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/dc3bc306e837301d25d6bb04b98bdb189acee67bd3e78d464d6a9880a545a97b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e6f35968a200ccea7174526f21ae055a8dc028a33ff0afe48ce7649b2550ad8f.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ec66cda28e5d5c89b4b96e2a6c6c29021be89515d2035852ff4994c984af4d5a.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/14105047ac668504b0917730f9d709b4dc9cf55e4d4953106d37aef1e7e684c7.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1b9d8fa34661f4af9cb70c0a3c870f4b48bff1ea43aed3cc5b6478088d9d53ab.jpg",
+			"name": "IslandDays 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2993a3a628f63465fffadc830e505d44930c9dc7d106b80ec602c67acab564ca.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "112"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b423830c68fbefdc94bcf4682167c2b5fb2c6391ffc1c0208c641cde0e74c5cc.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "112"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8025f6f5734b323bf21818e45dae24a2e5246c8a97cd034db2680f291cef1802.jpg",
+			"name": "IslandDays プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b301c31b0f1f8f341f856948da307818ed9cb0c398a9d6a106dd8701e51cde53.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "51"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e08b69b6febf4f65bcf0f3f73c0ca75b6ffdc7fb81d9506fe4b764baf86c4f81.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "51"
+				}
+			]
+		}
+	]
+}

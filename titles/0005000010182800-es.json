@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010182800",
+	"eshop_id": "20010000012887",
+	"product_code": "WUP-P-WFUP",
+	"name": "Frenchy Bird",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1316,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/31596d7bb5f31c8fbc32dc0b6eb1a5d37335d7df91a2c93e409de2798267eee9.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/11afc888bd4bc55719baf64b60a2791cd0e46fedf6f2e24948e865771050958a.jpg",
+	"data_size": "167411852",
+	"description": "¡Haz como si fueras una paloma parisino y vola a través de las calles de París evitando las farolas! ¡Comparte tu puntuación sobre Miiverse™ y alcanza los puestos más altos del ránking mundial de los 100 mejores jugadores! Características: - Acción arcade clásico - Publica tu puntuación en Miiverse™ con un texto pre-rellanado y la función de capturas de pantalla - Ránking Mundial de los 100 mejores jugadores - Posibilidad de desbloquear sellos en Miiverse™ haciendo una buena puntuación - Juego sin televisión.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-02-05",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/2a1c7f49ec3fc22559ce0d2689a6d92de0ca8ec3d0e3ce1ca6eb8c9670f1fc82.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4dcfc616d18ea1dd35e76372450c1712367661ae84001913a56196cc14b44d1a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d680c303f0cccd2fe4cdc89ef84420ce5af1d56a5b174a27c97ecc96733a46d8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5dc3b396f61d0594db065f6b99de83c7277f47619942938db5821ef26154409d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d4c177204cff32d529a8c8ff62db5babe2e0082f94b72c05c1673b6de07f5579.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/596e37fb808c3995aeed2b54c219e38c4657c90339b0e264c6d612e56c81b043.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2ed5d46c46c787beede879496abd7d7fe6d13fc3bcc5f3a0c45cc46e904448c6.jpg",
+			"name": "Frenchy Bird Tráiler",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5fb4605c24a61e8597982e9ea159c9f33ceff1cd1e3ab67d84e59a4c1e40a4d5.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "51"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6cf9b591a43c30a5eb431ff578574f075e25d8ada0f262f308d1722ac98a797a.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "51"
+				}
+			]
+		}
+	]
+}

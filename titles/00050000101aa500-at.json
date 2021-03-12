@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101AA500",
+	"eshop_id": "20010000020189",
+	"product_code": "WUP-P-BKFP",
+	"name": "Kung Fu Panda: Showdown der Legenden",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 1186,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8104d640b5650def5e8505b1bc3a3ee9ff1b088e7e804f2242916aadb2a19dae.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/26a7b923709c9d3bee20614ef251292d52faa3372a4d12b03e937702282a9c78.jpg",
+	"data_size": "1534034160",
+	"description": "Schließe dich Po, Tigress, Monkey, Tai Lung, Meister Shifu und all deinen Lieblingscharakteren aus Kung Fu Panda an und mische beim spannenden Showdown der Legenden mit. Es können sich bis zu vier Spieler gleichzeitig im Tal des Friedens und anderen kultigen Schauplätzen messen. ",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2015-11-26",
+			"retail": "2015-11-26"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/6cdf8cdebdbb6c1074de225b0f0696c824dc11979ae79373019cd30151a36a76.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/440fa4eb2da547bd4a7b3a8458a981e83b837fc58ce94e9db90bfb7afe1cc92a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3fbc481a184b940ef67b11c75fe5cb09b1cb3f91b8a09393b21ef5472d22c2a9.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/50b58525feaa49ce65b625ef59e2b66e43945d38f82191f674635eb00b0c5fc2.jpg",
+			"name": "Kung Fu Panda: Showdown der Legenden",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e47e35118139cda3bab41333223f1eaab36e9156240d8753c473a75fa221ae64.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bfe780061a3cd63dd151990af46ba7a2f58511091724780c4b9ad9438fe8ea49.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				}
+			]
+		}
+	]
+}

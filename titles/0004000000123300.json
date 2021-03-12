@@ -1,0 +1,78 @@
+{
+	"JP": {
+		"title_id": "0004000000123300",
+		"eshop_id": "50010000021139",
+		"product_code": "CTR-N-JAQJ",
+		"name": "9-in-1 アーケードコレクション",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 882,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6aaea8c906d7c1a2847d4988ba20a71449e621b8bfb03a7333b22835ceff266b.jpg",
+		"data_size": "35847012",
+		"description": "レトロな8ビットグラフィックとサウンドが満載のクラシックな「アーケードゲーム」コレクションが登場! 往年のアーケードゲームを思い起こす8ビット調サウンド、音楽、そしてゲーム構成は、 少年少女時代を80年代から90年代に過ごした世代には懐かしさを、そして新しい世代には斬新さと“新しさ”を与えます。シンプルながらもシンプル過ぎないこのゲームに誰もが虜になるでしょう。 レトロなゲームだからといって決して油断をしてはいけません。シンプルながらもゲームの難易度は高水準! なので攻略するにはそれなりの技術が必要になるでしょう。次から次へと現れる敵キャラクターを倒したり、多種多彩なパワーアップアイテムを集めたりして、用意された多くのステージをクリアしていきましょう。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-03-26",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7ee3573eb278b6eef492295980891c5ffa7f24383595f7abcde1824039801ad5.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7763fc459743166cdbc6762ca8a84a298aef05fa91c9ade862cb881e1130c44a.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/9c9e226dcf83aacd414a99cea573d62c787e2982b48266ef86782c0957e4cf24.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/dd284caeb71aaa7b64cc2d01b6db8df5dcfdf87d93def1ee02914852e06e8d16.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3f7f01f55b9dbe0b9f212e6379f8e705580fa70e57f0581d9eff29582d3fcd91.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d5553b02296ff341c2762fad58a749f743f9be2cf0a473223f07de951ba099f8.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fa5dfa73fd239ce0bae8eb775c6f28c6ddce379b3c78b07bccc227e1010d8b69.jpg",
+				"name": "9-in-1 アーケードコレクション 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e262d580ab00632c2b430ec02936ebcf7a1e302ab06f7f502ded2f010b218338.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "61"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/147e00dd2aed2f113f76b072aa72d9ecc3dfbe213ecf361f6fcdbe288034ce99.jpg",
+				"name": "9-in-1 アーケードコレクション プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6b1313095513eca93076a6170eb820ecc9ae784c9795678dbfe1b08799edb35d.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3627496bc87fa910a86fd29a3871f2dc931b1f9d3da50a40520a7b25cadc112e.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					}
+				]
+			}
+		]
+	}
+}

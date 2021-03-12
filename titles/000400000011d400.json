@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "000400000011D400",
+		"eshop_id": "50010000018293",
+		"product_code": "CTR-N-BPSJ",
+		"name": "PIKMIN Short Movies 3D",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0d4ba4bfc12e8ef6ae2b936545830e5edfe87089d166e11c1543373d39791192.jpg",
+		"data_size": "343124836",
+		"description": "ピクミンは、頭に葉っぱや花を生やした、動物のような、植物のような、不思議な生きもの。彼らの住む惑星にやってきた宇宙飛行士のキャプテン･オリマーといっしょに、星にあるさまざまな宝物を集めて暮らしています。普段はゲームの中で活躍しているピクミンたちですが、このたび、ゲームの世界を飛び出して、CGアニメーションになりました。キャプテン･オリマーが大好物のジュースを作る「真夜中のジュース」、ピクミンが不思議な宝物と出会う「ビンの中のお宝」、工事現場で繰り広げられる大スペクタクル「たいへんな一日」の、3本の短編が3Dでお楽しみいただけます(もちろん、2D表示も可能です)。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-11-06",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/4f9b5afe9dc2eaad372516d2b2dac593ad9da524de5e3c66bc019d936cd45346.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/91539076388f1288befac166a0f88eafb85d0460fdd4c3e0ddf787ac24457243.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ba706b409e21d4deca80dba58156908aeafe8ea99ab45cfcd81abea684db8698.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e1b36df323b9a8c3e5f606c173565fe476783af9d183411db1d0bc4417a47108.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/eb4c75f761a3648c264bbda57833e021388234d20ea3571938f2b22d0e4aed7e.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4df366e2de88b43fde9a79ff3f7558b93f9cfecc58f33547040f853a18ea3d1a.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2b9fbcb5e8b88d65fbe04f3a3d726f56118a609a4de4b47566c52899a703da7c.jpg",
+				"name": "PIKMIN Short Movies 予告編",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd74e520c70fdb9ff3c6f8ef2af3f8127be65ce05e40449883cea8e3643bc43a.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "125"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5498f525caf0396fe6e0949aa312c1f281203b8be1450103547d08fd19d3a110.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "125"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101A4300",
+	"eshop_id": "20010000018767",
+	"product_code": "WUP-N-BTBE",
+	"name": "Beatbuddy",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1443,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1da290a746259bf552842d21e36fcfca9323d4550427aedb023a28b30e555fa8.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b8773554d96952b5c214a3faccf9105077707b66d96015e518497472fcb6bdb9.jpg",
+	"data_size": "1312030960",
+	"description": "Despierta de su letargo, viajes Beatbuddy través de ambientes pintados a mano exuberantes en una misión para salvar a sus compañeros y su propia inmortalidad. Beatbuddy interactúa con el medio ambiente respiración de vida que late al ritmo de una banda sonora original, le ayudamos en su abre nuevos caminos y resuelve puzzles. Disfrute de un juego de acción y aventura en una nueva forma, que incorpora la música en todos los aspectos del mundo hermoso. Los jugadores interactúan con el medio ambiente y una gran variedad de criaturas para abrir caminos y resolver puzzles a lo largo de su viaje.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-09-24",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/ccc2f6709a74729aed2bb22a25af6269f7118ba454e5a7acf05ebb85fdbae2cb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a9e08d9a727508edbd1d79f546e5a38c5fe7931947064a3a94ebc362c440d6f4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1a47ce29bd920e19af46899846d5ccf268787876f17e0b525830ffe2ef0beee1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c6fe3a4b32a823963c0571b3b8e3da01ec961c56d08307a90cbed9757a050659.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b84d7d8770bc85faeb0304983f4bb4edcf15df9de1bf9e62082f8898a8ccfdb9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d4e86313e445f8b1b299b4f256007f2669e526e848a685a2eb3505424f04c63d.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ab5116a5705e34b31b3278a35f8a706b0f907ad6f305e7afeaa645232e78143a.jpg",
+			"name": "Avance para lanzamiento Beatbuddy",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b7f5364fd5579971bfa7367276b324319835b6f543789f8b9877cfdbde514df9.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "113"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4f2416160f829f0141169fa8e0e61da7c05587b16e998158fd3c05e5858d2382.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "113"
+				}
+			]
+		}
+	]
+}

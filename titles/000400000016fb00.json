@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "000400000016FB00",
+		"eshop_id": "50010000040017",
+		"product_code": "CTR-N-KPLJ",
+		"name": "ポラーラ -Polara-",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 1212,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d099bbc81ad2d011c319f49cde650adfaa4e68df765bc26fb66c040f544c4e11.jpg",
+		"data_size": "95116132",
+		"description": "『ポラーラ -Polara-』は、前に走り続ける主人公、ラーラの防護服の色を変えながら、 防衛システムに張り巡らされた都市を走り抜けていく、 「カラーチェンジスピードランアクション」です。 防衛システムからの攻撃は、防衛服のカラーを合わせることにより、 安全に通過することができます。 逆に、カラーが異なると、やられてしまいます。 行う操作は「ジャンプ」と「チェンジ」のみ。しかし、アツい。 シンプル、しかしカンタンではない。 新機軸のスピードランアクションです。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-04-13",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1b9f7bfdba36561305003157cac115621427e962fa4d612edfa1d34e7c007b85.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6777a164918acf81bc8c0acc7e143acc4e438c19ff489aa27ca160bb98793ac6.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ba4ad03dd5b55dad67a37133acf7e32cad13d9c09e2c90e6c04a901900ba3580.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c32349cd0900d18b36f4844901bf7292868e73ca4675f45802ea4712082b5f18.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0906bfafc1feedea6328956baf127b34c4327ac339f5db85ba29710df86d820b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f8870eadbaa711f415eb7f8f36fb18c133541ed59d186d73acf7cdfe28ba5875.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4f71a387165c4e78e847ba34011e88bcbdb2a37038a4803155d133c48f76761c.jpg",
+				"name": "ポラーラ -Polara- 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/57e220b2c50225a88228d762c8db3a73b7aff1c68526846c2d0aab8f62386d08.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "76"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/520317eac6f0e0bff3f9dc2135f6929f52a374024eb261832d298cb55b4426af.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "76"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000152300",
+	"eshop_id": "50010000030655",
+	"product_code": "CTR-N-JF8E",
+	"name": "3D Fantasy Zone™",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 233,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5756258eb59f70cb8c10e7233903256c71295d4d9fee3de3dbe18e08c62c08f9.jpg",
+	"data_size": "12499812",
+	"description": "3D Fantasy Zone™ is the popular scrolling shooter, first released for the SEGA System 16 board in 1986, in which players control a sentient spaceship named Opa-Opa to fight bizarre invader enemies. The re-mastered version combines stereoscopic 3D visuals with a host of additional features to deliver cutting edge gameplay with a classic feel. Additional features include: adjustable difficulty settings, the ability to save your game for later review, inclusion of both the Japanese and Overseas versions of the original game, a Stage Select feature that allows players to save and resume progress mid-game, and adjustable difficulty settings. 3D Fantasy Zone™ also offers players an unlockable mode with new weaponry and gameplay and an original song called UPA-UPA. Mira el tema inspirado en este juego en la tienda de temas. Simplemente toca el icono en la esquina superior izquierda del menú HOME de tu consola Nintendo 3DS para comenzar.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-02-12",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/726613d96fcde701144235eb2f34f8f3c751b3065eaf13b67879e02847221285.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8952216935fec3295aff428897b977d14756ad3d4e396ddfb91d08270d412fce.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1f4963216b9e1e654a5b387fd36884ae3560beb5bb10334842af71d6bd7f6325.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c0ca6b4862c657e9245f12ee80cfd4b89a6ef589c91bcfdb0a2262130cb8f044.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5e2fb2102aba5c374381764ba1aca6e12fe65ae388bda6fae0ed9d1aa9f725fd.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b15db03ff4dd690c9b1da5ee27e93b012347cceccd67995940b26d1ef28d41a5.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ac72d10d30d23562204ecdebf2b17c206929267a87df084a37ea317edce92423.jpg",
+			"name": "Avance para lanzamiento 3D Fantasy Zone",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/912311949022fcf151e550ceb7ce86c0a9afda1e961689c212ae75dd042e4043.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "36"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bd0cf0e784c79a385feea79e814c35c5fe23135254ce44f7d510d66b2bdabc4a.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "36"
+				}
+			]
+		}
+	]
+}

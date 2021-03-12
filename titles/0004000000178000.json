@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000178000",
+		"eshop_id": "50010000038295",
+		"product_code": "CTR-N-BMVJ",
+		"name": "ドリームガール プルミエ",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 403,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/780dd700cd75702164215870ca0a4ba0b4980a2dc9c7b5aea3ffb59b41f2540e.jpg",
+		"data_size": "306281364",
+		"description": "2016年4月11日(月)18時に、本ソフトの配信を終了いたしました。 モデルプロダクションの新人モデルとなって、雑誌やTVのお仕事をしながら、あこがれのスーパーモデルを目指します。多彩なコーデアイテムやヘアスタイル･メイクはもちろん、ボーイフレンドとの恋愛やモデル仲間との交流など、女の子のあこがれがいっぱい。充実のガールズライフがあなたを待っています。",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-11-19",
+				"retail": "2015-11-19"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0d71008fc0883d6cb878de024aa89d19ea3a5f7442796db058cafffda76c9bc9.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/62560d3f41f31c944933ee8831a9ff862a4b2bdfbe5b4897fe4c5fdfa2ac8a5c.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ebde7bf294a897736d9392cfe1ca1c7ead34e16dd353bac8bea8ebcdf4203264.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b6bbf0b2d0130c685d5f62c106688180147562922be2bcdd665923d0b8e7de84.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1dfe80466334a52cc417021b0f9b1119ee58773c131f245b48056bf8254cf203.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5b32aa4e5ef1df8991d3cde17040087cb6d7a95461465fee4093cf2b5d674c4f.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6d2ac28223d5b2a190a88975157f1d1d8a0ea0a5ed93d546aa999b31a24681c8.jpg",
+				"name": "ドリームガール プルミエ 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2c98e0895f0e7d573a4dc3aafa547eadec67e433f7ec29f438150f65c412efeb.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "166"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e43d52d90268b26b2fd76325de54d4ed5847c67ed0b4444f16754e09f7d6fd81.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "166"
+					}
+				]
+			}
+		]
+	}
+}

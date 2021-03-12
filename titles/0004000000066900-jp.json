@@ -1,0 +1,67 @@
+{
+	"title_id": "0004000000066900",
+	"eshop_id": "50010000007987",
+	"product_code": "CTR-N-JGEJ",
+	"name": "銀星囲碁3D",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 237,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9558cb6edf518bee0a335e704d4c9104d4481a63d23c29579a12b6eb62f69815.jpg",
+	"data_size": "31042404",
+	"description": "囲碁ソフト最高峰の銀星囲碁が3Dとなって登場! ニンテンドー3DSの性能をフルに使って、更なる棋力アップを実現。 最高峰の思考エンジンの強さをニンテンドー3DSでもお楽しみいただけます。 棋力は5段階! ルールを覚えたばかりでも楽しめる『入門』から、上級者でも唸る『最上級』まで、幅広い棋力を揃えました。 更に人間同士(交互プレイ)、棋譜保存 (25局)、棋譜再生、棋譜入力、地合表示等々、囲碁研究に役立つ機能が満載です。 しかも定石表示やヒント機能があるので、初心者のステップアップにも役立ちます。 他にもタッチペン操作を補助する機能として、盤面のズームアップ機能、カーソルの補助線表示、2タッチ入力を実装している為、タッチペンはもちろん、指でのタッチ操作でもストレスなく遊べます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2011-11-22",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/382fd9c08e9f9236f9fb337176cf21f11dde7c5a816bd6bbd0a60a67ab0eadf3.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0b77e97424ebf3e920a513e97a81dcb5a94764b6c3c334ce09c54ac0fcc8430d.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/fec592574e594b0981be82264e39a47e136b94e0b3f13e7f074a18e8e08c8dd1.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ba210220058ab9a749efb2effa4f0d7befcb4d9d46ccfe795cc38c0a2a29e48a.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/10c9487dbb15b9a6efe0f7a8c60bdf310d93a65bde0943ac9924ca88eaf1819b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/972b3db09f3575c8a0b32615b9ca125e4adc5f512e33f1759ed924516ee6923d.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8fa8cc9fb404107ec413d76e361179c95781cbc7676da2ba7784f5592983c5f6.jpg",
+			"name": "銀星囲碁3D 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/15e1fda5b7f39439f24ef0f47dc7cd069d1c12a437c6857ef3f8b9380b1693d8.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "180"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c2ffe5cdf882d2f921a20c7f520c98ca1b23e4363086e60962174aed95374d4b.jpg",
+			"name": "銀星囲碁3D プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6d98c5062fc715755942fec1a340cc63df35d73b9e4b8ad9edc72527da6ea9a5.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				}
+			]
+		}
+	]
+}

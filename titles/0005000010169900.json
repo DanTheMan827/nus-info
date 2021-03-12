@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010169900",
+		"eshop_id": "20010000005664",
+		"product_code": "WUP-N-PAPJ",
+		"name": "マリオテニスアドバンス",
+		"platform": 168,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e1e6081002916b2c97a1189319f250fcca0bd47a2643cdccebbb9669d67a76ff.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/25f065f08f8c4fab31cccd79675acaf2445d2ee07be4a2eea0f6d921df3f8944.jpg",
+		"data_size": "94404728",
+		"description": "このソフトは、2005年に発売されたゲームボーイアドバンス用のテニスゲームです。 ■簡単操作で手軽にテニス!! ボタンの組み合わせで多彩な技が自由自在!! 手軽なプレイでテニスラリーが楽しめる。 ■トコトン育成!! ストーリーモード ストーリーを楽しみながら、自分好みにキャラクターを育成できる。目指すはトッププレイヤー! ※当時のパッケージ裏面に記載された文章をもとにしています。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-04-30",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/1f9a8961f7b1db3370c8e742543aaf0df3bb06aef170096c12de761d56cd4a32.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/799db3650c6b6c3cc778e66b02feab85e676e49908e6bcb7f2b3729a7430cf10.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/1a477b143b473ab06d7bc0bbd74087489ea2fad3761fc708480e4c917c86fa8a.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/72b0a275eb718a8ceafc92b09b65aa463e9472d35543fee747c9acb7e90e4314.jpg",
+				"name": "マリオテニスアドバンス プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/04e151db14e1415660932e9a651e9e4d0ee226f377f64e285dabb94fa1dc4787.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "49"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b0da9429dd8b26c8de643bfce98c788dba70400ac2c8d8bf9795b157ee26e373.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "49"
+					}
+				]
+			}
+		]
+	}
+}

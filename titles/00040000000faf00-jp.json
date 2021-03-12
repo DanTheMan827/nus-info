@@ -1,0 +1,67 @@
+{
+	"title_id": "00040000000FAF00",
+	"eshop_id": "50010000015134",
+	"product_code": "CTR-N-JC2J",
+	"name": "ジェットコースターをつくろう!3D",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 19,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/64a023213a9f1a0affa92a5e77c138f896527b116fc08eec22362557345b9ccf.jpg",
+	"data_size": "31574884",
+	"description": "テーマパークを代表する人気アトラクション、ジェットコースターをつくって、乗って、共有するソフトが登場! ■つくろう! タッチスクリーンにスケッチするだけで、あなたが想像した夢のジェットコースターが簡単につくれます。 自由自在にカスタマイズ･シミュレートできる直感的なツールのおかげでループやツイスト、コークスクリューなどの追加も簡単にできます! ■乗ってみよう! 自分がつくったジェットコースターに乗ってみましょう。 さまざまな視点で見ることができ、ジャイロセンサーを利用して迫力あふれる試乗も可能! また、自分のMiiを乗せることもできます! ■共有しよう! あなたがつくったテーマパークデータはQRコードに変換できます。 変換したQRコードを配布すれば、自分がつくった自慢のジェットコースターに乗ってもらったり、ほかの人がつくったジェットコースターに乗ってみたりと楽しさがもっと広がります。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-07-24",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/317712882c54c2afd851f08b1e88843fb78beef69a898b279aee3d4a2212bc83.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/18e9cdbd0251c48b9ab65a309db732868800332e8b4a271f8007d59e7b4e20ec.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/81982060e54c0e7466bb9ac8f98beff8ca99734d633b4e3161f9d571b527e60c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f971a6d76c66d5dc180e64c4a227f8575ceec6afb72fc03c1c3b8c3071bc133c.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/87c6f085716908a66cea824ba453bd7fe5ac6f2afe68b2e5bf0ec21ac23ce208.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/432fb67cad9eb4f2f37107be1de6ef5076cd3c55bb8a0e6f0d9f15b614df7f3b.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/710be80fbf4bf4255d3caa48f8396b295a6ffb771a6f2dd2b1105eeea6d9bff9.jpg",
+			"name": "ジェットコースターを つくろう!3D 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/54930f501b06307c12aa7390e0778f0b78e496f989680695369a9922fdee471b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "120"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d1d3466f162b31725c370e9437a2869803ff504720566f41dbb3beb5e8163e5e.jpg",
+			"name": "ジェットコースターを つくろう!3D プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d7a2cfdbd648413bdce5f68ffb95268a85f886c6114ecc5b79fb69e0bd1dc0de.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "43"
+				}
+			]
+		}
+	]
+}

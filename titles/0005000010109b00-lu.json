@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010109B00",
+	"eshop_id": "20010000001569",
+	"product_code": "WUP-N-JADD",
+	"name": "The Legend of Zelda™: A Link to the Past",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2c58584155824406e81c9b3f2fb079f799a0050447938266380c4a9beb47aa6b.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/71a10b591301d3bbdd52a5b298addbc44899635bf3519c59b39aadf6e22fb2c4.jpg",
+	"data_size": "41025676",
+	"description": "In einer düsteren und stürmischen Nacht bricht der junge Link zu einem auch für dich unvergesslichen Abenteuer auf. Prinzessin Zelda wurde gefangengenommen und ein böser Zauberer versucht, Ganon, den König der Dunkelheit, zu befreien. Nur Link vermag es, Hyrule zu retten! A Link to the Past ist der gefeierte Super NES™-Auftritt der Zelda-Reihe. Es ist berühmt für seine atmosphärischen Grafiken und Sounds, die originellen Dungeons und für die Einführung klassischer Gegenstände wie den Enterhaken, die Pegasus-Stiefel und das Master-Schwert. Wenn du diesen Titel bereits auf deiner Wii™ erworben hast, führe einen System-Transfer von deiner Wii auf deine Wii U™ durch, um ein Upgrade-Sonderangebot zu erhalten. Dies ist die europäische Version des Spiels, die vom Entwickler ursprünglich optimiert wurde, um Musik mit ähnlicher Geschwindigkeit abzuspielen wie die US-Version. Das Spiel, die Demos und die Animationen laufen mit PAL-Geschwindigkeit ab. Das Bildformat wurde für diese Version korrigiert.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-12-12",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/02429b65c0a38afc8ea41cfd97e1a0e544fecaaa2208701a4f428bc7bdcd4f55.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d8722a8173f03d27ad2d82afb970acb24da300acfd7a318062e2f32cc8d9062c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/eab21455b9150dbb34ef60d7ec718b8477519196d50cf45170512c58319fd2c9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6e05dbd2f6e3c8bd2f680e0e2a1cbc2de04d79470c8f373ccb3a99a346f1118c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9678b83ebd0c9d7aeec1411735658d51e618df8b647935105961e90a58fc4e5e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0e5acf7704bbb41800a987665e5a5c41d6a16469a924835c8cc3ece68956c7b3.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6e60c08ae473be93eadddd2cdbc28c3e0bcab79a9f2ae672d69d3d6778dde99a.jpg",
+			"name": "The Legend of Zelda™ A Link to the Past : vidéo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/128684a5bb7ced10d10947160e4cb8bd94f552330e3241950b44d983a4f95019.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "82"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a371fccf03e90897854229d0f8b8ace5f3f2f78966657f41bf6f11b9b56a5e40.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "82"
+				}
+			]
+		}
+	]
+}

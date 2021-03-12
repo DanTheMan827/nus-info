@@ -1,0 +1,45 @@
+{
+	"JP": {
+		"title_id": "000500001012EC00",
+		"eshop_id": "20010000001871",
+		"product_code": "WUP-N-JA4J",
+		"name": "真･女神転生",
+		"platform": 164,
+		"platform_device": "WUP",
+		"publisher": 25,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/060232396ba4ebd7159c33ddf03325cb85945fb6cd8ea3faefa24a8d5a832372.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/cc28f27540207fe8b18c6fd46074b91d36a80ec8ed38e13a65dea6b1eb6b7590.jpg",
+		"data_size": "41058444",
+		"description": "このソフトは、1992年に発売されたスーパーファミコン用のロールプレイングゲームです。 悪魔と交渉して仲魔(仲間の悪魔)を増やし、悪魔合体システムでより強い仲魔を育て、強敵が潜むダンジョンに挑みます。秩序を重んじる｢LAW(ロウ)｣、混沌を重んじる｢CAOS(カオス)｣、どちらにも属さない｢NEUTRAL(ニュートラル)｣という3つの属性があり、主人公の行動や選択によって、どの属性に振り分けられるかが決まります。主人公の属性が変化すれば、物語の結末も大きく変化します。 ",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-07-03",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/794b45b31ab9193184b97c1f5e1154c7dec4830767fd4bbb172d107f2f9fe0f2.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/83fedf25d1ebec2604b5d76da7d63bc329224d31aba3ee33a78141ceab5196b3.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/e7b695d81700a00b29775d3f6b6f9b8fc3fec6f11aaf0e37a6c5fd47d01e96f3.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8a4d7e8700b83aadffc3b32deab01d15bf50f8584cb03d1c7aef7e26bd9a5f0e.jpg",
+				"name": "真･女神転生 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d3c7ca52a48766554daaec791acbc19a768a85d3088b81f8dd54ca2f059d801a.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "47"
+					}
+				]
+			}
+		]
+	}
+}

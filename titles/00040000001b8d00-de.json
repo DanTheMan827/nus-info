@@ -1,0 +1,39 @@
+{
+	"title_id": "00040000001B8D00",
+	"eshop_id": "50010000042738",
+	"product_code": "CTR-N-ANUP",
+	"name": "Miitopia™: Das große Casting",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/55cbf9b39386248b9f9d0fe53efea736c9c8690e6dab27d2c5dffb21e56110ca.jpg",
+	"data_size": "89299812",
+	"description": "Sieh dir an, wie deine liebsten Mii-Charaktere in einem witzigen Film-Trailer auftreten!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-07-13",
+			"retail": null
+		}
+	},
+	"screenshots": [],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/55734e722ce6cd02134abe06c9047910c73fb949586690365549dc08029a0fe5.jpg",
+			"name": "Miitopia Das große Casting: Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b81486c41951a7b2e6f3280d6965594f9ca4dfb464c956fd733f049c81e74fb9.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "47"
+				}
+			]
+		}
+	]
+}

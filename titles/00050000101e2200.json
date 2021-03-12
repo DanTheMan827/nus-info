@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101E2200",
+		"eshop_id": "20010000020387",
+		"product_code": "WUP-N-PPHJ",
+		"name": "改造町人シュビビンマン",
+		"platform": 166,
+		"platform_device": "WUP",
+		"publisher": 81,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cbd0f5322cdb55701bf0a4cff5814570f33249f8b10d991dc044c3eeba7a8504.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/611c67658602342d0c92ee44e184bdeab04c1a44bf717092795d4c0351439a4d.jpg",
+		"data_size": "83558540",
+		"description": "西暦200X年、突如侵略してきた悪の宇宙帝国「亜空魔団」を倒すため、下町の天才科学者「豪徳寺博士」によって設計された史上最強のサイボーグ「シュビビンマン」。 半ばムリヤリ「シュビビンマン」に改造されてしまった魚屋の青年「太助」と普通の女子高生「キャピ子」は地球を守るため、町外れに出現した敵の要塞を目指して戦います。 ゲームは2人同時プレイが可能な横スクロールタイプのアクション。修理や買い物をする「マップモード」と敵と戦ってお金を集める「アクションモード」を交互に繰り返して進んでいきます。 攻略ルートはプレイヤーが自由に選ぶことができ、どの町を通っていくかで展開が変わるので、時には遠回りをして着実にパワーアップすることも攻略のポイントです。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-12-16",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/47bfbefb4acbe6f1a084e2e526693095fcd3bf893c961626a65c1b3876a51db2.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/3094982ef1adfb7f0cf73bc1697ef8435cdd0fa4dd3f2367d228dc05622915af.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/02ffa0859b9b933194935f3382320cfdc3199b574d7d15110a8f2d3da3f6f2f1.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/29d7b798e5ff1bb124c439e3c2378eec38eae5be8a6be034b6e73af99650fdfc.jpg",
+				"name": "改造町人シュビビンマン プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1417b3db74e8dd98f5592f9e806e4afa22b8bb9dbb3a18ec97b308e86242acfe.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "81"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/464c92f6cd4bcb8253b6c8b65c33019bd6c7e24bd6b8d477b834ab399edf7df0.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "81"
+					}
+				]
+			}
+		]
+	}
+}

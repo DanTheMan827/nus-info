@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101D9D00",
+	"eshop_id": "20010000020450",
+	"product_code": "WUP-N-AUME",
+	"name": "Minecraft: Wii U Edition",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1576,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4f1fda8d68da4054199b7b217db23541418b5b66d45e2fc402f8b4028756f036.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/78a5cdbff1edfe4697b5cbd2133981654fd1cee76c2367c8aa1eb4e534a85a67.jpg",
+	"data_size": "620101792",
+	"description": "Minecraft es un juego que consiste en colocar bloques y disfrutar de aventuras. Explora mundos generados al azar y construye cosas increíbles, desde la casa más simple hasta el castillo más imponente. Juega en modo creativo con recursos ilimitados o mina las profundidades del mundo en modo supervivencia, donde crearás armas y armaduras para alejar a los peligrosos enemigos. Construye, crea y explora solo o con hasta cuatro jugadores en pantalla dividida o hasta ocho online. Necesitas un televisor con alta definición para usar la función de pantalla dividida. El juego admite los siguientes idiomas por medio de una función de selección de idioma en el juego. Puedes elegir entre inglés, francés, alemán, italiano, neerlandés, portugués, ruso, japonés, coreano, chino tradicional y chino simplificado.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-12-17",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/2d7c01c4ea3c13f5c86df9fbc4c6732a7963fad299c52f4d7d1a1a1adf05332b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b44bea795ddca6590c6f5d02048bf68b22be96f33e6eb57f7f25a1624650bd75.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/26414794643fb8e15a31ad296f353cc6abd2cd12f3032fa09cdf0bdf7593ccc0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1ab189c5b7610b445832adf83deda5ee1e69c80683647ac8c70a1721345cd720.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9aed4b982fb3ccd7e2fea0b63c9099f16c46b32081777c690a2eb396e9c8fcb6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b3597adbe1ce0525bcb60478f3b0568047dad0a08aaca304653d8d136d67eaed.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/32cb5747131be4bbe7a133023569cf8c16433cebd1401736db2d382f7fbff6ca.jpg",
+			"name": "Super Mario Mash-Up Pack for Minecraft: Wii U Edition",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8bd5b03a3250678b8e18230d5ad01231f8f2fc4301754a6b8d75300b2361e78f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "62"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/32f89491a61c7afb9feb3a8cbd05f870b4fd187ef01c9eebb812b9e16dfe92f0.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "62"
+				}
+			]
+		}
+	]
+}

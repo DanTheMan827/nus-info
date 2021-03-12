@@ -1,0 +1,76 @@
+{
+	"title_id": "0005000010116300",
+	"eshop_id": "20010000002265",
+	"product_code": "WUP-N-ACMJ",
+	"name": "The Wonderful 101",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b76759520ac6d726b8b1c8a28ec728aeee3487717b23ec5f6a7fee4ba8961ddd.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/21fe3c8daff4c661d3f391ddb1a444b56168be8904b149685f97ff205714f03f.jpg",
+	"data_size": "10691412968",
+	"description": "本作は、超人的なパワーを備えた100人のヒーローたちを結束(ユナイト)させ、恐るべき戦力を持つ侵略者と戦うアクションゲームです。 ヒーローたちの必殺技は、合体して巨大な武器に変身する特殊能力「ユナイト･モーフ」。 ユナイト･モーフは、Wii U GamePadの画面に特定の図形を描くことで発動。より多くのヒーローたちを合体させれば、その威力を極限まで引き出すことができます。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-08-24",
+			"retail": "2013-08-24"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/e3cb3714de038a10bcf80980573aa797046de97e8aa984c5dd898f328cc24a7b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1337893d39bb636ff8248833f5b3f2981045670f7d5fc74b4f6314f155c84c59.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3192efe9d9a9fb25fd0e67d8bf2254c847caf5daa1314de6a081183f9fd3ee10.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2c719ac2ed2e005259650078ad933af325fc5e8953ad95b901a793849057dd0c.jpg",
+			"name": "The Wonderful 101 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a16434e3566075af2593608197af7c7b7d61634aba86963d3348b359f728ebb0.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "346"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/38ec8cacf445f37b0006b8d35625e7a009175c43d78f5bfcaaed9749ddc0276e.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "346"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/076c6e390f8a96dc2b19166856c426a680fbaa52b20144df6a24658195bf0375.jpg",
+			"name": "The Wonderful 101 予告編 (Director's Edition)",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a060a294fcfddcabadbcec1a0ca2743ac5708ad1cfeb2ac5956daf1e1e9acfb3.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "440"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cecfb3a4b4470e88d68642a837588d0e433c42959e1b5ddd614e8ccce13dd71c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "440"
+				}
+			]
+		}
+	]
+}

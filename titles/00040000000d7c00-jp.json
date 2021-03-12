@@ -1,0 +1,85 @@
+{
+	"title_id": "00040000000D7C00",
+	"eshop_id": "50010000019173",
+	"product_code": "CTR-N-JNUJ",
+	"name": "STEELDIVER SUBWARS",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/92bdba83bb1a5815ce7014db502fffb2c9d9368a1d73840bc748d7efe4290481.jpg",
+	"data_size": "204401508",
+	"description": "機敏に動けない海の中で潜水艦をうまく操って、魚雷を駆使しながら敵を倒します。ローカル通信で近くの友達と、インターネットモードで世界中の人と4人対4人のチーム対戦が可能。また、さまざまなミッションに挑戦する1人用のモードもあります。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-02-14",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/67b1a35b102858069187003eba72e1926a59646be4c12891623f1de88a275ffc.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/85f293c9298f07dd6daa21efc3603c8cb98b99608c1f44a3e6bb23774a348130.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/134188af8df02bf99778e37295d9d0fb6339953af6337354c2cf1f6a7be6b12a.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/180ea7d841b1d9247f98a6b8d59f9f16643019a4a75c77210a3cf2001ad1e211.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/323d6710a3c650f4c3abb2adf33ce907249f382a74a196c822ef85e82650d5a0.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/576d9ca613d91f4e45cf25fa7220406d379e89ae0f2fb3675ff506861ee18474.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2d3e252de2ea43469e3696e1d6f947653f6927ea0804fc01cf2f632ef8b249b8.jpg",
+			"name": "STEELDIVER SUBWARS 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4e5d6f8e6ceab0f2ea735c22a5e3ae98b5c254b60e7f37667be84919fd5df54a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "251"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fbb00377e203ae77c2e6063e0ef086039adc97578c3ca8e2e9cc7f0e087bb468.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "251"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/74c79cc66d2526f7adc3e802d6262e9b692005a6ec5bc4a870cc22980029604a.jpg",
+			"name": "STEELDIVER SUBWARS 実況!開発者といっしょ",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4b2417c2e4f14e1e91c0e13563de6d0a2403abae3c77570d422265651e524dde.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "1026"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c15fdea7f6ac6a22b02e98957c37d3abbbd358f8cfd52a803726337898b30f74.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "1026"
+				}
+			]
+		}
+	]
+}

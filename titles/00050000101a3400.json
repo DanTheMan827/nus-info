@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101A3400",
+		"eshop_id": "20010000013467",
+		"product_code": "WUP-N-PCGJ",
+		"name": "マジカルバケーション",
+		"platform": 168,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a7618c58754dc70baa571964bd3f1f106ecbf3516fcb45faf1acb48918538fba.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/1a8413b8444b5040040556fb6aa10374091ebd829197c1f9dee3dd037859c6c1.jpg",
+		"data_size": "76447884",
+		"description": "このソフトは、2001年に発売されたゲームボーイアドバンス用のコミュニケーションRPGです。 臨海学校に来ていた魔法学校の生徒たちを待ち受けていたのは、異世界の魔物エニグマであった。次々と連れ去られるクラスメイトを追い、プレイヤーは異世界へと旅立つ……。 精霊と魔法が宿る世界で壮大なストーリーに巻き込まれていくプレイヤーたち。 バトルシーンでは、召喚する精霊のコンビネーションが戦いの行方を左右する。 ※当時のパッケージ裏面に記載された文章をもとにしています。 ※本ソフトでは通信機能を使用できませんが、セーブデータがある状態でタイトル画面内の「つうしん」を選択することで、オリジナル版で通信機能を使用して入手できる以下の効果を、本ソフトでも得ることができます。 ・主人公の属性が「闇」になります。 ・すでに習得している魔法を除くすべての魔法を、Lv.1の状態で習得することができます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-08-19",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/18e48a70d65d44f4499384ba1769a088717b018f5a4259ff8a1f9507a42f37b1.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/cd0bb2e6f61cd2bcca20bd7982d4f886f7928e1264825c0faef647343c00e7ba.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/eeab5d2019dc3c584b1ec9a94f7746d4e0f57d900d7631dc3790e476719d530f.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e698f96dd575427636d1a12d47479f3fd9ecc1483112b6cf9b37769409d7beb3.jpg",
+				"name": "マジカルバケーション プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cb69f29a2ee70c1ccc5b85631f1972f995f204100a28e93a1e84c25fcc57a6af.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "68"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2aebb9c18bf8ad4a2629197046e75e3de7547d90b699a407278cb0fe27616c5e.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "68"
+					}
+				]
+			}
+		]
+	}
+}

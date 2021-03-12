@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "000400000014AC00",
+		"eshop_id": "50010000029335",
+		"product_code": "CTR-N-BDYJ",
+		"name": "フューチャーカードバディファイト 友情の爆熱ファイト!",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 442,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7ba9f68a388877ef43c93af45231e5b605468ce3626dd59cddf92201f4a39a65.jpg",
+		"data_size": "226831204",
+		"description": "バディといっしょに、牙王やライバルたちとゲキ熱ファイト! 充実のチュートリアル機能で、今からバディファイトを遊ぶ初心者でも安心。 さらに通信対戦機能で、いつでもどこでも誰とでもファイトが楽しめる。 実際のファイトで使える「ライフカウンター機能」もついているぞ!",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-04-16",
+				"retail": "2015-04-16"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f87b5fc9d329fef80a7f6b1fd384a18ee5da0465d1b3ed61974281720d8fa60f.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8dff1ab94172f28c73174caac8fb9e849b59836ea85d5af3be853a9ee97ddcb4.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/514a91dc0434930cdd76b7f6138db3589639f5c083364ee73475f5cc5b0b235e.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/469ca62719215c01c60fa69ec9f3b011d5815d439d0a08a93fdec9b0fc6e4efc.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/64c1ea656ca15c6f8184e2ef029f79e46d0cc93307a52a5844018b347972479f.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/96ca69cfc0127744f8e4d6978f8e58abf48406d0ff764398bbe088bb511aa568.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/57b8e80f5c011c20409950cb59ed4d0ae4381735a8faf043d3370195189b6562.jpg",
+				"name": "フューチャーカード バディファイト 友情の爆熱ファイト! TVCM",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4947e63afb5b642c6927345be789e67ef498e3e37e6e0254646e63930006f930.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "30"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/02e2f4784a8b9e5160c8131074d7c7c2538bd6650d1c050388fa32d6eea74f49.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "30"
+					}
+				]
+			}
+		]
+	}
+}

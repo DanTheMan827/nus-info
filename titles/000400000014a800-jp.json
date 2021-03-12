@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000014A800",
+	"eshop_id": "50010000031815",
+	"product_code": "CTR-N-BRXJ",
+	"name": "初音ミク Project mirai でらっくす",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 231,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/14d908b9c19598972774423da2a3b8a7f8d3d3a929744c661e866e171047e2a3.jpg",
+	"data_size": "2318502756",
+	"description": "『初音ミク Project mirai でらっくす』は、電子の歌姫「初音ミク」主演の3Dリズムアクションゲームです。 本作は『初音ミク Project mirai 2』にさまざまな新要素を加え、「でらっくす」にパワーアップして新登場いたします。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2015-05-28",
+			"retail": "2015-05-28"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a396e0959fd1c150738948c0a77216c27c26969f54ec82f25910bd8446baafa4.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/59ed36691995d1dca1c8b46fc1513a1f3b390c351ef2be1f7fc9b67d00c79c38.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/9fb75af360e6aad16a2c292e42baeb62144de1ca5e144ecb91d0d318164ddc6c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8ac03b603c51a2170272c6b029147403d52407315ce887ef22fccf73cde21f82.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1cf59a9d496974f13f50eeeadae1bac3e5e22b73bc8c932a3f744fad705d9b13.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/cb11f9c0aa67abf49bfd9367e65260f967d5034605a2b8d3a45de9f6763ec3dd.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3255229da3a573d6233f35bc092283da086769bf3f1e62a5b81ed2abb5effbe7.jpg",
+			"name": "初音ミク Project mirai でらっくす 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7e5938099dc7399e0f2708903fece0669f38a7e98b19384be0193fc0671ddaba.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "283"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/58d522bf680705e8fce19c7dc2b0f25a3fc37ac349f6d5a2e0f0a6f7d19fa1b2.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "283"
+				}
+			]
+		}
+	]
+}

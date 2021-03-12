@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101C9800",
+	"eshop_id": "20010000018187",
+	"product_code": "WUP-N-PDCJ",
+	"name": "千年家族",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9f408a9f6e5cf2be1d6f7cfd95cbe8e64be6b2f9e4ec0e31f6aecace4a2068df.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4b81841ddcd72d580592a903a96e7c7760e8d29b792061a2d40902a415fa925f.jpg",
+	"data_size": "74809484",
+	"description": "このソフトは、2005年に発売されたゲームボーイアドバンス用の家族観察シミュレーションゲームです。 プレイヤーは「見習いの神様」となり、意思をもった個性豊かなメンバーからなる「家族」を見守ります。時にはいろいろな効果を持つ「矢」やアイテムを使ってほんの少しだけ干渉し、その家系が末永く続くように導くことが目的です。 そして究極の目標は、その家系を千年間維持し、「千年家族」にすること。家族にはたくさんのイベントやハプニングが起こりますが、心強いパートナー「キュピット」と協力して、世界にひとつだけの家系図を完成させましょう。 電源を切っている間もゲーム内の時間は進みます。あまり長い間放っておくと、悪魔がやってきて災いをもたらします。家族が悪い道に進んでしまわないよう、ときどき様子を観察しましょう。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-06-08",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/a699ebac01afb9c494608e460bb453b55917e4fc47021628c3282783139686f9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c239573a3f1b273d3b16043770a34097774d0a964e1d0c9bfa079f7e257be2c1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f1e0eed237d6a3fa6462c9765998721e149fefb374a755009f577f0698d382d7.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cdbc30b1032a82e2c2e90c81e3ee52d0bcc802b319746e5c60e8bda060da272d.jpg",
+			"name": "千年家族 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9e6b01b5e89aa24e79ad7ea7564b718a808c858d9e1c71732000b7aca90d462b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "71"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/177d2355fb16617e1161f2d2c380463af34af6ac21e96fc3798e93223a260cef.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "71"
+				}
+			]
+		}
+	]
+}

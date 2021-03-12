@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "00040000001AF000",
+		"eshop_id": "50010000041868",
+		"product_code": "CTR-N-KHLJ",
+		"name": "新みんなの塗り絵 Hello Kitty",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 358,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3a95faefe04718487cd6c7f1681de783295a48bc37b401d85249d49f8f47eb49.jpg",
+		"data_size": "163109732",
+		"description": "クレヨンや色鉛筆がなくても、ニンテンドー3DSだけあればすぐに塗り絵（ぬりえ）が遊べます。 お部屋を汚すことだってありません。 さあ、ハローキティのかわいいイラストで気軽に塗り絵を楽しみましょう！ 用意されている見本絵と線画のセットは20種類。 簡単なものからちょっと難しいものまで、いろいろな塗り絵を選べます。 スタンプやコロコロツールの種類はとっても豊富。かわいいデコレーションだって思いのままです。 また塗り絵だけではなく、絵を勉強したい人にはトレーシングペーパーを使ったような線画を自分で描けるモードもあります。 ローカル通信機能を使えば、できあがった作品を見てもらえます。何度も交換ができるので、一緒に協力して作品を仕上げることも可能です。 『新みんなの塗り絵』シリーズなら違うタイトルのものでも通信できます。お友だちが持っていない塗り絵を送ったり、お友だちが作った自作の塗り絵をもらうこともできます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-11-30",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f8fe76112abcc7df874318c4ec815b6d7106955a8e40da4cccc64ff4e8b7f2f2.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/38d3cf0024562e64dec28ce5ce652c7556b74dab3ecb9d936d56f2b2b1e857df.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e7e8b129c31b5b8011221425b414f078c8803152f6b614474c2caa96b8a2eaba.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8607766dd86834ef4b9847c7932bed9deaefeb18ac1e3bd2d0b87ad1aeb59ffe.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/773a1e6ebfd9aa8eed7658ac226b60dd3af0de7fbd29449aa16f409cb6d6fed3.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2feee793f6d39f2f8c19f8ec0c24325cfeb63bb624c82aef730843542bb311c1.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e9cde67f5166a3c80b1183d972a56f6f56e02ca09766e275079a2695a3b4dc9f.jpg",
+				"name": "新みんなの塗り絵 Hello Kitty 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9cc603e7fd960796085c62f456da03e8ff59e0c4245e068765a32fb76305b6c4.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "70"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c4276e4630c42a91badd5538f8b6a0cce75a681cf5fe5155fa522d408d08abd4.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "70"
+					}
+				]
+			}
+		]
+	}
+}

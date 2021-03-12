@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001018E500",
+	"eshop_id": "20010000012888",
+	"product_code": "WUP-N-PBSP",
+	"name": "Super Ghouls 'N Ghosts",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 39,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b6a6a3060604b2fe78c8daad9316603dab6993739b103062a54638401efd5bcd.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3377951a0ec33a8d48217011343ebfeaf987c944b126cf45e27b73feb4c76205.jpg",
+	"data_size": "79528076",
+	"description": "Dans Super Ghouls'n Ghosts, le troisième épisode de la série légendaire Ghosts’n Goblins™, incarnez le courageux Sir Arthur et parcourez le royaume infesté de démons pour secourir la princesse qui a été kidnappée. Traversez des stages périlleux et terrassez le boss de chaque niveau pour progresser dans le jeu. Mais attention : si Arthur se blesse, son armure se brisera et il se retrouvera en caleçon ! Cette version sur Game Boy Advance™ comprend un mode Arrange exclusif doté de niveaux encore plus difficiles et de boss encore plus puissants inspirés des jeux précédents. Serez-vous à la hauteur ?",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-02-19",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/0366ec122ee6e28c8cd368f74a353cf4396e1035665292f7334b2eeec99fa723.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/69975572fdeeb29e3f1bcef7bc18ac208b79962398d98671b3d29483c572b1f6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7533a1365abfe28872c52288336e6645288a645cfb59b82648a0b1efc78faf10.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/40f5f8ab9f9584b66391ef24a4f0528202dc9ee132ad11bd2876d61c63b926e6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1788b80e3dded3893620f7765e89d628c780d423d13a05507c3e6a175502456b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/df4251450a4f67a111510e5148e6cf5f4c026a444d03e2aa52afd2c03c36eca6.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/023fda2af4cadeaec9b8e698174658a08dd3a8c69e4c1b3909e840ff595a8013.jpg",
+			"name": "Super Ghouls 'N Ghosts : vidéo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3cb7423d1de043ce4954ed993e92d03af624c877fe9ad9aee1c30c3bd0fd5a55.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6403681d954ab4c418a2417f89b7a9656f37047e0dfdce455ca9786972e274d3.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				}
+			]
+		}
+	]
+}

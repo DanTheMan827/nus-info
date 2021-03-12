@@ -1,0 +1,109 @@
+{
+	"title_id": "000400000010C000",
+	"eshop_id": "50010000021213",
+	"product_code": "CTR-P-BALP",
+	"name": "Kirby™: Triple Deluxe",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b78a199ec4ec79a9f5556b28c33e829b06747f5086cb6f755e599b5a58b5e081.jpg",
+	"data_size": "631294868",
+	"description": "Desplázate lateralmente y entre el fondo y el frente de la pantalla en Kirby: Triple Deluxe, solo para la familia de consolas Nintendo 3DS. Descubre las profundidades ocultas saltando con Kirby hacia el fondo de la pantalla para explorar nuevas zonas, resuelve puzles y esquiva enemigos.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2014-05-16",
+			"retail": "2014-05-16"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6ae5ef3a326a4a2e124c85d4f131c79c3ed3dc7abc0bd1e2838d441940a26d31.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/3dfd177347cde277023cc578bafc3c0f92697c6072a6788622998fed209d770c.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3e4bc9a97d0cafd7c1c410f56b86bb6364c89b06a8cf1436ce32aea87ca5247d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/cf33acebd1a9d8d7d6140ead057ecfb54d5d40452c98d8d32e13858d1e261b2b.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/013e8db9d0997b47941a7f0bf3dd3417e81ef34531b9acd1722a328b48bd5ae6.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/620c5f5b410e2a6825d2370c1af142bdc15c2a1e3a9c36b6f3e18dc306660507.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1622aa4f1bd8026f254a1f99a82227ca1216e3a2ff662d0d307c1385ca2e1dfc.jpg",
+			"name": "Kirby™: Triple Deluxe: Tráiler (13-02-2014)",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c9fe4d560327487177fe81b97a45231697ae195583c875a3eb1160332683fce7.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "71"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b7d351fb626f1e30d5bafcc434b241cf0048534029d9c387496303420b03e9c6.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "71"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1622aa4f1bd8026f254a1f99a82227ca1216e3a2ff662d0d307c1385ca2e1dfc.jpg",
+			"name": "Kirby™: Triple Deluxe: Tráiler presentación de Kirby",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1269249dee7f070a4999afd763299c1a5d6b40dad62bcc65b41cdc30790e66e9.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "119"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a60c6c04070ff89583cebd22bf9492bc707dd1a5855cc52da5c129587a94052c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "119"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a48fdf3d4ede5acabee124a4b4832ec77ed37fb667643d4cc9d95be95fc38c5e.jpg",
+			"name": "Kirby para Nintendo 3DS: Tráiler",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3f58f7b9cdcac6ee7205b0fd2af9c0f08a7edf8301cdb3e3f30b3b616f3a3264.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d7f55fb430ad30bc1a4048468f9913b8dfd1485dc3e950984247e6d85ce2de8f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				}
+			]
+		}
+	]
+}

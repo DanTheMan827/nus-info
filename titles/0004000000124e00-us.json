@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000124E00",
+	"eshop_id": "50010000023435",
+	"product_code": "CTR-N-JZKE",
+	"name": "Color Zen Kids",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 359,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c0919cde48c92d4b2707f8c793e086aefad327e2f59426aec35430a5e1b32741.jpg",
+	"data_size": "11307876",
+	"description": "For your own Zen masters in training, Color Zen Kids is a fun new twist on the critically acclaimed puzzle game. With simpler puzzles, larger shapes, and a kid-friendly animal theme, it's a great way to teach problem solving with a game they won't want to put down. Game features: The fun of Color Zen, with easier puzzles and fun animal shapes 100 levels to solve, with hours of replay value Original soundtrack by Steve Woodzell",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-06-19",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3ae754a8c5d7f2fd7ce621786b2e18345b8fbc99059e416a321de1f6d187f6fd.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ba5d20c6f266281a319b02834630361c639a901db4abca3e682282f1e663d8ca.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0d068d8743dba5320f3e02d22c30a47441d9fc620ca1833f699d2cb05e4a5192.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/365613ace63744c4d22ff2d1b53aa6fde2966d0d84f06921555d32b94d279238.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e3c3e2f799d155871ccde8eaea9cc9effdb032d35a21600339ca14d1f91846e3.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f1175d7013b4ba31df727b3c34ade14a942708bc43c5fd071333fdca5528da92.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7c15679729573a3ef3e869f6987fdddcd08d98a67e7233394681a89da54384b7.jpg",
+			"name": "Color Zen Kids Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6f2c83baf7b4f126126ee445b67f66e008bed00313301315a56f823d140d7109.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/44cd64369feb286e0eddd906759c2af745943644627021c6ba963138e08aa053.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				}
+			]
+		}
+	]
+}

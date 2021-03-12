@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010130800",
+	"eshop_id": "20010000001874",
+	"product_code": "WUP-N-JA8P",
+	"name": "Final Fight",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 41,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fd31c095e72412a6e1c0ac91764d7415e8042578453188da891961ad5e5a7a0f.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/26971aad3e7694586b62bff150fcd0ca7e9ff136924e05fb7c78b11b0356558c.jpg",
+	"data_size": "41058444",
+	"description": "Jessica, daughter of Metro City mayor and former wrestler Mike Haggar, has been kidnapped. Haggar teams up with Jessica’s boyfriend Cody Travers, one of the toughest guys in town, to get her back! In this Super NES™ version of the acclaimed arcade classic, take to the streets as either Haggar or Cody and fight your way deep into the territory of the Mad Gear Gang, and bring back Jessica. If you own this title on your Wii™, perform a system transfer from your Wii to your Wii U™ to receive a special upgrade price. This is the US version of the game.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-10-03",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/657449936fe9c8adaecf914adf90be9036b177f2787ce9786cfa5dd9778c72e8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7409a3b91a7bed17d49d0f87d19338bca3ff24306e4490ca18df576e3d533cfb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ca2f36ec8adbed024d04e0b138812e8f2913fd7a76c9840f0630c48074fde37f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d32b27f87e5140e1b25585c9887335990b03aa37e3eed0422a66b8dbb97a8846.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1463327f41deeda8cc0ebc8d3b725834519270c6396a10ad15fc873a610752c8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b0ec69727b928161400c82872d56557ef2bdf7023603786c7644200c9419a471.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9ad08e709733d6bebd41b3ac4256fe8d277321f7c1b8b97131b6b5fe907fabfd.jpg",
+			"name": "Final Fight: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/83665e2c0f3e03142d25c9edcaf38216895fb47e9627e08d1c36e77d4a7d67e2.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "62"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/37cf7656d9aec73f7d98d42e03ebebcc20284499b5cd384c0c2041a0d2569c93.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "62"
+				}
+			]
+		}
+	]
+}

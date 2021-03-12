@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000019E900",
+	"eshop_id": "50010000040495",
+	"product_code": "CTR-N-KRLJ",
+	"name": "デンジャーロード",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 1307,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/29eb1c5cc6a0b691209667d0adb3a2f5f407eaa22833e68b816f93f8ceef310c.jpg",
+	"data_size": "23972708",
+	"description": "『デンジャーロード』は道路を横断して、車や電車を避けたり、川を渡るため丸太や石板を足場にして渡るなど、障害物に気をつけながら、ステージ内のすべてのチェックポイントを通過して、ゴールにたどり着くアクションゲームです。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-06-01",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/93808cd2817572ed93c8873ad6e671daa13c9edbece41c10b42d621627057f63.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/3fbfd1a9b8798682d39526b2a66308a6e51f4f7533c15988d9398ef5cba644f6.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/34207159704b0ab1890a8672b6d2cb4bc5e852a58a31f56e6776fad24529bfb3.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/32fb8ca3bd6335b80d569a030411fd6c14c7a88f1c2d0a8e9f3693a1eb70df6c.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ef5c381cedc251f05017e558c323b34fd10d862636af03730b8d90c0919e849c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7e67c8423d86a6bbb2338f762a74da99fc43650ae1b305303459f16ae7820385.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a90102f03723a3e20a1651c2dd800cde2c9f27c3b49beb5314859ed5e9f17096.jpg",
+			"name": "デンジャーロード 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c08c1464beb642c727c8ac6411fe212a3be269e999f835ae40b530a748d1e29d.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "175"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f891618f41a83cb40da177c4c4992d646d053dde88c2f36f3c8ce49b599d31b0.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "175"
+				}
+			]
+		}
+	]
+}

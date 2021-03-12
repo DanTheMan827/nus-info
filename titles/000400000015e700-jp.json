@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000015E700",
+	"eshop_id": "50010000034335",
+	"product_code": "CTR-N-BRGJ",
+	"name": "ラングリッサー リインカーネーション -転生-",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 81,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/774396496d8840e46ad679e3593bdaaf23bece9eab07760805a81ff12766dd3f.jpg",
+	"data_size": "798907236",
+	"description": "聖剣ラングリッサーを手に入れたアレスは3勢力の戦乱を戦い進めていきます。 あなたは複数の指揮官を操作し、指揮官に配属する傭兵を操り、さまざまな戦略を練って戦場を制覇していきます。 どの勢力に所属し、どんな道を歩むかを決断し、さまざまな仲間と絆を深めることができます。 聖剣を持った英雄としての道をゆくか、自分の目的のためにつき進むか、あなただけの物語が始まります。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2015-07-23",
+			"retail": "2015-07-23"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/836b1e39cbc13720597b3578baeff45ef13967d9087d313d1004319c8f607645.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/caa9bc0852f4f78ad35d2899e90878576ef4a13a61ccb1dc9f34ca77d465992e.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/aecf32775c078e6b3963426bc2949eec76f17b652564a5c962e3e7426dc59def.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/69c1ca5d5992983a8d74bcd6b26945722a5b419ed363eb6fec2ed6a0b70f463b.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5293138adf78752cf91d54013d9d25c456358001ddadbd8f08a3038dda34b805.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/43dd3f03f71c335f7d3419cd0ace578d238b31a0664e3f00caa59f5c40557a76.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/437c0fc2f506f95bdf4754fd3b652a16d1173566008297c495482d8ff7c1d556.jpg",
+			"name": "ラングリッサー リインカーネーション -転生- TVCM",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5222302d3b9e8b5c5c737b09071849b1080dcff532a071643b6effe9e33c8930.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/15ee1cec0596564cd2e42c613a18417eef6d51d88ab0952950f38e503785f731.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				}
+			]
+		}
+	]
+}

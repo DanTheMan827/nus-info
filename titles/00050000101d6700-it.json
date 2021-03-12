@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101D6700",
+	"eshop_id": "20010000018367",
+	"product_code": "WUP-P-ATZP",
+	"name": "Star Sky",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1569,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/100cf34bc063202afceccf5a53c3564b83399760fbec865c55baae82e8ba9ed6.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3e3944ac2b4d897cb4905d0a9bcff0a7f5422d3c9654ea60d24a37e257989877.jpg",
+	"data_size": "71303328",
+	"description": "Star Sky is a game about a man taking a midnight stroll through a starlit field. Explore the night, and all it has to offer. Star Sky is not a game for everyone. It is a slow-paced game of exploring different choices. There are secrets to unlock, and for those who make it to the end, there is alot of interesting things to reflect about. It is also a peaceful experience and a game about enjoying the ambience the world around you can provide. Make the choices, watch what happens, unlock the secret. The game is meant to be a relaxing and ambient experience focusing on creating a soothing atmosphere rather than intense gameplay. It is similar to an interactive poem. A poem that has several endings and allow you to explore different scenarios. It is important that you take your time and allow yourself to feel the game as you play it.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-09-10",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/d0626232f5d1a19fe93e6eb72e0557176c36c753570f3f97ab23f9157e75ea06.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/332cf5121e13d48d42ce721d8e7cc0657e048f65b6999618718063c6a2e5112e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f11bfe94c931d52024ecdd1a8f2938d4ea40b2fa3e9c374a7a7271c25c2d10a7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e6f4ab557afa8a2833e3661211e30ef5c48482fd21993c3a503d65c13a15f21a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/93e12d604e2ca4165b4e3171d4954dc353dd850d8a5fcf54cc9e6e70a527bc72.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5f3318f7b2ea249636c377abe762fc0d78ab8784a0e0efec528e5b5ad0eff5ee.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9573087af5efcf8c2441ea9492c6d7397ebcf8de1fb5bc18ee993480f1c30773.jpg",
+			"name": "Star Sky - trailer di presentazione",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/137ea083518be01e072ba72b1c07a84f4a6a25406ed381ab0264452e639606a9.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "120"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/56a87773182395df398c51b38bf86a01a9f80109339c45ca33e2787144c380d5.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "120"
+				}
+			]
+		}
+	]
+}

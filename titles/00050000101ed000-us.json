@@ -1,0 +1,54 @@
+{
+	"title_id": "00050000101ED000",
+	"eshop_id": "20010000022093",
+	"product_code": "WUP-N-WSSE",
+	"name": "SpaceRoads",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1693,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4331b825a6e3a919021c884bb9e74d824ed25e2fb7cb0e15bbaabb74a0f83618.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/cc72494bfa677b56e76f5b614098c457186f5e5bee10a9d383390d40a720e49a.jpg",
+	"data_size": "759759048",
+	"description": "SpaceRoads: Take control of the fastest ship in the universe, the R-Series 1700F. Pilot through the most treacherous environments and planets, ranging from the sub-zero temperatures of deep space, to the metal liquifying heat of the galaxy’s most violent volcanoes at break neck speeds. Race through the most dangerous galactic courses the universe can throw at you. Make one false move and you will plummet into the crushing depths of a black hole, or become enveloped in lava. Avoid the obstacles in the courses, and reach the end of the course before your fuel runs out. Explore the universe, and all the gorgeous, rich environments and discover SpaceRoads is unsafe at any speed.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-05-05",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/0187e8888f30881d27a2a25156bf11420e4298e4da6e430b597af54960b90592.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c7c7df3e2e576e2d0991550166cfe4575f20242057fe5b51e63a166f147118fc.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/04820c993680a18baf70b6398b105ff4a80c5f3b6be48b3c267ed881f4f1d305.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4dd0e4f234e0acc7c6fdb17bd58085e56edf18722e820a860c5e1be0dac9ae69.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/508286a5d1dfec58a627acf4e9e971d9a34e7e1aff1a29acd2db7188b8a593e2.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8898c248bc156193d2ddf0a40069da087ef697a38e20adea5719434aed5c1ac4.jpg",
+			"name": "SpaceRoads Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fe4fdff2447c8ee02f6b75d8029e98983dc0e35e312d9f2a94fc835c1be5c958.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "107"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ca7080fb7cbf2aed28b7a5dcc365b5712f69094b721725473916053aeaef1f84.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "107"
+				}
+			]
+		}
+	]
+}

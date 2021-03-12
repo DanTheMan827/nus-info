@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010153E00",
+	"eshop_id": "20010000004425",
+	"product_code": "WUP-N-JB5J",
+	"name": "ロマンシング サ･ガ2 ",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 246,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/50d2a7dd233df993c561ff3049595a72757722ddecfd329767117af1fbf26851.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a97956e33eb62873f155931e4b1fd2f42f8bda4a598b66a96abc56be2b4eeb80.jpg",
+	"data_size": "41975948",
+	"description": "このソフトは、1993年に発売されたスーパーファミコン用のロールプレイングゲームです。 長きにわたる七英雄との戦いに決着をつけるべく、プレイヤーはバレンヌ帝国の歴代皇帝となって世代を超えた戦いに赴きます。前作同様にプレイヤーの自由度が高く、どこに向かうかなどの行動はもちろん、パーティーの編成や次の皇帝に誰を指名するかなども自由に決めることができます。出会える人物に変化があったり、覚えた術が受け継がれたりなど、前皇帝時に発生したイベントが次皇帝に影響するため、世代の繋がりを意識して行動することが攻略のポイントです。戦闘中に武器や体術を使用すると新しい技が「閃く」システムは、本作から登場しました。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-01-22",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/4cf7896e3dfa79cb37bec21f3d5c765f803cc97a29eef5e63d34393e9dded522.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b919d3bd3da56e20ee34847ad421b40670ef1338a2402307e904be29daeaa0a5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/01b2ec7161149c67b7543245f85ab2e2f89adb1531bcbf35fb472e45fe4b993e.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/14143e46a679e055abb302d487601404b718e80c10f783119ca3efb9d69a23ea.jpg",
+			"name": "ロマンシング サ･ガ2 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c4968674e3dbe51bb6037881567936fc3b046233cc3de76065f1ba742943f8a8.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "51"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/741640db39569ba5155b0a0853d874d910e65d2cdb6864bc566e3ad12d8ba871.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "51"
+				}
+			]
+		}
+	]
+}

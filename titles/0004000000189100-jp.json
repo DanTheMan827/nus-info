@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000189100",
+	"eshop_id": "50010000039364",
+	"product_code": "CTR-N-KBMJ",
+	"name": "BATTLEMINER",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 1307,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/40eb8fc7488b1828f9e2101eabebd88503c65d387b0035242ac2dc2c172241f1.jpg",
+	"data_size": "144038756",
+	"description": "マップ制限のないオープンワールドのゲームです。 世界に散りばめられた資源（ブロック）を採掘し、冒険に必要な道具を作りましょう。 突如として出現する巨大蟻には、用意した武器で対抗しましょう。 採掘した資源を配置することで、自分だけの世界を作ることも可能です。 ネットワーク対戦を含めた、全3モードで遊べます。 「サバイバルモード」 突然変異した巨大蟻に占領された世界を舞台に、プレイヤーは生存者を救うための冒険に出ます。 巨大蟻に襲われている生存者を救いだし、更なる「道具を作る技術」を入手し、過酷な世界を生き抜きましょう。 「クリエイティブモード」 豊富な資源を使い、自分だけの世界を作ります。 プレイヤーの自由な発想で、ゲームの楽しみ方が無限に広がります。 「マルチプレイ」 2種類（ローカル通信／インターネット通信）の接続方法で、多人数と遊ぶことができます。 サバイバル／クリエイティブだけでなく、マルチプレイ限定の対戦プレイも楽しめます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-02-10",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/60cb4ba0e392fe3f4590df3cdd25d7906a8baabdf4ef22c4a0581df984f4a7dd.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6475930376fc1dffa235125768e588baf85bb11fd0e7f4d59434293046f67c2b.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b241d3c7d51c83b4e5dc77b717d8ae45017a003355a91e2b5d2c2017cc3c905a.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f9f0e984fefc200d7add40e6eb7c02586ddfa412f3d9a7987f6434c63958d694.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/9ed1984b89c5e1e3dc3e2b1ff8391e7e090a428386ab040c857258db29f9d596.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/70c681e6e64d3a0ef8670a5b29015466a650f73463f36399a556a2a6d27278f6.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9d0795a2650be687d52e91db7f82de0c8b20c53d9f49949bde865c1ad8db083f.jpg",
+			"name": "BATTLEMINER 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f1473029837d3d00deeadfddda0846fff7c804ef39b56cb6918b157876d18f3a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "155"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5219e02c22a835911bd10db2b01c9ac9825c513d4f8de150b95e46bb265933e6.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "155"
+				}
+			]
+		}
+	]
+}

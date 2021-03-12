@@ -1,0 +1,85 @@
+{
+	"title_id": "000400000F705900",
+	"eshop_id": "50010000041417",
+	"product_code": "KTR-N-CDFJ",
+	"name": "ドラゴンファング",
+	"platform": 1001,
+	"platform_device": "CTR",
+	"publisher": 1663,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/59854aa4f68080afd9a21c5ca4ba0171b6b7fbc8368aea1591501652b001cc34.jpg",
+	"data_size": "308120420",
+	"description": "冒険するダンジョンは毎回「自動生成」。 同じダンジョンには二度と巡り合えない。 ローグライクのセオリー、通路に逃げ込んでの戦闘はドラゴンファングに相応しくない！プレイヤーの周囲に壁がない状態を保つことで、勇気の証「竜人結界」が発動！ この状態で敵を倒せば主人公のドラン君はパワーアップすることができる！ 勇気を持って踏み込み、さらに強力な敵に戦いを挑もう！",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-12-14",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d2a61bea72c7b846020e61a85611bc8556e3ed9f1939c639a58ed22820563553.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/3da03d99167630d34657a76a9f90e7fb4b1e06f257721a8ea769d21e56e74cd2.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/963ea1d44f8239bc489b73e84fd4fae83f7f16d7cc2b3d8af72756264ac5ba18.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c40e06e5fd49120167ab6459a6a9ba97aeca3405d40908893ede9670786ba394.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/94d8bc8f8dbe291dc6cdeb6a027e51afa23e1e78b0f3a7f5bb34ad950092c9f9.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c52a12961962b4d221846f77c19a7ba6d144a75a23e616b1305d048be41cdd86.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6eba93ec8080647e4f9823829aa14e2fa20a1b73977f93a5b1d3e6ba0388cc53.jpg",
+			"name": "ドラゴンファング 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1f2eb811afc4b0e3dff58850eb66c4877292398d701ab39d88599afb9ed41c3e.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "120"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/171a621c2358e6e2217388162b3e3c927812ac672a07c190d8ac3a4bf92d289c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "120"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5da589f5b926cfaf7d47a0b505e943e5dcee7a6bb28135384cd5e1f3ebf9a30b.jpg",
+			"name": "ドラゴンファング 紹介映像1",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/748ae0477cabcdbf7ac3ed4330789e3b42b5ca01f8cd562c018c136edd9f052b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "116"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e6cfb38f6e300efdaff32817d39d34f0e25ac9cb5d7c18c7dd12457cd70eb234.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "116"
+				}
+			]
+		}
+	]
+}

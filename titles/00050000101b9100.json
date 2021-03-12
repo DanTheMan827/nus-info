@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101B9100",
+		"eshop_id": "20010000015267",
+		"product_code": "WUP-N-PCVJ",
+		"name": "シャイニング・ソウルⅡ",
+		"platform": 168,
+		"platform_device": "WUP",
+		"publisher": 231,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fc1fc7f4bed00b015d3737a56f6f0a8d20b487b44103dea748f1b6bcc6a62f56.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/72a30ac1bf227c41042226dc3478c2e60ca78a17c4e3c50664d2856da8a041b4.jpg",
+		"data_size": "77299852",
+		"description": "このソフトは、2003年に発売されたゲームボーイアドバンス用のコミュニケーションRPGです。 世界が再び闇に覆われようとしている中、プレイヤーは「光を継ぐ勇者」となってクラントール城を旅立ちます。 前作『シャイニング・ソウル』からシナリオがさらに強化され、大小さまざまなイベントやクエストが追加されました。 また、新たに4つのキャラクターが追加されて選べるキャラクターは全部で8タイプと前作の2倍に。よりバラエティに富んだ育成が楽しめます。 そのほか、新規アクションの追加や、敵キャラクターの思考ルーチン強化など、あらゆる面で前作から大幅にパワーアップしています。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-03-09",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/81e0601257e4ddb47a27d66508b3634f27c086ebe4e47421d02fa6bdcb343e0c.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/22f4c4a2342718643558e3a9c5404f59f79e322ed41ac6eda40d3d41a8ac055b.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/722e9273835d49b187e0bd9802adbc2b94283bb32565ac1077caa9011c17de6f.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/265a0b5c764650173a33ab397e4a7e86d9330466231f82d7b89cb5ad291da735.jpg",
+				"name": "シャイニング･ソウルⅡ プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c4b8caa1688b95b8380cc5e4edfaad9fdab5de06301198673f7e0a60b82caedd.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "61"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/13ff0eb63dda8674906492b21d19d746321ff3f0405587e68dadbaeb33ffe529.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "61"
+					}
+				]
+			}
+		]
+	}
+}

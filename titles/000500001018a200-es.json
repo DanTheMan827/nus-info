@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001018A200",
+	"eshop_id": "20010000009546",
+	"product_code": "WUP-P-WDUP",
+	"name": "Darts Up",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 76,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9e428e22a9fb7c1fb1e9e2320dae3b8e4cd44fc8a20631f020f3c05c98580eb9.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/035b8ef245ab50c047157b816d083c5b057cb154a1003c6181ec2d400b402f48.jpg",
+	"data_size": "116752524",
+	"description": "El juego definitivo de dardos llega a Nintendo WiiU™. Darts Up es un divertido juego de dardos donde tendrás un control total para apuntar gracias al sensor de movimiento del \"GamePad™\". Podrás jugar con amigos y familiares hasta un máximo de 4 Jugadores a varios modos de juego incluyendo el famoso 501. También dispones del modo combo con movimientos especiales y lo mas importante un modo arcade con tabla clasificación online, en el cual podrás comparar tus mejores puntuaciones con amigos y jugadores de todo el mundo. Características de Darts Up: - Nuevo modo Arcade con Tabla de classificación online. - Uso del sensor de movimiento para apuntar y ver el entorno. - 4 Jugadores en Modo Clasico, Combo y X01! - Modo sin Television.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-09-18",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/7ed7215135ecc06cd6729b563373eb0a88087891e62c1c4d430f66c332d3e2e9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/480829eef38978829e7481c3a2ec68655cfc659d1cbf695bc392a27b90dd143a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/89d7d692e07bc6022a107b47b1e1425a38f14a226ee063c13d60574e8eea0e3a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e91f32be43d199e70a869a238811e84b161ca930198f15bc4c2100bc3b530d4d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/51b850252acf20254a764320318509e4c3061b63d143ee51b720c29edf8074be.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6462e35d7e54c635af2e85fe6a163a0e523093e18004986027c789a4dfd50002.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a08f691eee8d1ee79f5c499216c0395ec9fe7e392b7b35ea7bde122830d1a05f.jpg",
+			"name": "Darts Up Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/db9d60f87780dfebe9305b552cea25b1ad40c11236426c2e6073d3a06cd5f16c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/96f9bf5b3f2f74fa3db74aa949552bd53ff24445234897a4ff02056684c1ec22.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				}
+			]
+		}
+	]
+}

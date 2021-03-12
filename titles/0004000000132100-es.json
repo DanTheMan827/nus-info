@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000132100",
+	"eshop_id": "50010000026235",
+	"product_code": "CTR-P-BFRP",
+	"name": "Ultimate NES™ Remix",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/bdd9380cddfc8bea5d59d98fc946a9fa680f8f63af0b647f463c2f48e30b7142.jpg",
+	"data_size": "119188324",
+	"description": "En Ultimate NES™ Remix para Nintendo 3DS, los jugadores se enfrentan a retos de 8 bits basados en clásicos de Nintendo como Super Mario Bros., Metroid y muchos más. En los niveles Remix cualquier cosa puede pasar: personajes que aparecen en juegos que no les corresponden, pantallas que se ponen patas arriba, intercambio de colores, etc.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2014-11-07",
+			"retail": "2014-11-07"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/cb6cf1e14488f36c8effb5c2ed9586fde2a8aa85ae5eaf939d90fb3092e8478b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/741e62489fa70fcb92bbea8855defe1675da84d84210efe96be3238f1fff5a96.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/23bf308cdcced394fc8d106cac706a018fb6bb54b735512aba56df866fdf436d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/979ae194058bcd7808ff428868ac2fd4dc88a8f10a2b9fa993f4403f42828659.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0949a4bd0b65be825fd39dfb6be64779d7037616e16e8dbd1e532ba7fe7058d0.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/3808f149ae11a4a100f353b83760a78ccb1862dd973bc394a70abc048f677738.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7e9a5f56f18cc10e82c8b0569b1d47f1eed6ba509934ac9e39256f412f05fb7c.jpg",
+			"name": "Ultimate NES Remix: Tráiler de lanzamiento",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/22030f30e435f24e36e47085d944dcc3402ebdaacb55629792094370a1ec2383.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "119"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/79b9f456c5ef1db52e484958b2311b0781fb72c1ab6fe0914d6261f430488621.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "119"
+				}
+			]
+		}
+	]
+}

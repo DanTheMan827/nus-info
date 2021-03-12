@@ -1,0 +1,85 @@
+{
+	"title_id": "0004000000127700",
+	"eshop_id": "50010000021817",
+	"product_code": "CTR-N-JP8J",
+	"name": "ペンギンペット3D",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 882,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7200305e281a950b1f043062ed56002b8cafa0507ed2a553d3432fb6b9794c92.jpg",
+	"data_size": "70404964",
+	"description": "かわいいペンギンを自分のペットとして育ててみたい! 『ペンギンペット3D』は誰もが一度は考える夢をかなえる育成シミュレーションゲームです。 自分の好みにあわせてカスタマイズしたペンギンに美味しいオヤツをあげたり、お風呂に入れたり、寝かしつけたりして、カラフルな3D世界でペンギンと一緒に楽しい生活を送りましょう! ブレイクダンスを教えてコンテストに参加したり、たくさんのミニゲームをクリアしながら、ペンギンが喜ぶおもちゃや食べ物、洋服をゲット! かわいいペンギンペットと一緒に楽しい時間を過ごしましょう!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-04-23",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c7d88e6bc96e9d59ad8df027f001c4f30c9e670bae1a0c93fac2c4d842f1dde0.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2363e6920cc4d23337fd56c9c04ee841ebbab510cee4163dc3a68389434ff515.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6b8642e1c6477595e8d80529568a3d5b0b4fd49b0a7c53cc90fe894126be3035.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/58b1a53e1e8f175f5cd2cc5f2bd5edefa3885d1f58353ecddf1e4f5db2d6ad35.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8b199845ae5794d275b4adb8381f5513b4779b995e8026c063a06391d84c2165.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/216d9f38a8ecefeaea5e1b65f315ae6db7cfc3667fb9b0af7d56a0e05569d97d.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ae2017b1eb48963e7af851ae551aef1859bc321c7cf84d6a45bf776f8cc93171.jpg",
+			"name": "ペンギンペット3D 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d22dddc214bd5e9cb5afd3a18eebfb3f5cf5765ad44dd4de798f208bdb74fd8f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "58"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/81e521a5939a16c16bd6f0e631ca0c429f1cce1f5e19c4465489ee90ab6f79f0.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "58"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/69220cfec50e6d32a209abc4fdcc7be2cb4ea21ccc8edae8571c94f68c8202fe.jpg",
+			"name": "ペンギンペット3D プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9ae8082c99e5a8ba4d1c6de47ae06372d7faa6c5215dc17963c528d1d0a177d3.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/db8006dfe40be3295a5a6caf469e3a62aba1c09c277679c171b02962c3b5de1c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				}
+			]
+		}
+	]
+}

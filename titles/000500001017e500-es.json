@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001017E500",
+	"eshop_id": "20010000009606",
+	"product_code": "WUP-P-BPMP",
+	"name": "PAC-MAN y las Aventuras Fantasmales 2",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 27,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b814c3bf9e9c757e5c24abf758585d00fc27c2f2f84e7cf57a85994c6a59266b.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/47922be52f3a9e42f660a237c18dd1bc45c5d51d088f44709e0012926413aceb.jpg",
+	"data_size": "4239229388",
+	"description": "¡La banda ha regresado! Para continuar con el mundo y los personajes coloridos de la serie animada PAC-MAN y las Aventuras Fantasmales, su secuela, PAC-MAN y las Aventuras Fantasmales 2, contará con PAC-MAN, Espiral y Cilindra en una nueva historia en la que defenderán Pac Mundo del malvado ejército de Lord Betrayus.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2014-10-16",
+			"retail": "2014-10-03"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/1832cc77e956274f40575e5f04ed9ce2fa70d024041222cdfeacf6160e89a1d7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d8d7c027275e54b178da7e5f37ac386a1c76b4a3955bfee2de8d7c31b67b2fe7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0f1a6d9e31ea19c7b42788175ee2018018bdf9c63975d1f033dcdf878b077931.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bac37bcecc0d500f3ceabd838aa5cab4776b9c516d4b014a5517a57248ab2d16.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/161adec3af3d2af2e02ebfa798be657307ec429e8b8e81bed0494c81e58c05b3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/96f41b22f4ca668e38be0d8c4784907d21233f2584911c2a6ec96d12e9c28d2a.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e0390b67692702985f2d9619e487621df92e369c505b9e3f83766f4c40e7fe23.jpg",
+			"name": "PAC-MAN y las Aventuras Fantasmales 2: Tráiler",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8f735cc18678f3934c5b3f67938daa129de7f7c13cb691972bcb7cff1963cab6.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "71"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8f3b9a5e670e22b4747c7a5e1fb81f19c9fa2cd88440e564039361e0bd048e9d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "71"
+				}
+			]
+		}
+	]
+}

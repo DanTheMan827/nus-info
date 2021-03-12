@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010198400",
+		"eshop_id": "20010000012207",
+		"product_code": "WUP-N-PB7J",
+		"name": "ファミリーテニスアドバンス",
+		"platform": 168,
+		"platform_device": "WUP",
+		"publisher": 27,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a1fc5e9d1f9358cb25d7f58ac92eb5547d0e4943c6e389e6ead2ae80a6d7c912.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5b19f772324979dcc40b6ea61e804ca8aa88531bca79d00a2efdeb72de578c12.jpg",
+		"data_size": "70615180",
+		"description": "このソフトは、2002年に発売されたゲームボーイアドバンス用のテニスゲームです。 個性豊かな16人の中からキャラクターを選ぶことができ、1試合だけ手軽にプレイできる「エキシビジョンマッチ」、大会に参加して優勝をめざす「トーナメント」、ランダムに選ばれる4つの種目をクリアする「チャレンジ」、そして練習用モードの「トレーニング」の4つのモードが遊べます。ショットの使い分け、コースの打ち分けなどのテクニックを駆使してクリアし、ラケットやシューズなどのアイテムを集めていきましょう。一定の条件を満たすと特別なコートが選べるようになったり、隠しキャラクターが出現したりと、ファンにうれしい要素が盛りだくさんです。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-05-27",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/a416e806986245275e5362de95c0c7dc496458615e581e5126d9c0cfb12555cd.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/0ede7ff7cce1347fb6131c6473f52c9c825200ae29e11c45640e12123a85a7f0.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/07bd17201ef757ca5342df14e96ed66a8d943bec5dbdeb55df3952820e765bd0.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/288015e39ed3081c12d6482796752125f51b81c7d474cd860ad27dc48b86a7ea.jpg",
+				"name": "ファミリーテニスアドバンス プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6353bd013aa1bb3033d11fda1a308d1123f4ce55cd4d1d3079a7a261b5c97bb7.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e1ecb00e3aaceea873825d9246fad24b6dc5cb8c135e53fd16f295521d29b6b9.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					}
+				]
+			}
+		]
+	}
+}

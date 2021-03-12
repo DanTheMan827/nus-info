@@ -1,0 +1,53 @@
+{
+	"title_id": "0005000010107C00",
+	"eshop_id": "20010000001864",
+	"product_code": "WUP-N-FAEE",
+	"name": "Mario Bros™",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/78290888857096d093df7922f6bc4e33fba90abdfd79191a2506ded6ee241ab1.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/16ebb8450df079150ab7252face2643f389b72011eddfa2be64ac6fec3ab8f7d.jpg",
+	"data_size": "36536460",
+	"description": "Mario™ y Luigi™ estaban realizando un trabajo de plomería subterránea cuando extrañas creaturas empezaron a salir de las tuberías. Ayuda a los dos hermanos a pasar a la siguiente etapa al recolectar monedas y evitar que los enemigos los toquen. Cangrejos, tortugas y bichos combatientes, deberán ser eliminados al golpear desde abajo el piso en el que se encuentran y al rematarlos con una patada. ¡Pero ten cuidado! Justo cuando pienses que te has deshecho de todos los enemigos, descubrirás que todavía hay más. Juega en contra de la computadora o con un amigo, de cualquier forma sabrás que este clásico merece ser jugado una y otra vez.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-06-20",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/c8d983874c8e001c884b8b9eda5ee331b4adc59839533d02dfde7dc230d16aec.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6e840c60e3b0e07c3941393a53319f497fc796c4fba1e9e240b30bcbed66737d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8e80858fed382892f85974e74979db204f72234919bf44cf1c0c43f8851d9b4e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a000f5ca3a47f49db4b13275275820d953c2b6d03dafb0c79c4462e13ec4dd57.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/43f27aa1894f74176a663ae0e0172938d22a8c0bbe68371d7f0031cf3e61156e.jpg",
+			"name": "Avance para lanzamiento Mario Bros.™",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ac63d2eb3f9f7c9ce9b3878f691a62b3cc7c6f450f0f46e5cb52cf99a410b450.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "25"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ebf3886774dc96b3b46edfe92143fec5d5cc133f4e790aece72040c3fd3f3ae8.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "25"
+				}
+			]
+		}
+	]
+}

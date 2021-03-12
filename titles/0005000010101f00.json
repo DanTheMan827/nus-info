@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010101F00",
+		"eshop_id": "20010000000046",
+		"product_code": "WUP-N-ALCJ",
+		"name": "Nintendo Land",
+		"platform": 125,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/89a58af1defd2d38a5a2ce999f926c8e96ba767591f6cc58c6b4c0c0af329ee2.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ffc29524f79f0409d819feaee56d31a5b1866639995055136c5d6ebec3865084.jpg",
+		"data_size": "2940175856",
+		"description": "「スーパーマリオ」や「ゼルダの伝説」など、任天堂のゲームタイトルをモチーフにした12種類のアトラクションを収録。 参加するのはあなたや家族、友達をはじめとした数々のMii。Wii U GamePadとWiiリモコンを使ったさまざまな遊びが楽しめます。複数のモードやステージが用意され、1人でもみんなでも楽しめる「チームアトラクション」。2人以上で遊ぶマルチプレイ専用の「対戦アトラクション」。Wii U GamePadを傾けたり、指でスライドしたり、さまざまな操作で遊ぶ1人用の「ミニアトラクション」をご用意しています。 ",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2012-12-08",
+				"retail": "2012-12-08"
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/670f45f341758e3f40c5391837135b22f4c6d18f749411fa9cf6c6fc8e0f40d4.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/f38da0e4a272f20eb3f297badae97740d2e871fe7671143523775befb7d7e6a5.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/b9f00487c3344d742cc90c96332fe0c595d316eed5e243959ae5685543861ed8.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/98ad3723aaa0e19a177595b8380c33902c6bce147693fc8869d9c22972386f3d.jpg",
+				"name": "Nintendo Land 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/544d7da72c9a60b0c397f1df5dacea86796093f1b78bf851f420ea2fe793e95e.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "451"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7aff81c10cfb1c1c6200054368f49a99b241a9e230d7867a751be228e11d3cbe.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "451"
+					}
+				]
+			}
+		]
+	}
+}

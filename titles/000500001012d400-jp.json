@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001012D400",
+	"eshop_id": "20010000000786",
+	"product_code": "WUP-N-WLNJ",
+	"name": "Wii U Panorama View ロンドンバスでいこう",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/62089003ebe613373430e45ac39beb5cb56300115e03cdbd9a4c6cd9ee8450e5.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/004ae3c24e2f220e7fb4df7a2c6aef3cd14a78e03e24c4687c161c60cdc6bbf7.jpg",
+	"data_size": "533790860",
+	"description": "Wii U GamePadを操作することで周囲360度を見渡せ、まるで自分がそこにいるかのような臨場感を味わうことができます。本作では、ロンドンバスに乗って、ロンドン市内の景色やシチュエーションを映像で疑似体験することができます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-04-27",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/0c0a13853fdea8e1e5049d279135ff8d26dd857814f20e93c6a8081576f5f129.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/094017489d076e12dc1c13d4e35c13460efebc9aa50952bc2c31acfeddcef8fc.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0607f469f03c5091e24e637d9ec8dc75dcbe43e1fba9e7b22f5c5e6060b1a75e.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7112ad000b7842e33fb11f98c6c59c4d85201da41d4b4f7537927ddbfc9e276e.jpg",
+			"name": "Wii U Panorama View 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6f534bd6be63bccd11b23557512aa60f2e78fec313d697ffb3018c06ff76a3da.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "103"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f8708cdae7154a29c6fa4e8586948e7a6e6ae511a54ee9cc1d7dd83b1d44c783.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "103"
+				}
+			]
+		}
+	]
+}

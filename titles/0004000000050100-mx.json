@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000050100",
+	"eshop_id": "50010000031335",
+	"product_code": "CTR-N-RA3E",
+	"name": "Donkey Kong Land™",
+	"platform": 21,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6c8b7e76b1f3aa0178277864a51fee02f715194e8a99469a3a4f0e453044b36c.jpg",
+	"data_size": "4250468",
+	"description": "Cranky Kong no cree que Donkey Kong ha demostrado ser un héroe, así que decide hacer un trato con el villano más cercano a él. K. Rool y sus malvados amigos han escondido los plátanos en nuevos lugares a lo largo de la isla Donkey Kong, en otro intento por burlar al dúo. La única solución para Donkey Kong y Diddy Kong es iniciar otra aventura. Con más de 30 niveles e innumerables secretos ocultos, balancéate, rueda, salta y transpórtate en barriles explosivos a lo largo de mundos llenos de nuevos y conocidos enemigos. Visita un misterioso barco pirata, recorre a través de tormentas de nieve, nada en un increíble templo acuático e intenta algunos saltos en el cielo. También habrá más animales amigos esperando para ayudarte. Cranky Kong se equivoca si piensa que Donkey Kong no podrá asumir el desafío.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-02-26",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a57bcef27eb8a6e2c42766555e14b0d87c1a0eae776deb4644d6a8a25ac53d54.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c70c7d68a682979f96d9ad82adb6f8a9af58d02407d5406cc57e1706e34c3bfa.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6ef190aa5ee0fbe41b6881b3a67dfb59513175a39baa54ac64033032b26e7d48.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/18c61778d385cb4eeffa310146a3687b0d40712ce2b931e662df9ecff41ca01c.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/fbe2b8be8ed97c62eea3138ecd4238be4eb4b3a9a3cb79901bb16009f3505702.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/36fdaab1cfe2d0d797f08d0100fb1e766b7ae43bb3e90f85d093386bf9a262d8.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ebb05a216d09716464ebdf23e50cb83ccc45a3f586af31d895019ef646974415.jpg",
+			"name": "Donkey Kong Swings onto the Virtual Console™ Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/53110a398481b541dcb7a25b10eb95d7dc38f6e42bccd094ae459e5b4de5a92c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "40"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ebf4f7b150ef91568f4eaba1840a90b31375ca340128a41c13d3317aa5174f88.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "40"
+				}
+			]
+		}
+	]
+}

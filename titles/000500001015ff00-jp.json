@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001015FF00",
+	"eshop_id": "20010000005584",
+	"product_code": "WUP-N-JCDJ",
+	"name": "悪魔城ドラキュラXX",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9734c67bba5136a97bb232f873344e17dd8f0f0f7a7a2882539f1f76c626ffd5.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7b9f91d6d6d8f9009c25b81cba80e1462351e29944161bc06b4a102b7db166b6.jpg",
+	"data_size": "41517196",
+	"description": "このソフトは、1995年に発売されたスーパーファミコン用のアクションゲームです。 勇者シモン･ベルモンドの末裔である主人公･リヒターは、ムチを手に、再びこの地によみがえろうとしているドラキュラ伯爵に挑みます。短剣や聖水などのサブウェポンは、ハートを大量に使用すれば強力な攻撃「アイテムクラッシュ」に変化します。複雑な造りの悪魔城には2人の女性が捕らわれていて、救出しドラキュラ伯爵を封印することが最終目的です。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-04-23",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/d52d9acf010da5e415b4ead9ccd2974a88ee453145fe871a75c55d0e777e59c4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0a59a182ad2bdb0bd4361ab4cc4fdcbae35b27e49deb2dd4e3e90b45254fd483.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/40d47cf5b09da395080330263c995d270c0cab02e01d77134036e099f3e0c51f.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9ec93409b1122acced5afa3f9314e62bba7be15a8723bd9efe9599c15fb37b79.jpg",
+			"name": "悪魔城ドラキュラXX プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/214545f0086e12d20d066634de2acd561aa509d850af490e7d67a55a1b2e9fb2.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8fcf20b41b02039cc139eb30e8149d7e3b2729ac098ee50a66c8336d2c9d2bec.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				}
+			]
+		}
+	]
+}

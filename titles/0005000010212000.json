@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010212000",
+		"eshop_id": "20010000026487",
+		"product_code": "WUP-N-AVNJ",
+		"name": "デッドハウス 再生",
+		"platform": 124,
+		"platform_device": "WUP",
+		"publisher": 1292,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9d089160dc920fe75ca9e788b49bd71b92eb3b11e38bf4795a8ad673c40d5913.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/2f14a66d7288d1af28eb8755f98f7f6a8f7f5ede3357d105a3774afcaf9aa458.jpg",
+		"data_size": "362938528",
+		"description": "90年代のホラーゲームにインスパイアされた新感覚サバイバルホラーゲーム。プレイヤーはウィルス感染した仲間を救うために、制限時間内に家のどこかにある「ワクチン」を探し出し、仲間に渡さなければならない。ただし、仕組まれたすべての謎を解き明かさない限り、仲間の病気は再発してしまう。しかも、この家は、まるで生きているかのように「再生」を繰り返す。つまり、プレイするたびに部屋の配置やレイアウトが変化するのだ。そこには、素早い判断と戦略的なアプローチが求められる。また、さまざまなアクションを行うことで獲得できる経験値を、効果的に各スキルに割り振ることも、重要な攻略ポイントの一つだ。さあ、デッドハウスにようこそ……",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2017-05-31",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/889bad76c60e6b9768d9377c17528d7d5dc50315692d8f4c04b3625f4492a62d.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/09d2939ac9739d43f062e900aec2ec5732fbe255f3291859ed25352aeea8c715.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/ed40d14a89584c632af717f62ac62b35ce3e38d2a50d21c9497681c5242d3a44.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/af00f4ad4a9431ef8958f25b9eb87328efcd7e16463d5117f4f4e4aa0bf80873.jpg",
+				"name": "デッドハウス 再生 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6d9a945bbadfd0bc0d543df00620e371cf3efe715193a45ea337dd0538792c2f.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "115"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/38b1a98e3fb8c5472939088dc7a06d79cfb7ab94d62eec08d61a10d13bbbff0d.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "115"
+					}
+				]
+			}
+		]
+	}
+}

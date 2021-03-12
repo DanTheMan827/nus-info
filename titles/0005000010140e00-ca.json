@@ -1,0 +1,54 @@
+{
+	"title_id": "0005000010140E00",
+	"eshop_id": "20010000009066",
+	"product_code": "WUP-N-JBNE",
+	"name": "Cybernator",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c183cd205f7477d2386d6d24ea230cd225fbbcacac046dbeb552f568f363d2ba.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c2f94ecc919d8218484e535eb0d03223e1ca656d8df14f06739ecf84a9db9f5f.jpg",
+	"data_size": "41123980",
+	"description": "In the year 2065 AD, the nations of Earth have split into two major powers: the Axis and the Federation. These governing bodies are constantly at war for land, which has even extended into the frontiers of space. Jake is a soldier for the Pacific States' Marine Corp and pilots his own Assault Suit for the Federation. He has been assigned to lead a covert strike team to confront the Axis troops head-on. Your Assault Suit is ready for battle and can jump, shoot, and hover over small distances. Battle through seven war zones, and capture power-ups for upgrades and new weapons. Complete your mission objectives as the fight takes you through Earth's fragile ecosystem, to the moon, and across the vast expanse of space!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-08-07",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/e229372aa7a5171c9b4957e80c24be8fb147ec1dce87a9cd1a5fd9caa0b7ff81.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c65eeb02f7ebdfe98d96b4186c98c6514e96ff1575b6c4232e5e7c299594f4ae.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/89c82a8a465b06cd2c6a97ee0705a171e52dafbc23ea8154a9a14ea019fa6114.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a8814ce913022c233c06627b648fcd644f4006e34fe242282292ebd2126dff90.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d4a422707c37dfbcfb4306be32a257c95d13899586b66ab01fdf7eddff5e8f10.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c482b4886674011bc775652e071bdf13b066210506ac5b9b9c800ec155a1bd16.jpg",
+			"name": "Cybernator Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/80071b7e1b475a6dc6c2060688c66c024578c05830284da8ecdc5d94ccc12c98.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "47"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e84ff2d03d35865dbb18bf86176aea7e33158f8521bbe3523231598097b3007c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "47"
+				}
+			]
+		}
+	]
+}

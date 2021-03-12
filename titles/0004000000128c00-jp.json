@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000128C00",
+	"eshop_id": "50010000021034",
+	"product_code": "CTR-N-JL3J",
+	"name": "プチノベル「恋々の三月」",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 1212,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8b66bccd171e462554f96cede3f6cd382db3f10f3f06d77be395bf42833a6b7c.jpg",
+	"data_size": "68889444",
+	"description": "『恋々の三月』は、神の住まう町･多紙町で暮らす高校生、紺野柾木と十和田雪の過ごす3月のできごとを描いたビジュアルノベルゲームです。 ベビーシッターとして赤子の恋（れん）の面倒を見ることになった柾木と雪。共同作業の中で、戸惑い、すれ違い、傷つけあってしまう二人。 最後に、二人は何を見出し、どのような変化を遂げるのか。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-03-19",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/77ae38709300f13a78bc421c485ee37959bc2933d366c2161a45b685b84c6380.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8651d01886aa9bbe8dfb9c84304e249b4cb13450f171f8fc4f9b83c3aaa7b6d2.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b6d93d61e692ea184ad9504f4fbd50ada9d394ef3ba27f0c9e68e622e3a18304.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6739f33c9ffbdde68de51c41d16919d50028715510701dab697a97bb3dbf7e39.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/09cea61d4611ed3b2b19df279a2fd0c7155fa9854a9a7fe9cf1b7934d28cf76e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a05d143b7acce66aeb037e6e3539fd15b007e4db1ae856e255aa2947d8832d75.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4234319f73df6b66869ce47737daac588bd1cd49579362caae338a42ea240094.jpg",
+			"name": "プチノベル「恋々の三月」 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/685bc7c33d5f15dcb614625f2c3a825cafe432cf005d4798aba9c9599ff2b4d7.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/51555d2ba3466b7dd09f4325d348c0d72236cd36dc8f87fbffeeeeea8c2f8fde.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				}
+			]
+		}
+	]
+}

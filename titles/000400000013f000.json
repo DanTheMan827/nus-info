@@ -1,0 +1,87 @@
+{
+	"JP": {
+		"title_id": "000400000013F000",
+		"eshop_id": "50010000023017",
+		"product_code": "CTR-N-JULJ",
+		"name": "スター★シリーズ:3D サッカー",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 1307,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f9d5a4b52f263644ff07c6a0b0ae99c7c777818efdf1fccd4f16c78d96f81c04.jpg",
+		"data_size": "35208084",
+		"description": "2種類の操作方法で、サッカーゲームの経験者から初心者まで手軽に遊べるゲームです。 32ヶ国のチームと、Miiを使った、オリジナルチームで遊べます。 全てのチームの中から、世界一を目指しましょう! ローカルプレイや、ダウンロードプレイなどの対戦で、みんなで遊ぶこともできます。 ゲームモードは全部で6つ。 ・ワールドカップ:1つのチームを選び、決勝トーナメントを勝ち抜きます。 ・エキシビジョン:ランダムで選出されたチームと対戦します。 ・トレーニング:シュートやドリブルなど練習ができます。 ・マルチプレイ:ローカルプレイやダウンロードプレイを使って、対戦を楽しめます。 ・コントロール:ゲーム中の操作方法が確認できます。 ・チーム編集:Miiを使ってオリジナルチームを作ります。チームユニフォームの編集も可能です。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-06-11",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f4b1146689206b09942592e9c44276f82ba6c74b3e586e775f6063a5635e9996.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6bc816a8230891abde83a9bb837cb15137e76ee1ac17e91a5e47badb2fa51dbf.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ee25214cfb7d8f7a7a20c5beb1b77204907fad01eccf7bc77f1bdb34767de3fb.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9510ad6079867de9482875ac33835729daca79bc0423df502a030da78a68060b.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a35cf53bbdf6a6aa8e43f49aa8c038e8a8dea959b5653b5257ba0bbdf5fbb354.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ea98a082001be1cafb730cb0ab0713268ae166ce25c9846bd48cc150d439494c.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9d2757088fee82fd2c0ca6be8e9cb7dca6dd4dc40e47ae954eeb5c8fef8aacde.jpg",
+				"name": "スター★シリーズ:3D サッカー 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0a00d6a2ff4f037ef696ee5955c9095c87e0bcd5ba85c15b5bceef44437cd7a0.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "94"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7840c12b144b9fbd81eee294f3e1f09e2c0e6b3d1d320ff1396537cc2a77ed93.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "94"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/156a63fa48d9279b07b7e1c655b07b15bea55014ec7480cdb7202cf6ca82c7b8.jpg",
+				"name": "スター★シリーズ:3D サッカー プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0aa80a55fc4983196a762515b32a5ad0ee2dfd4e78cf0d92a71d9128a4d2974e.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0bbbbc936ced098666745df7fd2870d14fef2fe9e54dc4dbf36b942adf6e7daf.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "52"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,111 @@
+{
+	"JP": {
+		"title_id": "00040000000CF900",
+		"eshop_id": "50010000022895",
+		"product_code": "CTR-N-BPCJ",
+		"name": "ポケモンアートアカデミー",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/61c8d489b216b0adedebe8db87ca2d1c6d9989bd896e96342e2804bcc9112f8b.jpg",
+		"data_size": "334568292",
+		"description": "ポケモンのイラストの描き方を教える学校「ポケモンアートアカデミー」に入り、ポケモンの上手な描き方を学べます。簡単な形から複雑な構図まで、ステップごとのレッスンでポケモンを描くためのコツを学べます。豊富な画材で自由に絵を描くフリーペイントモードもあります。",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-06-19",
+				"retail": "2014-06-19"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d545c0eac1a741848adcd6606d6fe718280121547cfa57d8038d4ef36fa35ea9.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/fbad56d41ccb45ccb1c7fc5c258f868f7511da8df941732efc0971981d3dd872.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ccc4c7f5c4647a40ad8187dc49d0bb15f719bd4d9b6c3b6accf6e0306f9784df.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2681b5bcd62e32b924e41d49a89cac9f18191460b8689d8945541879247195f6.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/00c976e2649ba2d294830eae61b9276b02cba7477d67bb57fd972525ab36cf8e.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/299d672fdefed6fe5f7171941f8fcec46370275a511bcbd737d26333df69c038.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/66f607277c900796f99df49707b961767eb601a1f458ede5fb43adeee369f086.jpg",
+				"name": "ポケモンアートアカデミー 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c98bbf4bed707b58da6467a422867fa9afde98023e5b4feb6b20ddcfdad421a7.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "288"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fd751ca48e7999acd0961e91b2b181185064342272bbe5926d3d64adf12e3204.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "288"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/15b8e3a5b31929bca9f5f32fbbf97ba792bc429666087e2ef68237c633d4d676.jpg",
+				"name": "ポケモンアートアカデミー イベルタルを描いてみました",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/26739ccacf6074e9f5d3c5ccdd1bfff483dd2be683fff8f0dd0402ac757ebd66.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "113"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8ed23240fa01bff9d46385b162116ab6b8f28b4942476780bb65ac5be6c8f9f8.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "113"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/48158589dd42291919e90eed38a5eec4cae3412b4e80f18f979a6226a234dce9.jpg",
+				"name": "ポケモンアートアカデミー ゼルネアスを描いてみました",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c9bfac6d5d049b15c8a961d857efb179892530a67575be32ebb228bde2d45f86.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "122"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c820d59f86fc4b75bf2bae4bfd4cc1717f97ba4aa4e4643323e39bfbf67dfdb9.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "122"
+					}
+				]
+			}
+		]
+	}
+}

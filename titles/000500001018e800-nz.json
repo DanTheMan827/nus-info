@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001018E800",
+	"eshop_id": "20010000017447",
+	"product_code": "WUP-N-PBTP",
+	"name": "Megaman™ & Bass",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 39,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9b3203c190e7194c6f8862ebfc30841cc0903c06e63498c18c66df897692c993.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3e84f733fb32bd552a70bee70aef9c34d9c8974eb1f18eaef3932b765be2e03f.jpg",
+	"data_size": "83263628",
+	"description": "Mega Man and his nemesis Bass put old rivalries aside and team up, to take down a new threat. King, a robot built by Dr. Wily, has now turned on its creator and plans to build its own indestructible robot army. Play as either Mega Man or Bass, each with their own unique skills like Mega Man’s charge shots or Bass’s multi-directional firing. Traverse treacherous terrain, defeat new Robot Masters, and hunt down hidden CDs that unlock data about your favourite characters from the Mega Man universe.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-08-14",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/4a687ab4fff8f2b8064b9b53536e0e27a1a0a55985204d9e9b997d7d6541560d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4a6a40ecca8a9c888d5ba08f3f8a7c0b0d1444ac5591c833081b67ab4789c3ab.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/04aa1779aeb39faa2619badf9d1e8eda0add852b24e80a2894c0817299f73557.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0336a19361524f515c30b147e405b067b11f450dfacfe83694f8bc251cf4b700.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c5cef73401581518703ef80f52af396162a86c7070004b9ffc0d8e0ce425c7cb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/fb10c5b165dc5ad365067752ceec67414ed64e8936927bc39366a06880d476a5.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e9ecc7d8d817579d883d02f3a514f0903b3fe52d87300dae39fdfe63152d5988.jpg",
+			"name": "Megaman & Bass™: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/eef270696e58fb828f42672fa62dd06e37e4b8c0e64337b271a454ee33f8fa83.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "62"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/193d2f742a184401d55547f542709a876a42ea006c2c7330a99686b7eb151a9b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "62"
+				}
+			]
+		}
+	]
+}

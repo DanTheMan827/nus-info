@@ -1,0 +1,53 @@
+{
+	"title_id": "000500001014A800",
+	"eshop_id": "20010000002984",
+	"product_code": "WUP-N-FBRE",
+	"name": "Donkey Kong 3",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d0c7e8f245be0980aae3801a9bb53ef889c8e6d9ea4f65be56f0e2fddc52a0e6.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f9d07d15e6ea2f5be64b2b432e9a15f80398a44c383b6258ac436446af0a040e.jpg",
+	"data_size": "36503692",
+	"description": "Basado en el tercer juego de la enormemente exitosa serie de arcade, Donkey Kong 3 presenta a Stanley, un técnico plaguicida que trata desesperadamente de proteger las flores de su invernadero de los ataques de Donkey Kong. Armado tan solo con una lata de insecticida, Stanley deberá hacer que Donkey Kong suba por las vigas del invernadero hasta salir de la pantalla para llegar a la siguiente ronda. Naturalmente, Donkey Kong no se verá dispuesto a abandonar su sitio sin luchar, por lo que mandará oleada tras oleada de abejas, insectos y otras criaturas hacia Stanley. Este no solo tendrá que repelerlos para salvar sus flores, sino que además deberá esquivar los proyectiles que lanza el propio Donkey Kong. Si Stanley es suficientemente talentoso, podrá conseguir una lata de aerosol potente para hacer que Donkey Kong suba más deprisa. ¡Todo resulta en un divertidísimo juego del que todos podrán disfrutar!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-09-26",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/4855a50d2e77eba64342428c841ece8e639544809d0177f881358c87ce048e7b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6ccd9670deae150e8e1202cdc2f3455173fe0520b89d790dd211e535f38197cd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0fa08c4b3e14b44116caf4f8151354bfc97e6cf39bd6a696c3495d5697abf8f0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5d04eefbaa6570857b251f1492724190ddaeacd6124300bca4ed77a10995dd63.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/448581da509d83b73facd686d09bac44d6925a2e0f6bc18ff25f319f98035eda.jpg",
+			"name": "Avance para lanzamiento Donkey Kong™ 3",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4cf06e9daad6bdc83a740354f9cd883068af21dc9180314b169895b8771e67d3.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/653e9de94bc1cce492080b9f654ec4864b349698f813d3d434aba0d0668e6ae7.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				}
+			]
+		}
+	]
+}

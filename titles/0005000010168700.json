@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010168700",
+		"eshop_id": "20010000009966",
+		"product_code": "WUP-N-MNGJ",
+		"name": "魂斗羅 ",
+		"platform": 167,
+		"platform_device": "WUP",
+		"publisher": 149,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5f3b1656f0d39fbb09dfeb494789c0df1d0129b0d79748977426e842af41fe88.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/fdb27998e4cd488d35253983478d0873bf02d2d55d44f55c205a6448991974d9.jpg",
+		"data_size": "78839948",
+		"description": "西暦2631年、最新鋭自動防御システムを装備した地球海兵隊司令部のレーダーが地球に異常接近しつつある小型の隕石をキャッチした。 まもなく隕石はニュージーランド沖合北東20km地点のガルガ諸島に墜落したが、行方不明となった。 その隕石が異星侵略者(エイリアン)であり、また人類滅亡計画開始の予告であったことを解明した地球海兵隊司令部は海兵隊所属の「魂斗羅」に異星侵略者壊滅の任務を命令する。 「魂斗羅(コントラ)」とは、熱き斗魂(とうこん)を生まれながらにもったゲリラ戦術の達人に与えられる呼び名である……。 本作品は1987年発売の同名アーケードアクションゲームの移植作。迫り来る謎の侵略者に「魂斗羅」の呼び名を持つ海兵隊が立ち向かいます。 家庭用向けに加えられた大幅なアレンジと特徴的な3D画面の再現により、日本のみならず海外でも大ヒットした作品です。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-10-15",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/dcd4914d188065aa6f331d12824a9ab7a51c4b42c048ea463865c887c5ff5a58.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/bd5b3e6e99734a49bf29f24857afa3d3044548ad052cb63ffbdb032b52259d46.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/36de88d2abc1ce7e6dc4b6ffb060352387b0688a33a34c00fb12ba45ae1a7cbb.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/045c0ef0116d4fa0d5c2ca93cfdc89eb10b8615ca8c0a8f6cce1f47928728c60.jpg",
+				"name": "魂斗羅 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0f440de6ec9b0bd05a46cc3e4b12cf97c23072081641e27a3e329ff503c6bc5a.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "46"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3c8e2ebd9634d48afcdb37f057e596a5fccd960ef3166665c1c9130244792bdc.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "46"
+					}
+				]
+			}
+		]
+	}
+}

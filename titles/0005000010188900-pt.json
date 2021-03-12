@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010188900",
+	"eshop_id": "20010000015467",
+	"product_code": "WUP-N-PBRP",
+	"name": "Megaman Battle Network 3 Blue",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 39,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ecb1402a061dbaf7226fd14baecf77d3ceeb05e8b73bd78ccb57be4f4a3e7e0a.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/67f55d66cb2898b3e4dd392dcb7429c7a28c03ff8f98f935a9802a6b211fc9b3.jpg",
+	"data_size": "93487244",
+	"description": "Junta-te ao heróico Lan e ao seu companheiro virtual, Mega Man.EXE, para uma aventura no ciberespaço. O duo entra num torneiro NetBattle onde acaba por descobrir os planos de uma organização malvada para assumir o controlo da rede. Parte RPG, parte jogo de estratégia, Megaman Battle Network 3 permite-te guiares o Mega Man através de arenas de batalha virtuais, derrotar inimigos e melhorar as suas habilidades. A versão Blue tem Giga Class Chips especiais exclusivos. Cada versão tem as suas personagens, inimigos e surpresas únicas!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-06-11",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/ea267c75f3d3b08f3c5cf8512fb9a10ae7a2419ad4357a4dcdee02e48748d922.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6071f19050e6ff533dba7eb1b8eb64253e5d9cbd723e3be048fb4c473ef6b5b1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e0a22e886db7d9dc05d145bdf2e2fda0e3f6b92b2c4ae1e7fef19b724c96f7d8.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/720347bea2448d67f5cd919a8ce4406903d336a080128b6eb89abb655f52d365.jpg",
+			"name": "Megaman Battle Network 3 Blue: Vídeo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5dd90f9b7dadb4a5547face86d2d118c51a93e52d7067a663546d2b2941190e0.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "53"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fe4aef96946e544a05ddca3037cf249863bfa56b8e6139c22abdb230237392b8.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "53"
+				}
+			]
+		}
+	]
+}

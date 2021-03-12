@@ -1,0 +1,85 @@
+{
+	"title_id": "00040000000D8F00",
+	"eshop_id": "50010000014712",
+	"product_code": "CTR-N-AGWJ",
+	"name": "まめゴマ はっぴー!スイーツファーム",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 367,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5d4825e1ce35022fa8366d32b0298e833e3dda996564870881a0fffca17fd183.jpg",
+	"data_size": "134597476",
+	"description": "ゲームの舞台は、まめゴマたちがのんびりと暮らす「スイーツ王国」。平和なこの国が、いたずら悪魔ごまでびのイタズラで大ピンチに! プレイヤーはパティシエまめゴマになって、魔法が使えなくなってしまったどじっこ天使まめじぇるに得意のスイーツ作りで協力して、王国の平和をとり戻すために頑張ります! ●あつめて! つくって! おかしな毎日! 王国を救うには、まめじぇるの失った魔力を復活させることが必要。そのためには、スイーツを作ってみんなの笑顔＝スマイルハートを集めなければいけません。フィールドを歩き回ったり、畑で育てたりして、材料を集めましょう! とっておきのスイーツを作ってあげると、「スマイルハート」が集まっていきます! ●お楽しみ要素も盛りだくさん! フィールドで集めた宝石をアクセサリーに交換すれば、いろいろなオシャレを楽しめます! ARカードを使って、かわいいデコ写真を作ることもできます!",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2015-03-05",
+			"retail": "2013-07-04"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/91bbddf92a062ebc1851d68f8e4293569e0c2272800c80c442f19f1827f4dbf0.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ff4a845d20ed4ab0e2623a5854b5b935f6e4d4120e7c4cfea8e53ebf41d84b96.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/fb1e2ca252641c61966ce6211ea01c648068ce949d4687e4cebd7d7bae3da385.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/839bb06816a9e6db99de5b683902527948a18db243872a91f69c2ea582558a62.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/86bb1ed5be848bdeb03439a3f689df0f2369f24f80bd643444aa6d45feeed1e1.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f7dd59b6f3c25c27c952f28e6350feeecd87ca4f6fb6a7846ae9eae661106f73.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0961c03ee0cfae1b90e3474d1a4d4123e6ff7fff7888e0f877ddd86284e29025.jpg",
+			"name": "まめゴマ はっぴー!スイーツファーム 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6deaf19d4750ce47ba7810d891f758007950f11756e98360371da49b7bb71497.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "179"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/38a50e8d0314999426df3441a362b8fb97a279226eddf839e4bbbda072d74ccd.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "179"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f54e122cd63ee6c48cc6a0c7f0a620b92da4d6842c8bacf1b16b8dc78eac8485.jpg",
+			"name": "まめゴマ はっぴー!スイーツファーム TVCM",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7d1ed40683ca1668228b8781298077087d2542bf0fff4088c81930532c3cf0bd.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/746f46e8b5365fda8cb347d7d4acee0791252f4f2ec1381970c96615c45a97f4.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				}
+			]
+		}
+	]
+}

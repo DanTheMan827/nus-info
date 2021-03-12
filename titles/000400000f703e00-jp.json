@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000F703E00",
+	"eshop_id": "50010000040983",
+	"product_code": "KTR-N-UAYJ",
+	"name": "ファイナルファイト",
+	"platform": 1004,
+	"platform_device": "CTR",
+	"publisher": 39,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f7f067ab8a87d8746d119d9fc6c3364f0f8e048589b9834d16cf711da69f5946.jpg",
+	"data_size": "4053860",
+	"description": "このソフトは、1990年に発売されたスーパーファミコン用のアクションゲームです。 犯罪都市メトロシティの市長ハガーは、正義をもたらすため暴力集団「マッドギア」に圧力をかけますが、その報復として娘のジェシカが誘拐されてしまいます。ハガーはジェシカの恋人コーディーとともにジェシカ救出に向かいます。 2つのボタンと十字ボタンの組み合わせによって、多彩な技が繰り出せます。多数の敵に囲まれないために敵を片側にまとめてしまえば、効率よく戦うことができます。ステージに置いてあるドラム缶などを壊すと、武器や食べ物などさまざまなアイテムが出現します。うまく使って有利に戦いを進めてください。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-08-09",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f92834349fcacf9fdc6ed7d7355793886e83278ee1a3a1e7e3c4c102e6d57bcc.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/4b7ad9cf7d684105f4820ab82775f89ed6518d3a885762eb7f3cf42aaac4baac.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c161b19ab9b1199fc58fc3f6c870ba9a17336308cf9c63368112915d1467db65.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/45209e8660e1af7d6bb2f9047089966fa1f0f295a8bb282963f8651468a4eeda.jpg",
+			"name": "ファイナルファイト プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/223ea657cee00f76f854d8ae46799bc0b9781378448319071c067e041b351544.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "48"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/09c6e14805058725d55f7dbab38a7524bd8c6d4aacb869c6efc066672a37b0b4.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "48"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "00040000001B6100",
+		"eshop_id": "50010000042237",
+		"product_code": "CTR-N-KL8J",
+		"name": "プランテラ ガーデンライフ",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 1292,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c00ebb18356cfa53c3593334792c63876d5e7a406479413d9dd7d3d719dbc532.jpg",
+		"data_size": "14912356",
+		"description": "「プランテラ」の世界で、「庭」を育てましょう。「牛」「豚」「羊」や「めんどり」などの動物たちと一緒に、「ニンジン」「かぼちゃ」「ブルーベリー」や「梨」などの野菜や果物を栽培することで、コインが手に入ります。そのコインで新しい動物や植物と交換できます。また、レベルに合わせて、入手できる動物や植物が増えたり、「庭」が大きく広がっていきます。ずる賢い「カササギ鳥」や「ウサギ」「キツネ」「オオカミ」から、動植物たちを守り、あなただけの理想の「庭」を作りましょう！",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2017-02-01",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/264a179cdb51b7ded551fcbd6292aececf2d5a28b46967b3755ee77ccde39352.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/910ac84a85d3e6cf33a3b7ab06b3274043099532f87f782addfa7a8a90c01df3.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/698ad10b48b994bfd34055bdbcc1cdd2435fb28cdd7ed3839d39b4819c9a5be9.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f1b00ec013a0e7b6d872a5158fa931e822415c16e526924209ca4f48519a69ac.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e9e923d57b458317631f6b74bfc460f168061c0af55aebfd768c03e884eef7a5.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1ee0d4d8ae4ef1a6f32aef2ad70d7efaa43b5ba2b993f3be77cfa5b12671aae4.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6a07fec0df65ae33d67091b2d1092c0d770b753e73fe2b343b2df140de5560a2.jpg",
+				"name": "プランテラ ガーデンライフ 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/da6d65df39ffaab5cd8c41cb1fbace40fd20498c4e8f1170bcb1ef15a2138d59.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "98"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0f93da558263b297de0b1653e6d09f142e9863baf49cb8f3c52dc039b3f5d78d.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "98"
+					}
+				]
+			}
+		]
+	}
+}

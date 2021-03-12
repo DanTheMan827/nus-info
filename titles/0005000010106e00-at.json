@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010106E00",
+	"eshop_id": "20010000001126",
+	"product_code": "WUP-N-FAAP",
+	"name": "Super Mario Bros.™",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/185436337661852e293d4e38a9aea8417537a85c4683000453056e16c8708b2f.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9e4a840952d48b8caf31d8fef606772926cc0ffb238cdac2c3a4c613f728691b.jpg",
+	"data_size": "36569228",
+	"description": "Seit mehr als 25 Jahren erobert die Super Mario-Serie die Hitlisten und gewinnt die Herzen der Fans weltweit! Jetzt kannst du das Original, welches Mario zu seiner außerordentlichen Bekanntheit verholfen hat, entdecken – oder wiederentdecken. Renne und springe mit Mario oder Luigi durch Höhlen und Festungen, über Plattformen und in Röhren hinein. Und stelle dich schließlich Bowser, um die geliebte Prinzessin Peach zu retten. Es mag vielleicht mehr als ein Vierteljahrhundert alt sein, aber Super Mario Bros. verzaubert heute noch wie früher! Wenn du diesen Titel bereits auf deiner Wii™ erworben hast, führe einen System-Transfer von deiner Wii auf deine Wii U™ durch, um ein Upgrade-Sonderangebot zu erhalten. Hierbei handelt es sich um die US-Version des Spiels.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-09-12",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/3f90cbca25ea3f7b41efa75ce53485f5aa033e7881036a1d6cc4bdfef909abf9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8a60de6c36d30f3d3f9c4716369d004c5c5eb0f479c4c82e68e8298506f8692e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/414ae9d4ee64d440f97ac746afb7545d67440965e0dbe400e235f640bd816ec0.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/84b7026d5540555d31c6a6143570a88ae503affde5f7357bc61caa7ef2e57c25.jpg",
+			"name": "Super Mario Bros.™: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3f519ab335c8ed51bcab6cf68f9838ffda423d1642de86afcf29afec9ec1ad67.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "59"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b25bb40ff29a5dac8d7fc7921414c7746084f055bb4227cf28f59e7c155f0993.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "59"
+				}
+			]
+		}
+	]
+}

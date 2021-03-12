@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010168D00",
+	"eshop_id": "20010000006086",
+	"product_code": "WUP-P-ALHP",
+	"name": "LEGO® Lo Hobbit",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 1004,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b1a64362d9cf64dc2f93e26cffaaa369c4859346a99a0d21b2530bdf35835553.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4486b1097fc833879823a129745db2079d8e88433aa36482df4a263f618cbac8.jpg",
+	"data_size": "7645135628",
+	"description": "Il gioco interattivo di LEGO Lo Hobbit permette ai giocatori di muoversi all’interno delle loro scene preferite tratte direttamente dai film, e segue l'Hobbit Bilbo Baggins reclutato da Gandalf per aiutare Thorin Scudo di Quercia e la sua compagnia di Nani. Bilbo lascia le comodità della Contea e intraprende così un viaggio attraverso la Terra di Mezzo per aiutare i Nani a reclamare il loro perduto Regno di Erebor sulla Montagna Solitaria. Lungo la strada, incontrerà famelici Trolls, orchi pericolosi e, naturalmente, Gollum e il suo prezioso anello. I giocatori potranno utilizzare e combinare le abilità uniche dei nani - spesso con risultati esilaranti - per risolvere le più diverse missioni di qualsiasi altro videogioco LEGO pubblicato ad oggi.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2014-04-11",
+			"retail": "2014-04-11"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/41cfc80f16e31727c4ee49c56e11a0759cd8e894fe4b0cf4c1d5001db374f604.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2f90e02a9376d1407f3890425f38b32d91f80077bbc84fb5c986ea24c49dc284.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/fd6db69cf41db48a420c0740405fbc6b65c07d055b61c2de78fee22fd96eb4eb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/40dce780a6e61928291f7de93b138f0d28250a5490ddbd021d33c7146e193b61.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0b4dd556d46bde82eb3888344fcb6b220b86f3df22d1b844b3610d1867e17416.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2b78c4ff9136d0fb0540765cf8513e7eb195bda9d38206cb251bda73379639b0.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d7bf6e60c76085ad72e1d3c8d2417255f4d1ca63150dab95342a9493e1916c71.jpg",
+			"name": "LEGO Lo Hobbit",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/86174e71e9f4cecbde9146823b82b38bca8ea777e75968ab4393ea3beed486ea.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "98"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9f6dad5fbd0aecdee6f52f74caef0227c78f55b898700f58e4b2f46677317ea6.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "98"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001016D500",
+	"eshop_id": "20010000008506",
+	"product_code": "WUP-P-WCTP",
+	"name": "Super Toy Cars",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1272,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/24c124c7fe72ff4a34d374f4f8774eee4c1eecf817466b6d6c1b9de142ac2f12.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/898d2197e6083babd69c0a22793f392b8707952a1e314e022be8558405176f87.jpg",
+	"data_size": "539492512",
+	"description": "Super Toy Cars è un gioco di corse arcade, che comprende elementi di combattimento in circuiti costruiti con oggetti di uso quotidiano. Gareggia in favolose macchine in miniatura e utilizza power-ups che possono essere trovati lungo il circuito per distruggere i nemici e raggiungere la meta per primo. Colleziona tutte le macchine e gli aggiornamenti per rimanere competitivo, mentre procedi nella modalità carriera. O semplicemente scegli la corsa istantanea e gioca contro la CPU o fino a 3 amici. Ci sono 16 diverse macchine, ognuna con le proprie caratteristiche di maneggevolezza. È possibile sperimentare e usare quelle che meglio si adattano al tuo stile di guida e i vari ostacoli che troverai nei 12 circuiti. È anche possibile utilizzare macchine diverse a seconda del tipo di evento, dato che nella modalità carriera si possono trovare 48 eventi, ma non tutti sono corse! Super Toy Cars è un gioco pieno di opzioni e modalità, ma soprattutto è stato sviluppato per essere divertente da giocare e da correre, sia da solo che con gli amici.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-07-24",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/deb4df52935036013cb804c9df2098d35133bec59ef370eaa107d54231ac05dd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/378be79ceb173318df85ef0286854f075833b62b60d325ed77228c363874cd0d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4dcaf705cc000b63356c37d0cda3ced997faa8ef3ef4d68bef936e472654486f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d0b1ffd0c2e53244ff401e738d2d89597a0db9cf0b280c98bc0e25926e2b74f7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5f6e9e628d367320772110d299eb071e8a007f2903b6947acea07a25d32b9b6e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/71f37da891611cdd1f6ea0e07ced0a5b973f845f5f63347fac2798dec0fd747f.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ae0a23a4e464cdcf4db126017ca140d107cad514acfece5b738b98d3fa3dfceb.jpg",
+			"name": "Super Toy Cars: Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ed701da241dcde37457572ec0541118bab96ca1664caa72996f319f0c6ff3d87.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "48"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0782c5c074b3f382be301134e198dcb484ce06b4930691903543e5b71a69c082.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "48"
+				}
+			]
+		}
+	]
+}

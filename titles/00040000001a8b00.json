@@ -1,0 +1,87 @@
+{
+	"JP": {
+		"title_id": "00040000001A8B00",
+		"eshop_id": "50010000043416",
+		"product_code": "CTR-N-AJ8J",
+		"name": "カービィ バトルデラックス!",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a43b64f7eff61aacf071d5309f29afa837080d1a37e08a3746c5652a479205c6.jpg",
+		"data_size": "0",
+		"description": "カービィの対戦アクションゲームがニンテンドー3DSに登場。 今回のカービィが戦う相手は……なんとカービィ自身!? ときにリンゴを奪い合ったり、ときに巨大ロボットと戦ったり……。個性豊かなコピー能力をフルに使いこなして、最強カービィの称号を掴み取れ! 【ひとりでも】 ひとりでじっくり遊べるストーリーモードを収録。主人公のカービィが、デデデ大王の開催するバトルグランプリに挑戦する物語が楽しめます。 【みんなでも】 ニンテンドー3DSを持ち寄れば、1本のソフトで最大4人まで遊べるダウンロードプレイに対応しています。 【全国のライバルとも】 インターネットに繋げば、全国のライバルと戦ってレーティングを競う、より競技性の高いランクマッチに挑めます。",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2017-11-30",
+				"retail": "2017-11-30"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f3f5ec32a7bb342b190b45419fad49d0e01a5413d4315b5045c78520a58331c6.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a7841969ee27e7bfea21675b54c914a075502c973ac9d13208d3d899c47d0c8f.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f0d047ab3bce6c0057eb7a2f79aa8fdeeb1dfe8bf393c6ce2c2cb12616ba82fb.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f540cc4afaf209d8d4f31a5bff3cabb573a19b0f608dc723fcb58813ff507545.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ac26286bb43d0741b3402c34151fe6ba8831a6a95c5a61d6c462d92550642abf.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/98e98c79356e15193ca4936bb0e3974a04a280ac298cb305563fdfd732b74d25.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e4ce904cf0691161717fe57f797ff425d75113668770f4c5e067162c3ec8dac4.jpg",
+				"name": "カービィ バトルデラックス! 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6d32302610173f6585f8d640a9051ac4b94834e6c447829af6e149de86066e64.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "384"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/21ccd1946296e9b0740ff36ac2db83b72d933300b10502caaeef6c9646a51ee3.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "384"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1dad3f389bff5acb4d09c56be5a433007111fb59864b17243a36be0ea44291dc.jpg",
+				"name": "カービィ バトルデラックス! [Nintendo Direct 2017.9.14]",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f85261347d7ff316d680b0ac33df03446ebdc1efb94fa91ffeb16e8b469dd526.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "58"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b3d826cb8dd1563ddadcf55fe2ad606dbe88d5d728ceb03683e8358ef59ec856.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "58"
+					}
+				]
+			}
+		]
+	}
+}

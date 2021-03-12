@@ -1,0 +1,54 @@
+{
+	"title_id": "0005000010174E00",
+	"eshop_id": "20010000009590",
+	"product_code": "WUP-N-JCNE",
+	"name": "MEGA MAN™ 7",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 39,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/546fd6834d30ae7ffca186d5ec25dd40bd0676a8f9f4e84dba05429f351d3efd.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4bf535004af033ccff32da04b948c24064e8c95d5662d3565bf72096ad0e5cfc.jpg",
+	"data_size": "43778208",
+	"description": "Dr. Wily knew that one day his plans would fail him. But as the world cheered at his capture, the nefarious scientist stowed four robots in his lab, set to activate after six months of no communication from their master. Now the robots have started a rampage in the city, which serves as the perfect distraction for Dr. Wily to make his getaway. But Mega Man and his trusty sidekick, Rush, are hot on his trail...and so are Bass and Treble? Who are these mysterious companions? Jump, power up, and blast your way through robotic enemies, and send Dr. Wily back to prison where he belongs!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-09-12",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/7f664aaf0c67a2d40d3a936a2acf56adf263a9a8b9899c2a916ca9f7f0fd2c78.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6502a558c88c316ae242cc308903dfc675ab06724bbc384bb748152839332730.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7b13421788fd94bab6910c432051fdaa8c7067dd605192d4178f8e4a3c5cdf36.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/01ddd914e8a08c6844f30477abacd3bbbffe452501a965e63e8e01c26e823d24.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a7cf5fda0a87f69d52368e1c65d2fe96695b4b565df776832694e595077e41b3.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/45e1a175bdadd8cabc40cc67d01d3acdd5df19de97957faefaa53a048103ef16.jpg",
+			"name": "MEGA MAN™ 7 Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2d092d046037afd149c082cad1554a8b7013df673767841fefa6365a2ebe872f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "97"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b60bd843d5ec9c535ad8477a8227f24be71e9b106a0100fcbeae8160b0048029.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "97"
+				}
+			]
+		}
+	]
+}

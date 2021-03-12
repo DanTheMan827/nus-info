@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101F4000",
+	"eshop_id": "20010000022088",
+	"product_code": "WUP-P-AENP",
+	"name": "Super Meat Boy",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1589,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2257096ad3c744cee08533538ae0b007c4383bc36f597493b39bafd70fe529c3.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/14fdb87992f1315c2efd2803816835bf383a7e4a7c65bb1cb1c05f06a68cbd2a.jpg",
+	"data_size": "245104780",
+	"description": "Super Meat Boy is een loodzware platformer waarin jij een levend blokje vlees bent dat zijn vriendinnetje (dat uit verband bestaat) uit de klauwen van een slechte, kostuumdragende foetus in een pot moet redden. Onze vlezige held springt en rent van muren, over velden vol cirkelzagen, door instortende grotten en massa's vieze naalden om de dame in nood te kunnen redden. Super Meat Boy bevat de oldschool moeilijkheidsgraad van klassieke titels en tovert ze om tot een gestroomlijnde besturing, zonder fratsen. Je kunt SMB op verschillende moeilijkheidsniveaus spelen, van moeilijk tot gruwelijk wreed, terwijl je Meat Boy door spookachtige ziekenhuizen, zoutfabrieken en zelfs de hel moet leiden. En zijn de ruim 300 singleplayerlevels nog niet genoeg? SMB bevat gelukkig ook nog epische eindgevechten, talloze geheimen om vrij te spelen, warpzones en verborgen personages.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-05-12",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/6b8f8d86be43c0846f370d3d9db0977acf4a5d04f85703181ce3123be22b37c6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9afee90684f58ccfc47887f3685b0973871dd1c61c11fd27b0774949ee04d6d2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1b1db77b53e256bd8eca6b3f169e80568def29deea2ebd5eb8fe238ffce0e768.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e175520f88f80d668a67c5c8ae02302c718c731613963c301afac7f6be2787a2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/acfcacd04bdf1771a6eb05ccbb79e2a12c0a68951be5427f20fddd0a9c9edc44.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d0f2d826ddbbb9b8ec973d71948f06c42f6492c557abe11013959176ecf00637.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/672e63759ce29f904ea168a1b36a2b617f02490a62339057ad6179fb9098641f.jpg",
+			"name": "Super Meat Boy: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/77573bc0c2123c3f77b7655c834baa9d0ce9a1763de058aa9615ea905d98ec33.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "126"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2cb4930ec6f885d2d5be49379a32789f5a981153da092849f9598ad4ceb2ad40.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "126"
+				}
+			]
+		}
+	]
+}

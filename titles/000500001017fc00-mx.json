@@ -1,0 +1,53 @@
+{
+	"title_id": "000500001017FC00",
+	"eshop_id": "20010000013371",
+	"product_code": "WUP-N-JCXE",
+	"name": "Donkey Kong Country 3: Dixie Kong's Double Trouble™",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/73908590b4247ec944c4ff053134a6a0d68f5f9fc324bf8d6d2c14b034b78454.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c95f7c870c54a545faf2c990aa728a25a7d3d3acb4b0351992ecda4dc6fc4150.jpg",
+	"data_size": "45973664",
+	"description": "¡Donkey Kong y Diddy Kong han desaparecido! Mientras Dixie Kong se comunica con el resto de la familia, queda atrapada como niñera. ¡Pero esto no la detendrá para ir en busca de su siguiente aventura! Juega como Dixie Kong o Kiddy Kong individualmente o en modo multijugador cooperativo o competitivo. Aprovecha cada una de sus habilidades únicas mientras se lanzan a la acción en más de 40 niveles. Hay objetos coleccionables como las monedas oso que te darán acceso a los servicios de los Hermanos oso y como los pájaros plátano que le encantan a Wrinkly Kong. Además puedes llamar a Funky Kong y construir salvajes vehículos que te ayudarán a llegar a lugares que se ven fuera de alcance. Vale la pena mencionar que hay animales amigos dispuestos a pelear a tu lado. El enfrentamiento final se llevará a cabo en un laboratorio en la cumbre de un precipicio al final del mundo. Las cosas se pueden poner muy feas ¡así que es mejor que te prepares!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-02-26",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/8dde6a2b2a8068cc2a3ff0b79b17e4f65fe68a89188988373caab553c4d7c91a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e2ae4e7929b5cbba35487eb27ed2c59aea584f5053b7d4e42e527dce7007a4bd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/cfe1ecc698ed5dfdd37fac0189070bca8728ad92d5dc147de040761c4d65a347.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e9d7808e27a22252fbc8d5c5b3c921989ba56043a8d6d5b43e932f036cb3ca89.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ebb05a216d09716464ebdf23e50cb83ccc45a3f586af31d895019ef646974415.jpg",
+			"name": "Donkey Kong Swings onto the Virtual Console™ Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/53110a398481b541dcb7a25b10eb95d7dc38f6e42bccd094ae459e5b4de5a92c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "40"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ebf4f7b150ef91568f4eaba1840a90b31375ca340128a41c13d3317aa5174f88.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "40"
+				}
+			]
+		}
+	]
+}

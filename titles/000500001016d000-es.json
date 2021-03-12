@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001016D000",
+	"eshop_id": "20010000006946",
+	"product_code": "WUP-N-PAMP",
+	"name": "Mr. Driller™2",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 27,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9f27091824b8fa4a755e296260be4cda01e2761afb20c5f60d4c7bffaed41af0.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a08f533f81550b8193b2bdfe7ee351cfd18fff7db47a4f29b67407e816b116ea.jpg",
+	"data_size": "93552760",
+	"description": "Una montaña de misteriosos bloques de colores amenaza con sepultar el planeta. Solo el heroico Mr. Driller puede salvarlo... ¿o quizá no? ¡Que entre en escena Anna Hottenmayer, una minera rival! Métete en la piel de Mr. Driller o de Anna, y perfora, esquiva los bloques que vayan cayendo y consigue cápsulas de oxígeno para mantenerte con vida. Pon a prueba tus habilidades de excavación en los tres modos disponibles: Mission Driller, Endless Driller y Time Attack Driller. ",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-05-15",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/a87596efc54098ef8f63a079b8c515cad7ae0ce6071b4f59158b0c64cb49c282.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/76c30af5ebb4c195b5b9c7b1babec64701c184ab5fd1682162f0e74fdfc00509.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d9c52bb50510ed68cbefa96c053da786bc3986f1d2fcdf7d7e829c462709b33c.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4416c7a343a73771d4e98364caf7d414a44f16031bf07b63c0fcd902c6222ba7.jpg",
+			"name": "Mr. Driller™2: Vídeo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6ebbc8895969c8e75fc9885cdf608da714ce9df9b4e15da06ca5f2de066a222a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "37"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/688eaa4640f8ed39e1c31116f3e9a877033a44b2f4e11f3b17cfbe241066b0cd.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "37"
+				}
+			]
+		}
+	]
+}

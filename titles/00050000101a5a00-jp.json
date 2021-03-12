@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101A5A00",
+	"eshop_id": "20010000015649",
+	"product_code": "WUP-N-NAHJ",
+	"name": "テン･エイティ スノーボーディング",
+	"platform": 170,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/81872a15cdfc0e3805116a55c7209e4126ea0079a30c9b9cc931986c6107f380.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e992500a47662e7b090d15700197e132a7de0f8776c2babfae9180c9ae395a0c.jpg",
+	"data_size": "61866104",
+	"description": "このソフトは、1998年に発売されたニンテンドウ64用のアクションゲームです。 スノーボードを題材にしたゲームで、雪山の美麗なグラフィック、空中で決めるトリックの爽快感を存分に味わえます。 可能なトリックは18種類以上で、メソッドやステイルフィッシュなどの手でボードをつかむ「グラブ系」トリックや、ワンエイティ、スリーシックスティといった高速で回転する「スピン系」トリックなど、技のバリエーションは実にさまざま。空中でタイミングよくコマンドを入力すれば連続トリックも可能です。お気に入りのトリックを組み合わせ、オンリーワンのジャンプを目指しましょう。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-01-20",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/306acadfe32c665087d59fa93a0bca44a3b63a40bd24e912c71fb0cdba4656c0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/28c1186171971c6249ced7e26ae8d8c6e6ecc9c82cc3ea1a022af323a0689210.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/41c0f4ad759ebcb27e104de03f52a3e21b31a8a98830d44dc05e885b94c67f7f.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/38c40f9f173c8d1c39691dfe9ad9c1fe0a4c467334393325c3525337a5e85a93.jpg",
+			"name": "テン･エイティ スノーボーディング プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f606ce4176288428120186534aad897853b33959af385d7fef55652b2ff8a23a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "61"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/aca53d48c8ceb220cc3b05596f0c4b14898e665326de6d5e19e0ac0d5b76030d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "61"
+				}
+			]
+		}
+	]
+}

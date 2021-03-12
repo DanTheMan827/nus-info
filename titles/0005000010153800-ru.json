@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010153800",
+	"eshop_id": "20010000005684",
+	"product_code": "WUP-N-FB7P",
+	"name": "Double Dragon",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 19,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d67a6fdc47509b69fd9d9b8abca854715d3c0f25fd9973b6e4d44f7a37b2de19.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0aea2a65a5c359fc1b49c4481287a8e4bdc1be724f3bc80666e2987c7ded7a22.jpg",
+	"data_size": "36634764",
+	"description": "Double Dragon — одна из знаменитейших аркадных игр, появление которой дало толчок к развитию жанра «файтинг». Помогите герою Billy Lee спасти возлюбленную Marian, похищенную бандитами. Применяйте любое оружие, что попадется под руку, либо кулаки и ноги, которые ни разу не подводили вас в бою. Сражаясь с врагом, продвигайтесь по городу, и с каждым последующим уровнем вам откроются новые приемы. Если вы приобрели игру на Wii™, вы можете передать ее на консоль Wii U™ и получить скидку на обновление игры до версии Wii U. Эта версия игры предназначена для продажи в США.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-03-13",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/42d56c118030b3036c394f8590f5a44a19138d524ee6759d28f1e8859dc55920.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c37868013260b70e4c652afaa6878a85acde68aaeb2042fe3a8021ccce354761.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c797ab75d5619f5675ea0dfef6669dee4dd5fd77abd9a6b2c3397f33d7c2e9a6.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1afac769cb0717c5cfe526e962dccd12e915008a4278562a8881f53af222e74a.jpg",
+			"name": "Double Dragon: видео",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/77113cc349509d340ec5556e48e76391a846c77f48de406592c209873c01fb9e.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c16e3947bace8265d33802d8caaebc68992ec0b2dc0cd9a6e6f1159af57d6859.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				}
+			]
+		}
+	]
+}

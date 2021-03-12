@@ -1,0 +1,78 @@
+{
+	"JP": {
+		"title_id": "0005000010143400",
+		"eshop_id": "20010000002464",
+		"product_code": "WUP-N-BCZJ",
+		"name": "ゼルダの伝説 風のタクト HD",
+		"platform": 125,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c0963ca350c47715d693bb71816169cc500b578df5254b08d014c59910e90345.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c1dd82fdb4014e77c17d0b45a144afdcb1eabdeec12ab73499e0edcc55036bc2.jpg",
+		"data_size": "1821769968",
+		"description": "2002年にニンテンドーゲームキューブで発売された『ゼルダの伝説 風のタクト』がWii Uで生まれ変わります。フルHD解像度(1080p)で描画されたグラフィックが、世界に新たな息吹を吹き込み、広大な大海原を舞台とした物語は、Wii Uで美しく、色鮮やかに甦ります。",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2013-09-26",
+				"retail": "2013-09-26"
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/d81080e8bce46e15bcac897c6aff037dc8b76e87045381597b52d90125066471.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/33149581c438e44d2959446b8eb7d58bb17dfc72fc155fd09387b1a480824e0e.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/ba7a060cfe4420ce410becc2b1f11416272da8a16aa9e8852e6a6596306810c7.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ac60bc16877e0286c2e897a6304903b965bae780890cf66781fc55d9fc7e97c7.jpg",
+				"name": "ゼルダの伝説 風のタクト HD 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/517c55c5753fdfa4ef740404a8189efa4cf055a12e008244808183c6b3161b7c.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "266"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/07c74e8f595c4a0d4eb08622c6bb9500ef848dbfec20be1268077c389eaaf48b.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "266"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ecda4e4efa70275527bf5aa653f2487106ae08d2d6a4975ee1d92c27cd55c52c.jpg",
+				"name": "ゼルダの伝説 風のタクト HD ゲームキューブ版と比べてみました。",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7e908743e0f01b5063a733d9af9eb7a88d1bb651cf69ae6d2628b39ecf3c2c7d.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "60"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/247d4f361f42cf90441ca0780566760c7ea3bd851f2be66f662d115d932dfd37.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "60"
+					}
+				]
+			}
+		]
+	}
+}

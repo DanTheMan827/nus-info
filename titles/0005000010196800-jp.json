@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010196800",
+	"eshop_id": "20010000011911",
+	"product_code": "WUP-N-JENJ",
+	"name": "ファイヤー･ファイティング",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 1800,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/711931b3209dcad8003eb774cccefae178d7fb94ccdbcb79112ca25606f9e205.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/280309fa24af226b72542c2ddff7047d95dedbcb7eb8a809f52df2fdb32d49b5.jpg",
+	"data_size": "43253920",
+	"description": "このソフトは、1994年に発売されたスーパーファミコン用のレスキューアクションゲームです。 消防士の主人公を操作して、災害現場に取り残された被災者の救出をします。各ミッションで決められた時間内に規定人数を救出し、建物から脱出するとミッションクリアです。 ミッション開始前のミーティングで建物の構造を把握しておき、被災者がいる場所への最短ルートを見つけ、消火時間を最小限に抑えて動くことがミッションクリアにつながります。 道を切り開くために必要なアイテムは、仲間に話しかけると補給または交換することができます。アイテムを惜しまず使うことが、迅速な救出を行うコツです。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-03-29",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/da586f127fa93068d5886bbf0b66538e560af00b9fa47f92d7c0f4d710aa2757.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5119692357979649ffa66a39cf5637f2f85a05f25046d08015fdb2e9b3ec3f8d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/cf6c2b10a7aafcc52067ef3b84c50247a0730e41dddf7893821ede34ee448fcd.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fe5f3febafefdc1b2b5215489817cf5d7fea5ab82aaab29ca2577a5501a48f08.jpg",
+			"name": "ファイヤー･ファイティング プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c1cb15c2727055a81b8e26fe8c0fdbf6f568bbc49fb8a0f12f85263909725b91.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "59"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/26afc9b64bd988562ba41fcef7aa5d5cd561f89629d805825537418115a4960c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "59"
+				}
+			]
+		}
+	]
+}

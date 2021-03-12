@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000172400",
+	"eshop_id": "50010000043102",
+	"product_code": "CTR-N-QBMA",
+	"name": "ポケットモンスター 銀",
+	"platform": 22,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ded570fa9d6ff2bc350a53e4bb2dd8b94eea276c494e99526687370d389ebdf2.jpg",
+	"data_size": "8067940",
+	"description": "このソフトは、1999年に発売されたゲームボーイ用のロールプレイングゲームです。 本作は『ポケットモンスター』シリーズ2作目として発売されました。前作『ポケットモンスター 赤・緑・青・ピカチュウ』には出現しないポケモンが登場するほか、前作に登場したポケモンが異なる進化をとげたり、進化前の姿が登場したりと、さまざまな\"発見\"が待ち受ける作品となりました。 ●このソフトは、原作のゲーム内容を、拡張機能を除いてニンテンドー3DS上で再現したものです。原作とは、動作や表現などが異なる場合があります。あらかじめご了承ください。 ●このソフトでは、「まるごとバックアップ機能」と「VC中断機能」が使用できません。あらかじめご了承ください。 ●このソフトは『ポケットモンスター 銀』です。『ポケットモンスター 金』とは「ポケモンの出現率」や「出現するポケモンの種類」が異なります。 ●『金・銀』同士で通信対戦・交換ができます。 ●バーチャルコンソール版『赤・緑・青・ピカチュウ』と通信交換ができます。 ●『ポケモンバンク』『ポケムーバー』に対応します（2017年内に対応予定）。そのほかの『ポケモン』ソフトや周辺機器との通信はできません。 ※ローカル通信による交換・対戦以外の機能や周辺機器には対応していません。 ※同じ本体にあるソフトとの交換や対戦はできません。 ※ゲームボーイカラーでの『ポケットモンスター 銀』を再現しています。白黒画面表示には対応していません。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-09-22",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e0472dc29c6616ca1a93ad3956cf99975b184c901bbfef3ef97cae91e3c18ed5.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/897d0b802e1e805be156a434d87bf6b8cb0c2dbf34b522afb2d569ab96657729.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/daa1497de3eefe56b82d1676521b69c1360a65630d6aab8f9a703d669ad71501.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/38541f9bb9ac43b3bf63658cfc1ceff8791dbd5ac44f846969b46de04b221c89.jpg",
+			"name": "ポケットモンスター 金・銀 ダイジェスト映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d231f9225ca5fbcce5ea427d9c98bd64cebf91dd65ae7981baf80b58143dda9a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "260"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0cb3281b02c382331f8ae2428cdafa5fc2cd44a3e7d7e62f0133de0f7e16d0d3.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "260"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "00040000000E8800",
+	"eshop_id": "50010000014317",
+	"product_code": "CTR-N-JGCJ",
+	"name": "ガンマンストーリー",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 1212,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/522194fd5966dddf4a2ea94e1ebf5f4fcf6b6c4ba63d7bfdfddb4398d93de4ed.jpg",
+	"data_size": "32508772",
+	"description": "『ガンマンストーリー』は、ガンマンの「クライブ」を操作し、ガンを片手に、さらわれてしまった「いとしのアイツ」を助けに行く「ガンマンアクションゲーム」です。道中には、さまざまなテキとギミックが主人公のクライブを待ち受けます。 西部劇にありそうなシチュエーションと、現実世界にはありえないギミック! 反射神経を最大限に駆使し、クリアを目指せ!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-05-22",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3c6788a9d3277e52f00c380fa20253f5e9539a37cd83a4f8720799292e3fabe9.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/105605678b49514d4f9ad508acf47f515e47e7e44fda0088a59ad3153eac1fcc.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/66372184b87270c034ed96d456ff3317b66bc96e8256ba2154ab089aa14a4ab5.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/69248441938ffb79b04c41bc63ce1d6d7df5dd6ab0883fa361938deb758d72d8.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/4976a0ad0580e91022130edb828584c31c3a234f566c77cdac1a8689cdb0712c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5d890db48fc8ec46c0e774e6695265d1a47cb3fd3def544f880d7614dfa0048e.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/379a9e2a8d67b1de7a49eb4c102e73e3acadd33a60cf61902a9a9f193cbf7fa9.jpg",
+			"name": "ガンマンストーリー プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/50f6e2425c5fa9438cc1b19051483e4f6850a43a9074b8e05ed45eb7c8f245d1.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010110500",
+	"eshop_id": "20010000000106",
+	"product_code": "WUP-N-WDLE",
+	"name": "Puddle",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1699,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/777722ef3bfd1d1be20520ae155cc6c5c992414e025022250a6f6cf40584aa37.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ef18e3028f4278db4699ded945ff8244530cf67e122fe1b4120b6fb288b46d0b.jpg",
+	"data_size": "661979296",
+	"description": "Winner at the Independent Games Festival 2010, Puddle is now available on Wii U. Dive into Puddle, a game unlike any other where you have to guide a puddle of fluid by tilting the environment to the left or right! Play carefully taking friction, gravity and temperature into account, and by using the unique properties of each type of fluid (water, oil, nitroglycerin, molten lava...) in a range of original environments. Conserve as much fluid as possible when crossing a variety of obstacles such as burning passageways, carnivorous plants and electric currents! Key features: 49 levels specially re-mastered for the Nintendo Wii U! Play by using the Wii U GamePad accelerometer! Compare your score in the worldwide Leaderboard! Enter the world competition! Win as many Medals and Challenges as the best ones from the Puddle Community!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-01-31",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/161b4154b295dd8d9bd414ecaba4c98cbc717d65064894cae4a861548d9ce79b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/62f11787a708759e4aa93259b2af9162d154c73b8b79f260c5ad8bbf6659a406.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/91c0fc970dafe212fe8fbb0bd6f9f6eb6482ede9895cf81a84f7f1476e0381bb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6e8a51ea68d071c98a8a86aaa0657b5f8fc2a06a07c4c84d1ba2e562cafca771.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/87272e7eba3ca9d19a909092ee1177741e7375c8481271523cc7e7cce3d0386d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1d70577e48c0d04b92f04ff588319585c0a5049d2ac198b296665b022e5a2344.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ca952d8ce0ef9bb0c242340035594d44971a1f8d648bc1d999bcf5d85afb62eb.jpg",
+			"name": "Puddle Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/44ce3917f3d57ff358b9b939072c66c6f401086d1c29194b9a22985fc15c266e.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "94"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/724fd5918715a814a33ff9c74680b62dd17087d6924e43041089db6eb1d188a7.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "94"
+				}
+			]
+		}
+	]
+}

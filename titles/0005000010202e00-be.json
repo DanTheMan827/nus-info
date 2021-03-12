@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010202E00",
+	"eshop_id": "20010000023328",
+	"product_code": "WUP-P-BU3P",
+	"name": "360 Breakout",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1610,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7dea38fb4cfa377413bde4b8b143a6bcadb86f469d6db7edbcb9cf59aa4bbb84.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3214426a1a6b4a46976d3d06a4f8c4b51d5678b1a2fd79b58318cb60bb606619.jpg",
+	"data_size": "138248332",
+	"description": "360 Breakout est un jeu de casse briques hors du commun. Il dispose d’un mode solo, deux joueurs en coopération et deux joueurs en mode Versus. Prends en charge le mode sans téléviseur.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-08-11",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/7262d54cc4eaa4cf4ba8837f00b9bed70ea69199dcba6941365bd9d6f0ee5f1a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/63787a320d48d10c4a843905b22c4608d3d19bc1fcd64cdd2805f053e786f24f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/44e29ba4608cf5bcdffcbb58a6d3b51a6658924d14ec4b9cd767607e61f7d07d.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3e1a164422dd1eb5b11ce18261e2bcdc73ee2c0fa0bf5dd503423ed94682d5bc.jpg",
+			"name": "360 Breakout : bande-annonce",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/45b023f694a334c7ab4ee8a0044dcdd2768bf80454521ac2af3a77056821dc3b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "61"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f5b1cce983b864e86c51ce3799a2b5921921ecc3d5171350b85e98eb043525ae.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "61"
+				}
+			]
+		}
+	]
+}

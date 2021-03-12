@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000CD300",
+	"eshop_id": "50010000018753",
+	"product_code": "CTR-N-ACUE",
+	"name": "AeternoBlade",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 1220,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4a5c09bf1b4078d9de1c978a014d24388f96049d2bc0465b5c8a1478b4b4b883.jpg",
+	"data_size": "332663652",
+	"description": "Offers in-game purchases In the region of Awelsia, vengeful Freya travels with an unknown weapon called \"AeternoBlade\" to take revenge from Beladim, the Lord of the Mist who destroyed her village, Ridgerode, and killed her tribe. Her vengence is helped by Vernia, who has as much merit as Beladim. Vernia taught Freya about the ablility of AeternoBlade. Freya has to venture in many world dimensions to find how to annihilate Beladim. What is AeternoBlade? and How can Freya take revenge from Beladim? Solve tons of mysteries in her adventure!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-02-18",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/49b8dcc8ff7fb2ebfd20f623ea7f03afcde34dce430c587cab456f96e6d6b091.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/28205ff4bc484d80f0d7d9c1e3515f57d3b5494ad2cab516e3543161333a440d.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a5a15fa8ba42aad9eaa2cca2ef02ec5762e34dd448769b6aab830f99f10b6eb2.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/929d31b356f05a459fae4ca68071969a9f0d3a4d3277086fb122ac3ecf114edd.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c20febb663903194bbb17836cdfcf5d31d6c099452643a654c756a6b51097635.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/3b2a2bb6b045f72e38e723243df18707ab588aa88cc438eacff982ce8ed28aae.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/161326427568973dbc5c7ccb380e4b6fc94589240ac41ed63011496f607094a7.jpg",
+			"name": "AeternoBlade Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9ca91364ca53849c2db010c82147a12d74a79f866b0dc0b84cfd786b7ec809b6.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "108"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/19f62da15bf8aa92a6ef018abd14811f1d23a56094da4c76296e8562db96cb30.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "108"
+				}
+			]
+		}
+	]
+}

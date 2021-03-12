@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010199600",
+	"eshop_id": "20010000013927",
+	"product_code": "WUP-N-NACJ",
+	"name": "マリオストーリー",
+	"platform": 170,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/94ff03ae681f45ade295eec24b7b83e46ec121729bad5f4618e826043b3c6844.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3fa2cbd94b676c99e16de179adcf32ba97022356ebdb5c49b255234de0f4a0a7.jpg",
+	"data_size": "87425144",
+	"description": "このソフトは、2000年に発売されたニンテンドウ64用のアクションRPGです。 夜空のはるかかなたに星の国がありました。そこで7人の星の精たちによって守られていた、願いをかなえる力を持つ「スターのつえ」が、大魔王クッパに奪われてしまいます。そんな事件を知らないマリオのもとに、ピーチ姫からパーティの招待状が届きます。マリオはルイージとともにピーチ姫の待つキノコ城へと向かうのでした。強大な力を手に入れたクッパがワナをしかけているとも知らずに……。 マリオを操作してフィールドを冒険し、クッパにつかまった星の精とピーチ姫を助け出しましょう。叩くといろいろな効果が現れる「ブロック」や、中に入れる「土管」など、マリオシリーズおなじみのしかけがいっぱいです。敵とのバトルでは、タイミングよくボタンを押す「アクションコマンド」を使います。強力な攻撃や防御などさまざまな技をうまく使えば、バトルを楽にこなすことができます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-07-15",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/d4d56f37b64c3fc363cee86ce52da4e355c9c6170345aeb6e786718e52a7bc0d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/93f54958ad6574455d79831fd3ab8590beec55e1835f1869061703df5123d662.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6342a030d80c0f7cd64d66a174c8776f9a8bda226923d98e449356c5026f1bc9.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ce119905a4f9268e3c38835faa2597a2f2b7ef5a58442864d7b63127a1563fcc.jpg",
+			"name": "マリオストーリー プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/508b0d0696580af767d23f5781ec0a9c418783f57c7fd7c9c8709b721491c9d6.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "58"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/78957adcfe9836a4a7e47d02a58c25d59db1c269dc544737cc76125f160f0b2a.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "58"
+				}
+			]
+		}
+	]
+}

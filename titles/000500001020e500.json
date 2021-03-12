@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001020E500",
+		"eshop_id": "20010000026073",
+		"product_code": "WUP-N-AJMJ",
+		"name": "かいぞくポップ",
+		"platform": 124,
+		"platform_device": "WUP",
+		"publisher": 1292,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e11c7695bfedc91c98f6eec4778ef5a78b8a5ad2e5ca2e6133af07c62dab2cf6.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/2595d65ddf34d42663af5e3dd69620a648793590b9d62af75509f9814a6990cd.jpg",
+		"data_size": "150601868",
+		"description": "まるで、レトロLCDポケットゲーム機をプレイしている懐かしい感覚が味わえる！ 悪名高きバブル海賊が島の人たちをバブルに閉じ込めてしまった！ 主人公「ピートJr」は愛用のイカリを片手に、彼らを倒すために立ち上がるのだった……バブルを避けながら、愛用のイカリでバブルを次々と割って、パワーアップアイテムを集めよう。ただし、敵は常に重力を操って攻撃を仕掛けてくるので、要注意。集めたコインで、音楽とキャラに加え、ゲーム内ショップでフェイスプレート、ボタン、バックライトの購入が可能。ポケットゲームを自分好みにカスタマイズができる。 さあ、バブル割りの航海に出発だ。イカリをあげろ！",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2017-02-22",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/88d8f944c82c06bd6f6e1cf8bbcaa29b1e497c50bb55827cc5466ff0343c2c2f.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/6fdaf79d20f1b7390af43cb88c57ddbf67776c09842ed719212c6dd9b1723762.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/3e7456b2428d1220e6048791b52065dc6fd5652e77875e88b0fd4b83fe54b15a.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3a24194769c7f2284556492b42ec41e9169fef76ef96d12c24e9c8ca49a57ca2.jpg",
+				"name": "かいぞくポップ 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/44a828eb9bf7dc44649e49e5d8b79433b508cbc5201e150fe5f5f3a1fe398137.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "160"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6e35c6b1ee63a48f31c4844202053ba3aef90675572bc192db40a786eb76fef8.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "160"
+					}
+				]
+			}
+		]
+	}
+}

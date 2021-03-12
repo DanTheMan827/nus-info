@@ -1,0 +1,85 @@
+{
+	"title_id": "0004000000183600",
+	"eshop_id": "50010000039739",
+	"product_code": "CTR-N-AT3A",
+	"name": "Kirby: Planet Robobot™",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/666203ba2b464bd387bb8162ef142c0b4941c60d3f8b8e241ebda5a79d8792be.jpg",
+	"data_size": "696400788",
+	"description": "Die Haltmann OHG überfällt mit ihrer Roboter-Armee den Planeten Pop. Nur Kirby kann ihre finsteren Pläne durchkreuzen – in Kirby: Planet Robobot. Stell dich den fiesen Widersachern mit Kirbys altbekannten - sowie einigen brandneuen - Spezial-Fähigkeiten entgegen. Nutze die gegnerische Technologie gegen deine Feinde, indem du die Kontrolle über den mächtigen Robobot-Panzer übernimmst! Von der Aufregung des Hauptabenteuers kannst du dich bei lustigen Minispielen erholen: Bei Kirbys Teamjagd räumst du mit Freunden böse Bosse aus dem Weg und in Kirbys 3D Arena jagst du einen Highscore nach dem anderen. Unter amiibo.nintendo.eu findest du eine Liste kompatibler amiibo™ und aktuelle Informationen. Um amiibo auf Nintendo 3DS-, Nintendo 3DS XL- und Nintendo 2DS-Systemen zu benutzen, wird ein Nintendo 3DS-NFC-Lese-/Schreibgerät benötigt.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2016-06-10",
+			"retail": "TBD"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/60aec1a56927c50f0a1a3d509ea6affa52c8750acf22f9ffe95493a62994c84d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ad1a96b597af6141d56d07fafe751d03c466cafd254bc4e00c54ce65d4b5a6de.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d1b14f1bbe5be766c4574f7cab0d78d0cea9a6dc0700b1b160334067b52a5ed9.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e821d4383be2a8ca89d4fa8fd06c15371255c52d18c88b4467184e27c7659306.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/af3f8c935211609c341508711d38ad9945fb4ae33553c32f4ddefeba3c7999f4.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/91ae7e0b38dd55032e393e49572199723f68bc45a69abe3840c8b767858302ad.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4bfc419cdfb48e9ae096bd293a0ab6528f76241ae3cd1a13e1a185ea22c1dfb4.jpg",
+			"name": "Kirby: Planet Robobot: Robobot Rampage",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b439b385b521e5f66311c251b43767dd109a7f0ed21c1e21e23e73ded8b4732f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fa1901671d60001c4f2983fe8cf6f1723025ab8ef9d3d2808a92c81f1a9600c3.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4bfc419cdfb48e9ae096bd293a0ab6528f76241ae3cd1a13e1a185ea22c1dfb4.jpg",
+			"name": "Kirby: Planet Robobot™: Übersichtstrailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/25f59d52ff78ce3721b5efb5071e82a6d6062d42ba7751f9ce69ec0f729d616c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "178"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5010a110750ba315a185136cdf2097af5573eb740ff4a223546ec211d8efa503.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "178"
+				}
+			]
+		}
+	]
+}

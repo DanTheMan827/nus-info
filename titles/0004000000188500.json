@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000188500",
+		"eshop_id": "50010000040438",
+		"product_code": "CTR-N-KYDJ",
+		"name": "遊戯王 最強カードバトル！",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 149,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3dc5a4f94fc1b6a00faa91cc966d9244b2b4de12159b36d987f733386b99741a.jpg",
+		"data_size": "412248932",
+		"description": "遊戯王デュエルモンスターズを原作とした対戦型カードゲーム。 わかりやすい操作と迫力のモンスター3Dで誰でも遊戯王のカードバトルが楽しめます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-07-06",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a97da209b2cb64a14148b16f3d500faef36dc891f53cc202153f6c63499183cb.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/841d22db3f933c23f470151d81f46150e2d8e2cc79acc6ee6c813a822bf89a9e.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e823c3a1a41782052a0daff62c6ecf059c4818494eea8774ec1fb1e636c4587f.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7e8439abd3dce291326ea46d9831917f60c5a6beae11862b9d133fa3d3e1e9e9.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/777d2c4e7bc19bfae9478d1bff59b862dc640ad94a83fb8829e01dafe856932b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/93e475f9e11b200619217f735f9e0a3b5102ee2918850bfc46bd4bf634fd4758.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/02459e4730b12cee8567da8f31243a51565c0c1268f6aef2c90d656efe00b9e1.jpg",
+				"name": "遊戯王デュエルモンスターズ 最強カードバトル! 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4a18877f11891b7efd88139376c6d1e9abed54928468f8ca9f717c5f6c293cb2.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "73"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e5254743ee963342a4d76451d8779be00fee32bb41aff577294757a4ad742f7e.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "73"
+					}
+				]
+			}
+		]
+	}
+}

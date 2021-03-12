@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101AFC00",
+	"eshop_id": "20010000013007",
+	"product_code": "WUP-P-BPZP",
+	"name": "Puzzle Monkeys",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1428,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/154bda7c4e3722a1c8877f6a8d9c708a28201e445744d9e03ed8ec13305b906e.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/af49de0243342ea534c39094401490128241a244de4715f91458296ec3f1e1b4.jpg",
+	"data_size": "178847884",
+	"description": "¡Vive la adictiva experiencia de juego usando al máximo tu Wii U™ GamePad! Usa los botones y la pantalla táctil de tu Wii U GamePad para destruir bloques de colores mientras caen. Alinea 3 o más bloques del mismo color para destruirlos e iniciar una destrucción en cadena que generará grandes cantidades de puntos. Destruye todos los bloques con changos para pasar al siguiente nivel. ¡Compara tu puntuación con los mejores jugadores del mundo en nuestro scoreboard en línea!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-02-19",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/e8417a02582d1cbbdb1bcdf21eb87493927ed820d2cc639128155ab32d8dc355.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a1785e3df492011ebc4d5a6ec3efb66f3235988c3d35b0d5e634697e281e27df.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9b12a30dbc623b126f1f9182bdc676f522e498baacb98f0e8f0506261a7c5d21.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5bb660ebe526913e084815af91924c420f6a124356d730b6b4727e7d73747cac.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b6525695a3a137c4d2907e559e7cadbe3698d608e4e27d73f498c4cf471e20a8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7d0ac890b7ba4ad2192cf96b08b30ce3375f517008ad6099bbe5153c094ea1f4.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/abd6f51a8c490badeb0127851c0288eb57d4978f21089375fdb721a0d5d55705.jpg",
+			"name": "Puzzle Monkeys Tráiler",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f353f17120f1e3c1a480d42c2367809f9a5af1bdf4407795817f8ca4cd0ee22f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "59"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e24292645582e6f3f66cf88ba06180363fd8d34403cd0fa39bbaecf1639c89c3.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "59"
+				}
+			]
+		}
+	]
+}

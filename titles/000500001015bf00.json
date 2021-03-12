@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001015BF00",
+		"eshop_id": "20010000008227",
+		"product_code": "WUP-N-PNLJ",
+		"name": "エイリアンクラッシュ ",
+		"platform": 166,
+		"platform_device": "WUP",
+		"publisher": 149,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d1e81bb38ebe312624a23e5d5a8f7e24744201e860a434f57f786129f6791cd6.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/72085da306a8711cb4b0f71276145c038f292d71dad92a8a6587a18b4a4af4f7.jpg",
+		"data_size": "83755148",
+		"description": "リアルなボールアクションとホラーテイストなグラフィックが魅力のピンボールゲーム。 ピンボールならではの「台ゆらし」の機能もついており、本物のピンボールマシンのような感覚で、さまざまなトリックやアクションを楽しみながらハイスコアを目指します。 ボーナスとエクストラボールの獲得が高得点へのポイントです。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-07-09",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/1f88abe6263c04990fbdfebb132b28e6104058b88a08594f7b3bf74224facb3c.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/8a314f8764e69c021f8cd5be350b2efa6cfc58ffdefebe411a560ca1a07f58f1.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/a42c81f3520c4da3dae14ced3e640568b50e04b0b3ecabe9f07c35f22738279e.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2fb1f3989c0ece1ae6b0cca3488dee6f2f26bf3ddab46a7e60620fd2ce53df8f.jpg",
+				"name": "エイリアンクラッシュ プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cedc4234a25e1e2797bcf5a47e0772a4883fc27796a6b92ca8a706d282cb7cfe.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "46"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6f207d0093855d122f523a86a8d87ba0662280cb798c51676e975d1ae6080e3b.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "46"
+					}
+				]
+			}
+		]
+	}
+}

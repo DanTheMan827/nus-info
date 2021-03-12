@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101A6900",
+	"eshop_id": "20010000013447",
+	"product_code": "WUP-N-ALLE",
+	"name": "OlliOlli",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1286,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/94e25a7484d7637a00f35f49dca3281498aff38b10ce2a1ba93bc205906c88f9.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/1a3de043c27122ee23e3687bed724e5580a7eba136bea53ebe45bd2964b34fc0.jpg",
+	"data_size": "470778016",
+	"description": "OlliOlli mezcla un adictivo ritmo de juego con más de 120 trucos y grinds repartidos por 50 niveles ingeniosamente diseñados. 250 desafíos, modo Puntos y Grind Diario. ¿No te parece suficiente? ¡Completa todos los desafíos para desbloquear el fascinante modo Extremo! Encadena los combos más alucinantes y largos en tus paseos y sincroniza los aterrizajes a la perfeccionar para dominar los marcadores. No te conformes con caerte de bruce (porque te caerás de bruces). Compite por el mundo en todos los modos para conseguir las mejores puntuaciones en cada nivel y escenario. El Grind diario te da 24 horas para desafiar al mundo en un escenario elegido al azar. Puedes practicar tantas veces como quieras, pero solo tienes una oportunidad para publicar tu puntuación. Intenta no caerte de bruces...",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-03-05",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/6cba2e9bf7ef3bbf5ffcab6a159f984158bb89ac7892eed7c27204454082ad91.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ba2f0ea439559d513b7ee657fae2a54e122e1ada3bed10c1f82ed6c4f523a933.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c4b353d4569880eba19aa6e4e5fc5e5e8f2dfa683c02c030bf1b68ec2371ef19.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8aee0b57b0a288e679bc3ff702310767fbaf1c38582ebef8e5fba7aa40e396ec.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a5520068c6ed66a9fbff6b39ffe5cbac0dae30cc0efcdd8149a2e6838a6f99ac.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/33aa62fb57e68815d642f12be33e8df98766fcf7df9f68ac4503469977317f08.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/41f8767ba21dd380f7bea7c3c4c1b9aef5af598eb66f94edd149f4afef350ea4.jpg",
+			"name": "Avance para lanzamiento OlliOlli",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/83286e49b1ff3fee577469e6d6ffef7e0c4b4a2fa8cbe249bdb2581e7cce7c56.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "76"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/321cc731834b45f5ade5dd66cae9a4e64bea70383a6721999b1feb0f3188d705.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "76"
+				}
+			]
+		}
+	]
+}

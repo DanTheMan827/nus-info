@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010186500",
+		"eshop_id": "20010000009707",
+		"product_code": "WUP-N-JCZJ",
+		"name": "AXELAY(アクスレイ)",
+		"platform": 164,
+		"platform_device": "WUP",
+		"publisher": 149,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8b8af93d941e711772d465f129ada8edac5e467a0914f0616ab5e3694234df35.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/12ad00d7dfc0346e119f0407d16550724345693dc8809c3e9c9c32a21b5bfbc4.jpg",
+		"data_size": "43516064",
+		"description": "このソフトは、1992年に発売されたスーパーファミコン用のシューティングゲームです。 イーリス恒星系が闇の帝国を名乗る謎の敵との交戦状態に突入して5年。過去3度の大規模な基地奪還作戦も失敗に終わり、帝国の圧倒的な戦力の前に、イーリス防衛軍は壊滅的被害を受けます。人々に残された唯一の希望は、侵攻に対すべくスタートした「AXELAY(アクスレイ)計画」のみでした。極秘に開発された戦闘機「アクスレイ」は、帝国を倒すため飛び立ちます。 「アクスレイ」は8種類の特殊武装を3つずつ装備できます。使いやすさやステージに合わせた組み合わせなどを考えるのが本作の楽しみのひとつです。縦スクロールと横スクロールの2種類のステージが用意されているので、同じ武装でもさまざまな活用方法を試してみてください。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-02-25",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/2fc167113d5833acd04edca1ca694684c94b8f3d8928d21dbfe4790d5e38d718.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/a90086943449fd2f637f59b93d36eead3639d9f8de860c47afd8517f2e75a515.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/c8ce5dacaffec3aa2b9fd44d74f6475f17ed119a7bc6a25975f39c1f3279f2ae.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/50196791c8f2e59cf0de7b7692d44c5ab9ce2e62a0eb6c900e5aad5a6bcbbab3.jpg",
+				"name": "AXELAY(アクスレイ) プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0c6e743a58e01dc8432d633e56b383a0389061c8ccaf90ee2a24e22cd1e97fdc.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "64"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/175898bd4d7f8ad96ab004b348fc5faa465e3bb28d999fe8222aaed8d4021273.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "64"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000030300",
+		"eshop_id": "50010000000221",
+		"product_code": "CTR-P-ASDJ",
+		"name": "スティールダイバー",
+		"platform": 18,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/dd9c3cb797b6fdef5decff90e237a711d45f6c243c9e45da719d6ba4ffd242ed.jpg",
+		"data_size": null,
+		"description": "潜水艦がテーマの異なる3つのモードが入っています。 ●潜水艦モード 3種類の潜水艦を操作して、与えられたミッションを遂行する3Dの横スクロールアクション。 ●潜望鏡モード 本体を潜望鏡に見立てて敵艦を探索する、魚雷シューティング。 ●海戦モード 人との対戦も可能なターン制の戦略シミュレーション。",
+		"availability": {
+			"eshop": false,
+			"retail": true,
+			"dates": {
+				"eshop": null,
+				"retail": "2011-05-12"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/895c11a231e5df610189241ec850a1c1ebb4aa93c0a57a154ae53f6669277e5f.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/65cb2f6335b750cee9e792043f5a1326f12da3f88dffda51ce4c2c46997ce4f8.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/79164b0a6d9479a3131eb7690c6467dd805948cc23d6b5a33939ca965785511b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/59a9d17604421d6c71833226b7f33d1fece1cd64cdf34857d9612939939666d9.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1d3d7df65eff85bd812234f55f35880439a349fc7d311597bac92d0e36054943.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/85c3bb4569d457004e269695832ddb856b32589d0f8d31ed18c6c3fcd8e3387e.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2daebebbcf7bdcf3651029470ee9ddbd6048551c41e218b614efb59c8afb86e9.jpg",
+				"name": "スティールダイバー 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/36a47272c0e49187107ef7f23ece806e1182cf7281c4f2667bd1b738430222b0.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "331"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f841bc0e4e2935b65c1bccc765c6a7c9db67aa3700acb809597938677b2e92d9.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "331"
+					}
+				]
+			}
+		]
+	}
+}

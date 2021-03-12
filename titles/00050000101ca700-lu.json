@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101CA700",
+	"eshop_id": "20010000023528",
+	"product_code": "WUP-P-BP4P",
+	"name": "PONCHO",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 220,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/796e79847071af3125661a02720e643f358c5874a91c2f3cb4260658b7c1d572.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ca9d0f9cc598cd005ca42e33097cf4e4555639c038ecc095e144f3f29fecfe72.jpg",
+	"data_size": "416284832",
+	"description": "Un robot, un poncho et un périple plein de découvertes ! Explorez ce monde fait de plateformes parallèles pixélisées pour résoudre la grande énigme : qui est Poncho ? Le monde est en ruines, l’humanité a disparu, et il ne reste plus que des robots. Mais pour Poncho, l’aventure ne fait que commencer ! Explorez un monde ouvert, regorgeant de personnages hauts en couleur, en passant entre les couches parallèles pour surmonter les obstacles et résoudre les énigmes. Arriverez-vous à atteindre la Tour Rouge, à rencontrer votre Créateur et à finir par sauver l’humanité ? • Un monde en 2D avec une conception 3D ! Utilisez vos méninges et votre agilité en vous déplaçant d'avant en arrière dans le monde de Poncho, ainsi que de gauche à droite pour progresser. • Découvrez de nouveaux défis à chaque détour : des plateformes qui se déplacent en même temps que vous, des zones qui alternent de la 3D à la 2D, des murs qui apparaissent, des terrains incroyablement escarpés et bien d'autres choses ! • Un magnifique graphisme pixélisé s'allie à un scénario de jeu palpitant et à une bande-son entraînante pour créer une expérience rétro vraiment originale !",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-08-18",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/2d35414054c92241e2583d1dfc77dc6c6b6efd1be782d6dc37f078f13dc3754d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/744dbeef36d231de8b085c52d78ef811aff187c9f3398f4e19a7f2267341b406.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1e68813903943d11446013e527c5c334badc7610c6178cf4721244be8e47e55f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/618437761d9bb5ce0974694e28a3f3a100867044ce09ad83bbb185cce8b2f760.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d18862f5c604f10849105f5ab5b9a55fb49d8ee04ae838d3c54f5dec38a0ecef.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b4ae02762482854e3ec24c4211b8530b90a232679be9b7e59fe02c895a47645d.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/df5c86cae4374e7c544ad077e62cd7731c68f6b7da4871f828052ece5e65fe2c.jpg",
+			"name": "PONCHO : vidéo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8bc36b2b33415637c714159c21c8c1bb5a4edf0f4587fc659343dccba911796c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "83"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8c795d16a38a2e7d6064172d84fa1f0b12b91defc65d7814f3755a1be7479659.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "83"
+				}
+			]
+		}
+	]
+}

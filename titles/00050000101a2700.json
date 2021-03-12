@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101A2700",
+		"eshop_id": "20010000011912",
+		"product_code": "WUP-N-WDLJ",
+		"name": "パドル",
+		"platform": 124,
+		"platform_device": "WUP",
+		"publisher": 1402,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/94780d25696c374535d085a9abac6b3840f92e4d7144ecc5a14034f4b29c37a7.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4392e78568ccae47410606cffba39c35b10e7290cc892bdd207219f2218b0333.jpg",
+		"data_size": "665616544",
+		"description": "パドル(Puddle)は、美しくデザインされたさまざまな環境(人体、庭、電子回路など)でパドル(流体=水、露、溶岩など)を誘導していくパズルアクションゲームです。 重力、摩擦、障害物などの要因や各流体の特性を考えてGamePadを巧みに動かし、できるだけ量を維持した状態でゴールできるように誘導してください。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-12-24",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/73a3924ed2908b6535515cd8a4d3ba54c8ef2462135e8a1e6faa44843b9f1971.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/c95faea462c04baf8d2489349169f4408b4f89061cd8bf83035ebff76ba31a89.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/c9470aa43fc5bd4e7e2d0e8b90fa48ddf33e6cf37c0dd2ba5935021139ee2b59.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a7f583225bf2aba9695bec2076b97006e64c544b43b2f0c02097b3ca105beec0.jpg",
+				"name": "パドル 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/26b3672dd9cbd26c214ab73dd0fb1259b061accd2f9a5f8f6076b8982bdb07a1.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "82"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c2941db918028132a035b195178f1aecfaf894fa084a246257bd865ab3ef0a73.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "82"
+					}
+				]
+			}
+		]
+	}
+}

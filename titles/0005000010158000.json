@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010158000",
+		"eshop_id": "20010000005324",
+		"product_code": "WUP-N-FB9J",
+		"name": "ELEVATOR ACTION ",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 246,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/88231048a138e421538e7096086ca404af8b5617ff92b617e864fce40d2e7f7a.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/84311a2f46473f46c9cd61d682d811153d7c371c46dfc3f27897a5de017852da.jpg",
+		"data_size": "36503692",
+		"description": "このソフトは1985年に発売されたファミリーコンピュータ用のアクションゲームです。 プレイヤーは機密文書の入手を命じられたスパイです。高層ビルの屋上からスタートし、機密文書を入手しつつ、地下に隠してある車までの脱出を目指します。ビルには、移動手段であるエレベーターやエスカレーターが設置されているほか、警備にあたるガードマンが敵として登場。ガードマンの攻撃には、拳銃で応戦することができます。ガードマンから攻撃を受けたり、エレベーターの穴に落ちるとミスとなり、スパイがすべてやられるとゲームオーバーとなります。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-02-19",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/9629d6ff3d4bb3b5c8c8d4afff919c5b0ab9f189bb8b55d9e0ea1e1dcd908a3d.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/efd2e9e70791413a8ec6694745e3e23e393767a4bbcf1b81a7a2653237d52416.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/502e5eda2963822ce2108861fbbb4ce953e1e191b29974daadc88e32257f25b0.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e774bffe31c7fb84a44882103c5432b28b60846934c3f233c460b247b4ff7c6b.jpg",
+				"name": "ELEVATOR ACTION プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d7fe3b1808d45f1953bf158789aaf0a44db6190a19f36922ac0761505a1fed44.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d689b2637c8ee7199a19e2e2ed4450f980fc7ab2f90a93db30d07141847a201d.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					}
+				]
+			}
+		]
+	}
+}

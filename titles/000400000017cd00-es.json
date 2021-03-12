@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000017CD00",
+	"eshop_id": "50010000042401",
+	"product_code": "CTR-N-KTWP",
+	"name": "Tank Troopers",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0746c2f280ced7a4e442c37840fca425349501ed004f063e56969e77b7918b32.jpg",
+	"data_size": "170412948",
+	"description": "¡Atención! Forma tu propio equipo, maneja tanques especializados y adéntrate en batallas desenfrenadas rebosantes de acción para hasta seis jugadores en Tank Troopers. Opera más de 30 tanques diferentes con controles intuitivos y lucha contra los enemigos en varios mapas expansivos con entornos susceptibles de ser destruidos. Apóstate en una colina alejada y apunta con el periscopio para atinar con tus disparos, o enfréntate a tus enemigos cara a cara en un asalto frontal. Este programa permite la participación de hasta 6 jugadores tanto en el modo de juego local como en el modo descarga.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-02-16",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3bfc5fbb9d844b47992cf3b779187129bab031f9b009d2e6d39290d25cf81069.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/860827062b0e6901b5bf013fc444ef4fe06073268e7771fb282a10ed8f381f80.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/eedae9a3330956ee4ccff2c26e00efec24a23c1876f86edd032f92484550d58e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/64320bb9cdd9945fa953d7d0945cc73b81b16d977454b0f4c319764249714d64.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/90b2784694ab90eb5203de5ce64d799c45e936cd744d05855024d6fcbdd799ae.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/238d19c5aef227ad559b0863ffe956cc771248ca78f51f01394b5da1050e94b7.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/00eac6e2a831d3301033bafe688b0f6a8f34498f3a304992bd5793d3eae5e689.jpg",
+			"name": "Tank Troopers: Tráiler de lanzamiento",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/52b7066b7db4c62502928b64f3e1706b6a9c642008e9eef892c4f3dfb50ff576.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "97"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/edc0d1d8e05b02cc570bd7ff874ee2a3d08b46674e53c8f157cc418ab3fc3cd6.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "97"
+				}
+			]
+		}
+	]
+}

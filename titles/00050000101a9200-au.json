@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101A9200",
+	"eshop_id": "20010000020396",
+	"product_code": "WUP-N-PCKP",
+	"name": "Onimusha Tactics™",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 39,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/267f4f460e30ed76d8c4ff491009926e86ca4655b01f986b5e82fd9498bd9ec7.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5b1a27f4eacb8df2153bd900229eea704af77826275be9d49a3d7c52589a1f94.jpg",
+	"data_size": "92307596",
+	"description": "After witnessing the destruction of their village by Nobunaga, an ambitious warlord assisted by occult forces on his quest to unify Japan, the young warrior Onimaru and his sister Oboro gather a militia of skilful swordsmen and other colourful characters to counter the demonic threat. The popular samurai series Onimusha™ returns with an episode focusing on strategic battles and teamwork, which is also fondly remembered for its addictive crafting mechanics to improve your equipment and weapons.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-12-18",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/db9a4f7628ebee6b8fdaee0d0f4710605759e62e53577f0547cc3b5ea47d1391.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/40851998f5e612fd36c47743b9da11b557a9dbf383d726825b31d55feb727d09.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e01dd02c8cbb292682cdca453bbc658126d89ba571d6d65e0d2464e67e77aee1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/aa01f7bfe3b9247a4af966a8dd4e86691a8b8678c53ea51a8eef448b38fc9682.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f7a1cd0830efad490c67e70ffb95dec4505d5b0fdabbdc938a9eeb81d9a0bbe5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/78c32eab248be98263e0c42b418ace0d9d33b533d857b643f6506279f173ce93.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0264fbcfc178c61d5eea22fca004303a5c752c11663ed3eab0f6778cba15452d.jpg",
+			"name": "Onimusha Tactics™: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ea0ba72b0cd85542b86e7a9ee075aac5b7400faa854655b146fce950b18460ac.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "62"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a10c2a23acc37bbdfa826d81025d1ee5e1f2b10eefe713ea43a68e6fefe2dfaf.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "62"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101D2200",
+		"eshop_id": "20010000021912",
+		"product_code": "WUP-N-DAZJ",
+		"name": "マリオパーティDS",
+		"platform": 169,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/08d593bdd382e0e0c44f6bc687d8e0f35d40c02cd6b8170c217511adbcaf65c3.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d56e4260de43d264f321559822e5712745662499c5d7a5035cf74db4df6fa3e1.jpg",
+		"data_size": "61636728",
+		"description": "このソフトは、2007年に発売されたニンテンドーDS用のパーティゲームです。 サイコロをふってボードマップを進み、ターンごとにミニゲームで競い合い、スターとコインをたくさん集め、一番を目指します。 階段の手すりの上をすべってジャンプし、着地するまでの飛距離を競う「てすりでジャンプ」、シャープペンシルの芯を10秒間でどれだけ長く出せるかを競う「たたいてペンシル」など、楽しいミニゲームがいっぱいです。 「パーティモード」や「ストーリーモード」で遊んだことのあるミニゲームは、「ミニゲームモード」で繰り返し遊ぶことができます。 ※おすすめの画面レイアウトは「NintendoDSレイアウト」です。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-04-27",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/6d02898f1c6faab0ab9e15f71bbd3b45cd28ffc90f28ab296bdc746157424f7a.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/ee57b0aaf34e134b841dde60edf0064d271e1f6dc8817cf4672101b8ca8456dc.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/e128f58f74f21971d35187d98c9eef5dc84d886923d4e1b00eeb428c47eacdb1.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bb827d282003bcfba13c911472c1df83eb3131d246a42b49fc2f39a40d68fd64.jpg",
+				"name": "マリオパーティDS プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fd1760a12f12ee7a971274bc3f31ddd45590bc5d7c61a8387a182ec815a56de0.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "76"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/946bf195b0581f417bfb88a7e10a8f74cda6b2d4a146c57c8e0225961b3d688e.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "76"
+					}
+				]
+			}
+		]
+	}
+}

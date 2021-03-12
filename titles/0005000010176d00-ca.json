@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010176D00",
+	"eshop_id": "20010000017367",
+	"product_code": "WUP-N-PA6E",
+	"name": "Golden Sun™: The Lost Age",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a2cbe98c38eb648ffbe505e9cf8dbd9f911119fc977a0cb3ff2c0baea800ceac.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/49b5af823e9e4287f5f8af6e1b6c2d97c868372e7a529057a6ac07930df91ae9.jpg",
+	"data_size": "103121016",
+	"description": "It is the dawn of a new age. The heroes of Golden Sun have been abandoned, and the land is falling into darkness. Now the world’s final hope may also be its doom. Manipulate the environment with psychic energy and fell whatever beast stands in your way to safeguard humanity before the heroes of the original Golden Sun can stop you. Saturos and Menardi have activated two elemental lighthouses, and only two remain before the power of Alchemy will be unleashed on the land of Weyard. Will that power usher in a new golden age of civilization or bring about the ruin of mankind? Guide Felix, Jenna, Sheba, and Piers across an enormous world and through labyrinthine dungeons as they use their abilities to unravel the mysteries of Weyard’s past.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-08-06",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/38888185acf86a5e6c9c1766d1945c020a13cef63d591a6cdad48e7c92f1ee95.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a5310caa53c1029512c53e6edb471741fe2cf01981f79bfb7a79e545b2256de9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/179a2370013bce3c58a0ff67016b2df65901a55ebdf93cf8d98856b7634258f0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8fa7e67c3a3702be67a84804ed644574aaa845c52acea39b4526934c8c4043ee.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/85ee80468203a4a48575455668629dcadbfcd4bc9c19d7938063ff763b0139f6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9d18b02e9752739492de2347708aabfd478278a7976630a859bec84d9f97fcb4.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5d693842c9709654a84a8f813bb652f2735df43e9a2b9548f29e81d6b91efc82.jpg",
+			"name": "Golden Sun™: The Lost Age Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/398a53ae1c9bd064006f4e0522ea3401ab2684a58b68efb3f588506c6136435d.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/731209ff32d214e57d422ea622e4679a3fea2f681e98b561a41f4c9569b2093b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				}
+			]
+		}
+	]
+}

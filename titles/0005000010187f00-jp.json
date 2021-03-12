@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010187F00",
+	"eshop_id": "20010000009086",
+	"product_code": "WUP-N-PBLJ",
+	"name": "ナポレオン",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5f8b12fa5c47acb9d938338d5d1562fa68f1c38c3e1c038bed2ed548716088ed.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/28bedf25cb69d0c6f00180090ca2db99619a32eb385b626bcf1893718533df64.jpg",
+	"data_size": "74940556",
+	"description": "このソフトは、2001年に発売されたゲームボーイアドバンス用のリアルタイムウォーゲームです。 リアルタイムでゲームが進行していく中、指揮官や兵士たちに命令を与えて、戦いを勝ち抜いていきます。コマンドの素早い入力や連打といったアクション、指揮官･兵士を適材適所に配置して命令するシミュレーションの2つの要素が組み合わさったユニークなウォーゲームです。 ゲーム内で操作方法やルールが丁寧に説明されるため、緊張感と楽しさを手軽に味わえます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-01-07",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/f2b3f78be8db4b540b1a4c42440f4839a060169926b26ece21e1d13baf5dd752.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/57916633b4d9bb3eba1fda7c4487971b91a25a5b8bde0e1f1b88c4de082e3dc2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c6fff54b16ef57440d8a8fa49c26f54f52d69acc90bb5569f51fa3b66d002339.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/47ca4b299e4c02afe383d6f38b09f25194031b8958204942dd077c6f1771c6b2.jpg",
+			"name": "ナポレオン プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0d2658896693a3591d45a3a5c448c7fcc781ee4a5a90baff6cbac97b3ce7ab4d.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/18ccd4d83270d74fb8c5dffc3aa264a1732ef1a119711230728782d8af929aa7.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				}
+			]
+		}
+	]
+}

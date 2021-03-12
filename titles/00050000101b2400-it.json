@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101B2400",
+	"eshop_id": "20010000024727",
+	"product_code": "WUP-N-VAWP",
+	"name": "Project Zero™ 2: Wii Edition",
+	"platform": 171,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d7247708b4347ffdf3c8495bcc0d0ad3411ca98e94f4a63f8c46d1cbe3de12db.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/acea554353c5622fce5b930cbe3e7f1c981e2aa29fa74b616233d749e94db7cf.jpg",
+	"data_size": "4438655496",
+	"description": "Le sorelle gemelle Mio e Mayu Amakura si sono perse in un villaggio sparito dalle mappe, un villaggio velato da un'eterna penombra. Gli spiriti irrequieti degli abitanti del villaggio vagano per le strade in cerca delle gemelle per usarle come offerte durante una misteriosa cerimonia... \"Le offerte sono tornate.\" \"Perché hanno tentato di fuggire?\" \"Dobbiamo continuare la cerimonia.\" Le gemelle cercano una via di fuga dal villaggio. Mio fa del suo meglio per guidare in modo sicuro sua sorella, che zoppica ancora a causa di un incidente accaduto durante l'infanzia. Presto però diventa evidente che Mayu è sensibile al mondo degli spiriti, ed è sempre più posseduta dallo spirito di una gemella che un tempo partecipò all'oscura cerimonia del villaggio. Man mano che le sorelle si avvicinano alla terribile verità che si nasconde dietro La cerimonia ombra, la loro strada s'intreccerà con quella di altre gemelle del passato...",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-10-20",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/4b6f9a77c59f04bef8f43d727f46c51ce223a407ba636d036874a48bdf08ba70.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/09bc3050cb082ee91cd376868688ed78eb25a8e6f9f7115cdb188261e9a15de1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3c4bd866609aec05bffa0a70abcaf28afac0bf299160c4f2a13a5025a97b45cb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3cb102c7661573c08aade5c42011edb428341a274fc768e1446d0d857019cd7b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a8ada47c661c91b535f629ddbcce6652dbd88d44be8c9315e42a5d97979b8783.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/01cb0ec3de43c5d8f4714c0dad3077fd1dca562730d7eab72dac6b650eefc66c.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ce9fc67b8e1520b8eebb46e3a12a084eda24ade19bf7520df962d2b9bbfa6528.jpg",
+			"name": "Project Zero™ 2: Wii Edition: video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/43420e7796cffaee3f0a2052274709ec7f371508705d55ea937ab0fd1046659b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "139"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f42034ad8e11ce88b19a1c9634d22b629af012ebf723279a47e297fe0d516bde.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "139"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,79 @@
+{
+	"title_id": "00050000101EB500",
+	"eshop_id": "20010000021910",
+	"product_code": "WUP-N-WRLE",
+	"name": "DREAMALS",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1484,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/369c18a25aa260282d5074b95b0f66be5986993f0398bef087a00e94de114d2b.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0e8febd00f6123fce698c9d093d99a798ca3c8f95db61dcfdbab385dc0d5e12f.jpg",
+	"data_size": "371687584",
+	"description": "Después de haber sido llamados a un mundo onírico, los tres animales se embarcan en una aventura para regresar a su mundo. Cada animal puede moverse sólo en una dirección. Combínalos con inteligencia para encontrar un camino a la llave. Características : Nuevo Puzzle: Combina los animales que pueden moverse solamente en las direcciones establecidas para resolver el puzzle. Varios Tipos de Baldosas: Utiliza más de 20 tipos diferentes de baldosas para resolver los puzzles. Varias Etapas: Disfruta de jugar las 80 etapas con 4 temas diferentes. ",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-04-21",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/7e5ddde8c6f2591de791a380d7c3f5e3d7543560a5dfd59b955a2e887bef8094.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/df23919fa2ecf2084b8c07e4264c07137c134d1b0eaeaf9166027a71bbbb379f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ab10fa8e111b7cf64225da4975567b101856290eb7f0cceef0ee13eec1ed4cae.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a8a036d1fc6e2bcecf88256dabd3b4cb7ceecd41769a186ddbcf2cae68f20e99.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/28a194fb628fad8f14c122eff45282daa6fc2b8cdb47b563782c6ae999895c15.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/dde32d33dbe79fc19f9539c24175208f51eaf718f729713fa59943dab8f5956d.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b0fdf3fedeb610e0f584c1a43b6ebc335fa5abb1eac6b9d60fa192bdc1776e53.jpg",
+			"name": "DREAMALS Vídeo 1",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/520f39b45c6c69ec58e042b1e7909464811d543bb7c5551923900cff555f5801.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "92"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2390ebe6573453917686a834bd572eb2fb76e8cc3c3ceef3e0a78341a1d9252f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "92"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cd4218af633d4827d972503f9cde55801491eb22d8975adc34217b2210cd0471.jpg",
+			"name": "DREAMALS Vídeo 2",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/db5f934ed32621c1e7c6c67894545527555eebf0184fe8022d1950d912139436.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "154"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2d557294381d4ed46d036ee2625fd731dce0d5c712f0f0f8bf9b6e87b5020b99.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "154"
+				}
+			]
+		}
+	]
+}

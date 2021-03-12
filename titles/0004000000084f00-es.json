@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000084F00",
+	"eshop_id": "50010000010990",
+	"product_code": "CTR-N-AACP",
+	"name": "New Art Academy™",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f17f74661e2f8aabef75dfe0b3d046a66f42a73cf9b76b2a512a2aecfeb3db3f.jpg",
+	"data_size": "390597476",
+	"description": "Prepárate para maravillarte de tus habilidades creativas con New Art Academy para Nintendo 3DS. Con sus más de 30 nuevas lecciones que pondrán a prueba tus dotes artísticas, New Art Academy te ayudará a dibujar y pintar verdaderas obras de arte que podrás compartir con tus familiares y amigos de inmediato.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2012-08-17",
+			"retail": "2012-07-28"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c4c34f07b1ac0e0b61b9e37961994de638445d7ffc3d117e928ee44cee0b9c48.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/15f346775847cc2615b56181256020dac21addfee0510284e2972be73a260de1.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a6e102fb1f4d901826073c7c9a3d1468824f5fbc6d00894bd90a3f801e0d3077.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/36cca5ee92252f575b072e20338bfa344495dd8a87f3f2250c18848eddba0a36.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/56bf33d3f36d53771b8fc0fbe5b24ce6a0206bd895333bd3d226835354b85978.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a60341b75c9885fbe83d1931e3c02938300bfc23a5b40c3ee7b8715d87c01b0b.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2b41bccd35122549d45330323a86ef8261be7c24c5d540aecab4b73ad5c13a93.jpg",
+			"name": "New Art Academy™: Tráiler",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f714d6c2899ab66c2f0228b63f6917b59f073551b5ba5e9d3b697788f56726c5.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "69"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/66727c207da98e78697bc91eab23a802efb18b23208b8814c4ac543541b706b7.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "69"
+				}
+			]
+		}
+	]
+}

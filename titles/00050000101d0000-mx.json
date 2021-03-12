@@ -1,0 +1,54 @@
+{
+	"title_id": "00050000101D0000",
+	"eshop_id": "20010000016167",
+	"product_code": "WUP-N-AD7E",
+	"name": "Solitario Escape del Calabozo",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1336,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ff07fd43a0cbe1afdece9b7f79601fa5e5667e934c6cf360d537b2fa9ff9e4ea.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/2d8710e20cf0226000bd5a3abeeaca6d3e9b06908f37db1e54e2fc9a0d403448.jpg",
+	"data_size": "206307468",
+	"description": "Tu princesa esta encerrada en el ultimo cuarto de un intrincado calabozo, custodiada por un dragon. Las llaves que abren las puertas, estan rotas en 16 partes. La unica manera de obtener estas partes es resolviendo un juego de cartas con cartas magicas. Que comience la aventura! El juego de cartas consiste en limpiar el tablero bajando la carta de uno mayor o menor a la que se encuentra en el mazo. En los 160 niveles que tienes para jugar, tendrás diversas misiones. A partir del nivel 6 contaras con la ayuda de un comodín, que podrás usar cuando quieras remplazando la carta que necesites. Es muy útil para armar seguidillas largas. Cada carta bajada valen 100 puntos, y si es una seguida, vale 50 puntos adicionales. Esto quiere decir que mientras mas larga es la seguidilla, mas puntos obtendrás.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-06-18",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/a6b1e64438483520888e35c60b043c944c8481e93b527977ab79497ed6362c7d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7d0631c57ea6b50d9bb4a92ccefa701b8b076824bc1929b365cfaa4d072cf793.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/891e58b7acc02c8ce672fbc4e91c6401155a9304c0797e28efb244d8070c04b3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3d7f6a965d606588feb5e56a2f745b76883cba82ae7ad5937e06fffe4fbe1bff.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4f1c127a32a3108bbb2622240f867ba094d6f0e97db7bb94418a710fbe077f2a.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c3aadf856dffc608e743cd5ed131b99e7960dca1ef9425601bc85a2f306580cf.jpg",
+			"name": "Avance para lanzamiento Solitario Escape del Calabozo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/730133befb54ee6c73b1b0d8b723a1bf5c754e390c2d8981697b189a40b0b5b9.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "135"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/585d43b0974efeb82c5141df459a387e95d1f871f5e692a2200328d76ad6c9e9.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "135"
+				}
+			]
+		}
+	]
+}

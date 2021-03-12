@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001016A000",
+	"eshop_id": "20010000006926",
+	"product_code": "WUP-N-PARE",
+	"name": "Wario Land™ 4 ",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9f9c864a255a93330a817982f2f7c26b4372e288656bae7fa335385c7d336da8.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6a7c3db79052a46278cfeff53394b54073f4fccb28cd3e58fe55af39f1d4b5a2.jpg",
+	"data_size": "89161848",
+	"description": "Sumérgete en la codiciosa gloria de la caza de tesoros mientras saltas, ruedas y mueves a Wario como zombi a través de 20 gigantescos niveles llenos de rompecabezas. Este aclamado juego de plataformas presenta a nuestro regordete antihéroe en su búsqueda por oro, joyas y fortuna. Pero cuando su insaciable sed de fortuna lo lleva a una pirámide llena de trampas ¡necesitará de tu ingenio para salir del aprieto! ¡Hay innumerables tesoros y Wario los quiere todos! También hay muchos puñetazos, saltos, patadas y trucos que dominar a través de la aventura y varias formas que Wario podrá tomar, como Wario de Fuego, Wario Vampiro o Wario Zombi en su intento por apropiarse los tesoros escondidos en la pirámide. Muchos enemigos y jefes intentarán hacer tu escape más difícil, además encontrarás desafíos que retarán tu imaginación y reflejos. ¡Incluso hay entretenidos minijuegos al estilo Wario!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-05-08",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/598ac78a028b555292baa2fdc926d7ffcdd5d7be8faa1287b37ec5c9f3a130c0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/063b078ba5fa942201db2335c6667d2b5acfcd7a5fbca9fcc50053d29ffa2dee.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ba83c0298a312f96d0887c04c3fb2d95abe2a73b09120c69e62fb84c3a9a3dff.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/459d9b14650bdca72e178574e7f24de994dd5d7d7eec37b254de177a2bacf8b2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1b8e60c47260cecb3d2e215f0ec0f20451419773c07e9520c4d3c9a9b479bd7d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3ad7e7b2590c0ef74c8eaa469c797f6ef4ffae30f3e752d33d836822e36cfcc3.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ea569d8c08ea1888830025b01a6862e6879e31c464b92b3a28e6c342c3539ee4.jpg",
+			"name": "Avance para lanzamiento Wario Land™ 4",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d75782e5af14c4566e93e80496048e03be773d0e1cce40176b302bfc1f0c0152.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "66"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a635dd805e8ebd86b06fe4063dd3d5fc7ae032dbca42a4a667d18230d6168aeb.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "66"
+				}
+			]
+		}
+	]
+}

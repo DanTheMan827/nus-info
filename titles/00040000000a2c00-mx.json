@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000A2C00",
+	"eshop_id": "50010000011766",
+	"product_code": "CTR-N-AC7E",
+	"name": "Code of Princess™",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 25,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/bcb1e30250295149dd83e01c4f3901db4aa88f4c253a0f191f9f667fdc1a6c40.jpg",
+	"data_size": "1203170148",
+	"description": "Mezclando la acción de los juegos de lucha con componentes de los clásicos beat'em ups arcade con desplazamiento lateral y el desarrollo de personajes característico de los RPG, Code of Princess combina diversos géneros muy conocidos en el mundo de los videojuegos, ofreciendo a los jugadores más acérrimos un nuevo enfoque de algunos de sus tipos de juegos favoritos. Hasta cuatro jugadores podrán enfrentarse a los retos que presenta el juego en el modo cooperativo, o medirse unos contra los otros en el modo competición. Ambos modos están disponibles de forma local o en línea a través de Nintendo Network. Con la participación de Kinu Nishimura, afamado diseñador de personajes y ACE, el compositor responsable de varios temas famosos de algunos de los juegos más conocidos, los aficionados pueden estar seguros de que Code of Princess corre a cargo de algunos de los mejores talentos de Japón.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-01-03",
+			"retail": "2012-10-09"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/86c8b12211872522b3db077931477ebed35fbea1248d66bfcc3ac9febf0707ff.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/cf03c076648bbd20dedd6cfba93247c87a28010d6a12e251461ed742bbde1d9b.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6b956ffeda1c4e906ee7c56fdfa5e5619da2c12174066646d653c8a2321059ce.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/457b81d674cf35a9a331bf6a92381d0e2019b8590c0665011ee17b628430dc6d.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b75eb8dab7b0beac1d682dbd3b435d6824fc2d8276c1304c4d12b8006d3b5339.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/74a0eb55543bff76a240db87a92d0c13b1731986a953e6ee9f337d91b713cf72.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b8cbd6ca7aeec4ae0903eceb3c725a3a941aa6df44a7d737940343186c74a414.jpg",
+			"name": "Code of Princess™ Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/430ac00fd9c6491a2d7f97b34006355e30c2e313efde36e90bf3574df6795349.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "72"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1aed7dbe9317dc2217b1daaa4e1de8aa6fea189141d7cd2a6050a760b2298ccb.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "72"
+				}
+			]
+		}
+	]
+}

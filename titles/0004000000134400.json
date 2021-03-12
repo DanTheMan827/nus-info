@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000134400",
+		"eshop_id": "50010000027068",
+		"product_code": "CTR-N-BDEJ",
+		"name": "ドラえいご のび太と妖精のふしぎコレクション",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 462,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3de28c2dc67bcd543583555a1a61be4bf22beda6423d8bd935cbc18c19fa0117.jpg",
+		"data_size": "202910564",
+		"description": "「妖精のふしぎコレクション」をのび太君といっしょに集める、ワクワク･ドキドキの冒険ストーリーが楽しめます。集めたコレクションは、英語で何度でも書いたり、聴いたりすることができます。",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-11-20",
+				"retail": "2014-11-20"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/316faaf8a055de07275e1dc1ee9d5369bfb1c81397d11a846a70752040527f9f.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/94ce330fe70b14a3c4ecb5dd37c30ea3d62192dcb7c67f77f94f0a8662552d00.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1792e2905e1c5cc14972bcc541b1d92a0e0174898e114301604ce256846b27a2.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/dab7eed8b92cde5fe936d3f214fdb6c7bfd85268ae07b74a0eeb513862321dcc.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/227a05db961e8a282a2b7f54516efa40e3bc7c2695cf701d40dd71104c6e8d05.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/67b97cb5da8d0597c92a140dba02c5be55e2af671e4097aeeba4e12e4079ca00.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cb950e9c90416ebc95596e249fe60bb6b15d10a7a942b8ae068fca71b5192b0f.jpg",
+				"name": "ドラえいご のび太と妖精の ふしぎコレクション TVCM",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0bb0772efe9d1f9de6f5d08ec2b8b4f681086df87e601a85c7639962119d983f.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "15"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/23b98e6d072d58249f4783de77a7d5f1bf8fe267f4148315a5b3fab3fc39f939.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "15"
+					}
+				]
+			}
+		]
+	}
+}

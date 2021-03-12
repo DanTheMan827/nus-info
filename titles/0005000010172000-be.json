@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010172000",
+	"eshop_id": "20010000005865",
+	"product_code": "WUP-P-WKEP",
+	"name": "Pullblox™ World",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b5caccd76a6b7d0710805f6884a625fc99cca75dcb7bd294605aa569a329db94.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/037044d8f5584c9f98246c13f45e571f506aa4d386424fd9701e1eda1d02046f.jpg",
+	"data_size": "603685044",
+	"description": "Profitez d'un savant mélange de casse-têtes et de plateformes dans Pullblox World, disponible sur le Nintendo eShop sur Wii U ! Escaladez d'étonnantes structures en poussant et en tirant les blocs qui les composent afin de créer des marches, puis sautez pour vous hisser jusqu'au sommet ! Résolvez plus de 250 casse-têtes inédits, découvrez de nouveaux types de blocs au comportement unique et créez vos propres casse-têtes dans l'atelier Pullblox. Ensuite, partagez vos œuvres avec le monde entier via le foyer mondial Pullblox !",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-06-19",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/de62b3fd11e76309efb7196af836c1a62bb3e7cebf8a998777d245667217beee.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2a6db463ea4950d7bf30fdd57cd95a041e614af261827c95aa8e69fd93a6b331.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5072f87d3d0f05b68748f00e3de802bfbcffda9df8c98d9cae8eefc565ec1f1d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d98b09731fd3824bc66c524ac1518e51343c9d4cacd1cf104a548a7881727c5e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/97d2d1aa981dd1b65a723cb7d45e84347c39126f0708a167b05e738cc23f0c27.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/40a58f2b4f8b09c9e0b108533a55a6a965a20c8a5da57a7067f850c02871b350.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e6c46de6723d729f9cfa63a3a3dc103873977e0edada8604ae0f9d1c0d850180.jpg",
+			"name": "Pullblox™ World : bande-annonce",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b5a21d90b505c6718b83363e708182203de3c1074680e736fc3fdb6f1de168a4.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "157"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/aced85eb60bd7b379da36d0ccb8ceded0d171361732b128ec7583ad575dff610.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "157"
+				}
+			]
+		}
+	]
+}

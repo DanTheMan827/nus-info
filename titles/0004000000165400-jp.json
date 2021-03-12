@@ -1,0 +1,85 @@
+{
+	"title_id": "0004000000165400",
+	"eshop_id": "50010000036115",
+	"product_code": "CTR-N-KRKJ",
+	"name": "カラオケJOYSOUND",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 293,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b1f47dc3a185088bf6818bfb82e2092d4f63699ea0f98781388061f72ae6c734.jpg",
+	"data_size": "48560996",
+	"description": "3D立体視で楽しむ、新感覚のカラオケが登場! 100,000曲以上が歌える「歌い放題カラオケ」と、通信環境がなくてもどこでも楽しめる「持ち歩きパック」の2種類のカラオケが楽しめます! オリジナルの検索や自分の音域測定など、ニンテンドー3DSでだけ楽しめる要素も満載です! 【『カラオケJOYSOUND』で楽しめること】 「歌い放題カラオケ」 100,000曲以上の中から好きな曲をさがして歌えます! オリジナルの検索機能で曲をさがしてみたり、最新の追加配信曲に挑戦してみたりいろいろな楽しみ方ができます。 「持ち歩きパック」 追加コンテンツをダウンロードして、通信環境がなくてもカラオケが楽しめます! どこでも楽しめるだけではなく、録音機能をつかえば自分の歌声をチェックでき、くり返しカラオケの練習ができます。 「お試しカラオケ」 通信環境があれば、毎日無料で100,000曲以上の中からカラオケが楽しめます! 「歌い放題カラオケ」が無料で体験できますので、まずはお試しカラオケでお楽しみください。 【マイデータ】 自分の歌唱データがチェックできます! 選曲の好みによって成長するジャンル属性や、音域などが簡単にチェックできます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-08-05",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d8566eaedcf32717bf7b1a30329e6981f9ebbec2cd2cc261dec8fe03ae683976.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/944608633f523d6a62a92238a435418d6f54115a27bfeea56c66bbc718f65278.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/9d6f74f8849964187c49e81ad3922bc06a5c254e85b9ea7bc6b3060e3be764d4.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e1150bb741d2dedae86b5018d6a9c4904c3ffb45a555ba4686c6e51e8a5ec056.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c614599325dfc9d7f171dc47a39fd671dbdb2a4991afeca42680bb36f92a2e55.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d0edf203bc69fa6326fb33940b5498d5c80f1c22b97a9503dac531fb8751dd9d.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/acbdac22cc4fd4721c83c1994208cdb65f012d6026854c107843e83205b66b13.jpg",
+			"name": "カラオケJOYSOUND 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b547f5c57d4e841dc34a00ecfa070c80e735d9c06299e8473ee1cc30620a5277.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "146"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9e6125a571e391ef3cfbba30cac01fc31cac252f17fa3c922c9a95169d01b20b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "146"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d5d3bc63685d9163144ac266f3c298b740d123bd667f2c10c2f60faafb4104e1.jpg",
+			"name": "『銀河に名立たるハルトマン from 星のカービィ』歌い出し映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/63ec91228b357b41a046808305e213d5bf0ab7fcec4d0d619d39ce000d2f5ded.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "36"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a4f2c29bb97495592079e20fcf440c8246046fd9c185bd38cd29521bd56b2fc2.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "36"
+				}
+			]
+		}
+	]
+}

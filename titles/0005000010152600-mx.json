@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010152600",
+	"eshop_id": "20010000004384",
+	"product_code": "WUP-N-WCFE",
+	"name": "RUSH",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 277,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c73e07423da245d73a4c5b04fcd139ecbf9894100c3e84552c0cc77ee84ccf21.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5be4492eb1b9ed4ad38c320ff7b28a340a6f0d5d4daafcf3d271c8b6108978e7.jpg",
+	"data_size": "209322104",
+	"description": "RUSH es el tercero y último de los clásicos de Two Tribes que llegan a Nintendo eShop. Los otros dos juegos de esta colección son el rompecabezas de plataformas en 2D Toki Tori y el juego de plataformas de inspiración retro EDGE. En los niveles del juego, totalmente tridimensionales, los jugadores tienen que guiar a unos cubos hacia las salidas de su color utilizando cintas transportadoras, teletransportes, señales de Stop, bifurcaciones y más. El juego puede ser controlado fácilmente tan solo con el Wii U™ GamePad, permitiendo que tu cerebro se concentre en las soluciones. Compatibilidad con el juego sin televisor. Estilo de juego único de resolución de puzles 3D utilizando cintas transportadoras, teletransportes, señales de Stop, bifurcaciones y más. Más de 70 niveles de dificultad progresiva. Sistema de pistas, para cuando tu cerebro necesite un descanso. Control estilo arrastrar y soltar. Entornos altamente estilizados.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-12-12",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/2b6ccda1108205ccc3018b3399ee92676b35dfa7577f2c3ad36054cc6e453f97.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9df5e0b2027d71152a2d4354e8e0c687007fe059605586621e7395d372efef94.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8c7944d39b29528d224baf7d0f227c30e95625b6d701881cb18501353554c5de.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/020730618171dbc914bab89778cfdce6923275a026922d53baef464a11104ae8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/64b4ddeebae16e316cc9379d88e3936ec7b8b35642e4df2ff2b0836012521c3d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/cd0fac0f89a5afd747b0f002e9946d57c04cfc11efcceacae094ea3d63839695.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e20ae9c6319a42dcc636b77271c544132f0825511203ff6b28b4462ced31714f.jpg",
+			"name": "Avance para lanzamiento RUSH",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2073e698f84b48883dc46ccdd1b593058c9df58f0e7b21a921606687a6c41e11.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "85"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/641930fc676a68e45fa41d679f96829e63eb63d9c4b11e1ff263a1cdc926eeb0.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "85"
+				}
+			]
+		}
+	]
+}

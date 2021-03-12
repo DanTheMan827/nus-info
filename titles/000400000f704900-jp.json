@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000F704900",
+	"eshop_id": "50010000041501",
+	"product_code": "KTR-N-UA5J",
+	"name": "ロックマンX3",
+	"platform": 1004,
+	"platform_device": "CTR",
+	"publisher": 39,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d1b2428eca1d820fb9c82d25d5ac3e6fb0a533d3aa9d061bf9c003596a2d5b60.jpg",
+	"data_size": "4954980",
+	"description": "このソフトは、1995年に発売されたスーパーファミコン用のアクションゲームです。 人間に近い思考を持つロボット「レプリロイド」が人間と共存する未来の世界。「イレギュラー」と呼ばれる電子頭脳に異常をきたしたロボットが現れる原因を発見したドップラー博士は、イレギュラー化を防ぐことに成功します。しかし数か月後、博士はイレギュラーを率いて反乱を起こします。「イレギュラーハンター」のエックスとゼロは、制圧のため出撃するのでした。 各ステージのボスを倒すと特殊武器を入手できます。特殊武器はほかのボスの弱点となるので、ステージの攻略順を工夫することが重要です。8つのステージには「パーツカプセル」が隠されており、エックスが入るとパーツが装着され、スペシャルアクションが使えるようになります。ゼロを呼び出し、エックスと交代してゲームを進めることもできます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-11-21",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0b0dc64c544997899d108394cd6b8b8a2b6b9a0ebd09b687a010ad48ecd232fb.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/cfbf0cb1739746b85c13d2e52ea7284dc081ca79886276bd1eb06166d41e9ac6.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0e64ee56f3a5535b62035bab0bf0017542b3f58024b32f6fbb3190896a37ab3f.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a9b11cd0a3db463379b72765959e6872ad6d8f81a99072a5eced037285c3467c.jpg",
+			"name": "ロックマンX3 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/159923e080d2768c7a13a73296626a6f3e28529e3f115c5ce9b7309e86a15ed0.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "88"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/46614fc7d247e40bb80cdb7c7cd57477fd09a5ad889339a6e41e1e722311c906.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "88"
+				}
+			]
+		}
+	]
+}

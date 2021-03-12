@@ -1,0 +1,48 @@
+{
+	"title_id": "0005000010131600",
+	"eshop_id": "20010000000927",
+	"product_code": "WUP-P-WBRP",
+	"name": "Wii U™ Panorama View Carnaval !",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/93ef0672d6f24f39f094a9a6d07470591a422317a879207e9efbc6a23ea8a1a5.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3651920a43c6c71f035c77e7fd28e169ae5a075b3970ca3da6390103451f6e9c.jpg",
+	"data_size": "444989580",
+	"description": "Rio de Janeiro, Brésil Dans cette vidéo, vous découvrirez le défilé festif et musical du carnaval de Rio de Janeiro du point de vue des spectateurs assis sur les bancs du stade. Admirez les danseurs et musiciens qui arrivent dans votre direction, ou tournez-vous pour voir ceux qui viennent de passer !",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-04-27",
+			"retail": null
+		}
+	},
+	"screenshots": [],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/36836f2f70bc549f09df88e4a37f587ccb8ca45df48f456f19a3b74ffa56f541.jpg",
+			"name": "Wii U™ Panorama View : bande-annonce",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/19e4590f4a70e041bd0a7be74a3921fb83dcc3dbd608ce85bce543d85a78424c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "139"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ef476ceb7e24f110a0a372cf8fc9a969cbbd1f759c811ee8538552c63de1cf09.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "139"
+				}
+			]
+		}
+	]
+}

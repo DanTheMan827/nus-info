@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000177D00",
+	"eshop_id": "50010000038660",
+	"product_code": "CTR-N-KAFJ",
+	"name": "アルファディア",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 146,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e6a36823670fbabe13d57cfe54104d8508827f164b2001444b8df62e51b36d58.jpg",
+	"data_size": "42466148",
+	"description": "苛烈を極めた《エナジ戦争》が事実上の停戦を迎えてから約1世紀。 恐怖のエナジ兵器を携えたシュバルツシルト皇国が、各国への侵略を開始しました。 戦争の混乱が忍び寄る中、ハインラントの街に住むアッシュ達が、謎の騎士団に追われていた少女と騎士の２人組を助けたことで、物語は動きだします。 彼らは己に課せられた過酷な運命に打ち勝ち、皇国の野望を阻止することができるでしょうか。 魅力的なキャラクターが登場し、ファンタジー世界の戦記物語を彩ります。 オーソドックスなターン制バトルに、エナジリングを用いた育成要素も搭載。属性の組み合わせによるエナジ技や数多くのサブクエストを探す楽しみも。 プレイ時間数十時間に及ぶ大ボリュームの王道2D RPGをお楽しみください。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-12-09",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a930e17b52ec716d7c715a164b612e3afb80c9df8c547735f6f13fe022cc2afc.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ed5310f30dc9784ee28939d11879b8a1e4e3cbdc5e0201e648e6e3e89bd2e952.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8cd0e06eafb881ae1f3219c049b1ca53f26548f3e966a84c046f7c31b6a5f429.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/45f796717e1d66a3f381748001b00cb545cd3e509e6fbd943f1749060ba2a3cb.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0a11b9fe8bca07a7be02723783befa37fdbe0a5f016742a327e4f9bd65884031.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/51286088abb8c7cf18699a4fdc700e2fba283e5a83925ce527df391bb6b3f618.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ce94dc88aa5f2a88c81c0c17c23e18959bdd45b5547f3c1cf179150e58facf01.jpg",
+			"name": "アルファディア 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/075a6758e4dc7a75176267b08c7b7043db8c6c56958451aca383fdb95668954f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "75"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2fb33d81d5dbe0d835b9d96d2320c57b7a27d71a36b789bcded93097c434ed54.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "75"
+				}
+			]
+		}
+	]
+}

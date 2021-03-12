@@ -1,0 +1,54 @@
+{
+	"title_id": "0005000010151100",
+	"eshop_id": "20010000008026",
+	"product_code": "WUP-N-FB2E",
+	"name": "Super Dodge Ball",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 19,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5f11d6cd7b105234727e07515d757aaff6950494ede9a82d460056c3b98697b5.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4692bd71ac1c49f0a4f348918bd5e2d077b9c94dd502b904c53cea0f135280d5.jpg",
+	"data_size": "36569228",
+	"description": "Thrash, bash, and smash the competition. In Super Dodge Ball, you take control of the USA Dodge Ball team and travel the world in an effort to become the best dodge ballers around. Step onto playing fields in countries all over the globe and use a combination of normal and super shots to help take down your opponents. But be careful, as some destinations have surfaces that can affect your footing! Manage the team as you think best, and swap out characters with other players that better fit your playing style. Two players can enjoy a head-to-head game or play a spirited round of Bean Ball, a six character free-for-all. Three difficulty levels are available (Easy, Medium, and Hard); which one you choose will depend on your skill and courage. Do you have what it takes to lead Team USA to the ultimate prize and win the world championship of dodge ball?",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-06-18",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/b3cfc0a50ff139f2a43195f03eee062ec7f8fc7aa0d4f672358810fb78926780.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/06e577437d572565faa74f3285cc94d00fc910f7574cd98b7bbe469c0dbdcca3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8a283ec974331fb594838010acedc1437b0daf8fb695d5a9b6768d28be709a87.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/35625b9046c782d5a82a52c4181cd455b14bd3d3c3bbff92106535a14beef25c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6d126c04361c752bc931fb2150264121d4550a4098ca4309e16cbbd8f3bf529a.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/98eecd8e33d158e612117d2a4bdc56922222bd0af5c5ec900874d01bfda191b9.jpg",
+			"name": "Super Dodge Ball® Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ac309d6cec755e35f07c68bc0d0b8a2977862924df45ce9251cf47aacd6e194d.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "40"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5eb22e877cb06efe07ef6c2e5e794fefd9129b609a3c569ddfc88c6236e03b76.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "40"
+				}
+			]
+		}
+	]
+}

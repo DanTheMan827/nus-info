@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001019FC00",
+		"eshop_id": "20010000023948",
+		"product_code": "WUP-N-FENJ",
+		"name": "飛龍の拳Ⅱ ドラゴンの翼",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 416,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f7c07981cb1c81172d66f50b14df30a97f9ceed43ab55a2cfec9eead4eb67527.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6f3f9323cadc899a942e06a7eb17d5d04f80381ad24649eb3827aef1b9c7b4c1.jpg",
+		"data_size": "38961312",
+		"description": "このソフトは、1988年に発売されたファミリーコンピュータ用の格闘アクションゲームです。 少林寺拳法の使い手である龍飛や、その仲間たちを操作して「龍の牙」軍団と戦います。ステージを進む「道中編」、1対1の勝負を行う「対決編」で戦いながら冒険を進めていきます。 3つのモードが用意されており、対決編は「アクションモード」と「アニメRPGモード」のどちらか好きなほうで進めることができます。 ■アクションモード タイミングよくボタンを押して敵と戦います。上級者向けの「マニア用」と初心者向けの「チビッコ用」の2つの難易度があります。 ■アニメRPGモード コマンドを選んで敵と戦います。 ■VSトーナメントモード トーナメントを戦います。最大8人で遊べます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-09-21",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/fc140834390e20b74d5a3a69c34ce78016777b9d824172feadca98d77e214fdb.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/d080b67b7573373ca02d55ab9c99690323883457d331484999a8921f2c672eab.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/3036f27e7bfd320e5da97795017b5271b036644d52f3c1532ac9c5cefec19196.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b33ba7187c1743ea38ea889624d09c4c95c47a0f7ee6fe83a00946ec5afcbc8.jpg",
+				"name": "飛龍の拳Ⅱ ドラゴンの翼 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c89f08f0d0e446871c6d11cc3360fd5dbde28ec9b68188d7020495e32a778095.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "76"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0aa8488f903ed8ac7955c829a181d16a797d1a767a73c65189f1e8dc8ff417ce.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "76"
+					}
+				]
+			}
+		]
+	}
+}

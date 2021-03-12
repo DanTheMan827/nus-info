@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000009EB00",
+	"eshop_id": "50010000012861",
+	"product_code": "CTR-N-JUCE",
+	"name": "Unchained Blades",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 294,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c418592f0e26720aebe041ddebf3af3b03c43686d6c2c11b0f6050bfb21a9895.jpg",
+	"data_size": "546200420",
+	"description": "Aunque Fang ya es reconocido como el despiadado y temido Emperador Dragón, su sed de poder le lleva a las puertas de la gran diosa Clunea. Pero cuando le exige de forma arrogante que le encuentre un rival digno de vencer, la ofendida creadora le destierra a arrastrarse por el suelo en un estado debilitado. <p> Ahora Fang tiene que atravesar los peligrosos templos vivientes de la diosa, conocidos como 'titanes', a fin de volver a reunirse con su creadora y ejecutar su venganza. Sin embargo, no podrá hacerlo solo... <p> Aventúrate a través de una red de mazmorras en cuadrícula con una vista en primera persona y lucha en combates clásicos por turnos junto a tus siete aliados, todo mientras te enfrentas a más de 180 tipos distintos de monstruos a los que puedes convencer para luchar junto a ti en la batalla. ",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-01-03",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0b14bbf7c14c8473d77dfcf3a85ab5163e5dd763207b65d5c7a88da7bfa84f66.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6dbca1d342ef96f6a0aa1a68a859f0fd53fd7bb7b14dfe548c756550b94333c3.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/373be0d278a99d3e213d41fc6ff02061def5c99555960cf62217fca42440f1ef.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6e0ffe9be1180c4e393e048295ed15f3f00a5ec0d22705d14757832af8b14a48.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d00a4cac04d28be097eff9463e3cac9b93f7e3411b54edb72e8fb22f21eda75f.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b2264e256bfe0c50902a63e3ba03ae238dae2694600b70f94b187ea3a924e52d.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/34161141addc480c83480269d4face597e2bfc93d27ce03c470a5debdccba331.jpg",
+			"name": "Unchained Blades Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/95849400584fb18ea98aca60531d53676771ccebb651915cf5ec1fe9d5d3c526.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8d44313210576a57a254bd41e7994fa9b4c68262245c41c6ba4b00ab0b6899b6.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				}
+			]
+		}
+	]
+}

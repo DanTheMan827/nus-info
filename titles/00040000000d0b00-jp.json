@@ -1,0 +1,85 @@
+{
+	"title_id": "00040000000D0B00",
+	"eshop_id": "50010000021147",
+	"product_code": "CTR-N-JLTJ",
+	"name": "戦車3D",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 19,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/30e2b6ae84000ec5ec04b322a7454064c6ac3ed278e03c991e7ca3c165dceb65.jpg",
+	"data_size": "79272804",
+	"description": "『戦車3D』はミッションクリア型の戦車バトルアクションです。与えられたミッションに適した戦車を選んで、戦場に乗り込みましょう。クリア報酬を使えば戦車をパワーアップしていくこともできます。敵軍に占拠されてしまった街を解放して、ヒーローの称号を手に入れましょう！ 戦車の挙動やキャタピラの音もリアルに表現。 戦車同士のアツいバトルをお楽しみください！ ■ストーリー やつらは夜明けとともにやってきた。 護衛タンクの抵抗むなしく、我らがパラダイスシティはデビルタンク軍にあっけなく占領されてしまった。 焦土と化したシティを目の前にして、単身乗り込もうとする若い兵士。 「僕たちの故郷を取り戻すんだ！」",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-04-02",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/cad2883c966bf17db65feaee33e4326c98bd33235124d4c0767cfcf2ef43e63f.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/95a0dab11b346dd7191d9675952e5fb3b8cd194d4e936e451d5d8e9f794473f2.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5338b28673435897f527cdb6392048d4515b53d05094b7e35686fffc2f1bb89e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/12f051674ac44292999edc5a1013bb39868e5b849a7cd51080bab68db6f43ad7.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2cae18e6b18a1678d63258ec6e746257de9b3c86411f8a83f472778ebc7b0344.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2f7745864424f3aa8a48ef41710c50fb00e070a05c588d560f0c1f06b57dd61e.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/eca09f627bdc4ab9585153354009aaa934f6ab6c162dda89afa5671063804593.jpg",
+			"name": "戦車3D 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2743dd85169d9ead300e090263e4f28eacb3b676f482889a6ce0447fec7e6434.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "119"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/260dcb98adeb8de36c9c66825f81e7d81cb67efe2dda3477da7e4cd44e82c326.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "119"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/643d4b27207920fdd4a6f4dbc3047f28fbcb8fa4da88e5bc2a6dea7fe479141b.jpg",
+			"name": "戦車3D プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9b0bbe4d5c638ee39a82973527f90db6a336c288dd6bb6dc2971e5826191b35c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/782ef0fbfba96ecb1ae024f6624a74cad6b8c7ea45cc1fb720c8f047c19dcbc3.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				}
+			]
+		}
+	]
+}

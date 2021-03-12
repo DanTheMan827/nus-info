@@ -1,0 +1,63 @@
+{
+	"US": {
+		"title_id": "0004000000130500",
+		"eshop_id": "50010000021333",
+		"product_code": "CTR-N-NACE",
+		"name": "Photos with Mario™",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3a4402eb3b081a097a4cd9a18c3abbecc2a6b8049f63a2ad2afba4e4877c4623.jpg",
+		"data_size": "7904100",
+		"description": "Have fun with your favorite Mushroom Kingdom characters! Use this free application to view the AR character card included with the “Photos with Mario” series of $10 Nintendo eShop Cards. Watch as they leap to life on your system’s screen! Place different cards in one frame to see characters interact in fun ways. Move characters around to capture unexpected scenes, save the photos to your SD card, and share them with friends. Find the Photos with Mario series of $10 Nintendo eShop Cards at select retailers. Choose from Mario™, Peach™, Goomba, Bowser™, Koopa Troopa, or Luigi™* versions—or collect all six. Learn more at Nintendo.com/PhotosWithMario *Bowser, Koopa Troopa, and Luigi cards coming this fall to select retailers.",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-05-28",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2e7ea15ba1a486ec010213f0c1387d17213d7c223b4392b064fd3cd97408259c.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/fff686bb45bfbe37806d240f36e4de71156695e8bf38f9aeb89d07c92d279fa5.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f3fe23fc5fc3d9bd4be4b70d60b65501273395761eac23192b8f9d717cdd313b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8c2fce38dcee4a7876eececaebcb6989dc5c92e40f71221b88a3176a96e9f4f5.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c9e1f576793114c8f6ad645f305e65d059f186ef2622e1d960f6758d93d470ef.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f4aacb8a60e43612f218a446d52f06f4ee02b2ad8c6db8f9f907448ef7b16747.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bdf0d9c8e1b8ca1dc8b1ac1ce45f36b08f54bf5812b0ffd203260ad4ef650656.jpg",
+				"name": "Photos with Mario Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ee3e6ae7493515a4e5ebd6463dc9bbe69ac894d73d68ba3d62a842531f0f8cb3.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "95"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/165124dd8b89f6fbf4aadb83cfa05c77c07b5499305dcc9e4f795cb5d955227d.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "95"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101BBF00",
+	"eshop_id": "20010000014467",
+	"product_code": "WUP-N-AN2J",
+	"name": "ねじ巻きナイト2",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1364,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0e0159b75038a273b9207ef0036312196f8760562803bd318f089eb4d1980ac3.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b96e8ac39f9cdccf1912d4204d8fdb844c3501e5a669e95d6da4615db3c0c122.jpg",
+	"data_size": "1231683804",
+	"description": "『ねじ巻きナイト2』はその名のとおり、巻かれたネジがゆるみ切るまで前進をやめない突撃型ジャンプアクションです。 行く手を遮るいろいろなトラップを、ジャンプ/シールド/ローリングを駆使してゴール到達を目指します。 カワイイ見た目だけど、硬派なアクション! 絶妙なタイミングでクリアできる作り込まれたステージは遊び応えも十分! クリアできた時の達成感は格別です。 また難しいなと思った面で詰まっても、それまで集めたコインで装備を強化してパワーアップできます。 ぜひ、この「究極の達成感」を体験してください!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-04-28",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/589d81c24b520bb12ca7fc96c8a5b83bc38bda43e565fcced23d7049a7725314.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/451a5841eff3df511ce71061ea45c3ec8d78c65252d770f56035bb7f95841259.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/70facb145254740205086d94a7b8354d20f3b37b26383bbba2b8ebbcb1cf85db.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1ef5ddcf6bfad3390cfc9bfdbbc86c9b940dd3ce697d9c4fe519f222f7874b6f.jpg",
+			"name": "ねじ巻きナイト2 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ca759436c8bfd7bb066d5553ac6b1f062a69083f221be3ceda2c6c2b5a0ed2d5.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "32"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/36fdcae44bbcab43f8bc2303e97f7a9a83159d37d35e745577a1dc5fb8b1236b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "32"
+				}
+			]
+		}
+	]
+}

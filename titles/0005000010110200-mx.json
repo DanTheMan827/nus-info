@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010110200",
+	"eshop_id": "20010000000040",
+	"product_code": "WUP-N-AHBE",
+	"name": "WARRIORS OROCHI® 3 Hyper",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 267,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0d5f5a2913b873786398b172db94e5fc54f9f002d82f42153de3faf3f20abb81.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f574667b6b8740a11dc20fde8501ba5f7f33d869911813a13c8f01272fc947b1.jpg",
+	"data_size": "16721282524",
+	"description": "¡Warriors Orochi 3 Hyper combina los aclamados héroes de las series Dynasty Warriors y Samurai Warriors en una historia en la que también aparecen personajes de Ninja Gaiden, Warriors: Legends of Troy, Bladestorm, Trinity: Souls of Zill O'll, Dead or Alive y un nuevo personaje creado exclusivamente para Warriors Orochi 3 Hyper! Años después de la batalla contra Orochi, el Rey Serpiente, los héroes de los Tres Reinos y los estados beligerantes se enfrentan para tomar el control del nuevo universo al que fueron destinados cuando nace una nueva amenaza. Un terrible y gigantesco monstruo con forma de serpiente de ocho cabezas crea un clima sombrío por toda la tierra y derrota a la mayoría de los guerreros más valientes. Aquellos que sobrevivieron, ayudados por el misterioso Kaguya, deciden viajar atrás en el tiempo para salvar a los guerreros caídos y forjar nuevas alianzas, conseguir poderosas armas y formar un ejército con el que poder hacer frente y derrotar a la terrible hidra.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2012-11-18",
+			"retail": "2012-11-18"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/bbedf26ecbe0032358ce4fb83011b92d21dba89be605ea23e13967e38a17d05e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f15f951e88e3914a9c582d50b80d6b74bde66b2f85f99adbbeb9e5ae0d71699d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e21df8b1d0621f48dcf192c1e9d6086eff52945f1978972a8c3f24867d2c7447.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9902b0bdef6cb664d9d3d96897da6146dc5a47a0c78c11620145f4c22e508fe9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/efe47ff58b727ea2baa52a753c4ecf664b94311e289cd7a349109ece716a5b7d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c9ace1f7b0e71365e03c2db1957ae1d95b9c54c6ef9c0341da48fc1382ef490a.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3cdc83fa8916bbff239969baa42e032496add3dcbae7d150815ba892a29067bd.jpg",
+			"name": "WARRIORS OROCHI® 3 Hyper Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/518de27a3c50b743d0ee0d25829cf84b07360e3ff29d05d7c978532ba718664b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "166"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/34742109b06d7aa2887f0d2e92a09c2a3c3e6fb35f0da3602e8ac36c2b565749.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "166"
+				}
+			]
+		}
+	]
+}

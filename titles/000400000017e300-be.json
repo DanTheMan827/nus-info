@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000017E300",
+	"eshop_id": "50010000039370",
+	"product_code": "CTR-P-BGXP",
+	"name": "Mario & Sonic aux Jeux Olympiques de Rio 2016™",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/cfc7d2f1d7d76c13be33cc3633b9aabc4339f67a2c1bce2c7cfaaf5c095475e7.jpg",
+	"data_size": "822414228",
+	"description": "Décrochez l'or avec Mario & Sonic aux Jeux Olympiques de Rio 2016, maintenant disponible sur Nintendo eShop. Des épreuves officielles des Jeux Olympiques comme le 100 mètres, le football, le tir à l'arc, le golf et le BMX, jusqu'aux épreuves Extra des mondes de Mario et Sonic, vous aurez de quoi vibrer ! Participez dans la peau de votre Mii au mode \"En route pour Rio\". En fonction du Gymnase que vous choisirez, vous vivrez une toute autre aventure ! Alors, serez-vous tenté par l'histoire de Sonic ou par l'histoire de Mario ? Vous pouvez faire progresser votre Mii et l'améliorer avec des costumes. Boostez encore plus les capacités de votre Mii en le dotant de toutes sortes d'équipements sportifs. C'est l'or que vous visez ! Visitez le site amiibo.nintendo.eu pour voir la liste des amiibo™ compatibles et en savoir plus. Un lecteur/enregistreur NFC est nécessaire pour utiliser les amiibo avec les consoles Nintendo 3DS, Nintendo 3DS XL et Nintendo 2DS.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2016-04-08",
+			"retail": "TBD"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/9eb9d8b6fc332d7787dd761c526a36cdb49867191df366efde2aa779c7465a99.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/48d2aa97090ddef5f2cacb1cdee477eca92591713877097901c745e25d997542.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/cf76c23fca36a6ecfd625ece4f5475fb0418f492d6371e0aecd1afaf1597bbce.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e04bd2ac1d3312d5b3cb260f007fcf2b6d5cf74388868808afd56d858dd5a30e.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/17b725da5a504e83e7e19fb0aa7a125a4a05f09c0a238381d256bb5752aa350d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/27869729aab18db8f9e22cc7332bd82e5fcdfa21defb6edf1bb94477489e149c.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7d51473f1df24807c9aae7753db77080c810d2755b76341d32d9946af8a4252a.jpg",
+			"name": "M & S aux Jeux Olympiques de Rio 2016 : Entraînement Mii",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e7c7fb74e239484a5a7b290f2fbf1950e7bfd69528393c6a0dd117a9115ab2b8.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "121"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ffd549ed2158765bc0ddca1b8274e40d9eb452c41b1e81c874633ea0e765fdcf.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "121"
+				}
+			]
+		}
+	]
+}

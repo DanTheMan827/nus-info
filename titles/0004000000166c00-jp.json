@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000166C00",
+	"eshop_id": "50010000040721",
+	"product_code": "CTR-N-KBBJ",
+	"name": "バトル オブ エレメンタル REBOOST",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 344,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4ca277a87b1ffb793a74d565e3a823dc625c82f0b0133e0fa543de384f9e823a.jpg",
+	"data_size": "88615780",
+	"description": "DSiウェアとして好評を博した『バトルオブエレメンタル』が、 新規グラフィック、新規要素追加で生まれ変わって帰ってきた！ 『バトル オブ エレメンタル REBOOST』は、 1対1の緊張感ある戦いをいつでもどこでも楽しめる、3D空間対戦アクションゲームです。 新モードとして次々と立ちふさがる敵と戦う「サバイバル」を追加！ さらに、「インターネット通信対戦」で全国のプレイヤーと対戦可能！ 8人の個性豊かなキャラクターを自在に操り、最強のエレメンターを目指せ！",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-06-29",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f092bfabb55cbc1f76afb52384334c7641b744fcc9e801dc89611b7921fc505a.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/441e88625f1442fb810db4962be0a062fd5360aa442ae8564ff887dfed535b70.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0514e6868e62418f6275864bd33bc7c98c46c96703c410099f52a104df56b251.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0b949a7017f7e978ea13dc3b5c8d55d42a26b382bcc7bbf0332b5a37538df10b.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/204550c966b5b6aec4cb522fc3356e406da1c0ceca4def95b5317fef80a946ee.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8f5164a3c6d59edfe7b299398c097ed5aacc383308afaa59b2914d429a9a1462.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b0b2ce3e445987707796c2aee6117c3cb05c01bab0bb574303eb19f4bc3921d9.jpg",
+			"name": "バトル オブ エレメンタル REBOOST 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7d752c33c7d3b7cc9c2bfacd77c0c92080add816f1c9e0ee1707434420ca557f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "160"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e609bba7a27580d9c96ec6cd4279cd3e83e7bda4ccf74ac7d0953d46b8180557.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "160"
+				}
+			]
+		}
+	]
+}

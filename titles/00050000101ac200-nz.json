@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101AC200",
+	"eshop_id": "20010000016967",
+	"product_code": "WUP-N-DAMP",
+	"name": "Star Fox™ Command",
+	"platform": 169,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/219bc3a0b4c1276382cd3aa421d31eaee3e9f7fabf627f30133c835b5132d1b1.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d0bf5bdc61c9ccbc82c58c9e234aea82775fc5f85ef9d1cec5a26045c82d5395.jpg",
+	"data_size": "84541560",
+	"description": "Star Fox returns to its roots with a blistering space shooter on the Nintendo DS™. Lylat needs help. Players hop into their Arwing fighter and fight through a unique branching storyline of missions, all rendered in gorgeous 3-D. Star Fox Command brings a whole new strategic element to the series with a commander’s view of the mission. Using the touch screen, players can draw the routes they and their teammates will take, then battle the enemies they encounter as they take over bases and strategically advance across the map.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-08-07",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/239a4ebe60df22419d0271b2578b31f1a7e0709d597e0670f6d2714ed401fafe.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5c378418f7a6edd8bd40e16f840641c816097cfa12f33b19216e8235df6ae5a2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/be1748dc6497f6ac4d5584f3db3bd1cc0153d4ddb6ea4336a1f0f1138bc91514.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4d542b50bf31ad1918780938b5ca07d76fda9fdd89aedd338a1e11a96b919a03.jpg",
+			"name": "Star Fox™ Command: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/aa6fda26ec81ad81f6ff517ba1c49ca5ecc835079228c485d49f6abf76f379cb.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "63"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/db3cbb411c5b9b0e7fa5bab17a4f041f8f9e51fea6324bf27f3647d0fcc3b3c3.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "63"
+				}
+			]
+		}
+	]
+}

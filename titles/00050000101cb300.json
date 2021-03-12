@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101CB300",
+		"eshop_id": "20010000016807",
+		"product_code": "WUP-N-PDFJ",
+		"name": "ゲームボーイギャラリー4",
+		"platform": 168,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6e98edc46095a585d6946f5e8a9b8aa01de137cec7ad68825142229d20fe18b8.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d1e18aeae2eeea7176be5adfd69684d01445edca824045839fc532b7970b4061.jpg",
+		"data_size": "72843404",
+		"description": "このソフトは、2002年に日本国外のみで発売されたゲームボーイアドバンス用のアクションゲームです。 本作は、任天堂初の携帯型液晶ゲーム機「ゲーム&ウオッチ」のタイトルを集めた『ゲームボーイギャラリー』シリーズの4作目です。 収録されているタイトルは「ファイア」「ボクシング」「レインシャワー」「マリオズ・セメントファクトリー」「ドンキーコングJR.」「ドンキーコング3」の6本で、グラフィックなどが新たにアレンジされた「いま」モードと、懐かしいオリジナルの「むかし」モードが楽しめます。 ゲーム内で☆（星）をたくさん集めると「ギャラリーコーナー」にさまざまな項目が追加されていきます。「ゲーム&ウオッチ」の歴史が学べる「ミュージアム」、BGMが聴ける「おんがくしつ」、おまけのゲームなど、ファンにとって思い出あふれる要素が盛りだくさんです。 ※☆を170個集めたあとでクレジットを表示させると、オリジナル版で通信機能を使用して入手できる☆20個を入手できます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-03-16",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/1bc481414c8b978a7afc133a189923972cace1bb1fb100a334198d5d9c55da7e.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/9db2740638aa9e54d9368252da2d9094f966ac25599e8565e8b3b5f38436068c.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/d38bbaad48aafd6f2985c94910c41d055bc18ea9742f07caa010be7e5662f52e.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6f8e41697838181ed0125c41ccc23d92662998820aeb51ed91424712c6de4f91.jpg",
+				"name": "ゲームボーイギャラリー4 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bde7130932eeddfa90e4e591e715a3a05100e359fd9cf68d4d4de457cd807f1b.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "62"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/67c8a87881cbb75f951525e56d29aa84534497c1e9b772ccbd1fe5a679790e50.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "62"
+					}
+				]
+			}
+		]
+	}
+}

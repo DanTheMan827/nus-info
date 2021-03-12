@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000001AEF00",
+	"eshop_id": "50010000042366",
+	"product_code": "CTR-N-KG9J",
+	"name": "超科学脱出 最果てのクロスアイズ",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 133,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/affc7260b6c4ba593272fe8a1b9bcbdbb6e5bafde65ebad5f531057347c29279.jpg",
+	"data_size": "134945636",
+	"description": "コマンド選択式のアドベンチャーゲームと、脱出ゲームが融合した超科学脱出シリーズ第3弾です。 「綾名京介」と「茜野瞳」の2人の主人公になってラトゥーア市を舞台にコマンドと選択肢を選んで物語を進め、閉じ込められた3つの部屋を脱出します。 豪華客船の爆破事件から数ヶ月が経ち、2つの超能力を持つ少女、茜野瞳（あかねの ひとみ）は超能力研究機関ZENA（ジーナ）に所属し多くの人を救うため能力強化に励んでいた。 ある日、見覚えのある幽霊マークの手紙が彼女に届いた。 それは、豪華客船の事件の時と同じものであった。 一方、椿丘市での連続殺人事件から間もなく過去改変能力を持つ義肢の探偵、綾名京介（あやな きょうすけ）は連続殺人事件の関係者である神志律（かみじ りつ）が東欧の小国ウィツァロークで紛争を起こそうと行動している情報を聞き、律の暴走を止めるためウィツァロークへ向かうこととなった。 ――今、2つの物語が交差（クロス）する。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-02-22",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7106de86cd63c8430ba231873a883922fa01e63b8d018c47f8004f9ce96e48cf.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/fc0979551255977fbd6e465e5d35a5dab8473732a05c2160ebd1088657e403e4.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d1469236f46eec632b371ca54c8b2ab168d3a6a723d50f5ff52fbe78581e23a2.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f4e929af4886b651b7ec02e94eff334e82ed9138e7aed10181abca370fb3c7fe.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d8100f6ff17333de312166e43c0c3d3533762725bc48d767614458d990693895.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/44f3d801f7c0794553331c8963c49ecdda07125d5a3bbbbe65e0d9bbbb5a0444.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3c9bddd357c6108d7a65c337785bc6ea7b552281735e8c5c8bc5a6bff3859584.jpg",
+			"name": "超科学脱出 最果てのクロスアイズ 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/509010121158dd13167e5ada073ff70f3564d9ee2655158d55e45d85c0c3d3f2.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "160"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e6cc022f3e9fa3ca95bb08f9ef1a285ab8cfff924d3489e2926a21e83246f055.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "160"
+				}
+			]
+		}
+	]
+}

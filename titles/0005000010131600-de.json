@@ -1,0 +1,48 @@
+{
+	"title_id": "0005000010131600",
+	"eshop_id": "20010000000927",
+	"product_code": "WUP-P-WBRP",
+	"name": "Wii U™ Panorama View Karneval!",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/93ef0672d6f24f39f094a9a6d07470591a422317a879207e9efbc6a23ea8a1a5.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3651920a43c6c71f035c77e7fd28e169ae5a075b3970ca3da6390103451f6e9c.jpg",
+	"data_size": "444989580",
+	"description": "Rio de Janeiro, Brasilien In diesen Aufnahmen vom Karneval erlebst du die lebhafte Musik- und Karnevalsparade, die alljährlich in Rio de Janeiro stattfindet. Von verschiedenen Perspektiven des Publikums auf den Stadionsitzplätzen aus betrachtest du das bunte Treiben. Du siehst die Teilnehmer der Parade auf dich zukommen, aber du kannst dich auch umdrehen und die Gruppen sehen, die schon an dir vorbeigezogen sind.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-04-27",
+			"retail": null
+		}
+	},
+	"screenshots": [],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/36836f2f70bc549f09df88e4a37f587ccb8ca45df48f456f19a3b74ffa56f541.jpg",
+			"name": "Wii U™ Panorama View: Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/86574d2c72d27d2df64f0efcc2af2bb132690b670179dc71756fa66642a8a449.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "139"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1432a141187da1533df1cfaf059fc4853ebee79c7182d2b38a6cd2c79c6dc527.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "139"
+				}
+			]
+		}
+	]
+}

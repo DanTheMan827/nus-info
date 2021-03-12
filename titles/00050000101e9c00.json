@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101E9C00",
+		"eshop_id": "20010000020768",
+		"product_code": "WUP-N-ACUJ",
+		"name": "キューブライフ：アイランドサバイバル",
+		"platform": 124,
+		"platform_device": "WUP",
+		"publisher": 882,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e84cbc8d730d677af5f83e6276077d1941fb645f47c2e7b2bc60633e56bd5bc1.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/273e1eebb8277377ebd1b721164a67d2fdad64ee2a59b7229fc95971d15e7656.jpg",
+		"data_size": "199426188",
+		"description": "『キューブライフ：アイランドサバイバル』は、3つのゲームモードで探検、ものづくり、対戦、タワーディフェンスなど、プレイヤーの思いどおりに遊ぶことができるゲームです。 ■ サバイバルモード アイランドにある島に漂着した主人公「バリー」を操作してアイランドを探検しながら入手したさまざまな素材を使って道具や防具を作ったり、小屋や基地などを建築してアイランドでの生き残りを目指します。 ■ クリエイティブモード さまざまな素材を自由に使っていろんなものを作成・建築しましょう。このモードでは、武器やプレイヤーを出現させる「スポナーブロック」が利用できるので、ローカルマルチプレイのデスマッチモード向けにマップを作成することも可能です。オリジナル作品をMiiverseコミュニティに投稿して盛り上がりましょう！ ■ ローカルマルチプレイ 一台のWii Uでほかのプレイヤーと一緒に3つモード（「クリエイティブ」、「デスマッチ」、「タワーディフェンス」）を遊ぶことができます。プレイヤー1はWii U GamePadのスクリーンとコントローラーで、プレイヤー2はテレビ画面とWii U PROコントローラーまたはクラシックコントローラPROでプレイします。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-02-03",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/9688a70473323e3de03b07568ea2eaf8a6bbaaafc0c4147292a5c21ebef80174.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/2caa3873e39d497dc03b18ae53e254bab1301e2c5cd86928c693d3776c3300af.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/ce8fd818140227ce6486473603fb155f4602f604c772ecc6336aaa537ab9df0e.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/49ab3485a441f7ce2a97a4bbf1e2cf69db88e7df3910312ef763c838d4f8c97d.jpg",
+				"name": "キューブライフ：アイランドサバイバル 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b71e8f2122f640d867dda6181be156a627dac97da9205a718ac01acfd7b18a5f.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "72"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e2d9b592c2113d705a7db0fda622d1c8d26d1381448cbd68943e25bfeb14b5ba.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "72"
+					}
+				]
+			}
+		]
+	}
+}

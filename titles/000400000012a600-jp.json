@@ -1,0 +1,85 @@
+{
+	"title_id": "000400000012A600",
+	"eshop_id": "50010000021818",
+	"product_code": "CTR-N-JL2J",
+	"name": "SLICE IT!",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 19,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/bbd6841e5e2be9bb0de4b0d93d3b91e533c73f80e16f2ceef3d1b84d52030498.jpg",
+	"data_size": "59984740",
+	"description": "さまざまな図形を同じ大きさに切り分ける「スライス」パズルゲームが登場! 簡単そうに見えるって? でも、だんだん複雑で難しい図形が出てくるから油断大敵です! ステージ数は200+αの大ボリューム! すべての図形を切り分けよう! 30秒間に次々と問題をクリアしていく「クイックモード」や10種のさまざまな条件を開放していく「ミッション」など、クリアしても楽しめるやり込み要素も盛りだくさん! ちょっとした時間でも気軽に楽しめるスライスパズルの世界へようこそ!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-04-23",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/aaac686f5cbdd24452f262d24e501cf89ea0ba561cd10298680556589bb36039.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/3542f2794af71ec4f75469539abdc0d79c2f35570a4bcf297e5393eb2115fb09.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c9713be5a305f27f6e0cc8fdcfd9e4f7b50fe14f5410e697495931b35761da18.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e3aa8b2cf2ebcb546b939198c9359116f3e4c8e86f89542d5c0fea17ce2bfff5.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7fd55678851acefa1f6a9ee6c37f0fbd28a58c19aaff8ba1e7f5729e2cd07e90.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/49eb495b3cfd71070388dfbd153d6b7ed12164d315625f9a81130b9319e8a618.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c7c21fb06eae2377d2af2fde99f05abecaa87f4116ba5f3962971399be0dd0ca.jpg",
+			"name": "SLICE IT! 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d36204a2f578811ca05c0d4bdf6fb528af9c9f58dd34a3b8d33236494df08caf.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "128"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c65baee65a6cce5ca405520572ff6819b5ed0d74a82c6921bb1459505afe2f7e.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "128"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/877cc7d96e1c1b8ddf524921524cc1611edd6cac531a9ff379a0b431e6785af4.jpg",
+			"name": "SLICE IT! プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b7bec135cf4328707445713792f41dceddbc2dce411e357c2e05cbca2f73b5e9.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "47"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d0f921419f0f7da9eee846249de1a8ab7499315b9311d36834eee88d4ea7ac58.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "47"
+				}
+			]
+		}
+	]
+}

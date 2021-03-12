@@ -1,0 +1,79 @@
+{
+	"title_id": "0005000010173300",
+	"eshop_id": "20010000010127",
+	"product_code": "WUP-P-WCGP",
+	"name": "Stealth Inc 2: A Game of Clones",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1286,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d8c5d710f64cd02da9c4262e88ed3f072c6a29106436162fb6eb1e732784452d.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/36d50c47bed8ecb614aaa435b3cad1d695e3786d1c28acdd1ed31286eae58b05.jpg",
+	"data_size": "319324320",
+	"description": "In Stealth Inc 2, you play the role of a clone escaping a sinister and high-tech testing facility. Stealth Inc 2 tests both your brain and your reflexes over 60 varied levels linked together in a sprawling overworld. Death is never more than a few moments away, but one of the few advantages of being a clone is that death isn’t all that permanent. With no loading screens and no lives to worry about, players are encouraged to use their inevitable demise as a learning tool as they navigate lasers, homicidal robots and terrifying bosses in the ultimate hostile work environment.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-10-30",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/266ff897fcd3cfd5c9c2c759b28efb8d69ccf8f5684d0523d72dd78e6cde6786.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bc6ba6a0411d37a2fe282011aaa47cbe9317a13e32f9e9e4b3cb24b11ab76611.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ec372b7cf47235c0eecf33994f0fe06023b32c7455ec5e09849409c0103bb378.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0e8c72accd0b6718c3972006cc60a64e341172b761768549222528873e70f4ca.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3bf942254d9ded49736f0fee1dac2a67333c6c8c9c3db831e73642cf964ed3da.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/398eddc5e17e435fcc8153fc15a26f8b801c0be98c121c69e12ae5b3af5b843d.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/767eea9bb059edd155cbb136ab85a61088a9aa14552e560871d112477e8647c4.jpg",
+			"name": "Stealth Inc 2: Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/956c500d27b0b4f5b468bb05b6587dad9b409c3ecd407c0f9ebb43f7083e6f27.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "70"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/43e7815e87959cbcf5fc5be23bb89a5cd19631d7d77201e8760505d1ded22864.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "71"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/767eea9bb059edd155cbb136ab85a61088a9aa14552e560871d112477e8647c4.jpg",
+			"name": "Stealth Inc 2: Launch Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/792b053b02479b2f241072faec2b19fb069128f932ef5d38457b9a6b976eb438.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "129"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f3868cf5935a4a70fe46acad3dd26dd1f5b039b14a05fa4c547565c4c675cb27.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "129"
+				}
+			]
+		}
+	]
+}

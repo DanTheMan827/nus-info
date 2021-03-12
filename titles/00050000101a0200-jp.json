@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101A0200",
+	"eshop_id": "20010000012628",
+	"product_code": "WUP-N-FEQJ",
+	"name": "フォーメーションZ",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 1800,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2d3b64404043c5dcb550cc8cd80a09b25b0144e21d4b96d0abb97b69c0b3e545.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/789a91f0c975e6f60eeeae7eaefe9538a2c8befc5b80c4505d415c1e0a29a9dc.jpg",
+	"data_size": "38830240",
+	"description": "このソフトは、1985年に発売されたファミリーコンピュータ用のシューティングゲームです。 「地上形態（白兵）」から「空中形態（戦闘機）」に変形できるロボット「イクスペル」を操作し、地球を守るためザナック軍と戦います。 地上形態はエネルギーを消費せずゆっくり進むので、敵を倒すことに集中できます。一方、空中形態はエネルギーを消費しますが、高速で進むことができ、早めのステージクリアをめざすときに便利です。2つの形態の特徴を活かして進みましょう。 2種類の武器のうち、パルスレーザーは敵の大型兵器には通用しません。ビッグバンは大型兵器でも破壊できますが、連射はできません。うまく使い分けて攻撃してください。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-03-29",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/3e67c8fc2f8a932900ef21f93f3b6f8cc36ef5a62e5ecb38193dc18716c0b68d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5a0adc0dd63509db40a973eb1e44bc72c5d5c52c80bec40262933377a86c98cd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9f7806c8b128dac12b5927056867cb08230b48247412e78774c1a40b74c10c18.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1164aa178dfe283f419eea519c0c361b15a2ec246637b21ddf4d6f7d2782940d.jpg",
+			"name": "フォーメーションZ プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1d806115335e465d21e8c8e2ed38e28ee9676bc6f437064a43c860b0d5d7f02a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/949e9c150647510652e912b5c7af32672b0a55315c71956622764a074673b485.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				}
+			]
+		}
+	]
+}

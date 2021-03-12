@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010179600",
+	"eshop_id": "20010000011347",
+	"product_code": "WUP-N-WFRE",
+	"name": "Shiny The Firefly",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1301,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/06fcbfe9afd15dbdde9e49948991a032abd0ee624b8db6bc439a7dee68d0ac2f.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/acc46f00e34aa23f3b8b7bfcfa5f2f6845b3052c7cfbf5ac71d1701bc468e04a.jpg",
+	"data_size": "483066016",
+	"description": "En este fascinante juego situado en lo más profundo de un pintoresco jardín, tu misión será ayudar a Shiny, una graciosa luciérnaga, a encontrar a sus crías perdidas. Tendrás que volar, correr, esconderte y protegerte de una legión de enemigos. Te enfrentarás a tozudos mosquitos, sapos voraces, plantas traviesas, veloces avispas, ciempiés infinitos y un montón de bichejos peligrosos que se interpondrán en tu camino y te complicarán la vida. Para adentrarte en el maravilloso y colorido mundo de Shiny tendrás que poner a prueba tus reflejos, tu ingenio y tu inteligencia. Hay un sinfín de animaciones diferentes que te permitirán conocer el estado de ánimo de Shiny en cada momento. Sabrás si está contento, preocupado, cansado o enfadado. Haz uso de tu poder luminiscente con destreza: las crías solo pueden seguir a Shiny cuando este tiene la cola iluminada pero, ¡cuidado!, porque esto lo hace visible a los ojos del enemigo... ¿Quieres ayudar a Shiny a reencontrarse con su familia?",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-11-27",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/85fe55a7dd9a9e1027724329d10704a5cbadcfacb871486b9ead790bf7c19a85.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ceb2e10482241b6b5ba2d378929e9fd5c3dfa6f1eca44b2af2b6bd16ba656b6e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e45e0c88da2e7ae63049626adb0b6d7e5e42d99068a30e7759982790cbd276d0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a76732b7c97367c418cc6cc99e331cb3ff71b027e780984271868002666a154c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/df43067092b21445dbcb6b4af0c283b1b93bc6946f0fc7796b996ae3c1092010.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ee0ba905caf90acbd930ab72f9f1946401194925729dcd8e02468829586b87ae.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f270ef32286b0195dd5c49731f4dd80f598870859e016f072cba88a4e06298d1.jpg",
+			"name": "Avance para lanzamiento Shiny The Firefly",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0b90dae8fad16e2a9e2dc4e7876a220bcdabb13f17a4ff3e8c228cc4f7e3ca0e.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "94"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1262e4792ef9210afcf255a098028e580479243ea832aef032a7b15eb2efc766.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "94"
+				}
+			]
+		}
+	]
+}

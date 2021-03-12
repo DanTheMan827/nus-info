@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010150700",
+	"eshop_id": "20010000003405",
+	"product_code": "WUP-N-FBVJ",
+	"name": "ワリオの森 ",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/20d65a647fa134fce4110f1be7710cd06ca79573c3a59918ae37d0382b8c3904.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/efeb570c6e560eafd38608136b5761a259241a897eabedb56930365e8139b121.jpg",
+	"data_size": "36634764",
+	"description": "このソフトは、1994年に発売されたファミリーコンピュータ用のアクションパズルゲームです。 キノピオを操作して、妖精たちの「平和の森」にのさばるワリオと手下のモンスターを追い払います。爆弾を含めて、縦･横･斜めに3個以上同じ色で並べるとモンスターを消すことができます。ゲームを進めると、それだけでは消えない手強いモンスターも現れるので、モンスターごとに消しかたを考えていきます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-01-29",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/831765f0377c88c88fee59915a1986b0a8a6b18def4905c1764204994589266e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8df3734886831f8fcc271d26cffeeafe2e20403bab312d3019e68f193af5aa4b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9b887717683751f26a690a74f9e3efe6b35f5d8893afc37ffe2a7dd63877faf9.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f270d70725908f7f455b2d33e0af0b021728501fec3b0ed7975f678dcb8e3cc8.jpg",
+			"name": "ワリオの森 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/809fed7040f75e34af90e5977c490e0a25df917eb4bff6d4978b46e673e55893.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0c302a74bf8d4bd53dcfd975835fec79ce6fe6f5b979bac89cd3a7024de1af74.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				}
+			]
+		}
+	]
+}

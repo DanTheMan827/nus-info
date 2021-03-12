@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101D2400",
+	"eshop_id": "20010000021829",
+	"product_code": "WUP-N-DAZP",
+	"name": "Mario Party™ DS",
+	"platform": 169,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2e8202c210a79000f30f00c8024a79808835045552ca383b709e0ae5a7e84abb.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/19d287ecee085524041a107c4c3db80e75e562dd8a4e7bfdac09f731a953bd1a.jpg",
+	"data_size": "70353016",
+	"description": "Fedele alle sue origini, Mario Party DS raduna i giocatori su straordinari tabelloni, disseminati di minigiochi divertenti e strampalati. Mario Party DS comprende 5 nuovissimi tabelloni, 70 minigiochi nuovi di zecca e una stupenda grafica tridimensionale. Mario Party DS propone una modalità single-player in cui dovrai lottare contro Bowser e i suoi tirapiedi. In questo gioco, Mario e i suoi amici sono stati rimpiccioliti, vittime di un brutto tiro di Bowser. Devi riportarli tutti alle loro dimensioni normali sconfiggendo i seguaci di Bowser in ciascuno dei cinque tabelloni e battendo lo stesso Bowser nel duello finale. Non puoi perderti questo fantastico party!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-04-21",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/7c142f3039c6305e483f83110f9e3ad106b649e84210896f610facdd3687c8c6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c9f9bfc9228f801385e52332f75e8f992b7ff92d03ce8478bc757fac6499cb5a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c8043473526a5d238c8f367182b86658c89689dc250ad20c3b2b71c4cc9664c0.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bb5a520effa2deea4abdda772f3775d7fcebffa73733ba0aefe64af91260e107.jpg",
+			"name": "Mario Party™ DS: video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/878cfeda406db0bdb762e366b6ace44464138b702ae023ca0f5f455fa35853fa.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "53"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8e2cb08ffd06af8b69730ca5ee47beea2b661df1d2e7f34808d3576b8e201fa2.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "53"
+				}
+			]
+		}
+	]
+}

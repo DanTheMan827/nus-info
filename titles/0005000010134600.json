@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010134600",
+		"eshop_id": "20010000001844",
+		"product_code": "WUP-N-JBCJ",
+		"name": "三國志Ⅳ",
+		"platform": 164,
+		"platform_device": "WUP",
+		"publisher": 267,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c6acbe1f4344fb44e2d1ba92df746d293c8049e3d9e28350a6ed673eb96cdc03.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d96dd936bc3bd44bc23feb1fe4ac118475d0f8ec1018ce2c21717b5702ecd942.jpg",
+		"data_size": "42172556",
+		"description": "このソフトは、1994年に発売されたスーパーファミコン用のシミュレーションゲームです。 内政で国を整備し軍備を強化する戦略と、部隊を率いて敵国に攻め込む戦争。この2つをくり返して勢力を広げ、中国大陸の覇者をめざします。小説でおなじみの英雄から、知る人ぞ知る偉人まで、能力値や特殊能力が異なる400人以上の武将たちが登場。自由に編成できる部隊で、誰を大将や補佐として起用するかが、戦略を組むうえでのポイントとなります。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-07-24",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/158356fe1c8847b65f7a5a070fc3cf170388fe034b2d2516c1c35028ed214035.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/dc19ed1e2ae1bfc0c2a66450ddd68359fe0cd0a454ce468516aee1106e411254.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/2ffc5d5079fe8442545206055e65d346c60dafaaa39a73988efa778c87bfcfa5.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/44c2e3806e5b730d9828847e5d6312306adc65b812a9a1cd33ce310fd88461de.jpg",
+				"name": "三國志Ⅳ プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ffb35e1beed5c0fb2ef993be42124d641ca54b6957759eb4b0365959d1acc848.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "44"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/dc8537ea3f44733b405ea60d24a7d63c7afbb8ac2273baa614ba630c2a3f6a54.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "44"
+					}
+				]
+			}
+		]
+	}
+}

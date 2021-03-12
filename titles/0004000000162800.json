@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000162800",
+		"eshop_id": "50010000030495",
+		"product_code": "CTR-N-KHNJ",
+		"name": "ひっぱり～ニャ!",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 273,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4386eb5d09e8ab7ef536c80f2d29124f2e797693af9ecedc9ef4a1db1af79d21.jpg",
+		"data_size": "86711140",
+		"description": "主人公の「ねこがみさま」を、タッチでひっぱり、離してダッシュ! 「ひっぱりダッシュ」を駆使して、フシギな生き物「そなえモン」たちを守っていく、ひっぱりアクションゲームです。 操作方法はタッチのみ! ねこがみさまをひっぱって離すと、向いている方向に「ひっぱりダッシュ」ができます。 敵やギミックに狙いを定めてぶつかり、そなえモンが歩く道を安全にしていきましょう。 また、さまざまな能力を持つ「おたすけ」キャラクターを呼び出せます。 ゲージが溜まったらアイコンからひっぱってきて、好きな場所に置くことができます。 戦略的に配置して、ゲームを有利に進めましょう。 そなえモンたちはゴールを目指して、自動で歩いていきます。 ノルマ以上のそなえモンが、ゴールまでたどり着けばステージクリアとなります。 すべてのそなえモンを守り抜いて、目指せパーフェクト! キャラクターのパワーアップや、ステージごとに用意されたミッションなど、やり込み要素も充実! 難易度も3段階から選べるので、アクションが苦手な方から上級者まで楽しめます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-02-18",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7437b48c84122974e20f300bb436ea2ef504dbd999abb47cf2dd6abfcea786b8.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e882886487b22a3d20a475d0baf0ba12d80dfd96d06e19fa44ce3ef07ada244e.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1cb378665a1bf714389c3e84d324bf8603982cba1b97012ab2b1cfea61151e2f.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9668a96d76411069e5dcc0c01ff7835a89b84cb6740cdfa8a868345d7d086ac9.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/79506e7eaaca89957f92b7f2642219a4e902e2e90359aba35f9d454a99df7c04.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b46c7913ef288d46aada6eaa6c83a46ca09f2608ad26d5f6d983abb1a4021c78.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ebbd713f1c31a0fb03e612e3f4b9663e6da6b236814a4981a0321b27775a7c34.jpg",
+				"name": "ひっぱり～ニャ! 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/58ea3ac4b1b006c76fadeb3aa5f2d43fa91b8894f4f888b1b02252eb18c27a52.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "83"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6e4dad0c931d830e0466dd2e3d539235d79754c571a2c90869a893d3dcc1897d.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "83"
+					}
+				]
+			}
+		]
+	}
+}

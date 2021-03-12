@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010174300",
+		"eshop_id": "20010000006887",
+		"product_code": "WUP-N-FDDJ",
+		"name": "ドンキーコングJR.の算数遊び",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f0981704c44879286d416f03d2a13887e416abfe33282da40061d694f799d315.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3e954288cce8f1e5f13acd06ea84784aa4254e6ab4137663de785777d5a74220.jpg",
+		"data_size": "38699168",
+		"description": "このソフトは、1983年に発売されたファミリーコンピュータ用の算数アクションゲームです。 『ドンキーコングJR.』のキャラクターたちと一緒に、ゲームで楽しみながら算数の計算問題を勉強することができます。「CALCULATE(計算)」「＋－×÷ EXERCISE(練習)」の2つのゲームが用意されており、どちらも数字の計算とアクションでクリアしていきます。「CALCULATE」では2人で対戦することもでき、すばやく計算するだけでなく、相手を邪魔することも勝利のコツとなります。「EXERCISE」で基本的な操作と計算の手順をじっくりと練習して挑んでみてください。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-04-15",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/f6974df3bb3d7f58787a4210b7c4069096532371cda3189a832f64caad8760ad.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/6390a889f3989e6e76266c6495c2102a6227dd36aedaa5aec1e2e84124dda749.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/bba911af9648b428d54853bbb875f26f8c2fb848f996eb663c2a2d93e49f1958.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/10455bf3641eac01c4d55d3849326ea37b7751c39f7f00538d52bb2c61b8898e.jpg",
+				"name": "ドンキーコングJR.の算数遊び プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ba5c30506a1cbbebb8fac323d8b473663a9f978c4986c06ab3ed6db20203ec87.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "56"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6887aaf3f3bf4b600f99bbf1d30243f0ef9f1e2c76f5fcf64b50c0aa316ae5da.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "56"
+					}
+				]
+			}
+		]
+	}
+}

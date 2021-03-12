@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101E1500",
+	"eshop_id": "20010000024767",
+	"product_code": "WUP-P-BFQP",
+	"name": "Fire: Ungh's Quest",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1758,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/395b4b5cf5cf4ccd4bcd3eb9f1e0b40d11e146395b8c7df0e153c3213107a250.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0fe9c3acf434519c22973ea0da8ee718bb46550fd0255438d957f8aa1a32a028.jpg",
+	"data_size": "1277559004",
+	"description": "FIRE: Ungh's Quest — это приключение-исследование с множеством головоломок. Дико смешная история подается весьма неожиданным путем — без слов! Отправляйтесь в Каменный век и помогите главному герою найти огонь! Героем этой истории стал немного дикий, но милый неандерталец Унгх, который умудрился заснуть во время своего первого ночного дежурства. Пока он дремал, огонь в деревне погас. Катастрофа! Проснувшиеся соплеменники очень разозлились и изгнали Унгха из деревни. Помогите нерадивому неандертальцу найти огонь в этом огромном мире Каменного века. Если придется, Унгх залезет в живот динозавру, прыгнет в жерло вулкана или отправится путешествовать во времени. Он готов пойти на все, чтобы добыть огонь! Одно нажатие и мир вокруг вас оживает. Примените логику, чтобы решить множество головоломок, и исследуйте все закоулки этого мира. Стреляйте кокосами из хобота мамонта, превратитесь в животное и спасите прекрасную даму от ужасного Окто-Босса!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-10-20",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/9cf86d674bff56c92b90ba303688448b2374b67eab38e4b1e305600231617623.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4fd911d780af307eb03c04f5bc3a70aacc23c579dfd532c91b3f8e34b2da06bb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2fe61896cb87c8e899b98e710158aa42f5db7a630e9b171da7956780eb6e513b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/89f370585cb3cadcea7f6d3461d700f479e2a5a0cacd2654ca7760eaf573ce6a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bc47d93823c3f7fd232b1b2b07971e7200837ef7c724a87b78eddb3154cc2d1e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d26a6ad5b09ca2d420ba0fd53024d8e7c2ade87b36e454e047c2b90fb3cd025d.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ec8e84111d128c5db190c82e42e0535c6f6a8e888c6843268b0d028a28caaba6.jpg",
+			"name": "Fire: Ungh's Quest трейлер",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/80de94b2f2c2cc516c17764b1fd6504f218bb7ae2e638e72a09f7c662cfae68a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "51"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7596083fc3843cf253a853afa87bfbfa0ec42218847f9aca759b443c1d070ab9.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "51"
+				}
+			]
+		}
+	]
+}

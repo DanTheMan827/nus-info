@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001017F400",
+		"eshop_id": "20010000009027",
+		"product_code": "WUP-N-FDSJ",
+		"name": "びっくり熱血新記録! はるかなる金メダル",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 19,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bca02d1bb36714900a70f68a1ffd03cbb5f284aa27b4d42fbc996b25f8df4b11.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e81d1e893f7fc15d55c49cbe75575c3933e3633af6001abd29dccdfc432fc2f6.jpg",
+		"data_size": "38830240",
+		"description": "このソフトは、1992年に発売されたファミリーコンピュータ用のスポーツアクションゲームです。 人並み外れたパワーを持つくにおくんたちが、「ハンマー投げゴルフ」「ビル越え棒幅飛び」など全5種類の競技で、獲得するメダルの枚数を5つのチームにわかれて競います。どの競技も何でもありのはちゃめちゃルールで、ときには相手チームから妨害を受けることもあります。競技の合間に商店街を訪れ、メダルを使用してアイテムや情報を買い、チームを強化することができます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-11-12",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/b33e525d2c9875fd021a16ff153c55abd93c387dc7ad4f237c9fd2e91a64de06.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/d7b5b340e351052f7212462a06612b8bad45a4ad9376aa35f71060262bc3bf8f.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/07feac50b22882f09920c36d3148db11f62943fbbe631eccc82676f639f64bea.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/00ca6c1e6e9aaf8dc45a94c7a1ba557cb762b97d821231e045c60e43235f9f5f.jpg",
+				"name": "びっくり熱血新記録! はるかなる金メダル プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bcaf92d30dde1f0e3f548c3b9cd7504dded6aba58f9e4caf7d0e01a9372d852a.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "46"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/80fbeb70a8f9146b1e5f4083f0a5d728eb423fb544199880c07aa7533a89efb1.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "46"
+					}
+				]
+			}
+		]
+	}
+}

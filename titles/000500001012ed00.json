@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001012ED00",
+		"eshop_id": "20010000002705",
+		"product_code": "WUP-N-JA5J",
+		"name": "魂斗羅スピリッツ ",
+		"platform": 164,
+		"platform_device": "WUP",
+		"publisher": 149,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b7ec2e0d9ca892831e054ba568ad205c4c98c3e06f32f2e9d7b4fe5792e48136.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f7be2d30406f3811d342fb39eff4744cdf18ce1083bab3227401d0e0e1668564.jpg",
+		"data_size": "41189516",
+		"description": "このソフトは、1992年に発売されたスーパーファミコン用のアクションゲームです。 戦闘のプロフェッショナルである「魂斗羅」と呼ばれるビルとランスの2人は、エイリアンに占拠された都市を取り戻すために戦います。真横から見た視点の「サイドビューステージ」と、真上から見た視点で目標物を壊す「トップビューステージ」の2種類のステージが存在。装甲車やバリア、ガンアイテムなど、手に入る武器とステージの特徴を活かし、敵を倒します。2人プレイ時はそれぞれがビルとランスを操作し、協力して物語を楽しめます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-11-27",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/3389ae42656bfe8f769e22f7e2d1be38e550fb6f8edf2a23704badeb0b3a366a.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/d6d9ce771880e762f7a693ea1713e44794eb16d388a4205cae4d3b79dbe99c5f.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/7214473046fc3d6d9a3215061072e2542ff522a27fd8a0cc91f41a11d84510a1.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ef5cfcef5dfc62472a88fa89b75bb3acf216af9eaf80bb0ebabf4f5fd0e4171e.jpg",
+				"name": "魂斗羅スピリッツ プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e934b7fbe6f402bd486a8f3611b6748f857c11f8836723165de8ceb41335bd95.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "44"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e58bbcb81a7ac671c4fc7f2d1177f96cecac516cc96c9f6246e05b089d92f0b6.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "44"
+					}
+				]
+			}
+		]
+	}
+}

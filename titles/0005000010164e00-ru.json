@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010164E00",
+	"eshop_id": "20010000026188",
+	"product_code": "WUP-N-PNEP",
+	"name": "Neutopia™",
+	"platform": 166,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f6769609a478c5d76c7ce513848b08fe62760efb0b0ec5ee11cf454ad27c1fc5.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d5aaec7d3e837fd5ed7b34c6e640157a8306e24d667e3cbf5bfb8415a9833a71.jpg",
+	"data_size": "396492960",
+	"description": "Вы играете в качестве храброго мальчика, который отправляется в путешествие, чтобы спасти похищенную принцессу и вернуть 8 медальонов, украденных злым демоном по имени Dirth. В этой ролевой игре в жанре экшн вы используете волшебный компас и собираете информацию, чтобы найти входы в лабиринты и победить боссов в них. Найдите медальоны, путешествуя по суше и морю, под землей и в небесах. Решайте головоломки, не попадайте в ловушки, передвигайте блоки и разрушайте стены, чтобы обнаружить тайные комнаты в лабиринтах. Следите за своей картой, чтобы найти спрятанные сокровища и мощное снаряжение. Благодаря функции сохранения, правильному уровню сложности и системе, не использующей очки опыта, в эту ролевую игру может с удовольствием играть каждый. Если вы приобрели игру на Wii™, вы можете передать ее на консоль Wii U™ и получить скидку на обновление игры до версии Wii U.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-03-16",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/acb8f7b0c7c8caecf10f0fc3829c6837214e0c6d5ecae90930238ee00787aadb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/cf96a8b97a6d24f7a2885a17f580973730886d25c3d5e6f0c94daa84e514c2d3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/eec2290efb3987b69ed307481a1489b4e9547da7670c42bb27a0acb3c85b6db5.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e9f61bdc9487e06fe804ccdb711c974a43c5e62c6a7bbd07cf3a46bd2d5cd9b3.jpg",
+			"name": "Neutopia™: видео",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3869b3fa64b5817294738999de45f7b4ddc3ecfa133b7f7e6dc7c7c8bad0b367.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "37"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3c8421e139a7be58b6a97532c88a8796b3fc8a2795b905e12b3f3d61296154a0.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "37"
+				}
+			]
+		}
+	]
+}

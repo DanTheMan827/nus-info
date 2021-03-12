@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001016A300",
+	"eshop_id": "20010000007466",
+	"product_code": "WUP-P-WMSP",
+	"name": "My First Songs",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1240,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a35d6291dd1d7f05b21ecc1755ad244e2628984aef55c5d3595201adf5f394f1.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/49d7a38fc8003711883275083da02757e3995a8ffa4f474238e0f735133141c3.jpg",
+	"data_size": "827162824",
+	"description": "As Minhas Primeiras Canções para Wii U é um jogo de karaoke com algumas das mais populares canções infantis inglesas de sempre. Playlist: Baa, Baa, Black Sheep The Farmer in the Dell B-I-N-G-O Old MacDonald Three Blind Mice Twinkle, Twinkle Little Star This Old Man Alphabet Song Hickory Dickory Dock Mulberry Bush Itsy Bitsy Spider Yankee Doodle Michael Finnegan She’ll Be Comin’ Round the Mountain Mary Had a Little Lamb ",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-06-12",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/32f0f6d16a5065846bd72cc464c20b2d9361520b936a0bc3d7318136d7ceef79.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/396bba93a738a68538331ee659943acbfd5316557b1a3523b30255acd3309828.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d0bebe37e6e7b9f38810d5c35ca03ed2736d3708d71ee1c72230926af24a93e4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/edbb2be99fa1d8af4ab2ce3610e27b1cfbf0bbc96262e9d84fbff422021d85ba.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1f7139a46201877c35408137586c296b5ed1f928ac1997a021d7753f14d89f93.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ad3717cf32f90b3f4c27bb93e20f302c14d97ca15df087f70a2603558ada2090.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2b3316eee438fd5867e408b968d5dcb588a9b5138b6405440907e7859071d7a9.jpg",
+			"name": "My First Songs Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f5c695f1d4980a77853cacc26e9f7ea1ad143eb63e1add3accf44f7c1bf10f75.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "115"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d31ce5f656f3a16fd1613063005948a1cc73294371ff8822a4970fea2c687564.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "116"
+				}
+			]
+		}
+	]
+}

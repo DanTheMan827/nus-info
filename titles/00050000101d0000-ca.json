@@ -1,0 +1,54 @@
+{
+	"title_id": "00050000101D0000",
+	"eshop_id": "20010000016167",
+	"product_code": "WUP-N-AD7E",
+	"name": "Solitaire Dungeon Escape",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1336,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ff07fd43a0cbe1afdece9b7f79601fa5e5667e934c6cf360d537b2fa9ff9e4ea.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/2d8710e20cf0226000bd5a3abeeaca6d3e9b06908f37db1e54e2fc9a0d403448.jpg",
+	"data_size": "206307468",
+	"description": "Your princess is locked up in the last room of an intricate dungeon, guarded by a dragon. The keys to open the doors, are split in 16 parts. The only way to get these parts is solving a card game with magic cards. Let the adventure begin! The card game consists in clearing the board by taking a card that is one above or below than the card on the deck. Among the 160 levels available to play, you would find several missions. From level 6 you would have available a wild card, that you would be able to use any time replacing the card that you need. It's very useful for building long sequences. Each card taken off from the board has a value of 100 points, and if it follows a sequence then its value would have 50 bonus points. This means that the longer the sequence is then more points you get.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-06-18",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/a6b1e64438483520888e35c60b043c944c8481e93b527977ab79497ed6362c7d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7d0631c57ea6b50d9bb4a92ccefa701b8b076824bc1929b365cfaa4d072cf793.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/891e58b7acc02c8ce672fbc4e91c6401155a9304c0797e28efb244d8070c04b3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3d7f6a965d606588feb5e56a2f745b76883cba82ae7ad5937e06fffe4fbe1bff.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4f1c127a32a3108bbb2622240f867ba094d6f0e97db7bb94418a710fbe077f2a.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c3aadf856dffc608e743cd5ed131b99e7960dca1ef9425601bc85a2f306580cf.jpg",
+			"name": "Solitaire Dungeon Escape Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/730133befb54ee6c73b1b0d8b723a1bf5c754e390c2d8981697b189a40b0b5b9.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "135"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/585d43b0974efeb82c5141df459a387e95d1f871f5e692a2200328d76ad6c9e9.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "135"
+				}
+			]
+		}
+	]
+}

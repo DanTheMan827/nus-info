@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000012B200",
+	"eshop_id": "50010000025680",
+	"product_code": "CTR-N-JFWJ",
+	"name": "名画と楽しむ大人の間違い探し",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 19,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/44f2f10a8d1a2bbcd212af564ee7daa1ca057eff8072c9d0e41646d7e9e27913.jpg",
+	"data_size": "70114148",
+	"description": "このゲームは300点以上の名画を鑑賞しながら楽しめる美術館のような間違い探しゲームです。出題はルネッサンス、バロック、近現代の3つの時代の作品が出題されます。 操作は上下画面に表示される2枚の絵を見比べて、間違った所をタッチペンで囲んでいきます。名作が登場する絵画の世界を心行くまでお楽しみください。 ■簡単操作で楽しめる間違い探し 上下画面に表示される2枚の絵を見比べて、間違った所をタッチペンで囲むだけ。 ヒント機能を上手に使い、全問正解を狙いましょう。 ■名画に関する知識が身につく名画クイズ クイズは、名画の作者や作品名、時代背景などから出題されます。 クリアしていくことで、自然と名画の知識を身につけることができます。 ■名画のデータベースとしても使えるギャラリーモード 間違い探しをクリアしていくとギャラリーモードで閲覧できる名画が増えていきます。 ギャラリーモードでは、作者、年代、作品の製作背景などが記載され、データベースとしてもご利用いただけます。 多くの名作が登場する絵画の世界を心行くまでお楽しみください。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-10-08",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/77500801c8e2d7b5ea55c98da3ef42cedf1e7aed278a98dd502f306c732fc695.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/dca1a598dc43decfa015110a123413410c2d22216e306c8c895034db0ac2c375.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/10eec6b2e9ff1ab887ec2493e69c55a02dbfa0dd09fec4ba02b180bd500ba7d4.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7411d999a8c78131aef0ed65b95a9a3cf8c9128faab618683d2ddb5103f2dae2.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1fb921e356878fc30073c1dc6b8bcf0aba38df90b59dd2cf365e3fdfa46f4845.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a9875f069b867781dca1044e494890ce0aa3d7dda147d279b1eedc20c4d29a6b.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8dba78909de9f063460773be9257082d7d022e34537fef913bd2456be950fd6a.jpg",
+			"name": "名画と楽しむ大人の間違い探し 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6e9951e9d4f49f1be22e233b0ad328c4b65d2641c8cbebac031d3d52596cd4ed.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "137"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3052fe5a4a17403694aeb63348e141ff2b3c1490516bb80f8be56a463cdc0aeb.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "137"
+				}
+			]
+		}
+	]
+}

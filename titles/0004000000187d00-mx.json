@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000187D00",
+	"eshop_id": "50010000041509",
+	"product_code": "CTR-N-BBPE",
+	"name": "Picross 3D™ Round 2",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0be00e228e1098ae881074ae7644af4b1eb8df383532047e26f1b0658c0ea21c.jpg",
+	"data_size": "138058596",
+	"description": "¡Descubre nuevos desafíos con Picross! Resuelve rompecabezas tridimensionales de bloques y revela las figuras ocultas. Pinta cubos con dos colores para descubrir figuras más detalladas. Disfruta más de 300 rompecabezas en la cafetería y utiliza figuras amiibo para resolver 10 rompecabezas adicionales ¡con personajes secretos de Nintendo! En la cafetería encontrarás rompecabezas, entre más rompecabezas completes más se desbloquearán. Cumple objetivos específicos, como por ejemplo, obtener una puntuación alta en 30 rompecabezas y obtendrás mejores recompensas. Podrás elegir entre los niveles de dificultad fácil, normal y difícil, no importa cuál nivel elijas, siempre recibirás la figura oculta como recompensa. Algunas series de rompecabezas tienen misiones adicionales, como por ejemplo resolver los rompecabezas con un límite de tiempo o completarlos sin fallos. ¡Encuentra todas las figuras! Un sinfín de oportunidades te esperan para poner a prueba tu destreza.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-09-01",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3716932a6fda874b19e8a1d87da0879a19c79d29c12b132c035c0a2cfeb18d24.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6fbf1083e25a4a7415dbd3d6b84652c8aca2dd7d9788968200fa46eea202fe53.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/da1fb6d9c6677ae29d36e9f6d02c448286a1aea0d6651fedce933719c056415e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/37d30c02d31d7a9c729b167abd89fb34150cc43962f179a900d6fb4762a5c42f.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/4edb82acf85baf72776e02c075be1dc2992822a5e9717df2eec1e5cf37ff8e36.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/3673e1655e17e94029e23e189350a2fc0cd9a2396570bc8e9863113fcb54b013.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/91417d22f4c9bfb8324a5b60d0862bfb2196b1995d3571f5dc1e9c82c8c32cf1.jpg",
+			"name": "Picross 3D Round 2 Launch Vídeo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/76e149a4cd34b21e687a7e0493e62a514776a587850676401f1ec24001678ca3.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/355306e2440175fc92ebecf65e94ebc76adee0006a99dd76e1c2f5627f7dbe8d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				}
+			]
+		}
+	]
+}

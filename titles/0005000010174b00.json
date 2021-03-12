@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010174B00",
+		"eshop_id": "20010000007527",
+		"product_code": "WUP-N-FDHJ",
+		"name": "ナッツ&ミルク",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 149,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cecf62f0df049ce7f0447ea8fc86714f4cdf76abd90958becb3b5f71babcbfc7.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b131e97aa0bfeb12083b0a26d4e5d76d726d0941d204889e72439b49fcdbe383.jpg",
+		"data_size": "38699168",
+		"description": "このソフトは、1984年に発売されたファミリーコンピュータ用のパズルアクションゲームです。 主人公のミルクを操作し、ラウンド内に散らばるフルーツを全部食べ、恋人のヨーグルのもとへたどり着くとラウンドクリアです。途中、ライバルの「ナッツ」が追いかけてくるので、ジャンプやロープを駆使してつかまらないようにかわします。 「GAME EDITOR」ではフルーツやキャラクターを自由に配置して、オリジナルのラウンドを作成できます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-11-19",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/b526a291a786df88c89da68d5d7dbe62e4f647715adee5003f976c44556a73cf.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/2be90b1fcac515411c04d75468232b883009d07caa6d76c023b6aab3efae7a18.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/945b778b85480319757658648af432dc815066d5eaf021797e77bd1c8960eec4.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fce10f37537c4856336a9262973fe04679a402d7e57cf02ca56805c807d42d91.jpg",
+				"name": "ナッツ＆ミルク プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9b578e9f4126305b990d9c9dfd6c95640f985f028faa68b6f50105b41516add7.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "47"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bf19f5a1ff915d9233eba2ebb62695c3ce144edfc3d41f45abc3ee34831cb453.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "47"
+					}
+				]
+			}
+		]
+	}
+}

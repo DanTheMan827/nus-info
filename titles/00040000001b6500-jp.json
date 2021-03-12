@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000001B6500",
+	"eshop_id": "50010000042939",
+	"product_code": "CTR-N-JFYJ",
+	"name": "インチワームアニメーション２",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 1292,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0d112299af353477f25174c55ff64cd932674c36c56edfed783a734b9f070194.jpg",
+	"data_size": "8579940",
+	"description": "アニメーションクリエイターも納得の機能がいっぱい！ ・30フレーム/秒の安定した再生が可能な革命的なループグラフィックスエンジンで、アニメーションが再生中に描けます。 ・カスタムプリセットを備えた無限に設定可能な8つのダイナミックブラシツール。 ・3次元でレイヤーを配置するには、立体的な3Dを使用します。あなたのアニメーションがさらにクオリティアップ！ ・オーディオを録音して編集するには、ビルトインのサウンドエフェクトライブラリまたはGroovyサウンドエフェクトジェネレータを使用します。 ・ビデオ、タイムラプス、ストップモーション撮影が可能です。 ・完全な24ビットカラーと透明性を備えた滑らかなアンチエイリアスブラシを搭載しています。 ・ニンテンドー3DSカメラからのインポートや SDカードへのエクスポートが可能です。 ・オンラインギャラリーで、あなたのアニメーションを世界中のクリエイターたちと共有できます。 アニメーションのアップロードやダウンロード、評価やコメントにも対応しています。 ・あなただけのスタジオを、公式HP www.butterflyanimation.com で作りましょう！",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-08-02",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/04ae43f5f5ee05d12dd7f6efee5801f03cbd926caa0d374c267ba4a6f6dc0df4.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6ce6bb812f7f914f0be77690cefbe0dca7d6f55c1dcb95baf5032e1894884cb4.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e8bad077e94eae5c0b35b321e7aa3f6cd1e2ea3ae18dbd02f4995ad1fca31b21.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1986f67f6f6b2162650c859a532fee22c50a7257d5b7131b0955a647adfb78c6.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/816f3a8475e59f82a7fdbfc6158788d0ae9391900068d661305041c69a99cec1.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/29ab06eea09ab1bbb9ee2addfc7196373a0fd4414555c1d4a4097db03318adf6.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/27cda2d08c2790988745bb7929ce2d34d9e702208f429ed1796517219878254d.jpg",
+			"name": "インチワームアニメーション２ 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9809dc95cbcecab017df7278ddc43ad025661d6e6c875968ba47c9e1ca2c3368.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "94"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6a9946298cdc38d9cbd85493a66ac3e7d8a0cd661fa577140dbb39107731485b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "94"
+				}
+			]
+		}
+	]
+}

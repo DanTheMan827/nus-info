@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001020E700",
+	"eshop_id": "20010000026094",
+	"product_code": "WUP-N-BZDJ",
+	"name": "Back to Bed",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1517,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c9756002585602a0df98f10a9911e10c4bd832db5f5d50271e798fb76cc47c3a.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9356ceb669822ac99e01005020b374be3f1cbe306f9baf01612c26aeaebaae57.jpg",
+	"data_size": "630390964",
+	"description": "『Back to Bed』はシュールな夢の世界を舞台にした、夢遊病の“ボブ”を安全なベッドまで誘導する3Dパズルゲームです。ボブの潜在意識である人面犬“サボブ”を操作して、ボブをベッドまで導いてあげましょう！ ボブはぐっすり眠りながら歩き回りますが、障害物に当たると時計回りに曲がりますので、うまくリンゴを配置してボブの進路を変えてあげる必要があります。 ボブは前方に床がなくてもお構いなしに前進を続けるため、放っておくとステージから落下してしまいます。シュールな絵画風の世界は、ボブにとっては現実とも夢ともいえる世界なので危険は避けるようにしましょう。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-03-29",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/21850e5b94e8710462f3f1b8587ee00a5c116b6902a11a034bea8582d9968d6a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/44d1a423c63efd77114f3b74a0cff99b73a7a49db21081fcc79e7200770a1486.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/163630d0bd6f1d6eaa1b5d55e1834128edbca74ab9dca22efb3feb6129e79f51.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b87734e64e71a060b51fcf0b4be9c24f32e38f70ab64ecd3b91658bb55b593b4.jpg",
+			"name": "Back to Bed 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7b67f4a7bf38ffb64da85c9d8ca29fc21b867b067a6a7766d79566eacf7436b3.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "74"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/efbe1fc2866b4d3229698b4918fad4508d85c9a0b7d7e6693dd03f5c4cc8d583.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "74"
+				}
+			]
+		}
+	]
+}

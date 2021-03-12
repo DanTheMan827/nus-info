@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010156600",
+		"eshop_id": "20010000004664",
+		"product_code": "WUP-N-PAAJ",
+		"name": "F-ZERO FOR GAMEBOY ADVANCE",
+		"platform": 168,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5f44fb244bd08a15cf83d4c595bc70f96aa403b9482626b557d3eb8c0e49df4d.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3c18eac3a9b95d9ee869db394b491a9f392c3cdf974152e49c499a68741ad6c0.jpg",
+		"data_size": "86671480",
+		"description": "このソフトは、2001年に発売されたゲームボーイアドバンス用の近未来SFレースゲームです。 さまざまな個性を持ったマシンを操縦し、ジャンププレート、加速プレートなどのしかけを利用して優勝を目指します。一定の条件をみたすことで追加されるマシンを使えば、今までと違う攻略法を楽しめます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-04-03",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/c4beb46dd17cdf78405e2ea4c703124fc33f77f6dd78dfb3332b81d95db510ed.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/1a0dcd51df961ffc1c9d625335b580e8346c2d7dda3e168f37bc80aae8fb6964.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/d3c2ce6c22f46f2744b4b0cf1d8d1c1128e4898c7860b683a757e36d9259138b.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/907662fdfbd5b0e01db777124d829b561044c77fc20aa66a795106758843da52.jpg",
+				"name": "F-ZERO FOR GAMEBOY ADVANCE プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ae2cbee07a68b0fd432ca3170aaec189e74b8ad39ac632772a4203045c8c3be3.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "50"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/99a5f9d25838d570360762003b2a3c6a4c8955c06e78a69eb8d566f3d9dc5e60.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "50"
+					}
+				]
+			}
+		]
+	}
+}

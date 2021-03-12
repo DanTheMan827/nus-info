@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101A2100",
+		"eshop_id": "20010000013367",
+		"product_code": "WUP-N-DAHJ",
+		"name": "マリオ&ルイージRPG2",
+		"platform": 169,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3e94a41d514b17df986ae8a48b4f0fa6cee00528b1170d3d3b0a5fb4faba0a8c.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/dd28018c0d745697fcbb76866c46e67f7ffa3df062e20396553113eb8033e1c8.jpg",
+		"data_size": "83984504",
+		"description": "このソフトは、2005年に発売されたニンテンドーDS用のブラザーアクションRPGです。 天才発明家オヤ･マー博士が発明したタイムマシンに乗って、過去のキノコ王国へ行ったピーチ姫。しかし、戻ってきたタイムマシンはボロボロで、乗っていたのはピーチ姫ではなく謎の宇宙人「ゲドンコ星人」でした。マリオとルイージはキノコ城に現れたタイムホールへ飛び込み、ピーチ姫を救うため過去の世界へと旅立ちます。 2人は過去の世界で出会ったベビィマリオ、ベビィルイージと力を合わせて冒険をします。「ブラザーアクション」などで4人が協力すれば、謎を解いたり、ひとりでは進めない道を進んだりすることができます。バトルでは4人のアクションコマンドを組み合わせた協力アタックが可能です。さまざまな「ブラザーアイテム」を使えば、より強力な攻撃が繰り出せます。2組のブラザーの息の合ったコンビネーションを楽しみながら、冒険を進めていってください。 ※おすすめの画面レイアウトは「NintendoDSレイアウト」です。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-06-10",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/249f6a511479f2610576acadf01f63f0bfaa224252cad2db01143f638576c841.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/12ce0e8902f0a731a346238a26f82a5781cec28eca51b07a0ee7ebf85c22273f.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/4755b163e369932ac9a9b0599af807ea38f276db59a8d3a98c9109a3a134cdc7.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3dcd8850d9e31baf024976ec1a45b85d11973b4ebcaa188b4e57c372a2e68627.jpg",
+				"name": "マリオ&ルイージRPG2 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ab6e60776ba8f0433f745e5c675394ffd2eb9a6c759d93349f364ee9d968a181.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "51"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/75ad829683f2ad268f42ab2dc4fbccf60f071714b94f318ea49eee05355d5a59.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "51"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"JP": {
+		"title_id": "0004000000124A00",
+		"eshop_id": "50010000034635",
+		"product_code": "CTR-N-JCYJ",
+		"name": "リアル脱出ゲーム×ニンテンドー 3DS 超破壊計画からの脱出",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b4e0be2b7242858d291a47fb5a9c8a2d2a90d472df7a92342fd85314c78a36c5.jpg",
+		"data_size": "132909924",
+		"description": "本作は、ニンテンドー3DSをインターネットにつないで、オンラインで参加者全員と同時に行う、謎解きゲームです。 制限時間60分のなかでほかの参加者と最大6人のチームを組み、協力しながら謎解きを進めていきます。ゲームは全5話構成となっており、どの回からも参加できます。 ■ストーリー 何者かが3DS内部に侵入して、「プログラムボム」と呼ばれる爆弾を仕掛けた。このままでは世界中の3DSが爆発してしまう。 爆発を止めるには謎を解くしか術はない。いったい誰が、なぜ、プログラムボムを仕掛けたのか。 全ての謎を解き明かし、あなたはニンテンドー3DSを爆発から守れるだろうか？",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-07-31",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/68eb3c574463d4a4d728b88be1e55fe3339ded31e9291670248a6b78a7524bd1.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/719f2d61c196ff3332ae23585174cb279e39b2909b261fa7b827adbf557b97c2.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a022a14ed3c75ebd70002c14d7afa1f25b3dd10512f5b8833f28d64684693388.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/eb6f94f8fa1cf22843acb8d0cba2b6a1a15db30071539bac2e7cab3e9d808011.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ac4eae235f2e55f925cec1cd0808f22a23f95da340b8388a21dfbd9e501172e6.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7ec4d56be77690d29ca1c17d0ed8c01edd7378445ea38bcef093b4fdd1c4a536.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4f22a4174f4a8366187b618cf4e3919ad4623457ae7e1bc009dbb78b1c3df573.jpg",
+				"name": "リアル脱出ゲーム×ニンテンドー3DS 超破壊計画からの脱出 予告映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bab55c70a8c9c20abb2e18077a6c7be7699e6b6c5ffd041d5ae56b19f3160809.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "30"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/be353f82e21decededdbdb612f58a65c2d75e505d7a0c26532a35525c4c8d5fb.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "30"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2a5c58f5738afede1eca29b38a52fbda76df9ab7968235f3b7ae8ada30b570fc.jpg",
+				"name": "リアル脱出ゲーム×ニンテンドー3DS 超破壊計画からの脱出オープニング映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d3922c4c300cbf8c4673477ecd76125ffa8890402ff05d828f1032fee9eca5c9.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "142"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c51cf72a8b58425db2c42ecc7151c7aabefdaeb690c546ec0092a338ca84d38b.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "142"
+					}
+				]
+			}
+		]
+	}
+}

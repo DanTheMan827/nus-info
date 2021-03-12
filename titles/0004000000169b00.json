@@ -1,0 +1,87 @@
+{
+	"JP": {
+		"title_id": "0004000000169B00",
+		"eshop_id": "50010000032856",
+		"product_code": "CTR-N-KHYJ",
+		"name": "新ひゅ～ストン",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 209,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a77352ea7327cc6e14f8b00cf7b534292a4d751f0a79077f288d7cf911fd2ee5.jpg",
+		"data_size": "62032740",
+		"description": "『新ひゅ～ストン』では立体視による圧倒的な迫力とスリリングな落下感覚を体験できます。 前作『ひゅ～ストン』と比べ、落とす石は倍以上、プレイできる井戸は4倍と、大幅にボリュームアップしています。 石の操作はスライドパッドのみとシンプルです。 成績はすれちがい通信やQRコードで他のプレイヤーと交換できます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-04-22",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2f1d4f564b3dfe8bc3bd41f97d619cd47c05f1344e08ed16627cabce990b8898.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/38441e929ad3666b8261addce9589d36e651e230bfa22342cf135767452405e9.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/10305141ea33c66691c2124698b4305147ecb9fdf695e9911618a1843389d857.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c1b3ad99c65deeeea145bbda2fb070876edb37bb4e39194bfa1e12331b5403a0.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b6e49e85173c8a4cd776996f73ac2f016d533748e9764c5a4c2c635d017a6922.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/50c14f42e3b5f32b494622da890d934f0f65def163b5989a92dbc4cfad968e1b.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/df32ad8c7c5a46643b4f2137027065bfc30aadd6aa6f1b9632b0ab967b2a4c07.jpg",
+				"name": "新ひゅ～ストン 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/95aaee9af94678c845003a6525dca40fb2eee879821fc66c793f5d9d5e9a3f39.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "97"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6ce529d2b1bd022982f0d0a65f6d9cf05c4c073b95201441d92019b0c007cf27.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "97"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f22e816f16b28a4589a3cab2c5c17eafcf9080784281f22021c57c8186ef7a01.jpg",
+				"name": "新ひゅ～ストン 紹介映像 あそびかた紹介",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/64f3ae393f54bbe297732b64afc9c01c438868ed1f746a7a4830d0144ef21110.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "166"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/03e6458e117ea0621ffa994b7114307fe7fbeb94783715b7bcae7e2e20db045a.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "166"
+					}
+				]
+			}
+		]
+	}
+}

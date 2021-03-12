@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010129900",
+	"eshop_id": "20010000001364",
+	"product_code": "WUP-N-FAWP",
+	"name": "Donkey Kong™ Jr.",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/eb5dd325a2e805c36e7ff6bda2df8310713259c90fd39e117cfe4b1234935b2c.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/2fa33283fab017788299ac079fc261b67429a69b3a5174acc053fcbc6ea7a3ac.jpg",
+	"data_size": "36536460",
+	"description": "Questa è la versione americana del gioco. Il caro vecchio Donkey Kong è finito in gabbia! Vesti i panni di Junior e salva il tuo amato genitore dalle grinfie di Mario, in questo platformer a parti invertite. Salta, arrampicati, sfrutta catene e rampicanti per arrivare a impadronirti delle chiavi che apriranno la gabbia di Donkey Kong. Fai attenzione però ai mini coccodrilli e ai pericolosi volatili che infestano ogni livello. In questo gioco contano velocità e punteggio, quindi non fermarti mai e sfrutta ogni occasione per accumulare più punti... senza dimenticarti di liberare Donkey Kong!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-04-27",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/a9d191f520fbddfe5fc24e569cda179fe48b247e6d692547427c485e1532a1b9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8342aff2a64a9b2079dddae063334c0d879ffaf2a5ca29a646ba9411fd220a79.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/18b23071be1575b756970f50231e46e3f652afcd59edb7ae9ffd9f30adce65e3.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f06844edf072eda4a5a6c51b3434434282d414abe9da55496d3a4e8ffb20001d.jpg",
+			"name": "Donkey Kong™ Jr.: video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7bf5304b995f5883dc00966cafb9a37491541330dcac14c174f2e1b82ccee60a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/12628dfb11fdcb4b7d29564eeab0b6b9ea07ac7b3ca3a28837948cf7d09659c5.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				}
+			]
+		}
+	]
+}

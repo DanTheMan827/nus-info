@@ -1,0 +1,109 @@
+{
+	"title_id": "000400000010C000",
+	"eshop_id": "50010000021213",
+	"product_code": "CTR-P-BALP",
+	"name": "Kirby™: Triple Deluxe",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b78a199ec4ec79a9f5556b28c33e829b06747f5086cb6f755e599b5a58b5e081.jpg",
+	"data_size": "631294868",
+	"description": "Vai a destra e a sinistra e dallo sfondo al primo piano in Kirby: Triple Deluxe, solo sulle console della famiglia Nintendo 3DS! Scopri una nuova profondità, con Kirby in grado di andare sullo sfondo per esplorare nuove aree, risolvere rompicapi e schivare i nemici!",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2014-05-16",
+			"retail": "2014-05-16"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f4d998cdde43c99157c3622f047d92a56283c1a064cdee9c75e93c8a6e1df352.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0d9d25df44e8400d3f58a6aaea8c191deeb99abdcb59e07b71d3308d06b09300.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/88a346cfb82f3520e6c93565e9602f1e4eebd558576735e0f046bcf1a23d2595.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/79b1b17e908ca490e90529d5c44e0a1f21f2e35b5e902740ae96f17342e75acf.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7a64c19dbd37ac8b964a5b925bfc86fa406f8f1dc89c76777ff65b422134700b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0806a7aaa05daff84b5afcbc85c5c9f0ff86e73bac57be6709416c55b37d4c03.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1622aa4f1bd8026f254a1f99a82227ca1216e3a2ff662d0d307c1385ca2e1dfc.jpg",
+			"name": "Kirby™: Triple Deluxe: trailer (13/02/2014)",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bf47512ce39a9484bc974e1d37490466367f4a30772405a132138d6224f473bc.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "71"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/84b0eb74de4bf6f93b1fdd4eae0469bdc0c8ba8279c179ba85970b68a716279a.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "71"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1622aa4f1bd8026f254a1f99a82227ca1216e3a2ff662d0d307c1385ca2e1dfc.jpg",
+			"name": "Kirby™: Triple Deluxe: trailer \"Incontra Kirby!\"",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/423fd6479b23bf0b991ea2534f94a7bd44d18663be33a705a6f21364fc4d90b9.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "119"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/280394a0c808f3f4b401d43404d44ade17cc3dce67f4f2fb78485b506792cb80.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "119"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a48fdf3d4ede5acabee124a4b4832ec77ed37fb667643d4cc9d95be95fc38c5e.jpg",
+			"name": "Kirby su Nintendo 3DS: trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c34f65a4b0d36350caf532109b9f2e4593e16a3bad8d55264ed1d8d2da7b7e6d.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e2da7e4781e80be61339d427782d8137003cf40b77efd883ef0b33a5cd243a59.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				}
+			]
+		}
+	]
+}

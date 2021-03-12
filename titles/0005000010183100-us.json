@@ -1,0 +1,54 @@
+{
+	"title_id": "0005000010183100",
+	"eshop_id": "20010000011186",
+	"product_code": "WUP-N-ASDE",
+	"name": "Snake Den",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1337,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/790cfe182bb63a4a445e354b819cf48bbf7024b27af23d2dd728ea661541d4ca.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ccd041f537a85e8a5ecb1af44cc73b9fe00dc2ce5bc71eed28dac458be492103.jpg",
+	"data_size": "66781344",
+	"description": "Use cunning, quick reflexes, and sheer luck to grow a tail to brag about. The challenge is too big for you alone, so remember to use your friends as allies. Just don't let their tails get in your way! Features 5 Worlds and 100 Levels Unlock Unique Bonus Levels High Scores, Compete with Friends and Family Ghosts, Just remember you can never truly die, but you can get revenge!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-11-20",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/9ad63d70caae2444df4ac7552b942777c1292615708e7984ecd260e7c950b4f1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bccf991f10f2678d5af445422d027308443273dcbc776c6c388ce5353de97457.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8b4b98460527f1ca28e1b40a000ac1ed7375ba1d0fde9554d879cb0abb15d182.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/46e13ff25a4e8282658bbca6c496b7e60d40a18603cd42682b53d7091d532d17.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f603e5572eddbfafd013e8893d6b26727a5026d76eb66c4c095e23ddbeb6edc1.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7810626bc656d18bff66a24f5bbbdb5470ac92ff012db456afd6541893299c97.jpg",
+			"name": "Snake Den Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6a5a353db93f1d142bfbb2caaa88c3bd7177273b6e6b15561c2463fc8c96b86f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "100"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2a2e3d88e5391972c81f22130e41e0df2ff7ad45d95a669ccbb02b82e4913124.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "100"
+				}
+			]
+		}
+	]
+}

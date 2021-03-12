@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010194600",
+		"eshop_id": "20010000011948",
+		"product_code": "WUP-N-PB2J",
+		"name": "ファイナルファイト ONE",
+		"platform": 168,
+		"platform_device": "WUP",
+		"publisher": 39,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/18bd0469a935ed8ab3cf7a7c6f65405fbc55c43a272a3a74d2c34de4e745da22.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7bd31966068d7fca37d126d5c4046f5ee66091107ee86b36a64b3ac4a97350bf.jpg",
+		"data_size": "69959820",
+		"description": "このソフトは、2001年に発売されたゲームボーイアドバンス用のアクションゲームです。 超犯罪都市、メトロシティ。市長マイク･ハガーは、シティを正義ある町にするため、巨大な暴力集団マッドギアに徹底的な攻撃を加えますが、その報復によりハガーの娘ジェシカが誘拐されてしまいます。ハガー、ジェシカの恋人コーディー、2人の知人ガイは、ジェシカ救出のためマッドギアに立ち向かいます。 本作ではアーケード版『ファイナルファイト』と同じく、ハガー、コーディー、ガイの3人をプレイヤーキャラとして使用することができます。オリジナル要素として、倒した敵の累計が記録されてバトルポイント画面に表示されます。「NEXT SECRET」に表示されている目標数を上回ると、ゲームに隠された謎が1つずつ明らかになっていきます。ぜひすべて探し出してみてください。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-07-29",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/a0285b86d638e09bb397e9ffff6bc1d29cc76bd5b43bceb1b23f0a40eb47bd77.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/f8a9be1f49055fcce8cbda8f65a7d75731d2ad5109001531f05a70850ed44402.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/920357f0be8c6dc51136f2ca9689e805ec9a9eac01191e285203f96f267e7fb6.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/54e3ed3e50b98d5979f69ea67c08cbba31acd0e6bec121c4f68a21736eacbf10.jpg",
+				"name": "ファイナルファイト ONE プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/466b70f6c4a57e71cfaa1d4c5d4b62de294a94bbd897dadd1ee3b7ed9728d716.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "59"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b9a58f5d98ee70428bfb6d51683dbbe1f50185b7f0faaddeaeb8b4906fe30e1d.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "59"
+					}
+				]
+			}
+		]
+	}
+}

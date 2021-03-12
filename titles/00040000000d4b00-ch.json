@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000D4B00",
+	"eshop_id": "50010000025035",
+	"product_code": "CTR-P-AMQP",
+	"name": "Disney Magical World",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/400ba596193465f9fc7ca82ba2fadde04ef4e396958cc3f30b3da2aea16bb4af.jpg",
+	"data_size": "563936100",
+	"description": "Disney Magical World eröffnet den Spielern unzählige Möglichkeiten, kreativ zu werden. Mit mehr als 1.000 Gegenständen können sie ihre gestalterischen Fähigkeiten unter Beweis stellen, um hunderte von personalisierten Disney-Outfits, Accessoires und Möbel zu kreieren. Angehende Restaurantbetreiber können ihr eigenes Café entwerfen – von der Dekoration bis hin zur Speisekarte. Hat das Restaurant langfristig Erfolg, verdienen die Spieler wertvolle Münzen und erwecken womöglich auch das Interesse eines ihrer Lieblings-Disney-Helden, der daraufhin als Restaurant-Gast vorbeischaut. Das eigene Zimmer über dem Café dient als persönlicher Rückzugsort und bietet noch mehr Möglichkeiten, die eigenen vier Wände mit individuellen Gegenständen und Möbeln zu dekorieren. Nachdem die Spieler einen persönlichen Avatar erstellt haben, begeben sie sich in ein fantastisches 3D-Abenteuer. Mehr als 60 der beliebten Disney-Charaktere finden sich im Spiel auf dem zentralen Marktplatz des Schlossgeländes und in den umliegenden Welten. Diese sind von einigen der bekanntesten Disney-Filme, wie Alice im Wunderland, Cinderella oder Aladdin, inspiriert, Ebenso zahlreich sind die abwechslungsreichen Aufgaben, die sich in Disney Magical World bieten. Alles dreht sich um die Lieblingscharaktere, mit denen die Spieler interagieren, das eigene Café, welches die Spieler leiten, die Abenteuer, bei denen sich die Spieler auf Geisterjagd begeben und um die Besuche in den Städten von Freunden über den lokalen Mehrspielermodus.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2014-10-24",
+			"retail": "2014-10-24"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/205d4f1b686c7255019cdab28a5be4f657ea5be22f0bd4979397081a536dccda.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/405a2c3d51f3593e5572b2ebf3923050702bcf8a2211a3cc826fb4e2b45e076a.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0e42da984d687c749e5a0eb3ab5cc822aab9a73ba889a5c97981e42a1a79cffb.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9169abfdaeb53d93f530236bb5701bf914a3d043a8309ddb17269868b275370b.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6e78f4818a273974960fe9b04bc43845248e0a852932bd910fcd55690ff8ad44.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a34729f2ec9d97a9b2310bddccffff1267995234a98878b7adafd25c01a6cb99.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5bdb211ed1d16fdc049ab589315790ead9503da58e54e9fff36e79709bcb3418.jpg",
+			"name": "Disney Magical World: Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b8c08cab5378bc4a501cfa820772d87b6619a323aba855541c5f9970a085c8ed.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "158"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9697f2c889f5ce2ac91539ad8849df45f68dee713be13477aaed6d8a77c825f6.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "158"
+				}
+			]
+		}
+	]
+}

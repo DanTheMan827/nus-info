@@ -1,0 +1,78 @@
+{
+	"JP": {
+		"title_id": "0005000010104D00",
+		"eshop_id": "20010000000042",
+		"product_code": "WUP-N-AHDJ",
+		"name": "モンスターハンター3(トライ)G HD Ver.",
+		"platform": 125,
+		"platform_device": "WUP",
+		"publisher": 39,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9a6681ff683b5771299e20af0d945542686f2fa2b0e93759a9c12111d1dc56a4.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/918f2db8739710b51122d2a31cd5955df3dba610f08cc60590c9d15654255167.jpg",
+		"data_size": "6657999488",
+		"description": "フルHD･リニアPCM5.1chに対応し、大迫力の狩りが楽しめる。Wii U版同士なら、インターネットで協力プレイが可能。また、ニンテンドー3DS版とセーブデータの共有ができ、ローカル通信での協力プレイも可能。",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2012-12-27",
+				"retail": "2012-12-08"
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/4af76eec22dcc41a7d37e70f2fcf818fb14790b197a0674712da97005b21af85.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/4e98c6387de0ff3895735c72f672186b563c99c170b498c72e24a67aa4ae9d2a.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/c76a05f85808241857b2d762f17c97b19e89f97603843563a58b1a7ac066ea58.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8d4057c891e6b5c7f9a03cbb838004a973468db0dfb2d7e15f04f2df80255d5a.jpg",
+				"name": "モンスターハンター3(トライ)G HD Ver. 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/da2c7991bc77eded49100349893ac6b0e8e0d7e68186fc99848ff126bb409981.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "167"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/788e0532faba5b9fba868e9bd3ef5ddfe7ebb44c724d65fcaf39cc65ce7d923c.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "167"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4bec0c49ef7aba050e7a045cc19161697f9e680348bf461db756b85d6626a7ec.jpg",
+				"name": "開発者が紹介する MH3(トライ)G HD Ver.",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7d51382082fd1de6734312f56dae8a75a136e45892a902e09d253b7342001d14.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "405"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/28a9a4e0971e6927c2dba0d4d4b1bfcfae0e9ef45cddbe1ad753375ca11566c5.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "405"
+					}
+				]
+			}
+		]
+	}
+}

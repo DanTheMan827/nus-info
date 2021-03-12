@@ -1,0 +1,69 @@
+{
+	"JP": {
+		"title_id": "000400000005DF00",
+		"eshop_id": "50010000009761",
+		"product_code": "CTR-N-ATEJ",
+		"name": "TOEIC®テスト超速トレーニング",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 128,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7705e85798cb542fb0042660866dcd35d00d9a8f664a06d63aeca23b23203e4a.jpg",
+		"data_size": "453344100",
+		"description": "ニンテンドー3DS専用のTOEIC®テスト学習ソフトがついに登場します。 充実の問題はもちろん、Miiを使用したり、ネットワーク機能でほかの学習者とスコアを競ったり、今までにない「つながる」楽しさも満載です。",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2012-11-15",
+				"retail": "2012-04-05"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5735926b9501e56655ba020ea3fe6d8291b5cb4bd094f4d16f6ed96866091e03.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/812b04f363501a2f608c06461c99f8dd5e05b2157ba931135d669a2355396531.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c2102355e09f9f829ac74e91a64f931c399ca27b5fcd47c8afadb060a1ee7abf.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9c6e63afc29f6f5dd3ce5baa62a2ae2ea2bb51ec9a3bb0ba80d41fe09a2f29b2.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/9493513fb88f06e590241e801d7b2216b4ea3030fb525cc0255e834e36f94e99.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9710261542ed45f4cc6aaa5f5039147ef2cba5dd1e134f20a3356d2c6f069c4d.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/17a78e4b9708921f0e5dcd23d50b1bce7f4efcc1c48bd9c3fec4d256c620a2cc.jpg",
+				"name": "TOEIC®テスト超速トレーニング 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bf27dbf1500bc7c7a11310318424f122f0f30bdc30538c5f67ec43bedf6b7d87.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "247"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/375597281fb837dc67240b810395d945fc3669bd3f596f4c2f30680ee6a534c3.jpg",
+				"name": "TOEIC®テスト超速トレーニング TVCM",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/63ea46842fd4242e1ce0fbbedd7f8f52bbaba76af9052d8a6afbc39da6682135.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "15"
+					}
+				]
+			}
+		]
+	}
+}

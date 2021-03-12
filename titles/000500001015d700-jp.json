@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001015D700",
+	"eshop_id": "20010000005304",
+	"product_code": "WUP-N-PAFJ",
+	"name": "黄金の太陽 開かれし封印",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e9a26a55969c35726bb633e767998d8798134957bfa15f35932d4839d7d9f452.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b79fb96cd4c66a9b28e02facbc428885ba7f647f90a3ec7ec34e56b2c8476e3.jpg",
+	"data_size": "96895096",
+	"description": "このソフトは、2001年に発売されたゲームボーイアドバンス用のRPGです。 霊峰アルファ山に抱かれたハイディア村を襲った嵐が村に大打撃を与えてから3年後、さらに大きな災難がハイディア村に降りかかる。 攻撃、召喚することで力を発揮し、集めることでクラスアップする“ジン”と、攻撃のほか、フィールドのギミックを謎解きのように解くために必要な力“エナジー”両方を駆使して進む、一味違ったRPGが楽しめます。 ※当時のパッケージ裏面に記載された文章をもとにしています。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-04-03",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/d8976e5e6e37bf1e8ff72601b7e096240d49d694d639d43fb8cb7f31c668acc0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/549dedffe1ade209f397bc82338eb66d9bcc252a897076128df5e7b8e23b93ba.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1ff046f0e0267191a145970cfe77b1d36e46f728e4427a2853bd6956bd0bc82b.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/aa1f927150c83943fef425090e1d9b042e84743127210787d64320edb69c0030.jpg",
+			"name": "黄金の太陽 開かれし封印 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ff6403273112379fbc63298534191bac9edd4055e80c7611c8bc6e6e7f7831af.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c90438ddf9b739309a83e718b0841531a5211cd1c6112a16691bf77179c8f70c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				}
+			]
+		}
+	]
+}

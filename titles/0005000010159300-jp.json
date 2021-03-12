@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010159300",
+	"eshop_id": "20010000005207",
+	"product_code": "WUP-N-JB9J",
+	"name": "ロマンシング サ･ガ3 ",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 246,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7caeaa8d9801c67efd5469d0a70da1c45842a6b5c5b2c288bce11699f05f3ca6.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4b3c06a5a88a1315069c653912e0e1cf9e5ca84371c846285a2cec3aa9365c2f.jpg",
+	"data_size": "43647116",
+	"description": "このソフトは、1995年に発売されたスーパーファミコン用のロールプレイングゲームです。 8人のキャラクターから主人公を1人選び、展開が異なるストーリーを楽しめます。選んだ主人公によっては、会社の経営や国の運営など、特徴あるイベントが発生することも。シリーズ3作目となる本作では、前作までの戦闘中に技を閃くシステムや冒険の自由度の高さなどはそのままに、イベント時の城や背景、モンスターなどが、さらに美しく描かれています。戦闘では、主人公が戦闘に参加せず、仲間に指示を出して戦う「コマンダーモード」が追加されました。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-02-26",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/d285f795a81741a175e3b1f16d0f494a1469efba4358b7760efa4600a0ff4acf.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f3bb5f242e5d903060485942f5355f70af2e86ec8f759f17a2f6a04a13fe2f60.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5541981f3db6c790ea0840b9121573095a442e5697681a845b94e6374e35fe9c.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/17ff8a5c02b41a02a8c82d8dcb8e6917cab23f4cc46822fec0e626d162d96646.jpg",
+			"name": "ロマンシング サ･ガ3 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/38abc6286b6ff36db9ac795688c1107b142033866825bc0576534f813ba4f285.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "43"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5de619fb490e850ef306de7c770e6775b9ca90d100ba194ca2fafb39aaf3d44b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "43"
+				}
+			]
+		}
+	]
+}

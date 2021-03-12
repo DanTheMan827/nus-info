@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001017E000",
+	"eshop_id": "20010000009886",
+	"product_code": "WUP-P-WK8P",
+	"name": "Turtle Tale",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 229,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2bf7b7183e91df2211007b7bc0946b80abdc4a9c514159ab03b0038e3e372c03.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/51533d8949c53881983925ff5e95f375074ca7db92f94b15201e7d19d2dad519.jpg",
+	"data_size": "82051212",
+	"description": "Turtle Island has been invaded by pirates, and it's up to Shelldon to stop them! Captain O'Haire and his gang of Monkey Pirates have sailed in and taken over the island. Armed only with his trusty water gun, Shelldon sets off on an adventure to fight the invasion. Guide Shelldon as he jumps and shoots his way through the perils of the tropical island and help him reclaim his home!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-10-09",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/29957512efa594cce1adcce594fb2803442511bec878fe788c066409fb3b1e97.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/eaa6824a85a83bafdb04edf554fed63c8888a273c9f8f5b6acacc8f6e2c1df64.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6a31a278e7d081eab06f135abc69b457bc65e3e1663c8eb8f47cdb5c504bd6d7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/15c5a2f7900d06ae2cef7230cb76377c96ddbc57d2f50342dad84f67a7bd2a95.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bd7f0691b58dde8d175df9cd281b9ee7f6e15bc1dd172741ed153d6d3ab12339.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/27290fc00fcefa218010b7744d986272f9985de22cb8f482a7c7b35b13e632a9.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/aa9e1abe00a6bce49f3d88085c6aa5ec6130604253b17cdd9f01440ad995d7aa.jpg",
+			"name": "Turtle Tale: Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1b928207d25411eec69b7e6afe70600e165221a215bd8017236a30d72fd37ee7.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/836e1e37b2b72e98cf832cbac398bb7f7d5f9eb114fc93d5b45651dbb1cf7fda.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				}
+			]
+		}
+	]
+}

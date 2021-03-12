@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010162600",
+	"eshop_id": "20010000006126",
+	"product_code": "WUP-P-WF2P",
+	"name": "NES™ Remix 2",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a54d0a10a947b8d55f42da1513629591df9a74663fc700fcd1b1b20cc883dede.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9dae808c2d2e7d640c902d0631dc2736bb90a9df1c82e06e7a3389be5c6037c1.jpg",
+	"data_size": "126746744",
+	"description": "¡Atrévete con nuevos remixes retro en NES™ Remix 2! Sumérgete en más de 160 retos de 8 bits basados en momentos clásicos de 12 títulos de NES. ¡Ponte a prueba con los desafíos modificados de los títulos tardíos de NES como Metroid, Kirby’s Adventure, Super Mario Bros. 3, Punch-Out!!, Kid Icarus y muchos más! Conquista los niveles NES y hazte con estrellas para desbloquear niveles extra antes de pasar a los niveles Remix en los que las reglas han cambiado y múltiples sorpresas te esperan. Recoge monedas del mundo de Mario como Kirby; ayuda a Link a escapar de una panda de abominables Boos; y esfuérzate por eliminar virus de colores cambiantes en Dr. Mario. ¡Hasta los jugadores veteranos tendrán que replantearse sus tácticas para superar estos encuentros!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-04-25",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/42fa64b416215756cdbb7dd3d3705c175b4087f65204bba1f8e39971b856080b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a2d01761bcfef2d06643f28f01f93bfc34344778cbb4ee84332b9166bdf2c6be.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9a871d1ea6bcdca3892a6e9ae24eae169e476895ac27df619ad88e22abe8a605.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/889b731102416b0274b926e8622477dc5a0e283714585faf8221a0db878a9954.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/36fc00837700bc23fe44c48e751b4baa2fac234af48d5b6e0ea01f5684e4588c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/114305e6116816041c64fa4cabc8e1f3bca8896401aa321810cacd9b43e14b0f.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a41a4814e509036f92fda3d3f598582f7393b8fde4cc6c8a3b9a830778e40ca6.jpg",
+			"name": "NES™ Remix 2: Tráiler",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/174e02177ed2361aeb0915e6a79b32f64f6618dfe26fe07f3cdbd62932acd242.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "92"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6cf1377acf381ba8beb7ebafca64395e08f91346f811c1a4dfb47e78ee23c30d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "92"
+				}
+			]
+		}
+	]
+}

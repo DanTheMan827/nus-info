@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000014AE00",
+	"eshop_id": "50010000026796",
+	"product_code": "CTR-N-BSYJ",
+	"name": "ソニックトゥーン アイランドアドベンチャー",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 231,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/155d39aada89c924ea8cc996d63c2d63383e77199f0140ad696625ca819a98b9.jpg",
+	"data_size": "876632932",
+	"description": "新ブランド『ソニックトゥーン』が、ニンテンドー3DSに登場! 超音速ハリネズミのソニックが謎に満ちた島々を舞台に駆け巡る! 従来のハイスピードアクションに加え、お馴染みの仲間テイルスや、ナックルズそして新キャラクターのスティックスが登場し、仲間をさらった強大な敵「リリック」に立ち向かう! それぞれが得意とする能力で道を切り開くチームプレイ重視のハイスピードアクションです。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2014-12-18",
+			"retail": "2014-12-18"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a46d2ffe596e7965c8c3d0acef36617e06d5b18c28019ecb8f5c3e18c041c75f.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/09f154841dc557115539a688bd3f89b3d3b9a6b6288262d7aeb0f1eb3ea3dcb6.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/eb7eba9e4d54064f26fb6ea8db4f698a3877b997e541e42a3d4ff8a5d5c60fa6.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8fefc386b79082b00b218f81641383a096289f9f74f96aef879c6f954481b1d4.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3337f9e6796a127a257b621592981fa9c325657348c85a37ba11b8aa31014131.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/fa314d4c8cca0878709bd72fdc8733331870d4f6b30c6cce9d26ddd3dfe8a0ca.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/312ad84d1d6c52b3c81650a241fcaf4a4d47f11b7733adb48ee2672db85304f5.jpg",
+			"name": "ソニックトゥーン アイランドアドベンチャー 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7e305dae7f07046938677d32eac06149ee13b1d5690904e272cf43fb825a8117.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "138"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7caccb9694c82decf9c441eacbb5aa7e17d85be1a3da8e68b8a56b3f85e2e3a8.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "138"
+				}
+			]
+		}
+	]
+}

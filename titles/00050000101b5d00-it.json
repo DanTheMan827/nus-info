@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101B5D00",
+	"eshop_id": "20010000018067",
+	"product_code": "WUP-N-FE3P",
+	"name": "Zoda's Revenge™: StarTropics II",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0eebac38da2ef4ef6d1f4b1770aa47a0378e6a8cb30d2d0ec8507ec6ade16f44.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/99fa7a4da92f75fec6b34c2e5dbd09a9ae0ac1bb04a2d0aaa5e1cc03bbdcd201.jpg",
+	"data_size": "39026848",
+	"description": "Mike Jones, provetto giocatore di baseball e avventuriero per passione, ritorna per un'altra avventura. Questa volta non si tratta di un viaggio nello spazio, ma indietro nel tempo! Il seguito di StarTropics™, originalmente rilasciato solo in Nord America, fu uno degli ultimi titoli per NES™. Questa volta Mike verrà catapultato nelle varie ere storiche, dall'Età della pietra al Far West. Incontra figure celebri come Leonardo da Vinci e Cleopatra. Affronta i vendicatori di Zoda, il capo degli alieni sconfitti da Mike sconfisse durante la sua prima avventura. Sarà forse giunto il momento per Zoda di tornare all'attacco? Se possiedi questo titolo sulla tua console Wii™, effettua un trasferimento dati su Wii U™ per potere ottenere la versione ottimizzata a un prezzo speciale! Questa è la versione americana del gioco.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-09-03",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/3a3f46fac9b02382054fee56a4e6fc7ee2ae9781f7de78034822fe70c4981a25.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/35113128712da96362034ba0eb7f7fd2c0b250026461504566682e6d1d9fa028.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/34e452b2796db804f44756d573e9f847834dfc2fb2f48e968d6ac93d42ae5689.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/95e4606f3d14e8b3d6dda13138c7c9c6ef76458ce7ec721488c1874f0fc58741.jpg",
+			"name": "StarTropics™: video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/854dda3f7cba0a48a2bac998bd79e5d01e88edd3470f18c62964fa568e6ff5c6.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "43"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3f3ba5875a11c8d007a153b485c98646a698bc2f440fccf383ba96078139b038.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "43"
+				}
+			]
+		}
+	]
+}

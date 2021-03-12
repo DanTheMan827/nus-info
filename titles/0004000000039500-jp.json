@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000039500",
+	"eshop_id": "50010000000462",
+	"product_code": "CTR-N-ANMJ",
+	"name": "アニマルリゾート 動物園をつくろう!!",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 167,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d597adcc6b93f1e2ded3ea59ed7d319a841944f3d777b7803d7caad607fb3b1b.jpg",
+	"data_size": "395139940",
+	"description": "3D映像で描かれたリアルな動物たち100種類以上を集めて、自分だけの動物園をつくるゲームがニンテンドー3DSに登場。 プレイヤーは動物園の園長となり、祖父から受け継いだ動物園を活気ある昔の姿に戻すために、来園者を増やして賑わいを取り戻していきます。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-03-28",
+			"retail": "2011-05-19"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/54f3a0e39eefc9762758892bfecc998cea4873f62d138cb049783831f736847e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/cd8008a3d542468738169877d0fbef23e3be8bec2e70e95d70b30a96f873cf4b.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/481e36277b64500ee55d476a3c6f6f2c01edbfa8faa74f7c2927a61b40b46b7b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9d7e494b8a5eaf67c980a430af5fb126aae06bbb01b806e5b79af05c03db69da.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d92e2f31a6309322b03aeb590bd8117ade68ad54e25784c0ae753cce8195b602.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/fa2f0ec964c010c3cd9940085011e7667fe93f18835f8362a5d7104af6efbb8b.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/100c01e9bb1ec74737a1716cec7ed16434453d186dce92960d235264abacaba3.jpg",
+			"name": "アニマルリゾート 動物園をつくろう!! 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0360bd311523a665bd0a33235deb9866134444a1a0e9a005eb9e22f7e7ac5676.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "186"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8d1a35ffd12b7271edf42699827f6d1eabcfa61d1e7bf7aa3583564cb306e211.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "186"
+				}
+			]
+		}
+	]
+}

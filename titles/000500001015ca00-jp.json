@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001015CA00",
+	"eshop_id": "20010000010807",
+	"product_code": "WUP-N-PNXJ",
+	"name": "出たな!! ツインビー ",
+	"platform": 166,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1326f390f26dacfeca8645bc7954fb3cbef6c54ac197577ccd761e3c2f95a4e6.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0340843b946a723842466160552d3cf451b4b76cf2f04d52dcc4af39b898d635.jpg",
+	"data_size": "83755148",
+	"description": "かわいらしい世界観で人気の『ツインビー』シリーズの5作目にあたる、縦スクロールシューティングゲームです。 邪悪な異星人「イーバ」に侵略されつつある「惑星メル」からのSOSを受け取った「ツインビー」と「ウインビー」が、惑星を救うために飛び立ちます。 コミカルな敵キャラが行く手を阻む全6ステージを、1人プレイではツインビー、2人協力プレイでは「ツインビー」と「ウインビー」を操作して戦います。 空中の敵はショット、地上の敵にはボムで攻撃、ほかにも威力抜群の「ビッグショット」や協力プレイならではの「ツイン攻撃」、「ガッチンコ攻撃」など、バラエティに富んだ攻撃技が使用可能。 さらにステージ中に出現する「ベル」はショットを当てることでパワーアップなどの効果を持つさまざまなアイテムに変化。上手に集めて攻撃の幅を大きく広げることが、ゲームを有利に進めるポイントとなるでしょう。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-11-26",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/006a6f1155c9fc25053d2de4f6f93318f921413e4617345f969187c8c949a8b9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/46c9f645ee0324972f4f7451862b3d21237f0fbd1afeebc90f060915ae6a6744.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a19945f2edcae9404a6e456694999a059b20e207405624ba45f80925e9d8b1b5.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cc17c49bd89c1edaaa1036237709709f6dc8d4f6254537ac4e789af46f86d3e8.jpg",
+			"name": "出たな!! ツインビー プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/29bb9800f53859c2a78504c754e2f29b5c56238ad63d16dba2676ffaf87b8660.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d3d64c9781cf26a6d29ce72e75d03124b83e84402e36c359c48e7a1b593f15b1.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,69 @@
+{
+	"JP": {
+		"title_id": "0004000000082900",
+		"eshop_id": "50010000010367",
+		"product_code": "CTR-P-AG9J",
+		"name": "GUILD01",
+		"platform": 18,
+		"platform_device": "CTR",
+		"publisher": 456,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/65f809006b5e7ce384e07ab1675a666a885f00f9183997a88a07c5cce56a1148.jpg",
+		"data_size": null,
+		"description": "まだ見ぬアイデアをパッケージ化し、多くのユーザーの皆さまに未知の体験を楽しんでいただくことを目的としたプロジェクト、それが『GUILD01』です。 作品全体をレベルファイブがプロデュースし、4つの作品を須田剛一、平井善之(アメリカザリガニ)、斎藤由多加、松野泰己が、それぞれディレクションします。",
+		"availability": {
+			"eshop": false,
+			"retail": true,
+			"dates": {
+				"eshop": null,
+				"retail": "2012-05-31"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/78619dc4737d365c8b5f3455ce70b45da0484686558f5bc6a58d31e48881a990.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f0e0d07f070608aa8ea74a46a8c0739d192515bf07f2d9fe7a2b25cdb41d5c72.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6e84d2c52f61b852841f3f3f050c77a8df031d14b4e77a52a1b1e0dfb49023ae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8371d6436451eb5cbd8bb599077c6c2e07d9724c0f0d507a7d4c845efc4181cd.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ce3e07ac7761455c99f35bf2369f9567b1d3980602757d70c11c052661d78c64.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7c157a70a04f3c0669c347cf2b85c258b6b2a0b57d3cf6a8730861dda0d7f398.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fcc5040ed2c468e73668800f19f99ed264f67c31145b3c9301db234a6b14a034.jpg",
+				"name": "GUILD01 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ac84051346a4d18354b16ec0111106ecb014105bef637b368fa32e4ee923a025.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "163"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/17717eb1b7aa0f1e421679a12028dd98bc83da470c76dc9fc737059e9db9d169.jpg",
+				"name": "GUILD01 TVCM",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ec88ab06b6d1cb7454a287a19de5d659223562cc38032aa86fd8e066f4875998.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "30"
+					}
+				]
+			}
+		]
+	}
+}

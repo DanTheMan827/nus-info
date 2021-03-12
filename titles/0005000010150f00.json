@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010150F00",
+		"eshop_id": "20010000003925",
+		"product_code": "WUP-N-FBZJ",
+		"name": "ダウンタウンスペシャル くにおくんの時代劇だよ全員集合!",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 19,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b9f6db86ee371667f0e355fcd42061b33ed7bd1dfb6784c2590d4373dc16ef93.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7e27a6c7ee9a3d09db18857aa05f36d5bf5cc4baee50a7c05f83917a5a296050.jpg",
+		"data_size": "36634764",
+		"description": "このソフトは、1991年に発売されたファミリーコンピュータ用のアクションゲームです。 舞台は江戸時代。くに政(くにお)は、さらわれた「お琴ちゃん」を助けるために相棒とともに日本全国を旅します。「マッハパンチ」や「にんげんドリル」など、くにおくんシリーズならではの個性的な必殺技を駆使して、立ちはだかる敵を倒していきます。全国各地には、倒すことで仲間になり、相棒として活躍する敵も登場します。 ",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-12-04",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/959812b1efafa436da71237e37a13bdd59e1eb3962e03802602118a3b73f3eed.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/d08d744d55033f450d2ede6793b3a8a512d487042b26a6bb0078973d373476a1.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/5bd63553a1f5eaf5f66fa520a1fc137860f6a584b12d2665a5994dae5d40b465.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/012e5113e67b48bb3d9c364abbbcecd7c3602a4e1d92cd6d1d36664a731ea195.jpg",
+				"name": "ダウンタウンスペシャル くにおくんの 時代劇だよ全員集合! プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5db1fcd998a7fbff2147c7c1f6674e1fd4a2f379ea07955c2bfd81f24d2fe8c1.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "43"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f10d20db9cd49bc5e7f9bc38dd802223f1b916b53842f8cd2aa11b2b12895ef0.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "43"
+					}
+				]
+			}
+		]
+	}
+}

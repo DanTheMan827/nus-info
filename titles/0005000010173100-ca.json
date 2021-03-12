@@ -1,0 +1,53 @@
+{
+	"title_id": "0005000010173100",
+	"eshop_id": "20010000007306",
+	"product_code": "WUP-N-WGTE",
+	"name": "I've Got to Run!",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1282,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1f42c780d513a1b85155cf8ab12efa1ebdd5973aacdf42bccb2257727ea7cd3a.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/404ba190f592bb3d000c9eda47e7c39278579f0a3926a4667c642619832f626a.jpg",
+	"data_size": "74580128",
+	"description": "Join Roy the Marshmallow Boy as you run forever! I've Got to Run! is an endless runner game where you never stop running and only have to jump correctly - it's trickier than you might think! Run through three modes - Endless Classic, Endless Double, and Endless Special, as you try to set a high score in each. When you're done, post your high score to Miiverse and let all of your friends see! This arcadey game is a blast!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-06-05",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/b91890c37a3725d8bd28a6a2c6be9379b18f90c8777c41d0bc4133b98c3e162f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6f65899b6821df8c56e89005f72c49df2cc1542b0bc8d902dbc2977d6934c1a3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/71ef57e6a7c85541a1e5376226ac7ade522b9b4f6a1e79a13c8c1753b2b124ed.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/16a2fa304fb5db48c5da414c8990fc595b163b829e6f5fc0ff80a7d450abbf5d.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8277da13d280f4a389a10ccc04efeae3e2f9345ac14c1480bfba37d309e4cbd1.jpg",
+			"name": "I've Got to Run! Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/87aea0dcfdd98b871e3a1343ce3547cd05b44d33720b256df2457dcc476c82a2.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "122"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c80fefebd7435a9d8c35a0ea42bc8a1c24bff2247b596af83470f6d70f07c8d4.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "122"
+				}
+			]
+		}
+	]
+}

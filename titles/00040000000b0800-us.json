@@ -1,0 +1,85 @@
+{
+	"title_id": "00040000000B0800",
+	"eshop_id": "50010000015514",
+	"product_code": "CTR-N-APNE",
+	"name": "Disney Planes",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 64,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ce2c1c94dcd3f21dafe5ebba76dec8d8bd2459699c40ad3c267d4e3007c117dc.jpg",
+	"data_size": "139619172",
+	"description": "Get over your fear of heights and take to the skies for a daring mid-air adventure that will test your pilot skills and your sense of humor. After a few flight lessons with Skipper, throttle forward over the world of Cars, just like Disney’s hit movie Planes.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-08-06",
+			"retail": "2013-08-06"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e7d05e30e30ecd70174aa9bc86ef2c519e596f8530786a59b230c2bd85051194.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/62fc6c9dcd75f6ae676f89d5098ef26dbf08dbe1ca98483fcef68507faa947c6.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/273da6d3796f2a9c4afab2fedab5cd8044ad50d752d8839f95faaaf3eefa8ae6.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/305486fc2aad42b3f8fc43803d25627c6423d99800006c7bc3ae482c68a3285d.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a7fb0822c6b35ccc8c5f4464ca3b3041d749fabeee2ee4b8cd528e89466de47c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ad2ff64c37ef724498ebec359eace588107c8ed8a3f015660a9df5d9aa3e7486.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c3f344b8a2b58793e6a91abc27d570179eb253421cbb956b5c32f08bb3a1884d.jpg",
+			"name": "Disney Planes Trailer 2",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7f340eba3b4829e14f19f98fb628a9c454d5e356de33f3111c8cc69dcf41615c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "59"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9d8ada37fc85785009e14317a9ccb91307543a586d4cbacf5ce1636c0eddfea4.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "59"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ebc180e7fda3fc67ff5a3536c1f9d5763f906f61b9ef2086f1c177e0e38e0fb8.jpg",
+			"name": "Disney Planes Trailer 6/11/2013",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/62c406b9c667ce6c93bdfc66ee2407aaca39155734cb7eff1729aafeb740a614.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c0bc52002266ac200d0483d29fc8131ea19a097c97a35699942e87d3f99b6734.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				}
+			]
+		}
+	]
+}

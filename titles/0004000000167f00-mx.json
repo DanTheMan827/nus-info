@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000167F00",
+	"eshop_id": "50010000034235",
+	"product_code": "CTR-N-KW2E",
+	"name": "Comic Workshop 2",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 358,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5ac955c5a1ef30318cd0bce3802b104e00df118496aec77d2b3e418038b104c2.jpg",
+	"data_size": "107981668",
+	"description": "Smoother, bigger and stronger than the previous title, Comic Workshop 2 brings you extra comfort and new functions to make even more amazing drawings! Smoother? Setup your most comfy config with the new button mapping interface. Thanks to a higher response time, drawing feels more natural! Bigger? New Gradation and Saturated Linework tools to add amazing effects to your drawings! Improved Text tool, many more Stickers and Roller Stamps in full-color, a Clipboard is available to copy/paste between pages, a grid for precise drawings, a color lock option... and much more! Stronger? New layer blending modes for amazing color mixing and a transparency lock available for backgrounds. Powerful transform settings for Copy-Cut-Paste, Stickers, Roller Stamps and Pictures! 360°rotation and an aspect ratio lock for resizing without distorting. Save your drawings in better quality, preview your pages from the menu, use colors in storyboard mode, etc.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-06-18",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6906e2c080a5bf4e2edb23d365055a026a612f0721d5c99c013f7f217f4fc4e4.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/09a47409d488f394d16c0e400d559f0203b10086f359c67b8160626554283883.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/be2881665041e787d4a67c38add07b6e034707c4a9a83d5d45ff6627ee5986eb.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/de48e19edadaf120d5600ea288f6a02bea6996a81485ae2e8bc058f2dfd12d17.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5bc3612f2c1f0d68917322e5f45982d0f89110bc3e6d0304f87119d2d8b28f89.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/543c5f7d1772fc777cf87fd97e1fd7553c1b3e820940dfc77c8419d60207d46c.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/eb86f29b7c560f71dba3052c38df29ac80a005a594e382b8dd3a14d542baf15e.jpg",
+			"name": "Avance para lanzamiento Comic Workshop 2",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d3fb7e3640c0c8db7de93ed5a8897eb99cfdbb49bbedcae7585d52f14e89531c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "130"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/095accf46d043330cf708fb9246e22eb7d99b9e59b8e7e13ff90df1088b322c9.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "130"
+				}
+			]
+		}
+	]
+}

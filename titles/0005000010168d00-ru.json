@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010168D00",
+	"eshop_id": "20010000006086",
+	"product_code": "WUP-P-ALHP",
+	"name": "LEGO® The Hobbit",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 1004,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/65301cb428afeec95e72f1cd228f53ce32210e677147ae1ebc44113ae28c99bb.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4486b1097fc833879823a129745db2079d8e88433aa36482df4a263f618cbac8.jpg",
+	"data_size": "7645135628",
+	"description": "Интерактивная игра LEGO® Хоббит™ позволяет игрокам участвовать в сценах из своих любимых фильмов и основана на судьбе хоббита Бильбо Бэггинса, которого волшебник Гэндальф призвал на помощь Торину Дубощиту и его компании гномов.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2014-04-11",
+			"retail": "2014-04-11"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/41cfc80f16e31727c4ee49c56e11a0759cd8e894fe4b0cf4c1d5001db374f604.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2f90e02a9376d1407f3890425f38b32d91f80077bbc84fb5c986ea24c49dc284.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/fd6db69cf41db48a420c0740405fbc6b65c07d055b61c2de78fee22fd96eb4eb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/40dce780a6e61928291f7de93b138f0d28250a5490ddbd021d33c7146e193b61.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0b4dd556d46bde82eb3888344fcb6b220b86f3df22d1b844b3610d1867e17416.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2b78c4ff9136d0fb0540765cf8513e7eb195bda9d38206cb251bda73379639b0.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d7bf6e60c76085ad72e1d3c8d2417255f4d1ca63150dab95342a9493e1916c71.jpg",
+			"name": "LEGO Хоббит",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e486b2cd6d100004aeeb15e38883c0764ea7cadef14f82cc7d1ccd4774f7899c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "98"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3a4d8bfc1ca89b25d5fd199a73749e77d975ddc753f13d0181e7b62ab203025c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "98"
+				}
+			]
+		}
+	]
+}

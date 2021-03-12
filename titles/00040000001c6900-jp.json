@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000001C6900",
+	"eshop_id": "50010000042857",
+	"product_code": "CTR-N-J2VJ",
+	"name": "マイティガンヴォルト バースト",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 1308,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d1231c195b747852514f3dbafe03056bc2159de22f15003910cafe228870d6f9.jpg",
+	"data_size": "13564772",
+	"description": "『マイティガンヴォルト バースト』は、レトロテイストの本格2D横スクロールアクションゲームです。 90年代の雰囲気を味わえるレトロテイストでありながら、敵に接近して倒す事によって発生する“バーストコンボ”や、プレイアブルキャラクターの攻撃・防御・運動性能をいつでもどこでもチューニングできる“カスタマイズシステム”など、特徴的な新システムを搭載する事により、現代のゲームとしてやり応えのある内容となっています。 主人公は『Mighty No. 9』から「ベック」、『蒼き雷霆 ガンヴォルト 爪』から「ガンヴォルト」のダブルヒーロー方式を採用しています。本作オリジナルの世界観でそれぞれの視点から織りなすifストーリーを体験してください。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-06-28",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/255c61afda95f0e59bbd97f12871bf2a6e543622e24fb3e50a03cd8c7d1fb5ca.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1a91c491fc808ee7cccfc373b48fd63a98271384b66fb67e1ffebb3a47046c3a.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8874f1ff99d11acb19045ec5628fbe77fc853e7601fbec62e7689deed02ba9fb.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1a91c491fc808ee7cccfc373b48fd63a98271384b66fb67e1ffebb3a47046c3a.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/540f6233ddfa6a74b01b87a9d9afa57bb73027d77c8a389773e1f9ac4f6c6a70.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1a91c491fc808ee7cccfc373b48fd63a98271384b66fb67e1ffebb3a47046c3a.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c64206866901dcc6cc24fc21022cf9c2ac578a955067233173e4a02cd718f0f6.jpg",
+			"name": "マイティガンヴォルト バースト 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/79918ea4fb2192f5d98d87e6b499dbdd1c0273fae924e336dd183eaea03390e4.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "82"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1c63e1e16736c056df3c7e90d71e2e3dd67096eb561e591032d117ce0561a380.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "82"
+				}
+			]
+		}
+	]
+}

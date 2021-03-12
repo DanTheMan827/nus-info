@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010169C00",
+	"eshop_id": "20010000008346",
+	"product_code": "WUP-N-PAQJ",
+	"name": "スーパーマリオアドバンス4",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6fc65d3b4ebbd8bc6af7fe2091ac7218b38de48823fee95044be19d349de92fc.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/38cfb361620b7e9b1d20cc59e8b0c22af95df06d71383365d397c8a801ea6088.jpg",
+	"data_size": "87261304",
+	"description": "このソフトは、2003年に発売されたゲームボーイアドバンス用のアクションゲームです。ファミリーコンピュータで発売された『スーパーマリオブラザーズ3』をアレンジして収録しています。 キノコ王国を跳び出したマリオ！ そこには見たこともない不思議な世界が広がっていた!! タヌキにカエルにシッポにハンマー。シリーズ最多のいろ～んなマリオを操って、ひろ～い世界を大冒険!! ※当時のパッケージ裏面に記載された文章をもとにしています。 【カードeリーダー+のコースも遊べる！】 データセレクト画面で「コースカード」を選択すると、オリジナル版で「カードeリーダー+」を使用することでプレイできるコースを、本ソフトでもプレイできるようになります。 (ゲームボーイアドバンス用周辺機器「カードeリーダー+」は使用できません。)",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-12-29",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/6d17846096b470a91545f01bd37a2e2ad13ef3cb64b4d0ce5f1570b44b04cde3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bb71d1443ec33c9286586a440625bb0c2bc115f0c11a2ac1bc0d71f7ca1bfb7b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3b89915d63966a3776bd1eb8207f093929c8d2361296e6f171da6297ef0873f8.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8eea49f88366599ce40d22bc37b8f9c12059225fc23b4984010fdb5d88cfd9b1.jpg",
+			"name": "スーパーマリオアドバンス4 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3d844b27c8efa7f11f5bceb6bb40c7c2d665c7f29a0a9575532fa0ea2cd5f0ba.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "48"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7767c902092b8b91e10a0b6cc7964311aca2b250c5ad3846865acea3b130a9b8.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "48"
+				}
+			]
+		}
+	]
+}

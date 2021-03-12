@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000174B00",
+		"eshop_id": "50010000038536",
+		"product_code": "CTR-N-BH6J",
+		"name": "ベイマックス ヒーローズバトル",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 1188,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/eb00f1db577449ff95159afd0e17d9572c7a1ffd113c11e7685c40584a438552.jpg",
+		"data_size": "88410980",
+		"description": "ディズニーの映画「ベイマックス」のその後が舞台となった、横スクロールアクションゲームです。 天才ロボット工学者者のヒロと、彼の友人のベイマックス、ゴー･ゴー、ワサビ、ハニー･レモン、フレッドは、ボットの侵略からサンフランソウキョウを守るため再び立ち上がります。彼らと一緒にサンフランソウキョウを守りましょう! 操作できるキャラクターは、“ヒロ”、“ワサビ”、“フレッド”、“ゴー･ゴー”の4人。 ベイマックスはヒロのサポートとして、ハニーレモンはナビゲーターとして登場します。 ステージ内のアイテムを集めると、アビリティの強化やイラスト･フィギュアコレクションをアンロックすることができます! チャレンジモードはストーリーモードよりも難易度が高いのでがんばってクリアしましょう!",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-12-10",
+				"retail": "2015-12-10"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5948ef3f1a114c0c481e745d7436eb645705b0723e6ad029e93f956bab834648.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ee26b86ac7d9f8d705984126157a50ecd009139ee2797d1abc0746b012e4cb16.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/17482c2395c600b44dbe15da4692010a304fd13d3e4cc7b04e233444ccdb6178.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4fa6c3dd19ff342d0d41a22716bdbe19e3c6d330d1f865d417735632402c0524.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8268436a348a873e8e2653930e54a9d46ff8a9bc264e4ba7d3a51ddcea9b42c7.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a66add2c10498aec29697fdca94b3f9796d95cbaf162933081f9c5f9c010e5d9.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2cc67bbf41762314988f05b96920c2ff3e94ffc301ade01ffd7168c0e8db87aa.jpg",
+				"name": "ベイマックス ヒーローズバトル 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6a4d37695f5c93063b44c4d4bda3fe5568ca7b8a7f2573aa39a47a712af1c1c0.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "64"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4e9e4bca8d3983cb7ec3e98c5bf78050855d6f0be685c76413209f0b731b930f.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "64"
+					}
+				]
+			}
+		]
+	}
+}

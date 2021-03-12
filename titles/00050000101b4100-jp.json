@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101B4100",
+	"eshop_id": "20010000014449",
+	"product_code": "WUP-N-AAVJ",
+	"name": "タッチ!amiibo いきなりファミコン名シーン",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/47e11274010ceebe69db2a684d14572bfb6876fbf1a6e81d84766c30adcbfc68.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/40a5e99ce637f538d8940b3a64713f48982fc1054f4786ce5ca9e1e740852404.jpg",
+	"data_size": "81297548",
+	"description": "amiiboをWii U GamePadにタッチするだけで、ファミコンやスーパーファミコンのいろいろなソフトの名シーンが遊べる、無料のダウンロードソフトです。 どのソフトを遊べるようになるかは、そのamiiboを最初にタッチした時にランダムで決まるので、何が出るかはタッチしてみてのお楽しみ! マリオやカービィ、ゼルダなど、遊べるソフトは30種類収録。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-04-23",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/9a5b227395527d3ea498d09bc2068c5dd4812c03a86ee471e71be4eb8407f7a7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/01eaa9cc3e7780cfafc2b7de3e9f9a98f63b20f03d1f1fddc2a91c4ecf71302c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/dcd31436277af78f1e1eef215fe71f08a91373fa3a90e22711876b66b66689f7.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/93d85b07e77229ab98a74bc1b0f5467969a06fcc960fdb93b5202569c636abd5.jpg",
+			"name": "タッチ!amiibo いきなりファミコン名シーン 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c1a30b3106020c4d91f27d9a28bf76b385160f34edc7a0ed20e3c67488af0915.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "123"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/259d86b1dacc4b7403139aaa26b98b1d93f2870c9153795fbd6a155baed81f51.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "123"
+				}
+			]
+		}
+	]
+}

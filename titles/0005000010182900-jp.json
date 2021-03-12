@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010182900",
+	"eshop_id": "20010000008926",
+	"product_code": "WUP-N-PBGJ",
+	"name": "F-ZERO ファルコン伝説",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/65007a882e8c6eccdddd6f5e51ef32c7ef70a8c05ff6c2c544a983f3d11ba17f.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/15c40f5867e5181dafde63db727a15c6b399b327a43285cfecc7d7809f6aa9a2.jpg",
+	"data_size": "76873868",
+	"description": "このソフトは、2003年に発売されたゲームボーイアドバンス用のレースゲームです。 西暦2201年。宇宙最速の称号をかけて競い合う、全宇宙規模の高速レース「F-ZERO」が人々を熱狂させていました。高い人気を誇る新人レーサーのリュウ スザクと謎のパイロット･キャプテン ファルコンは、ライバルとして熾烈な戦いを繰り広げています。しかし、実はリュウには重大な過去があるのでした。 本作は「ストーリー」「グランプリ」など5つのモードで遊ぶことができ、コースには加速プレートや爆弾トラップなどいろいろな仕掛けがあります。ブラストターンやロングジャンプなどのテクニックを駆使し、注意しながら走行してください。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-10-01",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/c917e394770fc08005378d304354eab68d80d8c9baa59841a528731467499139.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/037def150af93fe2afcf27080e0a17abe7f49a0bd29add51e1d6f2df3e50cc96.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9e5fcd9c69082bf1bb660ddca124ef211aace73d2a4ea06099810356d2b6181a.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a16cfbe8b1c846bbd86efa0ce0830623284960bc4491660ee40daee6b3e96815.jpg",
+			"name": "F-ZERO ファルコン伝説 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d8d3b0f9e98a26f559566edf3b1983668977ccc2fcf6d06614432d0b580c7a54.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b0f3c72b4b3dd7f37a202ec14cc215add5750d7ffc587114a8af656f9bad6bca.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				}
+			]
+		}
+	]
+}

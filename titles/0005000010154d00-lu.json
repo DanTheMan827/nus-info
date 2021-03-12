@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010154D00",
+	"eshop_id": "20010000004064",
+	"product_code": "WUP-P-WC3P",
+	"name": "MCO : Mondes Secrets",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1242,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1888c640a7f16d13b07b650a22427780f2bcd5189fe2118b49a80a582da341ed.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a8398c8f397e116a7b87b851f9a56fcfa70f84452bc2812e29567eace14a7351.jpg",
+	"data_size": "839450804",
+	"description": "Joue Esteban, Zia et Tao à travers les multiples niveaux remplis de puzzles astucieux, de pièges et de phases d’infiltration, dans une grande variété de merveilleux décors. Explore chaque recoin de Chine, et échappe aux hommes de l’hostile Zarès, à la recherche de la Cité d’Or locale. Tu peux jouer avec tous les personnages de la célèbre série animée Mystérieuses Cités d’Or. Chaque héros a ses propres attributs. Faites votre choix entre eux intelligemment, face aux différents challenges !",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-11-21",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/990ca2ccf6a55b6c0ffa7ac0fd22c70af7dce087c71b17771fd18cbecddd19bf.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/93fbceb94a2fdb2690a15175d9fa9139a43a2a58b0dfda41004b45ed258d1514.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a9f5591df4d36dac0f2e8e2f90f9269422b3ae351875bcd93c9e0cc860182eb5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bb504454f9f9ffe2fa8ef05e2ee6001daf463a4084ceeffbd774091baff84d40.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/de6720c553e3c968d9f56f4d4147d90e5a78dc4d2ab758c57e6100dc0b56bd7b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a617f6a90af22246b0ace15b07233d94ac7d1f200132ec7a0970bae4d6169291.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/452bbbb63294b7cbdcb85eb8ce88989654a4f63f19fc16dcd64d51b277179d1c.jpg",
+			"name": "MCO : Mondes Secrets - bande-annonce",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/99d7e663f84e8ae8d8796aa9010e010ebeed55d5aaa18eca45f4647a4abbb3f6.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "48"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/10940ff2b7fe13c993bfc1f087df66fbb44550fbba2efa0f642487ae2b881227.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "48"
+				}
+			]
+		}
+	]
+}

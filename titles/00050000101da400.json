@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101DA400",
+		"eshop_id": "20010000021788",
+		"product_code": "WUP-N-DA3J",
+		"name": "ファミコンウォーズDS",
+		"platform": 169,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b958e6953fb1d2f219ec84dafa4673b716016486d8cf3b3c3464bd630ab5baad.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d25b199e107153044b3fa144c3dc0b28ac73cf11b18ed3607f7ff812c783ab57.jpg",
+		"data_size": "62881912",
+		"description": "このソフトは、2005年に発売されたニンテンドーDS用の戦略シミュレーションゲームです。 将棋のコマのように戦車や戦闘機を指揮しながら勝利をめざす、本格派戦略シミュレーションが登場。2画面を同時に使ったバトルで戦略性が大幅UP!! 200を超える圧倒的なマップ数！ ふたりを同時に出撃させるタッグバトルでは、ショーグンの使い方次第で攻略の幅が広がる。オリジナルマップの作成や、シューティングゲームなどモードも多彩!! ※当時のパッケージ裏面に記載された文章をもとにしています。 ※おすすめの画面レイアウトは「大きい画面レイアウト」です。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-04-20",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/6017503f219d15f5d8d0d65313649cdc56cb47458d4f6f9eb8195fe0197538ad.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/e71a0ff86bb9407e9252e781c8cb0fc25e85a03a68a38965987557c2eb8392c5.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/a1998e04fcdd30580ae16084c66ca74c6a37608297bff33b17a38ff731b4ae4f.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/deee8768d52d2ed42602f7a4a68d53bd3ea773f94116abbfdff8e8e532e92c53.jpg",
+				"name": "ファミコンウォーズDS プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c877bd3ff0d4553c65c1ff3462621948c4013da29204fedf63271d673b336ff7.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "63"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5f22c6bfcde679a82cde6ef01b49deac85c86057d3fff6e1f20bfeb7af1ab88b.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "63"
+					}
+				]
+			}
+		]
+	}
+}

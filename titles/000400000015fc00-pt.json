@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000015FC00",
+	"eshop_id": "50010000038395",
+	"product_code": "CTR-P-BTSP",
+	"name": "Story of Seasons",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f889b1aa43426daf1f629a4f19f6c56044b119f78cdbf6d244fa0051e6e89344.jpg",
+	"data_size": "759917412",
+	"description": "Aborrecido com a monotonia da tua vida, encontras um panfleto com uma oferta intrigante: A Oak Tree Town está em busca de caras novas para se tornarem agricultores que ajudem a revitalizar a comunidade local. É uma cidade pequena, mas promete uma vida repleta de trabalho gratificante e amizades duradouras. Quando chegas à cidade, começas a aprender a vida de agricultor com as pessoas da terra, que te recebem calorosamente enquanto adquires novas habilidades todos os dias. Cultivar os campos, cuidar do gado, desenvolver a tua quinta, exportar os teus produtos para outros países e até cuidar de animais de estimação, são todas novas experiências bem diferentes de tudo o que conhecias. Conseguirás vir a ser um agricultor a sério e retribuir a generosidade da comunidade que te ajudou a crescer? Que excitantes experiências e divertidas lições te esperam?",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2015-12-31",
+			"retail": "2015-12-31"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a64fcdfc83e074a3c07c5c508be3648ca188a84c5f303090ea721f91f85eb556.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d0e5de1351d52f4e4d664863b24086b80944b8f8e6a9a7a524f0a11554217b9d.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f3fe1c60557175da22e481a04ba8616719f771ccef231d328e53fdab387637c5.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/3677263aaf29c0b3e3d243a9091668bab3e1621cdbabb0d4e1c1c916483bdfec.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/089af2c9523083d58bc2fd1325d3f3dea0a4fb2683b5d66aef83945b7127391d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5160ef439f6b2440d4b58ed115db7ab961f69836bcd596aee9c14c355769ab97.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/625d9b0e0884763bd0777621fa7def5728b60af3db1dfd5b649528dabfd142fa.jpg",
+			"name": "Story of Seaons: Trailer de lançamento",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/69c7ff3b8c5f678a0266b35c63edc5b5fbbce7691f9b6a9c8fc4531a3ffb19a9.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "111"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4130463ab2f3b56cf5f693354bf844919ecddd426a98711210d0446e6248fd81.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "111"
+				}
+			]
+		}
+	]
+}

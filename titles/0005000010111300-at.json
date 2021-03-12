@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010111300",
+	"eshop_id": "20010000000291",
+	"product_code": "WUP-P-ABTP",
+	"name": "Batman Arkham City: Armoured Edition",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 1004,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/eccc3531fecefcee2b1e99a0e3ba841ae9f46d99607d3e83d57c82e53267c305.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0d6fd288e68b695bd9f8fbf25ce7a20dae647f5cab768f4f947181ff102de0cb.jpg",
+	"data_size": "19847710432",
+	"description": "Produziert von WB Games Montreal, ist die BATMAN: ARKHAM CITY ARMOURED EDITION die weiter entwickelte Version des preisgekrönten Blockbuster-Videospiels aus dem Hause Rocksteady Studios. Bei der Wii U™-Version sind Geschichte und Gameplay genauso abwechslungsreich wie beim ursprünglichen Titel. Diese Version bietet zudem verbesserte Spielmechanismen und Funktionen, die durch die Wii U™ und das Wii U™ GamePad ermöglicht werden.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-01-31",
+			"retail": "2012-11-30"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/648e22ed108ac7da513f5cbcf674d848d0f308d1f6b1b799ecc6d33b31b9da46.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/cd686e3164498196cfb190a1a87a6498a6457f0a70a1e1636358b674003ffabe.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/54837a269d1f0a87c7d3784649811aeb94abf24bc18d4f847852dd064e35dff5.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/29544fb1d43a364e7dd06e5b8aa93c6c4c66799fe66c60fb592000b0ea6ed71a.jpg",
+			"name": "Batman Arkham City Armoured Edition Launch Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a659fb8715b88662b8e21fec91399cd8293a6767309184a5e399cab7ef9e482b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "82"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/abcd6103116c45cc2ebf6d5c65822011ccbfa24e507d1cea946e0808c7df9bfa.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "82"
+				}
+			]
+		}
+	]
+}

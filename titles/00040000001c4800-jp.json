@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000001C4800",
+	"eshop_id": "50010000042940",
+	"product_code": "CTR-N-J2CJ",
+	"name": "マルディタカスティーラ",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 1212,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8685a176642ce43fb0ae6b290d7f64c08968ea38c6ec2ef671b02f5977e35326.jpg",
+	"data_size": "141441892",
+	"description": "『マルディタカスティーラ ドン・ラミロと呪われた大地』は、 中世ヨーロッパの世界観の中で、主人公の「ドン・ラミロ」を操作し、 敵を倒し、「モーラのなみだ」を集め、王国を救うために闘う、 「王道横スクロールアクション」です。 簡単な操作でありながら、やりこみ要素も満載。 ライトユーザーにも、ハードコアユーザーにも楽しんでいただける作品です。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-07-12",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d551fcceb6ebc83658130a3d90408ede71005ea0902a9c2b0939d9d7e8494f33.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d2aa1c5fe70449eddbbb1961afdf7dfeb773cf0f93b8c858b7274f34fc5fd2c4.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/51cace8e3b95ff6635a5ada297a514ab602a2ff0216de488351fd105d6ae7357.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/65697d3e37133a6cf3d98b50b245904513751f5e63abff7daa0a1a3eda07b94f.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a6a407af3f94d11fa48840d26628b216c880ea12bb559f2fa58a26f79676f508.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/238a723cf7ff208e289ab1a059f5889cd226e9a5fd095fc8c9ccee1b790c425c.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fe1f50fa5cea4e51e4184b01a7762978610d5448369bca67bbff2d91ea32ef91.jpg",
+			"name": "マルディタカスティーラ 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/aee958e4154fb5de58e87080d167494fdd8957fc88f3f2f2728c44292fc2fbdd.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "37"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fc14f4f811d550fb21f1aa71497eee32c14acdba2159afca455dba3c6dd478ef.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "37"
+				}
+			]
+		}
+	]
+}

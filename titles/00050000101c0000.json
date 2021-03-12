@@ -1,0 +1,45 @@
+{
+	"JP": {
+		"title_id": "00050000101C0000",
+		"eshop_id": "20010000016448",
+		"product_code": "WUP-N-VBLJ",
+		"name": "キキトリック",
+		"platform": 171,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/101d5af32c6ec657807624852611517ab16b7c2c7ce0dfb6c21dab10a389a9cf.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e87e00ad416a6fd3f456f544bf384d7a0103c9bff2f3d4fcdebb848b7625014a.jpg",
+		"data_size": "1773109568",
+		"description": "このソフトは、2012年に発売されたWii用のゲームです。 「この音が聞き取れますか？」がテーマの不思議な音の聞き取りゲーム。大人でも子どもでも、その場の誰もがすぐ参加できる、耳を使った新しい遊びです。さまざまな加工がされた不思議な声でしゃべるキャラクターたちが何を言っているのか、文字や文脈をヒントに聞き取る「ノイズくんとなかまたち」、8種類の聞き取りにくいシチュエーションで音の聞き取りに挑戦する「ミミプロ」、聞き取りで対戦ゲームをする「ききとりバトル」が収録されています。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2017-06-28",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/2d7a8cebabeb40211500f3d7a884a60f628a5bd5c68749017649049b544eb38f.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/1b1446ca048b61eab7ecd55ca62ce9c8bd7a7439216cb123cc755047ebf7218b.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/a9d6287748393fc6132b4522f4c8ee09a3d9ba008a4fa4587f751d4b59598be2.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a644aadcc85fc92fe3947b7ba8a74b2065a786b2f32b857c5e602c69677222c6.jpg",
+				"name": "キキトリック 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a4c89c4b547ceaf9e76a7eb6318a484ff4fb0369e61aa76c4c9bb3dd4d701a7e.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "190"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001012A700",
+	"eshop_id": "20010000001706",
+	"product_code": "WUP-N-JAZJ",
+	"name": "かまいたちの夜",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 1236,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e15c7cf8243d0960eeed07a461aac4e5cccc9ccc0112aa3bfd808202de352ce6.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/97720c6ab675a597870fdb08ca523bbaf32c4690f53655a14ff6b7ea4762ea8b.jpg",
+	"data_size": "44073100",
+	"description": "このソフトは、1994年に発売されたスーパーファミコン用のサウンドノベルです。 恋人の真理とスキーに訪れた透(主人公)は、滞在先のペンションで、無残な殺人事件に遭遇します。吹雪で孤立したペンションにいるのは、従業員を含めて12人。犯人を明らかにし、真理とともに無事生き残ることを目指します。主人公が選んだ行動によって、コミカルな喜劇や悲惨な結末など、ストーリーがさまざまに変化。シルエットで描かれる登場人物はプレイヤーの想像力をかき立て、リアルな効果音は物語を深く演出します。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-08-07",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/1bc3f0f599300eeb1c881d577af8434ac6aae946bfc2d96143540c231fe4b98f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/aa374c71a829c96c190a30f9c4fc5316d187e082e253adb89e6633bd7a3310de.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c5bf3dc8613c134b3531dcf6a09f70b919f1067a7e494993c4eecfc30fcf43f1.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/357b3adec9cb4759154773a8f1dcf78e435bdafee076c0dab4974e22abc3bf56.jpg",
+			"name": "かまいたちの夜 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7ed61cabb8f7775862e6cfe134a28215e4c45aa7f9db0fafabc0d086e0da4086.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "48"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a551bf18e8487a4ed942f68036cfc39c1afcf6ebc23620aea76e7521ae74ea93.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "48"
+				}
+			]
+		}
+	]
+}

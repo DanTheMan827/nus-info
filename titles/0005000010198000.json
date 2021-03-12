@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010198000",
+		"eshop_id": "20010000017469",
+		"product_code": "WUP-N-PB5J",
+		"name": "メダロット弐CORE クワガタVer.",
+		"platform": 168,
+		"platform_device": "WUP",
+		"publisher": 222,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f6fbf058b769f9f6cf82c5ad0b09d6ae084aaffd21ab58b191543243e0cdb823.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7f0ed007800c85f02e6159e725f4b4db2044856a6bc9371046bb47a7edc8b580.jpg",
+		"data_size": "74743948",
+		"description": "このソフトは、2003年に発売されたゲームボーイアドバンス用のロールプレイングゲームです。 おみくじ町に住む主人公「イッキ」は、ロクショウとの出会いから悪の組織「ロボロボ団」の陰謀に巻き込まれていく……。ゲームボーイソフト『メダロット2』を完全リニューアル！ 戦闘システム・グラフィックが新たに生まれ変わり、追加イベントも多数収録！ ※当時のパッケージ裏面に記載された文章をもとにしています。 ※本ソフトでは通信機能を使用できませんが、ゲームをクリアすると入手できる「パーツンバッジ」を持っている状態でメニュー内の「つうしんたいせん」を選択すると、オリジナル版で通信機能を使用して入手できるメダルとパーツが入手できます。 ※『メダロット弐CORE クワガタVer.』は、基本的に『メダロット弐CORE カブトVer.』と同じゲーム内容となっていますが、一部の内容に違いがあります。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-01-27",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/f9e6e735493532f6a2061772058234a7db4856eeff98cc45607c7080b24d72ab.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/a2da008c3a8148983e20b815af62ba7345f23feaf4cbfd30e7f0408a04eb392f.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/c1db2391d2d1949d929a19cb3f0600df4055e8e188773ee7ec33b6d24f4a23a3.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f3ce1d9693feff3cbf55fdec4734d0756dd2bdff167abfbaf3d1455386f9fc6b.jpg",
+				"name": "メダロット弐CORE クワガタVer. プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e7dea24e10aba451c8566817b72947effb199e220eed18ea456bbde71986e037.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "57"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6d1e18d607769208944387dbf6d23f1721b273df06d900c17331d5f65321a8af.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "57"
+					}
+				]
+			}
+		]
+	}
+}

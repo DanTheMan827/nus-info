@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "00040000001B3B00",
+		"eshop_id": "50010000042202",
+		"product_code": "CTR-N-KCVJ",
+		"name": "仮面ライダーあつめ",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 1784,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/043be10e3e3dbc5b2e4bfe8bc3af3e979f6861fc15a20470a2fa476da8068747.jpg",
+		"data_size": "88333156",
+		"description": "仮面ライダーの活躍をゆる～く楽しむ、放置＆シミュレーションゲーム！ 遊びかたはとても簡単で、フィールドにアイテム等を設置し、あとは待つだけ！ 設置アイテムにイタズラをするショッカー戦闘員を倒すため、仮面ライダーが現れ戦ってくれます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2017-01-25",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ed3c5889ac79d0a211d5f2d17d9f8648aa670983c37e8aec2ac9fc54e32adbb6.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7236f2de6bbb2d1ff1cdd63a4145bdb293b6c9bdf7f487d2bfb8398a6f1bbae4.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c46d31873acd4ce6eeafbef9942f1888a5f0c43d376701a4aa77a5f6df5bdbaa.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/66ccb27b2ab605c3f9464b5624eb59dd6f6adfa67c893686ebbe6b58b3c4de9d.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6ed94659a998cab10bbd38c7fd550defb6151d6e26c86f0b5cd0ea57228f1f0b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/102be60cb30111c3d3d9ecef8460c1ce2b54bd0c038c1bd1cd3d0174a7289eb2.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/afad02cf1695f07a28dd5b6953bde154121dd2aa7116e9518d5ad0375d1bc8cf.jpg",
+				"name": "仮面ライダーあつめ 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/53cda7ec5223130b4b560abae1152fca59bc3303c01eb919d622d90da577de95.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "30"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2aefb88396a97299476e5bebbad658d071a907048eb10368aee5617464d574d0.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "30"
+					}
+				]
+			}
+		]
+	}
+}

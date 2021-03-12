@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000F700800",
+	"eshop_id": "50010000035335",
+	"product_code": "KTR-N-CBRE",
+	"name": "The Binding of Isaac: Rebirth",
+	"platform": 1001,
+	"platform_device": "CTR",
+	"publisher": 186,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/175debcbd58188c5d7f4f40e36322f0a7988fb3e64cfb69615b504a440c8e839.jpg",
+	"data_size": "347061092",
+	"description": "The Binding of Isaac is a randomly generated action RPG shooter with heavy Rogue-like elements. Following Isaac on his journey, players will find bizarre treasures that change Isaac’s form giving him super human abilities and enabling him to fight off droves of mysterious creatures, discover secrets, and fight his way to safety. The Binding of Isaac: Rebirth is the ultimate of remakes with an all-new highly efficient game engine, all-new hand-drawn pixel style artwork, highly polished visual effects, all-new soundtrack and audio by Ridiculon, and hundreds upon hundreds of designs, redesigns and re-tuned enhancements by series creator, Edmund McMillen.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-07-23",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1de184cc0dd10c3ac144d7644e02bf8529b4339b987a21b41533710ea5c3c905.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/74b9113239b0dc80ae09eed7c5503714bb31d1ff0b11d063adce78686a50ef1d.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ff26d3d5a1ce717334db9af75516876f6d9eff548b7ec2e66f974157797bdaf3.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8f494ad57aeca42c021e8aca9f2d0fa1b474891b7e31f877f6e751593e324f68.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e5956a6c8480083ab63434e0be9587aa937dfac9f53cd6be2f74459415ababd4.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1dda95d9b6fefd9f4c7db01c9eec6bf7cea740750ad49a5c8d4d350fe87f5be5.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5d741cd66a69841a18d4fc26b2ae7610c4833107e241d052a7470fc40717e91c.jpg",
+			"name": "Binding of Isaac: Rebirth Nindies@Night PAX Vídeo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/71915e8175818af69cb537b9b40a71af2d16abc5cd241b99412a14186acff45e.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "73"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8b6178b9e7b7aceb78350752fb1ccc189ede185b067583d0ad0c6fe35bbf562e.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "73"
+				}
+			]
+		}
+	]
+}

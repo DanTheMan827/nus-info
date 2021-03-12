@@ -1,0 +1,82 @@
+{
+	"title_id": "00040000001BFB00",
+	"eshop_id": "50010000043255",
+	"product_code": "CTR-P-A9AP",
+	"name": "Metroid™: Samus Returns",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b10182229cb501f9cbb74b79ecce58f5bc22621519c59e743580c98054d32812.jpg",
+	"data_size": "715119460",
+	"description": "Explora un hostil planeta alienígena plagado de agresivas formas de vida en la piel de la legendaria cazarrecompensas Samus Aran. ¿Su misión? Acabar con la amenaza Metroid en esta fenomenal reinterpretación de su aventura para Game Boy de 1992. Este intenso juego de plataformas de desplazamiento lateral ha sido completamente remozado con envolventes gráficos en 3D y una atractiva paleta de colores. Hay un montón de secretos que encontrar, y si los descubres todos, podrás incluso desvelar el misterioso pasado del planeta SR388. Visita amiibo.nintendo.eu para consultar la lista de amiibo™ compatibles y la información más reciente. El lector/grabador de NFC para Nintendo 3DS estará disponible más adelante este año.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2017-09-15",
+			"retail": "2017-09-15"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/50031198ffaa58ce8fc26547c76aa62f9371f37dde62fa5df5442af9b0bd3a3c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/189cead486437cb8eefe651bbdf45a662b5a0b80f99bd1fa419c4163dda54d40.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5d82bcca4131949e9ee119852001c39274bbdf8205022aacd91a8b7edad6b6f6.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/478f6ef2dad5d35d7d529deafac903312c98c52afd2bd363ac2efdb31787b202.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bbd22a274485ec35be33777b2c53052a483c8da4b36633ec8f3d79d1e3e1a91a.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c0bed5741d520695d607369c42be9b0f79c20aa68043c37489bd6a96cbb1cd76.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/951e69ea893576a9864be458c9f71a9682baffe31d655f383b9fa39db669f63a.jpg",
+			"name": "Metroid: Samus Returns: Tráiler de lanzamiento",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/11dd61a872d015d8ec10179b693c0546d6ddb8f426af3f882a62f952f65697fd.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "95"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/951e69ea893576a9864be458c9f71a9682baffe31d655f383b9fa39db669f63a.jpg",
+			"name": "Metroid: Samus Returns: Tráiler general",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b46644ecdf4623586ba06aa900704c28f8e3c632511a1316a8217b1b3c611741.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "264"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/951e69ea893576a9864be458c9f71a9682baffe31d655f383b9fa39db669f63a.jpg",
+			"name": "Metroid: Samus Returns Tráiler de las armas",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ff4554e079da5455a11533e11293dd839add4c9b78ade43f20e471822b95a989.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "269"
+				}
+			]
+		}
+	]
+}

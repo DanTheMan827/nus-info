@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101E0E00",
+	"eshop_id": "20010000023749",
+	"product_code": "WUP-N-DA4P",
+	"name": "Pokémon™ Mystery Dungeon: Erkundungsteam Himmel",
+	"platform": 169,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1307606e299c0901219aa4da0b1c021edb9f31fd965be79984038da36af8d9b3.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0376c9e248581e7c2bc3abddb4db6f35af819aa124427781b7a6ecd743c0068b.jpg",
+	"data_size": "107774072",
+	"description": "Werde zum Pokémon und erlebe die Welt auf ganz neue Weise! Begib dich in ein spektakuläres Abenteuer, um die Welt der Pokémon zu retten! Spiele als eines von 19 Pokémon! Finde heraus, in welches du dich verwandelst und interagiere mit Hunderten Pokémon, während du die Spielumgebung erkundest!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-08-18",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/0759a960220f7999ac2ef2f7c17a4add05903639f9752087acac9214aefd6a90.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/67e0c111b0b2d8a995ce183188ebdd7b3bce49e3399d5bfdf9b5301b7cf05e2e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/381afba6cb193cacdea22a68ee8d096421da047fbb52824925e5165d865e6f72.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ac80acc3c3023a1aab47adb04603d647c6d7ffa21a7709c29b5cea7fdbc5cd15.jpg",
+			"name": "Pokémon™ Mystery Dungeon: Erkundungsteam Himmel: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b9ad945c268833a491b27547f0ddaeff02c84ea2e95514bb5fed99ea81dcc7f9.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/999b9e35c660768357994c9de573a6e52e2765f7f817926eea012ba1c2ddb47e.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				}
+			]
+		}
+	]
+}

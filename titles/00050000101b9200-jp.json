@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101B9200",
+	"eshop_id": "20010000014488",
+	"product_code": "WUP-N-PCWJ",
+	"name": "くるりんパラダイス",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/059843efb646e163d11b2fde63446d3f9c0c43bdc35e576ce023e846ef9826c6.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0eca9f153041d3d138ec57624527b89342cacdb6484c768d003db1fe8bc8b45a.jpg",
+	"data_size": "73367692",
+	"description": "このソフトは、2002年に発売されたゲームボーイアドバンス用のアクションゲームです。 いつもは静かなくるりん村に、マジック大魔術団がやってくることになりました。当日寝坊をしてしまい、ねぐせが気になっているクルリンを置いて、一家は先に会場へ向かいます。 しかし、クルリンが公演会場に着いたときには、会場はもぬけのから。クルリンはしかたなく家に帰りましたが、日が暮れても一家は帰ってきません。不安になってうさぎ先生に相談しに行きましたが、うさぎ先生もまた不在……。ただごとではないと直感したクルリンは再びヘリリンに乗り込み、冒険に出るのでした。 本作は、ゆっくり回転する棒･ヘリリンを、カベや障害物にぶつけないように進みゴールをめざすゲームです。前作『くるくるくるりん』と同じく「ぼうけん」モード、上級者向けの「ちょうせん」モードが用意されているほか、新たに「ミニゲームパラダイス」が加わり、“回転する棒で遊ぶ”をテーマにした16種類のミニゲームが楽しめます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-12-09",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/6dfed2999d8d6e7107d898d525bf1b52f37b169be9e0764de7bc60a8de90ef30.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7c08134600511e84e8cf745091b8d81abf4856e664a509867f12bbfaadb0fa04.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/dada50c592088bb2e3b816092750b8cf518822f2d21950608807d8656cd7e93f.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/72fca826be5d8174c5673060b299b67d9201b12b979340cfffb70369eb42156d.jpg",
+			"name": "くるりんパラダイス プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/444a0fbcb90f33ae9e6371ee97862d064a1b06a446ac468f8f7a39692fd88834.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/81dc20b3f216cdf573cbda578ff305d35bc0689469fb1a9f697fa6e33c130036.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				}
+			]
+		}
+	]
+}

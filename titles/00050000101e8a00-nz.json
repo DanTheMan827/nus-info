@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101E8A00",
+	"eshop_id": "20010000020409",
+	"product_code": "WUP-P-AKSP",
+	"name": "Ascent of Kings",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1555,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/12247964052ab1b901f475525f1146a236795c4d12fa72131168102dca757b3e.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ec87996884d2afd010001e93a084cb318dcf3a67c8d21f07e821fca4589cb4b2.jpg",
+	"data_size": "99451020",
+	"description": "The death of a King. An epic challenge to choose a new ruler. Will the youngest of four brothers turn out to be the strongest? Will a boy become King? The answer is up to you. Classic adventure-platformer gameplay. Explore and encounter strange creatures - some harmless, some not. Navigate dangerous passages and evade deadly traps. Seek out elemental shrines and receive upgraded abilities.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-12-18",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/e066b58168c208e9e770a44076043fa4caf20cd43de8fcbff7dd4d93202f56e1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/daf4f24274b2175d8cdcb31d2cc3a8056fc719c7612fb73b3f90887c1e183a9a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/909ee0f23a753acf5a70d2bbf8ebad27967ac1c2eba3ccc35518dad8606628eb.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3e4a620cc962866b1ff0d628f9617b8f4f6b4315fc7b9c3d5279924061efbbbc.jpg",
+			"name": "Ascent of Kings Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0778833907ee8cc8bc2e7aca5b0ef13797ee472f0dba089f26d17c75314dc0f6.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "93"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c91d61de8f956b75553a677b63c542af81617b8eae66595268d658ca59664e04.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "93"
+				}
+			]
+		}
+	]
+}

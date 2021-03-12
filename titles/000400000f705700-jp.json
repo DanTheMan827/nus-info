@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000F705700",
+	"eshop_id": "50010000041561",
+	"product_code": "KTR-N-UBCJ",
+	"name": "Pop'nツインビー",
+	"platform": 1004,
+	"platform_device": "CTR",
+	"publisher": 149,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/193cb5042222028b93a077feab3587ef1433fac04db0d087d64224c3dc2a38dc.jpg",
+	"data_size": "3795812",
+	"description": "このソフトは、1993年に発売されたスーパーファミコン用のシューティングゲームです。 ツインビーたちは、マドカという少女の祖父・マードック博士が悪人になってしまったと聞き、彼を元に戻すため飛び立ちます。 本作は残機の概念がなく、ライフゲージが0になるまでは敵や弾に当たっても撃墜されません。雲の中から出現するベルは、攻撃を加えると色が変わり、さまざまな効果を得ることができます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-11-28",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2f87282ead90907cf83126d67b80f0cbc1bd702b95f6c17faf5b2ac2395ec577.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2ec8caad0644933770e6dccc8e121211426d7c46c4b740a270c724d8ea45699c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0afd9a9f3658bf3a6b7023a646b95c7cdae925f2c3ff0e4c5c1921183c65ee8e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/698a1212e4d509882d82c79744f902b7489b1a66116047b5be9db82a15f51b11.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2eeffdc8d6fbf38d65a917285a0d9c821fc747c61c267072b5d661f524bc7192.jpg",
+			"name": "Pop'nツインビー プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d8c547e88e2c943c130bb7101cc33677c9e3c3f32b0589be40e779d673e434cc.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "68"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ef86987d8d517140ac1deabca7045ebd7b88909c73ca6377942fef7717026514.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "68"
+				}
+			]
+		}
+	]
+}

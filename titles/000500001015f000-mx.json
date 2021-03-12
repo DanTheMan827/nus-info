@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001015F000",
+	"eshop_id": "20010000005926",
+	"product_code": "WUP-N-FCFE",
+	"name": "Volleyball",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1cc75851e5ccb4fa3a51c18a6adf6a935a7b88e5c882e662c56d33713273402a.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/92e586ddf7f1b682e5dc72224026ab2ed751571214fbd634c49ba5bbfe5e034f.jpg",
+	"data_size": "36503692",
+	"description": "Disfruta un juego de voleibol haciendo clavados para anotar puntos, golpea para un saque perfecto y salva la pelota para que tu equipo gane el partido. Todo depende de ti pues eres quien toma las decisiones en Nintendo Volleyball. Empezarás seleccionando un equipo del país que desees. Como capitán, tendrás que liderar tu equipo a través de una fase de entrenamiento antes de moverte rápidamente a una verdadera competencia de voleibol. Como un verdadero capitán de un equipo de voleibol, decidirás el momento oportuno para golpear, lanzar y salvar a tu equipo de un clavado.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-03-20",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/709b9accc07dd16aca253b07fa01834ffc306a0ee2b6028d40d23156178f290d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/eff6f5671c675b3fafe1ba8c83a3c2bc176e079d090eabb13c8fd717098b6f43.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/53b29b8c39aaa90a70947023776af53e98e44408c5e6f7d2d7511eb6dcef97bf.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/246c8fea1d510c67011597cb4ec96e51ccb472e3e11bc99b6608778ee58eb398.jpg",
+			"name": "Avance para lanzamiento Volleyball",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3b67219e0a92f715804c26053e6e56bcd0bf4c23f6ced1b78feb1b55811d8c79.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "22"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f89687c54767fafbb849a49547b46f8eee9bd08362d5eeb9f9a4f56e774da90c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "22"
+				}
+			]
+		}
+	]
+}

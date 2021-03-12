@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001017E400",
+	"eshop_id": "20010000021290",
+	"product_code": "WUP-N-WZHE",
+	"name": "Persiguiendo Muertos",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1276,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0a147479e4cd10481f359978ebea15ac605fd03b47a5c66681c9a1b5e03f5b6a.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9f91c73a819605766926d4cc99171e3cebacaf1dac34120450410a7474c39822.jpg",
+	"data_size": "3268084112",
+	"description": "El juego inicia con un extraño fenómeno en el que otra Tierra aparece en nuestros cielos... Un equipo de agentes, astronautas y científicos fueron enviados a 955600 millas a través del espacio por la NASA y el Ejército de los Estados Unidos, sin embargo todo contacto se perdió unas horas luego del aterrizaje. Tú juegas como un marino llamado “Jake” que fue enviado en una misión para recuperar cualquier investigación y datos dejados atrás por el equipo original de investigación, mientras enfrentas fuerzas hostiles.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-03-03",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/d2984e64295bb690048e4b1e73c826c208b0473488104ae7b49cb9423e2f1a68.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/df16d9971a38482a67afc452e5515383a2d1fb9eb8737be3a52f0697e73c0f2f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3b9d4823539d4d41d2b005b4327cacf8541edbc2fd01f4c510926de7777d030f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/85f03fff38088fd6e9248fefe9616ae939b3cf61162e6e7c25cb7303305ab8d2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/60340fad7e6da2f5aba902ab8850ab7de711185b15b2ef133e6f12f23ae281ae.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/fb26ede9cc6761a61e826ced78f078df62586439d26b33f531a286051cdc2a70.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8e7dbd306d1066b05ef1a1aaa0fb9b9a69a6b0ade8eb427cf4bd24e160f1bbca.jpg",
+			"name": "Avance para lanzamiento Chasing Dead",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ec213e408f0f46428001b053b02a62c070785d6ab152b9ea74012b59f5534a3e.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "102"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1d6ee0dae4da4992e59ccfd8b2d440ed3f5a9c0facc2511b8f6c774f9d1c5a7d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "102"
+				}
+			]
+		}
+	]
+}

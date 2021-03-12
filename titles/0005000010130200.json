@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010130200",
+		"eshop_id": "20010000001585",
+		"product_code": "WUP-N-JA6J",
+		"name": "ファミコン探偵倶楽部 PARTⅡ うしろに立つ少女(スーパーファミコン版) ",
+		"platform": 164,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0a7adc0e6ed96cda2dae96d12c2ba4edc2d27f3d1781cb87e26bca89b3d5ce05.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5f501baf0c32857b7b7d5fc1517856a5da423e66df1157263a5fe6d5eace1438.jpg",
+		"data_size": "43909260",
+		"description": "2013年7月31日より、タイトル名を修正した更新版を配信しています。 このソフトは、1998年にスーパーファミコンのカセット書き換えシステム「ニンテンドウパワー」より発売されたアドベンチャーゲームです。 1989年に発売されたファミリーコンピュータ･ディスクシステム用の『ファミコン探偵倶楽部 PARTⅡ うしろに立つ少女』が、基本的なシナリオはそのままに、グラフィックやシステムなどが作り直され、新しいソフトとして生まれ変わりました。探偵助手として、女子高生殺人事件の調査に乗り出した主人公。関係者に聞き込みをしたり、怪しい場所を調べたり……さまざまな方法で情報を集め、学校で噂される怪談｢うしろの少女｣と殺人事件の繋がりを紐解いていきます。 ",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-07-31",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/3c8078cd9844b177dec59ebd324f2ff807bb8b79784c2ae0bedd5a5f0d021db4.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/becd87c77acbfc88d28d6bcc617fbaec04376166ccfbd0160c7a7c7b2657df5d.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/ae842b1b65b72aaf7daa0221e8e2f7569d8aa4d7b52252919d1c66431e66b1f4.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7b494f12925d9d086cca4b4ca2dc31b4ae32c6baebc919829a7e366925f347f1.jpg",
+				"name": "ファミコン探偵倶楽部PARTⅡ うしろに立つ少女 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6ff413dcf9da1b9c31f4590cffc7192fdfcddbb698255ef7f3e9cb1eb5b9be6c.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "45"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/050d6b38064d21ccdec22138875472cabacb0442a98374bd1e41b88862f2387d.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "45"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"JP": {
+		"title_id": "0005000010161F00",
+		"eshop_id": "20010000012507",
+		"product_code": "WUP-N-ABAJ",
+		"name": "マリオパーティ10",
+		"platform": 125,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f51b39b4d14d96803d8b4919b21986d85cb84a2e6faf89a60e0c2c693a488bb0.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3a09ea1e03645b4ed1ef4a9423891076150eac39ca496bc0673aad5dc7b2d219.jpg",
+		"data_size": "3006923092",
+		"description": "みんなでワイワイ、ミニゲームとスゴロクが楽しめる『マリオパーティ』がWii Uに登場。おなじみのパーティモードはもちろん、今作ではクッパになって遊べるモードや、amiiboを使って楽しむモードなども加わって、さらに遊びの幅が広がりました。",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-03-12",
+				"retail": "2015-03-12"
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/d47a3fc3813fd2e46a239e4728b37ea2dc7f7b7fe1462034766512c86334d7f1.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/8599e1cce60d1b9e0cd86bebfe1ce91ecba48f49c486535851adee33efba298f.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/18f355615d2388efa4b12d3c11e04c7fc3b75b0507d131c6dff4d1a4d1b1779a.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f6f3dfc2381cc1b776bd4b0e12d0d4bbc2a9bd43af353b755f25783660d14496.jpg",
+				"name": "マリオパーティ10 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0639c4b708d541805004ef4bcc3d9ea127e784b523b6b7b122b05808940a09e0.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "264"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bd24e45c10f6c4d4f93d740a8e704864cc8b8b95bb703e0d457789892623af22.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "264"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7f96546fc12169e8edcf4a0158fa4fcd55298a6d8d37668d3b440f52bf8f6cec.jpg",
+				"name": "amiibo × マリオパーティ10 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7c321a989ea55a6ce139d9365bf382c6944db413be600e2580984d76a2a3e651.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "76"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/57f5dcd9b8abfa0aab202e38bbc2398cac30d18368ab00ed73ffd1e5090c8427.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "76"
+					}
+				]
+			}
+		]
+	}
+}

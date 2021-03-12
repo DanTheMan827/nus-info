@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101A1000",
+	"eshop_id": "20010000016707",
+	"product_code": "WUP-N-NAFE",
+	"name": "Mario Tennis™",
+	"platform": 170,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a2e6e50724f258834306ccd5de360986b9fb3ca816c2928276f12f8dd300259f.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/43da0cf016858cd80c859c9259bdffc0eeb2e4dfe74825e2adc66340aab2e3f7.jpg",
+	"data_size": "62914680",
+	"description": "Aclamado como um dos mais divertidos jogos da Nintendo 64™, o Mario Tennis™ está de regresso! Com controlos simples e intuitivos, vais manter o teu adversário a correr com vóleis e chapéus, batidas com efeito e remates poderosos. Escolhe de entre 16 personagens familiares com capacidades únicas e desfruta de muitos modos de jogo diferentes; do típico Tournament ao louco Piranha Challenge. Desbloqueia todos os segredos do modo para um jogador ou convida os teus amigos para intensas partidas multijogador. Este é um jogo onde a diversão está sempre de serviço! Caso já tenha adquirido este título para a sua Wii, faça uma transferência de dados da sua Wii™ para a sua Wii U™ com atualizações a um preço especial. Esta é a versão do jogo para os EUA.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-12-17",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/5bc7c154b66dbb6f5876fcf43bb02cc067a2db2c774b0ef7b75c5354e5ef60d6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9284ed22ef1d485b0adaa48f6c2db86b371eace2b1e9dcef52b40abfff200bfe.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/559ed1c12b9658bf8f70c972527bf5c7110269a62ce28e18476228ef676e7a8f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/37cc216a12e585b3898f7d046640ff86cd01d49ec5ee546743b2c60551ec537b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a323703bf5b5db7983c834ff5c53978cbb999bd30739887f6a1090fb449c4d25.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f38299132ad96f46a2ceb0d866cf07c2976e05aeb022031a9b0369b2bb221822.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/298c37bde22fb948005532c4c8208929d01a89a41dbe3627a5cbbdca436448fd.jpg",
+			"name": "Mario Tennis™: Vídeo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d3b46aac6f0b75eb6087fbe76fbbfe0e8ce3ab7c601651897e7eb5633a2dcb02.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "54"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/231a491993fef841882f04d2cdf1c54124904f2c190a945ee1e568de54c0f6e3.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "54"
+				}
+			]
+		}
+	]
+}

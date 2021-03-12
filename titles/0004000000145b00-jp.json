@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000145B00",
+	"eshop_id": "50010000029658",
+	"product_code": "CTR-N-KNGJ",
+	"name": "激投戦士 ナゲルンダー",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 237,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5b56c07d367a89a5517142c15df3ba6a0df795272df1d785968c84805070ed9b.jpg",
+	"data_size": "39750500",
+	"description": "『激投戦士 ナゲルンダー』は、正義に燃える一人の若者と悪との戦いを描いた物語である! 20XX年―――突如として現れた悪の組織「ブラックハラス」。 世界征服をもくろみイヤガラセ行為をくり返す悪に対抗すべく、一人のヒーローが立ち上がった。 その名も 激投戦士ナゲルンダー! ナゲルンダーの攻撃は、その名の通り投げ攻撃。 敵をつかまえ、投げ飛ばす、かたやぶりなアクションで世界を救え! 襲いくるキョウレツな敵たちとの戦いの結末はいかに!? ナゲルンダーの活躍をお楽しみください!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-01-28",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/54196dadcd295f37a20fdcdb357f8db8cd8563c36dde3ef82c629f19f854d11e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5004e04b260182b4ce5949fbe6513fc11bdd228cae67abb3607fc50e886f2cf5.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/69efd3cbec9fb7613fc369f73322d0cd15ff3e90dbccbf74860ed2345b652b98.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ee4bf9eced86b6da730b20d097dcb339182077677d415bbd73aa177f1229a97f.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/113035e2176b7fe114888fcb00c3660d98fdeea4c865ca20aee0f6abdaf0f19d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/dcceef75138635ad3814b7cc833a30660ddb9e4c69f79b1e7fb1cbac9a37ac30.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a5aa9b7cc2d572dad8a1999fbd5f9cf8afcca518c1b2e8f19b488a8dfcd7e9ae.jpg",
+			"name": "激投戦士 ナゲルンダー 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9a052cf5affd8cc0bd3c3534901098263353b7d5a688052c63becbe8155050e5.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "80"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/274b9fa2f2afba79e4f4f1ca3e677cba6d77de7e9e74aaa09da53f9c02bddb25.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "80"
+				}
+			]
+		}
+	]
+}

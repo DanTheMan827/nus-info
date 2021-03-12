@@ -1,0 +1,109 @@
+{
+	"title_id": "00040000000EC400",
+	"eshop_id": "50010000017393",
+	"product_code": "CTR-P-BZLP",
+	"name": "The Legend of Zelda™: A Link Between Worlds",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/fca6a4cfd12db7fc3fc8e19145f612f5f1f7c7301e068da521541508fded7cfc.jpg",
+	"data_size": "717814628",
+	"description": "The Legend of Zelda: A Link Between Worlds continúa donde acababa la entrega de la serie para Super NES en 1991, con una nueva historia del reino de Hyrule. Los gráficos en 3D de Nintendo 3DS aportan nueva profundidad al mundo del juego, y permiten apreciar las alturas como nunca antes. En el pasado podía resultar difícil diferenciar desniveles en el suelo, pero ahora están mucho más claros. ¡Mayor realismo en las batallas y en la exploración de mazmorras!",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-11-22",
+			"retail": "TBD"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/554f0183efb0716607b43d3a65eaa9b53e13a465dc461c767d8ffa5b07c3720c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5e55397acdc375ee99c4db262a63871a95153bb59f9faa680c877e27173c86ed.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8c5c07893c7bb7204e0c9fac98aa69c3155b6d872454e5c1404aa53edbbdabc6.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/46810f191177d2c5c426ec3bb1c3235f28dec35a70fcc54eae092a1a449c2645.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0c7db14e5eef165f582908a128c25243426ed724269de29d36ce64a244d18e85.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c078a5106ba2667fc927c18115f04a71c48338b0d0fcae8525b3942845cdeab6.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f3b248d45c98de15c906bc20b48a4ae1f07143b58b00478505f829138e1926fe.jpg",
+			"name": "The Legend of Zelda™: A Link Between Worlds: Tráiler 3",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/695ac53ce159e02adcc8be52124b337a6cf1a54ee9eb86e5df2c7423030f2fff.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "149"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/33a1c651ce0acdaacab112622550dead73a05472a42b17354841adb2c818cdc2.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "149"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f3b248d45c98de15c906bc20b48a4ae1f07143b58b00478505f829138e1926fe.jpg",
+			"name": "Zelda: A Link Between Worlds: Tráiler 2",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/78c8bbebc6e27827d2be2225b0c1a44bdfd476897a426f3aa14441d3dce66bff.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "141"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/913770dd11ce6f9836e8a4ba102f1854a71b4573891d3d7a670e0f4da9e42d4b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "141"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a89b313c3130f231ef944f5a2b26cc583cc9153c72cf7bc32409a8697aef296e.jpg",
+			"name": "Zelda: A Link Between Worlds: Tráiler (E3 2013)",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/897978e685b0d79e6a07c8888981344a12534931d23218779ea172605f314730.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "51"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8de722a5c4855898767757d49d4f0bd23a02a627f0f2fcdf22a0d3cc26635490.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "51"
+				}
+			]
+		}
+	]
+}

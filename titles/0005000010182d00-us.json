@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010182D00",
+	"eshop_id": "20010000016047",
+	"product_code": "WUP-N-AFTE",
+	"name": "Fat City",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1345,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c0d65a0eee375995d932e9e0806521cf2d3e2275fe15488eab0a992ee278c258.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/1baf6904615e166e2b3af17c43852ffda9217ca3b3d47850ef911a120a5fb242.jpg",
+	"data_size": "395018400",
+	"description": "Chris Knox is the leader of a crew of former special ops personnel and highly-skilled hustlers. Help Chris and his team plan and pull off audacious heists from high-value targets to fill the coffers of a surreptitious crime syndicate in exchange for the life of a loved one. In this action-puzzler with 60 targets spread throughout the five boroughs of New York City, players will use their cunning and brain power to plan raids and execute getaways to pull in the big bucks in the city that never sleeps.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-06-18",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/0e7896600beb2a068842e52b533907dbe466d5c44cbd1baaa7d03e0380e69406.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2cbec8bb4aded00a966ff2faf7d48cc63734903fdea27e05fa581c1d35ec11c0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b3fcab383e07cb920fc8f5ede6a052d88d207a538203d74f16146cdef30d8917.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/14073f2e78091ce3c68c982fb84c1f48d449b98b6a2c61017aa7f22d580cada2.jpg",
+			"name": "Fat City Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2638e5047d490568726a453abf6a763b8985908d853f5cc85e4189a384ce09f1.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "70"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b6d9f26f66622d467fd9204297d7a8452c348f14a918cf0a30449625c07ec42d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "70"
+				}
+			]
+		}
+	]
+}

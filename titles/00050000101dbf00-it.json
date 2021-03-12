@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101DBF00",
+	"eshop_id": "20010000020308",
+	"product_code": "WUP-P-AVGP",
+	"name": "Angry Video Game Nerd Adventures",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1767,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e783be97cb34d701103ac45da3c77da15017dedbe4cf56b52fe67450a69637f0.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3684a47597bdb8fc89b4e011516fbf217849b29b0747facff62ad6525776c0cd.jpg",
+	"data_size": "68944012",
+	"description": "Angry Video Game Nerd Adventures features the AVGN and friends as they blast their way through 10 levels of fun, fast paced 2D action based on the AVGN's adventures from his online series. With multiple playable characters, power ups, cameos galore, tons of secrets, and more -- we're making a game that all fans of video games will enjoy! If you're a fan of old school difficulty, fart jokes, The Nerd, and/or old school platformers, chances are you'll enjoy AVGN Adventures. Some say \"hard,\" but we're saying \"rewarding!\" Why? Because every check point you get, every boss you beat, every accomplishment is something you've earned. You feel like a stud. This is a game that allows you to brag to your friends if you beat it. Yes, this is the official The Angry Video Game Nerd game!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-12-10",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/f45133d31c989fc5e73b255046b93dc4dfaefd2590f016aa772b09436044e0d3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1f5e7fda8740dca12cabf3d013e197939acb2083eb872d8dc018c41244fcd50e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b0ffa1ff604ba40635a9942547bc56653009c90a246ea878fa42ab6827938bed.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/76b93b0c2a9c62e42f4bba776e32db7a5095943ff9544383102ddf3cc35fc72f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f3d401f444d48b16970db4bc1ff6459a8401bf55b01712cd628d2dba914d48e5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e2afab2300c3bc73c0c1231c2f0cd2ba42d3e2ec221d1edc78df3396597b28ec.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/03d99bec47106afb324b49560073eea1c5ae51c37b5bebe588b81922b6ec1fb4.jpg",
+			"name": "Angry Video Game Nerd Adventures: trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e5da67caa3d3bb3f3c4284cb464d43a820f8546948d3d369017abb9686b5182e.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5a3f7ae9c52c0f68cae2316b525013db24ef0efdb09dd623d8824f9eb738ceab.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				}
+			]
+		}
+	]
+}

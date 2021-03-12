@@ -1,0 +1,53 @@
+{
+	"title_id": "00050000101D6E00",
+	"eshop_id": "20010000021652",
+	"product_code": "WUP-N-BC7E",
+	"name": "Now I know my ABCs",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1447,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ff3005ea529ab1048cc06d3209321a4108aa047affa42faaf3942cb7a2a75aa2.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e83bc9043917153554bade819a381166637bbc1b2db99426f01f5c94a720a35a.jpg",
+	"data_size": "117014668",
+	"description": "Now I Know My ABCs is a fun and interactive way to learn the alphabet. Using the Touch Screen on the Wii U™ GamePad your goal is to write every letter in both lowercase and uppercase. Each letter is associated with a color. You can press the letter's icon at anytime to hear how the letter is pronounced. After you complete writing a letter the crowd cheers for you, giving positive reinforcement to help encourage the learning of even more letters!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-03-31",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/3df5d4a1d6eec27bbf080a673e84f0a4e305cce97640ae67fcb2d3b4770dc6f0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e5c3b36610424260d17c5c473a4d603f5566474f3a5312464afbd04e83c42ffd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b084e7007bd44df1cc6ab056d7d1ed4847ceca2177c800030402b64b888285a7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/87caf24c7d0e0175e6645143417fd64c10a9481f53dfef71dfdd9a1b2e8ce7a2.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b4040f5a222e0601682171ff8da04d62244fe09ff3be3754c7deb77206e6bef7.jpg",
+			"name": "Now I know my ABCs Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b57d50a5855c988f57ed7c0116d166d37f8dd3e64f6ec9a29c7a16361773f888.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "33"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/445ec58fb14a29504faa798b4d70ba0fe48f5064dc5dd1d6a8a2214fa0f5ae23.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "33"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000030600",
+		"eshop_id": "50010000007971",
+		"product_code": "CTR-N-AMKJ",
+		"name": "マリオカート7",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d3c75fb5f06148b401ff7ccb06de2915c5bf2fc369a96b340fa20614d4248388.jpg",
+		"data_size": "663489428",
+		"description": "空を飛んだり、海に潜ったり、大きく広がったレースの世界を3Dで駆け巡ります。自分の好みにカートをカスタマイズしたり、ニンテンドー3DS本体を傾けてドライバー視点で操作することもできます。最大8人での対戦も充実しています。",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2012-11-01",
+				"retail": "2011-12-01"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3a833464b480b1c0d34a57d4026440dc1b097e3e3e6fd0d1a1e4adcee2ee44fe.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c16e6868aa210fc0326a2125a4807cad406a7bc97f3cf1a49081b60228a9b893.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bd7d2d706d61175b5a62670c42eb17b77d9bf6692e840076354d08019015a0a4.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9320d7a1e57195883921936cb0819acd398a573bd5af382ebff6aaf6b180c829.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/fb34087d31a9b01f30681b370703aeffacbeae6dfc0a964d302fe72d717075fd.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/24e8f266abf650fb67622cff230b0a86ab1c2f7b69195aeda10fd21e194f13ef.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5b9f4f800500afe66242451fe12d592c7fed76d2ddd1f9cdc4f3a11944c43aed.jpg",
+				"name": "マリオカート7 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/940769786e9132e8fce53956a10b20f0e8e56dbdd6084b2fbd2fb097197d7de4.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "230"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8a3231da0bd9c34b0ed66887de95ed6730cbe3ad6a0e6cdb761f91c141afd8a1.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "230"
+					}
+				]
+			}
+		]
+	}
+}

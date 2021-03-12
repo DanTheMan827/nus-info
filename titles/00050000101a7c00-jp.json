@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101A7C00",
+	"eshop_id": "20010000014547",
+	"product_code": "WUP-N-JDHJ",
+	"name": "SPACE INVADERS The Original Game",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 246,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a85e8ca7cef50504504d06197f4f5bb5a713fa6b7cae9ca2d22ae8d1f06f23e8.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/039bf7fc95eaf63c658666a3cebe051252ab5e0c7c09a6231f0e5ef2824ad578.jpg",
+	"data_size": "42696864",
+	"description": "このソフトは、1994年に発売されたスーパーファミコン用のシューティングゲームです。 1978年にアーケードゲームとして登場し、社会現象にまでなった『スペースインベーダー』。本作はそのリメイク版です。迫り来るインベーダーをビームで迎撃し、すべてを撃ち落とす「オリジナルモード」に加え、新たに追加された「対戦モード」で遊ぶことができます。 ■オリジナルモード 黒い背景にインベーダーが白く浮かび上がる「T.T 白黒」、背景に惑星が描かれている「アップライト」など、当時のアーケード版と同じグラフィックが楽しめます。昔と同じ方法で「名古屋撃ち」や「レインボー」などの裏ワザが再現できるようになっているので、ぜひ試してみてください。 ■対戦モード 左側が1P、右側が2Pでテクニックを競い合います。先にすべてのインベーダーを撃ち落としたほうが勝ちです。色のついたインベーダーを撃ち落とすと、横一列のインベーダーが消えたり、対戦相手のインベーダーが一段下がったりと色ごとにさまざまなことが起こります。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-10-12",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/50dda575ed1321946f51710cf087c6dcd06b9fdc43798f764307c7df43dcafe5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/afc42a5ed6afc1cb45aa8178c7ce17755f16a964d30f5a81be492a6feb10c112.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/dc3133f4ecd5fac47bd4e8d93907c735039e8fc6fa6d2c048b881a280c0723bd.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4146513275bd3a4c9a8428ffdec2d72c8b84442724a28f752bfbf609e3115c09.jpg",
+			"name": "SPACE INVADERS The Original Game プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d3dbd19e9a3b5934ca57bd506ea801fd21ef5024d5620b5e139b5537667c8223.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "43"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/06ce2bed460bcba70737ca434a6ee17538df65257d7401ff3d398af1e715cee9.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "43"
+				}
+			]
+		}
+	]
+}

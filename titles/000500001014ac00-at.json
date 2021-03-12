@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001014AC00",
+	"eshop_id": "20010000003144",
+	"product_code": "WUP-N-FBSP",
+	"name": "GOLF",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e2f689d01fff693ad961bef704eccb84ae4cdce9298cf1bdc51cb6a18c32acd1.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e559a45968e10507e902cf0384f208fb3314bcd12c51b73887403307917c28ff.jpg",
+	"data_size": "36503692",
+	"description": "Stelle deine Fähigkeiten auf den 18 Löchern eines realistischen Golfplatzes unter Beweis. GOLF bietet für Einzelspieler den klassischen Zählspiel-Modus, während zwei Spieler sich im Zählspiel als auch im Lochspiel messen dürfen. Beachte die Windrichtung, überprüfe die Distanz zum Loch, wähle den richtigen Schläger, passe deinen Schwung an und lass den Ball nicht aus den Augen. Und jetzt loche ihn ein! Egal ob geschwungene Fairways, dichte Wälder, Wasserhindernisse oder tückische Bunker, GOLF bietet zahlreiche Herausforderungen für angehende Profis sowie für Neulinge in diesem Sport. Hierbei handelt es sich um die US-Version des Spiels.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-10-10",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/55100ba06cfbd153f4b4eb33ee5f1843c8f9e2a7a6a1b71afa36eb5b4957bfb7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/80a87635779b0f344e841058b23aa19a28c443ec2a62ef1618c90b3640d6c18c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9e0eea70d4b8dd6934aff6e9a1a7b29c7b5fa77a7e9b2a022a01b8ef6b005207.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6fae31461849fe832210a820e4db2f24687ea732930e3e98fc97aec9647a6479.jpg",
+			"name": "GOLF: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e2420d2348896ed2d02ca8c7dde83f1425bffc5558ac665b9cd4582803d52fa4.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bbc431a246ae716c6e46eacee2b29b3846170aa502739231fc5b4a4c17454eea.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				}
+			]
+		}
+	]
+}

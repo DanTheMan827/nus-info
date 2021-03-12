@@ -1,0 +1,53 @@
+{
+	"title_id": "00050000101EB400",
+	"eshop_id": "20010000021190",
+	"product_code": "WUP-N-WVFE",
+	"name": "Volcanic Field 2",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1515,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/85e65e594e51f528f94b8c59cb2df49cbb62e8cdb732862de71736f4af11b0b8.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b230f3c393360be8f81a2b5de5e668a5c0a49f885a1f010993546098667b5d1c.jpg",
+	"data_size": "176554124",
+	"description": "La corteza terrestre se ha debilitado y continuamente fluye magma por sus hendiduras, lo que provoca una enorme presión en lo profundo de la Tierra. La Tierra resistió cuanto pudo; sin embargo, la presión fue demasiada y el magma comenzó fluir de ella como nunca antes se había visto. La peor erupción registrada de la historia convirtió a la Tierra en un Campo Volcánico absoluto. El nivel más alto de servicios de rescate te ha contratado para reunir a los civiles y mantener las pérdidas humanas al mínimo. ¿Puedes sobrevivir al Campo Volcánico y proteger a la gente?",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-02-25",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/b2fd35519dcb58fe02eee2d37899091ce77d99db3e77e810acc62140f3e8729c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/df9e90d6d932b5ed39f6b9b8195f8d4e4b0565b20f03e06a4ab31bf946212d30.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/66f68d60548bbdebf3607687d42e844f26ec3390fdee66f1ced56f553a3de7ad.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b86f9341e8f537ed452a7f2a47f8d2b4ca74f44d9cf2c14cccdf58fd695a5e34.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/afb89eb5aa50d566f3d65ad177475deb9142f7b1da337cbcf7078a1303b11950.jpg",
+			"name": "Avance para lanzamiento Volcanic Field 2",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/537210638d476aff48eb1de6329f67aa21f21fa28234e28a28858975baad54c8.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "37"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/254765a20fbd0d12f636126e477d9a5fc2ba1bfffe99fcb9f5c206a22afd765d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "37"
+				}
+			]
+		}
+	]
+}

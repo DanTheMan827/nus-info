@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010134A00",
+		"eshop_id": "20010000001845",
+		"product_code": "WUP-N-JBEJ",
+		"name": "ブレス オブ ファイアⅡ 使命の子",
+		"platform": 164,
+		"platform_device": "WUP",
+		"publisher": 39,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/81960506e9ad5ea4d360788980f4f95d121826dc9d0f32142c1829339ffd46fc.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6ba8d0f0d7ef5ccc5cef8674bb999e908791878e16961a9c931f912f020ec627.jpg",
+		"data_size": "42270860",
+		"description": "このソフトは、1994年に発売されたスーパーファミコン用のロールプレイングゲームです。 ある事件をきっかけに天涯孤独の身になった少年リュウは、同じ境遇の孤児ボッシュとともに村を抜け出し、事件の謎を解くために旅立ちます。冒険の途中では、翼を持つ王女ニーナや、巨大な体と固い殻を持つランド、虎人(フーレン)の娘リンプーなど、個性的な仲間と出会うことになります。町を自分好みに発展させていく｢共同体｣や、人々や仲間の感情を知ることができる｢ドラゴンズ･ティア｣などのシステムが冒険を彩ります。 ",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-07-10",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/8229f2fcc2ec37a7bc40a4e9a6fdef3998b2e2aa29b5a3855e93bfb8d5ecdadb.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/22e55d53fcc0a90103282455ce689e463e84e146df51f829213da90b47096c03.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/fabdbefd56b9989676ea5b84e48ee49b3646a9e45ea950ab3caddd622e56362f.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f4bf27db2134e414978fee026fc4433238c2a29da525c3c7f94d6e16e3448eb4.jpg",
+				"name": "ブレス オブ ファイアⅡ 使命の子 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c6f23176fd870a32eb46afca34e35ec587f0eb428f1cbb55115a6d7c3d061037.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "56"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a17953a06b676a000cc1a12e33c080304a7eebc67d947a65b007078e47fa125a.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "56"
+					}
+				]
+			}
+		]
+	}
+}

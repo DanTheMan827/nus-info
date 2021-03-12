@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101E6E00",
+	"eshop_id": "20010000023927",
+	"product_code": "WUP-N-DA8P",
+	"name": "Picross 3D™",
+	"platform": 169,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/edccc1b2f1002cc8852ac94d89994c11bf172e64106d07dd7581997bab2b5602.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/69ce28710c3b360b7d8752267e7d6bbd3bb50b8fbec489ba2b00ad105948f6a1.jpg",
+	"data_size": "67797112",
+	"description": "Picross 3D è un modo tutto nuovo di risolvere i rompicapi Picross: basta contrassegnare e distruggere i cubi in base alle tracce numerate per scoprire gradualmente un modello tridimensionale completamente animato! Se non hai mai giocato a Picross in nessuna dimensione, allora è arrivato il momento di scoprire quanto è divertente questo tipo di gioco basato sugli enigmi: pensa a una specie di Sudoku incrociato con la battaglia navale, poi aggiungici tanto colore e un mucchio di divertimento!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-09-01",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/b396af258fb87359aca144d32558e09842a6fa53561a1bd9bf696df47c4d6863.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3f7b6695dd2ff1fd46c81f39ea1263c2fc1decbd7eca0b1fade3f8e563813729.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c7e83c8fb3d6dc75a06531434e4381ef9b2e7c223ccc4cbe40689bf3c85d0827.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/03a41679f2a16db8597fe37ef09a55511d22865f0063199a19ae02d5d5d3aa14.jpg",
+			"name": "Picross 3D™: video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/916fe0ead1c57fedff478c58f68d1de5431f9fa6359ea28f533a7ef0df176689.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/61686908b9aa6220c1c6daf662f1f4147ed8468952d912e5e7c710f4a3f4b6d2.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010186900",
+		"eshop_id": "20010000009489",
+		"product_code": "WUP-N-JC3J",
+		"name": "ミリティア",
+		"platform": 164,
+		"platform_device": "WUP",
+		"publisher": 27,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bd8f1422b6a4595a6613a2e4df978322c9143f68735680c12633dff677857d74.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0145d4dc191d837725c03b993f967883f28986e7dc914b8f5f9a31590765c122.jpg",
+		"data_size": "43548832",
+		"description": "このソフトは、1994年に発売されたスーパーファミコン用のシミュレーションゲームです。 地球を支配する帝国軍と、それに立ち向かうコロニー連合軍「ミリティア」との戦いが描かれています。敵味方両軍が同時に行動し、リアルタイムで状況が変化していく中、さまざまな命令を出して敵と戦います。戦場の花形となるバトラーやミサイル、補給基地やエネルギータンクといったサポート用ユニット、さらには地雷やニセの司令部と、バラエティあふれるユニットの数々が楽しめます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-03-04",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/742ca05083dc3a2fe53ef529a8058ac181f3f9db0ec2d706940e2397948d176f.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/af8f0bf5a022c41ce0bc5062f4052173a110d51164310563b29183d4a20585c2.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/2f9393845b19c3336d0ba4e91d534cc0b7c518120529c289de677398a0f98fcf.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8cc446be8a4b9430b2dc7cdbe8fc6c0d4f261501e8f599e6a53c34d19e5322db.jpg",
+				"name": "ミリティア プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/50f9bf5628a8c9ad38990147b106cdaee8a40a56bf2d0de74289f106efc5f099.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "70"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/387a78d1e81cfae8e0400f45a554096531eb1936892ad130c246734a8eb5159c.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "70"
+					}
+				]
+			}
+		]
+	}
+}

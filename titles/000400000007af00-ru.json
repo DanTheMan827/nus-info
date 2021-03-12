@@ -1,0 +1,85 @@
+{
+	"title_id": "000400000007AF00",
+	"eshop_id": "50010000011307",
+	"product_code": "CTR-N-ABEP",
+	"name": "New Super Mario Bros.™ 2",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5f7f91f4664cbc66abffc4e0f8803d5736e8541e66a0c0983d0073042db3bf39.jpg",
+	"data_size": "358767460",
+	"description": "Марио возвращается на систему Nintendo 3DS, чтобы отправиться в новое сайдскроллинговое приключение, в котором вас ждут новые бонусы и множество монеток! Удастся ли вам собрать миллион? Игроков ждет классический экшн в стиле Марио и горы золота! Вы сможете играть и в одиночку, и через функцию «Загружаемая игра», объединившись в команду с другом. А в новом режиме «Coin Rush» вам предстоит собрать как можно больше монеток за определенное время.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2012-10-04",
+			"retail": "2012-10-04"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3d92564f6ab0f800dad4f800aab1d8b22a6c57cd4040ec2368dd23d12f1c4977.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e0815f06c4fc001513fd03d194596ab61dcd2b77e3bb8bf8d12386c93085f5f4.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/98805895c5900022276c927a885f3f58a0cdc22b8e397bf38f4f9ed7b8afd264.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f58df85aac480391941a733f8d1301d64727a02f970510b41617f704012c66b3.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/79c066b87237dcb9a6ec6562f9ffa6837e0ee97c93f5d66479012248ead399d9.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c2626c5e09185a476056a92abf28a6c05adbb2cac9912bd6b3681934929cff5a.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9fd4eb53befcf241a31855156cd808b262d073e4f5ed122183abdca9a7c915ff.jpg",
+			"name": "New Super Mario Bros.™ 2: будут доступны бесплатные...",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7b9c378532461f69b2e96a7d41cb77c15ad6648a0cac8201cabfff58b54e852b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "225"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f72328bbb0e8411fb168576d4cc9585ac1f693d04bd3795db60374f32f435658.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "225"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9fd4eb53befcf241a31855156cd808b262d073e4f5ed122183abdca9a7c915ff.jpg",
+			"name": "New Super Mario Bros.™ 2: будут доступны бесплатные…",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/db331ab9d51b17a146408f2bf1ce87e468b76b40af5d5a8e0a294cff9a2266d4.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "218"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/02d5fc191fc4d9375a47e25b402e9c9a77dc9f2d75d0739c21445dfac302df60.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "218"
+				}
+			]
+		}
+	]
+}

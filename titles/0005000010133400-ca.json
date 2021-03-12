@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010133400",
+	"eshop_id": "20010000001924",
+	"product_code": "WUP-N-JBBE",
+	"name": "EarthBound™",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1296fefc1d54e0fbed4766108742497fca7ca5cb0fa7608779c66b2ec0960f9c.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/34a56be1d00adde2b0861296a86bbdc512ac21699b0c84d56041c159e121a588.jpg",
+	"data_size": "43942028",
+	"description": "Intergalactic terror strikes the small town of Onett as a blazing extraterrestrial object crashes in the night! The Earth now faces imminent destruction by the universal evil threat, Giygas. A courageous boy names Ness, and his three friends, vow to save the planet from hideous destruction! Battle hundreds of off-the-wall monsters, roaming dinosaurs and alien enemies! Journey to exotic locations like Saturn Valley, Dusty Dunes Desert, and Deep Darkness. The ultimate test lies in the impending encounter with the all-powerful Giygas!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-07-18",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/0ceaa5aeec91948381400283cfb4be6addeb7ef1d504d0899ac7f7d670388d66.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/19d7da9f37488146703d64bdc9dcedc59db20f333222571fd66edc82a0601c89.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b93745254de6c846d124aade2123265c13ff5f4b6705e75af2d032ec01b87ced.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ed78d3c70601e3e3bb818aff05aa05fa5ae15c5fc76b208b0193fc06d45bf680.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/432948ce48547366a8013248dd9a7168be4c68c48c24ef043123b9ae54ad63ab.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/90dbab17ec2a78c698eef10976de4497c72af9ec3d0cf5069d1cad79477ad383.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2f6fcc81140195c3b484242d142adee1153a9b98ae892a7e9249c2ccbd4712cc.jpg",
+			"name": "EarthBound™ Launch Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2148225f66042af4be9739e1bdef4b54ff1c7c95201400f24db51250411fca30.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "151"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/eb26dab34ec65f4b6d7fc943c2c01c6b1b63a4b9a905ad1393fecab34ddcfcb2.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "151"
+				}
+			]
+		}
+	]
+}

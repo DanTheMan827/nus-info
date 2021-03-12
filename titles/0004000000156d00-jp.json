@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000156D00",
+	"eshop_id": "50010000028966",
+	"product_code": "CTR-N-JTVJ",
+	"name": "トイスタントバイク",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 1402,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/329976b40132995a667bb30698ae50e7b512b5ac40a6072c4de23ff45d8c745f.jpg",
+	"data_size": "61496164",
+	"description": "おもちゃのミニチュアバイクを操縦し、家の中でバイクスタントを楽しみましょう。巨大なソファーやトイレを越えて、ウィリーなどのアクロバットな技を流れるように繰り出し、ハイスコアを狙いましょう。また、世界中のプレイヤーとタイムを競えるランキングにも参加できます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-12-24",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d97608a073a9f8295f0cbac1f4e9ee640640effdbbbfd26e7f071bb47c353ba9.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/17c319c2e403e98d24bd05c7ce548fcc44f8bc9a4e01eec2f20a6dbbc9c7e1ce.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/204bf6e8fc13e6c895d0a5abe2b94651a92b74b4f469f1da063ba4720873c2a3.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/85c56aeeb864ce4d87a0f44657c9f492302396b9305576e78e049efeb6a81a50.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1a7528954047c94f633d392f935357bf8fdef10f0e9d2e9bb78fe9b65292b911.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4e826afdbd81930f3d813ac5c34309164f90c85bf7ece3b1b734f624fc853630.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b1a44cc53b83ce476fa0bc16012ec0e46b360d97cb2ebac8b56c133dfb9f7fb3.jpg",
+			"name": "トイスタントバイク 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8b785c5c5b8aa3b2aaeb447b254f02403400b84ca0de26a14e05a0c60e5c6ac0.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "89"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/052d392af7d1672f0aca7759f691846cd182649c9b1370556d67b5b369ae4e9e.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "89"
+				}
+			]
+		}
+	]
+}

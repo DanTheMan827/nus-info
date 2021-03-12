@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000001AEE00",
+	"eshop_id": "50010000041876",
+	"product_code": "CTR-N-KNCJ",
+	"name": "NOeSIS 嘘を吐いた記憶の物語",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 442,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7bc23fac1048928d719ef4590dc2b2a3dacc048b20fe4bebadd76507ab1e678c.jpg",
+	"data_size": "434076516",
+	"description": "本作は、スマートフォンアプリで大人気のサスペンスホラーアドベンチャー『NOeSIS』シリーズ1作目『NOeSIS 嘘を吐いた記憶の物語』をフルリメイクした作品です。 普通の高校2年生、鹿倉時雨（ししくらしぐれ）には秘密があった。 幼少の頃とある事件により受け取った、この世のものではない“影”を捉えることのできる呪われた目だ。 気味の悪い“影”を見ないよう、極力外界との接触を避けていた時雨の前に、死人の声が聞こえる不思議な少女、鷹白千夜（たかしろちや）が現れる。 だが出会いを噛みしめる暇もないまま、二人は校内で起こる不気味な自殺事件に巻きこまれてしまう。 そこから紡がれるのは、二人が遠い過去に置き去った、記憶の物語――。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-11-30",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6abff68d85049dabcaa960b1d690f8f2cf1928a8e5e2358927861c0fd91b4f94.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7dd0a4dfee14197c3fa6fd2f95fc726fda92ccd2f36b1d1140d39532d14d2e92.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/cc12b3b1835397eb3632653b06e45079dc74e888ca612184f5a0219d04e8ceee.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7dd0a4dfee14197c3fa6fd2f95fc726fda92ccd2f36b1d1140d39532d14d2e92.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2ad6278471696d93055660dcee47e806df784c5005abb21a98672e018cc1e43c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7dd0a4dfee14197c3fa6fd2f95fc726fda92ccd2f36b1d1140d39532d14d2e92.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/35b1d3127d645a6403b939d2bf9215afb9af168757491a4fdeeaaaa4150d448e.jpg",
+			"name": "NOeSIS 嘘を吐いた記憶の物語 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/092f97d9a30d6d8d2b9ba399d73bc465bf57329fd54f171cdab68805f59dc38b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "55"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ae2913aa8d0d2c9e4f473e57b30ab4f8aa28c7b4b2fd5ac92f6af5e35941ef9c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "55"
+				}
+			]
+		}
+	]
+}

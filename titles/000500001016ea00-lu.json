@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001016EA00",
+	"eshop_id": "20010000006646",
+	"product_code": "WUP-P-ACLP",
+	"name": "Child of Light™ ",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 278,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e99d1ba278db3aaf2f3d6d52d9bee330e87372fe9f526043582aa6ea5b6267f3.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b4dff82db0e1fa863883b6918214e130519ce35280bf14efd7552b8c219ba434.jpg",
+	"data_size": "2456093032",
+	"description": "Child of Light conte le passage à l'âge adulte de la jeune Aurora, une jeune fille de la fin du 19e siècle, dont l'âme se retrouve transportée dans le monde féérique et oublié de Lemuria. Pour rentrer chez elle, elle devra affronter les sombres créatures de la Reine Noire, qui a volé le soleil, le lune et les étoiles du Royaume. Embarquez dans une quête palpitante à travers le monde poétique de Lemuria pour retrouver les 3 sources de lumière et vaincre la tyrannique Reine Noire ! ",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-04-30",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/69573404af74c657efe3f3db676df30d30489e867336e238642d71556a10abda.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5d46cda86c553ea0d1d7faeba7a793d0474881219412b4d90c32b99013345b94.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1631c497148f79881f7d14af165bf340c6fdb26f5d475d526e2e1c08d6a3d9ec.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6899b0d1e5516bc959fa6caabb480aa0c43bc76a275abdd5a4a1568d38223d4f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7c9d41cd1f1274d2bcf405fe3ba7d625485730fdc76d9966931e94bb8687b1a4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7f5f8171bef4176d8bd29f20b7c2f1bf2eb9313b237bbe0767869a9201392c00.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/35a3cde862570c19a5c84e3489e1e4d55993c7c1c6c97837ced281b4831d518f.jpg",
+			"name": "Child of Light : bande-annonce (06/03/2014)",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f76ea4e99234209d36c603c1aa76aedacbbc11a6c390e9ccead4188501834cb0.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "123"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e7af6a4312cb0138676531991e013205402d9d3c4fd7f05b9395afe608d58194.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "123"
+				}
+			]
+		}
+	]
+}

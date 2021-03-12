@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101E2800",
+		"eshop_id": "20010000021428",
+		"product_code": "WUP-N-PPPJ",
+		"name": "超兄貴",
+		"platform": 166,
+		"platform_device": "WUP",
+		"publisher": 81,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8f94622ff0e6d743634bf1291b709b5c64918c0f31395ad0d2fa2a322622c440.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9b31047e6f80a7867fd264898df85d9e48b8a8d374228f8bbcbee0cd71dce5f4.jpg",
+		"data_size": "98107532",
+		"description": "独特の怪しい世界観で、各方面を騒然とさせた「ぶちキレる」筋肉派シューティングゲームです。 「筋肉こそ最高の美徳」とするビルダー星帝王「ボ帝ビル」の暴挙を阻止するため、天界の住人「イダテン」と「ベンテン」がビルダー軍の撃滅に乗り出します。 プレイヤーはイダテンとベンテンのどちらかを選び、心強い肉体派オプション「アドン」と「サムソン」とともに、その肉体美を惜しげもなく披露しながら全5ステージを戦い抜きます。 迫りくるビルダー軍の攻撃にはショットボタンを押しっぱなしで「男らしく」応戦、ここ一番では男の一撃「メンズビーム」がさく裂！ ゲーム中はプレイヤーはもちろん2人のオプションもそれぞれにパワーアップが可能、敵を倒すと出現する「プロテイン」を摂取すると「ビルドアップ」の掛け声も高らかに攻撃力がアップし、暑苦しくもマッチョな戦いがさらにヒートアップします。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-03-23",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/cc11b1f6836c14eed8fddd85177284a5cf6751536de0179e5ca02b934a33522c.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/f65ea3bd9f6b036222350fac0b8e5664cec9da15b46b98b01cb589f130f7b0b4.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/a465b263d126fcf2d52ffae0cb07b6dfff37534ebfcad37409a792070aa2d14f.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/788162457d49495bb97e3ed4a088ae729af25e6d07c0365d361f0cbe8e724bdc.jpg",
+				"name": "超兄貴 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7d01cde96f7b266b0b7864e7cd1f24cd4e6381fd4df720c9eb1dad83b63c7a8b.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "64"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e9a4de712081457296df10e53a563242ef43d5e04bb8e95506e495dbd1b451a2.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "64"
+					}
+				]
+			}
+		]
+	}
+}

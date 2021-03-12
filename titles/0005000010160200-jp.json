@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010160200",
+	"eshop_id": "20010000005427",
+	"product_code": "WUP-N-JCEJ",
+	"name": "弟切草",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 1236,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4c391ab7063e329c1287d9e3a53f1123a34f7e1ea32be05dd4319b3844960228.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/964760bb511201aefd960d3660e56ac4073a9a20f88d76ecc0956605b35311bb.jpg",
+	"data_size": "41844876",
+	"description": "このソフトは、1992年に発売されたスーパーファミコン用のサウンドノベルです。 ある夏の夕暮れ、山道で車を走らせていた主人公と同級生の奈美は、事故を起こしてしまいます。雷雨に見舞われ助けを求める2人の前に現れたのは古びた洋館。そこに足を踏み入れた2人が見たものは……。 物語のポイントでは選択肢が現れ、選ぶ行動や発言が物語の展開を大きく決定づけます。展開やエンディングには何通りもの種類があり、繰り返しプレイしてクリアすることで新たな展開を見ることができます。独特の雰囲気を盛り上げる音楽、次々と起こる謎を怪しく表現する映像が見事な演出となって、プレイヤーをより深く物語へいざなうでしょう。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-07-30",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/07b2536f4b68f6714eb505579bd1310b3525981fc0d141743e0860404e95ad6c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3bf6edc6a851046b33d28d9f7a47e2cd54f229a73bc70c921c0982b70b6c4f64.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/82a15f3d235eaa9f4c3abc4522847ab0d0d105e05cabbd742ba451b94246ee7f.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/67253a3d57e3adb38ef0a877342aa553e845844c08b526c44b46dd1486dc370d.jpg",
+			"name": "弟切草 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5435034cca8954b3b4b343429f5a7c8ff34c7ed1223ea7d4a26120ab72f8a942.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "51"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c72b1d1fb0e18842cd2ebde6c93ff6c7a8a376022092436abf3a842bc95b52ae.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "51"
+				}
+			]
+		}
+	]
+}

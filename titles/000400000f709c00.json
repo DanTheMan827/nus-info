@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "000400000F709C00",
+		"eshop_id": "50010000042224",
+		"product_code": "KTR-N-CBYJ",
+		"name": "限界！山積みバトル",
+		"platform": 1001,
+		"platform_device": "CTR",
+		"publisher": 1307,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a926a15034a56948a2862d63244576aab7b48f6d2c6667f31783d2c148f5e24a.jpg",
+		"data_size": "51542884",
+		"description": "操作はとってもシンプル。好きなおもちゃを積み上げていく、新感覚の積みゲーです。 □□ ミッションモード □□ きめられたおもちゃを積んだり、落としたりときにはアイテムをうまく使って、ミッションをこなしていくモードです。 ミッション数は40と、たっぷりのボリューム。 星3つ☆☆☆ クリアをめざしましょう！ □□ フリープレイモード □□ 好きなおもちゃを自由に積んで、どこまで高く積み上げられるかハイスコアをめざすモードです。 積みテクニックをみがきましょう！ □□ 対戦モード □□ ともだちと、もちろんおひとりさまでも！ 積み上げ対戦プレイが楽しめます。 おじゃまアイテム、『スーパーデカおもちゃ』をうまく使ってライバルに打ち勝ちましょう！",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2017-02-01",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c5806ccec90a5a189e19b0d5939f90246d8fb53f60740556ab7ad0d754bafc5b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d4e88139c30ed8bddc4de760378fced8a284e77db371fd08686940fa3d937d64.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0b4c3b1192aa4c1985b37dc4d8020d60e4c82113839fcdc31df6a911a3f23882.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ca00a40db21287d9cccb110ad134d6e406b1b425db0fb93d3818933f140f49c1.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d5d17f7a393a9c5781e81239e912ef5e50d4ed2ad0f3f894dbe41c54eb93232f.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/33c65d74451e807ea3489d9cd0e5b41baaa28aea60717692ee9eadc582c604ce.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ee32253edff2e187dfa4902a6486515e8577207c2b4c4155f40c60ebb862ae7a.jpg",
+				"name": "限界！山積みバトル 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a5204739f9f509f04a587435d37b3aed2fa12db058fad06f0e57cbf29c8acb8d.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "105"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7975e3a210a950bf57e177121cb2adf5455008d69e222b4e28544e477150ab40.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "105"
+					}
+				]
+			}
+		]
+	}
+}

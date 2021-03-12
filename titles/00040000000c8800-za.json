@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000C8800",
+	"eshop_id": "50010000013375",
+	"product_code": "CTR-N-JHSP",
+	"name": "Splash or Crash™",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/417df44d3e23e20d4dc26c8bf634c0686ad0ea3dbce6d82d0fb28b47e903a22f.jpg",
+	"data_size": "25291620",
+	"description": "You know how it goes: drop a stone into a well, and wait for the satisfying splash. But did you ever consider the stone’s story? In Splash or Crash you play as the stone; or iron ball, jewel and yet more items bizarrely discarded into the abyss. Each item has different speed and durability. Your task is to guide its descent, avoid obstacles and stay in one piece until splashdown. Progress to unlock more items and new, tougher wells. You can also swap high scores with other players via StreetPass™.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-04-10",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f7e8db34e53b8486d5d436b8809130bfa68f1060de32ea6cbeadddacc0fa994b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/47b00899c616de775f847a61d923b1b3df811c756eab7c0b324cd46aea2fee31.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/06073442cfad5de03abc61e4878fafd3f9b094855260fd717515265172f15fe6.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/47b00899c616de775f847a61d923b1b3df811c756eab7c0b324cd46aea2fee31.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/14e2e48c7078163dc76c86af2435bbdb08054ff040118229ef01c7baf401467e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/47b00899c616de775f847a61d923b1b3df811c756eab7c0b324cd46aea2fee31.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8a4bbca23dcbb93691ac2741bb669896471f8517f0058f9ca7e71c6fe2a37565.jpg",
+			"name": "Splash or Crash Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/71581fd19fe2e580aa916b9ebfbffe470bb776510c27353e31ba28d27bb50fd8.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/11637faa602dea81cd9b0672f203f20580b1b3421d5ce931c71be7f03e85d418.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				}
+			]
+		}
+	]
+}

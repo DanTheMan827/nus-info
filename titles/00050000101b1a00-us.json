@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101B1A00",
+	"eshop_id": "20010000023689",
+	"product_code": "WUP-N-VASE",
+	"name": "Mario™ Sports Mix",
+	"platform": 171,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/105d8b6d1c3fd0c1bebe6d249502e9218d51b6a573798f0b9bb871f937e78820.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/92b3267ef13863d50c264700fd185b3ba9de5d6f4f3bdba7b847896e42636aea.jpg",
+	"data_size": "2482143612",
+	"description": "Mario Sports Mix presents four familiar sports but with a Mario twist. Players can choose from a variety of playable Mushroom Kingdom characters or play as their own Mii characters. In any sport, power-ups can turn the tide of a game in an instant. And in over-the-top Mario sports fashion, each character can unleash their special move!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-08-11",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/f2cbcda35e741d70f7a1eaf9031ee1d9554ead660afd8cad5345b0a67f2f0700.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2f9cc85ee83d14fc52886de35268a4a7ec2a41716730ec7bcda44d02de24c5ef.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0ce4fd9137f8fdf7f29d2517ccd0b6db931d655f83d923c993da3fb652d82a07.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/81943d606c6d9f71c9a96d57664d37d21c01c6dff9154eca9d09e42034091c3d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/48f3d2c29046dabfa80adfa76b49f8d1bdfe4def9992f5814f2a68fa92577054.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3d36f7ad1ac7cebb614d96d5b8aa754ad8e64d2cec8db15613144fcd1c1a8bb8.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/45b4260c4b755345e4b6fc47557936ccd4da6b4a733bc2f83e08cdc036fcaa70.jpg",
+			"name": "Mario Sports Mix Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/56cc7dad7da9e7143dab26358ec9fcb1b1d723ef433ed2d9ba1b9cf85b69f504.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "100"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/57478cbe680021e0f8d723a016741fd20b9561b49b05eba56cafea40b7db2e4a.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "100"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000162F00",
+	"eshop_id": "50010000036855",
+	"product_code": "CTR-P-BXLP",
+	"name": "Chibi-Robo!™ Zip Lash",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b76979639f7897917e82418dd3139a1af0cb58f60f5819ee86d07c26c39e5dbf.jpg",
+	"data_size": "902241124",
+	"description": "In questo platform a scorrimento orizzontale, i giocatori controllando un piccolo robot chiamato Chibi-Robo che deve opporsi a un'invasione aliena. Usando la sua versatile spina e un gran numero di mosse, i giocatori possono attaccare i nemici ed esplorare i livelli alla ricerca di oggetti, inclusi snack del mondo reale, da consegnare agli amici di Chibi-Robo. Questo gioco include snack realmente esistenti prodotti da terze parti e la descrizione degli stessi. Consulta il sito amiibo.nintendo.eu per maggiori dettagli sugli amiibo™ compatibili e informazioni aggiornate. Per usare gli amiibo con la console Nintendo 3DS, Nintendo 3DS XL e Nintendo 2DS è necessario un lettore/scrittore NFC per Nintendo 3DS. ",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2015-11-06",
+			"retail": "2015-11-06"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/70ab2c3e97a618c06c286f22c183091f5d1b33322a011c228a19877171f8f01f.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5fed95ea69e2dcbf32974f15c8c34aa157a7fbc376c6b147e0062cf24cf327b3.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/76eecbaff5b1f94bf8387991a0e1d99d36d544388f4e6972e3f77278685c3714.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/14b61feb44187ffa4d5dd82b112e6414e2739dfe7c264e18b1bfbc9a3dfd7f92.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/aa5beb3d3c389ee128e104f7cd74e251c80e1c22174add061eded8b876934523.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a55f7a10162dfdf5a10460657ed2e437fe3225694455b0d1cdccd3c71b30cd5e.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d9296f811b82209e44177dc66c278ba8c2f0e143cda4fe276d3a3ded6b43adad.jpg",
+			"name": "Chibi-Robo! Zip Lash: trailer di lancio",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9526a6c101178e0706aa98a1db80d421ff4e74a1e45cc518b0cdc21e8684ed18.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "104"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8e3e54b6f32f264b2c0c40edbdb44da86908560500694da07b7754a328f2ec81.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "104"
+				}
+			]
+		}
+	]
+}

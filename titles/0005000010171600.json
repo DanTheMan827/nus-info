@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010171600",
+		"eshop_id": "20010000007530",
+		"product_code": "WUP-N-JCHJ",
+		"name": "ラストバイブルⅢ",
+		"platform": 164,
+		"platform_device": "WUP",
+		"publisher": 25,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9664dc9154cb475af0f045c5d75f7bb763a400436582ed69b40a53ea050fa0f2.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/27d457275e2c4a977468658612d3003d560217c4ae4baa8afda4bd284b5a3817.jpg",
+		"data_size": "44499104",
+		"description": "このソフトは、1995年に発売されたスーパーファミコン用のロールプレイングゲームです。 世界で繰り広げられた30年もの間続いた戦争。国土と人心を荒廃させたその争いは、ある発明によって奇跡的に終結しました。 15年後、平和を取り戻したラガの村に住むグレンは戦友のアレクが死んだと聞き、その真相を探ります。異変が起こりつつある世界に、グレンの息子･シエルとルディは仲間とともに旅立つのでした。 『女神転生』シリーズの「仲魔」システムが受け継がれており、魔獣と交渉して味方につけたり、仲魔にした魔獣を合体させたりすることでパーティーを強化していきます。その奥の深さに加え、独特の世界観が魅力的な作品です。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-01-28",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/7792a75732763ae3cd678f937bf51ba69fa7338ea9fe666cf81d36d8567cc31f.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/81b8598254a990cf62602fe98caae8b549fa9db86e3bea9e9b35fb34c1e34688.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/1066c3748a10fd7e14569d09b7d2c95e239f98b936c133ae173d67135fb08fad.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6b86f7ca0fbf6c7ed8d9f0316b2aa6713b60d665e4ea49f34249488e4a88a532.jpg",
+				"name": "ラストバイブルⅢ プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/df7318d90763fa72dfc9874e8d480b8deb2e87ef6f1fdc3b52defe997420ea49.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "49"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8795e452ac3dd6ef31d82c8334fa39b9cff39bda90431a1908c64d24fbc6909f.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "49"
+					}
+				]
+			}
+		]
+	}
+}

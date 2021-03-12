@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000011D500",
+	"eshop_id": "50010000027517",
+	"product_code": "CTR-N-BPSE",
+	"name": "Pikmin™ Short Movies 3D",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/835225ea74b00351f5f3b984861304db164006e7b22d46811f261ce3ec3341ee.jpg",
+	"data_size": "343161700",
+	"description": "Watch the colorful antics of Pikmin™ as they jump into three short movies, the first movies ever directed by Shigeru Miyamoto. The three shorts, titled The Night Juicer, Treasure in a Bottle and Occupational Hazards find Pikmin in unusual, funny, and even dangerous situations. NOTE: No real Pikmin were harmed during the filming of these movies. ",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-11-05",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5eb722c67403af83d8b802e9901f4b727639ec2d4fb500d3cf870332d7342280.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/03f4cb9a5370462ad11f0900dac559b95d42c9b6070edecdd33a7e342e6ba979.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/9dcad67f0f6fc0c3f58897bf4ba094fa87be5110b3c6dcf78c64d8885287d263.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/737a0c058ff356cc439cb0f4ee80ee5117baef31fc49fde8eeaf98b2e27cb2c4.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/46147ecf65cab963c0d015ad483bc33f1685aea2d58efe1abc96745f0ff70929.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e8089ccf4248e489dbd4a86e03f9831a7b20621022f896e30ee400b13c810707.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/419bdce14927ac4ca54ad82ff5e37490c886f2c324d3e26dbff8f757d5bbcc47.jpg",
+			"name": "Pikmin™ Short Movies Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/02637f10c9b80f57993f64ef4b5500ee30b6f2230963cf65f3ab871fefc43908.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "122"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8c5bcce2ac19d7d3ddbed34d5860461b0f4600607045f130c6c8b0a0adb89251.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "122"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000139A00",
+	"eshop_id": "50010000034195",
+	"product_code": "CTR-N-KRRJ",
+	"name": "コロロケの森 ぽいっと",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 1403,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0e93a121d0a473ee8dad024eef4d0060677bdec982ca02fb078196e542aa0410.jpg",
+	"data_size": "140270436",
+	"description": "『コロロケの森 ぽいっと』は、かわいいモノノケたちのちからで、荒れはてた村をゆたかにしていくシミュレーションゲームです。 ●村にパワーを! モノノケたちは、荒れはてた土地に草木を生やしたり、動物たちを呼ぶ、ふしぎなパワーをもっています。 ●村が発展! 村にパワーをまいて、ニンゲンの「おねがい」をかなえていくと、どんどん村が発展して、さまざまな建物がつくれるようになります。 ●村をみてもらおう! すれちがい通信で、自分が育てた村をみてもらえます。自分とみんなの村のちがいを楽しめます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-06-17",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/08e6f185fbc8eddca4267ceef5d1a3709290323bdd61d567b8dcf1c583c22d1f.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/37aae4a00b012b966419ec43fbafed8be9532f2313f63fea6b6f2479ab1590f4.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/54adc5bced60e4345dee0f494f10152f8227f7a01f466cbe9228eb767db31624.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f68263315d25d2eab3cbdb6667ba53ff777ca415a9568808465903947bd3dad1.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e250ba72de32700d590e270208a8467a9dc79c7c394955eaf31a2cbdc8ef950b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1d175b66855eaa479e91f9143cc866b01640411dc8203084b12f6fcf07468094.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9ba523642b6955b2abcc301e6acaf9941138afba74ac7a5061cb147efe8a4489.jpg",
+			"name": "コロロケの森 ぽいっと 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7c09d04e7eee548c0c623c28dbb8ebb129e09031f84f71065d181a746c38aa01.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "149"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4521f884477bd921606e41874e7a048c15525587c0184f9ee0ffbef24301921a.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "149"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010190C00",
+	"eshop_id": "20010000010608",
+	"product_code": "WUP-N-JC7J",
+	"name": "スーパー蒼き狼と白き牝鹿 元朝秘史",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 267,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a3c7b7fd9e6743e667d3b42076996ed3712aa7598c493962039c7c63e4975ac7.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4f9973f9bef37b960e11e28cb30a3efde023b5a7759716f1c880cbb2eaf850df.jpg",
+	"data_size": "43483296",
+	"description": "このソフトは、1993年に発売されたスーパーファミコン用の歴史シミュレーションゲームです。 プレイヤーは広大なユーラシア大陸を舞台に、国王として大陸統一をめざします。まずは自国で食糧や特産品を作り、その収入で部隊を雇って訓練し、戦争の準備をします。国力を高めたら他国へ戦争を仕掛けてください。勝利するとその国を支配することができます。後継者を残すことで大陸統一の遺志を次代に継がせることもでき、壮大な物語が楽しめます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-07-22",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/6276cb513ed27a1a16634bb6bcd8adfc612ef79a8eaffb47fdac1cc1183a1306.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9ff12e4db12178a5c41cfab4b7e058791dbbbf2a93e8805b4735fded6ef6bbf2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/cb0b58fa7e2992eea344bc86f7a83cf894612a0b36e2de34cc0d598ff1ea3efc.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e688fe2b5be9e63446fa99a7c3fef369839401fbdae7b62afc6cc03ac7406a9f.jpg",
+			"name": "スーパー蒼き狼と白き牝鹿 元朝秘史 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6da0d3ab139308d65dbbb414f5de63177964a546a8b7bdeef3fd41353bf8affa.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "85"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/596a4b97fac121480628c6b3dc7e5b2018c842ae22938932a3f579e868e7db9b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "85"
+				}
+			]
+		}
+	]
+}

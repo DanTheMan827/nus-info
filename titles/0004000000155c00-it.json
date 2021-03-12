@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000155C00",
+	"eshop_id": "50010000029115",
+	"product_code": "CTR-P-BGMP",
+	"name": "Gardening Mama: Forest Friends",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/2f04c4e484e9f34ab227f370d427b9a8d2122bcf240e20a3cdfa2a665b849fef.jpg",
+	"data_size": "225606500",
+	"description": "In questo colorato gioco per Nintendo 3DS e 2DS, i giocatori devono piantare annaffiare, e raccogliere bellissimi fiori e gustosa frutta e verdura nel loro giardino personale! I giocatori possono consegnare i frutti del loro raccolto ai negozi della zona per aiutarli ad ingrandire il loro business, e decorare il proprio giardino con oltre 100 decorazioni diverse!",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2015-03-06",
+			"retail": "2015-03-06"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8984279758cb1315ea86e2ef496b91c880bdfe22d2f74c2292043cfacdb16ce8.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/53811273fd08b17374d38fcae5195b4831300371446a2636067577558ca54ecf.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c1b4f489f4ff3c2c1e186ee234cb00567f731b5dbb3b14190bd04587e67c39ec.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a0c77ba7e130987fdbb058ecdf0bc2eca5d8c80c0e9ba61e08f67ce58e4622b0.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3175ea1832784174dc28ee89162f97e9e7702dafacbca735ae4bd4907b03b0d9.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/036f38e6f737c2050a91421dfc095e9164cd724b8f72f50d8078ea86bca0ae36.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3b60bc71eaf29ffee67b31638c1e5107096f406ccb512fd65cdacd9b7df5fc03.jpg",
+			"name": "Gardening Mama: Forest Friends: trailer di lancio",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3c8422f01de8653a2616149f0b8e56e625678e573078dd6d9bb786fd147a1d3b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "117"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b8fbe6e4cba4e3f2fa739fa3cb1ba919d5f7a95cc6804885d1352846da32b915.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "117"
+				}
+			]
+		}
+	]
+}

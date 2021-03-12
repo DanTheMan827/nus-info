@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101A1E00",
+		"eshop_id": "20010000013308",
+		"product_code": "WUP-N-DAGJ",
+		"name": "さわるメイドインワリオ",
+		"platform": 169,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/567fe0129126f3a84e79e62762809d0c7a1b9c8e9513f60f3524c4cd845151a6.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/91c1c0b270223448a1bf7038febdbaaca80e90550ca3d30523032ca598c63e0d.jpg",
+		"data_size": "64389240",
+		"description": "このソフトは、2004年に発売されたニンテンドーDS用のさわる瞬間アクションゲームです。 画面にさわって直接アクションできるプチゲームが楽しめます。その数はなんと180種類以上。タッチしたり、囲んだり、導いたり、選んだり、操作はとにかく直感的です。ワリオはもちろん、アシュリーやDr.クライゴアなど、ユニークで味のあるキャラクターたちがゲームを盛り上げてくれます。 ※おすすめの画面レイアウトは「縦レイアウト」です。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-04-15",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/ea44a8f0d1f1645af3822a376d59fef0d7419a71d276d01bd1e1820d66d42615.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/ff7407f8e15e9965d9d9565119ad4a1f21a65fe911d58a23ee4d0e11093f8006.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/19fd94e4bf51fc47f0f24e0463777ef4eea186ee868bb5b8b9fdb5e359045537.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/99dc44473a9a50e6e16a9ac411f65ec3b4002632df57c81e90a9fb94b80d5f57.jpg",
+				"name": "さわるメイドインワリオ プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/87bdbf02a58a6f184c63e6cf37ef2a43614de4315c5cbfb243ae17c352194352.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "49"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e3d2c62cd8700e6091282479755a46c788e292958104dd30597b6d74cdb7b413.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "49"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010144800",
+		"eshop_id": "20010000004265",
+		"product_code": "WUP-N-ARKJ",
+		"name": "ドンキーコング トロピカルフリーズ",
+		"platform": 125,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6948e8471b000e9985b9062a514968d5c3ee9bccd86926014d9a4489218766fe.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6cd08b1c2f8e29c16afb796f76c0d21ac5b45098e8b44801f8bf4d1444cb97b4.jpg",
+		"data_size": "11603117172",
+		"description": "コングファミリーが暮らすDKアイランドが、北の海からやってきたバイキングに氷漬けにされ、島ごと乗っ取られてしまいました。うばわれた島を取り戻すため、ドンキーコングとその仲間たちが、6つの島を舞台に大冒険をくり広げます。",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2014-02-13",
+				"retail": "2014-02-13"
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/792d5e19709cbe72c39c15d1972a36422d7e11797807afc58bd93e4ba0922b73.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/1c09884906447dfa5e4ba0f8dddccc5fa40005ac180dd5047054e926370c457f.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/0c39f018e198d23c38cf7f4786b00f7680e923da0f374987800ecf14fbc7c890.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d7561c3d35aa8815268d4e260c7f0ba91553d9c6f0380e16b090c042e4f16936.jpg",
+				"name": "ドンキーコング トロピカルフリーズ 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/637d0ff08a397dc89d77b266ebb0e83501628dcebb0f7a66c580574f6b09c2ef.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "224"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/98c81823c46390139edcee0d42886bd48510467414b3e18fc83a926ca718b6de.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "224"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000A5D00",
+	"eshop_id": "50010000012018",
+	"product_code": "CTR-N-AG5J",
+	"name": "ペーパーマリオ スーパーシール",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7e7891954ee4cbc1f5381ec9156207da7254b7f4c6c2fa9d547a7f6311edcfa5.jpg",
+	"data_size": "540638052",
+	"description": "冒険の舞台は、紙やダンボールなどでできた、ペーパークラフトのような不思議な世界。シール星からやってきた「ルーシー」とともに、クッパのいたずらで世界中に散らばった「ロイヤルシール」を見つける旅に出かけます。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2012-12-06",
+			"retail": "2012-12-06"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/473793db16a71e5f345672a8528dcc284b726a8e069ceb4fa354fabc7d4ecfc6.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0b0ac6d70ebf3760f9821dd5209e1d66d5b3fa8dac2f8adb2e20f878357f7508.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/074e80c47f40240b3432e45ed8348de2eb55a7d74d66ac230394e05380ebaa60.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/849fb16271c53e154cbcf4c2fe60b6ae643b24cfb9889a2d994ea57fa0487dbc.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d191f36eb38f934771e0a763c4aa0512798f0dae2a0ec1f861cb71fadbbb82c6.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c04cdeb24eb3402a131b6a425dcce045f91278cef8d2fe9904738a0f136ca160.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a775a77a4be36f584868f462a893a0b4ba159131aecc2bbf657b4ed50c3963a5.jpg",
+			"name": "ペーパーマリオ スーパーシール 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/36440ffe5e771bbf06c21290cb5903780857213709f1ac7f30dd763fb698f87f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "182"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd2f5385c3acb69abe57080dee74b5eda8fc0cbdbdb33d8480c7e7a59b2bce94.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "182"
+				}
+			]
+		}
+	]
+}

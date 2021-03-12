@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001015C500",
+	"eshop_id": "20010000012767",
+	"product_code": "WUP-N-PNSJ",
+	"name": "ダブルダンジョン ",
+	"platform": 166,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1c4eca9c9ee10c1743234f24ec8003a4658c20ce1df6d6e94b7ed99c19d4cb27.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/71265121b370809f16ed698ded00e8e5c4c635fa25170dc3545165ed397f5245.jpg",
+	"data_size": "83755148",
+	"description": "スムーズな3Dウォークスルースクロール画面のダンジョンRPG。RPGで2人同時プレイができるという非常にユニークなシステムが特徴です。 シナリオは難易度に応じてレベル1から6までの全22本が収録されており、それぞれ1本ごとに独立したオムニバス形式となっています。 ゲームを始めるときは、レベル6の最終シナリオ以外であれば、自由に選択してスタートすることが可能。ダンジョン内のモンスターを倒して経験値を積み重ねていき、シナリオごとのボスの部屋とその扉を開く「カギ」を探し出します。ショップで装備を購入したり、時には仲間と協力したりしながら、扉の奥に潜むボスを倒すとシナリオクリアとなります。 レベル5までの21本のシナリオを制覇し、すべてのパスワードを手に入れると最終シナリオに挑戦できます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-02-10",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/41e322d1de3c6cf45a636569e7b637b46c5431eb77ed64ff1014c7dcb0510669.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d734c6b4e95095d3a9a96dde00c5c40c3dc6e1d4ae2cc08abd3512ae505bbf35.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/83436692fcbe9ad1c9ab07bb5e61cf31b8f10d3eec6fc474c61d877ad03e6000.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b69716473913251496f1270a0af4a49e5001db63c577241b4176755629e4ae4d.jpg",
+			"name": "ダブルダンジョン プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b185d44d87093c90db247911a5f15e2c640233515d0243ffc755e6fc51a4ddc3.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "59"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/90bfcf1cbe0776b8e57e3f553ef4ffb2ca89eb39f524b0e1f8afdcbb20a0a986.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "59"
+				}
+			]
+		}
+	]
+}

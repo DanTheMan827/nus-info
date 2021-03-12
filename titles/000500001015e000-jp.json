@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001015E000",
+	"eshop_id": "20010000005428",
+	"product_code": "WUP-N-PAJJ",
+	"name": "ゲームボーイウォーズアドバンス1+2",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b7aabceaef1c7b38c260190596401304c676aa85f5c68bf36cc9e57102c0ef6a.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c417ed759286569d0978b96d607a2394df89171382bf4f6a6102e51066de9547.jpg",
+	"data_size": "97288312",
+	"description": "このソフトは、2004年に発売されたゲームボーイアドバンス用の戦略シミュレーションゲームです。 『ゲームボーイウォーズ アドバンス 1』と『2』。2本が入ってボリューム満点! さまざまなミッションで戦略を練りクリアしていくキャンペーンモードや、プレイしたいマップなどを設定できるフリーバトルモードなど、やり込み要素が満載! ※当時のパッケージ裏面に記載された文章をもとにしています。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-04-03",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/162b2eb322ca049714174404186586d2b2be802312e4d430b3be5f791f89e5a5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4d0a8d5ce96528e73460712a785891a9e263058404ea3fee8e5fd9b5a8f64d49.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c7f2c90548f9fc8cd7c7bf87ae9f3d811093c86c86db6564f90fc68b1d774e35.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/954afd594a011dbf6f30652f583a7e673bd19bc71f637f33a09aa2aaa1e30509.jpg",
+			"name": "ゲームボーイウォーズアドバンス1＋2 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f90ff1de447ba2df251f8323b8bc46c12f9c44a2aefcc1849772f483faf89d47.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ae76ebdc9c209ff52797c8e50987224a198120ca094b3d98f3187df9c6594c4a.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000B3500",
+	"eshop_id": "50010000012487",
+	"product_code": "CTR-N-ALLE",
+	"name": "Sonic & All-Stars Racing Transformed",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 233,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/472f737e5ef248413cbc97b2b28175f8b43a3b3128e12720f810e92e4efd1fd1.jpg",
+	"data_size": "855198612",
+	"description": "Ofrece compras desde el programa Sonic y los All-Stars vuelven a la parrilla de salida una vez más para luchar por la supremacía en la carrera definitiva. No es una carrera cualquiera, ¡es una carrera de transformación! Vehículos totalmente transformables que cambian de coche a avión y a barco en plena carrera, cada uno con propiedades únicas. Cerca de 15 All-Stars legendarios, cada uno con su vehículo transformable. 20 dinámicos circuitos que desafiarán tus habilidades por tierra, agua y aire. Usa ingeniosas armas y los movimientos de tus personajes All-Star para derrotar a los rivales. Multitud de modos, que incluyen: Grand Prix, y el increíble World Tour.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-03-28",
+			"retail": "2013-02-12"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a63f152cce9e945f07f9f60a98cb359c6ffb701ca393ef21721d82c200aa0013.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e3b76c6a23dc024d3d8ddae9491b88715f0206ed3e48e5d649d76f526a9f19e1.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/cca6f59dced8e0260f7d70324030822965b9df5a32a326ccdecb9d72c5d39304.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/3a9f108832406dacfe0199047cee074413a52120876ebfd5e38ac55ed622f3ab.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/29f3c26d61759971e80c189295ae0e0c286c0c2f7f03e59318c005cc92e57765.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/47a250cc5c3580fc6a88334492d60a9e91bf312c4593bfd4fc02db56330a8a91.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d3ba60856e68285e90f9d3abec22977f955997974792711e80bca88ffb19fe37.jpg",
+			"name": "Sonic & All-Stars Racing Transformed™ Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/51b8a02f86fe7bea955bd45b2d63d2813d40534475d0fb5c1adc81bf2bec5943.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "92"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a892062c66ced105abe771411bba6778b32ff8a5f86e0756a9e927b3f12f0f43.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "92"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000036F00",
+	"eshop_id": "50010000007377",
+	"product_code": "CTR-N-ASUJ",
+	"name": "花といきもの立体図鑑",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0f177bd51f6f3d187268a004460a9d5fe5159ac609559e2fdb401aa40540a259.jpg",
+	"data_size": "877882212",
+	"description": "身の回りの草花約1300種類と、それをとりまく生き物約700種類の情報を収録し、コンパクトに持ち歩ける図鑑ソフトです。立体写真や立体動画をはじめ、カメラを使った花の検索、生き物同士のつながりを次々に表示する相関図など、ニンテンドー3DSならではの機能を使い、手軽に調べて、じっくり観察することができます。 ",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2012-11-01",
+			"retail": "2011-09-29"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8dc597d8c46a4cb90d3e257505bf4b45aa7a5eb21ccddc0a61f97f53f20d0e53.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ab98ad1004e7f65dd9eb3850cda5cb0aa76973a08050b28c7e9beac5e27d853f.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/4fd8234c5b9484f5ed35c5419e88cfd4e239e1a2351ef3f373b9b92d3e4ddf2e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/292982e3fe6a51209462f10195759551165b62683dc3a7192342efdba2df3194.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a8805f4d351c0de3717a5524fc638aa60861900c298726b62753d6b02acb3e67.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4fa1a4bffffb4698fe86353322fb5b0f54ca0bc246a9cf384e530d3b2b9a6a68.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/69f607d4a0171aa9066779b7f607f90062b71aa9b7cfab9abc159b098c74d08a.jpg",
+			"name": "花といきもの立体図鑑 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4025370b6f382cf73dddbec5642f0fb7f1c81ce25f1a464ecf8c2a8643ed6580.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "277"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3ae0f9a6d48af1cf0cd77c41ed60caded9928e6f15870e602393e2dc7e7294d9.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "277"
+				}
+			]
+		}
+	]
+}

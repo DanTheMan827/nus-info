@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010202000",
+	"eshop_id": "20010000025768",
+	"product_code": "WUP-P-BZDP",
+	"name": "Back to Bed",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1567,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f5c1ad022b2f147cf0051f00771cb51560a4dc69894346c1d28d86b6a59fcb0b.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/20e7d5c0f2bdef41e145cb5f4696576060a6cfb0896cff25e7c0f256a41bb31b.jpg",
+	"data_size": "655261876",
+	"description": "Torna a letto è un rompicapo in 3D ambientato in un mondo da sogno esclusivo e artistico, in cui guidi il sonnambulo Bob al sicuro nel suo letto. Per raggiungere questo obiettivo, devi prendere il controllo del guardiano del subconscio di Bob chiamato Subob. La coppia viaggia attraverso un mondo da sogno surreale simile a un dipinto, pieno di oggetti utilizzati per guidare Bob verso il suo letto, ma anche pieno di pericoli che devono essere evitati!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-12-22",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/163630d0bd6f1d6eaa1b5d55e1834128edbca74ab9dca22efb3feb6129e79f51.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/44d1a423c63efd77114f3b74a0cff99b73a7a49db21081fcc79e7200770a1486.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/21850e5b94e8710462f3f1b8587ee00a5c116b6902a11a034bea8582d9968d6a.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/00cea947f5dd342c2dd3ecd1a6405543075cb668b416e10c4c52edd497543951.jpg",
+			"name": "Back to Bed: trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e0bcba6ae311f6fec79d75122bf71363d34757769bfaee067067a57cd4fd01e9.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "67"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d321debac409891d8378c641e4f0798ba5eb804c36debf916bbfd6a0defcac6d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "67"
+				}
+			]
+		}
+	]
+}

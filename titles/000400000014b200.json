@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "000400000014B200",
+		"eshop_id": "50010000025821",
+		"product_code": "CTR-N-JWJJ",
+		"name": "ワールドパーキングプロ",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 1307,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8cc43f1882c8200d879004f21af80320f945dbfe7f9bb7aaffab3ef9912d2080.jpg",
+		"data_size": "38800228",
+		"description": "『ワールドパーキングプロ』は、「ここに駐車」と表示された駐車スペース内に、車を壊さずにすばやく駐車することが目的のゲームです。 かっこよく駐車をキメれば星が手に入ります。 手に入れた星を使って、車を強化して、さらにかっこよく駐車しましょう。 強化できる車の能力は3種類あります。 タイムを中心に強化して慎重に進むのか、そうさを中心に強化してキビキビと進むのかHPを中心に強化して己の道を突き進むのかはあなた次第です。 あなたにとって最高にかっこいい駐車をキメましょう!",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-09-24",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ef48d1ef8c1e8ddd9966e1e4b82c754d57d813ffca7d570c406112304f3e2f43.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9bc42ee7b13f764a7666ec6180d6368d90b7dcc80a1a4ed2820c6f60e6c2e16a.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6b9462ed6065de8c0a53ed1a420a424d57cd4abfff5ec5bad2cc5adda2afc4c1.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/846d622dbda7d1c63207cef8387de61ea06c163fcb0a21fbcf6a89296591ec0a.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5a83cdf0c19a0fee5ccb4c45554ea1779b49a978779ecefed4b39379bc85cb89.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5f57fbdddbfb7452603a189e3d81bca3c7890ffb3e4342a466edfb5aef8091b8.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3c43925e65d9262f596dc4601c9fdb2c9fe33fd865163fb3c459c91f2d676806.jpg",
+				"name": "ワールドパーキングプロ 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d29aa8cffb3fd69b019e893ea3456fd0aa93c1194bc364a4345f003f15035c91.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "57"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/21ac3dc0fcf4e4c5ffc378f70cc54092603992a892eff9d7eb9899056557086f.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "57"
+					}
+				]
+			}
+		]
+	}
+}

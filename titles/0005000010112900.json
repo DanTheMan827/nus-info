@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010112900",
+		"eshop_id": "20010000000031",
+		"product_code": "WUP-N-ABTJ",
+		"name": "バットマン:アーカム･シティ アーマード･エディション",
+		"platform": 125,
+		"platform_device": "WUP",
+		"publisher": 483,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9650768e82f8c8a8740425453111bdd6919b30893bb7162175e3c0da6530b812.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a4d9d305f106ec694ab7344fcdf3347d62048fd66235bd021b60404d75a3bb2c.jpg",
+		"data_size": "19868813024",
+		"description": "metacritic.comによる2011年の最高評価を獲得し、数々の賞を受賞。そして全世界の累計出荷が600万本以上を突破したゲーム『バットマン:アーカム･シティ』が、新要素を追加して『アーマード･エディション』となってWii Uに登場。 ",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2012-12-08",
+				"retail": "2012-12-08"
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/10902a651e69dc736dd9b0fb95b0e20888e752ce12cb4c482b6e1c96877114f0.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/4705b239cde9ed3861b412db031f76d7ce2e65d7c8436c96987bf204bc02abb7.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/4da0be80dbd6e86ef9a0f26c56d11ea4be96dde4eb7684fac08a373d304c1ff2.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7f3c6f0fa64060b0e8a54cf1165ea1d3d907e3a1416a7f7aaba7489bc6bb3495.jpg",
+				"name": "バットマン:アーカム･シティ アーマード･エディション 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b4fc1f26c9275339b16f7e021563af7659d98fd1bb3b82a43737ec346a411f46.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "244"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/412a67cc74a6810d0ed6ab2268b8cbfad96fc7194b28a6c437303541634fc5b6.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "244"
+					}
+				]
+			}
+		]
+	}
+}

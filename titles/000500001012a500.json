@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001012A500",
+		"eshop_id": "20010000001966",
+		"product_code": "WUP-N-JAYJ",
+		"name": "ストリートファイターⅡ ターボ ハイパー ファイティング",
+		"platform": 164,
+		"platform_device": "WUP",
+		"publisher": 39,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9e34440c7eaa75ece05f5dfc617b943f1d4316c4c31ffbe82c4cf285271a1e02.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/70314b49993752e61c0a1605ad6c667ca4c0248293fa620e618befcb4dbd8608.jpg",
+		"data_size": "42303628",
+		"description": "このソフトは、1993年に発売されたスーパーファミコン用の格闘ゲームです。 勝利を求めて闘いに明け暮れた格闘家たちは、限界までその肉体と精神、技を磨き抜きました。彼らが新たに習得した必殺技は闘いに変化をもたらすでしょう。本作では「M.バイソン」「バルログ」「サガット」「ベガ」の4人がプレイヤーキャラクターとして使用できます。「TURBO」モードではゲームスピードを5段階から選択でき、スピーディーなゲーム展開を楽しむことができます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-06-25",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/2f54b2f124324b57fd00cc5f921f88fcae727ef9b99cc1361f4a64aa3d772f5b.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/675fbc949fd96213f3a8d72e09be1048b2dd36d8e1e119040b37145915577ac4.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/e0ee4388163e0c5a6ce689d5221541f5e15ea85eec2a22050bb2c13467f5a0ac.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a018b48baf7e0a19a49b11301b1cc70e76272159365d431dba2dbdcd11dbbb42.jpg",
+				"name": "ストリートファイターⅡ ターボ ハイパー ファイティング プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6863222699f9a5f9e50c02815c40446a1c5cb9be8001ea7306da56128a54dadd.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/273cdd65281ea1d3e262cc2c398c1976ab9d7d725f3a74da8281d659257cc3b2.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					}
+				]
+			}
+		]
+	}
+}

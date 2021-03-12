@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000017B300",
+	"eshop_id": "50010000038455",
+	"product_code": "CTR-N-BFLJ",
+	"name": "モンスターストライク",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 1674,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c850b751cec54338cc42d9b6b9bd130e0038da1a0eaec1218a759a081b12d888.jpg",
+	"data_size": "846916452",
+	"description": "ニンテンドー3DS版『モンスターストライク』は、プレイヤーが主人公・焔レン（ほむられん）となって、仲間たちと協力しながら、街中に出現したモンスターとバトルを繰り広げるRPG。 バトルには、スマホアプリ版の人気モンスターはもちろんのこと、ニンテンドー3DS版のオリジナルモンスターも多数登場。プレイヤーは、3D表示の奥行きを活かした迫力のバトルステージ上で、モンストならではの爽快感溢れるバトルを体験することができます。 さらに、ローカル通信を利用したマルチプレイ機能や、すれちがい通信など、ニンテンドー3DS専用の通信機能にも対応。これまでにモンストをプレイしたことのある人も、初めてプレイする人も楽しめる内容となっています。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2015-12-17",
+			"retail": "2015-12-17"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/9d396f029ef5a13b59b5f37e3424ea2440913088c2e8846acb5d325e86863c96.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/dfbe2464716e8a04d3c26882901640a008a306865704c1df1c0f95e3a55a324b.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6d596b1fec58d34f34e91276ac6ebe3bda61ee56292dce588528ee3eed5090cc.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/dfbe2464716e8a04d3c26882901640a008a306865704c1df1c0f95e3a55a324b.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/df9e4aa7f62df5ffde7fdc69af12009a7b2f848401d915670b45ea34d9548240.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/20a0f71ffe0c7d7042b2e4b94d336e94ace31988a84b4fbc5dfb9d13e5a8849a.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/467fdd64fe399078d92c201316e4dd0b204c91602e581e3687c12f10c860411b.jpg",
+			"name": "アニメ モンスターストライク 第一話",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/94a4dee999ac3d82bf04c50ceb45ac33b57aefc73e094943908cff87b3e4ec45.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "437"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0a2329af6058a522a7be69c144206aa4343e52e963a516cfba5a9273ba05eea0.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "437"
+				}
+			]
+		}
+	]
+}

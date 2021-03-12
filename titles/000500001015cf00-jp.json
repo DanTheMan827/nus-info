@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001015CF00",
+	"eshop_id": "20010000014009",
+	"product_code": "WUP-N-PN4J",
+	"name": "パワースポーツ ",
+	"platform": 166,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/61a6a14472c79240da1ed5bc0b12db1b0d3b5ae0911f81bd6b06d7f1646eb7a2.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/fa682677aea66f12159e1ab4d6fce74de71145732ab9cf18cbfe34b228d65b04.jpg",
+	"data_size": "84246668",
+	"description": "全18種類もの競技が楽しめるアクションスポーツゲームです。競技は「射撃」「アーチェリー」「ボート」「水泳」「フィールド」「トラック」の6ジャンルに分かれており、プレイヤーはアスリートとして各競技に挑みます。 ゲームには数日間にわたって全種目を行う「トーナメント」モードや好きな競技を個別に選べる「トレーニング」モードなどがあります。「トレーニング」モードで苦手な競技の練習を積んでから「トーナメント」モードでの制覇を目指したり、それぞれの競技で世界記録に挑戦するなど、遊びたい時間や腕前によってさまざまな楽しみかたが可能です。 さらに5人までの同時プレイにも対応し、友だちを集めて勝敗を競えばゲームの魅力がますます広がります。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-04-15",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/e4daaedfe70d188459084268daea9b9a1899445bd0f8699f0d2e1001a24ac9e2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7c4659a5f6276512f4b1c1307186e73a01d5fbeb4b84fc482a808e57c354c09d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2525cf94cf597cd473107ca893661ea5c86ebd7a355c57c674d11716c480e9e6.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/33985b97c3253647701fb6052da010fdf00d37bf1e4705eeb03eef8ed4788201.jpg",
+			"name": "パワースポーツ プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c535b37acfc46181b580513830d41f30081da2e91ba1d34fe2d515a88ad11ed3.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e27c815aac012e0f38dfe02c0a2229b3a09c6119f970f0b473fe86354ec09363.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				}
+			]
+		}
+	]
+}

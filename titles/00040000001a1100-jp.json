@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000001A1100",
+	"eshop_id": "50010000040536",
+	"product_code": "CTR-N-KY6J",
+	"name": "デジコロ ケシカスくん Vol.001 貫け！ちくわ道！",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 462,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/bd126e259a406142e97eba885df401ff907d62634d77193229bc3c199feb2b0f.jpg",
+	"data_size": "135932772",
+	"description": "デジタルとコロコロコミックが合体！ それがデジコロです！ これまでにない新しいコミックがいよいよ登場します。 コロコロコミックでおなじみのあのキャラクターがデジコロになって、しゃべる！ 動き出す！ 今までの電子コミックをはるかに超えたおもしろさを体感してください。 ある日の夕食光景。おかずはおでん。 ちくわの新たな使い方を楽しむケシカスくんとボウズ。 せっかくお母さんが作ってくれた夕食のはずなのに……。 ちくわで遊ぶケシカスくんとボウズにお母さんが大激怒! 反省したケシカスくんとボウズの反省のしかたとは……。 デジコロの情報はコロコロコミックをチェックしてください！ このあとも続々登場します！ 楽しみに待っていてください！",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-06-22",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/779fa98f805ba61a4e73da6cef404fef8089528c0feb70f9c58ad6eeb825aebc.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/828af3ea483fa95e7b6ef39f7716cacfac5c31874329295f370147ebc245c43e.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1e5e35aadcbe7df1f71c9ca1b50f11201e634bbb30d626a630211a7b4f30d828.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/35d3c1f406c8d8b360a1301638aa959c09dc58f2bd6253123a75297fdf53f21b.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8534f0290edf8b2e0ff6faaac83eff5ca0790f1b60448d109b687489808c197a.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d1efd2f2fde592ad69b6aa19f996ed22e73bfb4a3852799075e54c9ab6fd71d4.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/62b7ee9979ed59b8bb5e1e3bfc9b10d528a108c4c4c35e8fb6b50e13342bcbab.jpg",
+			"name": "うごくまんが デジコロ ケシカスくん 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f2f00d1e0219205c4ca9ee9b5a015a6e9752b1e1c1aeac06e85b4ae51a5c3918.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "88"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ac95203a294fa0a16e6cd1d59e5063596d382901035b61af62742cdbd573a163.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "88"
+				}
+			]
+		}
+	]
+}

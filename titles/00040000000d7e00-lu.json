@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000D7E00",
+	"eshop_id": "50010000020194",
+	"product_code": "CTR-N-JNUP",
+	"name": "Steel Diver™: Sub Wars",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0c7235dc20b816c7ff3850d0906b920fc7b68b03b27e5148918c2cbe71d053d0.jpg",
+	"data_size": "205773668",
+	"description": "Immersion immédiate pour du combat stratégique subaquatique ! Amassez une flotte de sous-marins et torpillez vos ennemis dans Steel Diver: Sub Wars. Pilotez votre sous-marin dans une vue à la première personne, avec un contrôle total sur sa vitesse, sa profondeur et sa direction, il vous faudra être stratège et montrer de la ténacité pour atteindre vos objectifs ! Dans la version Premium disponible à l'achat, débloquez et commandez jusqu'à 18 sous-marins uniques à travers sept missions variées. Essayez les deux premières missions avec deux sous-marins de base dans la version gratuite !",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-02-14",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ac80005e63f6bd9766cfdbeed042fecab5f5c964071f484e1feafc0c18254dcf.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1ec095b8e5f97a0de540b4aaabefbdfc8512aa0aa182a9e502be15cb700dc6c7.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c1d6ff6ee7ec83c234722367ab60f33ec924de67387230596f0b6e3056f8aec4.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/69fda48c6c863ab84a90e6d2a84aaf5a9236ab16ca5771fc4c3bf8355b34d798.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/213ecd6f20f34a15625ad73a66f55a9b11a4e5670619a41f48ff546d9c314336.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/dd4d5062a7e98095d35e975aaeda8cd0be878f20c73f451e8cf8370919ee19eb.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c62fc140a57119b2fb6a219cafa042007e6c0b101fdfbf44a55f50a90bc53cf9.jpg",
+			"name": "Steel Diver™: Sub Wars : bande-annonce",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/912c6b05a538bdc804b7a2621d897ac2d10f2500ef1e9466fb3db872c812b046.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "111"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f3d235459f7c21eb9078449e247750981fe4225d936c3eea50349e2073c0d1a4.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "111"
+				}
+			]
+		}
+	]
+}

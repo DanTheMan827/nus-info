@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101B2F00",
+	"eshop_id": "20010000013670",
+	"product_code": "WUP-N-BDKJ",
+	"name": "ドキドキ手紙リレー（任天堂ゲームセミナー2014 受講生作品）",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7be9a2a3f26b00a1526c15e63eeff26ab94e6510ec4f314ddd01dbb84944881b.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/15216b689ddb5a5c9ce1bb139285987d9241e562ae4262bfba7d17f50d3caf56.jpg",
+	"data_size": "357826720",
+	"description": "本ソフトは、任天堂ゲームセミナー2014の受講生作品です。 授業が始まったら、クラスのみんなで手紙リレー! テレビにうつる先生に見つからないように、 ゲームパッドを見て 、手紙を近くの子にわたしてあげてね。 ドキドキしながら慎重に、ときには素早く大胆に! クラスで協力する「超マッハわたし」と 遠くに飛ばして届ける「かみひこうき」もうまく使おう。 この手紙をなるべく早くあの子のところへ。 先生には悪いけど……めざせ手紙まわしマスター!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-06-24",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/0f373727f7e7d4d1597e8d23619cf270e6eb8c3ff25a9dd586210f112bb97c3b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/66f49a8b6d6a3f8a0ca0e631a3723c54ce367f09fdb0d15ccadf1144ae35ce84.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e654529005739f8b0e45349049d9ad4db5bc2d1c4594725d23a28d497d853311.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d6ba79e1e81b6c5e8559e63b9464064ea798d7aa0d8537853c3c5011c7d57c8e.jpg",
+			"name": "任天堂ゲームセミナー2014受講生作品 ドキドキ手紙リレー 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0b44f632ba4e9ba2cbda1ad84f949c0d91d1c7b6dc490fcc184ec19b612a5013.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "65"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a6ab81cfe00facb391d3f75497f2986a5c48f41d66cba84bfaca9a9be249f39f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "65"
+				}
+			]
+		}
+	]
+}

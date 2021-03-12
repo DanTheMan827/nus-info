@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001014B300",
+		"eshop_id": "20010000003926",
+		"product_code": "WUP-N-JB2J",
+		"name": "伝説のオウガバトル ",
+		"platform": 164,
+		"platform_device": "WUP",
+		"publisher": 246,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/12b6904fc590af82315fc7a871ff1c370f54e1716fb133011ee4084fedeb288f.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a93c1a7548f56256a0ddb4fbbe0b50022b41aa937e4bf252924f25f244c2f80a.jpg",
+		"data_size": "41615500",
+		"description": "このソフトは、1993年に発売されたスーパーファミコン用のシミュレーションRPGです。 プレイヤーは、神聖ゼテギネア帝国によって支配された大陸で反乱軍のリーダーとなり、自軍を率いてより多くの地域を解放を目指します。戦闘では、ニンジャやヴァルキリーなど個性あるクラス(職業)からユニットを編成し、作戦を指示することで勝敗が決定します。困っている人を助けるか見捨てるかで、民衆の支持度である「カオスフレーム」が増減し、新たに出会うキャラクターや得られるアイテムが変化するほか、エンディングにも影響します。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-11-20",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/0dc8426e93e07881a29f593fcd22adb151f019d51fa35f48b321aa823bfbf747.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/d02e5025714f1acee3ec9938def0ad7908b0d003313a5ed2dcd7b59984d82fa5.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/dabaf78c979fa4f1040c45ff4a908b38c500377a300e5e50d96390e394194c47.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e0763ac3bf0b24b70b9f7fee2b7a01af76a26b1a603c501bd920e7bbeafddb64.jpg",
+				"name": "伝説のオウガバトル プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ce088c2c313fa155af9e3e848aef9b17d23f758956ce2916dfb77c88133b84a1.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "45"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a87c2f152b0bbc2b1e7530ebe8533bd242609c75d37279b30aed6d33c95d0e93.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "45"
+					}
+				]
+			}
+		]
+	}
+}

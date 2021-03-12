@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000177C00",
+		"eshop_id": "50010000039583",
+		"product_code": "CTR-N-KDUJ",
+		"name": "無限のデュナミス",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 146,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ffd9456872d9e8c737496d591c4162e228f8b8d3205f4147e1a94dd1f35acb84.jpg",
+		"data_size": "55565156",
+		"description": "思想の異なる二国が、長きに渡る対立の末に手を結んだきっかけは、新たなる敵『兵器』の暴走でした。 苦戦しながらも兵器に勝利した二国は同盟を結びますが、それも束の間の平和。 終戦から十五年後の現在、カルム村に暮らすエンジニアのルークスは、洞窟の廃棄所でとある女性と衝撃的な出会いを果たします。 その出会いが、平和の裏で暗躍する影に立ち向かうことに繋がるとも知らずに―― 『無限のデュナミス』は、武器の成長が特徴的なSFファンタジーRPGです。 武器を使い続けることでスキルを習得したり、熟練度を上げて性能を引き出すことができます。 また、属性リングを装備すれば、スキルとは別に魔法の習得も可能です。 さらにはヒロインのエテルは、装備品をカスタマイズアイテムとして消費することで、ステータスを強化できます。 武器と、魔法と、スキル。すべてを生かし、強力な敵へと立ち向かいましょう。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-03-02",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/73a836936d5aba33c70d0203ce5d59c9582a580891cee3f89ad3426d16d48bf8.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1be76e14d32d6fa5d7685b14384d29a0cbda230a06dd53d738088e7bdeadddd3.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e01e22513ac12703eae47a7b59405fba2a6890b770303ba2cf269b844e6d890f.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9ff4b19dbdceda122f5dbc7187556ca6f7f3e61420781c8011ab0dfa995fd186.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5cfbd981d02f79398c0be9624a7b30fa1ebffb7d711ebd9363128bab5b8939f5.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6bb96b24b9f03998b6ef15996263d22b7e7f5be04917b553702db544221a83d5.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/91a6df506f37eecd2e7381b9019e26a7fb953ec8fb4058c66db568a4e132350b.jpg",
+				"name": "無限のデュナミス 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/89032d03bf859c2a9725e23e2d21e5f5bf90d04a209841719c442a88443e7b19.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "83"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3ae7a9125c412b40535bfc17d16556732c95ba45f7a4d1cba403b9bae44a239f.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "83"
+					}
+				]
+			}
+		]
+	}
+}

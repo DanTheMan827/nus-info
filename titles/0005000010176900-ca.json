@@ -1,0 +1,511 @@
+{
+	"title_id": "0005000010176900",
+	"eshop_id": "20010000013608",
+	"product_code": "WUP-N-AGME",
+	"name": "Splatoon™",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/38235e5ca5a5ded9cdea95b2e420e39c480f1f8d77f30a2df1835157728a8dbf.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/cbfd34ab4b780df95328c39b082d948832d2cdd2d9d06f5554b91425e0596458.jpg",
+	"data_size": "1816297732",
+	"description": "Splatter enemies and claim your turf as ink-spraying, squid-like Inklings in Nintendo's ultimate messfest! Compete online in chaotic four-on-four turf wars, and unleash squid powers to ink your way to victory. Rank up in online battles to unlock new weapons and fresh gear for your Inkling, complete with unique gameplay perks! May the best mess win. Fresh content: New modes, maps, gear, and more are rolling out regularly throughout summer 2015, so there’s always something new to try out! Team matchmaking and more: Team up with friends and hone your strategy together in online team modes. Create your own squid squad of up to four friends in Squad Battle, or choose your own map and rules, and play with up to seven of your friends in Private Battle. Or go solo and get matched with other players around the world in 4 vs. 4 battles that let you level up or boost your rank. However you play, there's no time to blink—prepare to ink! Check out the theme inspired by this game in the Nintendo 3DS Theme Shop*. Just tap the icon in the upper left corner of your Nintendo 3DS* HOME Menu to get started. *Theme compatible on Nintendo 3DS family of systems. Systems and themes sold separately.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2015-05-29",
+			"retail": "2015-12-31"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/27633b11a4885a8a070668b04cd5d1a7d34c2652181efdeb41f11aa242040097.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b8b2c746785bdbc1efa47787d094407efdc584ddebbb5425e5a25fc8f97009c2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0bc1fc314a1b9bcd259d49e16a9f01ff869c6c5526186e79b3404acb48d76254.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c522cf4c7a019403bb10809e17dd3c9b01a06449e786cc5f8c1cae270d2433f4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7ae97c1862684434d42e8a0ec87bc609530d2aacebcbd34fdd720a4c293a2e58.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b61be44944b7d178b6b3bade0028b4caa7517ecc09f892ef1b7f9b4760f0c95f.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/945954a636d1cef7b50cdbc3bacaf2f92c0727088d831d776b1cce132f3ed0d3.jpg",
+			"name": "Super Play Time - Splatoon - Get Kraken with Pro Tips",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3a73a2fec52d04a2c679ecd1ee5c405fc04f6e1ee63c623ca15977e471086715.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "550"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d6cac6a79c2c3187fd0932a2f910f47c2ea2c2abc32d504e270708c25c16984d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "550"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3ce55501a8567468cea9d92384cbe62065b62fcf60a5f71a9ac52bea20653f23.jpg",
+			"name": "Super Play Time - Splatoon - First Dip ",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b232e6b1a9f63be7de9d6022272c0f7f3779296d6265b0aff6b6bdcfb963a212.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "209"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/42f8bced886746863887d3b540c8e232fc44031b0389dc0faaf5ffb2e5b402ce.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "209"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/463b285466bfade9f044b34285ad00759910b30390d0bb29ff2130234d705627.jpg",
+			"name": "Super Play Time - Splatoon - Weapons Splategies",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/10cf82520f858d5bdb7a28c08095099e29b99c85d50326f8e7d9146cee777b01.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "684"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a1df12e0480775fefbec8696e25fcee31a4f743817216fd19a2310a36cda58e1.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "684"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/506f57b16c8053273e8185fe5f8d3554a503248b45ad6f482a90c20a1e501b73.jpg",
+			"name": "Super Play Time - Splatoon - Ready, Setup, Splat!",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/79f95e430524610c51f7434cdd29dd59b1f03d9b0a4d2b6be1b8f4b2d36ff52b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "505"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/535ad8e1fd8d7f52c110ef3e6a00518046cb5993d486233e0740f431b9d5adf0.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "505"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2ed5ab2a1b14557d21ab020fdb6b240f5914510046a9d39e93bd35d3a29a4745.jpg",
+			"name": "Splatoon™ | Inkredible New Stages and Gear ",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f8a4aff0bf7dea6d7ceb0e86dca0de1140b5e120e109c7b49ac9199df13c4b15.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "86"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d16f82a49d782c1f5038edcf536d844cc347f8b62105235e7c9e4caf00c50db4.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "86"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d1affa095dff8e49ef8ad2506a446f08ec0813a86a11d86121a84c4f74365124.jpg",
+			"name": "Splatoon Big Splats Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/65e2ee789a5f5c609b4d39ade4eca50bf1f9734cd4c638ba9457b81c1141bc9d.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "34"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f0a766aa2b6c9e73af6a231d1dab4e15ff2c8f62eca4f3dbcba788ae3f2ac432.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "34"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/819b43c2272a2ab20f24103186e4e2443feee89da0aa59bab1f86564e3ab29e4.jpg",
+			"name": "Splatoon Squid Strats Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/81e35c5697c07f542bdb0d45c43e1a0e6531afdb2fbff0fa5fdb5619eee9fd73.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "34"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6198e7f43182e77896edb6d9251ff752eca3f7786d5c830380b5460cbe4668b9.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "34"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/320887eca531e5eb338e01611d03d08b5ca3a5c07d70cd5f7a61b7e3baeca754.jpg",
+			"name": "Splatoon Tower Control Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bffa5d73e13dcb83a3ed041123f33db62e18d02c0d74e6c60c6ae3b12bafbb36.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "34"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/dd33ec978312203571ed451e021c5f464ae348eca779e1d2bd000711d982cbba.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "34"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/846d7b39a7a3282afb65a6f8af32ae7cb32eac6e47f894a972285ac30910114d.jpg",
+			"name": "Splatoon Direct - 5/07/2015",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/aa6e941c7e1c7988b4576094c8ec89d690a23aba60f6bdbb434e43954418cc89.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "1990"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0a94bc97af79d8070b8a9c96bab5a67c0cd91529df8b36330db94c6a5531eb6f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "1990"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c6907abcbf00cb39365cf9c602009bfcd2a3e41076a024dbc40538c963994da2.jpg",
+			"name": "Splatoon amiibo Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d7b61d75975dccf95c6cb84f79bcfbd62e40773909a2c60ad840d4786245760f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "39"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d8c5c006f8f0d0c239c445ff93f2a0ede5429e339dc328db4848e25afeed1944.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "39"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/581c647bb2428b0c5d80cec2df3a5d0cf8bc4ba115294da9e1262563a046aa3b.jpg",
+			"name": "Nintendo Minute – AMAZE-INK MAY Splatoon Turf War",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0462257549264b1dc7b8fb816d5d104729e93c5abd87059af9589ccc952d3baf.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "844"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/251c42bf90ee989ebea0988758aff7b6021af834b5f6ef171ce32c3af8449c68.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "844"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/49ce30d3e564fa88c9618fffb4e209ad8991beffc61372150bbc81c73660dd7d.jpg",
+			"name": "Splatoon Extended Cut",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1eaffacdf2d3ce875313e5ab602f88db69ef527f2802e53a325483099153b1d1.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "163"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b0bc19b5d926ac3c4b7da9da05e9a3c6fdaeaeb076ca258c41e656f2f5f35058.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "163"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/13a745ff84e3081fd5b30e9aa6d4020147552ea602256a2064b0243f821e084c.jpg",
+			"name": "Splatoon Single Player Spot",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/462ff58db6ab2a18edf6e6c4a93bdaada03d7d7e45336f1c55bc0b7c956dc406.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4964a4b656102b348fa619ae55ad5d285dfb687d05d13191b32ccee15e022144.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fdc5742defb2ea22c9a56b0280f0d3f19d4ee2825ad67038c6796551db674142.jpg",
+			"name": "Nintendo Minute – AMAZE-INK MAY Splatoon Battle Dojo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9151d6441a85221a4cfa2c2ca7cd03d3a5d85719f2973a753106ac22edaed2af.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "749"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0fe87884c6209d34c678a5af74f99b9cee43433f83a911ad6212205abad5e1c7.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "749"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/75c62b7fc35ab9251bae1290e9abddc02b24900010e7e496e500dc16fa3bfa4c.jpg",
+			"name": "Nintendo Minute – AMAZE-INK MAY Splatoon Mess Fest Vlog",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4e5198f72cf3ab506e3159794b30f4f433e560249749da7ff09fe4a421b6c721.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "348"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bef4c655bfaefe168b386f682c8c5cede1e68f67dfeb40afc6fc629ab59dcfd4.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "348"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/261da60839950a3687696799c6b1b492d3a457a56f6da24bd28ca0ec9fcebd25.jpg",
+			"name": "Nintendo Minute – AMAZE-INK MAY Splatoon Art Contest",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0daad38c8c9618001e6a9b645ac4e08fe835f9d7f69017dca7f778b20933696f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "409"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/465c82137e9556149a58bdf3f6749a19177489d32e783205027a59ff003bd486.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "409"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b62f67ee9d3e05dd934cf09d89882060d428e7f831aa38c4ea7ac680a46fd2f6.jpg",
+			"name": "Nintendo Minute – AMAZE-INK MAY Splatoon Single Player",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a01f983890cff0201ee19a63e08ccd3b69511637bd4895174ab3b73d2509159a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "942"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/634b512a25a6af00052df4dd5c1b00f41342831acc9f66af986d7d92604285f1.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "942"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3ace8c9eb6eb42f0ff0db99e567d1504aa4a5a922a8241d7d591bdf8eafa0651.jpg",
+			"name": "Splatoon Ink it Up TV Commercial",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6a9b6a765040660cc416408d0f0e3d6b90d32a271745354b350efab893109220.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd384b39d6f98ea2aa96da7fbd8f11e3cc261f6824da61c62362766e23c82e40.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d4bb094d0840ea33067a9b149dee585922610873a044203f3416712525ae2a5f.jpg",
+			"name": "Splatoon Start Inking Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4007aa156872320560cc87316e23b5bcfacf54da4e58b9588fd63b985e01d2d0.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/dea6ff2ce02b7fa28f12cf67118b417bc424766947857f95bed6691c7194887d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4f2c117f36dca5827efe060f3efcd12d8bb85bb54ccdec44ac8064e4f5ce68c8.jpg",
+			"name": "Splatoon Ranked Battle, Battle Dojo and amiibo Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/de163560e9a040b4479ee11acd71df1fedc90dfdb2f1e6bb0d571509df44072c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "139"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/88124e3f32837127aa99e63c1de2766c44a90b5067402bd01b78ba7b242c74c1.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "139"
+				}
+			]
+		}
+	]
+}

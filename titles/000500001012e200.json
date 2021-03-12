@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001012E200",
+		"eshop_id": "20010000001684",
+		"product_code": "WUP-N-FA6J",
+		"name": "ギャラガ",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 27,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/136f9a084b703f54c615801dba98aeb1d3fa731d90d61be2d67077684f2eeb8c.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/293712f1d6885a7dc975f9a2a57d83a55513df85bf2a9bb08f3ac076063a6e66.jpg",
+		"data_size": "36503692",
+		"description": "このソフトは、1985年に発売されたファミリーコンピュータ用のシューティングゲームです。 自機であるファイターを操作して、迫りくる昆虫型エイリアン「ギャラガ」の大群を撃破します。ボスギャラガの発射するトラクタービームに当たると、ファイターが敵に捕まってしまいますが、飛来してきたボスギャラガを撃破して機体を取り戻すと、ファイターがデュアルファイターにパワーアップ。攻撃威力が倍増します。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-07-24",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/6943730380f7b728bd357f782bcbb0c5e54b6d4ef4231b60f933007b3108bede.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/ca5e5004d7250cf7e08d0441664b18f98083ab828953237b6065cb6a651bb885.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/f057cdc719beb9982b151aed360002623b9898b77fc3427aca7a1d9817ff09fe.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/81e74ace558eb7fd13bde13fd87b6e160f2e5018acc3282edb31201aea677f73.jpg",
+				"name": "ギャラガ プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6908aa3cd61db952a9446f5dd7b5a34766832079bd6a8a7a57e93a281a53011e.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "55"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0f8132c2ec7685c5eb36bf7277457c5b7850879383eea7098ceb7ab6e06bf9f0.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "55"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001016FB00",
+	"eshop_id": "20010000009588",
+	"product_code": "WUP-P-WMKP",
+	"name": "Mon Premier Karaoké",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1240,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/996cddee013b4980fcdc6971a2305ee7f4a073426cf08f8f6743d02d808444a5.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/cb9ff770f37cea80517725d98529b8007fdd9bb73f46dc70d9d7f1d07480a392.jpg",
+	"data_size": "1375437040",
+	"description": "Мои первые песни для Wii U - это караоке с самыми популярными песнями всех времен для детей. Список песен: 1, 2, 3, nous irons au bois L'alphabet Ah ! Les crocodiles Am stram gram Elle descend de la montagne Fee-fye le crapaud Frère Jacques J'aime la galette L'araignée Gypsy La joie au coeur Le fermier dans son pré Le vieux fermier Mac Donald Lundi matin L’empereur, sa femme et le petit prince Meunier, tu dors Pomme de reinette Prom'nons-nous dans les bois Savez-vous planter les choux? Sur le pont d'Avignon Tête épaules et genoux pieds Une souris verte",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-09-18",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/df8a986a6044f8392fa2dca746fdfd5354e00a649b6181708f59f2f5d1feef13.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0adff2e2d146c67fa65a292f873866641b238bf99755d32e8e66c0107d896c30.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d0bebe37e6e7b9f38810d5c35ca03ed2736d3708d71ee1c72230926af24a93e4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f9bcfc71ae7901d6106af10540fa634bff42a174dec3056b74a410ccabeadb65.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5e5bfd4987907e040ff557d22186db377868edca6bcda271c42d91118d9436ab.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8f5d61284c6751985468612f4989fc494bb459f48281a1aeba435453b1ef06e9.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6cbfc3e3b5431b318515e6749c2f313776f744b2234ae10d1127138325417fd4.jpg",
+			"name": "Mon Premier Karaoké Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9fee4263d72d5995e547baff2a5c6b6318a2a9d6a1b426fe9281a877bf5ef908.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "115"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/45212949d63ffe77fe2280412ce6a854f7d1606dae43cdea08ba393409b0ff58.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "115"
+				}
+			]
+		}
+	]
+}

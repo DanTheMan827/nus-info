@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101E8300",
+	"eshop_id": "20010000020969",
+	"product_code": "WUP-P-ADUP",
+	"name": "Discovery",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1574,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/40d07a3b8bae6ee33f655c5ec2540774de98c896fd5496bde9085780f89b9322.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6e4791c9aebd713b86bb53cbda5a965ee65a340e583be82dfdf7d6d22ff561fe.jpg",
+	"data_size": "150503564",
+	"description": "Ontdek een gigantische wereld gemaakt van blokken en passen het met uw eigen creaties. Bouw je huis, bouwen dorpen, steden, monumentale constructies of graven diep onder de aarde. Plaats fakkels of ontwerp complexe elektrische circuits aan het licht van uw creaties in het donker en genieten van prachtige dag en nacht cycli. Bouwen alleen, of samen met je vrienden of familieleden in de coöperatieve modus. Kenmerken: <ul> <li>Oneindige terrein, naadloos gestreamd</li> <li>Meer dan 140 materialen om mee te bouwen</li> <li>Elektrische circuits met lichtsensoren, schakelaars, draden en gloeilampen</li> <li>2-speler coöperatieve modus</li> <li>Levende wereld met dieren</li> <li>Glad, State of the Art graphics (met tot 60FPS)</li> </ul>",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-02-11",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/69fdbf954b5af64d44ae43987dd41ad8660c53e64944bd0d1c9b34981c083ae0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b8b24a631176dbc81ced3dffbbbffdfb0dcedccee051b8afb97d3d9290819c13.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5d10564ac54e9cd29b56c305b95cedb995a0d2683f3e442afcaa73d8e71b6e87.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/fa932552529430324b54f59890924901099df28c47536ea0b59d3a67dd0fa66b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/30c3a4c69ea98378c8ee9331cc874c52e85d557ae94babc8e820314a58490672.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/89760647052de6b7fa05f42de7e47e7bbab6b9b1708d24aab55338930d77c9f9.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ef4fae8f31f8014ab83c5aa92edecffdc0e714f59bb1222ea00321cdd8a2886f.jpg",
+			"name": "Discovery: Teasertrailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/19918252bd515a9b183ff977032b6284eeecd446d364ead0cfb346326a967433.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "72"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5cae1e7ca2a12f14775b5a0a4e0202be96a91171ae4ee63c1e2513eab16dbf47.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "72"
+				}
+			]
+		}
+	]
+}

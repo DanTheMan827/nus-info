@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001017B700",
+	"eshop_id": "20010000009031",
+	"product_code": "WUP-N-WBCJ",
+	"name": "クニットアンダーグラウンド ",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1212,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d69a4c13d03b8e81f1ebb54172e7167106dbf6536419e5f5ea6f7097c24db216.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/56ed7003f1986df17691477634d12f761563c5ee151d052fd112d583d9ab7286.jpg",
+	"data_size": "554893472",
+	"description": "『クニットアンダーグラウンド』は、主人公の「ミィ」を操作し、知恵とスキルで、超広大な地下空間を探索していく地底探索摩訶不思議アクションです。 スプライトと呼ばれる種族が地下に住まう世界。 そこで信仰されるミリアディスト教の教えでは、600年に1度、世界に散らばっている6つの鐘を鳴らさなければ崩壊が訪れると云われている。 今回その大義を果たす選ばれしクニット(スウェーデン語で小人という意味)、「ミィ･スプロケット」として、さまざまなクエストをこなし、広大な地下を踏破しましょう。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-08-20",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/5589964b92a18e3892896a427fc89afe1d6f1f1c88edc31795a13c2a1ab64bae.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/894dc1c6badee2df215bc09e50a571057654591faac3961067f6904150809bbd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0c28f37ea0671b56c401bde200a2051c3d7b88bb1f536598306365216eeddbdf.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/49ab3f256474ce1697dea940bada37160efbc6fdb7403d8102c25b398556b956.jpg",
+			"name": "クニットアンダーグラウンド 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a32a7d892eb6757934ecffbcc98cc1022790b7aab7cce410ebb921b0f9d3bbb8.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "80"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c1ba95dd908f25135857a7b2d54848ba5b2fe3266ee14aaa05a6ae2a099ad35f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "80"
+				}
+			]
+		}
+	]
+}

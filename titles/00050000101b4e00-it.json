@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101B4E00",
+	"eshop_id": "20010000016387",
+	"product_code": "WUP-P-BFSP",
+	"name": "Funk of Titans",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 76,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f796bd03476e228d8b413a19fe747d496d8a1cbd62ddeb5cd370bd901ef9ac94.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/845f0051f36958c892aa0e3e2529e7a98bfaa350b2361250637f61d574f38a4a.jpg",
+	"data_size": "1499037936",
+	"description": "Funk of Titans è un gioco avvincente e trascinante, facile da scoprire ma complesso da dominare. Guiderai Perseo, figlio di Zeus e protettore del sacro Funk. Viaggia per l'antica Grecia, supera piattaforme insidiose, raccogli vinili Funk, sconfiggi nemici infidi, indossa mitici costumi, cavalca il leggendario Pegaso e annienta la musica rap, pop e rock dei malvagi Titani nel corso di feroci scontri di danza. Solo una musica può sopravvivere, e il Funk è la musica degli dei!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-07-09",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/e67a9be3ba6ad0bca201f6dfad36c627236db30c7b9c540693809a5e3184ad28.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/14cb40de89331e1dc220a60c89f87956bccdbefa6d6f0ca1acfeea7e18496de8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/db9ba61f388aeea8b76dbf925eb85a46aa752c70db0250e498f1872f76406e88.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/adc234e1d28b5cf8fb8a3d842a6a14b120c0a9142cf234cb374e73378b3962a4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1a5327e76da521969bf7962764b59b15ff56c695d3dd492c285bf058eb898b52.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/64c4ba2084fd461ab3f336583b9434159493f4c2953d3bff88d72a8077f3d14b.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9163cfc185350539858f5018ad42bacb026215f6c27bc72eda84a9a230dde795.jpg",
+			"name": "Funk of Titans: trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/545c5b8e4212856c901934103b6dd6c92d2e03ada9edcf38f432c666a3526ebf.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "119"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b33c7c109628b00310905776ada31ab973f7c3bfae21f413eebd039f190454bf.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "119"
+				}
+			]
+		}
+	]
+}

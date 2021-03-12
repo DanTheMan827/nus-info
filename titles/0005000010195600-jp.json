@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010195600",
+	"eshop_id": "20010000011949",
+	"product_code": "WUP-N-DACJ",
+	"name": "マリオカートDS",
+	"platform": 169,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3a218762b3c30c4ef03ff611779c0d9b44bc18686523c3c67fb18d95f6e7414e.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/781d47e50dddc6d28317810fed2a110323ad1df2203288cc711562f07680f50e.jpg",
+	"data_size": "59998328",
+	"description": "このソフトは、2005年に発売されたニンテンドーDS用のアクションレースゲームです。 マリオやヨッシー、ピーチ姫など、おなじみのキャラクターが登場する『マリオカート』シリーズの5作目です。 新たなコースが16コース、これまでのシリーズの中からリメイクされたコースが16コース、合計32コースが今回の舞台です。「バトル」では、新旧合わせて6つのステージで遊べます。 アイテムは「キノコ」や「こうら」のほかに新アイテムが登場。「キラー」で順位を巻き返し、「ゲッソー」で目くらまし。使いどころが勝負の決め手です。 モードは「グランプリ」「タイムアタック」「VS」「バトル」に、さまざまなミッションをこなす「ミッションラン」が追加され、1人用のモードが充実。「VS」や「バトル」モードでもコンピュータと対戦することができるようになりました。 ※おすすめの画面レイアウトは「大きい画面レイアウト」です。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-05-25",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/d9c5b2290021d64f2acb56bc43df14969d0ef52e8f018a7749c39aa735305128.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5f478e4a521d60ea6a2a6ce7bf7d4f552e27e31bd773fe79851e9b5c84cad275.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4e5d3f7c1cf6d9ce87da6d16e3027d950001c294451b3486a41847d0618a38ec.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a31edc7c05c7f62b0f064f64cf8fd26e219ae74885bb48698b04ebd2b188e863.jpg",
+			"name": "マリオカートDS プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/239ea155f1d7c1fc5ac5b4f51f0dcd9a90f5f6b0d01036725fbaca6457a0bb8e.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "81"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c0c8307dc6974cd373101c65ce2b89957567a845e8402348a7ff3bec34d6621b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "81"
+				}
+			]
+		}
+	]
+}

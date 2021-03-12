@@ -1,0 +1,87 @@
+{
+	"JP": {
+		"title_id": "000400000012A700",
+		"eshop_id": "50010000024683",
+		"product_code": "CTR-N-JV7J",
+		"name": "蒼き雷霆 ガンヴォルト",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 1308,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3f8ab619d2937880981bb7c543fb2d6eb350914a56307f76f875b24b1b124800.jpg",
+		"data_size": "412076900",
+		"description": "『蒼き雷霆 ガンヴォルト』は、ハイスピードな疾走感と\"雷撃鱗(ライゲキリン)\"によって敵を撃破する爽快感が楽しめます。プレイヤーであるガンヴォルトは\"雷撃の第七波動(セブンス)\"を使い、自由のため皇神グループの能力者たちと激しいバトルを繰り広げます。 ●敵に避雷針を撃ち込み、雷撃で大ダメージを与えて撃破! ガンヴォルトが使う雷撃鱗は、敵をロックオンしてダメージを必中させる強力な攻撃です。 複数の敵を同時に倒すテクニカルプレイのスコアー稼ぎも熱い。 ●ヒロイン\"モルフォ\"の歌がガンヴォルトの力になる! バトルの中でガンヴォルトが倒れてしまっても、モルフォの歌の力で復活して戦うことができます。 またダメージを受けずスコアーをアップさせていくとBGMが歌に変化します。 (モルフォの歌は、全部で8曲あります。) ●ミッションの最後には能力者のボスたちが待ち構える! フルボイスによる物語が、バトルをより盛り上げます。 他にも、アクションプレイ中にもキャラクターとの会話が展開する\"ライブノベル\"が世界観をより深く掘り下げます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-08-20",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/357b7fff60de41c04ba93acc50f2179adad5e9c9f410161a9a1126688f62d2bd.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1699249cd409791ef6e0de529889a1326551f901b716b7e7ad61c44bd86f166b.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d02b95dda91be43090f6d578084c30ee83c3743e0f57a6299e4fb0275ed96775.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a869e1c0542361bbab9903994b244eb6050a5f01d7c5746195898cd44bde8a98.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7045f30a15d3231f88fadfc722492479df9144f3996ceca7eb2e1546f8cd6e72.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8e317e8835d83b0dac1bb238a94e579b34d6123dd3194a35de56d0b6c36c07c4.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bde99a97dd69b304b43ce673010a07a459b0e5d12bd669deaca0f65989735d07.jpg",
+				"name": "蒼き雷霆 ガンヴォルト 紹介映像 予告編",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/095be1c8a58ff9f0cf1282064d7c58dc350c59dd94103a7169253b939e09a339.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "120"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/517ae8bbae93b6516d02ef44b44c3891896274d69bd7085df78e35603f246b7b.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "120"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b16c67a96bf4c32cb2a56027fc901b67fc4b35cb89969d59a3fa0c40750ac804.jpg",
+				"name": "蒼き雷霆 ガンヴォルト 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1252a1288d996e49c3d768ca6e9eb510e13a68deafd7b3fa54c7fb3e13e04b1e.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "178"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e8e333c65f688cf4276cf21113b7e666606f005986261d7601f1cf06a9674b19.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "178"
+					}
+				]
+			}
+		]
+	}
+}

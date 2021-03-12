@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010176C00",
+		"eshop_id": "20010000007847",
+		"product_code": "WUP-N-PA6J",
+		"name": "黄金の太陽 失われし時代",
+		"platform": 168,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/45d2706e43f7aee2aff15bc1ead585795b65d3c75ed8ee5bfb7ede3ed9ba41ff.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/33d25190f0561bef0b2af0473ec3fe13906280f099cc93fa3ffd04dbcddbb88e.jpg",
+		"data_size": "103383160",
+		"description": "このソフトは、2002年に発売されたゲームボーイアドバンス用のファンタジーRPGです。 封印されし古代科学……錬金術。「錬金術を極めし者は『すべて』を手にする」とまで言われた古の錬金術の大いなる力を解放し、「失われし時代(とき)」を取り戻して世界を救え! 未知なる力、エナジーを駆使し、深まる謎を解け! 新たに増えたジンを集め、強力な精霊を召喚せよ! ※当時のパッケージ裏面に記載された文章をもとにしています。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-07-23",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/a9f12a0a62e73c5cad33a4fb4a6e7010bb2868d2799a3e463bf9e8af23ab7c7c.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/259f9e7315c9d133dc54bc762f6c33bf95c2e93af9835e33173d7417769d6cd7.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/d7587e5e669791534c6430b6ebe0cebd2f5c0e058c3e6cb0e507b94176d7fc29.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/199e3198d7e6f3ac7b32e74ae5883f986459e26b93e7b0f5b49495f96b094627.jpg",
+				"name": "黄金の太陽 失われし時代 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/52193be53da3f9a44ac36127b0e6fe97476c5b3a0c411cc7dbfc8d52df411a62.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "47"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/039572a2ae530e1b77f532d09369e40ef6ed232967fa5707d722126ef62876bd.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "47"
+					}
+				]
+			}
+		]
+	}
+}

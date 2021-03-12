@@ -1,0 +1,88 @@
+{
+	"title_id": "000500001019CB00",
+	"eshop_id": "20010000010107",
+	"product_code": "WUP-N-VAAJ",
+	"name": "スーパーマリオギャラクシー2",
+	"platform": 171,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5aed2521746dc43f3a9366b56f3af8c3a6ea76ef3218cd31e2370cc46d2dc2ee.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/11dde7ecd72b78705448df1a1ac2e41c10e47b67c672f438bbbbb127e820582d.jpg",
+	"data_size": "1424261420",
+	"description": "このソフトは、2010年に発売されたWii用の3Dアクションゲームです。 いろんな惑星を、パワースターを探して大冒険。マリオならではのユニークなアクションで、新しい仕掛けや手ごわい強敵が待ち受けるいろんな惑星を冒険します。 今度の冒険にはたよれるパートナー、ヨッシーも登場して、マリオと一緒に宇宙を飛び回ります。マリオの新しい変身「雲マリオ」、「ゴロ岩マリオ」に加え、ヨッシーもさまざまな姿に変身。いろいろな能力を使い分けて、隠された謎や仕掛けを乗り越えます。 Wiiリモコンをもう１本使って、アシストチコを操作して、2人協力プレイが楽しめます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-01-15",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/0824940e7e3300ca856261652fe1c1a099e2dfd596f13fd29a21dcd554f58946.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/50f9869d89111d9a9fc81f224ab5369a929f65fb56d863fddd7ec4af160e2cc4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/02186321a0c5a968393543ab06ed0a609df8f0279bd1b7062c7c8646ea67578d.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fd67f5d84ddfbbf9a6c4c0f63ca07f2db7c002c5c4af312fbe27bcd6bfa780ed.jpg",
+			"name": "スーパーマリオギャラクシー2 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/206ad6eb82b01da1861e4a0328b176eb77122e2741da88c9583d32a6518f58bd.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "287"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a3f5ee869e8e850176a0e007c78ca303a39d988bc8e916d1f5f65ec3da8e9491.jpg",
+			"name": "はじめてのマリオギャラクシー2 基本編",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/dba2fd3d4efb8881e269bf4a35ce60126ff987e7210bb04fbeee7636109dcedb.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "452"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8f6bdd8d79d741d580630cf77335eba54d4533b620ecb5b0b65c0c659c902d0d.jpg",
+			"name": "はじめてのマリオギャラクシー2 応用編",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/47be6d1a104fa71d3f0b26fd842fe792eacc7befc2d7cebf43c95188a8c87573.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "453"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c8e45437f5c2d4ad248ad01a9953226c2c81492f552c481acef342b2ca984a30.jpg",
+			"name": "はじめてのマリオギャラクシー2 スペシャル映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/27a373a84194c6f8951cec2a4010e6f506d7777f5c37cad3b946940303f28e8d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "552"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010150600",
+	"eshop_id": "20010000004904",
+	"product_code": "WUP-N-FBUP",
+	"name": "Ice Hockey",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d42be75e417138c18b9948fe5eacb3c4a0e39fbad723a0cbc956fb4a0d055e23.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/585fbe33e8642f5c1897c2dc50fba5d571f905d6e314eff528a69b0d82c54b9c.jpg",
+	"data_size": "36503692",
+	"description": "Prepara-te para iniciares o jogo num dos simuladores de desporto mais fiéis para a NES™. Ice Hockey é um jogo que promete diversão, quer jogues sozinho ou contra um amigo, mas que também requer perícia ao nível das táticas para os jogadores que pretendem afinar todos os detalhes da sua equipa. Podes personalizar todos os membros da tua equipa ao selecionares entre três tipos de corpos diferentes, algo que afetará as suas caraterísticas ofensivas e defensivas. Os jogadores mais magros são mais rápidos e melhores nos arranques, ao passo que os jogadores mais pesados são mais fortes nos bloqueios e a rematar. Caso já tenha adquirido este título para a sua Wii, faça uma transferência de dados da sua Wii™ para a sua Wii U™ com atualizações a um preço especial. Esta é a versão do jogo para os EUA.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-02-20",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/3b1e00b2963dee56d6c2602cfaf33c2243caf00c11a23488a037be960d4d43ca.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7e958f6563080fa51d4167b62496ac341129a08b80b0e3db7a5d4367e1626ace.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9121ad8d661de0d3b203cb9c88d7a4457cc8f3289a6e2fc7796f90a4b1974a17.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b4bc9006bde2b2ca4d64a0da73f93e54026c72081d02958a974940ff6dbcc1eb.jpg",
+			"name": "Ice Hockey: Vídeo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f54a2051251ea7e5064473e87c11ac510abf8c68e7b7de3a204bfbf36411bfa8.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/35ec31e9a121293e6faa4eaa22bec02dc00a5b0772f23944bf537f541063ca26.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				}
+			]
+		}
+	]
+}

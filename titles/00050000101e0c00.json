@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101E0C00",
+		"eshop_id": "20010000023018",
+		"product_code": "WUP-N-DA4J",
+		"name": "ポケモン不思議のダンジョン 空の探検隊",
+		"platform": 169,
+		"platform_device": "WUP",
+		"publisher": 210,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3a631947e9728f9d91793c141d7b1944fa8190ef0ca9eded64a4e4e1d556407d.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/22a71d40530a7ee41b37a1df46e76e342e21e16630b2a86c2b25db223b039e6c.jpg",
+		"data_size": "88309880",
+		"description": "このソフトは、2009年に発売されたニンテンドーDS用のダンジョンRPGです。 ある日、見知らぬ浜辺で目を覚ましたあなたは、なぜかニンゲンからポケモンになっていました！ 記憶を失っていたあなたは、助けてくれたポケモンとパートナーになり、ギルドに弟子入りすることになります。たくさんの困難を乗り越え、主人公とパートナーは探検隊として成長していきます。 そんなある日、ジュプトルというポケモンに「時の歯車」が奪われるという事件が発生します。ジュプトルの目的はいったい……!? そして、あなたとパートナーを待ち受ける大事件とは……？ 入るたびに形が変わり、出現する敵や落ちているどうぐも変わる不思議のダンジョンを冒険して、さまざまな謎を解き明かしてください。 ※『空の探検隊』は、『時の探検隊』『闇の探検隊』に、一部新しい物語や遊びかたが加わったバージョンです。出現するポケモン、どうぐの傾向も一部異なります。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-07-20",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/524bcf7b17534a4d846cb136c8e572d7e29df4fae39fcf1b4368155f2eb5e0b0.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/84e83e21d8977516354c503e8547bfd5942cdd086d29b4eb26e53187785ca900.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/e86401fbe944bf6f3a60f524a842bbcbe20f63b8bf5d05bc86add122aa041ffa.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bfa04e4d43618f18c96524759487d4892a4b2d39d981ef276dd3ab1d01191bfe.jpg",
+				"name": "ポケモン不思議のダンジョン 空の探検隊 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b28b44cd811bb483298545bd94c3620e2254fa278d314722648153507c6e0b91.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "95"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c75d70dfb441ba30d74ad85cc3aefbde9d0b663055f570735a9fa3ca4dc19884.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "95"
+					}
+				]
+			}
+		]
+	}
+}

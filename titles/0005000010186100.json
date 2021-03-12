@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010186100",
+		"eshop_id": "20010000009706",
+		"product_code": "WUP-N-FDZJ",
+		"name": "POOYAN(プーヤン)",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 149,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/253b15871e771cc29f7308041897c4234c7a1180697d01ff57d7ffffacdcfcb1.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/59ac84d966d70d1056aa6cea7bd63af098c1aea1bfe469d2ba4267561996e9e8.jpg",
+		"data_size": "38699168",
+		"description": "このソフトは、1985年に発売されたファミリーコンピュータ用のアクションゲームです。 オオカミにさらわれた息子「プーヤン」を取り戻すため、母親である「ママ」とプーヤンの兄弟「ブーヤン」が協力して戦いを挑みます。オオカミは風船につかまって移動しています。ゴンドラに乗ったママを上下に動かして、弓矢で風船を撃ってオオカミを倒しましょう。オオカミをすべて倒すと、オリの中に捕まっているプーヤンを助けることができます。オオカミの大好物の「肉」を投げると、オオカミたちは風船から手を離して落ちていきます。うまく使えばまとめて倒すことができるので、ぜひハイスコアを狙ってみてください。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-06-10",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/8be7d00866a5f91af8d01f34bf0612aba0c36108f4d7bdb2e8fa2d249e8900b0.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/5f150d8bc487ee00c410917e11c8e26aa90f5d7df4148630606d8d104c51635e.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/6485d3131e69e8d2421e2364cad4ce4540347408b35100e9685b9ebede0e70de.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0934ce22b30e32e60f63187e0a4180ffe85a61e6a4e695115e2f78faefc50215.jpg",
+				"name": "POOYAN(プーヤン) プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2c97ec9d28b6faa2f1ff8a5631eb165181cf4e13f1cc8b34602e165ac6590a87.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "58"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/12e5915d54f34e817f92257a755ece89a62eb087ed83641e5277440b82bb69b8.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "58"
+					}
+				]
+			}
+		]
+	}
+}

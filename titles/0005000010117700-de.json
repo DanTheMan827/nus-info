@@ -1,0 +1,79 @@
+{
+	"title_id": "0005000010117700",
+	"eshop_id": "20010000000294",
+	"product_code": "WUP-P-WCAP",
+	"name": "Chasing Aurora",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 36,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b69d25a0e964e6a23a2b624b91f5b9698b246708dbd563d05839b526a13fac69.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7cdeb3862d5d3dc1ff7d1ed33ef2cc24b3c4021d5f02b5c74024746aa622adac.jpg",
+	"data_size": "104300664",
+	"description": "Verwirkliche in Chasing Aurora den Traum vom Fliegen. In diesem auf realistischer Physik basierenden 2D-Flugaction-Spiel kämpfen bis zu fünf Spieler in Turnieren, die drei Disziplinen umfassen. Im Einzelspielermodus musst du im Wettlauf mit der Zeit neue Levels freischalten. Lass dich dabei in der einzigartigen Welt von Chasing Aurora nicht von Gewittern, Wasserfällen, Eiszapfen und Felslawinen überraschen.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2012-11-30",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/7798697fcb6f9f0b0c9b78887293b6f7761dc7a11cc8c3bb75065e9fcf19d677.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/24ff631368f43db8087eac2f0e3290d00c67fa8e0e74fa4ba91091816715677d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/470fe7634aa5af57467a87f0a127327c0c37180263988fcb7f726965cfd5d8b1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/33efe471bb2c58b937566a8adbfca504f81aa72c253b538a0b2d777c3e6a4742.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b1c07c4865b6ef47a836a7d69a88824d5ffc308bd620461d4b15ab0def334cb7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/fbc3393d50d50ff84434726737f81d329498eefff7298b2f6cc3d19efff09cee.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": null,
+			"name": "Chasing Aurora: Gameplay-Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cbdc3b05f756839cba94da319e2ced933c4f181ce6dd20ff2f8b68e8316e8481.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "29"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/04c6489d34898e1a2a9a44320df0e9b4198c17dc691382625561b9474534d6fd.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "30"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6329f1e4b641a490551548744a692e7443de5eb209da80df384f607742065301.jpg",
+			"name": "Chasing Aurora: Veröffentlichungstrailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/97a55bbbb69a86eaf0e4676bda7d69e704ebaec704f2a7f0c2ea1c2cdff23588.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "95"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/962e1d5a15665185368e266ffe3ad570f489658563b002fbf69f9244722a6e82.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "95"
+				}
+			]
+		}
+	]
+}

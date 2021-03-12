@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010141C00",
+		"eshop_id": "20010000002947",
+		"product_code": "WUP-N-JBVJ",
+		"name": "RUSHING BEAT 乱 複製都市 ",
+		"platform": 164,
+		"platform_device": "WUP",
+		"publisher": 1800,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c30603a814d471eb9cd6074afab5800a3146d741915c58e9456ed2396619f826.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/fa07ee2b7c9286d22eed77a25f58bed8890d09078bacc74bd8afcc7bb3758dcb.jpg",
+		"data_size": "41320588",
+		"description": "このソフトは、1992年に発売されたスーパーファミコン用のアクションゲームです。 行方不明になった仲間たちを助け出すため、主人公のノートンとビルドは強敵の待ち受ける人工島へ向かいます。ゲーム開始時に使用できるキャラクターは2人だけですが、ゲームを進めると、攻撃力が優れていたり、身軽に動き回れたりと、タイプが異なる5人のキャラクターを使用できるようになります。広範囲に攻撃できる必殺技や、ダウンが狙えるダッシュ攻撃、ダウン状態からの追い打ち攻撃などのアクションを駆使して、さまざまなステージを進んでいきます。2人プレイは、協力、対戦、タイムアタックの3種類のモードで遊べます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-11-27",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/00ffddcf13168fe3bc8c1729fdf075ac81586ddeccb223ac11ada661d01504a9.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/d10da447c950089e9af5ea0b5d16d5647f6efe3e488c0715899f44894b0eaff0.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/611f598887a6637ba45254117e2af6972af99af3b0af86ba9ab267521604a5bc.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1e11457901baf4fb69ddfdd55725101ea83c854c9821db937b4c2cb3c1bf6a29.jpg",
+				"name": "RUSHING BEAT 乱 複製都市 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e87c7520163852a891d991e8ff3f2563919696003ba323162c44ed5f04f5061e.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "42"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bec1cae3076a52396d8ba1f509d22c39ede6022784788283db54b89b567c7c34.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "42"
+					}
+				]
+			}
+		]
+	}
+}

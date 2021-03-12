@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001018B100",
+	"eshop_id": "20010000010426",
+	"product_code": "WUP-N-FD3J",
+	"name": "月風魔伝",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8d7205b51a6489fa31413cabed16b14f9cbb72aa7aa3e9b7099fbd3d901594f6.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/10d7e1e65d0820a92a6318692ace938a4994fd9c2ab42e4d1c692bd7884c68f8.jpg",
+	"data_size": "38863008",
+	"description": "このソフトは、1987年に発売されたファミリーコンピュータ用のアクションRPGです。 強大な力を持つ3本の波動剣を奪った魔王･龍骨鬼を倒すため、主人公の風魔が4つの島で戦います。鳥居に入ったり敵にぶつかることでアクションステージに切り替わるほか、特定の場所では迷路が出現。迷路を抜けた先にいるボスを倒すと、波動剣を取り戻すことができます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-04-08",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/0d7ac17bd5170a24ce4e3f2049938cda570d001c34dac35296d35fea27ef1115.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c96ab19e712457f74cfdd4d70cf32de68a2e512f2157bedcdc2f642b1ae40b4d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/305d7faea1f285d3559f8b8503fad50e421a78a84b6742764c8e6b6586bff8bd.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/24e77d8e92b69c67b3ab1ccda7ac399675dd7c0af7d07db3a6b37e40373d8dba.jpg",
+			"name": "月風魔伝 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/caaf633cd39330a69b4bd0b3570129fa92feb9c38baa4dd1181baa66be82d3f8.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "55"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/df180cb84fc03c5956fdb550a34466cd5c3af14b55d1c7e9bee7ae815d392f3f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "55"
+				}
+			]
+		}
+	]
+}

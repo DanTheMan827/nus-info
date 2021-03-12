@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001016F100",
+	"eshop_id": "20010000007186",
+	"product_code": "WUP-N-PASJ",
+	"name": "悪魔城ドラキュラ サークル オブ ザ ムーン",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e89eb4bc3c8efa90229b5a4b850b47aa5be5c3d661a13ae61893fed25a69280f.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5f438d56b671a18e47b443fed0822324a88191b0646c2271047065d5115cf55e.jpg",
+	"data_size": "86212728",
+	"description": "このソフトは、2001年に発売されたゲームボーイアドバンス用のアクションゲームです。 時は1830年。オーストリア郊外の古城で、ドラキュラの僕(しもべ)カーミラがドラキュラを復活させ、それを阻止しようとしたバンパイアキラーのモーリスは囚われてしまいます。城の地下へ落とされた弟子のネイサンとヒューは、ドラキュラを倒し、師匠を救うため悪魔城の探索を始めます。 主人公は「ハンターのムチ」を基本武器として戦いますが、「デュエルセットアップシステム(DSS)」によりさまざまな武器や特殊能力を使用できます。「動作カード」と「属性カード」の組み合わせで発動するDSSの効果には多くの種類があるので、状況に応じて使い分けてください。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-08-27",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/7fbbd75c5aa8e7b1b792bbf0c990d5119075b99f667474ec38d4b347ee005cf4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9d891efe13a89bd77988d1d5b4b7717470b8729c3995ab7b7174c5bbcddae749.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/995f59ec3beb1127657ad0286fbbe3d1167b046d3c3df683c25a5e5ef6a7ce60.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/444660109b9240e2a3d18025e778927f9aa3d7ec56c6ab78d729523c2b6627dd.jpg",
+			"name": "悪魔城ドラキュラ サークル オブ ザ ムーン プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/62e2d31717093c08eef92abf34b16e2ee634fce2ea3b64cad11832ada0e7ea6f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "47"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3a015ec87a36a820c884e8d05d0d8b2851d62a9f3a1e3651c0a37211e50ca0bb.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "47"
+				}
+			]
+		}
+	]
+}

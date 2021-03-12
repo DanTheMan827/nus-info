@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000001B3900",
+	"eshop_id": "50010000042197",
+	"product_code": "CTR-N-KECJ",
+	"name": "シンフォニーオブエタニティ",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 146,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d9570217c2ebdec533320612635b6cfe5eabc8f1e5805cb8e60c02341a71a2da.jpg",
+	"data_size": "85674852",
+	"description": "どんな望みでもかなえてくれるという秘宝レグラトリュード―― それを求めて旅をする青年クライストと、ゴーレムのダウトゥールのコンビは、道中、モンスターに襲われている少女を助ける。 リシュティアと名乗った少女は、先日クーデターが起きた国から逃げ出した姫だった。 クライストとダウトゥール、そしてリシュティアを待つ運命とは……？ さまざまなスタイルを使いこなし、連携を決めて敵を倒す王道ファンタジーRPGです。 3Dによる奥行きを表現したフィールドや動くエンカウントシンボルなどは必見です。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-09-06",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ddd5457b701da2fc8bb174ce463c70e9e28934479899b3c23f43919ef42ada20.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/3e2d5b56bc7106fa46718e94da50b3936fa5d9fdf4de917789f9659a8a66d163.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/085e6b9dacf1919d280388c7ea9fa368842b93a249b87905e0b583eb2014aaa9.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2c3f1ec6676ccb0c6c759bb7b9a43b48247b570cd2262d4a46ac0b118bf35cfb.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/62c7628f17058317ceb528de253f0134a0697999ff7e53b345ea9edd9582af17.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/66a7000a00ae0e1d0e1523a5c7726c060fc40af60253b49faf3a513ce467b28e.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/61545fe0b17b2e25fbe2fbd4f556b266767651b8c8ac1dfb3d7a7ce146c0bfa3.jpg",
+			"name": "シンフォニーオブエタニティ 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fd1481dde9600e78b89c9590c7cf9a25cd39002b5f064268fd40964c1124ab87.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "86"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/607f6aa8b491069de5ade021f327f34a3b736bd9da95a1bccdcac93626cc8533.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "86"
+				}
+			]
+		}
+	]
+}

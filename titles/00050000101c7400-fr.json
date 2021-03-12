@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101C7400",
+	"eshop_id": "20010000019067",
+	"product_code": "WUP-P-AMPP",
+	"name": "Momonga Pinball Adventures",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1505,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ab0d9972516c6d97ce297170ca521495ab9ec2824be66e9b6731f14d71dd2f86.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/19577eee48400b206dac89b7ffe244510dc750890077e2fe9055c72e7f88f3e1.jpg",
+	"data_size": "771588276",
+	"description": "IL EST TEMPS DE ROULER Momonga est un jeu de flipper unique qui vous fait rebondir à travers les différentes régions d’un monde : rencontrez des alliés, affrontez des ennemis et faites face à un ensemble de boss ! Un petit écureuil volant contre les forces du mal : rejoignez Momo, Panda et Fry dans leur quête pour sauver le peuple momonga des griffes de hiboux malfaisants ! UN JEU DE FLIPPER... QUI SORT DE L’ORDINAIRE Oubliez les expériences de flipper classiques. Dans Momonga Pinball Adventures, vous faites rebondir un écureuil volant à travers de véritables niveaux ! Ennemis, boss, exploration - tous les éléments d’un bon vieux jeu d’action-aventure, en version flipper. UNE AVENTURE ẾPIQUE Tout commence lorsque des hiboux malfaisants attaquent le village des momongas et disparaissent en emportant la tribu. Laissé pour mort, le jeune Momo est trouvé aux abords du village par un panda qui l’emmène dans son sanctuaire et soigne ses blessures. Une fois rétabli, marqué d’une cicatrice courant du sommet de son crâne jusqu’au bout de sa queue, Momo se lance sur les traces des hiboux… Ainsi commence l’histoire : Aidez Momo à affronter les hiboux et à retrouver sa tribu dans ce premier épisode de Momonga Pinball Adventures !",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-10-15",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/4a97c42bc67c4769ea12b5a508d1af555f23c31d61484f8d72fcd41cbeb14044.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6436081203adb2687d2a997a3607aec50abdfc164dd1933fee11b08cb1be0346.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ccd614c29e4ee6f0ccce3fea88d81f33d5fcf794bbce35622142a51afab5e7b6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/92a777b1611d32148a738d28ccd1ea5232d430e75b3864d63b3847fa6d9919dc.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/974bd3984aa459ee7def7831ddf4ac21357028a7cf9952b3fc35bef5b17e0184.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b21e989cb0c1e0f7d16e8fd49fa26292c37c6f3568a51e73a0727f25eeb1700d.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6cd22382cbea4a53bbb6300ef428788bd99e203b15f6856183a77af81ef6dcef.jpg",
+			"name": "Momonga Pinball Adventures bande-annonce de lancement",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/59f7bdb2659baca7cdc027def077bb144bd864cd64988d4bcf16ab181f6d261a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/60a4e6d4d877523b5f12e30dabb4a8467f91cde8dadf32529a437c1203194db2.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				}
+			]
+		}
+	]
+}

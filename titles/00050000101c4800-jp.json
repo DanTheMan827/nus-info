@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101C4800",
+	"eshop_id": "20010000018109",
+	"product_code": "WUP-N-PDBJ",
+	"name": "メダロット・ナビ カブト",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 222,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c9c0cbb4caa2cf8045e534ea0012d253bb3fc1fcf938281d4ca798c1f448017e.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/571bd233b7244c9f6fe3436d136cd94152620c49549c9bf94874ef2aede6f1a6.jpg",
+	"data_size": "76185740",
+	"description": "このソフトは、2001年に発売されたゲームボーイアドバンス用のシミュレーションRPGです。 遠くない未来のお話……。人類は、\"メダロット\"と呼ばれる友達ロボットと共に、喜怒哀楽に富んだ平和な生活を営んでいました……。一方、そのメダロット同士で戦う\"ロボトル\"が流行しており、皆がその腕前を競い合っています。 ……\"カスミ\"は善良な中学生。青空中学校のクラスメイトと共に、日々人並みに学生生活を過ごしていました……。 ある日カスミは、心に呼びかける\"声\"に導かれ、今は使われていない旧校舎へと足を踏み入れます。その\"声\"、そしてその旧校舎での出来事は、カスミにとっての人生の転機……。まだ見ぬ壮大な経験が始まっていくのです……。 ※当時のパッケージ裏面に記載された文章をもとにしています。 ※『メダロット・ナビ カブト』は、基本的に『メダロット・ナビ クワガタ』と同じゲーム内容となっていますが、一部の内容に違いがあります。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-06-15",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/9e21ed1d810968260950a6279d17b11b489409e6059d428d34608ccb43dbc990.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/58c477ff4edbe5953e9efa941bd935e6cda5ee1bd9dd53a770a3311733a77706.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/75c26646b148d39da5574b2f08971db5b043ae9a2c1ab66d45b1d0423eca671c.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c54e8ed32f9626747c318c477b44ea9fbbcaf69f97731a9480be3a7c10bcf21b.jpg",
+			"name": "メダロット･ナビ カブト プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a5780ab7b1d5b8437a8c8156cd95c716972b3b47377d839086782dff2270b763.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "59"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/18561f284ffa626dc99fa22b64c9a0282ee2148c308e71a3ef8a5efbc054c43e.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "59"
+				}
+			]
+		}
+	]
+}

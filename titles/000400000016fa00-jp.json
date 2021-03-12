@@ -1,0 +1,85 @@
+{
+	"title_id": "000400000016FA00",
+	"eshop_id": "50010000037936",
+	"product_code": "CTR-N-KMJJ",
+	"name": "魔神少女 エピソード2 -願いへの代価-",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 1212,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/45da60aa0e35c391ec2ea714759b3ae9008df379db5023aad1d12e375b4d0060.jpg",
+	"data_size": "465791844",
+	"description": "『魔神少女 エピソード2 -願いへの代価-』は、さまざまな魔法を使って、敵を倒して進んでいく2Dアクションゲームです。 ステージによって、いろんな敵や仕掛けがプレイヤーの目の前に登場します。 敵やボスを倒すことで、キャラクターがどんどん成長していきます。 好きなステージを選び、奥にいるボスキャラを倒していきましょう。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-11-04",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7fbffec7b136548bab7165d3fa494e8fff1221d7c5b8b6be21da67be5b547752.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c4e81c2f43a844de18cf80a2e0b0cf4ae284b135406d6c23c9ccb7de9145eb94.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f1b6542680080f7d1e116fb7641b1171aafca2b63de08ee9606b7dcfcb5349e7.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c4d9e319687ac281f527b6b0d97151480491ed0b16e6765f9528a56194624ae9.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/db6f879f357d5a642eb5b0641e795658c5f71d2660c79e8e342c54e3dd1b296e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9edf31b593e5832971d7ba720ac82ff0e3e71bac971f69ad0dcc496f73a3316d.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0960cf02782e9903ea283d48bed4a51a8b221aa2d48bb45df63ed9c770254277.jpg",
+			"name": "魔神少女 エピソード2 -願いへの代価- 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7f4dda9df7acc8fc8df77fde38c6f4ce2ffabe03c7a82ad11ba1e583e6fe78e7.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "214"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/187ef721a8c80fb1b5af96f481fcc7d32fc9abc7914d4d7c8079689c319d617c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "214"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6231bef56298b0335af69deee3cdf40ad3eae39b4d693a0c4af9818337b04330.jpg",
+			"name": "魔神少女 エピソード2 -願いへの代価- 紹介映像2",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fbb5c40d7d8f11ab7690d10298157868d92e8f7a15d106614819520876cac38e.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "165"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/99cd9f9eda6bf155fc6f55e5ca6f277a82b1d3a490a93328e7b2bd6b189b5066.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "165"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010198600",
+	"eshop_id": "20010000012187",
+	"product_code": "WUP-N-PB8J",
+	"name": "ソニック アドバンス",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 231,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a756a059037b66d8b05a23ddde75eb15c3c4cb16214689a0a5553ff2d8e0248b.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/1e39ce4f60588ba998e746031c3afb43694af2258ce231b7beaf197ff874af19.jpg",
+	"data_size": "73236620",
+	"description": "このソフトは、2001年に発売されたゲームボーイアドバンス用のアクションゲームです。 2001年はソニック生誕10周年にあたり、ソニックの原点を思わせるスピード感あふれるアクションゲームとして登場しました。 横スクロールのアクションステージを、敵を倒しリングを集めながらカオスエメラルドを目指します。頼れる仲間テイルス、ナックルズ、エミーも登場し、それぞれ特有のアクションでソニックを助けてくれます。能力の違いを考えてキャラクターを選び、冒険を進めていきましょう。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-02-18",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/3d0c31e42634f14c993fdeba91aed69b29080d3099ecd023ab9082d8172d2a65.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/535b9aaeb769b4cdcac4acdd861751120eb6b0e565ddf3c532f7411af8143bca.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7fc3e08141f75a968f7ba96e1a0a0f90543e01d6566442c0164ae9bd235eb17f.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d5d494d7c0d7f559ecbea2bbe4b7b6196317a1ced93903816c632327a487af49.jpg",
+			"name": "ソニック アドバンス プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9a3b116029992fa036a02ae23ee28ad74109ee91030132920be7d2770998fb67.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8e2c49b71708ff95f144063a0a251e6a6ccbc3d5d52c1a53fa28949a69469222.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				}
+			]
+		}
+	]
+}

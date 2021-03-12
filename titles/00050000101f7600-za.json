@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101F7600",
+	"eshop_id": "20010000022607",
+	"product_code": "WUP-P-BD8P",
+	"name": "Dual Core",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1695,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0510c0eab2632c662f0ce5c4bc2b089e7ee938802f8ec305ed88e5c76f0520e0.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/10826a7cd7a8fa3d3e85629a0d6eb900b23d951d189cbcd71800f42ddfd0ff09.jpg",
+	"data_size": "197886092",
+	"description": "Pew! Pew! Pew! Dual Core is a vibrant, futuristic, \"twin-stick\" style, shooter, with a strong focus on local co-op multiplayer. It's 2147 and the human colony on Europa has suffered a terrible fate. Rebooting after hibernation, two super-intelligent AI cores awake to find themselves installed within a couple of old security drones. Their attempts to uncover what occurred may end up becoming a lower priority than merely surviving... Lots of robots, lots of lasers, lots of aliens, lots of explosions! The numerous retro arcade influences are front and center, but spiced up with a colorful modern style, a generous helping of sci-fi intrigue, and a dash of RPG ELEMENTS! - Don't fight alone! Up to 4 players can battle together in local co-op, but you'll always have your trusty (AI-controlled) robo-buddies by your side. - Story mode sees you battle through a ton of handcrafted levels as you attempt to shed light on the calamity that befell the colony. - Arcade mode is a straight up arena-shooter, where you battle wave after endless wave of the alien horde. - Versus mode pits you against up to 3 friends (or AI controlled bots - If your friends are wasting their time doing something other than playing Dual Core).",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-06-23",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/3de24cb46bc11bd7025576a4d0b595c9ba3a24a58d282884f2fb65383efdbc96.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b024d211c0831d066748f9f4736d245278bf61ba073470b9c4c76452581698f7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1f3a3273d891aa91d07141b998e125653f68c4ffc9947d0c3cc1a14db9adb3f8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/479881fdb81bcf15f1df6216131e7919fe4a4cd6786a4234813e6041b2043799.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6d23113ed6f2897eb6e2961cb2d1843cb9ce00d3f3b0b2f741fc7a852f611669.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/55647cef9c3ce8dc64324e7fdd47162aedaa6bc3273f02fd25e14f79315a6344.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5e270fd72f8832b064192555b18c1ecf0e517eb3a9d9d6d9bc93d03b269dad2a.jpg",
+			"name": "Dual Core Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/adf181d34a55a9cda915dc87cdf4157e9dfb66d71f4d8131845af1f9112b85b7.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "153"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a73b3d88a1ac2053a9292eed41ba3a4f185aeff34f4c220cc5d35c0a187c476c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "153"
+				}
+			]
+		}
+	]
+}

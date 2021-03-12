@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010106900",
+	"eshop_id": "20010000003064",
+	"product_code": "WUP-N-AURJ",
+	"name": "マリオ&ソニック AT ソチオリンピック™",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c85cce703229eb1594c352615b5b94c4bfd220c9235bedbd6b829e5193b8a818.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/16a7538d8d8d0cb7e7460ce0ac525c6fda873044f427d0cdd3a5092c4a345819.jpg",
+	"data_size": "8999797576",
+	"description": "2016年1月8日(金)9時59分に、本ソフトの配信を終了いたしました。 ※有効期間内であれば、ダウンロード番号によるソフトの引換は可能です。 2014年2月開催のソチオリンピックを舞台に、マリオやソニック、そしてその仲間たちが、さまざまな競技に挑戦するスポーツゲームです。 シリーズとして初めてWiiリモコンプラス専用となり、より直感的で細かな動きまで再現できるようになったほか、一部の競技ではインターネットを通じたオンライン対戦で、世界中のライバルと対戦することができます。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-12-05",
+			"retail": "2013-12-05"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/9b4a2bb1352baf927d511fc5d3c7ed3beadb13eec2063d45fad6697c429a2f0c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/80b28fd30285d73e1ead6993d258721d9f286d9feb18530597cda80a042a6782.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2078772303ed63076dca781738c6252070dda962ce517db76743ea9436eca470.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5a0ebe3975ea3f81d3f604146f101494f31855549a24f038979e2305bf32bfd2.jpg",
+			"name": "マリオ&ソニックATソチオリンピック™ 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e74ab0ce269d9e56fc024248564686ce4a7fe587822217100d1c608f722c53b9.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "217"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/56bd1b1f205ad4c8ae8e2d63526d5a3f634f5664e12d150d15a76ab506b2b596.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "217"
+				}
+			]
+		}
+	]
+}

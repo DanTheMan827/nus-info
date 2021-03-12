@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101B3C00",
+	"eshop_id": "20010000024128",
+	"product_code": "WUP-N-DAPP",
+	"name": "Metroid™ Prime Hunters",
+	"platform": 169,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a0756bb89903f5163d56b102b4def6a8395cfa22cb3632342a5d6cb995f91a71.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/2daea3d9f0e456712e0a077ee0630a588b3a3fb0c0fe49c63dd399d49305e0fa.jpg",
+	"data_size": "91586680",
+	"description": "It’s the battle of the bounty hunters! Join Samus Aran as she goes up against six deadly rivals in a race to claim ancient artefacts that could spell doom for the galaxy. When a strange telepathic message summons Samus to a distant region of space where an ancient civilisation once reigned, a search for the secret of ultimate power begins. One problem: Samus isn't the only bounty hunter to have heard the call. Six others - the universe's most ruthless killers - are trying to claim the power for their own purposes.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-09-16",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/52a6de72df4e2b9fc040d1ffdf4e21f8b9ef3fe3c16f0089ad1d7e853ed61faa.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4b84afe47c691c6db14a17aa9907508203603c4320a0a2d94417f98ecad55c7d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/aa83da80dab2a23690b17d167919c62dabfa1a97730896ef20f8698a913e595d.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8928c19620197d9e54e3618752d7f01a436dc63bcf0dccfbc8146cdf21e41f5f.jpg",
+			"name": "Metroid™ Prime Hunters: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f1ca9c38da608d296f3f0795ab2b7f3da25e513ca193395d6e6e057e891611cc.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "66"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1318cd3288648a2d17fea13b60c3b8c0a0794233ae4a0e9f9946e32b478a70e0.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "66"
+				}
+			]
+		}
+	]
+}

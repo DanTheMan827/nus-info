@@ -1,0 +1,79 @@
+{
+	"title_id": "00050000101DBC00",
+	"eshop_id": "20010000021208",
+	"product_code": "WUP-P-BD6P",
+	"name": "Star Ghost",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1622,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d8260113e734736443a34217b46d7e23668b909f27e9011f3ad1413d57ccac1a.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6c70abcabadfe1ab717956b8aa256a1d086e4bb7ec5e717515aaa849e9aed92e.jpg",
+	"data_size": "169083020",
+	"description": "Star Ghost est une évolution passionnante des jeux d'action à déplacement latéral. Patrouillez dans 12 systèmes stellaires à bord du chasseur d’étoiles le plus avancé jamais construit. Slalomez périlleusement entre les fragments de planètes qui explosent, sortez vivant d'intenses champs d'astéroïdes et des combats aériens contre des vaisseaux sentinelles meurtriers, tout en vous défendant contre l'assaut implacable du redoutable empire Metagon. Nous comptons tous sur vous Commandant. Il est temps de sauver le genre humain ! Caractéristiques : * Génération de niveau dynamique * 12 systèmes stellaires magnifiquement rendus * Bande son par David Wise, compositeur de renom * Système de commandes intuitif et simple * Jouable en mode Off-TV play",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-03-10",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/d64cb2c123e57cf3edc6cc6e8017f9dc8a0c8721ca9fdebcb8af47a422f7685a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/36e499c0fe2d996431c8a4e1a166747d30c28fb802bee350f04116f8c2310bd8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/563c211355812a748d574aba19fe46d67a09f06f8f74bf250e3e16a2a29e1231.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b9b026a28d8fb0b997329484c7c8c1a65e44e1df0d39e53363179de0e7e845d6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/55a673a225af38f8b9fd8585701dc8d072d45d39bdc0b127fa489ad4799418aa.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/cfc3631198e8a9a49e984340e6d1f46b2c2c915c6a38b02bb99ceb9c17dc0ab3.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e31645daf310da3d39463e54a792ec8707dd9cbc90f16ce3656e431f01f10ef6.jpg",
+			"name": "Star Ghost: bande-annonce",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7be45bf193a860755b80869be3b8a5f69d86185d761f444670b8a0f3b2220807.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "51"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4468fb5fa7db04658d18459e4f4c8fc4cbd2b10a4dae51d32bd90f760f1cde8c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "51"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e31645daf310da3d39463e54a792ec8707dd9cbc90f16ce3656e431f01f10ef6.jpg",
+			"name": "Star Ghost: bande-annonce 2",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/90378484c57f0b0728b58685f1b90567f9317f10b66cc87334ef5c75865c6290.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b5947e482261b3465c55c8436d6ecb7b09265e6af735c5dc4924eefe02be7ed6.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"title_id": "00040000001B7100",
+	"eshop_id": "50010000042479",
+	"product_code": "CTR-N-BYWP",
+	"name": "YO-KAI WATCH™ 2: Speciale Demo",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": null,
+	"data_size": "450870116",
+	"description": "In de YO-KAI WATCH 2 Speciale Demo kun je het plaatsje Duinvoort verkennen, een charmant dorp waar je Hovernyan voor de eerste keer ontmoet! Ontdek het dorp, vecht met Yo-kai en houd een oogje in het zeil voor geheimen...",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-03-09",
+			"retail": null
+		}
+	},
+	"screenshots": [],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6875926f74ff9be2103e707d07e329dd84887a9f82a1105a902280e5898913eb.jpg",
+			"name": "YO-KAI WATCH 2: Introductietrailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6436a70408c111f440bb3bb16d7b84f7ec3bb69c89c9b5abfd9c70cf971a7658.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "165"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4058bdbdddf402cf63d0b64c5a657b4f1033f08aaef6c163f5572f36b0464766.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "165"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101E5500",
+	"eshop_id": "20010000022127",
+	"product_code": "WUP-N-AEFE",
+	"name": "Escape From Flare Industries",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1377,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bb2b3eaba3e79b8d54f7fd3d9de024492db92fb0a82d412fab618b24dd035aff.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d2d17cb828670de4630167927e93256cf25c48bd6857d04499f2c1c015691472.jpg",
+	"data_size": "324108448",
+	"description": "So, there are these jerks who run a factory called Flare Industries who locked up and try to sell this slime-kinda guy called Splat. Splat doesn’t really like being locked in a cage and wants to do his own thing, so he’s trying to escape. He’s gotta navigate the factory, solve puzzles, rescue his fellow slime homies, and ideally would like to not die. Think you can help him? In Escape From Flare Industries, it’s up to you to help Splat get out of the factory. Jump over acid, avoid spikes, rescue your friends, collect all the flasks, and fight the boss!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-05-05",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/611b6bdd32d5e85e408b78a0c2681a562ca65a1efec5d8d0911bdedffda9bf67.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/15e55d1ea9f9c6c76332a6320a980324032438a258128ba3635afcd945d8e3ed.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8257b4c63339d74a10b542c7982fe3a5f4f9350df6121fe521b423661eb39dd8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/190576b474091bdfc9435ecf6280049b5e9d706b6b61d9175fa01405f8202cb4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f5efa2729a7f95a86daa044511fdbc865764a8a0c03001b05108a22cb2153069.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f6af3bcced466687a5f4830f66949cfa656600ad3b4fc822f4ebbf23e266ae40.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/371f594b09acd8f72a3e4ce866e7c1344eb0d666ea9fa8d442bf432c236945e2.jpg",
+			"name": "Escape From Flare Industries Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5f0099a62b904eb08d1f59d869972585a0ecd1277a380bb1d97cbfc470b4a0a5.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "43"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f5e2614255ffc74d50a153c71384fcad4f94f21e3cc6c48a2976e61daa64350a.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "43"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010130C00",
+		"eshop_id": "20010000001487",
+		"product_code": "WUP-N-JBAJ",
+		"name": "ロックマンX",
+		"platform": 164,
+		"platform_device": "WUP",
+		"publisher": 39,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e8ea4877d1795bbd3c0d2f4989427d9a92d77f1a229c3cf0935f8f018da91428.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/1507f4dde09f2fd7fe81d58e244782ecdf2faa9b343723bf2250b802842fdea7.jpg",
+		"data_size": "41255052",
+		"description": "このソフトは、1993年に発売されたスーパーファミコン用のアクションゲームです。 主人公エックスが、戦友であるゼロとともに、同じ部隊にいた隊長･シグマの野望を阻止するために戦います。8つのステージは好きな順番で挑戦でき、ステージの最後で待ち構えるボスを撃破すると相手の武器を入手できます。8体のボスには弱点があるので、有効な武器を探すことがクリアへの近道です。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-05-22",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/171ec73a3c631335a02bc9247adceb939fd2bf16a98f61c338e790896359bbed.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/27eb548d3a5b7665cb9ebfae97df6d08d5ca84a53f38281338c90fe020d89748.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/00d244ca51c5ab0ea5a6e9e28993837a618729524f1b9fc462a7d01aae928e10.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b987950aebbe7d533af16a38628e409fe45c4fe4bca90a58c870652277aa4efe.jpg",
+				"name": "ロックマンX プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/97f48e9ee68f132e9928a37fcf33af28ca0016a4690e3bf74629fc1b09db6729.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "50"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ae2d34207db8074474a51d8507d9222db8355b01cdbf0dade84320f4a3f05251.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "50"
+					}
+				]
+			}
+		]
+	}
+}

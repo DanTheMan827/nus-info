@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010181100",
+	"eshop_id": "20010000012148",
+	"product_code": "WUP-N-PBFE",
+	"name": "Mario Party™ Advance",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4744799056a31382f69b5895dab858f2873e1d8d98887f1ff61421bc0233a9e2.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b10a2ecb6ad5dc2526f7897b84a2f2d7f358a94ffd4da680da919af82da10a34.jpg",
+	"data_size": "79560844",
+	"description": "Bowser se ha presentado en la fiesta y ha regado todos los minijuegos de Party World y todos los Gaddgets del Professor E. Gadd a lo largo de Shroom City. Juega como Mario™, Luigi™, Peach™ o Yoshi™ mientras te mueves por el tablero de juego. Lanza el dado y ayuda a los habitantes a resolver los problemas o a completar desafíos especiales. Una vez hayas descubierto un minijuego divertido y un Gaddget peculiar en Shroom City, ¡podrás acceder a ellos más tarde en los modos Play Land y Challenge Land!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-12-25",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/b68b3d0a87dab77e5c565bf97706fc08ac4524c02a17ce9f9ed360c2e4db6f10.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2f3d953c1579b4cbeb3f5bd7d330298220040f12295973bc7a5f54b8f5a093a6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ea271ab69dceb783455299b931ccf09b74cef2e7286deed0530ad69b5e1a0119.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/39fe36aa09ebc6f725149e7a47b75ebc8904540c506a34c4fa4e523a21d0142e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/313f6d1eb510101d1e481f752a6832a8cb4e9867641280232069bc458931bbd9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6988847250144cc31c026e3b7d42466c681e331f56356be38acfab381f662d20.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3670f113c14cba91dabe3590d7d7c1f9c2d3cf334fe8aecfbb2fd70d70c81625.jpg",
+			"name": "Avance para lanzamiento Mario Party™ Advance",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c7fd86daebc5b2d754d08a06d3c58e9ee66eb85adfe631c330b90bd7a00f3d11.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "35"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4c9f06db0bfab3ed58d5f16a6ba46db9dcdfbac0bc4db8c083aa2ad9e6c06552.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "35"
+				}
+			]
+		}
+	]
+}

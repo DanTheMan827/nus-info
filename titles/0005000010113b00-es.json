@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010113B00",
+	"eshop_id": "20010000008986",
+	"product_code": "WUP-P-WKBP",
+	"name": "KickBeat Special Edition",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 582,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2eb97e718f30ca240120518c79f5d2eb0ca11dcc436422425f72f7b445ad165c.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/05abc3a5af96a2ef01335425e1ca925b6ac4916d36e930af42923c8924b9dee7.jpg",
+	"data_size": "916095176",
+	"description": "Los juegos de ritmo se mezclan con el kung fu en KickBeat, un premiado juego en el que ritmo y acción se mezclan de un modo indisoluble. Incluye temas bajo licencia de una diversa gama de artistas, desde famosos grupos como Pendulum y P.O.D hasta pioneros independientes como Celldweller y Blue Stahli, pasando por talentos ocultos como el productor de música electrónica Voicians y el rapero taiwanés Shen Yi. Publica tus récords online y compite con tus amigos en los marcadores mundiales.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-09-16",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/5f00ce2b941c720afdd108ecafb3705b468da592df7d045a85d8b1b3fc967244.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/50a66fc9cc1ef0712c11d9eb64cf41e5586f916701b63e0675322e68835c3c6e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/142bc75a63e76d4810a46ee13ee53d6b972c3524581bfe54f546fb5c6960e419.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2d890be49eb0581d8733a5c73b57d3eb8c9091fd1f6d56bc7b209084c8dc54a1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/cec97f0b8e09bc77fe39473fabb0e13fff3b63efb5ac6ea86dd08a8450566823.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e83f556695d21a1ebca068191ebcef9ab8a267e26640d42212bcdf95871958d9.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/93bcd57238ecf8c94fe8cf57441c6f46996d8e600a37c46bafa41fe7742245b6.jpg",
+			"name": "KickBeat Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d573b70162888224c0c82d950a8e122c5f5acee2ae48829405c30b2713508249.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "97"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/02acd20c78ede52209be362f36e769ef83a57045a5d3d55f9702dced0bdf0551.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "97"
+				}
+			]
+		}
+	]
+}

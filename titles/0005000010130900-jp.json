@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010130900",
+	"eshop_id": "20010000002706",
+	"product_code": "WUP-N-JA9J",
+	"name": "悪魔城ドラキュラ",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0a733ec792f06cb52eec373ea84bf64f83072781f1983b1aeb1f4386647e266a.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8c17171ef8a895c98eaf71075ecfae3fc8e91308ad541ff06ca91e4345eb06d2.jpg",
+	"data_size": "41058444",
+	"description": "このソフトは、1991年に発売されたスーパーファミコン用のアクションゲームです。 英雄の血を受け継ぐ青年シモンが、先祖から受け継ぐ不思議な力が宿ったムチで魔物たちを次々と倒し、魔王の野望を打ち砕きます。リングに引っ掛けてぶら下がったり攻撃を防いだりと、多彩なムチのアクションが楽しめます。おどろおどろしいグラフィックや物悲しいBGMはホラー要素も強く、中世ヨーロッパの古城の雰囲気を演出しています。 ",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-09-11",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/4d2a94655c5150cd55f2d258147e17932a5e27db49233e5851f1f8ed82700f42.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/45b8dda7df9115808981b4e2bb7886fd64684dc443ec2574887aacfbb66ac28e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/99601175dd6bcbba80a456b00ff46779b2ae95010716c5bc4d2f5e937eb70639.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d21a69a427dd6cd8a374b0d6b0b7f85deaefede9889835527aa5c442ca4ec3ec.jpg",
+			"name": "悪魔城ドラキュラ プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/779e6b177b12ccbd789f4dbb9028688a34254317ae77155f0de7648f32e65d0f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "43"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d01df6018a5a62030273fe4d9963ae25c7c6f9b29de292b2617c59e7e9699427.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "43"
+				}
+			]
+		}
+	]
+}

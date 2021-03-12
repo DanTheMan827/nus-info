@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010186200",
+		"eshop_id": "20010000016148",
+		"product_code": "WUP-N-FD2J",
+		"name": "マッド・シティ",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 149,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d47f2473b9cbc3083762ad62dde422673940b4a6253f9bb492216c4b6d77f370.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/606357e60165804754b15d0d52bd85567c36ddfa0723117ee1f48d2f64af34cc.jpg",
+		"data_size": "38863008",
+		"description": "このソフトは、1988年に発売されたファミリーコンピュータ用のアクションゲームです。 主人公のビリーは、かつてベトナムで勇敢に戦った退役軍人。ジャングルでの戦術で彼の右に出る者はいません。恋人のアナベルを謎の組織に誘拐されたビリーは、救出のため孤独な戦いに挑みます。 「ストリートファイトゲーム」「カーアクションゲーム」「ガンシューティングゲーム」の3種類のステージを突破しながら、組織のボス・ゴードンのもとへ向かいましょう。 「TRAINING」ではステージの練習ができます。ステージをクリアすると予備のアイテムがもらえます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-09-21",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/7afe0472556e650cb3fbf5e84bf33f51d936e807706f2263818712cef89947d9.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/687fc8d1d0e9aa37c36f1d02edeebb6211296e6990b5f6dcf90a3ef61c4b585c.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/f5810872d84cd249fda22cfe5e2fc34921327507b843f37252194229c3da6635.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8e03947e9a79d06b3698577dc354d3009bdfcac88ef1c3d973a041ff2e74f229.jpg",
+				"name": "マッド･シティ プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e64f6b56ca19762caa0b50766ddb367da646fafa489bc3b34300df99966d75e8.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "75"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ea79e67e1255883f168266cb9de1c8ba817a4c7382fe1b99463413a4c06e9645.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "75"
+					}
+				]
+			}
+		]
+	}
+}

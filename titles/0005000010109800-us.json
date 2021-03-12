@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010109800",
+	"eshop_id": "20010000005264",
+	"product_code": "WUP-N-JADE",
+	"name": "The Legend of Zelda™: A Link to the Past™",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c1a33b620c8d14af997f5e10024297b331f1004e75b8df350a6da015067d0612.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/1e6b7a402aea5ace8350ae2c4c32dc9e631ad5a5d3987fbb133f4c65afe54199.jpg",
+	"data_size": "41025676",
+	"description": "Return to an age of magic and heroes! When an evil magician named Agahnim begins kidnapping young maidens in Hyrule in a quest to break the imprisoning seal on Ganon, a young boy named Link is called upon to stop him. Link must venture into twisting mazes, dungeons, palaces and shadowy forests as he searches for the maidens and Princess Zelda. Traversing both Light and Dark Worlds, he must navigate eight dark dungeons, fighting evil enemies and huge bosses. Help our hero prevent Ganon and Agahnim from shattering Hyrule forever. Whether you are a young knight, a heroine-in-training or a seasoned warrior, The Legend of Zelda: A Link to the Past will delight!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-01-30",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/21906e6224bd7362f52c9c3b4a17a22dbe9b0f9997510756cfce0442fee36bb3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1f19339cf3707aa6c33e6770f7fb9a397080fb87c32544a4102481043c7c89b7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6ca70dedbca9a50f5dd2420f4190b686d5a9fcfa9233d51be3ce1dadc334623e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bc54bc8c704ded3c3d1d1cff6793cc1a2f1830668254b6df7b40e0e31b97359c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/20e49e2a5225cd750bdc131ad40f13e5d7394205971eb5a5d3960c8b039bdd11.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6edf8fa4126d424dcfa9cb66bf22de576100263af775821850a1d21b9192c581.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e574cec48bdcc116561219d2690cb870e987dd728e4ff90ac7ffb8478be8dd93.jpg",
+			"name": "The Legend of Zelda™: A Link to the Past™ Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0ef1cfdbb13c551045ef6de302987dec882a5170ef33e37aa75f97022cf1dc4a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/df0cd2a49b0ae700a7fe6841de33887f0e63e905a928826229deb3310f102257.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				}
+			]
+		}
+	]
+}

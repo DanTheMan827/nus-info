@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010159600",
+	"eshop_id": "20010000005706",
+	"product_code": "WUP-N-JCBP",
+	"name": "Pop'n Twinbee",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ce3ffccc5bad06bbe11421896e89d626f7a7ac3bf5269fbcc0fa5802834c9bef.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/946582a0743722cb4bb2577929521fec08315f3d2f46194ad0b825509cf3c799.jpg",
+	"data_size": "41025676",
+	"description": "Grazie alla Virtual Console™ ritorna un grande classico per Super NES™! Guida le graziose e allo stesso tempo potenti navi spaziali TwinBee e WinBee contro l'esercito Donguri. Vola da solo o con un amico attraverso sette livelli per sconfiggere le forze del malvagio Dr. Mardock. Diventa più forte raccogliendo le campane, oppure colpiscile per far cambiare il colore e l'effetto. Puoi fare anche lavoro di squadra e scambiare energia con un altro giocatore, oppure afferrarlo e lanciarlo per tutto lo schermo eliminando ancora più nemici! Questa è la versione europea del gioco, originariamente ottimizzata dallo sviluppatore per offrire un'esperienza musicale simile a quella giapponese. Il gioco, le demo e le animazioni sono riprodotti in formato PAL. Il rapporto d'aspetto è stato adattato per questa pubblicazione.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-07-10",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/139fe60660cf485bec545ab66f693a92612f399b4e9dc58f42b3c71fd365eda0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/678751b46a8832f83a1a627747a3d5bf1226fece9554615a9d899ec30178a980.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6b0c3691282f009794dbbc0add37278272690b33ed8bb82df335a784d2577dc4.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/737793d43a7ae97101ad051f38cbf466b1d3e813fe3e236ac09f85332784d428.jpg",
+			"name": "Pop'n Twinbee: video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/aafe7a4e2d0b8c398bdb4b6a662257d477fc2bceb3239f66221503a8adb7e979.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "64"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0587cbb91daa02c61105e204d3135cf20908a474c84e78165fa27550861b2a88.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "64"
+				}
+			]
+		}
+	]
+}

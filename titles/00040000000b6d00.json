@@ -1,0 +1,87 @@
+{
+	"JP": {
+		"title_id": "00040000000B6D00",
+		"eshop_id": "50010000017796",
+		"product_code": "CTR-N-JRZJ",
+		"name": "燐光のランツェ",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 344,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e3bc60c3c91e6884072107dd3364db5d386293954260b4e7996ef6ef43fd7259.jpg",
+		"data_size": "129895268",
+		"description": "高速移動や上空での戦闘などに有効な飛行形態。 クイックな動きで1対1の戦いに特化した格闘形態。 その2つをうまく使い分けて戦うドッグファイトアクションゲームです。 敵は巨大戦艦や、強力なライバルなども登場します。 そんな時はサブユニットを付け替え、プレイヤーの基本性能をカスタマイズ! 強力な敵を討て!",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-12-04",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b9c5b35816e676e9e4228f7a73b89afcd8a9efd0adba3e74f01cb0b0f445f0ee.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/fcd3bd7ac4202fcde642c9c2e4b5c56fa91a38532aa49d192621f8ae22b0c2d7.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/4c69adf8564999b0061dde79575ee38669db062e2c40dc5744b49a0589748f80.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/fa6c7309a0961fa6c3e68a1836b0022fe20feb71ccaf6b0603acfe644566e475.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bbdec726ffc68b19c358bc6aa1e0a93062b3710384720ed846835d13dc4333e7.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f2ffa76a4ed78a8cbc8d6c02311fbc6fdca4a55be6d0dc2a834992fc305d02dc.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cf2477d20b9454f16cb3082ab2beb2020612a8ac204582ae726db62705961b0d.jpg",
+				"name": "燐光のランツェ 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/198c08a3a5d9980ecad15f70f26209027fb619814d50cca49a18e8ab29b88934.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "86"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/60acbab33c1d8ccd32f8f2b935f33a0e8003ecd36d212e7b4aac0f0c9de49505.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "86"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b6e1b39b2b148a6d96baa331e438ef90d5af86dae87075e52b513e4cfe933c42.jpg",
+				"name": "燐光のランツェ プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/547b440f65a66947c76c2c80155e5e7b1956ad268944a0c954a39302c8dffc4b.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/78eaf20705d55de42af34f3bc6cb020606f638b7ac53b65af0dc91c364125adb.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010109100",
+	"eshop_id": "20010000017107",
+	"product_code": "WUP-N-JABJ",
+	"name": "スーパーマリオRPG",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/eef1f660fccafabf3873550cc664584cdf41af5221af6c8905ae59d0d4dbf87d.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c769d46e31fa053b04c74c541e1185887f3c1e6148ec8ba87675e244873c584e.jpg",
+	"data_size": "45777056",
+	"description": "このソフトは、1996年に発売されたスーパーファミコン用のアクションRPGです。 当時のマリオシリーズの中では異色と言えるタイトルですが、マリオの世界を大きくふくらませてRPGならではの楽しさをも打ち出し、その後にも続くマリオのRPGシリーズの原点となりました。 いつもマリオの前に立ちふさがる悪役といえば「クッパ」ですが、今回のマリオは、クッパ城を乗っ取り人々を苦しめる謎の敵たちと戦うことになります。果たして彼らの狙いはなんなのか? そして、不思議なアイテム「スターピース」が意味するものは……? 世界中の街やダンジョンをめぐりながら、壮大な物語を楽しんでください。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-08-05",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/64a9f326a3717615fc3befa742bd46f1a67de498fa31b0288c7ddafd702a904e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/79e0c15dafc1b150e8a77252d8e42ee83426ac119fb646a61dad7ad95cf7c47d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5b9d2359ee2e5528432f1594b9160143902937426df44a5b63ff09999bff82e0.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9229c160aebddaf7187ab2500b7dab0051334d6266fbc50f7d5105ec2e1a6630.jpg",
+			"name": "スーパーマリオRPG ダイジェスト映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/535bca7fa1a74129191ca4b398553212e50243506616b38fa306ece34cd7c884.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "109"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/84ecf099e64ca366cdb86fd03bb8b25db5c3e637a8197030ae8fe9f377c55e7d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "109"
+				}
+			]
+		}
+	]
+}

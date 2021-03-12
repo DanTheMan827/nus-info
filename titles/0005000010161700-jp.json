@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010161700",
+	"eshop_id": "20010000004784",
+	"product_code": "WUP-N-MCVJ",
+	"name": "PIKMIN Short Movies HD",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/50f9734c83ea6d27e88872d7eef19b8d660bc12000f44647c03652c1531bbb79.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a55663f1f118c7faeeb7348be04d568cf0fc2dd9cc7c25f30ef3ec8f4ea0e561.jpg",
+	"data_size": "1241874652",
+	"description": "ピクミンは、頭に葉っぱや花を生やした、動物のような、植物のような、不思議な生きもの。彼らの住む惑星にやってきた宇宙飛行士のキャプテン･オリマーといっしょに、星にあるさまざまな宝物を集めて暮らしています。普段はゲームの中で活躍しているピクミンたちですが、このたび、ゲームの世界を飛び出して、CGアニメーションになりました。キャプテン･オリマーが大好物のジュースを作る「真夜中のジュース」、ピクミンが不思議な宝物と出会う「ビンの中のお宝」、工事現場で繰り広げられる大スペクタクル「たいへんな一日」の、3本の短編がHD画質でお楽しみいただけます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-11-06",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/0e13b6b7a1cf539e3f78b35e301d5029f1f14efa2fa17cc231b0da3bd8957a88.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/02225d358e849ed767428f297c4d159b42389b0f70cab76d47a543c3ad1c1c6b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e2d3645d992c3010d241aa21d658fe7037f1d7a1841d09896ebf484165b821e8.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2b9fbcb5e8b88d65fbe04f3a3d726f56118a609a4de4b47566c52899a703da7c.jpg",
+			"name": "PIKMIN Short Movies 予告編",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cd74e520c70fdb9ff3c6f8ef2af3f8127be65ce05e40449883cea8e3643bc43a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "125"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5498f525caf0396fe6e0949aa312c1f281203b8be1450103547d08fd19d3a110.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "125"
+				}
+			]
+		}
+	]
+}

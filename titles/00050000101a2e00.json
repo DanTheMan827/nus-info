@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101A2E00",
+		"eshop_id": "20010000012107",
+		"product_code": "WUP-N-WEXJ",
+		"name": "XTYPE+ ",
+		"platform": 124,
+		"platform_device": "WUP",
+		"publisher": 1292,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/029b682e20c35e2ef8a8c371340c6d5ff0c5e1e68abbefb146d4c0b7239c4164.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/2c6b7fd4059e917aba9291052bd5ec8380ecc2e6f33bbced1c3d000797dc00b4.jpg",
+		"data_size": "77725856",
+		"description": "ボスステージのみが連続するシューティングゲーム。毎回プレイするごとに、ボスは自動的に生成されるため、いつも新しい形態となる。ボスが撃つ数百の弾、レーザーなどをよけながら、弾を連射。各パーツで構成されたボスを、そのパーツごとに破壊していく。オンラインランキングでスコアを競い、そのリプレイも視聴可能。 ･プレイヤーは弾を撃つごとにインパクト(衝撃)を感じながら、敵を撃破していく! ･次々に、より大きくなるボスと戦い続ける。その戦いに終わりはない! ･ランキング画面で、日本および、世界中のプレイヤーとハイスコア対戦! トッププレイヤーのリプレイビデオも視聴可能! ･クラシックとタイムアタックモードも搭載! ･TVでも、Wii U GamePadのみでも、プレイ可能!",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-01-07",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/cde653dd29f717e869a8452033f79bf82268869994e58c1d8521175c94a27ed4.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/791f9e64f1087767bee37b1ae0cbf116756f707d5cf81649efff1b5686c62639.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/49ce40ce0f9be19ffeb413ec8adfcf54afede47ece250bc80f12672767f90b94.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8951df87ccff1141e561ac34931c86008407a966086cc64e54c50b67202cc0d6.jpg",
+				"name": "XTYPE+ 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fc90e6eef1572cbae433c966c012af603e0eded5f41d8d4d8e4c6d4b7d8b0277.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "95"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/261d402aa52c60ec5f3f631d391398df13fa5f56bdac1925036bf76f646d3ca1.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "95"
+					}
+				]
+			}
+		]
+	}
+}

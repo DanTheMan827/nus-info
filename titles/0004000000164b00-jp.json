@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000164B00",
+	"eshop_id": "50010000031036",
+	"product_code": "CTR-N-JWGJ",
+	"name": "ガンマンストーリー2",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 1212,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/cd823b2371fd91a0265c6176d7e44c2755b03ed6add64e336395f0d73f66fc7d.jpg",
+	"data_size": "74693476",
+	"description": "『ガンマンストーリー2』は、ガンマンの「クライブ」を操作し、ガンを片手に、ステージをクリアしていく「ガンマンアクションゲーム」です。 ゲーム全体を彩るウェスタンテイストなビジュアルとサウンド、そしてオーソドックスなアクションが魅力です。 宇宙から突如襲ってきた「ダークメカニック」。さすらいのガンマン「クライブ」たちのウェスタンタウンを一瞬で闇に陥れてしまう。 手元の拳銃一丁で、行く手を阻む敵を倒し、あと、重力をあやつり(?)、パンダを乗りこなし(??)、恐竜を倒し(???)、夕日に向けて駆けるのだ! シンプルながらも、サプライズにあふれる「ガンマンアクションゲーム」です。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-03-04",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/84d1fac70ec314dc0cbaf59bbd6cce66d14a0f9ce461f758b69a68e90ad11161.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c4649d1cb6e69ec813a598931c7ff8351eb4d4f726dd128d704f891239f45c66.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ceea582da565dd69daaa5acf8c9931d69d474cd7e16f5633f365be41406897a6.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1448097066e9b6a25743a0a05e8a5609f59ba7ddcc5f5ea8b6482a5e2d337540.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c03e93adf09b0d65d23a77473a990183d721f6f02e53280d11d6315914c05f79.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c3dfb5d6d22eb97a0e3828a2341a2b402a11a3368a405c9269ad40f6f81e0fd1.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/16765585f46dcb7a91888d39ccacdf8a16736b49f450195619aba043a53e4c13.jpg",
+			"name": "ガンマンストーリー2 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bdcbac28d3ded63554585c177d3fe2f53e9b6c0e5ffb42703520e2e7dc1db6ef.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "70"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e9039001e2a527119deea84492230b22e1b421b971fed2016e773a22e13f6cd4.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "70"
+				}
+			]
+		}
+	]
+}

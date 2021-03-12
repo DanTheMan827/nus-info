@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010153000",
+	"eshop_id": "20010000003946",
+	"product_code": "WUP-N-FB5J",
+	"name": "ドクターマリオ ",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a8adf4257d30b0d59fb4bae670ed21b0285acb508c75efd56ce6da826d1f7445.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a0221993dc36f3ca70026f60ebc7922433c3e8cf985e6970dac98a8466c61d6f.jpg",
+	"data_size": "36503692",
+	"description": "このソフトは、1990年に発売されたファミリーコンピュータ用のアクションパズルゲームです。 ドクターとなったマリオの研究室のビンに発生した3種類のウィルスを、次々と投げ入れるカプセルを使って退治していきます。ウィルスは同じ色のカプセルを縦か横に4個以上並べると消えます。カプセルを回転させたり移動させたりしながら積み上げていき、ビンの中のウィルスをすべて退治するとステージクリアです。ウイルスの数や落ちてくるスピードを設定でき、自分にあったレベルで始めることができるほか、2人プレイでは対戦が楽しめます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-02-26",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/2c9015702c14cb96ed6a7f6e75ac46e20a5ee72fd88932b716dbca4bcc4f41ca.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/36993d6c40a47bdc7928298ed5ef05326f7523615d37590fe78a11bb34837605.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/041db43c5418ffd170d332723cdbcdbdb8bfcd6eb6f3f62c340fc58eca2c2dc5.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ac38190ca50230aa99d4be434b50249acd9582e2f6195c6265e4f834dc7c1978.jpg",
+			"name": "ドクターマリオ プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9efe32697b9992ce307b1753fa821bbf1c79e31226dbe968a69b6cd6e5a57340.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e6328c001c00d172db35d13053540d221950ca4696892a0e3b85d6b7776aa3c3.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				}
+			]
+		}
+	]
+}

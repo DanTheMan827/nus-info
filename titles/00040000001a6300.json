@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "00040000001A6300",
+		"eshop_id": "50010000040931",
+		"product_code": "CTR-N-KABJ",
+		"name": "スーパーアスリート棒人間",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 1292,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/bf5650a8e20b0c4cad02a7750ee786c756ea4ad63ca2b50c1da690b89b356f41.jpg",
+		"data_size": "20212580",
+		"description": "競技種目は、陸上「100メートル」、「走り幅跳び」、水泳「自由形」、自転車競技他、全7種目です。 タッチスクリーンに表示されるアイコンをタッチしたり、移動させるとアスリート（棒人間）が動きます。タイミングやタッチのポイントが正確であればあるほど、より早く進み、より遠くへジャンプすることができます。 各競技で優秀な成績を収め、全国へ、そして、世界で、あなたの国を勝利へと導きましょう！さあ、大会のスタートです！",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-07-27",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/72f37f50c2beb97578334210c52a1b49190a0d8f5fd5f75e5b67fa3965d1ff83.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/aba1cd467ab4c48630de0fe302e74b7710261bab5197f3f32d1977142debcd13.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/47e72dceb9e7c04de0b52ac6df5d48c9051a8f8f5dd1b678006a325029d6ce1c.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/66b639e7ac28f11c2df66fa4570054172a773a1772169c4cbb945bc9bdd6e117.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8a41e61f81e1507a23aa35d3e1cdc781dc508e6a508e54b3f1c9a1cc81f55053.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6294c3b2b9ed2a770e0b288384cd0255b51b3ef07796e2344178ba648a9d8864.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/25433ee5586f13cba7d8f5b0c7e676a8f2ee188fa3c778267c8b44ddbaa34a77.jpg",
+				"name": "スーパーアスリート棒人間 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2d8f1e75fd06ea43bf292c07dbb4784021052ae9cc3bbcb26d862d584dbe316f.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "95"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0a81c5ad5eabe7e5be11a95498d704f11e87a166ce33a54455f38b18af3c2ade.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "95"
+					}
+				]
+			}
+		]
+	}
+}

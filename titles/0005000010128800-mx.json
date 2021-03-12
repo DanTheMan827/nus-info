@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010128800",
+	"eshop_id": "20010000000884",
+	"product_code": "WUP-N-ANSE",
+	"name": "Need for Speed™ Most Wanted U",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 69,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/36372bde4455bc1668dd5e70c4edc4ab4e8293ca1cef3225a4f340a8a9ad5238.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f23f2c3d294bc57d3ab5a1b712132bd9173165d004ba2d2ca31890935096e7c0.jpg",
+	"data_size": "6429508224",
+	"description": "Need for Speed Most Wanted para Wii U, aprovecha las funciones únicas del Wii U GamePad en el \"modo de copilotaje\": ¡tus amigos juegan usando un mando de Wii mientras tú activas Turbo U, ajustas la dificultad de la policía y cambias de modificaciones usando el Wii U GamePad para ayudarles a llegar a lo alto de la lista de Most Wanted! El juego de pilotaje del año 2012 incluye un completo juego en línea, Fairhaven con su mundo abierto, conectado y social y, por supuesto, los coches y persecuciones policiales de Most Wanted.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-03-19",
+			"retail": "TBD"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/53195dd6baf597dcd039e52e94799b1b4373983bfc23d93012caa1621918addf.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6f06503e1fc13b7030f4333558832dd2c7d0fc30b4fd979fa18574a85cd50b49.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3ee4c7ea209a5d434c30525616315ca24c2568831670fe569603b5432739ab3d.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/881a106b587843cc9e549ac3ac41062eb8584f5903c4debc3e412cd406be3cfd.jpg",
+			"name": "Need for Speed™ Most Wanted U Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b085b4a3b145134911423308c3febfd936552ce1e9fdd5cf6cac49a40a7035cc.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "73"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f869440f27016277072a69c0a057270583895471c792fc0ce528312a3b4c049f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "73"
+				}
+			]
+		}
+	]
+}

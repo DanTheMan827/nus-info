@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101D0D00",
+		"eshop_id": "20010000022347",
+		"product_code": "WUP-N-PDHJ",
+		"name": "グランボ",
+		"platform": 168,
+		"platform_device": "WUP",
+		"publisher": 39,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f36e3b9e5fa94fe1efd3382a5ef9c43f349a2d7812fa8d16acefb6859f97dc8f.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/dc581be098279c16f6a7d253609071c4291c5f8444bff1cf791e64e43140dbd3.jpg",
+		"data_size": "75071628",
+		"description": "このソフトは、2001年に発売されたゲームボーイアドバンス用のロールプレイングゲームです。 「グランボ」とは、いろいろな生き物をもとにしたロボットのこと。そして、そのグランボを使って平和を守るために戦う人は「グランボセイバー」と呼ばれています。 この物語は、グランボを悪いことに使う悪の集団「スカイシャーク」が、主人公の住む町を襲ってきたところから始まります。 グランボは、ベースとなる「メカエッグ」に、グランボのデータを記録した「データボール」をセットすることで使役できるようになります。敵のグランボを「ハント」すると敵のデータボールを奪うことができ、入手したデータボールをメカエッグにセットすれば、そのグランボを使えるようになります。敵の属性との相性を考え、うまく「ハントゲージ」をためることが、ハントを成功させるコツです。 また、データボールは別のデータボールを組み合わせると、進化させることもできます。進化することでしか登場しないグランボもいるので、さまざまなデータボールを集めて試してみましょう。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-06-01",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/55d2be5a055dde9f70382989ad4c18d5cb9cfff9022f5b9ee8a5e2a85a7cc148.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/fa1669cf572c2022d8700267734c7470153cefbba6f2953edf6c1abd62a0d9ee.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/144cfd61b620e328c8541aa593d699698a5599a7c0687a5f2d23fd5d668f0b52.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3e6db12eeae46960c9365ac21e7ddaaa262c38cf2a1d8592c6341239e396014f.jpg",
+				"name": "グランボ プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/daa3c6cba3cb80e139c1199310e23448bcb14532a7d4fb3424ee7504373ccc6e.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "67"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/81a27252691883b7f78a86a0a41510309a821cb28b87863161ca24955d2c1b1d.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "67"
+					}
+				]
+			}
+		]
+	}
+}

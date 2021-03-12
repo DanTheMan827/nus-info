@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001014A300",
+	"eshop_id": "20010000003204",
+	"product_code": "WUP-N-FBPP",
+	"name": "Urban Champion™",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f206021cae3b4b9ef27fa7d31ad53152647f9360ae618e60cfff1ffd808208b5.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7dd2f0bc579873ad140a9456402b7cb9c305a7a62d260a9e44bc0f02affca96e.jpg",
+	"data_size": "36503692",
+	"description": "Bist du der härteste Kerl auf der Straße? In Urban Champion kannst du zeigen, was in dir steckt. Blocke gegnerische Angriffe oder weiche ihnen aus und dränge deine Gegner mit den Fäusten zurück, bis sie in die Kanalschächte fallen! Darüber hinaus musst du dich mit verärgerten Anwohnern herumschlagen, die Blumentöpfe von oben herabfallen lassen, und es vermeiden, ins Visier der Polizei zu geraten. Kämpfe allein gegen computergesteuerte Gegner oder miss dich im Zweispieler-Modus mit einem Freund. Wenn du diesen Titel bereits auf deiner Wii™ erworben hast, führe einen System-Transfer von deiner Wii auf deine Wii U™ durch, um ein Upgrade-Sonderangebot zu erhalten. Hierbei handelt es sich um die US-Version des Spiels.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-10-17",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/6d60c0a420b29628e7842849bc85b0720e975eb1d521ae12a11eb8c1541c2623.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0a9535634d1bc2cb0369cff0b57180042b153846076c9cdc7c693ab6601e4c99.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/64347e28b0a47b21416fb4efb48683c2e01eb3462ee3b249348d4f0f87532772.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e95cd2f4fe4b95e597447bf4d9100752aabd4c89029cfee47570d6fdd60e9d1a.jpg",
+			"name": "Urban Champion™: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/86710cf492f139b94a3bc2485bfa7c611af64c6c953f2a648a9179801fec2f7f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9328e35b993bc2e216600b6fd8982e19cb226471acf522d94401efaf4f185d91.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "50"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "00040000001BE700",
+		"eshop_id": "50010000043021",
+		"product_code": "CTR-N-KNDJ",
+		"name": "クリスタレイノ",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 146,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/555de8c9ab579fc444e21fec664c2a86e46abaab80598a0a7d47b8196db36699.jpg",
+		"data_size": "67152740",
+		"description": "立派な勇者になるべく、剣術の師である聖獣エッポルとともに修行に励んでいた主人公。 しかし、修行の帰り道で謎の光に包まれた二人は異世界へと召喚されてしまいます。 召喚先の王に魔王討伐を依頼された主人公たちは、自分たちが置かれている状況に戸惑いつつも、元の世界へ戻るための手段を探しに旅に出ます。 勇者として召喚され、魔王を倒すことになってしまった主人公とエッポルを待つ真実とは……？ パーティー編集や、職業によるキャラクター育成が楽しいファンタジーRPGです。 敵味方ともになめらかに動く戦闘アニメーションは必見です。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2017-08-02",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/9d8ee795cd7df7be167339f8aba024897d8d296914520d5c67c7d141dfe5e8c6.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/76a5baca4efc75ca0e4e0f5ce5f6dfd5d1e8fc3eb53bc46f82dd685ebfc57210.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c05de56839de1b950bd487629c0411ff2d53cdc2f233ec789e515f7c4cb44bae.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/621f8df8defc41f209edeaf46499030d3c5f09c195271e0779b47ee3b9cf6ca9.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/41d580d80901c1c27ad8c5c14bf00baded364aeeaf668191b8bf760c2d647ab4.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/64914fe56601ce5ef031a263f2ee6ba38246a993197e7c1276ccb6c1dbf81253.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/901cd8ccea60365a85e4d579d9e69c21dfb4d8b4da22aa31f52997268c2837fb.jpg",
+				"name": "クリスタレイノ 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ef07cca09a370224e051b60a5b092759e18bd231b1958604126626dbecec228b.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "58"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1c12ff25d7c090ad41b51f354d76ad64d40d778631c42ecf13a16c0cf2535d47.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "58"
+					}
+				]
+			}
+		]
+	}
+}

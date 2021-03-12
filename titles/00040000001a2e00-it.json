@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000001A2E00",
+	"eshop_id": "50010000042050",
+	"product_code": "CTR-N-KRJP",
+	"name": "PictoPosta™",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/fded8023371ab0daea44a6dc8dada8343c70b442f52bdd60299ac34b8b74793e.jpg",
+	"data_size": "21408612",
+	"description": "Scopri un modo divertente di comunicare con i tuoi amici con questa applicazione scaricabile gratuitamente! Scrivi i tuoi messaggi sul touch screen e invia le tue opere d'arte agli amici vicini e lontani via Internet! Gli artisti in erba possono anche acquistare delle lezioni aggiuntive di disegno basate su personaggi e serie Nintendo come Mario, Zelda e Splatoon. In questo gioco potrebbero apparire pubblicità e pubblicità indiretta.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-11-17",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ac8e63ba95f0e210913fd1f68ccecc31496bef6c12631d7ff6af80b0d7bed58a.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/80fccce077dde0c3e2a35774c2d6e2f053d9650298e1953bf9f546f06a0fc78a.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/70d410fcfa1c122a17253496e5bc23c6b93ff09b9e92fbce9465af5c40a2e07b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/651ad4070e3bb1b67ae4a384014a200d49ef69c4efaab801582074ecd35e3484.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/678faba3fff87386173f70d6f8c9bda9e3755cb531d07f14f7f91ef01989643e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/792be69e29b540ac9a19af603b43035b545bb99edcc1daa4e884c0198e73e27b.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a08e5c790af3834ff07a8ed1489ab2bec331f8b5a7722a23d1b486b1d3741191.jpg",
+			"name": "PictoPosta: trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c59269cacdf20669363ede26227baa17eb0b47a9dd6474a17db559fa1bc519f9.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "91"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4cc2fb962764056f5ae67b8b5bba4d16fb3586cebf99da9c205c401763ee822b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "91"
+				}
+			]
+		}
+	]
+}

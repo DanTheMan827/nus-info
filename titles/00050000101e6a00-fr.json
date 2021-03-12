@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101E6A00",
+	"eshop_id": "20010000022227",
+	"product_code": "WUP-N-DA6P",
+	"name": "Nintendo présente : La Maison du style™",
+	"platform": 169,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e73d1df9c292bf78ad11c197ca61071a56d7297c7bc3212e07378832b1c94fcf.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/efac6dcbeb70c8b0f56d547fe881b644bea82736ac0adcf685a7c3251aee2f1f.jpg",
+	"data_size": "136347768",
+	"description": "Dans Nintendo présente : La Maison du style, votre mission est de tenir votre propre boutique de mode en tant que styliste, de sélectionner vos propres collections, de participer à des concours de mode, de choisir de nouvelles tenues sur la boutique en ligne et même de jouer contre d'autres stylistes grâce au mode multijoueur. Vous commencez au bas de l'échelle en tant qu'assistante dans une boutique et vous pourrez ensuite évoluer en conseillant vêtements et tenues aux clients. Comme chaque client a son propre style et sa personnalité, il vous faudra faire des choix judicieux pour réussir vos ventes. Vous deviendrez rapidement propriétaire de votre propre boutique et vous devrez faire appel à votre créativité pour habiller les mannequins, établir votre atmosphère en choisissant la décoration et la musique, créer votre communication promotionnelle et décider quand faire des soldes. Chaque vente vous rapporte des fonds supplémentaires qui vous permettent de compléter votre collection.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-06-23",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/2d18ec3ce8b08b43d39a3e1f9c3de94fb7e01f564cddc3319a1d0ab057a70559.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/987fb8c1592debb0b0c863c2dc98b702aa9f403827503fa64848d6e69c1632bf.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/31b76163ad3a1a9514a0c8f82fce16ac9ac7b2182e6a91ddfc0223238f09c4d9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8dc06370fbf5753f07db183c663fe85114e102252658f90ecca9fed83bf90fa3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/75174c3447e05ea6d34ac28469d0e8735f93ef05251e0bb65592b753cef5d954.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4ac577261efcf56541dda0626392842388a6f62aceda1e23c909408de86858eb.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c55518d89c59b59027fdb870a7dfe4455739b9c62841adb6d4c6cce16a51f401.jpg",
+			"name": "Nintendo présente : La Maison du style™ : vidéo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/93af866d1b3e1d31a3a921585b51dda4bf37991d76c26e8e2d95aa309328c9a9.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "75"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8adb0ac066220128ac40df014470e0c3caedb08549d309f180668d2a85b0b19d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "75"
+				}
+			]
+		}
+	]
+}

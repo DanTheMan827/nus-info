@@ -1,0 +1,84 @@
+{
+	"JP": {
+		"title_id": "00040000000E8C00",
+		"eshop_id": "50010000013913",
+		"product_code": "CTR-N-JWHJ",
+		"name": "魔女と勇者",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 1212,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/fffa55df124dea46e617da5053c2e458828320a31e0d5e47bbd5564bd2a2f320.jpg",
+		"data_size": "40373092",
+		"description": "『魔女と勇者』は、メデューサにより石に変えられてしまった魔女と勇者を操作し、敵を倒してすすんでいく「8Bitテイストアクションゲーム」です。 レトロな8Bitテイストのイラストとサウンドとシンプルなゲームルール。誰でも簡単にプレイすることが可能です。 後半のステージでは敵がわらわらと大量に出現し、それをまとめて倒す快感がハマります。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-04-17",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3a4b942b7ed3bb0a176ea941c631b74196a145a17c43c51ec3130f711659bec7.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e62ee537081349cc926c46cabaea7d0cb6f001c83f63feccdd2ec21d3a375956.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b6d859846d93377f19da8b34514048cf42fcc5659938ac5ce452d99ec8c2a44c.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0fd268eb96d966e73d7171428fb8a29b8ba0cef5451e38f2df9f451143c0e733.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/aa7cb03efb16483ce60f2006abb948884d9a7bb4a80c0a57c47cf62c2228d45c.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c0c731188c61d7b65e0382936657e5f2ed43a6291a8556b49791ec9b3cb2995e.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fab490e704bacd38dc7dd5f1c2fd2a324c04d82475aad529319ff56bb8d6a12c.jpg",
+				"name": "魔女と勇者 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ec2b12d1f95d6a57e4eca1fc50b09066efedf40780669917397595baef988e2f.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "122"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1f39b30b7dc34c0eee8bc35e2020a1813f03c205eab913fdb09d8281ba88eeae.jpg",
+				"name": "魔女と勇者 紹介映像2",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ac22d194674b4c7a8d377b90f681441bcd79712e9eef5f30737d76db2a74b95f.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "150"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fbbae3cfc3e44c3dff0f81ebc713685b8bff48d18ad9ce74ff6e09d9c60af48d.jpg",
+				"name": "魔女と勇者 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a1512b8dd203e10d0c5e7c8caf89a7620bc26efb4336a3fe266c9350cd8dc2a8.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "49"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000012B500",
+	"eshop_id": "50010000024637",
+	"product_code": "CTR-N-JVRJ",
+	"name": "@SIMPLE DLシリーズ Vol.32 THEバトルロボ大共闘スクランブル",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 57,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a2cbc98acadb9540f22a55dc15ceaad9251366d3614e4acc1300dc753afb7ce2.jpg",
+	"data_size": "49757028",
+	"description": "ロボを操作し、ステージ上の敵ロボを全て撃破していくロボットアクションゲームです。 7種ある武器を入手･強化していきながら、全100以上の多彩なステージを制していこう。 操作するロボは3種から選択可能。ローカルプレイで最大4人までの共闘バトルが楽しめます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-08-06",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c66528e76bf9d9fb0a6f1d05a47a0e518926f851f93699c5a1fdc1b059fc2b30.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b5ddbb1e5c4026ef4ce0c3179103917ec1d33cf158a12daba70b67a3fa78ac50.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/cc95811a36527bdd112b566da45200561c79e338a618302f204e939a861e0524.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/70dfdff33d53dde52869ce34b383b0bb5a598edd5f72d03d000c65472b010aa8.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7d1dea83e58c0985e97f9bfdd3f258e12cec171f76568f7c14e45c66e0a3b098.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/41d4fa4fa8a43b61b155795ea3ab86b6ca6268de8a8acc42ed06594c945261ca.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/de48cfa4f281d05f4243f3f5e5fb7a4c6a6192978333e55ec60bb3f932b172e6.jpg",
+			"name": "THE バトルロボ ～大共闘スクランブル～ 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1c09bacccf303c9335a4e946338e647dc989984a0e9780ca571e421a743aab76.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "82"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1a36d228a8a190db0f38def7e7064de9c907cb2fd73dff865fb63d7d7a9963bb.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "82"
+				}
+			]
+		}
+	]
+}

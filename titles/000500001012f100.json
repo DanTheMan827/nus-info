@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001012F100",
+		"eshop_id": "20010000003284",
+		"product_code": "WUP-N-AWSJ",
+		"name": "Wii Sports Club",
+		"platform": 124,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4a00eea3e38d965c7ca0249f31f6b95d74d63c8cc075f85171bcf6ab1784afc1.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/35b909c6bfe150b1284c7cb8e8214595448fb1ed9b999b540ddf3276d3f98d69.jpg",
+		"data_size": "41156748",
+		"description": "2006年にWiiで発売した『Wii Sports』が、Wiiモーションプラス専用になり『Wii Sports Club』としてWii Uに登場しました。より細やかな操作に対応し、インターネットを通じて全国のプレイヤーと対戦できるようにもなりました。 はじめてプレイするときは、「体験入会」として24時間無料で、すべての種目をプレイすることができます。 ※はじめてプレイした時刻から24時間です。また「体験入会」ができるのは1台のWii Uにつき1度だけです。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-10-30",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/1c077df83f9a4a508f5f35e46b3b1f0efcf3997166229481b7c8fe4899f6b95a.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/be55c12f5116292bc75217c853f014e7e73dd8e04d52866ac7f53407ddf65016.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/dcbea839c65ed52449e34ac5146e56cb9074ece2060a3d3c5e5f2054c6ace866.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d9aad55ddfd5f6f0e1efb278e9505355e91b5a6cd68183f66673606b43a7637f.jpg",
+				"name": "Wii Sports Club 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/518eba5641501bcb1881d0b3d898823b79b5c26ee56f3de4058f4947f956c3d1.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "190"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cf042a8f6e7dc3ad0baf1f9127805df8a3a31fcc60821e09c40b295af86f2e6c.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "190"
+					}
+				]
+			}
+		]
+	}
+}

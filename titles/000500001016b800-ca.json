@@ -1,0 +1,53 @@
+{
+	"title_id": "000500001016B800",
+	"eshop_id": "20010000007668",
+	"product_code": "WUP-N-FCZE",
+	"name": "Pac-Land",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 27,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/148a9d12f2ef32fd0d6450dd475ec4d75beceb130eaa85622e862c277e1bc60f.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e51389a7f6c76080c134544bd5a160c1c9aa0a3a61f887f9231ab02d21271179.jpg",
+	"data_size": "38699168",
+	"description": "Take control of Pac-Man on his home island of Pac-Land and try to help a lost fairy home! Your journey will take you through towns, over rugged mountains, across dangerous ravines and deserts. To make matters worse, the ghosts of Pac-Land will stop at nothing to stand in your way. Once the fairy is safely returned home at the end of the third round of each trip, race back home to clear the round and proceed to the next! There are a total of four trips. Can you complete this fantastical rescue mission and make it back home just in time for dinner?",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-06-10",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/cff721dd4824271bc958e074103346c80a0f6b78fc9d92133ec4ae9f222f086a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b401ed90022f87229551bd206a57a18b7bdf9e0f2afa1031ff64486c66de9c62.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0b12797dac0eb2ba8d4afd41c6e7c7963b6d705920ac4a9caaa110217b96fb98.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d0597f24a23a308b6d67c8c0057d029ec7c182b2307d33664e8ad341886f2882.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9abdcfed049ecabea9d98b878241b41c0b916d2e9667f35642240108d4def314.jpg",
+			"name": "Pac-Land Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7ce8c732f2ace40f6c52c2dce5e23fa1f2927e515cdfb2ac1014d23641611375.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "27"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/af3705228f6039a444e3053381c1b14ae753b970811cdad7e0a8fc86bca7a0cb.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "27"
+				}
+			]
+		}
+	]
+}

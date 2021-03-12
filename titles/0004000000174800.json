@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000174800",
+		"eshop_id": "50010000038515",
+		"product_code": "CTR-N-BGLJ",
+		"name": "ぐでたま 半熟でたのむわー",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 222,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d5b6e5ac10123b7449f7359ed26f7bbcd3a0bc00dc0e2df50a57ba0eac0e2813.jpg",
+		"data_size": "77826916",
+		"description": "ぐでぐでやる気のないたまご「ぐでたま」のお料理ゲームが登場です。 パズルで食材をあつめて、お料理ミニゲームで楽しくクッキング。 レシピはなんと100種類! さまざまな「ぐでたま」を生み出しましょう。 ★アニメでおなじみのボイス入り! さとるくんと「ぐでたま」のボイスを収録しています。 1日の運勢を教えてもらえる「きょうのぐでたま」は必見です。 また、さとるくんと仲良くなると、おすそわけをもらえることがあります。 ★パズルで食材調達 料理に必要な食材は、「ぐでたま」のイラストを使ったパズルに挑戦して調達します。 見事パズルを完成させると、食材と一緒に「ぐでたま」のイラストを入手することができます。 ★お料理ゲームでクッキング たまごをわる、やく、きる。料理の工程は8種類。 レシピとおりに作るか、勘を頼りに挑戦するかはあなた次第。 ただし、失敗すると「グレたま」になってしまうので注意が必要です。",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-12-03",
+				"retail": "2015-12-03"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/cd32080f2e65a1a4a070bee3e05a4130ebd91c66e4f71797ec5c0be5a7de713d.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a89330de35d77aa8e316a642748e251426fda93dfb60024387be6bd4c9d6d202.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ff244b2df50c958264456c9005400a1d3bd8395b2258687b891eaf83a34b7b20.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2c3dbc65729dfedf12eeb102fb43e8f808593ae43b7fc1eaeae60985fdf94cc8.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bc41a9a8a54b18601c3c8bad239ffa123cf12075f3b3710d0f0f2f2268a75261.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/89aeca2825d53103c4f5e7cea7d60c6389e6b3a9230e36ba0b2ce9e008495c34.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1f128a59c8a16650cdd628ce78eaeea5f8375e47009a5146092a5c6c54b96485.jpg",
+				"name": "ぐでたま 半熟でたのむわー TVCM",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a24ac7a143ad8ed4a7d3b0883e1a27a7e08c84bd380e0bed908db7a73b3c05b4.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "30"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d8a25948feb59d69b63988ea325797de94ec5f816229d9001c3f344d15467878.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "30"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010107B00",
+	"eshop_id": "20010000000906",
+	"product_code": "WUP-N-FAEJ",
+	"name": "マリオブラザーズ",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a087eb3cef7d931641f751e0a6b1cf6bddc24b7ad73b5ce4634443c68ec5ac9d.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/1430ae13706e50eed67443ac0305e77d3fdc3a3dd9489532752ddefe47ac2ad6.jpg",
+	"data_size": "36536460",
+	"description": "このソフトは、1983年に発売されたファミリーコンピュータ用のアクションゲームです。 マリオやルイージを操作して、パイプから出現する敵を床下からパンチし、ひっくり返ったところを蹴り落として退治します。2人プレイでは、協力して敵を倒したり、邪魔しあったりと、いろいろな楽しみかたができます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-05-29",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/d6023666ec2edc2f2ee5bd502e164c6946cb02b438e6bf79a20639b42fed1252.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3c1add093595674a1e905b3c34c0e94f9fde485facdb74154042a7b1ab7fdf25.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/033438d181bb628c5ed9809f1e305d1fbe7743aff4137f3258e75fec84fed731.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21f9835c992775f33d840ae0677f524ea5deb5040a5ff3feaaa8840070dc3c16.jpg",
+			"name": "マリオブラザーズ プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/002b1ed65938d311251de7bb9c5137f265a6353322cf9d0365016462fbdd073c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "43"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2dd981d7726fcf118010a2eb039ab2260a522e19ab4ef8cf7f491229f966612d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "43"
+				}
+			]
+		}
+	]
+}

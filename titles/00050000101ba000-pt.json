@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101BA000",
+	"eshop_id": "20010000023847",
+	"product_code": "WUP-P-BSJP",
+	"name": "Severed",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1300,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/02db80848967cd9eee6492cc45453081e50b693e64295aa15385ed3dbea363ee.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/193e66a9e4dc874af713d9b705114cd07fa6505fee05e29f27a7dff068a3b09d.jpg",
+	"data_size": "268140684",
+	"description": "Assuma o papel de Sasha, uma guerreira de um braço só que, empunhando uma espada viva, sai em busca da família em um mundo repleto de horrores. Com comandos acionados por toque, você poderá resolver quebra-cabeças, descobrir segredos e enfrentar monstros perturbadores. Ao longo da jornada, você poderá desbloquear habilidades novas, evoluir e desvendar os mistérios de um sombrio universo de fantasia. CARACTERÍSTICAS PRINCIPAIS: • Combate em masmorra: Domine técnicas de combate defensivo e ofensivo para sobreviver às intensas batalhas. • Desmembramento: Supere seus inimigos no combate e tenha a chance de cortá-los em pedaços. Ao usá-los, você adquire novos poderes. Se consumi-los, você aprimora equipamentos e habilidades. • Exploração: Avance pelo desconhecido através de caminhos ramificados, usando sua esperteza para evitar perigos e resolver quebra-cabeças. • Música: Trilha sonora original da banda YAMANTAKA // SONIC TITAN (indicada ao prêmio Juno), com participação especial do grupo Pantayo.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-09-22",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/9f43aa19540baef4f6daa2b7c3012f70a1b94f462a53acce8766891a343867d5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3fc6afc36cc4615350d4de2d7d3d7fca8654882dfcbb7a97b1b17f9e13ad8aa3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ae5576ab6a901d9a523219e41fc605044ce5b4685ac252c80c36a7cc2ec357b6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/925cf50511700fa4d765ce9709acdb0a06633d1c2658231b0a75afb2251500ee.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f24848b4bc99216c8dd377cdec90f83aeadaedd90f20612b3cfb28f780c865a7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b334dff4a3e4b3b7d42570ee6dfe0e48fdd687ee470bb949deb5346034129df2.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fb6a853321e6ca7c0b93297f6cc91c6d73944fa6b002b192964c604adecb30e3.jpg",
+			"name": "Severed: Vídeo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/72f347c9fa5c6ce7eebbd406d546de40d9493f75e7b675d43d9fc177e8fc4d5b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "75"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/33c5980a1742eae0a89da35a311dc97bc97ec33df0b185e78cd208e41a1fd893.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "75"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001018B400",
+	"eshop_id": "20010000011066",
+	"product_code": "WUP-N-FD6J",
+	"name": "もえろツインビー シナモン博士を救え!",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d3b4de15617364734ff82dd278c1bb6bcb71e708551a07f8d398a195ab55e508.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e56a97273362ed7ab2b9a04cb293a2218193807f7c873f229e2eacf27eb2c8ab.jpg",
+	"data_size": "38863008",
+	"description": "このソフトは、1993年に発売されたファミリーコンピュータ用のシューティングゲームです。 『ツインビー』でのスパイス大王との死闘から100年後、新たな敵･ガトランティスに連れ去られたシナモン博士を救うため、博士が作った戦闘機「ツインビー」と「ウインビー」を操縦し、敵を倒しながら進みます。本作では新たに「グインビー」が加わり、3人で同時に遊ぶこともできます。 『ツインビー』は、戦闘機がつねに画面の上に向かう縦スクロールシューティングでしたが、本作では横方向にスクロールするステージも登場し、2パターンのステージが登場します。進む方向によって操作方法はもちろん、敵の動きなども異なるので、面白さも2倍味わえます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-10-28",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/453273e3fcc73aeee625a4bb6a0053fc0f94ef7c1a7d845dee63ab03b35a506b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/79222f18401cdfbb2aad840f460b1607fb69684dce443abd3187f50c17e6a3a2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d7f7adbd9d5a7abcd736849e3db6c10badd4ed0924d03ed8da97337e1e3b6e40.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0070140b4b87ef532dd5a2fe8abc5becad5d21943b2d0ca5c6496ab8b8b82b05.jpg",
+			"name": "もえろツインビー シナモン博士を 救え! プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e5a5fcb1c618b7a3813631f92c421853f7e0d9ccb9412a1e5f1aaaff5ce74ffe.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "64"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/711bfb00a458ddf099bc824168cf79e1a858171210ff7581a76b37db4bcb9657.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "64"
+				}
+			]
+		}
+	]
+}

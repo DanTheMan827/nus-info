@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010140700",
+		"eshop_id": "20010000001504",
+		"product_code": "WUP-N-AJSJ",
+		"name": "インジャスティス:神々(ヒーロー)の激突",
+		"platform": 125,
+		"platform_device": "WUP",
+		"publisher": 483,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21e2d16db6b193683804553b91c70be8c960acb2921ca1c8d2a2b7339a56c537.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/822843d66087b85a496554ad7fe106ed4819d681510d7386724f8a05519b4c83.jpg",
+		"data_size": "7414645416",
+		"description": "バットマン、スーパーマンといった有名キャラクターが多数登場。スーパームーブ、その演出にも注目。車やビルなどを武器に変えたり、敵を投げたり、打ち上げたりしてステージを移動するといったステージ上のギミックを使って闘いを繰り広げよう。日本語吹替を収録し、DCコミックスによる本格的なストーリーを堪能できる。 ",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2013-06-27",
+				"retail": "2013-06-27"
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/9d1c933e7cb8d34394f5b3dd477535b8884971bca1f5135a8917310a6bec3674.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/230b9c1f0656243bb1b27565d75b88ea42477b0b8c17ca07387111544e54fecd.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/6320f65e209eddf3d49514203cc6f8b2af6c4376623fa73930d98fb6f3358d0d.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a5492edfdb759096922f9ebc399404c1d522c9b718b95628ef06a5c34359e371.jpg",
+				"name": "インジャスティス:神々(ヒーロー)の激突 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f7ce8e6cc6e53a1a133fa4e23a416f0183e2a47ec0194ad011c1b905e00629cc.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "120"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/681aea86e990aa197582cb36e3e2e05786f3d9d0f27150a76d5060e0df62cc6d.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "120"
+					}
+				]
+			}
+		]
+	}
+}

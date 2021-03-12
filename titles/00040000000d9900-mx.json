@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000D9900",
+	"eshop_id": "50010000014352",
+	"product_code": "CTR-N-JDME",
+	"name": "THE STARSHIP DAMREY™ ",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 456,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/270e0854fb83c47fddc60a4c2e8a3a11acc391edaff94918bf858d1d491593fc.jpg",
+	"data_size": "113228644",
+	"description": "Kazuya Asano y Takemaru Abiko, maestros del suspense, aportan un nuevo enfoque al género: los jugadores descubren un temor nacido de la inocencia. Al despertar te encuentras atrapado en una cápsula criogénica a bordo de la nave Starship Damrey, sin ningún recuerdo sobre tu identidad o sobre cómo has llegado hasta ella. Sin tutoriales, explicaciones ni pistas, el juego se ha creado con la intención de que la exploración y la experimentación sean una parte integral del juego. Una verdad inconcebible aguarda a aquellos dispuestos a descubrirla. ¿Te atreverás a tener esperanza? ¿O será la desesperación quien reclame tu mente? Desvela el misterio de Starship Damrey para descubrirlo.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-05-16",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/584b6b91f450f92c2b5b6d404dacfd94b0a940b409cbf5d43af84776199ffd7e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/3382e20da837433d0d76c534d5f1e46a6e1d5a533d901a3f08f17350b8d8537d.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ddbc67c8f959dd4b5c88044ecf7a8163241d78c43b2dd6968a0157e72a6efd83.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f837a5958d3aa4ff72c0a2d79f6e4c2837654d177acdb94e6653b55cfd354850.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/809b0ea19cc0bd52057e64e1714e77c41bbb55d21a63be82df8579d02c0a8124.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/629504dbe9b532a59ff6b032ae3cc74b4f0ac23139b12115f1a80fdc299c10ba.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fcf1ec80d2f6635aac1958cd2f2d94e6b974e82567cd17cbb5381a64e89edaea.jpg",
+			"name": "Avance para lanzamiento THE STARSHIP DAMREY™",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/66e3e7ce658ff4d62d74b3984ae24fdb2fb261b959aa744d46d73fc9068b309d.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "126"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/903fecbca7f94e9493e937fce6559b44eca2e87935319bc5f7c5b9cc8cac443a.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "126"
+				}
+			]
+		}
+	]
+}

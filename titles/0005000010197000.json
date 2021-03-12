@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010197000",
+		"eshop_id": "20010000011909",
+		"product_code": "WUP-N-PB3J",
+		"name": "逆転裁判",
+		"platform": 168,
+		"platform_device": "WUP",
+		"publisher": 39,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5050d06b07bedbec8e061b3379f1c8613e15bfcb9c42996659506a753d4bfbda.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/25cc1ee3889bb9911b85da5e936ea6a87cfa80c6fa92f579a938935931fd61cc.jpg",
+		"data_size": "72122508",
+		"description": "このソフトは、2001年に発売されたゲームボーイアドバンス用の法廷バトルゲームです。 プレイヤーは新米の弁護士･成歩堂龍一(なるほどうりゅういち)となって法廷に立ち、無罪の罪を着せられた依頼人を救うべく、事件の真相を暴いていきます。 犯人に罪を着せられたり、運が悪かったり……。主人公のもとに訪れる依頼人は皆、有罪になってしまうそうな人たちばかりです。 証人たちは、さまざまな理由でウソの証言をします。しかし、ウソはしょせん、ウソ。そこには必ず\"ムジュン(矛盾)\"が生じます。証拠品をつきつけることで、そのムジュンを暴くことに成功すれば、逆転の展開に! 個性的なキャラクターたちと独特な演出で盛り上がる法廷バトルを、じっくりとお楽しみください。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-11-04",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/9dc3a8aa3e35602887c2eb82698cf5b5763198db1f8736227d77c97820d86cdd.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/0bfc7a1d4cc0e80715115e647fc4f6a4a78508a2fe17aa0bfc494f2ad1c15fb9.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/0ef40ba64318f5d3150e6b5c2631741697e0693965e32a48dad7731a0fd2ce8d.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/643a930262f56232c53843f6d15189832a1220a84e56d6ff285b8be29ea7840d.jpg",
+				"name": "逆転裁判 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e1d250a41c8ca4bb671570bf0e2b8129bf2f8353d59ea0e87c2d46c3374255c5.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/34dba9975c769946e46f41084155ef86e8696e9ea0f3f04f9b5abe6757dc15de.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					}
+				]
+			}
+		]
+	}
+}

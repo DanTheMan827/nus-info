@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000121E00",
+		"eshop_id": "50010000028975",
+		"product_code": "CTR-N-JZQJ",
+		"name": "ゾンゲリパニック ナイトメア",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 114,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/eefdc2b9daccde0fb0f3ee649247be8c5eaa77a082e1965c898a3dbe287d581e.jpg",
+		"data_size": "45042532",
+		"description": "『ゾンゲリパニック ナイトメア』は、凶悪なゾンビたちを倒しながらゴールを目指すパニック ゾンビ アクションです。 さまざまな武器を駆使してミッションクリアを目指しましょう。 武器や装備はショップで購入し自分好みに強化することが可能です。 最大4人までの協力プレイを楽しむことができます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-12-24",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c6519728e28f4a5abb51674e27854f0783da7ef9f6c9c84b137110823d438ee1.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f796c7b6bd59553784c03854c75da523f0bf91612bacc02e4f9a6f8e19cc0430.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/15481840f19cfeaf1af717147449dfc15385fbc181b1f685b14def15bb02b248.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/cdeb912fe6a990d5e9c545c1a9e03f71e435ad3607509f94e680b6ba199ee018.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/86f6e76e1f941793b0a84e2af8cd0787111cd37c3f10b0316d35ea2949061215.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d770c494ea26bf1c38ba10437f97d93d97d2a1bf8f82ee47fc77464ba54598ca.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4dab47d81c15d5b6fe3a92bdcd11613cbe71ffdea44937dc275e113b60aeb830.jpg",
+				"name": "ゾンゲリパニック ナイトメア 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/eb86ba80a9af563651b2a5d9a99826080f8a7185b1cfe4d2998c6e3355b14bd8.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "175"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e4141cb13609cca6a1bca8ab70beea915318cb344d0ece1bf789a5f2457cfddf.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "175"
+					}
+				]
+			}
+		]
+	}
+}

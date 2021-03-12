@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "00040000001C9900",
+		"eshop_id": "50010000043044",
+		"product_code": "CTR-N-K9PJ",
+		"name": "お絵かきパズル Pic-a-Pix",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 1292,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f890cc25538a1c63783e861ba22296514f6f7c275ecc39088e2e36163b82e450.jpg",
+		"data_size": "19200868",
+		"description": "パズルの周りの数にあわせ、各行（横と縦）に同じマスの数を、 同じ色で塗っていきます。パズルが完成すると素敵な絵が出現します。 どのマスを何色で塗るか？ ヒント機能もついていますので、楽しく遊べます。 飲食物や日用品、乗り物など、さまざまなジャンルの絵を150枚収録。 パズルサイズは、5×5から、20×20までを用意しています。 時間制限はありませんので、じっくり遊べます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2017-09-06",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d38cf5829711b40b5f6a8760b0508299529a2e57bbdcaa38b5aaee2410166bb9.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6ef2cfd58d14e561bac43e43d31001028177b25efd1a87ea046ba3ed114e2432.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/79e7a9275bcddd94e730aa32122083c2211e4812a6dbe0ce6beafb40c72b084b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/dc766fec96c98354a99d52f314bdbb36968956a0e28915c0e4dbb714e67bd82c.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bea7e349350f1bc134b7e7867136eaf121b67e0e5df98bae295df1bf7e68a2f8.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6acf465a98b22b74a86d2099993f4bf9e18da584e3a43aec9e63f0696eb9138e.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a0635bacbd52a35537af5767e48a89c2459cb70a54c11765731576be7c191df2.jpg",
+				"name": "お絵かきパズルPic-a-Pix 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/48aa3afe9a734c7a9c791eddf311e1e04ad9b406beb5d3f361bc0fb491ee1184.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "91"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9f80087c5b7f667dc68c456a197f60bd2c66579a06d10ad0a7071e8ae034cd61.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "91"
+					}
+				]
+			}
+		]
+	}
+}

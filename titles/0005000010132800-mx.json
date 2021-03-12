@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010132800",
+	"eshop_id": "20010000004984",
+	"product_code": "WUP-N-WEPE",
+	"name": "Unepic",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 76,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/40ea1c3062cc6ca653e3ae684cbf0d98d299007d944e91db183a4be2e2e6018e.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8a9e0f9147cae6e508a6c24fb9a47d8347be88391fc550e70007dfa25b5bbe69.jpg",
+	"data_size": "435880076",
+	"description": "Unepic es una mezcla de juego de plataformas, rol y cachondeo que transcurre en un gigantesco castillo de fantasía medieval. Está ambientado al puro estilo ochentero, pero completado con las características más actuales que hacen de Unepic un juego muy completo. En Unepic encarnas a Dani, un chaval normal de los de hoy en día: gran jugador de videjuegos, aficionado a películas de ciencia-ficción y jugador novato de rol. En mitad de una partida de rol decide hacer una pausa para ir al meódromo, pero de pronto se da cuenta que se encuentra en un castillo... Características: Action RPG con 200 habitaciones a explorar 7 jefes, 70 hechizos y 100 armas. Historia super divertida con referencias de comics y peliculas Misiones, logros, retos y mascotas. Crea tus propias pociones 4 niveles de dificultad y 3 finales. Voces en Español",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-01-16",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/7374b7cce6f5b6cbd4388d13e400f8d793593b13ba3902afad2c322bde054b3e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/900af7117e608b18b73dc7c070dbc4f0c36c87f1fd598133466d44161ae69d64.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e77d2ae3d0173f8a506bfcb73f60eb6d918a919f2808e358c485bbff072929f7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d091e01665a93fc87aaed40d0647c49cf6f1c10b4968ad966da1714d7194acba.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4ffce751ad48469850ebf6987767ddb85ee80c78fa4b5ba1db6059a0241d2488.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/fcb22e34c88ca6a4dc118ff6b105079e0652e8d7d14cefa325401c384fb6577b.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/aed1154c64563fba3e2ae0c4f0bc71faadc92429a8bd79137d3a58ffc1f60fc7.jpg",
+			"name": "Avance para lanzamiento Unepic",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a649d4d03d60abf6d98fa2af5225ebae41d23799d48d6aec5aac4c0ecce4639f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "82"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d4c25121109aa889e32cd113f0f70a5f0ed19dc8672ec028f8c786b75ebefe8f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "82"
+				}
+			]
+		}
+	]
+}

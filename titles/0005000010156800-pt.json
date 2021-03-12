@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010156800",
+	"eshop_id": "20010000005709",
+	"product_code": "WUP-N-PAAP",
+	"name": "F-Zero™: Maximum Velocity",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2973819b19c9b98262390b980298961758b0181974d0bc7ca2d3a5190bb1fbce.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/68ace73da1959efddc0a8a7cb666e6133fb1151e529ac0a30d17dfa3d9367f4d.jpg",
+	"data_size": "94011512",
+	"description": "A famosa série de corridas futurísticas que teve o seu início na Super Nintendo chega agora à Game Boy Advance com uma força supersónica! F-Zero: Maximum Velocity apresenta novos veículos e pistas únicas recheadas com curvas apertadas e fatais, com impulsos de velocidade que colocam o estômago às voltas e com saltos que desafiam a gravidade. Domina 20 circuitos diferentes e quatro níveis de dificuldade à medida que sobes na classificação, de modesto principiante a campeão do F-Zero!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-04-17",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/2a41e3f625fbc81f4cf5922ddd1ffeb7717b8e94911537376f6f3d7bb7abb274.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/30b4575db020d612ea3618d92c74418602adaccc1f1a884e14348379383eaada.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/21c30d3074a1224ceae3cccef09201926457cb65b80b033f9a5414ca02254e4e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/25a0e74c7590de99464408cc0522441872f7997ff38676d3932a465f7bd2a731.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c160c0f93d7b072045ec0f54b7845a03e746e076c4ac234a41d81617fe3607e7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7940e39d2f0b4307bc8bef1bcf39fbef9040e53d1eaa5c15e553085a777a4390.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f6d00ed8bf428d9fb05db06a10634a75e7b50c5cf2b3c0869adb612331953de8.jpg",
+			"name": "F-Zero™: Maximum Velocity: Vídeo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/24579762b67e485ca5c4857ec02917e6b01358015c433667e7ae7717a017e5a2.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "54"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a41454cc424198e73dcf0de870de17e1c315d0e71ef105278e7fdf5b4bad8b3c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "54"
+				}
+			]
+		}
+	]
+}

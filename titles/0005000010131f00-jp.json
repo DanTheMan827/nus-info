@@ -1,0 +1,76 @@
+{
+	"title_id": "0005000010131F00",
+	"eshop_id": "20010000014489",
+	"product_code": "WUP-N-AYCJ",
+	"name": "ヨッシー ウールワールド",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6ef61f9e59362e26f854c10ee7a599f54638103708408dd2463989c0a4c54c2d.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b744ee19d346f25b979d0a3decf50f0b37964de59a1e55814271680e88990e3b.jpg",
+	"data_size": "7567770300",
+	"description": "カメックの魔法により、ヨッシーたちがバラバラの毛糸にされてしまいました。その魔法を解くカギは、ちらばってしまった毛糸を全て見つけ出すこと、ただ1つ。あみぐるみヨッシーが仲間たちを助け出す冒険が今始まります。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2015-07-16",
+			"retail": "2015-07-16"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/8b4c40e5e4969a772a1b707cd36aaa83854de808c8b415f3790467779bf90a41.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ef3d51d845acbe8683bbed1697b891a6caeaeafe3cd1a064f9b0f7764373d723.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/383b71a8b5a5a512ec7f246b73df2dbacf304f7aacc20a95343da3b08e21457c.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c520db3d92b9c6bb319b3f164776feaa7b95a39cf72fc4b48ab19d8d07880673.jpg",
+			"name": "ヨッシー ウールワールド 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2752f1cb3db1f9ed679a621b5a4433fe415f4ab37422972c1be276ed823c825d.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "343"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ff44d3396ff635a12cd0c91dabfaa30eee5ef34e15068cbc5e94a7382c00a1b2.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "343"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/db1bb5c63e238750f81e3bb56ed3e84e10d4ef5c4478182d3c0fb5c7705ddaf2.jpg",
+			"name": "ゲームセンターDX 「ヨッシー ウールワールド」",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/951dc094cafe473d75ee6087f33da8a203c460a599a6dd565117deae42f6d7ba.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "2125"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/287d044fc45e18eaebbe8bd049f4426701106241ba2e434255240d7a16e75014.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "2125"
+				}
+			]
+		}
+	]
+}

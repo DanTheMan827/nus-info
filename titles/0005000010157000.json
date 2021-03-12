@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010157000",
+		"eshop_id": "20010000004967",
+		"product_code": "WUP-N-PADJ",
+		"name": "メトロイド フュージョン",
+		"platform": 168,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a20b801c145958837067fad0e1b4ace2bb5a114dc83f3588c1acc59f96d9e6a7.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9982fc2c79f3bdf40e27b03f59384a1ca3957e564f59c7a3a4d40a588a2149e7.jpg",
+		"data_size": "89161848",
+		"description": "このソフトは、2003年に発売されたゲームボーイアドバンス用のアクションゲームです。 サムス･アランがBIOLOGIC宇宙生物研究所で発生した爆発事故の調査のために現場へ向かうと、そこには寄生生命体「X」の姿が……。広い研究所を探索し、サムスの能力を覚醒させながら「X」の一掃を目指します。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-04-30",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/bb8f310ac38318e3cf4dfc3f4f7b74d7fcf38764b4574518abb2771c5903958e.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/2ca7f1c966e9a60a060a08df9aff957a9cf1053134142c9508051a9d5d498050.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/dd8d49f41e0ac4de9d4cf9c9ee70f0f40ba7dde0fcb1d291700c21eb25de3675.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f9dc84232962a9df3d71c716528b754185310fcfa61df5c5a6be8323a66726dd.jpg",
+				"name": "メトロイド フュージョン プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0a85b5689e1f0f5125851ff74c2c93dd18f9ebfedea00c2f24011d8756a3ca56.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "41"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bfa31358414e93d08467f5e7849724db9e824bd578dddf794f6f6dcf768f34aa.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "41"
+					}
+				]
+			}
+		]
+	}
+}

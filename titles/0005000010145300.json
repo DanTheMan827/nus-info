@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010145300",
+		"eshop_id": "20010000001727",
+		"product_code": "WUP-N-AS8J",
+		"name": "スナイパー エリートV2",
+		"platform": 125,
+		"platform_device": "WUP",
+		"publisher": 278,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8789912d8ccc8db7f7b0505110778a4298746c6c89ef77cd1eb16fb567618e32.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6c89a0000a7971e7ed9c6ea1d5b9facfbc8c2e8607a19b086dd96eaaa33b2e80.jpg",
+		"data_size": "2741174612",
+		"description": "2015年7月17日(金)9時59分に、本ソフトの配信を終了いたしました。 ------------------------------------------- 「狙撃」のリアルを追求したスナイピングシューター! 『スナイパー エリートV2』は、第二次世界大戦末期のヨーロッパを舞台に、狙撃に特化したゲーム。重要人物の暗殺をはじめ、「狙撃」を軸にしたミッションが展開する。詳細かつリアルな弾道シミュレーションを採用し、プレイヤーの置かれている状況を追体験できる。 狙撃における風や重力、銃口速度といった要因や、心拍数の上昇さえもが銃弾に与える影響をリアルに再現。 【風】銃弾は横風の影響を受ける。遠くの標的に命中させるには、風向きを考慮することが必要。 【重力】銃弾は重力の影響も受ける。標的が遠くなるほど、重力による落下が大きくなる。 【銃口速度】ライフルと弾薬の種類により、銃口速度が変わる。",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2013-07-18",
+				"retail": "2013-07-18"
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/797407836e29396bed6c7a305363d47505c4a4fe753cdddfbbf2692117c7048a.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/c99e54536a15385d9975341388e84ece18ab78c58e4fa4aba5f53e802ed48d2b.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/55a1206c40d2bae2f7594dedec64ba3a2dd7934972d3e2be9ec6f8b18929fa01.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/73105ef2b92da088919b51428a0d9ec8eda9d4af901f8577dfcd58a7fd2a6d13.jpg",
+				"name": "スナイパー エリートV2 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5de069d7d080b27789dad78739cffff26666ff27bfcbefc4fd39d32a6578d389.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "64"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e0fd154c6e5c8b120a4ca42b2e9146c3e011505d4387215bbfeb8cd0486bc99b.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "64"
+					}
+				]
+			}
+		]
+	}
+}

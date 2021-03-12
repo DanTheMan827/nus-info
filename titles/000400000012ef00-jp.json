@@ -1,0 +1,85 @@
+{
+	"title_id": "000400000012EF00",
+	"eshop_id": "50010000023697",
+	"product_code": "CTR-N-JVXJ",
+	"name": "カービィファイターズZ",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/2e691450bccc83b25f4204850224de3835ab02ec4ae774f4659784812471fac8.jpg",
+	"data_size": "123145108",
+	"description": "カービィ同士が最強の座をかけてバトルする、最大4人で遊べるアクションゲームです。それぞれ特徴の異なる10種類のコピー能力から好きなものを選んで、戦いにのぞみます。ローカル通信での対戦のほか、ソフトを持っていない人ともダウンロードプレイで遊ぶことができます。プレイヤー同士でチームを組む「チーム戦」や、1人で勝ち抜き戦に挑む「ひとりで」モードも楽しめます。 ※本作は、『星のカービィ トリプルデラックス』収録のサブゲームがパワーアップしたものです。ステージやシステムなどが追加されています。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-07-23",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8428fca7778503690d77877589207721c04e9fa9abcebaca8f4d08d98a564ba0.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/edb23bc79fdc72b65587377536bd6cca89a710f347d08766220f278a81c5af8d.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8b04e3165ecd19a104c361e2fce2b6abeba4274047b819b4bb68687d37a2be58.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/de97dec0936448762745b7486c251293533698f83afe294672b52873d77fe361.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/19e8043a34da9c017b07a18cc03315da5be67e9b16aab4cc733eeade70e5a523.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e4d1778f56d9871562bb288a4dc19635bca5b4e7fedab9952b680f6a20e4626d.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/92fae47a0e98aaeb4683c3a1c53f51b5832a3454f5022f320040752a9119141b.jpg",
+			"name": "カービィファイターズZ 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b3a5e80e98e49b719f70ec7d47ba313ebf04c8d98fac7b9e28affaa70b3618d0.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "227"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e3785c22e179985099f42132b058e8d74e0633c7fbbe6952ebddc6fa6c7a7980.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "227"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/80f1bfb714c78f7ea1c519d81c1be697744876ffdd23e33256fac9795c4f2b7c.jpg",
+			"name": "カービィファイターズ! 最強への道",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/558a3e7685e6c0071eb6aa5d342c48a72743bf533aba9589cedaafe2deff65d5.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "703"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/15dd7d2b3f37eb8fd2e0b8bbf38bba6e18f780ccd1ee34158d583f8033bff5ee.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "703"
+				}
+			]
+		}
+	]
+}

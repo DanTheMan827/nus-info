@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000151100",
+	"eshop_id": "50010000028915",
+	"product_code": "CTR-N-KCCE",
+	"name": "Cube Creator 3D",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 33,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c0cab0547416b1bdbc14ec0bc369162bd667337029949a208aecc27ceae4b707.jpg",
+	"data_size": "28326756",
+	"description": "Craft your own realm in stunning randomly generated worlds in Cube Creator 3D. You can also gather resources, combine elements, explore & combat strange creatures to survive in this expansive, cubic domain. Creative Mode allows you to explore worlds in true Stereoscopic 3D. The dual-screen presentation keeps your resource inventory free from cluttering the gameplay screen. Easy-to-use touchscreen controls make the open-world gameplay better than ever. Break-through dynamic lighting & effects positions Cube Creator 3D a cube above the rest. In Survival Mode, players can explore, craft, mine, & battle in forest, desert, mountain, & tundra-themed worlds. To start, you must use only your bare hands to gather resources to then craft tools & weapons, & to build protective shelters. Building better tools & weapons allows you to explore caves, mine their precious ores, & combat the many malicious monsters. Craft, explore and conquer these voxel worlds. ",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-04-23",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bb9e43d16ebb85d8e766f07cede8960641c77fddf282963518142ab8886cc202.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9033027e8341fb97848baf26af9fd2ae3f6f29d6ae6078570c30fd3da0ad3fb9.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7b58bdc0af399631e233872980166cb27d0b8762544a3f54e6b6c20dadae647b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/7914e2028702e82f9575a4f418bd32cff28590dfd0ab59b75581f519c09ff789.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a0eafb93738667fda01d5b3532109809dca82473ce2f822f13843cf9ee6caf4c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a1ca8c80615e6271ba728a256bf5360f44653f83e7220692f916e69e311144ce.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/19701024fc03a105bc80907b5fa93c58b4ffd242b5c64f7635c29fc54e588773.jpg",
+			"name": "Cube Creator 3D Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/907cb6c2917fa30ae0687565054c447711413ce43a96e55916f736c76b1a8371.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "80"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/be25a6338a743decb5c6413e88b652307bc663a1cfe83d0e2608b42bb5651bdd.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "80"
+				}
+			]
+		}
+	]
+}

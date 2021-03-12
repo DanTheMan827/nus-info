@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010154600",
+	"eshop_id": "20010000003724",
+	"product_code": "WUP-N-AZEJ",
+	"name": "バットマン:アーカム･ビギンズ ",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 483,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3b7e753fa94c0ae8871c4b5e85e9cbd279088a2fac8790a4a811d936835607f0.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5be36c5d9d75d4beb36605eb049179b319a721ef45ffad23cdf6b63bfa4c50bf.jpg",
+	"data_size": "10893394940",
+	"description": "世界最高のアクションアドベンチャーとして評価を受けた『バットマン:アーカム･シティ』。 そのクオリティはそのままに、ストーリー、マップ、ガジェット、アクションなど全てがパワーアップ。 ゴッサム･シティを牛耳るブラックマスクに対し立ち上がる青年、ブルース･ウェイン。バットマン最初の物語が始まる。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-12-05",
+			"retail": "2013-12-05"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/701f0b1e75bca3f573e089e77e4a968657ed9d4cea0f7d7aced536ea9c75aef8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2269fc2bc2f317773204dd07ebc5f466ac58e27650cac7daf07d8f0cfe58e6af.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/05ee191b5bce0174217f448ecdbe5dd2cc3a9265d4326826b8a182cae99ec6f8.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f86e63e6a30d4f9145b1d2f16a59843afbcb5e758aa6f165c90e43ad274f9eeb.jpg",
+			"name": "バットマン:アーカム･ビギンズ 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/501286960f0d09271dd2741fcd0e7c31359455f3b381ee3744b2615f3654a67e.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "136"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b494fa0c11939c554d29e99c50235b42f01521d89442598853e51fe7394c09e9.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "136"
+				}
+			]
+		}
+	]
+}

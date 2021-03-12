@@ -1,0 +1,85 @@
+{
+	"title_id": "0004000000174E00",
+	"eshop_id": "50010000038696",
+	"product_code": "CTR-N-BA9J",
+	"name": "メダロット9 カブトVer.",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 222,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ce482cae6f4fbf771076d2f74405a2c02ff3aaea33276b9019ef5dab947654b1.jpg",
+	"data_size": "1807555428",
+	"description": "「おい、お前。マスターのふりをしろ」 突然目の前に現れた見知らぬメダロットに、成り行きで協力することになった主人公テンマ。 なぜかエリート校への編入が決まり、希望と波乱に満ちた学園生活が始まる。 世界観・登場人物一新、機体はシリーズ最大級の約300体。 バトル、カスタマイズ、すべてが進化した、メダロットシリーズ最新にして最高傑作。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2015-12-24",
+			"retail": "2015-12-24"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0d44fc50b1fd191916eed88c6dd778fd7f0c7616e783c3a4663e71a7971387f7.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/591fa554c10759912ebcd17ebfc10d3468a6abb2a4e72e99af6f74c8faf39167.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/94f41c053188ec6566ff934cbf0e3b320ed8908f7af138b0476948fa03629bf3.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d1b9d513e573a19be4df1e8030ca3141c1e57942262b07f22971a26adc5ea6d4.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/77a23c135c28912df25081556a7a23f04daac951badd610512a3cc86a13c3771.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c3510dd0141871bd4bb86672fb3a1d72dbc7e78b047d3703c0b82be762e21855.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/03555d40a116ab65ac04dd9ab3c267bb808e3e175fb0ce0d5c9a7dac2140724a.jpg",
+			"name": "メダロット9 紹介映像 － ロボトル編 －",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f92b496b6677aeadf495a2ded38db09ab71a93bfe767f766e2964ad18a8921a0.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "144"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/05e430238b154360fa5bc2f18e77d0b0c72dbf1c2ebc3825673ee5ea0ab472e5.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "144"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b55aa1dda48c55488ac86395204d676b0dac08621c23a96b7122b933e04050c6.jpg",
+			"name": "メダロット9 紹介映像 － ストーリー編 －",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f3cd49d061b53a017d6945e07299bc0bd8934ebe5b524fe88aceddae8b0974b6.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "125"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b090546603fcaf469ab53c1d009a91bb0d934da0573d3322f15e4debf577393f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "125"
+				}
+			]
+		}
+	]
+}

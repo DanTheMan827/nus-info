@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000013EA00",
+	"eshop_id": "50010000024155",
+	"product_code": "CTR-N-KWSE",
+	"name": "Comic Workshop",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 358,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/536ad991db1ed31c221a5f3d0b91eb5e630c7676efe5db44e793995d17afd42c.jpg",
+	"data_size": "122768228",
+	"description": "No need to wait any more, here is the software you were looking for! With Comic Workshop, you will be able to easily create Comics and Manga, step by step, thanks to the various tools available. From frame’s management to text entry, everything you need to make the best creations is gathered in this software. Speech Bubbles, Pattern Filling, Stickers or other Roller Stamps are not only useful but also fun to use! Many standard tools are also present like the Eraser, Straight Line tool, Color Picker, Selection tool, etc. Features: In-game detailed Lessons to learn about the interface and tool’s functions. Customize and make your own colors as well as your own Stickers and Roller Stamps! Professional interface with layers, Undo & Redo commands, import of photos/pictures, etc. Interface fully controllable with the Stylus and a left-handed mode is also available! Save your creations on your SD Card and print or share them!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-11-20",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6fec5758d5d4aa3f87cbc0a715ce91c1626979299c0b0937ac18f0d90fd356e4.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d780331a129bddde03ee6f1a8a546da281395406e41c70e944630f2cef2da6c4.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0d311ac1b30f04ef990408f169f879344cfea95fb2562331ca9175eacccc5e62.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9f4ce5dc09141d8a7900471b3b2e927ec1dd0b73aedf2d15231012a0adecd3c5.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3668b707e490ce89e2deeb803c4f4f856864f4ff7a7f0e2d321756a703272ee6.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/74bce2f03b02c8df7b2b39000b87dd6a52599f398c8a402da8885a5240e1a73e.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/574ec89036d21a200487a79e1a25c15c89859852c494edc45e6dd275630ed971.jpg",
+			"name": "Trailer de lançamento Comic Workshop - Gameplay",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/13b951fcbfa9645459b56671e25fc1369e34b48644a169eea833e556094f158e.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8a721126ed9625fc01caacf5fb7c7f67d02f9ca770f747552ec6cccff0dd7dfe.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				}
+			]
+		}
+	]
+}

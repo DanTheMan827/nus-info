@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101DC100",
+	"eshop_id": "20010000019647",
+	"product_code": "WUP-P-AD5P",
+	"name": "Octodad: Dadliest Catch",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1512,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/38e25f836ad7e749bc7a479af6ae7c825d037e8214bb82bd85302e4a0690d688.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7816d3a61a30b9d9b9294157aa0c35906b189af5a3fd31e4d1869959321e9513.jpg",
+	"data_size": "2205614380",
+	"description": "Octodad: Dadliest Catch is a game about destruction, deception, and fatherhood. The player controls Octodad, a dapper octopus masquerading as a human, as he goes about his life. Octodad's existence is a constant struggle, as he must master mundane tasks with his unwieldy boneless tentacles while simultaneously keeping his cephalopodan nature a secret from his human family. </br> In this sequel to the splash hit Octodad, our cephaloprotagonist has gotten himself in a bind between his wife’s mounting mistrust, and a disastrous trip to the local aquarium! Are you dad enough to control the titular octopus father as he strives to hide his nautical nature from his family while keeping his tangled tentacles intact? ",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-01-15",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/a34842d28bbb43176f4bd62394b9fa95d76f5188f4b41760835c4129e689a850.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/335b4cecdd3639cf572d6258ff96fe6a17f11c466fc442a4b89d6055af02d8b4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/94a16535a9e7b1ab6c33c195c3f3dd6cd34f17bb8694431e4b6e62d25fa16086.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3a0e0c17d545eb3442f2ed89ec842532139a92e93fb5a685b302ca306f543c84.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/78947683b174ac29515b7df08293bd690fc15083d73b2dc8d1a488165b54cdaf.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a3a0c5232b49f3dd157e463b4c2816cbd757df81ff352516f7589513e3136ef2.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9a369903d56268c3e18304b15cee39effd02f741e9e4cd0e191f9ac877e44d19.jpg",
+			"name": "WUP_P_AD5E_OctodadDadliestCatch_eShopTrailer_NOE_V2.mp4",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3e03bdfbabf6e800bdedf36fc92e88c7982677525c26f8ec40d95f17de40408f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "102"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d35561e91ca11a7f245b428571022f8f6d4f5dd9b8d7f6cdf23b75488422c32b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "102"
+				}
+			]
+		}
+	]
+}

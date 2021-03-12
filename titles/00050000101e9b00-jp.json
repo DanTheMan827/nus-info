@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101E9B00",
+	"eshop_id": "20010000024528",
+	"product_code": "WUP-N-ANPJ",
+	"name": "Ninja Pizza Girl",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1517,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bdf9c3ad71cc80f4218bec1ef6bbdae086d9c127cb32774021e982d37d448b09.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a9d7f86a33a96cad0b40ef28525a764018f0ba5029a229cde28d71980497c9d8.jpg",
+	"data_size": "2582577492",
+	"description": "そう遠くない未来では、ひどい渋滞の中で20分以内にピザを届けるため、ひとつの方法が取られています……それは……ティーンエイジニンジャを低賃金でこき使うことです！ Ninja Pizza Girlは、10代の女の子が描いたコミックシーンを特徴とする、深いストーリーとメッセージを備えた横スクロールアクションゲームです。主人公は16歳の女の子、ジェマ。彼女は父親のピザ屋でピザを配達して働いています。 スラムが高層ビルの屋上でぐらつき、おいしいピザの注文もままならないそんな世界で、強大なメガコーポレーションは貧困層を搾取しています。ジェマは理想、家族、自分たちの仕事を容赦ないメガコピザから守るために戦わなければなりません。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-11-09",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/67b9c74a9a73add620d422b44e2f4c26bda044d3b0698d24352ec16a0ebf2218.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4b987d27bcfd7323ab07842c1712e7cd1ee5ec19a26d19a379f5886e9a04917d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/042586ef8884fc4fc27a2731594b56fa0805ae911b63ba9a4ffcd41580023e89.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/aede28892fdf07a356194ade834cae5d4ed24a11670007028fd9e91835176164.jpg",
+			"name": "Ninja Pizza Girl 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/525dba648735f401c8490f63b9cad0d775c647714a5d8a5fa38a34bcd9352d39.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c24661d3c9b45f9c0a9867f7bdb9ade244c5e85639114abcafe80a83afef89f0.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				}
+			]
+		}
+	]
+}

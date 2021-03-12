@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000049300",
+		"eshop_id": "50010000008445",
+		"product_code": "CTR-N-ARNJ",
+		"name": "ランナバウト3D ドライブ:インポッシブル",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 222,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b1d19ac836499bed4585b6e928058362f313eb502432672ab7bb9ccea395447c.jpg",
+		"data_size": "240139108",
+		"description": "破壊、衝突、逆走、なんでもありのドライブアクションゲーム。 元スパイの経歴を持つ運び屋が、謎の組織からの過酷なミッションに挑んでいく。 ピックアップトラックを始めとする多彩なマシンたちと「Born To Be Wild」などの有名楽曲をBGMに、ハリウッド映画さながらの激しいカーアクションが展開される。 ",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2013-08-29",
+				"retail": "2012-01-19"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/722d2b7ecdbf5e88e7263af4942c1278d5c526094cd877ee606e0cadd3d5df15.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4c82bd063ab1de9f34e1a695c079eb24876c38a34eec79869ede7eeba5f0b171.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/92dda0fd1344debc5247ff737b154b5f314257dc0f1ed771facb801ddc67758a.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0411be5db814330786492de80a8625053682c0d9274ab144beb5647c79ac7b58.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/325fa21d8d35a4f64ecfbaaaf684ef9116dff4f0498c0ca30735e562f891de83.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d95907246e7cdcbce8aff16580a30e9f23f6d39c16b8d8fd01984ec4fbe004ea.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7ef0fb6d254de71fe4528d9d1e1b41e267a70b25b48fda54dadbfd31928f1639.jpg",
+				"name": "ランナバウト3D ドライブ:インポッシブル TVCM",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9eacede8d5bf7e5bde67e1ddc6bda2886dac702edf1e38f98513e1b44c7c0012.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "30"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2f4a2b6bacf2fabb400becac468dce2697d5acb3f0462e768bd6eb63352d5b71.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "30"
+					}
+				]
+			}
+		]
+	}
+}

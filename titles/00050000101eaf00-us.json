@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101EAF00",
+	"eshop_id": "20010000022188",
+	"product_code": "WUP-N-WCYE",
+	"name": "Color Symphony 2",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1675,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5ea9ae7d61dd8fa87233cb981b03b3b417b4f5ec366bc1592869826c4d6d082a.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7542b9d509f3e29ffeef0b32cd01677be9a0f4465dc02120da79e53b4139336e.jpg",
+	"data_size": "139296908",
+	"description": "Color Symphony 2 is a puzzle action platformer that utilizes the ambiguity of color. Try to eliminate obstacles or find new paths by using color! This simple rule allows you to solve various problems. Features: Unique mechanics that utilizes the ambiguity of color. Simple rules and various solutions. Level design packed with action and puzzles. Over 120 levels. Support for Ranking and achievements. Support for color blindness and color weakness.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-05-12",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/1951e2222cc683078ddb2aca29256c3aca2f422cf63c72bdeacedb659bd52004.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0c89184019b7f5adb3d2bcc1564fef64a97482a1c45c2469d5705a8e6fa31a1a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4b7fa5517f6f09e88621fce6d5d07c7ff416cc670849d6878587810867f1acf5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/85797b8671e4728253238c6f3971e6f90133d00cbe5e3fbebd5cbbaa5a2f1a73.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f3754502df25b7f9c77e13b07582b6a7dbcfb821287dd6829aaa839fa7600f0d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ec5088541bf0907557b0ce13ca54dcbb4880ce6ac0ffb251a0ed7c76b23ec12f.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/82987841afc3988ebf3a0218fc9f63988ec629bd6707591cd177bed0064b35e4.jpg",
+			"name": "Color Symphony 2 Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e6e0b511fef493d804151f9169ce39db7bb115ea358ed45027810c868e112007.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "64"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0c319845d1b0b98124412e9d8eb91f34885dac884e86e350dd8a930cd5f6af1c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "64"
+				}
+			]
+		}
+	]
+}

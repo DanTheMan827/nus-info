@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101EFF00",
+	"eshop_id": "20010000021469",
+	"product_code": "WUP-P-AB8P",
+	"name": "Asdivine Hearts",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 146,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bef8368dc1e43461e3795a05490a1f4f64f4a094eb84362be1c6a22059826863.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/045dcfc15beb361cf1635cc630440bbde8d35ca1c7e7d5621949943d1fb0549e.jpg",
+	"data_size": "241729676",
+	"description": "Voyagez dans un Jeu de Rôle Fantastique et vivez des aventures extraordinaires rythmées de batailles au tour par tour ! Il y a un an, le monde d'Asdivine fut enveloppé par un éclair lumineux intense. Depuis lors, l'obscurité n'a pas cessé d'accroître son influence sur les terres. Même si cet événement avait un lien évident avec les cieux, peu de gens semblent avoir réalisé l'ampleur de ses conséquences. Mais à présent, un jeune homme nommé Zack et son amie d'enfance Stella rencontrent dans la capitale un chat potelé qui prétend n'être rien de moins que le Dieu de la Lumière. Il annonce que la destruction du monde est proche mais il leur réserve une révélation surprenante... Asdivine Hearts est d'une qualité visuelle révolutionnaire et comprend d'innombrables quêtes secondaires, une arène de combat, des trésors à déterrer et un codex des ennemis à compléter. À l'aide de joyaux à ramasser et à assembler dans un coffre, les joueurs peuvent personnaliser leurs personnages ! Jusqu'où irez-vous et combien d'ennemis pourrez-vous vaincre ? Une myriade de défis vous attend !",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-04-07",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/33389f2511e29b6a493e86ab2dbea16f60f628d5517a01e0e3a9f41ed768dbec.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8f7c8004a43dd79a01324cc9c7b2addd36eb2da24eb7037528f378005936ca5c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/be6d39a845f06dda76cdbae4ae4b5e2ce11311cd6fe1123789c784adea5562c7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3c6be301284ba838d1b65ca3118f6851c85cb857c4fc43f75537c73eeeedb71e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6dda20c15b1ca6fd6f4fd6d65f8a515c6d7e0756477c4f468c2f3b1f9805817a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/55bceca3536590952ab97166e87667f618c17a31a74f5c0e91295ec33cc014e6.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bc57a7d71d791ea4f9186f920664be29f4180fd8f0f870858807d8943adb630f.jpg",
+			"name": "Asdivine Hearts : vidéo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/224700f0f17d8a2cfd39dc636cd86533b2cfc8d471295ddff892ba7e763b8193.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "71"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ef11f62205255fb076700624fb03bccf87df36edf93aef58385de96d3fe882d1.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "71"
+				}
+			]
+		}
+	]
+}

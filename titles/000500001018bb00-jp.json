@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001018BB00",
+	"eshop_id": "20010000010306",
+	"product_code": "WUP-N-FEAJ",
+	"name": "アトランチスの謎",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 256,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b20a3583c423108a094e420dd229d12d85633447965b41a1f3ad76218db032cb.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c6a060fd81557e9962517ea8a0bac493560104cae4656f6ae1a802453eea6eb0.jpg",
+	"data_size": "38731936",
+	"description": "このソフトは、1986年に発売されたファミリーコンピュータ用のアクションゲームです。 南太平洋上に現れた巨大な島アトランチス。主人公ウィンを操作して行方不明になった師匠を捜し出し、帝王ザヴィーラと戦います。アトランチスには100のゾーンがあり、敵をかわしたり、小型爆弾でやっつけたりしながら進んでいきます。それぞれのゾーンには別のゾーンへ通じる扉があり、どのゾーンへ通じているかは入ってみなければわかりません。隠し扉やワープ扉など、どの扉に入るかによって展開が大きく変化します。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-04-22",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/01b77bb45a425d53f74bda795e0d72e88c09dc1fcee3a9784aca9880afe5fef3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e2276b36c9328371beccb1bafb4b510b7f227c05d0d9b8872f2aa3229608f47a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8adee26f4d2de92792177e770dcc132953d37295610be44d7e13426f8599ada2.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f7e95681d02c85fb15cc5ed275995af6b6d90c48fcf52c8098a6644c23d3a2c8.jpg",
+			"name": "アトランチスの謎 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e30484d0ec12698c076f3f635d096e7db9bf59f5991c60f32662f1138b1f8e97.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1e300ef4f288d2a46a5fdc6b7edf2744e855720bbeea4f28338538924b0c1c62.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				}
+			]
+		}
+	]
+}

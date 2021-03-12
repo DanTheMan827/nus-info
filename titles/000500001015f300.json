@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001015F300",
+		"eshop_id": "20010000005387",
+		"product_code": "WUP-N-FCHJ",
+		"name": "悪魔城伝説",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 149,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5596007683ae393e9831e61d2736b8e5cbfa17890695b57eb766e28cd218d5f1.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c30c2a49cb65a87fa24d08b0ed9b6186589474e114b3dc84deac4d66eab2cccf.jpg",
+		"data_size": "36733068",
+		"description": "このソフトは、1989年に発売されたファミリーコンピュータ用のアクションゲームです。 『悪魔城ドラキュラ』からさかのぼること100余年。ベルモンド家のヴァンパイア･ハンターであるラルフは、殺戮と破壊の限りを尽くすドラキュラの討伐に向かいます。ラルフの武器であるムチのほか、短剣や懐中時計などのアイテムを状況に応じて使いこなしてください。途中で出会うパートナーはキャラクターごとに違ったアクションを持ち、ラルフと交代して操作することができます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-04-16",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/29402fc450b5f6bbe275d5afeb31466eb1299fbbb206bc080a7d8b93f330e9a2.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/370a057e0307d08c304c1ff3550a7abb752441c0a60f70b3750b74a75ef35291.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/d7a97f451e345d73d411a39d9025cc6bf007a7c2af76f87f05f60cd452cd79b5.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/437241fae71428ea902fbddd3124a503770e53b60a3fe4d392a3d27f2a477f1b.jpg",
+				"name": "悪魔城伝説 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0b5e1609bfeadc54c7afced3cb97c2fd167446140b3299ce39507ae5c4c11f56.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/382787fb500454ab31896f208347a72b6e95c756dc292cdb7d22f490a35eda91.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					}
+				]
+			}
+		]
+	}
+}

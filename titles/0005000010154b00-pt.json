@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010154B00",
+	"eshop_id": "20010000022587",
+	"product_code": "WUP-P-WC2P",
+	"name": "Rubik's® Cube",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 359,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8613f61f5e1bb62fa147c48e09a6e13b40b113fad28cafada954431c6cf48452.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/045ce6cb84c64a63a335872d52ee215e73a174fbd38b6ef162a2e0fa765e69db.jpg",
+	"data_size": "223936652",
+	"description": "The official Rubik’s Cube game is here! Play anywhere, anytime on the most authentic digital representation of the Rubik’s Cube available. Rubik's Cube is a 3-D combination puzzle invented in 1974 by Hungarian sculptor and professor of architecture Ernő Rubik. Game Features: -Intuitive touch controls -Cube 2x2x2 and Cube 3x3x3 -Solver -Camera Capture -Internet rankings The game is developed under the license of the Rubik's Brand Ltd. ",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-06-23",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/110d189a9cec37f94a87b0ef254bdc923ec10fedcf56c7c0977ec90d86cd2960.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/69d2d9d15fc7be4d45a28c0d2992da9f3392d3b9696aaa52ea9bf90053339874.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/127d099d64917218d29ef5cc2c53bc13ec998e0d734c08511e92d02a1433efe8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5eb10a5745b036dfe202e3ba9d61aa141c7a5e5dc5ab07ce107573b1300a61bd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b367f5f4ce1a15a13f00c5fff3ae9974ac8e6263bc16a284ee3e4268f39a17a1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3d00231d78f8775ef62174bdffe7d0cda363237853014141bc4d4061b1d80d69.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7b8103175c72a9f14e76dcd4b5c3097a6c100f9111863e1091d78e12d49ab253.jpg",
+			"name": "Rubik's Cube: Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4d7fe5c53c57630a58dfd4a142b6790dfd19c8676aba1bc419b5000105e4f21f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "70"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b688e1dedd4ed62a48fad29c46e1310ce843322a944bf6dba0d500a90f63b7a5.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "70"
+				}
+			]
+		}
+	]
+}

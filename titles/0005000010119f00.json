@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010119F00",
+		"eshop_id": "20010000001109",
+		"product_code": "WUP-N-JATJ",
+		"name": "超魔界村",
+		"platform": 164,
+		"platform_device": "WUP",
+		"publisher": 39,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/18bc34f2120b79d1873389f26f42193302e00e5b235d7665a7efe1ede7b6bbfb.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/400a19a497cc2247cc42ec64c2e163b7fb0cf95ae15aafcbed6680eff9d26d7d.jpg",
+		"data_size": "41058444",
+		"description": "このソフトは、1991年に発売されたスーパーファミコン用のアクションゲームです。 高い難易度にもかかわらず何度でも挑戦したくなるアクションゲーム『魔界村』シリーズ第3弾。主人公の騎士アーサーは、さらわれたプリンセスを救い出すために、多彩な武器や新アクションの二段ジャンプを駆使して、魔物たちに立ち向かいます。各ステージでは、変化する地形や画面の全てを覆う大津波など、恐ろしくも美しい魔界が表現されています。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-04-27",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/0fc812477b4da32cd201380c0d1060c83add8b9bb40b98d78cc4cad611484fc9.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/3f479bf93876a7476a5ef0790291c46ea6ca760d0e47d41c0e04c4b04e8602aa.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/ca72ff8347be3dfe4a48a3920c2f6f8bb80cff1d34614279eb7b3050abe9e6d6.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a9259f4e43a840e47261185f4d5cbb45221fd13fe711337d17964ab87e8fb43c.jpg",
+				"name": "超魔界村 プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/170da5bdb5dcdaa41a47c95a15bf332b770067a73ca4a91da6b264c976a0950f.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "44"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/95d34999253c1d3ba536c72b2d4358174e92ecf92c6f75216a9d2b1ced8214fc.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "44"
+					}
+				]
+			}
+		]
+	}
+}

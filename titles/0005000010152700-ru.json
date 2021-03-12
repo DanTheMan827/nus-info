@@ -1,0 +1,79 @@
+{
+	"title_id": "0005000010152700",
+	"eshop_id": "20010000008569",
+	"product_code": "WUP-P-WDSP",
+	"name": "Wooden Sen'SeY",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1699,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1c72ca4aa88bcafe72213b14dcaa89ed894ef108ab505e21c1ed8c34ecffb351.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/cabd19ce25f2eff19fbbaac8f7adecd3101d294dd0b1ed5682d5c778525b48ef.jpg",
+	"data_size": "680427700",
+	"description": "Wooden Sen'SeY is an action-platform game set in a unique Japanese Steam Rock world that is full of humour. You follow Goro, a village chief, through a series of levels on his quest for vengeance. He defeats his enemies using his axes to slice, dice, squash and grapple! Wooden Sen'SeY aims to offer players a unique gaming experience inspired by old school game mechanisms while incorporating modern technology and magnificent 3D graphics.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-07-24",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/0dc1a24c2f8a3cae26a7d777bd002bcca0aecf4ba27341e6896b9f81fc8aa732.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6fc4bca9b0574ed53de99a991a6d58ee96e160d35d43bb706c8e174215f3bf59.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5cd9210d15229bce544c5a362a062fac070fcf5602021667756554b948f4c958.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8ab3afcddcc019f4db806225ede4a8853bd31dabdf8fbff651aec9518b054699.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3f98fa31c17114493b03f47bc93c21461f291b7039d216cbd9a688fe99fcba57.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ae5f4839c9664dbad0dc49b299af34781abc5f75397ab8c2563bd01f00d050b2.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5aecf6bf4d73242ad56d66d9de22b5e37c50088e87e00127b0171e734b7dd8de.jpg",
+			"name": "Wooden Sen'SeY: Time Attack",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/977440f77f2bd3a04e4785eb91985a8429d31c50b939573efbdf71271e3dc2b5.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "59"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/df5460d14a397c384148f07fd4eec99b3ba2a3321bfb89cd18a8b6f6fef8f838.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "59"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c0229a0f0609cad4b518306037c7dc53272949f5d9cceb3c78c335340f6e0bd3.jpg",
+			"name": "Wooden Sen'SeY: трейлер",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8b1952853bff3d6c120bea85215b78db9e6093010bdf33aff815ed9221752532.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a6d1906d73ac7835faa7b5d5c2cacfae1f5e7fa194e9077d99ce826c76e0d046.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				}
+			]
+		}
+	]
+}

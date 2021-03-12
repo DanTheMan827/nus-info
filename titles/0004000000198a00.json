@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000198A00",
+		"eshop_id": "50010000040479",
+		"product_code": "CTR-N-KJCJ",
+		"name": "巡界のクレイシア",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 146,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5b385cdcaac11313cb1fae822bf4ddb3bbd1de268a7ff9fa955e3d61f12cafa0.jpg",
+		"data_size": "62110564",
+		"description": "突如異世界に召喚され、勇者として魔王と戦うことになった少年・悠真。 彼を召喚した巫女・シンシアとともに、平和を守るための旅に出発することになります。 目にするものが初めてなものばかりの世界で、さまざまな人物たちとの出会いを経て、ただの正義感や好奇心から旅を引き受けた悠真は、少しずつ変化していく。 そんな悠真を待ち受ける結末とは一体……？ 同じ武器を長く使用すると愛着度が増え、新たなスキルが使用できるようになったり、武具に魔石を装備することで、ステータスが上昇するなど、いろいろな効果を受けられたりと多彩なバトル要素が楽しめます。 実力試しの闘技場やサブクエスト、モンスター図鑑のコンプリートなど、長く遊べる工夫もたっぷりです。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-06-01",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/05c9a018036c35c5e83f62bd52b0e4c15a5d1e3796b13dd0c3580cb83dca038f.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/fd1b8c26f9851c801303bcc6cd4025be69e191a0d61befa8bd542b8530b94f2e.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/69debcd5702a07ed38f919c9a86ef5a3fd17b3222d5dbfd36a8114ad42ab6528.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e2ac158d241d15c08c5d75263dfa426ba66293bd823e6a75edd4e20d4e6e773e.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e52190170b557f9a24bc9861be4afa457d5eb946a76e6f33f330e7f6b36da3c8.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/61201a51a6a0b46622a73c11b12334230424112170aa18050b81ab75c52606af.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fb00017db3e0e8a0e2d22167176e8863c597e6b5090f6afdd72d68cd5d021c63.jpg",
+				"name": "巡界のクレイシア 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/de229e95e4b9dc685af364877089d5ad3644431d74fea069a765159ddfa2e034.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "130"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c915ee89e61beb5c0c9c2049c50cda7d264b51c01da50f3c29dd26187ca2a465.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "130"
+					}
+				]
+			}
+		]
+	}
+}

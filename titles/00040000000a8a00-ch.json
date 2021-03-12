@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000A8A00",
+	"eshop_id": "50010000011891",
+	"product_code": "CTR-N-AKKI",
+	"name": "Il professor Layton e la maschera dei miracoli",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9864a02d72d0bd65d405e47ffb09b78a09ddf69e5452455bcacaa25773e991fd.jpg",
+	"data_size": "832166756",
+	"description": "Il quinto gioco della serie offre 150 rompicapi nuovi di zecca e una nuova serie di minigiochi direttamente dalla valigia del professore. Il professor Layton e la maschera dei miracoli vanta anche 365 Enigmi del giorno, distribuiti quotidianamente tramite Nintendo Network - un enigma al giorno per un anno intero dal giorno del lancio del gioco.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2012-10-26",
+			"retail": "2012-10-26"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5d5ab41a0c148e4c67f084064a88fcb612aed250338109c0b7c976e659177724.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/bf85034058710ed3b2a23d8be555f1e98a921bd410d185320cd6cf67d3a968db.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/160fd9e7b27db1da00eb8e0ababbd80c8ecac1128e22eef998017df42f7e567f.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/663581eeeee55a8c6d974a52b9556ef90a92430944febb580cf21dce9735b9a6.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/008a17e3f728e43d0dab2b9e08b7e8318830bf95ca296f881bfe7076a304c2d3.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1710a021ca4c59e75d9969ee120fc5055a3bde08f0b5ac2db70e23fde0e35289.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8e7d6df8238927e126514af77077640e3513724e512fcd11598d81fc8de61291.jpg",
+			"name": "Il professor Layton e la maschera dei miracoli: trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2a907e396c2acc2ad9e83bbe93a92e962b225cabd5c80870ffdf3e0caaa54a1b.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "114"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c5d83effae2164fdfba755e1ad44e4c9084a4c19755c612bff6cbad73b6f1681.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "114"
+				}
+			]
+		}
+	]
+}

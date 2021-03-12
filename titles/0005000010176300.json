@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010176300",
+		"eshop_id": "20010000006286",
+		"product_code": "WUP-N-WLFJ",
+		"name": "Little Inferno リトル インフェルノ",
+		"platform": 124,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b815311642a8e58d68bf3dc5328b59f59e2ab06461e4afdc4d5b7e78db9300f9.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/49fcd5400261332dbea51b6caea357d8629e75aa4f46d7387c687e06207e219c.jpg",
+		"data_size": "125141132",
+		"description": "何でも燃やせる不思議な暖炉、「リトル インフェルノ」。使い方は簡単。カタログから燃やしたいものを取り寄せて、火にくべたら、燃える様子を眺めるだけです。カタログには、かわいらしいおもちゃから、ちょっと不気味なものまで盛りだくさん。一緒に燃やすものの組み合わせ次第では、コンボが発動して、賑やかにお祝いしてもらえたりもします。コンボは全部で300種類ほど。ヒントを頼りに組み合わせを探し出すという遊びも、お楽しみいただけます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-04-02",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/de5363659790e435be9ef677546cf73468952a17659c670ebb7abdef1510f065.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/82aa74853125f8479246f0a801ba676a62111a3d819f2d69bca369f1698dd56a.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/9b100ccd6a3005faff94aa112246f4baaaefd8780c647b1c7ebeb4ffcf964c22.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/686f4e14929233fc0b7deca0c7c7f18d712d40edc8e6c72b11523fdaf5a79de8.jpg",
+				"name": "Little Inferno リトル インフェルノ 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a0b2f3b1aaf0dc81e46a63798d0c3286a370f0318cf7a5eab21536ddecff0f3c.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "278"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c58beb20d6ac549ea5b58834691ffad024b9193f2f735f64f1b120ff6b2bb3ae.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "278"
+					}
+				]
+			}
+		]
+	}
+}

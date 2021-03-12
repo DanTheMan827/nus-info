@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101E1A00",
+	"eshop_id": "20010000020287",
+	"product_code": "WUP-P-AHMP",
+	"name": "Human Resource Machine",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1022,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/02120df3daf6f97eddb02d959f8b23b987c747f5f67950c17a151fcf2257a0cd.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0f434b5310df0346ccfc7e3afb5887e1ab49100b47a08f4f1b24de1b84445315.jpg",
+	"data_size": "111018124",
+	"description": "Programmieren Sie Ihren putzigen Büroarbeiter um Rätsel zu lösen. Seien Sie ein/e gute/r Angestellte/r! Die Maschinen kommen...und wollen IHREN Job! In jedem Level gibt Ihnen Ihr Chef einen Auftrag, den es durch Programmieren zu automatisieren gilt. Wenn Sie erfolgreich sind, werden Sie zum nächsten Level befördert, wo Sie ein weiteres Jahr in diesem riesigen Bürogebäude arbeiten werden. Glückwunsch! Human Resource Machine ist ein Rätselspiel für Nerds. Solltest du keine Ahnung vom Programmieren haben, keine Sorge! Programmieren ist nichts anderes als Rätsel lösen. Wenn man erst mal von den ganzen 1en und 0en und diesen furchteinflössenden geschwungen Klammern wegdenkt, ist Programmieren einfach, logisch, wunderschön und etwas, womit jeder zurecht kommen und Spaß haben kann! Bist du schon Profi? Für dich haben wir ein paar besondere Herausforderungen. Vom Designer von World of Goo und dem Team hinter Little Inferno. Haben Sie Spaß! Die Geschäftsführung sieht zu.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-12-03",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/f5109bca6a9c3d96da22d7083b550d9b0961dc48734906625573544264d9d73c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f4c502e50c23c449fe19df990cbdb116f50ec834bdc1a29c18526fe4ba3933bd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5d93885699ea5b7a98830aded611238de5da6f1809412a4fed7cd733790089e0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/588b881e63b9c31f5fa675d2702b452ac67e5f96f9036430cda87f9190bb202a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/28b713203c72d03953a3796013083cb522a80810f54aa68ac6f2db043b81b807.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/32c6e36b5918a83fff0596495870de20c57aa3905feba1bccfaf9c5524c4e7be.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2fcf8a43789a6ee14015f758d46e77cdd96d67002724ec4efc8a388ff0b7aafe.jpg",
+			"name": "Human Resource Machine Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e0bf6787ddacd62c9531c4ca77e69a0681da427f857a1623aea7f937d5bab84e.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "59"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8efbf27ac013a1fb375f392f4d626a697ba177c01c4ef27067042e3eebadf21f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "59"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001015F700",
+	"eshop_id": "20010000005405",
+	"product_code": "WUP-N-FCKJ",
+	"name": "影の伝説",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 246,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d6d7eb403652074ea86f62a56a2beb433cb63a4b3dd6abcd0cb4fdf2c5018fcb.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/df5af4df86c806eab36e410fe9534b19ae928a51c0290f7448c3a404a4f18681.jpg",
+	"data_size": "36536460",
+	"description": "このソフトは、1986年に発売されたファミリーコンピュータ用のアクションゲームです。 プレイヤーは主人公「影」を操作し、刃と手裏剣で敵を倒しながら、さらわれた霧姫を救うため魔城を目指します。道中に現れる水晶玉やマキモノなどのアイテムでパワーアップしたり、さまざまな忍術を使って、次々と襲いかかる忍や火を放つ妖坊を倒していきます。ひとっ跳びで大木の上まで到達したり、木や柱をするすると登ったりなど、忍者ならではの爽快なプレイが楽しめます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-06-04",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/1da8c4cb9f9f21bd3a82d6a29e8225350a04c29382ddd72ef08be9037bde1420.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ccf2f6cd371b0f667c208ecb1d54b03d8e0abf6d8f264a2378c5b1e32875a53b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/903d5d31e513c876a667c953587850aac7ac5c03d5d4b3e82ecd4b1531ee09b2.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f98b1936db3042d2865d7592059991c9655eb199e739b3164be214dcfa5bcb23.jpg",
+			"name": "影の伝説 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/481677a92d4dab18ee2606471604bbc1dec64cc06518ee26472993d423247e9a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/97d573d5142c5516a6ee99c5a71e29b5847c0d39929b3d51624580747f519a85.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				}
+			]
+		}
+	]
+}

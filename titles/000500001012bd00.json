@@ -1,0 +1,977 @@
+{
+	"CA": {
+		"title_id": "000500001012BD00",
+		"eshop_id": "20010000001944",
+		"product_code": "WUP-N-AC3E",
+		"name": "Pikmin™ 3",
+		"platform": 125,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/02b799087d4fe2439309553a819fc87437d0f63c88c10e21f35e717c6db8a1e5.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f7c70ad9f628b40a370a3efd66600d1096632f714577a3b3d51b2d8f70bae8e3.jpg",
+		"data_size": "4134666680",
+		"description": "Embark on a new adventure in the critically acclaimed Pikmin™ series, known for its mass-action gameplay and adorable Pikmin characters. With three explorers at your command, split Pikmin into multiple squads to maximize your strategy. Five Pikmin types, including Rock Pikmin and Winged Pikmin, offer unique abilities to help you overcome enormous obstacles. Can you defeat massive bosses and gather enough food to save your depleted home planet? With additional challenge modes and a frenetic multiplayer battle mode, the world of Pikmin has never been more alive and fun! Check out the theme inspired by this game in the Nintendo 3DS Theme Shop*. Just tap the icon in the upper left corner of your Nintendo 3DS* HOME Menu to get started. *Theme compatible on Nintendo 3DS family of systems. Systems and themes sold separately.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2013-08-04",
+				"retail": "2013-08-04"
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/9748e0d74d1214dd9d8a8b9ee48edf7f670515f3f3e6681433f0fe8bd096acc1.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/c2c5b1795a1618e5392975051cb5455fed3367701988ed9ce0873384b2bf3e52.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/2697dcabb141099768c88a12aeeadae88c022f37e791f7a09cb89ccefd5b3500.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/64fa17231f21c769efd02bdcd9912a1463d73a64499412dd90d6a7c408bf4222.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/776a139b1414667ebf0494115a07737d2140e6810672c0a1272bc7f761d33faf.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/35d06662fb6ab5b32564d36ba91ab2a8007b5ab7cec06e4cec265da77478f518.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8834d9e6cb42d73eea389bda68ee6c442af0b05ace55b56cdbf4db563b3e46fe.jpg",
+				"name": "Pikmin 3 Accolades Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/eba04ee5b917963e5fa5c74a0a8395c1cb3453126b1e1ac7dfaeef730367cb12.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "80"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a36200f08c1069c0b6537f7f0f258b3567ff52ebd83ee6b06494fa646dffdb66.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "80"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5b3079b96cae3aabfe0a403e042618f0695cea6411c1aba6df5c217da256da4d.jpg",
+				"name": "Pikmin 3 – Get to Know Miiverse and the KopPad",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/de54bf76084a580140b1e9f6655591e30bd39343b0fea1831ab6d706568ae570.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "62"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b50502ffc13f8d1852959a955a5f89e857e5cf8533d3e550ef11fa0a5f91c5c1.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "62"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ee1dd196ad4e054be5ac427e7a765c56168fe28af1c2a51c15b7bcf1a847b94e.jpg",
+				"name": "Pikmin 3 – Get to Know Gameplay Basics",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ddc414d98e4d6f7e363492b6a86027c0664f57c0d69e6293a4a665b8a8e18e0e.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "65"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/272bb1d1d0601c3a382bf6a00b8491ea42021291edb56b4ef31315588c25677d.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "65"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b80d4d282e054cdc60fd154403525377569d498690db7132bea1c0038a815f7.jpg",
+				"name": "Pikmin 3 – Get to Know the Explorers",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2b82c731e90aa3a93543b1b9a818aafc877d2b95ebdc831870a8ef32d84d278a.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "64"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ebd4dbad3336c104ed04e062979d403d3a6b0368d4ee4ed63ab5fa34b3a73a58.jpg",
+				"name": "Pikmin 3 – Get to Know Pikmin Types ",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/26b8f2d9ef70c028cd3f7cc30de8de4326fb2e723878abfd16ab7aa72cbe5b01.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "70"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/df63cb63e2d09c34164c097e294ef70f9affae704c284472ebbf30ffe881d4d4.jpg",
+				"name": "Pikmin 3 - Get to Know Mission Mode and Bingo Battle",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2c689c5c7ea0373c2b553aac75aebd1dccaf2a88315076fb90228854333339d6.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "76"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5aa335483516a2e3d02dc321add9c3de7d6c99c72314ef48a22d0c2f65b071bc.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "76"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2175a9949a4e68fbb409c85d890a2dd13fc2175048e67ceae56a68b5c8e6b4f2.jpg",
+				"name": "Pikmin 3 Trailer 6/11/2013",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/69790046567e8dd4fbf23652d58c365cc1594baed8b0637a523f520265d76dd7.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "108"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/13cf42d1c093edb44d86a821a1e3fde3ec349d94dce17ba6790c039f0eeff4d0.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "108"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/53fb14524c4070043717932ae8122e6a692641bfe1d52bceca96d4f32be2b39b.jpg",
+				"name": "Pikmin™ 3 Commercial",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/01047d9985d12acafb828f34bce80de3106886bc5327ccd4bf7d991bac0d0fa7.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "30"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fbc20a31c1b3f27a83f4e79b4dbe461f978531124aafa8cac6dfca4a1c22792c.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "30"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d4e24839513e045e89b71736a7bcf494dcd37da07a2b4f1edc21337c3a32d179.jpg",
+				"name": "Developer Direct @ E3 2013 Pikmin 3",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3e54d2a3fac5a6d3735cd0c364a8769f253286efddd71cd550873b1fbe3f5ba9.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "484"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7a41818c09fe854bdf8c43733105334eee57f9e9090e3731e0d3588cf2098e6f.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "484"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e87b5ece1868d9b912c95cb0caa6aa8aa377cdd9102688cf683bda2698862681.jpg",
+				"name": "Pikmin 3 Introduction Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/551cd2c06a5a301ba28296c98af9e55b49120ba84af5cc32c2bb1b803ba1a4a6.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "384"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/882eeb928462925e0646dfb067bfbf6128b631e35a41d2e6321b82ab61514ab3.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "384"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f7af33ea6031de4130ee714f3b904e2a577e8d6a81d9b32a52e45439ac47340b.jpg",
+				"name": "Pikmin™ 3 – Purple Pikmin Video",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/15c28926d5e1d61b7807252db75488b2fffe82d6cca6888429795d28bedb1fb1.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "19"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7bc714aca73e2c2dc268074a80a34d945d31f0cd3b0ff32fb7c25ae61352b64d.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "19"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/649c3df639123f9f9b3069133c30a673032240584cee7ae870d605c533aeac9b.jpg",
+				"name": "Pikmin™ 3 – White Pikmin Video",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/29bdd9de3552f33b01af3112d9c760482f9f3138dc60736ec34a6dfed2762214.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "29"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/44717d46748fcf24dc778a304b69a08f0560824515d094059aa108d275ba1f35.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "29"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/45670a42cdbe00ecacb4c2d8f1722a9e0e601db1c2415ae5d44dcf47c79c0275.jpg",
+				"name": "Pikmin 3 - New Mission Stages in New Environments",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e4526a8e91c72f91b60d784b0124ac8e43faf8eb9b9f986f1ed0e7bd2b8d5c83.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "108"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0554bc48240552c0d1ca17f9e2630b1a33fea35674b8be17bd868e8cda5c03fe.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "108"
+					}
+				]
+			}
+		]
+	},
+	"MX": {
+		"title_id": "000500001012BD00",
+		"eshop_id": "20010000001944",
+		"product_code": "WUP-N-AC3E",
+		"name": "Pikmin™ 3",
+		"platform": 125,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/02b799087d4fe2439309553a819fc87437d0f63c88c10e21f35e717c6db8a1e5.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f7c70ad9f628b40a370a3efd66600d1096632f714577a3b3d51b2d8f70bae8e3.jpg",
+		"data_size": "4134666680",
+		"description": "Embárcate en una nueva aventura de la aclamada serie Pikmin™, conocida por su estilo de acción en masa y los adorables personajes epónimos. Controlarás a tres exploradores y tendrás que dividir a los pikmin en grupos para desarrollar una buena estrategia. Cinco tipos de pikmin, entre ellos los pétreos y los alados, ofrecen habilidades únicas que te ayudarán a sortear enormes obstáculos. ¿Podrás derrotar a los formidables jefes y recoger comida suficiente para salvar a tu planeta natal de la hambruna? Con nuevas misiones y un frenético modo multijugador*, ¡el mundo de los pikmin es más vivo y divertido que nunca! Visita la tienda de temas de Nintendo 3DS para ver el tema inspirado en este juego*. Para abrir la tienda, toca el icono en la esquina superior izquierda en el menú HOME de tu Nintendo 3DS. *El tema solo es compatible con las consolas de la familia Nintendo 3DS. Las consolas y los temas se venden por separado.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2013-08-04",
+				"retail": "2013-08-04"
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/9748e0d74d1214dd9d8a8b9ee48edf7f670515f3f3e6681433f0fe8bd096acc1.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/c2c5b1795a1618e5392975051cb5455fed3367701988ed9ce0873384b2bf3e52.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/2697dcabb141099768c88a12aeeadae88c022f37e791f7a09cb89ccefd5b3500.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/64fa17231f21c769efd02bdcd9912a1463d73a64499412dd90d6a7c408bf4222.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/776a139b1414667ebf0494115a07737d2140e6810672c0a1272bc7f761d33faf.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/35d06662fb6ab5b32564d36ba91ab2a8007b5ab7cec06e4cec265da77478f518.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8834d9e6cb42d73eea389bda68ee6c442af0b05ace55b56cdbf4db563b3e46fe.jpg",
+				"name": "Avance para lanzamiento Pikmin 3 Accolades",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/eba04ee5b917963e5fa5c74a0a8395c1cb3453126b1e1ac7dfaeef730367cb12.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "80"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a36200f08c1069c0b6537f7f0f258b3567ff52ebd83ee6b06494fa646dffdb66.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "80"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5b3079b96cae3aabfe0a403e042618f0695cea6411c1aba6df5c217da256da4d.jpg",
+				"name": "Pikmin 3 – Get to Know Miiverse and the KopPad",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/de54bf76084a580140b1e9f6655591e30bd39343b0fea1831ab6d706568ae570.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "62"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b50502ffc13f8d1852959a955a5f89e857e5cf8533d3e550ef11fa0a5f91c5c1.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "62"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ee1dd196ad4e054be5ac427e7a765c56168fe28af1c2a51c15b7bcf1a847b94e.jpg",
+				"name": "Pikmin 3 – Get to Know Gameplay Basics",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ddc414d98e4d6f7e363492b6a86027c0664f57c0d69e6293a4a665b8a8e18e0e.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "65"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/272bb1d1d0601c3a382bf6a00b8491ea42021291edb56b4ef31315588c25677d.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "65"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b80d4d282e054cdc60fd154403525377569d498690db7132bea1c0038a815f7.jpg",
+				"name": "Pikmin 3 – Get to Know the Explorers",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2b82c731e90aa3a93543b1b9a818aafc877d2b95ebdc831870a8ef32d84d278a.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "64"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ebd4dbad3336c104ed04e062979d403d3a6b0368d4ee4ed63ab5fa34b3a73a58.jpg",
+				"name": "Pikmin 3 – Get to Know Pikmin Types ",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/26b8f2d9ef70c028cd3f7cc30de8de4326fb2e723878abfd16ab7aa72cbe5b01.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "70"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/df63cb63e2d09c34164c097e294ef70f9affae704c284472ebbf30ffe881d4d4.jpg",
+				"name": "Pikmin 3 - Get to Know Mission Mode and Bingo Battle",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2c689c5c7ea0373c2b553aac75aebd1dccaf2a88315076fb90228854333339d6.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "76"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5aa335483516a2e3d02dc321add9c3de7d6c99c72314ef48a22d0c2f65b071bc.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "76"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2175a9949a4e68fbb409c85d890a2dd13fc2175048e67ceae56a68b5c8e6b4f2.jpg",
+				"name": "Pikmin 3 Video 11/06/2013",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/69790046567e8dd4fbf23652d58c365cc1594baed8b0637a523f520265d76dd7.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "108"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/13cf42d1c093edb44d86a821a1e3fde3ec349d94dce17ba6790c039f0eeff4d0.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "108"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/53fb14524c4070043717932ae8122e6a692641bfe1d52bceca96d4f32be2b39b.jpg",
+				"name": "Comercial de Pikmin™ 3",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/01047d9985d12acafb828f34bce80de3106886bc5327ccd4bf7d991bac0d0fa7.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "30"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fbc20a31c1b3f27a83f4e79b4dbe461f978531124aafa8cac6dfca4a1c22792c.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "30"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d4e24839513e045e89b71736a7bcf494dcd37da07a2b4f1edc21337c3a32d179.jpg",
+				"name": "Developer Direct @ E3 2013 Pikmin 3",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3e54d2a3fac5a6d3735cd0c364a8769f253286efddd71cd550873b1fbe3f5ba9.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "484"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7a41818c09fe854bdf8c43733105334eee57f9e9090e3731e0d3588cf2098e6f.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "484"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e87b5ece1868d9b912c95cb0caa6aa8aa377cdd9102688cf683bda2698862681.jpg",
+				"name": "Breve avance de Pikmin 3",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/551cd2c06a5a301ba28296c98af9e55b49120ba84af5cc32c2bb1b803ba1a4a6.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "384"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/882eeb928462925e0646dfb067bfbf6128b631e35a41d2e6321b82ab61514ab3.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "384"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f7af33ea6031de4130ee714f3b904e2a577e8d6a81d9b32a52e45439ac47340b.jpg",
+				"name": "Pikmin™ 3 – Purple Pikmin Video",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/15c28926d5e1d61b7807252db75488b2fffe82d6cca6888429795d28bedb1fb1.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "19"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7bc714aca73e2c2dc268074a80a34d945d31f0cd3b0ff32fb7c25ae61352b64d.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "19"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/649c3df639123f9f9b3069133c30a673032240584cee7ae870d605c533aeac9b.jpg",
+				"name": "Pikmin™ 3 – White Pikmin Video",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/29bdd9de3552f33b01af3112d9c760482f9f3138dc60736ec34a6dfed2762214.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "29"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/44717d46748fcf24dc778a304b69a08f0560824515d094059aa108d275ba1f35.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "29"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/45670a42cdbe00ecacb4c2d8f1722a9e0e601db1c2415ae5d44dcf47c79c0275.jpg",
+				"name": "Pikmin 3 - New Mission Stages in New Environments",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e4526a8e91c72f91b60d784b0124ac8e43faf8eb9b9f986f1ed0e7bd2b8d5c83.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "108"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0554bc48240552c0d1ca17f9e2630b1a33fea35674b8be17bd868e8cda5c03fe.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "108"
+					}
+				]
+			}
+		]
+	},
+	"US": {
+		"title_id": "000500001012BD00",
+		"eshop_id": "20010000001944",
+		"product_code": "WUP-N-AC3E",
+		"name": "Pikmin™ 3",
+		"platform": 125,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/02b799087d4fe2439309553a819fc87437d0f63c88c10e21f35e717c6db8a1e5.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f7c70ad9f628b40a370a3efd66600d1096632f714577a3b3d51b2d8f70bae8e3.jpg",
+		"data_size": "4134666680",
+		"description": "Embark on a new adventure in the critically acclaimed Pikmin™ series, known for its mass-action gameplay and adorable Pikmin characters. With three explorers at your command, split Pikmin into multiple squads to maximize your strategy. Five Pikmin types, including Rock Pikmin and Winged Pikmin, offer unique abilities to help you overcome enormous obstacles. Can you defeat massive bosses and gather enough food to save your depleted home planet? With additional challenge modes and a frenetic multiplayer battle mode, the world of Pikmin has never been more alive and fun! Check out the theme inspired by this game in the Nintendo 3DS Theme Shop*. Just tap the icon in the upper left corner of your Nintendo 3DS* HOME Menu to get started. *Theme compatible on Nintendo 3DS family of systems. Systems and themes sold separately.",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2013-08-04",
+				"retail": "2013-08-04"
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/9748e0d74d1214dd9d8a8b9ee48edf7f670515f3f3e6681433f0fe8bd096acc1.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/c2c5b1795a1618e5392975051cb5455fed3367701988ed9ce0873384b2bf3e52.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/2697dcabb141099768c88a12aeeadae88c022f37e791f7a09cb89ccefd5b3500.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/64fa17231f21c769efd02bdcd9912a1463d73a64499412dd90d6a7c408bf4222.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/776a139b1414667ebf0494115a07737d2140e6810672c0a1272bc7f761d33faf.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/35d06662fb6ab5b32564d36ba91ab2a8007b5ab7cec06e4cec265da77478f518.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8834d9e6cb42d73eea389bda68ee6c442af0b05ace55b56cdbf4db563b3e46fe.jpg",
+				"name": "Pikmin 3 Accolades Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/eba04ee5b917963e5fa5c74a0a8395c1cb3453126b1e1ac7dfaeef730367cb12.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "80"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a36200f08c1069c0b6537f7f0f258b3567ff52ebd83ee6b06494fa646dffdb66.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "80"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5b3079b96cae3aabfe0a403e042618f0695cea6411c1aba6df5c217da256da4d.jpg",
+				"name": "Pikmin 3 – Get to Know Miiverse and the KopPad",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/de54bf76084a580140b1e9f6655591e30bd39343b0fea1831ab6d706568ae570.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "62"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b50502ffc13f8d1852959a955a5f89e857e5cf8533d3e550ef11fa0a5f91c5c1.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "62"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ee1dd196ad4e054be5ac427e7a765c56168fe28af1c2a51c15b7bcf1a847b94e.jpg",
+				"name": "Pikmin 3 – Get to Know Gameplay Basics",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ddc414d98e4d6f7e363492b6a86027c0664f57c0d69e6293a4a665b8a8e18e0e.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "65"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/272bb1d1d0601c3a382bf6a00b8491ea42021291edb56b4ef31315588c25677d.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "65"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0b80d4d282e054cdc60fd154403525377569d498690db7132bea1c0038a815f7.jpg",
+				"name": "Pikmin 3 – Get to Know the Explorers",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2b82c731e90aa3a93543b1b9a818aafc877d2b95ebdc831870a8ef32d84d278a.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "64"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ebd4dbad3336c104ed04e062979d403d3a6b0368d4ee4ed63ab5fa34b3a73a58.jpg",
+				"name": "Pikmin 3 – Get to Know Pikmin Types ",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/26b8f2d9ef70c028cd3f7cc30de8de4326fb2e723878abfd16ab7aa72cbe5b01.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "70"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/df63cb63e2d09c34164c097e294ef70f9affae704c284472ebbf30ffe881d4d4.jpg",
+				"name": "Pikmin 3 - Get to Know Mission Mode and Bingo Battle",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2c689c5c7ea0373c2b553aac75aebd1dccaf2a88315076fb90228854333339d6.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "76"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5aa335483516a2e3d02dc321add9c3de7d6c99c72314ef48a22d0c2f65b071bc.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "76"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2175a9949a4e68fbb409c85d890a2dd13fc2175048e67ceae56a68b5c8e6b4f2.jpg",
+				"name": "Pikmin 3 Trailer 6/11/2013",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/69790046567e8dd4fbf23652d58c365cc1594baed8b0637a523f520265d76dd7.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "108"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/13cf42d1c093edb44d86a821a1e3fde3ec349d94dce17ba6790c039f0eeff4d0.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "108"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/53fb14524c4070043717932ae8122e6a692641bfe1d52bceca96d4f32be2b39b.jpg",
+				"name": "Pikmin™ 3 Commercial",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/01047d9985d12acafb828f34bce80de3106886bc5327ccd4bf7d991bac0d0fa7.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "30"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fbc20a31c1b3f27a83f4e79b4dbe461f978531124aafa8cac6dfca4a1c22792c.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "30"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d4e24839513e045e89b71736a7bcf494dcd37da07a2b4f1edc21337c3a32d179.jpg",
+				"name": "Developer Direct @ E3 2013 Pikmin 3",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3e54d2a3fac5a6d3735cd0c364a8769f253286efddd71cd550873b1fbe3f5ba9.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "484"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7a41818c09fe854bdf8c43733105334eee57f9e9090e3731e0d3588cf2098e6f.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "484"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e87b5ece1868d9b912c95cb0caa6aa8aa377cdd9102688cf683bda2698862681.jpg",
+				"name": "Pikmin 3 Introduction Trailer",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/551cd2c06a5a301ba28296c98af9e55b49120ba84af5cc32c2bb1b803ba1a4a6.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "384"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/882eeb928462925e0646dfb067bfbf6128b631e35a41d2e6321b82ab61514ab3.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "384"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f7af33ea6031de4130ee714f3b904e2a577e8d6a81d9b32a52e45439ac47340b.jpg",
+				"name": "Pikmin™ 3 – Purple Pikmin Video",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/15c28926d5e1d61b7807252db75488b2fffe82d6cca6888429795d28bedb1fb1.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "19"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7bc714aca73e2c2dc268074a80a34d945d31f0cd3b0ff32fb7c25ae61352b64d.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "19"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/649c3df639123f9f9b3069133c30a673032240584cee7ae870d605c533aeac9b.jpg",
+				"name": "Pikmin™ 3 – White Pikmin Video",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/29bdd9de3552f33b01af3112d9c760482f9f3138dc60736ec34a6dfed2762214.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "29"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/44717d46748fcf24dc778a304b69a08f0560824515d094059aa108d275ba1f35.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "29"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/45670a42cdbe00ecacb4c2d8f1722a9e0e601db1c2415ae5d44dcf47c79c0275.jpg",
+				"name": "Pikmin 3 - New Mission Stages in New Environments",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e4526a8e91c72f91b60d784b0124ac8e43faf8eb9b9f986f1ed0e7bd2b8d5c83.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "108"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0554bc48240552c0d1ca17f9e2630b1a33fea35674b8be17bd868e8cda5c03fe.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "108"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010107E00",
+	"eshop_id": "20010000000907",
+	"product_code": "WUP-N-FAFJ",
+	"name": "ドンキーコング",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7064604db965a66c334fa3ca68cd667e164f971c75710d1eddd6a72620e15174.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a9b91a75c214ae1d83be212772d6d78382b3184cfedb2313a6745640c0d40fae.jpg",
+	"data_size": "36536460",
+	"description": "このソフトは、1983年に発売されたファミリーコンピュータ用のアクションゲームです。 ドンキーコングにさらわれたレディを助けるため、建設中のビルに乗り込んだマリオ。ドンキーコングが投げてくるタルをかわしたり、おじゃま虫をハンマーで倒したりしながら、画面上部のレディを目指して進みます。3面目ではドンキーコングと対決できます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-07-15",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/e88b60de70ffcdbafc8280e2c988ddfd3212cb8ac483a9cd4c3456131214f15a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/838fcbd1d99f8dc238b7b684c9a8c488d8a9ef2fc710a3c26d09fe4137cb9686.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0207bc3f767be6ee8451f22fa7dad35c95421879b29d201a2aee6ca0c028b285.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/258de0740e28473f3efb9fbb7702dba6a970f9ff77aaa35d43a56001743c24f6.jpg",
+			"name": "ドンキーコング プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b1025bde23d1017fb70bbd74dccf7db229a87989be9d6db4935244c2a848d2be.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/251baa5b2bb60fccc2b01a34fae940b03cbc1438c6b0a48b5cd5c44b85651a97.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				}
+			]
+		}
+	]
+}

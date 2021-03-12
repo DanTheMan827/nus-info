@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001014A900",
+	"eshop_id": "20010000003264",
+	"product_code": "WUP-N-FBRP",
+	"name": "Donkey Kong™ 3",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e0482bd43fc450ede421a01b59aa9a4c7078683515f2683a5e3e6cb18c5bbe86.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ec83521ff4151ff5510225a5f8b8bb6e7296926628036382a11dc152a6616ae2.jpg",
+	"data_size": "36503692",
+	"description": "Dans Donkey Kong 3, notre singe préféré et une nuée d'insectes ont envahi la serre de Stanley, nouveau venu dans la célèbre saga à l'action palpitante. Armé d'un aérosol, vous devez forcer Donkey Kong à monter en haut de l'écran et repousser les insectes cherchant à voler les fleurs magnifiques de Stanley. Esquivez les noix de coco lancées par Donkey Kong et munissez-vous du super aérosol pour faire exploser votre score ! Si vous possédez ce titre sur votre Wii, faites un transfert Wii™ vers votre Wii U™ afin d'obtenir la version améliorée à un prix spécial ! Ceci est la version américaine du jeu.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-10-24",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/d64a36435bc7fc4b27f2bbf8bf92e3b46f5c95953b27953616be94813f954304.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/077ab0c2dc1156aa600fca337c50a192cea516834d7105dcd008a2ec47bcbfba.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/30d01da192d87744f17ac68d598b5f29d2d0dd4b8de4dfb0be8fc5d233f4acbe.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1149cd71e1add42928c62a6a7176a2bcdb010e97d11d16ed18ea3597c03d9bff.jpg",
+			"name": "Donkey Kong™ 3 : vidéo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8320f1bd211e7cdffb144c13f916f2a32068ac5fda5e20089714bc62b863b2ef.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "42"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a1a1f1b2142aeb22bb9b81c04e375d08a976cc38e18f6091ae8de6873b72ade3.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "42"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001012E700",
+	"eshop_id": "20010000001769",
+	"product_code": "WUP-N-FA7E",
+	"name": "Mega Man™ 4",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 39,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/40de96159995898b1bec2f0b52ab1a8893fe6f0d2973d0cfa65c3460de29aabb.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/41ffd2536913896426419280b94762adf3dfde3497942c83e201d6a7745ca9ce.jpg",
+	"data_size": "36798604",
+	"description": "A year after the destruction of Gamma, and Dr. Wily's defeat, the world is still at peace. One day a mysterious letter arrives for Dr. Light from an unknown scientist named Dr. Mikhail Cossack. Dr. Cossack plans to eliminate Mega Man and prove he is the greatest robot designer of all time. It's up to Mega Man to save the day once again. Mega Man 4 provides action based game play like the earlier games in the series. Rush, Mega Man's canine companion, is back to battle the baddies. Mega Man also has the ability to charge up energy inside his Arm Cannon, allowing him to fire larger and more damaging blasts.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-06-11",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/546f2907330b2d709a991021bed25f8da1b97a1dacec6b1934385be2bc097ed8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f0f4f2a739108b56892c58cef19b76c609662f565729196af16909532cd7bc55.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c008f4eb11afdeb507214d5484014fac3822c33ddf15eb9f4ca60cce331e9507.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d508c6f6b0317d3f56fbfb25b1a67a08d5b4de645be808822950616eb43e1858.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6e90a608db4630eba993895e40fa591728f7949c66a17934e299b782f10f0e41.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/051284b7d4fbf03bd8a34fad004a15007dc0b554d39e2343c4bbf0eb74724258.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a109b9345337bc67951faf7d70c34e4427cf9e5ba2d7b22f32268b34006c59d6.jpg",
+			"name": "Mega Man™ 4 Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3b82d4adaad51f643118fa1c4cfb436497d44c9956166f4651e35647e42feeb8.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "35"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/161f9ed093738639a2164ec674663a81e7c053e185e89c443548e7d6d3ecdf55.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "35"
+				}
+			]
+		}
+	]
+}

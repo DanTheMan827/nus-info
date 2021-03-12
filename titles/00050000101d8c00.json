@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101D8C00",
+		"eshop_id": "20010000017747",
+		"product_code": "WUP-N-ATZJ",
+		"name": "ブルームーン",
+		"platform": 124,
+		"platform_device": "WUP",
+		"publisher": 1292,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c4aed37bf07a4876df97e3b682f106e88bcf619cf61c0bfa12a2a745e8b5483c.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/042990cfbd4863a138ea2b873f92f55859a52db0479120045789b3313ec57446.jpg",
+		"data_size": "71303328",
+		"description": "数多くの星が瞬く夜、夜道を歩きながら、そこで起きるさまざまなイベントを楽しむアドベンチャーゲームです。周囲に注意を払いながら、決められた条件を満たすと、「星座」「魔法の森」「虹」「紅いバラ」「キス」といったイベントが発生します。繰り返しプレイして、すべてのイベントをお楽しみください。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-09-09",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/ec1bb6e4fb55099b174bd5e0139458e58edf10c0c6611fc17eb0f33b16938cf7.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/99a88df3bbb09def2eb855a61af7d3513ed3f3850a5fd7af2581e18f1edeac5a.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/ac3666bbeebc296fafec945cde0c19673e7b7d643666b7b3e369b11f144673d4.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c72493bac4792e509336b0ecfefa7a65c3436085204a5b66142dad92dbb08c40.jpg",
+				"name": "ブルームーン 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b2f95a4b93fb6ee11674b5bd718a69880ed86a06d933b26a016d7e47e1ced3ef.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "126"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9342a76ff7322a1b0a83a47b3a5072212f61f7ed2b4cc2f4d539edbe6c8b3f7c.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "126"
+					}
+				]
+			}
+		]
+	}
+}

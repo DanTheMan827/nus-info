@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001012E900",
+		"eshop_id": "20010000001545",
+		"product_code": "WUP-N-JA3J",
+		"name": "パネルでポン",
+		"platform": 164,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c31e8a8b009b55489f008a0b1a12a137632083ab2ed48cd7140a1d3a306ea4a7.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/473e6a98d117756e05503f7d383e528e00d102fa1b343249291b6e8926c7619e.jpg",
+		"data_size": "41255052",
+		"description": "このソフトは、1995年に発売されたスーパーファミコン用のアクションパズルゲームです。 隣り合う左右のパネルを入れ替え、3つ以上の同じパネルを縦か横にそろえて消していきます。数あるテクニックの中でも重要なのは、パネルが消えていく間にほかのパネルを操作し、次々と連鎖していく「アクティブ連鎖」。うまく使えばスコアアタックでハイスコアが獲得できたり、VSモードで相手に大きなおじゃまパネルを送ったりできます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-05-29",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/d1170a0d79ac059ae1489c92e22c292e8a0c474eaf9df8ac8296169db2026739.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/28d0ae314cf70d9e2cd984bf9f886b269c399d9804188be1c89d348c3a34c976.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/176c3b6083d9c9dd547fb5e71b411b9b3a6dcda1556cee435ad2d077b9a369a6.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e2a46b0abb17f4342ba4593c2b28cf5964a6e0c5646a8f680d59830d35ca3766.jpg",
+				"name": "パネルでポン プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bf23bd3174a3028ba9142b9ca596f7fe53439dc5913c5fca6d2e65b7726263f7.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "44"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/43bec557b35a16fc6482b3a35f200672cd28f0ee74defd011b3b437fe5ffcd59.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "44"
+					}
+				]
+			}
+		]
+	}
+}

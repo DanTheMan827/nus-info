@@ -1,0 +1,48 @@
+{
+	"title_id": "0005000010131500",
+	"eshop_id": "20010000000926",
+	"product_code": "WUP-P-WETP",
+	"name": "Wii U™ Panorama View Voo com os Pássaros",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/93ef0672d6f24f39f094a9a6d07470591a422317a879207e9efbc6a23ea8a1a5.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/bc4cd980a01e9c541ef24d086bfca88d125c28f55a76d9941c3320896a6cc1b2.jpg",
+	"data_size": "356450444",
+	"description": "Ancona, Itália Neste vídeo irás circular num planador e voar juntamente com os pássaros em Ancona, uma cidade portuária na região das Marcas, no centro de Itália. O voo é iniciado a partir de um vasto campo e poderás ver a igreja de San Francesco a partir de cima. De seguida, irás voar para o Mar Adriático, onde poderás apreciar a magnífica vista marítima. Este vídeo não possui áudio.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-04-27",
+			"retail": null
+		}
+	},
+	"screenshots": [],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/36836f2f70bc549f09df88e4a37f587ccb8ca45df48f456f19a3b74ffa56f541.jpg",
+			"name": "Wii U™ Panorama View: Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ed55717842fa5d8c1719a9613190a40bd7e77ca2f20e8b547ed4a1ba4983e8ba.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "139"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8279d81f525287c918de34bdd157d2968be663e6c7bd148765fc2fd55d1e89ed.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "139"
+				}
+			]
+		}
+	]
+}

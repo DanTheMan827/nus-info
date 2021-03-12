@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010157800",
+	"eshop_id": "20010000007147",
+	"product_code": "WUP-P-WJCP",
+	"name": "Squids Odyssey",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1246,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e47a8281b4da0b2553a420e709855fcfcac4ff5f927bd991fa29b53399ada500.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b3e79f620134a9975a164b61e979ded1787f809e039a05bc82cd8aa7d88e13d6.jpg",
+	"data_size": "480510092",
+	"description": "Squids Odyssey ist eine einzigartige Kombination aus Action-Strategy und RPG - baue dein Team aus heldenhaften Squids und versuche, vordorbenen Krebsen und bösen Krabben in rundenbasierten Kämpfen den Garaus zu machen! Steev, Vahine und die anderen Squids schweben in höchster Gefahr! Ihre Welt wird von einem ansteckenden schwarzen Schleim bedroht. Die Gruppe ungewöhnlicher Helden muss sich wehren, um ihre üppigen Unterwasserreiche zu retten! Bei Squids Odyssey geht es nicht nur um herrliche Cartoon-Kunst, flotte Musik und lustige Geschichten. Die rundenbasierten Kämpfe sind auch besonders schwierig zu meistern, weil du Strategie und Können brauchst, um mit Elementen in deiner Umgebung, den Stärken der Squids und Schwächen deiner Gegner als Sieger hervorzugehen!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-05-22",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/a778977b246b7c0e90da574b39f8058198516a08683280ded0fbd9ece35128e8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2954abba52e87b3e1b006772f768794ebf9ffd316b168df0e34c98766e346fe5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/de0a75aedbb4bc329cda4def44d8f225ae80be3f851a80f5b524b453955dfe81.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/01ab02bf90c2db197e6228adcba419a22c34ce4c682457ba4a2348aa91b627a2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/28bca28f8022fa552e9f70433fa5cf164cc27a819e3b487a6df671ca00abfd76.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/03a9a32a99a0e66ab2deae0d29057e02b293e1255cc74b31d9b700b3767b0781.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bf2a5705a5cb1453540c48c192b147e8073c74b35509c27c6921dd17dec531c9.jpg",
+			"name": "Squids Odyssey Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/52b03f16f71ad4a46f7b5fa013fdd5a1ab4b3a4a71a92c01db7597e71a220b9d.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "70"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/da608defad92ee9517753a2fe0ee4a0301105221098544f7bb219ae5c5e50ab8.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "70"
+				}
+			]
+		}
+	]
+}

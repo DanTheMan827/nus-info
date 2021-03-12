@@ -1,0 +1,52 @@
+{
+	"title_id": "00040000000A1F00",
+	"eshop_id": "50010000012535",
+	"product_code": "CTR-N-JTYJ",
+	"name": "AZITO 3D Tokyo",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 118,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/1bc59d0dd247b6e21e261b1c01ee17667740d48f84977950f7449afa48d65b07.jpg",
+	"data_size": "79371108",
+	"description": "『AZITO 3D Tokyo』は、2011年11月3日に発売された『AZITO 3D』には収録されていないマップ「東京」が舞台の秘密基地作成シミュレーションゲームです。「アジト」初心者の方に安心なやさしいチュートリアルを実装しました。 子供の頃に夢見た秘密基地を思うままに作り上げ、怪人やヒーロー、怪獣やロボットを開発し、基地の守りを強化してください。東京にちなんだ東京限定ヒーローや怪人などが登場し、あなたの秘密基地を守ります。 ",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2012-12-05",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ccd3ab9e93c035f35eabcf6f833c6a3eeb9a3ef05f4f2bb23cd6803166a888c3.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2ce86158fd5ed4f0eee6a89ceefadb65a984ded52933788a298a5eb1056f0a50.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0527a6840903aba95c22b55c5420afcf477a7b0b277b6eee364325a26efe11c1.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4e3988365442b1d0bb8e89516cfe1c089daee70c846a0054e1b328b65255e603.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/99b0177400c9ac7d2d43d4cbe50aeb4b64587f747ac8599cbf8e737bf8f50db5.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c93698b30cbe0c053c9e457e4267d161e244e3f7410bc1eb0169ae51d8db597b.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/66460b3e250e0d7d8eb6d948ed9b820b5d89330c1b1af39494e500618c95fb25.jpg",
+			"name": "AZITO 3D Tokyo プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/67474f77af0995cbf8252d1b09702c92a2fb86aa48c8eca3addf3e9d22cbe8fe.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "47"
+				}
+			]
+		}
+	]
+}

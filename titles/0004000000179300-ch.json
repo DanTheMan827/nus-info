@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000179300",
+	"eshop_id": "50010000040335",
+	"product_code": "CTR-P-AKMP",
+	"name": "Mein Teddy und ich",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/39c18731f59e3cd9ebf8636d95c4a317a7386dde5042c76e17dd545bb63a8c73.jpg",
+	"data_size": "403733348",
+	"description": "Ein lebender Teddy wird dein neuer Freund. Kümmere dich um deinen Teddybären der sprechen und laufen kann, und der es liebt mit dir gemeinsame Minispiele zu spielen. Mein Teddy und ich ist auch ideal zum gemeinsamen Spielen mit deinen Eltern. Das liebste Stofftier erwacht zum Leben - wer hat nicht schon mal davon geträumt? Unter amiibo.nintendo.eu findest du eine Liste kompatibler amiibo™ und aktuelle Informationen. Um amiibo auf Nintendo 3DS-, Nintendo 3DS XL- und Nintendo 2DS-Systemen zu benutzen, wird ein Nintendo 3DS-NFC-Lese-/Schreibgerät benötigt.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2016-07-01",
+			"retail": "TBD"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8256fd669533523944afddf17f65c26936a50530e858a8c034f9e9552d7b6b74.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5060007206c09488ed049fa9fca57381229021fa2dd250eebfef8f7f52d17484.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/befe84dea671eaadf4f27934d8335b4f7aa3e941c54df6bf12a1a06f5ca2a17d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2239666b0763ab52e43fd2f21a35010779d585c54a532ccc2f86ecc0c3457fb8.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3db2b8cd6c9fff83098745c1c46884b29b7b8af75ad17266dba72f34dbd32124.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/032142d13f47ee7d0f1860e06250914c08255dddfa5d8b702391d3b835d52460.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a611818df93e30fbf47d8f1eb0c2d0261c55e0ba23f740bc03164722089834b3.jpg",
+			"name": "Mein Teddy und ich: Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/81fbf6f4b879ce2abaae09424b8a8a08600dc4223fda96f2dafb7ec9fbe80259.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "141"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0e6c371091d80f7c0faa7d589260310309300959261381b7260244facefa4547.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "141"
+				}
+			]
+		}
+	]
+}

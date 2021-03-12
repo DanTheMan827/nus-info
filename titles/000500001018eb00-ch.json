@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001018EB00",
+	"eshop_id": "20010000012647",
+	"product_code": "WUP-N-PBUP",
+	"name": "Mega Man™ Zero 2",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 39,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/97003b02804f730ab30c8a11bea14032af58f6eb28359e56155954d6ca6b126d.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9b2ceb784402e15d7c5c583e21d89d6dd485b4f1c69e6ee97c4d27ab26b138ab.jpg",
+	"data_size": "85950604",
+	"description": "Ein Jahr nach den Ereignissen von Mega Man Zero wird unser Held überlistet und dazu gebracht, dem neuen Kommandanten von Neo Arcadia zu helfen, wodurch er erneut in einen Kampf zwischen Reploiden und Menschen verwickelt wird, in dem es gilt, die Welt zu retten. Schieße dir den Weg durch mehrere Level voller heißer Plattform-Action frei und setze dabei die neue Chain Rod ein, um dich an Vorsprüngen festzuhalten, Items einzusammeln oder Gegner anzugreifen. Weitere Neuerungen sind neu sind die sogenannten \"Forms\", Gestalten, die Zero annehmen kann, um noch mächtigere Fähigkeiten zu lernen – für einen gewissen Preis – sowie die EX Skills, die besonders geschickte Spieler mit Waffen von besiegten Bossgegnern belohnen.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-02-05",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/dd94678e8740ce1f59149307bfa9c2d3bc295f394cb68e7e30f36ca934dc0317.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ec4f7948f7f54f6c919201479e5d377b8b12b2cdbb62c6a2e042e348dc3f18a6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a1b05acdd72d9d1a2a0b864818883b2179736c44bb76cd3b92676c27eead8603.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4aaa7822a18f282dddf1bd196155004bbdf26a530ddcb9b698d55898a0da8da8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9523f8341cce123919023a2f495c9942d9ec59a9019ccb2a5f739882927ae1e5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/139d63dc442a7e568069a9467a3befab9e16b603bfc1cb8b52af83f949619f6e.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6b09f69f12d0ac8d69b014de1cbe3db652b931de719674434b37e82819a02b00.jpg",
+			"name": "Mega Man™ Zero 2: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/be505f12da6727718adf8de19bdd28eef2c02f30a591c920229981f887b7a184.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "51"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a746d4f0b5ed5bf0adc283152c1532a305c91676ed51828808c7144902fb9cae.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "51"
+				}
+			]
+		}
+	]
+}

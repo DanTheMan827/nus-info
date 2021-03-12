@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000001C2900",
+	"eshop_id": "50010000042823",
+	"product_code": "CTR-N-KVXJ",
+	"name": "アスディバインクロス",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 146,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e68f16088c23cbcb3affa6bb4870373435ade32d68b2cb92498a96ab342e444f.jpg",
+	"data_size": "73505636",
+	"description": "盗賊団ブルーアイズの団員であるハイドは、ライティ城の牢の中で一人の少女と出会います。アルメリアと名乗った彼女は、この国の王女でした。 彼女の言葉を疑いつつも、放っておく事もできず、ハイドは彼女が城へ戻るために協力します。その先に数奇な運命が待ち受けているとも知らずに―― 武器のカスタマイズとキャラクターたちの軽妙な掛け合いが楽しいRPGです。 豊富なサブクエストや闘技場など、やり込み要素も豊富でどなたでもお楽しみ頂けます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-06-14",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6002906145fe62fdaf0ed143b208fc0512fda6b53a757d5aab9121e4da4e783a.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9899cb8fadf5b0e7bfb3d4f3595437b309d98d78de4b2dbfa6c9f08975037998.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3c65860462ab6a1902a759239341df28d0b46ef7188172f0351c6b13a84356c1.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/267ca9da20fd954205ec372ef4b421c0d35488ccf9ff33b2a4be7e172006da26.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c1501c04cbe529bdede2dde898aa29f923f02aed53e2c75a2e429b6b18c02500.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c3bfacffe6ca7b62eb275e487674a20ba7b211556154cdb268e45f3889c50879.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/8c9dcc6df9c9ce5cbe47766eb94dba0988b848e48e4cd413bee6bb994beb09a4.jpg",
+			"name": "アスディバインクロス 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4be44ff1c8040ee33234e518af6febe0cece644189b29ce984e01b26bf372078.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "36"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/75edb988232058fe2763b9348073caccf397d0bb118d6651097548ee6b0721ba.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "36"
+				}
+			]
+		}
+	]
+}

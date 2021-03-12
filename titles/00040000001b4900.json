@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "00040000001B4900",
+		"eshop_id": "50010000042489",
+		"product_code": "CTR-N-KTHJ",
+		"name": "アーバントライアル： フリースタイル２",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 1212,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/53dbd63d8e7f7434dd956051c0d5a6412456677daffc222e67f77a85c46061d2.jpg",
+		"data_size": "156363620",
+		"description": "『アーバントライアル：フリースタイル２』は バイクを操作し、さまざまな地形を乗り越えていく 「本格バイクトライアルゲーム」です。 リアルなビジュアルと本格的な物理演算によるバイクの挙動。 すべてがハイレベルの『アーバントライアル：フリースタイル２』が プレイヤーに体験したことのないゲーム体験をもたらします。 ●オンラインランキングで世界記録を塗り替えろ！ 本ソフトはオンラインランキングに対応し、 世界記録のスコアと比べあうことが可能。 また、タイムアタックモードでは世界最速のタイムと競争することも可能。 ハンドル捌きを極め、世界記録更新を目指せ！ ●エディットモードでコースを作り、フレンドとシェア！ 「２」のエディットモードでは 思いどおりの形のコースを作ってプレイすることが可能なほか、 コースをフレンドにシェアして、楽しんでもらうことが可能です。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2017-05-17",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c820e270fa92f6fa3a0d85e8fcdb57ed8d42b826214090f5c856d4ede629212b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f7b72fca553426c427e48eae7a5a76086baf812d5283b9a5dc3246792e54326e.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/9aef64a08d7c12662ccff956cdf301355d8ce4a49fbc9d081700732ac85a6fc6.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b4facb10ebe5d20c454630c0630bb857b48a1da54107ca779d87811255ec115d.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/220089dabf7909e13d0ffa5a8cd06996e6f02ef65166a9c656a4e9f85427ec45.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8ccc25c05af2d8777bc121552c68727f08ee7baea4d5e4e68b064649a43d7e38.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d91a84c47232304d1fea8229f50a8f05a9e8119a8c549c230b891349ca666118.jpg",
+				"name": "アーバントライアル：フリースタイル２ 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a87a8780629c4c08c9c4b50fc9dc00b0ec352b26a0b6370087e75538935b785d.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "67"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/02a9938bd11161d9c347fb49c0129c7ddda9fb7bb4c5158341a96a27988b3068.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "67"
+					}
+				]
+			}
+		]
+	}
+}

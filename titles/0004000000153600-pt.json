@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000153600",
+	"eshop_id": "50010000037955",
+	"product_code": "CTR-N-JWVP",
+	"name": "Nintendo Badge Arcade",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/1d24ba640597bc1a27aa5e075e2d79e38d9b09dc6de77f4d037121ac79515d48.jpg",
+	"data_size": "84155236",
+	"description": "Quem possui uma consola da família Nintendo 3DS™ pode personalizar o Menu HOME da sua consola com uma variedade de temas coloridos, mas agora as opções de personalização alcançam a um novo nível com Nintendo Badge Arcade. Neste divertido salão recreativo dirigido por um coelho muito falador, os jogadores podem tentar a sua sorte em máquinas de grua e noutros divertimentos clássicos, colecionando crachás baseados em jogos da Nintendo e séries tais como Mario Kart™, Splatoon™ e Animal Crossing™. Os crachás podem ser usados para decorar o Menu HOME, e alguns podem até ser usados em vez dos símbolos de sistema padrão para aceder à Nintendo eShop e à Praça Mii™ StreetPass™, entre outras funcionalidades. Perfeito para dar nova vida ao Menu HOME! Aquisições disponíveis no jogo.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-11-12",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/78ceac9c7e1531c41b1d77925523964897ced57bd0f7a4dcc01d89078e0fbbaa.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/1212ca9a90967ef2c4da38e7b3d8394434302ab7e281e854105c125d211d651c.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5000dc2dbe1d12fc9425b27641cc791836b16488e15fbcd5bd6568289314c844.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a5df4553e556c0e497ddcaf31371c7892deb8f7cf45329a378bc2f5ea1c6bf73.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/745c8063ec2757c3bb292bf854a74d781bcf02db0eb53949727efd2e4d19258c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/71c116b549e184bdd90fda687e40cda3794bf52d52faa08a2c6873556615bec0.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/94bb7a866ccbadcf011ffed907a0a011220bc98ad80021a074ba66847f926207.jpg",
+			"name": "Nintendo Badge Arcade: Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/48ed1c34f1dab5020a714adc5dea14b1d203ce3e714774b902edc1dd43ef322c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "86"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8e80634a83155b474dba38ee74b7d1711b05e5e562cf4c68f480895a872bed8d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "86"
+				}
+			]
+		}
+	]
+}

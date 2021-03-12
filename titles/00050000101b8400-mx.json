@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101B8400",
+	"eshop_id": "20010000017707",
+	"product_code": "WUP-N-AMTE",
+	"name": "Mortar Melon",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1315,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f499ca55aa60da44acb2472c31f4c85183170979d4e462deb9c594bbf98b9c53.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/1f5da43ffcef19f2b02b89fd28209fc4d8b6cc7364435b5b41743c9ccf4c558f.jpg",
+	"data_size": "83755168",
+	"description": "Drag the mortar, aim, and fling the melon to collect the fruit! Whizzing through the air you’ll fly across the world, tapping and dragging your environment to release the juicy goods! Look out for pointy objects or you’ll explode on impact, sending melony chunks and pips flying! It’s a crazy, fruity, physics machine - launching its way onto the Wii U™!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-08-20",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/075880001f36ea65e8e8dda4e3ef7977246888e58ab4e6ace37a628a9175e778.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8f2c4bc9ad034e9ff78bf6297fff55d0bd580ffb81175b25a2a023b18496b111.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7f2ae035afa90035c165e04de2445b98d633884ada5f492a09929ad0ffb28a7f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f638a8c10ea8c60dd1dd3b1e79e9652681875389106b8bafe6099f1ea2f6eb0b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/31e9df2266ff39c700050f3c556cb5132db44610023e7eef348460b4af752699.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8cbfd94e1c181c16c10e6a34ff4f700950dc03fd53d6298d8b8e9301e8db884f.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9b3c64732bc26f32e94574023e7e16e4761ce8521b875452db2aa8acfea33c93.jpg",
+			"name": "Avance para lanzamiento Mortar Melon",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/edacb1bc30d004a03ffc144e097c18cb85c3094c48785fe9136c62bdf4a0f495.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "66"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/49baf91c6bbfa7345a63b6850f14a4efdd9825aab5f1bb0f661758c931fc6c01.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "66"
+				}
+			]
+		}
+	]
+}

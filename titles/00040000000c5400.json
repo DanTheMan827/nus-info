@@ -1,0 +1,87 @@
+{
+	"JP": {
+		"title_id": "00040000000C5400",
+		"eshop_id": "50010000016522",
+		"product_code": "CTR-N-ARVJ",
+		"name": "ソニック ロストワールド",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 231,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/2f7cc29dfb9ddb494d6e0ea4ab4cb4a1bdeee8494e2fda0cc481d48dd07ec74f.jpg",
+		"data_size": "1276730260",
+		"description": "未知の大陸で繰り広げられる全く“新しいソニック”の登場! 携帯ゲーム機での『ソニック』シリーズ初となる3Dアクションを実現し、奇想天外なフシギ世界をソニックがハイスピードで駆け抜けます。初心者にも優しいお助けラジコンや、最高4人までの対戦プレイにも対応。 最狂軍団「六鬼衆」から未知の大陸を救い出せ!",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2013-10-24",
+				"retail": "2013-10-24"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ca23379917c7704cb7be859220e6c146a8117eb4ccc727bcd87e81be8c0341c6.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/58011dd28106a0ed2dfab9f3aff01e3c2ee594f45898a801c6218f92d3670005.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b6c9779e67ba2da5f5cc830f9c1bf8bf0b1ed5a26c49c48e07b6df37be3a400f.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/42175d9cfe05ed99779bb42634740b819ed0cbd5f1b1fe208a2eef0ee0a0f823.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d772035aac8fabf3cc10c17e6cf966d5c62042c6e320fd57dbfd3da1766fbc3d.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f3ef0cadd9678962905170a7b54cf6dee58dba4412af0248e80837a4e93eb3d8.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c55548f4d977aa2b7ee1b5b6816e18436c4bccea3fcf3825d5a71baa2274bff6.jpg",
+				"name": "ソニック ロストワールド 紹介映像2",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a9261edc1fa129948e66d77444cb996c35976c0112d86c7af3cfcca5a0f8441f.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "231"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e69488ee99f1466b4cfa2cb2b70b21fb54d3f26d32f7c066c9c5d5cac98df6c4.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "231"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/654b5d708e47ba456660f81547db4e53ce071678930e44fa1b70784912aaffe7.jpg",
+				"name": "ソニック ロストワールド TVCM",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7a81f8ba7bc4755a3b4ea17eeb61369ebc8d5736a4f8e63c0d3822a6bd7ebcc0.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "30"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fab9615177b8f5b3320dc1c7f0647bdc582aafd25067189df5f77f7be69cc158.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "30"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000091300",
+	"eshop_id": "50010000011888",
+	"product_code": "CTR-N-ATQJ",
+	"name": "大盛り! いきものづくり クリエイトーイ",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7cc938a3cecd017e7446537543628547ee243611be877d161d6626901a852af8.jpg",
+	"data_size": "69733268",
+	"description": "【このソフトは配信を停止しています。】 お絵かき感覚でいろいろな形を組み合わせ、\"クニャペ\"と呼ばれる自分だけのキャラクターを作って遊ぶ、『いきものづくり クリエイトーイ』が内容盛りだくさんになって新たに登場。 これまでの遊びに加えて、新たにダンジョンを冒険できるようになったり、みんなで楽しめるモードが追加されるなど、さらに遊びの幅が広がりました。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-04-10",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a14c899f1170e2817bf10e046b5d90b6f9b7c91e0b82f3a431d3ca005831fb23.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d91fda6f4d73b4f8d5e3b2d7cadd0706d2be45cd533d3f346bfe8e5d34fa4df5.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f23e981fb77b56a85ac375494ffd6f0b30f1720ed65525ed2c69e65358377c89.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/a48cb6d46c81972bdf2e4319976bfa3abd0b8163521456f83931691ed0f2f4ee.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/989d40c47feed4d81145fcde0431b2ca1f13453c3d36755eadbdb5811f77dcb1.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/755a3bcbffc9ff6a6f4fe5b36673fcfa877d4ff568a799d71543db0b9bc53ad6.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/75a091eefa02b0a7c4f1a934158c6a24f28f596a1c7de3c66ad3ca2dda04d808.jpg",
+			"name": "大盛り! いきものづくり クリエイトーイ 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4e1effedc215c81519e1ba8bd109902d3a87b5902ba51c136ee5704bef792161.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "139"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0e165b082e750909d8d69a2cf07fc7a7e7f8ccac7af438f1e4cadeb2a424719f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "139"
+				}
+			]
+		}
+	]
+}

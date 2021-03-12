@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000044B00",
+	"eshop_id": "50010000000482",
+	"product_code": "CTR-N-APFE",
+	"name": "Petz Fantasy™ 3D",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 278,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8d115d9b5cef92b62ef274c9e995d8886ac6e24382a3eec2174aa916b4f59e97.jpg",
+	"data_size": "75111268",
+	"description": "In Petz Fantasy 3D, players will discover and take care of their fantasy pets in an immersive whimsical 3D environment full of floating islands, magical lands and snow-topped mountains. The game will allow players to nurture magical eggs that hatch into surprising pets, such as unicorns and red pandas, each with their own personality and magical powers. Each fantasy pet will react to players in 3D just like real pets, by licking the screen when players pet them to jumping up and down when players give them their favorite food. Bonding with Petz has never been so realistic. Players can also teach their Fantasy Petz magical powers and even train them to transform into ordinary household objects to keep them a secret!",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-02-14",
+			"retail": "2012-12-07"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/cf37375af58f1e41905b31164ab67fa06aaddb78956ad5724f78b6c9051e5dcc.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c5cef9b7a750e926d9d390ab28ed202f77955e5f7bde1be0e9bc3d357eb69181.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ddc2fa4acac2295ec4a54a7f0bdc00fa59b4020cef34ae58a57240ba9f97f864.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/dc791bd0d0e2fc07567eca5870fdd5de0b032ce8ccc6c211f8865300c9acb870.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/21442ca88964cdf97e59b75431bd5dc40e0c7d9781145de1d3ad804ade27715e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f2215b16653c9e10f7d41451fd3fe0878bd4f53735ab7b28fcdab166d71fd3ad.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/cf8374283bc9275e96fa3eac0e2fec0aa8f90573b310e4b7aa983df753ae1c09.jpg",
+			"name": "Petz Fantasy™ 3D Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/af23a089d979828153f774d3623c47c0e41df21cd77bbc60755daabed2370909.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "113"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3fdc9c81b531d68b8fc6fc9beb9297eeb76cc6d625d1846da53a6e2ddfe3c3ea.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "113"
+				}
+			]
+		}
+	]
+}

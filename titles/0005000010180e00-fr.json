@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010180E00",
+	"eshop_id": "20010000015247",
+	"product_code": "WUP-P-WCJP",
+	"name": "Roving Rogue",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1301,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bf42fedb1e82202b4edd4ab7344d9da446190055abb5c1b4aa82523fa89e03cf.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/731bcd48c6fe774177977fa13160766acb7bac2d9adb5aaa74156587481cf21a.jpg",
+	"data_size": "168657036",
+	"description": "Toute histoire a un début. Mais celle-ci commence par la fin. Tu viens de tuer le dernier chef. Parfait, mais quoi faire maintenant? La seule chose de laquelle tu te rappelles est que tu as perdu la mémoire. Malgré ceci, au moins tu conserves l´habilité de te télétransporter…mais seulement à quelques mètres. Mets-toi dans la peau de Kurt et découvre un amusant jeu de plateforme de 2D au style rétro avec la possibilité de multi-joueurs, où tu devras parcourir plus de 40 niveaux pour récupérer tes souvenirs et chercher le chemin de retour…mais où exactement ? Une histoire qui se raconte en arrière, pleine de tournures et de surprises. Plus de 40 niveaux qui seront un défi pour les joueurs plus expérimentés. Un mode multijoueur pour aider tes amis ou bien pour les rendre la vie impossible. Une esthétique pixel-art qui te rappellera les classiques de l’époque dorée des jeux vidéo. Bienvenue au Roving Rogue.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-07-02",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/ffd77627e6a88659574cd610a3347996e0a6571cfa476e33fea4f28e8e1c2023.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e8e70e6b586e3fd041bcfd4b00aaa1098b0231bf6fc6629c282fd6dccc80f4e7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e1cf5eaea68dea64d31496ec816d1796bcdb626edb773c102b346dbfd2869bbd.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3dfefaf6ca919f7f1ebe05f2368c7da6136c541896d6ad296eca477b4115d44d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/edcb302ae47621398303c631107635992cc38f7d775222c5b528c317c986c4fc.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5b8250d6c9e97c301414b5ecf6e13eecb78877356ae334df024f7cb11cc7644c.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c3eb4487c066bfe20b6b6d7691075e83f50667f6f4bea7cabc92a2b64372f6d1.jpg",
+			"name": "Roving Rogue : bande-annonce",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6aeb6f8e3687882a04603cadcbd048ce0d3112155e9ac4d64a545b8a276e0303.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "111"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a845fdfb0ba31ba5d61bd33a8185cc7136c707d3779cbf1f4862f41ddaa4d81a.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "111"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010111300",
+	"eshop_id": "20010000000291",
+	"product_code": "WUP-P-ABTP",
+	"name": "Batman Arkham City: Armoured Edition",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 1004,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/eccc3531fecefcee2b1e99a0e3ba841ae9f46d99607d3e83d57c82e53267c305.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0d6fd288e68b695bd9f8fbf25ce7a20dae647f5cab768f4f947181ff102de0cb.jpg",
+	"data_size": "19847710432",
+	"description": "Sviluppato da WB Games Montreal, BATMAN: ARKHAM CITY ARMOURED EDITION è la nuova versione potenziata del pluripremiato videogioco creato da Rocksteady Studios. La versione per Wii U™ contiene la stessa avvincente storia e stile del titolo originale, ma con meccaniche di gioco potenziate per sfruttare al massimo le funzionalità di Wii U™ e Wii U™ GamePad.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2013-01-31",
+			"retail": "2012-11-30"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/648e22ed108ac7da513f5cbcf674d848d0f308d1f6b1b799ecc6d33b31b9da46.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/cd686e3164498196cfb190a1a87a6498a6457f0a70a1e1636358b674003ffabe.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/54837a269d1f0a87c7d3784649811aeb94abf24bc18d4f847852dd064e35dff5.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/29544fb1d43a364e7dd06e5b8aa93c6c4c66799fe66c60fb592000b0ea6ed71a.jpg",
+			"name": "Batman: Arkham City Wii U – Trailer di lancio",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8c0d1725d0481bb69fec9503840235ea29a4c0f12f1fba015db6c53d512d0cf4.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "82"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/609489e23e258a36ff9bfd4eb7fcae0d3572775d35424bd6a2684c26c789c210.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "82"
+				}
+			]
+		}
+	]
+}

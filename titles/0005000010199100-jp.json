@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010199100",
+	"eshop_id": "20010000013228",
+	"product_code": "WUP-N-NAAJ",
+	"name": "ドンキーコング64",
+	"platform": 170,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/136dc97748698af5989bb61200cc0fb63245d128e45ae18d4966751ae4d07545.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/556b3bfdaf6416d14ba35c2a535e443be529e19c0aaf4b009ef4af7313515516.jpg",
+	"data_size": "79560824",
+	"description": "このソフトは、1999年に発売されたニンテンドウ64用の3Dアクションゲームです。 おなじみのドンキーとディディーに加え、かわいいタイニー、ひょうきんなランキー、力持ちのチャンキーが、それぞれの個性を活かして大活躍。広大な8つのステージを舞台に、クレムリン軍にさらわれた仲間を助けるためバトルが繰り広げられます。ボスステージへ進むためには、隠された「ゴールデンバナナ」を集める必要があります。「ゴールデンバナナバレル」の中に入るとミニゲームが始まり、クリアすればゴールデンバナナがもらえます。ほかにも、コインや設計図を集めたり、フェアリーを撮影したりとさまざまな遊びが用意されています。ぜひDKアイランドのすみずみまで冒険してみてください。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-04-02",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/695c02d580af8ea597d9129c3aa410856e9bac5751a4e8948840eeff47973c53.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d73d219debdf3208ec78af312bd01de2c579b8ebc5428336229b8477e1ffac2c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b590b363a3800bb0dc96d899c65072e62fc62f47b4e193364bf70ef6d92d5af9.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/660fdcc2e6fc684a6d4632b380860ebc761fc3ff39c99a9395d4e7c15be5626a.jpg",
+			"name": "ドンキーコング64 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/41ee3f5a3ec8c411301d99dd23dcc236aca8edc2e4f8e31f26f91b3680c8dd06.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7d41cf8e0b7e6fd360b99afb9f56f9c643477535e2aa10b6cb69d57b8c3ae9e3.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101AE900",
+	"eshop_id": "20010000014908",
+	"product_code": "WUP-N-PCTJ",
+	"name": "コナミ ワイワイレーシング アドバンス",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/19334cb9c63cdea91afc103d4f3821c59270f78a88cb82ad30396f9827b50fbd.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4ba08e62f6b18539a1685fe6b92571c19356b5c152d498ecdddf75baaa006b36.jpg",
+	"data_size": "70156428",
+	"description": "このソフトは、2001年に発売されたゲームボーイアドバンス用のレーシングゲームです。 ゴエモンやパワプロクン、タコスケなどなど、おなじみのコナミゲームで人気のキャラクターたちがカートに乗って登場！ ひとクセもふたクセもある16のサーキットを、キミのドライビングテクニックで攻略しよう。 ※当時のパッケージ裏面に記載された文章をもとにしています。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-02-03",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/38a6c3d136807c67be3bf79dc0d76057be4e3c3756199cead51cdb87b48ceaef.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a036961a535e41553c06179d3be209cce228f029a87dc05aa24288a959860bd3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8a441977ca2874ce96d53015d0072a7ffc67314bd38eb4c3134a17837f5dfee8.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/73b55993b330f7e426ad91787f2533059afa715e73a5f6c0a66d70d68f6e083a.jpg",
+			"name": "コナミ ワイワイレーシング アドバンス プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9a33a866e25a44f1298516373060cb95259ca5a8039e213fdfc7c385dfcd80c3.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c2601c2e91a8b481878776ffb32dc56b9b2bc97ac01589aabcc7333f79be1e8b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				}
+			]
+		}
+	]
+}

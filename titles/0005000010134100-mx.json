@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010134100",
+	"eshop_id": "20010000009589",
+	"product_code": "WUP-N-FBGE",
+	"name": "Adventure Island",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/74720f4ac5ac65e67c9e879d9a24338ebc65cb33a4fffd026e353d560bdc4940.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ab3d44a0d63cc252972d2437e240ed0df4466405d017c2bddfb4d2fab81b14ba.jpg",
+	"data_size": "36536460",
+	"description": "La misteriosa isla tropical conocida como Adventure Island es el territorio donde se desarrolla esta aventura de desplazamiento lateral. El malvado Witch Doctor ha secuestrado a Tina, el gran amor de Master Higgins. Para rescatarla deberás guiar a Master Higgins a través de ocho islas que incluyen densos bosques y escalofriantes cuevas mientras derrotas a los enemigos que se atraviesen en tu paso. Cada isla está compuesta de cuatro etapas repletas de enemigos determinados a impedir tu paso, además a medida que pasa el tiempo la energía de Master Higgins disminuirá y para continuar deberá consumir constantemente fruta, leche y más mientras trata de llegar a la meta. Algunas veces aparecerán huevos que contendrán maravillosos objetos como hachas que lanzarás a tus enemigos o miel que te dará invencibilidad temporal. ¡Usa estos objetos para completar las etapas! Al final de cada etapa te confrontarás al Witch Doctor y lo deberás vencer para poder avanzar. ¡Sí que puedes Master Higgins!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-09-11",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/f34be96b85ddcfc7e312a1438093f20a99a516be11dde6e983206f4172bc3ff1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6e8f56b89c3ffd1844bb3c63b65e95426fb777002856dadb18aca8c8708efef2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1514d1afcad358e981d008e579f89ce97091bcee3443cae5112828ce64e469fc.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/08f4daa298cd640a23494258cb7995c3fe3a9b9d4efddada68bb61feb984c768.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/397262e6dd77aa179b86e5f72a23961a269b242119df1f52d3464bb50fd1cbb3.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0e6b41492c08de52ab3ca33d34597475514a168a27e099fab1572f690e9457aa.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/37c50e4d8c39206e8a26843aaee2b0ee60b420f0f691008c1a549e3b91814d64.jpg",
+			"name": "Avance para lanzamiento Adventure Island",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e85ff73a30c8f62666e0066ef6852c569eafa965feb787e0cec857676067a127.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "35"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5bba5d7104e8830b85040c03daf22c1a8db62676bc98c2157ab750e4b2e040f3.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "35"
+				}
+			]
+		}
+	]
+}

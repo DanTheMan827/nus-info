@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "000400000012A100",
+		"eshop_id": "50010000023785",
+		"product_code": "CTR-N-JT6J",
+		"name": "超科学脱出ストーリー ～絶海の豪華客船～",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 133,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d2cfb41b61fb70992cff45c4fe17b2e418e7fabc0354e598b68ee3504b054cc0.jpg",
+		"data_size": "96533348",
+		"description": "海上に浮かぶ豪華客船を舞台に物語が展開する、コマンド選択式のアドベンチャーゲームと、脱出ゲームが融合した新感覚脱出アドベンチャーです。 さらに、「透視」と「念力」2つの能力を使う「能力画面」では、これまでの脱出ゲームにはない新しい謎解きを体験することができます。 物語の主人公である16歳の少女「茜野 瞳(あかねの ひとみ)」は2つの超能力の持ち主。 「あなたのお父上とお姉さんのことについて、ぜひお耳に入れたいことがございます」 差出人不明の手紙に、豪華客船の就航記念パーティ招待状が入っていた。 親友の「司緒 千園(しお ちその)」とともに船に乗り込み、指定された部屋へ入った瞬間、轟音と共に船が大きく揺れ、瞳は部屋に閉じ込められてしまった。 これは事故か? それとも事件か? 超能力を持つ少女たちを巻き込む物語はここから始まる……。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-07-09",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a822b160cfed8427d5fe29fcc21b11277be2293e0c7fa58b694e4f708fc2bb90.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/50aa1a09a66de8f5e00f5b08378898b88770630cc5cab149addd5f6c997bf802.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/dc8f8736773b2f8b32f79b40899848790825bc5b40982ea955d35a7357f8548f.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/493e865ef6d262b89c3c197e7df74ce44a6aaa67378ae68f75fad9f9ef44b558.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/adc904f746fed1e3deb67961633e668a1e6943af641338d3580a846e2de0c253.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ee44aa647c2da29b94c9fb95e0a0d1d8135aafcda58dd74b8364c17c19654470.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/dc96bf4ef0c35c6ba84d312fda258ea9fc519ed6cd5b4d7673df6a0f46bab7e5.jpg",
+				"name": "超科学脱出ストーリー ～絶海の豪華客船～ 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5db15577b4310573f303c1a7bc2cf6c8d8d797630c23a25d79ca5a42402089bb.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "118"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2224ce4f523bbd282ac6b21f4d1675d7660a46db603c49bd230808d5cc34e3d5.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "118"
+					}
+				]
+			}
+		]
+	}
+}

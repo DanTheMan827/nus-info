@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "000400000017DE00",
+		"eshop_id": "50010000037796",
+		"product_code": "CTR-N-BAQJ",
+		"name": "アトランティック クエスト",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 1292,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6d0e7492a303e754a6a3fca7bfb5352fe2a688acc6373cac335223efc73c2371.jpg",
+		"data_size": "22002532",
+		"description": "同じ絵柄のピースを3つ以上揃えて消し、海をきれいにするパズルゲームです。 ピースの消しかたには「チェンジモード」「ラインモード」「グループモード」の3種類があり、好きなモードを選んで遊ぶことができます。 ステージは全部で120種類、各エリアの最終ステージにはパズルゲームが待っています。 そのほか、ゲーム中に一定の条件を達成すると獲得できる19個のトロフィーなどやり込み要素が満載です。 あなたの力で汚れた海から魚たちを救いましょう!",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-10-28",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ead192f511efad0d1783ed3140d5fc4104104e60af4636d82a3170075490a04e.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/95b5cef76130541ad37c4f3f7f6b7a8ea8035793d02d61dc50409a1b5447c984.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5821169afaa1b455107beb45ea41ab507ed916951f9e978a5dadabb63a4cac91.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/bd17b687fc790e2e4a9e6719a3506fa2534b55e66fb10bd7c4370903b33241cd.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2437af8d06b2211cb7bbc03b5af85fcfa337837f3c42956ea11384a3aa8adcd6.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/729f1de379fff38e277daa2c20a66938236a02111e2d49173f9c11fa0b4ac6cc.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1e8f9088bd5ed4af8ba4bd043c7fc0f6ed1afaae4b0a03ee937bb6a82166b013.jpg",
+				"name": "アトランティック クエスト 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4a7e065e7fcda520453a99e2be88e63fe95bc29eb79da40967ef2949f55e53a8.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "96"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d8875d61e9344e1bc3d7adf3368001dc48308c22aac99407b165ed6ada5de027.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "96"
+					}
+				]
+			}
+		]
+	}
+}

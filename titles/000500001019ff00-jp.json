@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001019FF00",
+	"eshop_id": "20010000013127",
+	"product_code": "WUP-N-FEPJ",
+	"name": "マグマックス",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 118,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d573579f0d3d5cff508cb24c4ecb8b828d3ece1fb199937819c57d9fd3d31cd0.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/877e0e64208a072fba22127e37de210d294f08bbc0e3bf6141800e435194f668.jpg",
+	"data_size": "38830240",
+	"description": "このソフトは、1986年に発売されたファミリーコンピュータ用のシューティングゲームです。 可変メカ「マグマックス」を操作し、ビームで敵を倒しながら、森林・砂漠・海・機械化都市の順に進みます。砂漠と機械化都市では、巨大メカ「バビロン」との一騎打ちが待っています。 頭部や脚部と合体してロボット形態になると、発射できる弾数が増えます。頭部と合体しているときは「波導ガン」を持つことができ、一部の障害物を壊したり、複数の敵をまとめて攻撃したりできます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-09-14",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/412bb086732876e0e518c87b677c23e12e08ece76f95bde610a9edfda595be84.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8365831c577b089bd7a05ed2172241df59f7b9412fb3d4f75e9b67a7fdb40398.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3344cc7154904192cc19538a68fef122342674b3be520d225f2752829b59aca2.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/046418810c058a5fd6017a22988f926ea71d14acc23fd2d9a9902be8d1991a57.jpg",
+			"name": "マグマックス プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cf3dc602cd5a609be41c47ffa2f2f21dc362031f7084274a339006bf44e6dc1a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "73"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/74c21a980917be1c955af0998ac50825cf9827cb15f9fce1bf71ba205d422f5d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "73"
+				}
+			]
+		}
+	]
+}

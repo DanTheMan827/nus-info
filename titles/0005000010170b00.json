@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010170B00",
+		"eshop_id": "20010000006746",
+		"product_code": "WUP-N-FC8J",
+		"name": "ダブルドラゴンⅡ The Revenge",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 19,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d2e6c73540044f6c79c5016fcdf1a06507616a929af54a27bc3d5d23209652cc.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b2eed37ca375b7a40f0f5ad721b6e79a763a576542780437f7bb484c29c213c8.jpg",
+		"data_size": "38830240",
+		"description": "このソフトは、1989年に発売されたファミリーコンピュータ用のアクションゲームです。 恋人と仲間の仇を討つため、双截拳の使い手ビリーとジミーが謎の武装集団に挑みます。ジャンプキックやアッパーカット、ひじ打ち落としなどの多彩な技と「龍尾嵐風脚」など威力の高い必殺技で敵を撃退します。 仲間への攻撃ができる「2P PLAY」モードも選択可能。協力しながらだけでなく、対戦しながらの2人同時プレイも楽しめます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-09-14",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/93634503ee3beb078d66e61147850bff7a37cc3c0fa2a91ae178258d8fec8363.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/6561f7c29c0f3b220ea6296fde6d34bb9a4789c6ce12ab95fa6bf286687205d3.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/18df26be6442853052a526931e41236fbe6e15a3bdaad5163d467cdaa8dd0ed0.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d8ebb08600c0e9f0b39c3487eb0e2fab9fa036b0b0c8f7dedc7d26245600c3fb.jpg",
+				"name": "ダブルドラゴンⅡ The Revenge プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b1a33335b71a3877e8f29a392e7f8b2ccabd41e960d59e6f878b278c8b3474f1.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "67"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7d75b6eb2bad7b3a887318a64f6f05ed103b65708c12b38384426d7ae988cc54.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "67"
+					}
+				]
+			}
+		]
+	}
+}

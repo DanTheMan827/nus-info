@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001020A100",
+		"eshop_id": "20010000025207",
+		"product_code": "WUP-N-BY2J",
+		"name": "ブルームーン2",
+		"platform": 124,
+		"platform_device": "WUP",
+		"publisher": 1292,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5eb43ed08b3c3de27594169a8a997f05f121c03fd0cb51fde8de8825ec258e3b.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/aecea6a67c8a861df06d13edc2ecd2f298fcca3c5d979cc9462239723c15455f.jpg",
+		"data_size": "85459104",
+		"description": "『ブルームーン2』は、「歩く、走る、止まる」の3つの要素で、独特な雰囲気で瞑想的な体験ができるアドベンチャーゲーム『ブルームーン』の続編です。舞台は前作同様、神秘的な月明りの夜。今回は、男女二人の物語です。あなたの行う選択によって、謎に満ち溢れた出来事のすべてを体験してみて下さい。 男、または女を選択してゲームをスタートします。男は左側、女は右側だけを歩きます。それぞれ違うエリア、異なる道を進み、困難と課題に直面します。一見すると無関係に思える二人に起こる出来事は、お互いに絡みあい、影響し合うことになるのです。ゆっくりしたスピードで歩きながら、ある場所で5秒間立ち止まる。すると、突然の火花が発生。すると、何かが起こります。このような一定の条件を満たすことで発生する二人の秘密を繰り返しプレイしながら、そのすべてを解き明かしましょう。どうしていいか分からないときには、前作にはなかったヒントを表示させることも可能です。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-11-30",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/b0949a4bae8a39ecd69a2e9b79d35c4547955a17e0f7dde48645a4d980007b67.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/faad513cef579f3b51b866e673cfeb27494a610e30a06d2c2f78d0c30a81257c.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/82b9db91a95c35b091634b6e2fcfe7f839907fab3532a253b425e54b30de0332.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a970f6560ca936a097a5e51babbdb406bc01b7a633ac89b5b745f4ed1f4b6604.jpg",
+				"name": "ブルームーン2 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d5f659925901db2076df537e0673c5cfbe960839e7f1d15f8fd07fb3047d8ba2.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "100"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/857fbcbcad9f5b6739d3fca845cd1c9169c8867ded6b5f9710a1ecd1858e1df3.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "100"
+					}
+				]
+			}
+		]
+	}
+}

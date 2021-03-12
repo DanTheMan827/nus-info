@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000018DA00",
+	"eshop_id": "50010000041796",
+	"product_code": "CTR-N-KWCJ",
+	"name": "スバラシティ",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 1212,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a78c13e9ca3b3ea598dd3eb2900fc02493fb9898655a5627ebb4a55e417f1a49.jpg",
+	"data_size": "42031972",
+	"description": "『スバラシティ』は、タッチでブロックをまとめて、ハイレベルな建物を作っていく「シティ創造パズル」です。 操作はカンタン、しかし奥が深い。「ためてためてからのドーン」が爽快なパズルゲームです。 複数つながっているブロックをタッチで、建物を「まとめる」。建物をたくさん「まとめる」と、ハイレベルな建物になります。 さらに、ハイレベルな建物をたくさんフィールド上にためてから一度にまとめると、さまざまな「ハイレベルな建物」が建ちます。 たくさんの「ハイレベルな建物」を建てて、最高ランクの都市「スバラシティ」を目指しましょう。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-02-15",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/afed3616d11e6c594d457efa5d1f246dba34e9bcb685bd39279d819b30bc19c1.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/87b5a3b68a2ce9c7610876e5a4e24b881cdd0f4d10848236e3e4a03d807abbfd.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/925dcc66e8651a2e6a73dbad0af35ffb2a7851e99530947e0cfc6dd57c595818.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/cd702a4a63f3c583ae2ce0349b21de1dbdcb77cab577c60c415313f10f31f09c.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1a24093220fc035dcde29f73c22ed63db010464b7b4c17331782e5ba2c911594.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8df8de5aa0b37dc1be3b5d0ca631f693292e20fdfb7e1b75fec3a500678c8416.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d639975d6b2062867f5a524cb4ed71f28e56359164daca36a9b2424913d4c5a3.jpg",
+			"name": "スバラシティ 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c4c8e86b7987c6705a79957e3a324039bab897bad7b5f6232ac16196cf4ccb10.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "72"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d71b3f53f01276531ad1629e3118890990708498817eb000d5079f0cca1d760f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "72"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010141100",
+	"eshop_id": "20010000002785",
+	"product_code": "WUP-N-JBQJ",
+	"name": "大航海時代Ⅱ ",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 267,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b321d45c71bb56c16eb13061ab8e41d7c3a5ecfb2a7882552949d808ee78d06a.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/51cf13ce14321ce45db178e79ebf0f9841310933696460fa33cbf19b1f5ea757.jpg",
+	"data_size": "41779340",
+	"description": "このソフトは1994年に発売されたスーパーファミコン用のシミュレーションゲームです。 舞台は16世紀初頭のヨーロッパ、大航海時代。プレイヤーは異なる境遇を持つ6人の中から主人公を選び、全世界の海洋と港を舞台に冒険を繰り広げます。基本的には海賊に戦いを挑むのも、陸で商売をするのも自由ですが、主人公には達成するべき目的があります。遺跡などを発見する「冒険名声」、他の戦艦に勝利する「海賊名声」、商品の売買などで得る「交易名声」など、主人公の目的に沿う名声が一定以上になるとイベントが発生し、物語が進行します。 ",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-10-30",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/6189c1d3aed6153510f20dc2f08c03a40953fb3708668e886aed2837faf56a5b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/499ef21d986273b2681a5f0ca2061ccdf1fce85f8f7c3c68925218f68574f79f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/66c149432d484a8e117eb4790e65bf57cc4fc7b39adb6e157092dd3cd3aa19fb.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/dc817dd679d1ac01482e623de3c2767c7d426bc0628baa8cd2e636276f254ce7.jpg",
+			"name": "大航海時代Ⅱ プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/026383514afc7db0e8e82287482ba667bab97cc92f864805bd93f2328ac7469d.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/914dfc65ce93200bc5dba9243ec3d8b7fca9f8a1eb9851f4cb075de937bca3aa.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "44"
+				}
+			]
+		}
+	]
+}

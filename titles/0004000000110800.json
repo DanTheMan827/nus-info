@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000110800",
+		"eshop_id": "50010000019033",
+		"product_code": "CTR-N-JSYJ",
+		"name": "スピードX3D ハイパーエディション",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 882,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/b34f245997407e3aebf4008acb96b8dc1235e9f6ec6e55f7e732dd770b7c72a5.jpg",
+		"data_size": "45644644",
+		"description": "トランス感あふれるグラフィックと迫力のサウンド、そして限界ギリギリのスピード感で話題を集めるトンネルレースゲーム『スピードX』シリーズの第2弾がついにハイパーエディションとなって登場! 画面を一度タッチするだけで素早くゲームがスタートできる操作性の高さと、よりリアルになったグラフィック&刺激的な新サウンドトラックによって、さらにスピーディーに、さらにエキサイティングに、スリル満点のレースを楽しむことができます。 今回、新たに搭載されたハイパーモードをONにすれば、かつてないほどのスピード感を味わうことが可能となります。 ヘッドフォンをつけてゲームに集中すれば、加速と音楽が織りなす独特の世界に夢中になること間違いありません。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-12-25",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/689af867cf02532a012bced6ffb544a7824bc42d28b6d64cc80e75c34d9fa3c9.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d31624b1d9ef4dca618cff7dca0ea5ec5b7dd0efc1aaba208727c4001b8b28b3.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c6c0e37443e0d0e37006b22ea668f6bd5b2831ac7257f360fb167593a0d9054b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/84f6a94a893291d821b74440c0ab82ee63f5ed7627589c8669a3fb5af132402b.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1f3422470affa531dce80d0b9b928c5e3d64cbd336cb1adeb9f0ec6327a9c02d.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/60218663b702158654c8e50827434ec9ee9c2ca789981046637698b9a806feff.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6b73589b14570a58b4a3d6eae4f944b054d2b7b8c81526a83bacb62cbffd4355.jpg",
+				"name": "スピードX3D ハイパーエディション プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9c59d10efcf5f3d2f147442dc367cf7bb652ffb1c007d4e419813b5d4d971670.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/97f13fc188546bd9fbfa12763f0a0b4b6d85c5f85938bc7eeaaf95ea832e60ff.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					}
+				]
+			}
+		]
+	}
+}

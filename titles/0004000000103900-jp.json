@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000103900",
+	"eshop_id": "50010000017375",
+	"product_code": "CTR-N-JDWJ",
+	"name": "@SIMPLE DLシリーズ Vol.20 THE カード",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 57,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/926543ff234a0629dccbab0c69a948bf55cbba25cfea3c54d3b4fa318e0e6440.jpg",
+	"data_size": "24345444",
+	"description": "大富豪、ポーカー、ブラックジャック、人気のある3種類のトランプゲームが楽しめるゲームの登場です。 すぐに楽しめるフリーモードの他にチップを使ってスリリングな駆け引きを楽しめるBETモードを搭載。 5段階のレートでコンピュータとの対戦が楽しめます。 ",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-10-30",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7d331ec446117220d24c4231dd838ae155ba9c03e7f7b3a7c20289ef11804d68.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/39d65a484fb1aee78a2ed2c3e55bb17dfae615cbe0587cb163c4e6adeca189c9.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/eeefab41e772db56852378290d453374d00de9d4d2c3fa66d725eab79a3bcb31.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/039474fa5c88e291b5d32e070f21de6871e11583952085bb70b1e3c6642cd51f.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5b598033da58a1f5d665a69bbe59d8a39f53d9acd8e8648cf733744c3691af0e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4a4812bc5ef38832b1dc2605acae4d634de385c25acf1a3d1a3c8e555be7defe.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1bc64ad274587c728248cd76700f982bd04c954918549d077d270a79dceb0a80.jpg",
+			"name": "@SIMPLE DLシリーズ Vol.20 THE カード プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5cf33b605810a079a7893e27b9beeedebf3307c757b92dbb8b70e3ec51186260.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1ab6fe4db13827714dab7cf9d18b7038edba4b9194b4a02900357a6c5cc33332.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				}
+			]
+		}
+	]
+}

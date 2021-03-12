@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101C1F00",
+		"eshop_id": "20010000018108",
+		"product_code": "WUP-N-FE4J",
+		"name": "シティコネクション",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 1800,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/33f66385b30852741ad6a45cfd6c65ec8096d2ed46a1031232b367773a6abf6f.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/483d96566d25322d5fcda310497349b17463d390335f83394b74e411c786fbb2.jpg",
+		"data_size": "38764704",
+		"description": "このソフトは、1985年に発売されたファミリーコンピュータ用のアクションゲームです。 アメリカ･イギリス･フランス･ドイツ･インド･日本の世界6か国のハイウェイを制覇するため、少女クラリスが愛車でパトカーを相手にカーチェイスを繰り広げます。パトカーや障害物を避けながら、ステージにあるすべてのハイウェイを通るとステージクリアです。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2017-03-29",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/9200040c57e8c540373d6aa7d49a487651be5ad432c563df2e8050dd50fefd46.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/24840f3526c6fc072be2516f9e2752dbab0b0fc7d6b71d4ae94d8cd705116329.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/ddcbb444585b738b7045154f5e918dcbbd04e2db2d76efed7fcef88be2663636.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0bb6df3015907f4da89584bb300367d03131075448d9354ade6f4f1063fa46f7.jpg",
+				"name": "シティコネクション プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/84b4b6eb2a973fd5540bf848f133c744d3ca98191387ff6f36239ed9462a5442.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "43"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c6a88df3496759e6123c3979d819365851d1ea7bd1dc5d3976d5d3a184a4e725.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "43"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000D4B00",
+	"eshop_id": "50010000025035",
+	"product_code": "CTR-P-AMQP",
+	"name": "Disney Magical World",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/400ba596193465f9fc7ca82ba2fadde04ef4e396958cc3f30b3da2aea16bb4af.jpg",
+	"data_size": "563936100",
+	"description": "Эта игра доступна только на английском, французском, итальянском, немецком и испанском языках. В симуляторе Disney Magical World у вас появятся безграничные возможности для творчества и буйства фантазии. В этом деле вам помогут более 1000 предметов, с помощью которых вы сможете создать себе сотни нарядов, безделушек и предметов мебели в стиле Disney. Можно открыть кафе своей мечты, выбрать его интерьер и составить меню. Умелое управление кафе позволит скопить игровых денег, которые пригодятся в будущем. А стоит вам прославиться, как в известное во всей округе заведение потянутся и персонажи Disney. Свою комнату «My Room» над помещением кафе тоже можно обставить мебелью и вещами по собственному вкусу. Создайте и настройте внешность и жизнь мечты собственного персонажа, а потом отправляйтесь в трехмерную сказку. Вы встретите больше 60 любимых диснеевских героев — они ждут вас на центральной площади города и в других мирах, основанных на историях об Алисе в Стране чудес, Золушке, Аладдине и других персонажах. Всех их роднит одно — компания Disney. Общайтесь с мультипликационными друзьями детства, откройте свое кафе и копите монеты, ловите призраков и даже путешествуйте по городкам других игроков в режиме локальной игры.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2014-10-24",
+			"retail": "2014-10-24"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/0bf635461370204d46b15f79866da17977f4980e22f53549de76d1d479baa3ed.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5dd0c82ba26ee773e18e79149379657add133744e243cb4cff29e0188a3c5f9f.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/43426cfd6599ca8a0d947eb5858076bc10cbf27a1f10f3011b226daf096aa51f.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/132dcd957ec9bfe2e2c333abbc9ab847e3a505ccce977ea217308d2e1002796d.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8583b4f4818cbcb8d02857d2eba1479f0fa9d55ca00171523f65ff4bd61061e0.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/fc1975c2ea183439eabce19de980e0809841816f2ee93b56503526fcf5a60d75.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5bdb211ed1d16fdc049ab589315790ead9503da58e54e9fff36e79709bcb3418.jpg",
+			"name": "Disney Magical World: трейлер",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ffc6f20b81f9afc8bd79888cff94b8248ebfe1938cbd965a064a0e4812a05de4.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "158"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0be263395d3855b5d8656f44887ecc64d63b6c57c0ad79127421330a4741c124.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "158"
+				}
+			]
+		}
+	]
+}

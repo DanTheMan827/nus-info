@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101BB900",
+	"eshop_id": "20010000016149",
+	"product_code": "WUP-N-PCYJ",
+	"name": "F-ZERO クライマックス",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b80592a5e14759235dc5d65964a740cde3c9676cc80c64d62ccbec23157ea7bf.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7be0d8ea9fa0a333b7ae9e271d0fcdd2e89c0f6955ae05de05adbf76af60a6f8.jpg",
+	"data_size": "78086284",
+	"description": "このソフトは、2004年に発売されたゲームボーイアドバンス用の近未来SFレースゲームです。 豊富なゲームモードとともに君の興奮をクライマックスへと導く究極の『F-ZERO』が誕生! 音速をも超えるスピードで駆け抜ける24台ものマシン。宇宙最速をめざせ! 宇宙各地を転戦するグランプリ、自分の限界に挑戦するタイムアタック、ルールの違うレースを攻略するサバイバル、多彩なゲームモードでやりこみ要素が充実。 また、「コースエディット」で作ったコースを走ることができる。オリジナルコースはなんと30コース保存可能! ※当時のパッケージ裏面に記載された文章をもとにしています。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-12-16",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/0d2c47c870c52cfbd5a6b2ba903eaccb3e4148e149e41cb16789daf2149b60a7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/72c88bf9e152ae4ec4f1c00e96cb49298fcdcd4e494aa31ff4ac29ad6c91c2fb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c3877e4ad5e70bb3495c833083b490ecda4a08a1c7c00d03047518c51510f28a.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/27e7012944604345c2eab584ee0095c8ddb1e92f63af678a4f7007383ccf73dd.jpg",
+			"name": "F-ZERO クライマックス プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0717bcfbe1570b97276da115cba3e0420d71ada6c1ac77666861d633d6247892.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "72"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f5d88aebf05132a19ebeda70e1fba14e6cc723c8b62863fcb145375842f1c972.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "72"
+				}
+			]
+		}
+	]
+}

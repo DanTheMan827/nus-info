@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000F70A300",
+	"eshop_id": "50010000042369",
+	"product_code": "KTR-N-CB6J",
+	"name": "6180 the moon",
+	"platform": 1001,
+	"platform_device": "CTR",
+	"publisher": 1292,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ed1264b4b9457ef8d960b8ad0251ced973233a583ffc670bed2642bca2171422.jpg",
+	"data_size": "67255140",
+	"description": "Wii U版でご好評をいただいております『6180 the moon』が、待望のNewニンテンドー3DS版で登場します！ このゲームの主人公は“月”。突然消えてしまった“太陽”を探しに、“地球”、“水星”、“金星”等の太陽系の惑星を探索します。基本動作はジャンプのみ。障害物に当たると進む方向が変わります。Newニンテンドー3DSの上画面と下画面が連動しています。“月”は両方の画面を移動し続けます。画面の上下はつながっており、画面の上に飛び出した“月”は、画面の下から現れます。パズルを解くように進むステージも用意しています。 ・Newニンテンドー3DSの上画面と下画面が連動した、ユニークなアクションゲーム。 ・心がほんのり温まるようなストーリー展開。 ・ゲームの舞台は、それぞれに特徴をもつ、“地球”、“金星”、 “水星”等の太陽系の各惑星。 ・合計100ステージを収録。 なぜ“太陽”は、消えてしまったのか……その謎を解き明かして下さい。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-03-08",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/64a2bfa7e3b13cf1fd23819fbc5ccdb79f4de3ccbe15ad82a642b935f661ec8e.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ec9f193273b32462e8d0d209071583d16c38ef035f17696f63d5cf4c8d1377f0.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d05e5905ffb7b8937859dab5cd72642d4d327487ee652a1a4985eceff637a513.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ec5b91c91fe5f959466efb0e8bba144aa005a23b7a7db004303e668b65a091d3.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f8c868e4e59162b545a264afd414fc182449bf6f0cd850a3a56277a928c27297.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/62e41b9ff745a5b6e4783954ff58353951d46fd1a8fdb87a495ad4c5de49cb2b.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0894e3646a99afc1ec1fb045fcc6ab91e3262dbe082555762ddde8a2c2d135c4.jpg",
+			"name": "6180 the moon 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6414d8c9d070c9f066191f3592ac09818c5b0fa8fdbfe1e2b04aa74af1241961.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "81"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7cca026e544049e987e5a9fa909a3980e287fc139d3652069f5424f8746a9b1a.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "81"
+				}
+			]
+		}
+	]
+}

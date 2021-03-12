@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010149800",
+		"eshop_id": "20010000002766",
+		"product_code": "WUP-N-FBLJ",
+		"name": "ベースボール",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5fc3475ad4d61c423aaab0fd864e5350a57e0a48efa2cc9b8a906bdeb999d0d8.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/5760c9066d024b7ddc5adb65d46cfe15055c8df588154fbec7e26cca42e1f539.jpg",
+		"data_size": "36503692",
+		"description": "このソフトは、1983年に発売されたファミリーコンピュータ用のスポーツゲームです。 基本的に、攻撃時は打者(バッター)、守備時は投手(ピッチャー)を操作して、試合での勝利を目指します。4種類の球種を投げ分けることができるので、打者操作時は、どの球種なのかを見極めることが勝利へのポイントです。6チームから1チームずつ選択し、ふたりで対戦することもできます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-10-23",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/0497d9b32a45a2644335ad5d025761041f30ea41ecee9d0581946e2b506ba294.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/1a5a4895e61cb9f8fcdc0f6258f84dc704f77a22557813f54344325cd4b209ca.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/454c116daf5f1725fa968ff224c56cb974d6e4bccd34df1bed91b90040b8410c.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f4b3f86d5e50c8b24898d9da322210e85eaeaa72d62b2643619b1eacf61cbbb7.jpg",
+				"name": "ベースボール プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/26da11375d8791cc267f82b53b3bfdba5d29d74727342f6abc90b14e7a5e0835.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "46"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c7cfd930242cd247da88590e74b3a35ff84bf7633af2197ac849f42bc4b512f7.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "46"
+					}
+				]
+			}
+		]
+	}
+}

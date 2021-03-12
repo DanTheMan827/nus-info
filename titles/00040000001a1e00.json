@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "00040000001A1E00",
+		"eshop_id": "50010000040915",
+		"product_code": "CTR-N-KKTJ",
+		"name": "クターの取り放題",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 1212,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/60b9a9c695318b427da1c297ba193ea721737f903d157b9dc06a890f2b6f999a.jpg",
+		"data_size": "7433060",
+		"description": "『クターの取り放題』では、リンゴがたくさん空から降ってきます。 クターを操作してたくさんキャッチしましょう。 リンゴを取ると＋1点、毒キノコを取るとゲームオーバーです。 ※本ソフトはゲーム内からほかの「クターシリーズソフト」へジャンプする機能を搭載しております。 ※本ソフトは「ニンテンドーeショップへのジャンプ」機能を搭載しております。 テクノアイランドにて、対象ソフトが未購入の場合、ニンテンドーeショップの対象ソフトのページへ直接ジャンプすることができます。 ※ここでいう「クターシリーズソフト」とは、下記のソフトを指します。 クターの地下バーガー工場、クターの魔球、クターのリフト、クターのチューブライダー、クターのＱ、クターの粉、クターのナワトビ、クターのコンサートスタッフ、クターの取り放題、クターのエンドロール",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-08-03",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5c16bf34346a48095105be19998a008fb72a5ce2f509a4b553a029330ecd331c.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/add681fa1fd0e61f99765085fd1c777320f6f8cde16c9c323a6b2f5f637c83b9.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/aeea14016ce878b39941559f09826c4364271d5a59887fc47d5f3ea39df37435.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/53d1bb07c6805a7a1fa231dcae61dc0431844ce2c69b033ac646a82e81445292.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b8bede8ae5639af75af7aa50d20ba43d53e57b05a87d5b90d5e77218844663ca.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e1ed1de4ecd738a8ee3e62e7e9b3a3601f15d96639aceb0f65c9e0a0b2cbb731.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c3790b859409f32945c80d0110c29b067d1cf7d2060f971a89bdb1d49db11316.jpg",
+				"name": "クターシリーズ 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/01b5bfb8ee83b5626ebe1028783abf59ece3d97448e4d60527fb35f01a229ea5.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "145"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e3b580929c14d1be70f4acc6a3747f4aa26782c6e4dba35ecea5a61af1fa3ebf.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "145"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000181D00",
+		"eshop_id": "50010000041590",
+		"product_code": "CTR-N-JVVJ",
+		"name": "VVVVVV",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 1586,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/cfd3aca16404fe1a4fc27ee6e0c91e79727687a5e22255bc5ce858f3490179eb.jpg",
+		"data_size": "44174180",
+		"description": "宇宙船の事故で異次元に飛ばされたヴィリジアン船長と5人のクルーたち。プレイヤーはヴィリジアン船長となり、今にも崩壊しそうな次元の原因を探りながらはぐれてしまったクルーたちを探します。 ゲームではジャンプの代わりに重力の上下を切り替えながら進んでいきます。大量のトゲとトラップに行く手を阻まれるなか、重力をコントロールしクルーたちを無事に避難させることができるのか……。 ・異次元世界を巡り、次元崩壊の謎と脱出の道を探る探索型サバイバルゲーム ・無数のトゲとさまざまなトラップを試行錯誤で乗り越える激辛アクション ・多数のチェックポイントと素早いリスタートでミスしても快適なプレイアビリティ ・ニンテンドー3DSオンリーの常時マップ表示 ・会話から部屋名に至るまで完全日本語化",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-10-12",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c10beec9383f9e853f409d5e9cd0e182430ff0d36330cc2e5bc75e01c96e1b6f.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4398e5df95f426bc284dd5d264b60bb84fa7308f02a0d76584770f1b156280ce.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d86148a9f89a8e3b2ecf50c8b0ebecd62b04085c4ebc60ccfbf4d722a996e5c7.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/260a0917716d6c01474b85d99a82bbdae15762e9ae50a99f61d16110d2f21581.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2c57a6bd50fc5f9a48e52321f23baa23cca9cf5981f79766a9909a0cca339903.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/54b24658dab9178a32e1e7db1f1b4737304ab2c89c43970c0ce50f8e9deedb53.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/153a193ffafb476e33ba6998acb7494359b89dc6863b341d30cc12d0c4b539f6.jpg",
+				"name": "VVVVVV 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/db882a1ad21a0639dc957224eab7e2fa88abe5ef1f9b174d9079dbe2a19dde7e.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "69"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0cbc4ace6f537ea39b3473fcf8fd3c5d734cc65ab0f712202b55813e35b9fcee.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "69"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101E7400",
+	"eshop_id": "20010000021168",
+	"product_code": "WUP-P-AGQP",
+	"name": "Grumpy Reaper",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 76,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/dd536a10f0aa3d98689a83170850938341049fd85b737552ae80fefe6e7356db.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d54ec30017eae127ae6e934342963d0fc90c76fda50e2de122f1be82d36fc338.jpg",
+	"data_size": "472744096",
+	"description": "Grumpy Reaper is an arcade-style game that includes elements of skill in different playing modes. Death's granddaughter has stolen the keys to the Underworld to unleash creatures on the world! Take on the role of Grumpy, mow the lawn and find the lost keys to help Death solve this problem through multiple time trial, nocturnal and survival levels! Death has not left you on your own!!! Improve your lawn mower to turn it into a lethal weapon against the monsters. Control tornadoes, turn yourself into a Zombie, wear armor to survive and restore peace... if you can...",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-03-03",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/cd94fcfeaf83e25ae702afc6a6439f8fb3ccbf1032d9851633edf205645d27e1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/34423f64a6321b39b135dc2452dfd3916ed420f613a379ba3147f38716e30f8d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4979620488f31d2b4a8dca8290ea29750d01fe18a6a6325df9455a69a2ec1727.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/727eefd8622494613a4963e33ab688fe207bc7b04932fd53cce7d81bbed55e07.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/27f095b22ef6b7736ba8a5dc989d458c75a1c87d0e3a2cda694243b50e217fd9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f99bd576576fe21aa3abd86f2676cb15fb81a1d0696d6978687202cd299f0332.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7a368bb0022a7a5255ddb090c4fb291367b0d61d89c541af566e42e79ce8ec2d.jpg",
+			"name": "Grumpy Reaper: Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d9aaa8a6f911a8f1f81d64a3c9be2b5850146b12ec3154f264d9a682b558fe86.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "114"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7dd2fc193bfd8b043d18e34ea2d8d3fb5fe79bcb5cfa6647e53102412204d9cc.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "114"
+				}
+			]
+		}
+	]
+}

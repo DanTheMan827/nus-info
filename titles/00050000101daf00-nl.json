@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101DAF00",
+	"eshop_id": "20010000021608",
+	"product_code": "WUP-P-AF2P",
+	"name": "Chronicles of Teddy: Harmony of Exidus",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 15,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d20fa05b4c4565427123b3aaa3c86102bf7dce0980798a972dc48d9e540ec982.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a927300a3c77c05079f2d971203d90bbc82eded66e03851499b85e5bbf5f3384.jpg",
+	"data_size": "412975264",
+	"description": "Chronicles of Teddy: Harmony of Exidus brengt actie, avontuur en RPG-elementen samen met levendige visuals voor een nostalgische wereld die niet vergelijkbaar is met wat dan ook. Vind je weg door hordes snode monsters en enorme gevechten met bazen in retro 2D glorie in pixelstijl! Los puzzels op, praat met bewoners en breid je vaardigheden uit om het ooit vredige Exidus weer hoop te geven.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-04-07",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/5e9c80016362a61c499c7eeeca0f76d391ca3e032d4373acbed0fd98b919cbed.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/22d9c646336c7c60b98aca2c48827da922bb971ee6bdb44059c8eba5c7e44518.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/11b541ee980e201dbb8133b16d10ad5af55e31ec9dff9720c3ea0aecdb57bab4.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fbd2a1b0705fddec99af39b6d4774e367e33c1d45c3bb1bf68a77fd6c7afe08f.jpg",
+			"name": "Chronicles of Teddy: Harmony of Exidus - Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/76a764906e57ee33024b1ed3ccf450a292d06fb6b43fad39df26ae5c762f13b4.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e77dabfe79d52a772e52296a3d4cd7a3395d362b3636ace2ea91d2825844ebe2.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				}
+			]
+		}
+	]
+}

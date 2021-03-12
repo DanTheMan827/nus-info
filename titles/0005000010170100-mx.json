@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010170100",
+	"eshop_id": "20010000008126",
+	"product_code": "WUP-N-WMPE",
+	"name": "Monkey Pirates",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1274,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/91e1d285c47b6540dfe0c5036e2954b7b565994c670e8969c1048363bb24cc4d.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/570b2d58179bdcb650dab25a9811027abb35ef2a22963eaab2cb8571ac0b1703.jpg",
+	"data_size": "436732064",
+	"description": "En Monkey Pirates sube el barco de uno de los cuatro capitanes monos. Enfrentará entonces a otros jugadores en diferentes modos de juego en los ámbitos a través de cuatro mares (Ártico, Caribe, Egipto y China). En estos espacios se pueden encontrar muchos bonos que les permitiría, ya sea aumentar su armamento o para mejorar su barco o lanzar un efecto especial. Usted también tendrá que prestar atención a los factores externos, como los icebergs, volcanes, remolinos y otras torretas. ¿Piensa tener lo que se necesita para convertirse en un auténtico capitán pirata?",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-06-26",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/6c4c937653a53910d11b8e6c964fafa5ccbd57dcd47da90e62b710f8f8cdc2b0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/be833a2de33e60a9f9d5b1f536980e4f6c08fdbb1f064832c697096cad321326.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/dd28032360bb24d245b7afa51891f43453244decfbb5fbf912726c38c0204f2c.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/db8d8da7af48ad1bb16e4752902a484e77c6c349de6ae62c2991675f4ab0903f.jpg",
+			"name": "Avance para lanzamiento Monkey Pirates",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6dd2944b3ec7be7899201b62451068a90ba770330eb9b4086431027413a764b8.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "72"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ed4bfcd5ced59d23d11880464dabda1ae5142616b0417aed8c1240479fd07708.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "72"
+				}
+			]
+		}
+	]
+}

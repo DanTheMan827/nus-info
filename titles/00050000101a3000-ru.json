@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101A3000",
+	"eshop_id": "20010000016308",
+	"product_code": "WUP-N-PCDP",
+	"name": "Advance Wars 2™: Black Hole Rising",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/96364209c3313a93a144e99a23479dfaf21ea1cff7040d1282b73577b84e41af.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9b3b0de8579a2b3802c004acae969a5236b7aa411a000b7e2f6d4d5ce612d146.jpg",
+	"data_size": "88834188",
+	"description": "Black Hole Army снова в деле в сногсшибательном продолжении уже известной всем стратегии. Зловещий военачальник Стурм затеял мощное новое вторжение, и чтобы его остановить, вам понадобится объединенная сила всех армий. Управляйте военачальниками со всего мира. Каждому из них присущи уникальные способности и Силы военачальников, способные изменить ход войны. В Advance Wars™ 2 вы также получите новые боевые единицы, такие как разрушительный Неотанк и ракетная башня дальнего действия. Более того, с помощью редактора карт вы сможете испробовать себя в создании вашего собственного поля боя! Дайте волю своему воображению!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-07-02",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/51a6a37e1ac8cb4e0f06a7b0bf6e5acc40cd05f0f15b7d1b84d7fc4d8bf0822e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d0003ca874cc15c53debeacb4fbf730dc974adc9fa3dc70824ff9b375c332927.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c9f8dd4754d6de1c2312340686c6b0b877cbce25470ba0121890465987875847.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3b9c3f5d776ecc723aa6ce59b872f8d4fae2834ed23c2e2bf292e2c5285e9288.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0aff944e8d78849be2bbc4bb89929431f0464e8d3de83541ae3af53692c89c25.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8b076c90d99336fef34999d06d0af96a7ff98feefdf052390cc72144c797dc8d.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9168beb22441e6556b17acd976ad21efa2e85185d7551e7c2170b7b4a538b0a6.jpg",
+			"name": "Advance Wars 2™: Black Hole Rising: видео",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9e7bfe547159d0ef720437b530d59625e1edbddf7b56261e465eae9efc1608bb.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "65"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9ac4fb7f16f77d3df2121798287cc5406d2ad659221d44547e913cf3bd74bbeb.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "65"
+				}
+			]
+		}
+	]
+}

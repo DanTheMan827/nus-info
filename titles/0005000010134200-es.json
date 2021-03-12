@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010134200",
+	"eshop_id": "20010000007986",
+	"product_code": "WUP-N-FBGP",
+	"name": "Adventure Island",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/4f58faf2de7ffafd4db4e2a2b9412edd575cef0bc3996f2841a690dd63415d9d.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ee242df6679a20339e1944deaa881a9a7f83932f115e28fc9fe6015363634aec.jpg",
+	"data_size": "36536460",
+	"description": "Un malvado brujo ha secuestrado al gran amor de maese Higgins, Tina. Para salvarla, tendrás que recorrer ocho peligrosas zonas repletas de enemigos dispuestos a pararte los pies. Por si eso fuera poco, irás perdiendo energía a medida que pase el tiempo, así que deberás recoger fruta, leche y todo lo que encuentres en tu camino hacia la meta. Destruye huevos para obtener objetos útiles, como el hacha o el monopatín, que te ayudarán a avanzar en la partida. Al final de cada nivel, tendrás que enfrentarte a una de las formas que adoptará el brujo. ¡Corre, maese Higgins, corre! Si posees este título en tu Wii™, puedes realizar una transferencia de datos de Wii a Wii U™ y obtener una actualización a un precio especial. Esta es la versión estadounidense del juego.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-07-03",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/5346c70647d07046db8a5389e0f363793523d573b62e20b7e8d4d02bdd6b9ba5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/43085e9a35b17beb628a81d1ad2653ada4bd0d6f649309d6efae4456578a406a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/25612f41e23194d405021fb044e594c16ab7d8119d575ecb04a527c924a1d05c.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ff9a17c4fadb90b9b800771ab409f6c31deeaf269049549e7ab9c28021140e48.jpg",
+			"name": "Adventure Island: Vídeo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/08d99672794a5be204460e6c08b929070bf549cc791c0decf9bf39acbc7e4f63.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "40"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/728b0f0ee7b923bdf555d059983f2be1f255c636043b6f6f1035d57cc354523e.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "40"
+				}
+			]
+		}
+	]
+}

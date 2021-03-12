@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000180600",
+		"eshop_id": "50010000037596",
+		"product_code": "CTR-N-KQMJ",
+		"name": "謎解きメイズからの脱出",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 133,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/92ad18624cfd4eb24ec7e7210b4169f91d36410f2d75e32f658b40ee88cffa70.jpg",
+		"data_size": "74779492",
+		"description": "このゲームの目的は、閉じ込められた迷宮(メイズ)から脱出することです。 ステージ内のさまざまなヒントから謎を解き、ロックされたドアを開けて各ステージを攻略していきます。 全部で60ステージの謎を解こう!",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-10-21",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/7ac653197e08a8766042ebe841cd5e61a985acb6207a1fe42975b43ff52564fb.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/56e2dd02785053b41ff8287db6c31da396d0db722a3a0b40f251d9c7f69c7063.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e02696713afb5c768aa5f1004c58ad0885d85a92f7f3113e9562bfd79941704c.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/596845f87b36dbf60063d9d46c4d6a1051c7468596af81a7ca23b2d7ce9cff88.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ae99891d915374efbb8320da8c18a93bacd809485754670c6d9c6a252d4f7126.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/115ace3bb6c86cd88edf6c98e080c4998402efa6f06b94c64e184d1986ebcdd5.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7d93d66a5fee20898beb2dc6a86abd11581b067d0ce334d2ba4d2bb86ccc8c95.jpg",
+				"name": "謎解きメイズからの脱出 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/785ac8e2573f5845ed12230ee7945984f2a925c9fce8a780c531ac60b874a2e4.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "107"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c3b54ba0e23c8573fa0a84e8680466ac025fa8746fe4bbcd7295f11c37d97852.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "107"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101FF000",
+	"eshop_id": "20010000024030",
+	"product_code": "WUP-P-AVQP",
+	"name": "VRog",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1720,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a195279bbf0597baea338df69c0929179e79bbbe27f37816200d2196bd24646e.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/44af7ada4588b0c95b46cac9a2c13979b7215a76877b759d3d81e2ad3913070a.jpg",
+	"data_size": "193691788",
+	"description": "Станьте лягушкой! Взгляните на мир VRog глазами лягушки, используя контроллер GamePad. Скачите, исследуя живописный пруд, чтобы узнать, что сегодня в меню! Аркадный режим: Ловите вкусных букашек и ставьте рекорды в аркадном режиме... Берегитесь зловредных ос! Они укусят за язык и не поморщатся! Гораздо более лакомая добыча – стрекозы (дают замедление) и божьи коровки (позволяют видеть в темноте). Режим выживания: ...Или двигайтесь быстрее цапли в режиме выживания. Научитесь уворачиваться от огромной цапли, оставаясь без единой царапинки. Съесть или быть съеденным! Поймаете ли вы достаточно насекомых прежде, чем попадетесь цапле? Если да, то для вас есть режим посложнее! Кооперативный режим: Хотите узнать, кто из ваших друзей лучше прыгает по кувшинкам? Запускайте кооперативный режим! Таблица рекордов только и ждет, чтобы ее заполнили! Результаты обнуляются каждые 12 часов. Простое управление и дизайн, понятный даже детям, делают VRog прекрасным выбором для тех, кому хоть раз хотелось отправиться в прыгучее лягушачье путешествие!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-10-06",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/7b52ee1b7ebf189633dd7d5ba7ac612944478e0f68129c2d0ecf8db93c6a1bfc.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9b1876b1abb02ea722ac1f05a060be481ef0fa9df9cb17474d4d034789c9a30a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/594b444d6779f16c1dd2b7bc1c35b45d4857d6555d92de0276a137cec2b9e415.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/844ed226938470e9b34e609d0dd34af8d9c1f275037be8afed9e090cfa8056bd.jpg",
+			"name": "VRog Trailer: видео",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ec2be093d211e0e46685333e1fb3c9aaa7f46a94ca67cd57193ac1dcc9ae6672.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "77"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9c18d3a9e4894d571bd72526045e49df3b388613aa6b2cf2f026210a86975b24.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "78"
+				}
+			]
+		}
+	]
+}

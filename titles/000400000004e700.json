@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000400000004E700",
+		"eshop_id": "50010000007025",
+		"product_code": "CTR-N-SADJ",
+		"name": "3Dクラシックス アーバンチャンピオン",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/90adee54fd11905f98f16d3ac9009cc79486fb9af8fc0b43e31c586cc597e3a2.jpg",
+		"data_size": "15145828",
+		"description": "1984年にファミコン用ソフトとして発売された『アーバンチャンピオン』が3D表示になって生まれ変わりました。 都会の片隅でケンカ自慢の男たちが1対1の殴り合い。素早いパンチと強力なパンチを上下に打ち分け、相手を画面の端へと追い詰めていきます。建物の窓から落ちてくる植木鉢は、頭に当たると少しの間、動けなくなるので要注意。次々と登場する相手を最後まで倒すと「アーバンチャンピオン」の称号を獲得できます。 また、本ソフトをダウンロードした本体が2台あれば、ローカルプレイで2人対戦ができます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2011-07-13",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/4e891d80685b8350136f5db66100e1120b46a684accbfcba21bdfd465317b218.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/cbe52eee355bc7c75f767280ca0c8ebb65671e6264fa03164939b5d6859cfbf7.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b54cfc95cc09e359c3baaf72a683655c2bb3d9336d5030f7a46929cb616fa2f3.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/6e76df64e44f844f6911f02f7d270593a0324f94586683d7c496bca28b9ab0e0.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/de246345acae9d9af6793c025c42c24e8ca30531872001e23487c7eac226f92b.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/263157ae22c7242c584e7173c5d0ad9fef0b4f18880ed7818d4fd9a544432119.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3c7a0581b1767243b9742cecf642fe0a5d43c234a4b3edab42d488739c306380.jpg",
+				"name": "3Dクラシックス アーバンチャンピオン プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ebb8e2b5280ef05273e684fb128224094a8583f6ee754ad49141691c00fc0b9d.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "44"
+					}
+				]
+			}
+		]
+	}
+}

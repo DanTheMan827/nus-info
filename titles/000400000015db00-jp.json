@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000015DB00",
+	"eshop_id": "50010000030715",
+	"product_code": "CTR-N-JLHJ",
+	"name": "リーグ オブ ヒーローズ",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 882,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/371a0e1ec021641bd79d5fc43464294d63dfcf608969a559f6548b6747c81078.jpg",
+	"data_size": "92978020",
+	"description": "『リーグ･オブ･ヒーローズ』は、名無しの勇者を操作して村の平和を脅かす恐ろしいモンスターを倒していくアクションRPGです。 未知なる\"フログネストの森\"へと足を踏み入れ、村人を恐怖に落とし入れるモンスターそして、巨大なボスを倒そう! トレジャーとコインを手に入れれば、武器･防具の装備品そして、ユニークなアイテムが購入できます。敵を倒すたびに経験値が増えてレベルが上がり、攻撃力や防御力もアップしてより強力な武器や防具を買うことができ、また、新しいアビリティを習得することもできます。 カラフルで美しい手書き風のグラフィックとアニメーションの中で繰り広げられる60以上ものクエストを次から次へとクリアしましょう。刻一刻と移りゆく時間に、村の天候も変化。モンスターが出現する限り、名無し勇者の闘いに終わりはないのです。 さあ、終わりなき冒険へと今旅立ちましょう!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-02-25",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/b8f1d72070776291d1c9b24b5c346d6e238a04c1641cda29c464e0c460dac071.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e983facf284a3e7c01c9d93a1b850519696ebaf68df553978efa2529cbcfc2c0.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d3cfb1bf7d455ec9f7e84ec2222d75b919e40af08a7ce99ff3b70f68a38e7550.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9c0644f174c86cb60340690d4174590ad01802d291ff4557ce0e9b70f0d8d245.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/699e70df61ec9e01403340402f0401ee5e3c66df172c460847bcbe100f9c73fa.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f5beef86da6cc0fda735387374d43399a3e824399f5b38a08dfc285c62c87924.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/267c6906d2ddc07ce18c06b9de00ee149a87fcd289364e4eb6a4cf74db5169d4.jpg",
+			"name": "リーグ オブ ヒーローズ 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ba28409eb0b5af7607478989184a37a0a65794646fc3c7aa8f148b7125721932.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8a5658034caeccd6cba2577ec93f06700f407d5b8313682f9ed75c311e9afa71.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				}
+			]
+		}
+	]
+}

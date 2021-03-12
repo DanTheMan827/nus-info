@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101AC500",
+	"eshop_id": "20010000022970",
+	"product_code": "WUP-N-NAKJ",
+	"name": "ウエーブレース64",
+	"platform": 170,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fa80ddf2dbea37d747f1f343c6c4362bd8f116fc5568ba55684a1d119523a058.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6fd2aeffafd2280b2081747d7592fcac35af1705cd7a038c52f8144b7e7c39a2.jpg",
+	"data_size": "53608568",
+	"description": "このソフトは、1996年に発売されたニンテンドウ64用のレースゲームです。 プレイヤーは水上を駆け抜けるジェットスキーに乗り、ライバルそして自分自身と戦いながら、タイムやテクニックを競います。 4種類のマシンの中から自分のテクニックや好みに合ったものを選び、「ハンドリング」「エンジン」「グリップ」の3つの要素をカスタマイズできます。 ゲームモードは以下の4つが用意されており、多彩なプレイが楽しめます。 ■チャンピオンシップ 自分のマシンとコンピュータの操作する3台のマシン、計4台でレースをします。 ■タイムアタック 自分のマシン1台でコースを走り、ベストタイムを出すことに専念するモードです。マシンのセッティングもタイムを縮める重要な要素となります。 ■スコアアタック スピードよりも、堅実な走行テクニックとアクロバット操作が要求される、得点数を競うモードです。「どこのポイントでどのアクロバットを使うか」というプレイヤーの構成能力が問われます。 ■2Pバトル（2人用対戦） 画面を上下2分割し、2人のプレイヤーで対戦します。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-07-13",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/2c6168e8c8046d5aaf5a4cb5813f79d77dce9f7cc90bd56345dc0b4047b38807.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/72605b7b9ad536462000fd9d1cbfdc7a09c5f19b6943159b3e6306b6b1780ab6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d87ce1e5033615df1e89dc0076d955d574cee22e3fff3c95b14697d1e01d55e0.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/89cda4d54e51e7a4d96bfa787ce41d18915f3703589fa0f75a2a0185583156cc.jpg",
+			"name": "ウエーブレース64 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/42c5b555b5e68e52149fc0fd113c7a5ab1e9c58552b081de5683172c3eed12c2.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "61"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/28325d77308a438c95123cefd48a642ac0e4ac02d3e6c5a973f79cf40e331a8f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "61"
+				}
+			]
+		}
+	]
+}

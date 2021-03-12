@@ -1,0 +1,79 @@
+{
+	"title_id": "00050000101C7F00",
+	"eshop_id": "20010000018607",
+	"product_code": "WUP-P-BT2P",
+	"name": "Toto Temple Deluxe",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1468,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b80839af86e6ef800d76b265d3c3cbefda828b81dfd66e62316f8f1cce572b0d.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9d27e65516f857d61e27723574ba7940d5d38c6003953bb2ca36f4a87ef5ebc3.jpg",
+	"data_size": "446070944",
+	"description": "Toto Temple Deluxe est un jeu multijoueur local effréné dans lequel les joueurs se disputent une chèvre qui pond des oeufs afin de la tenir sur leur tête le plus longtemps possible. Vous voyez, rien de plus normal. Déplacez vous à la vitesse de la lumière grâce au \"dash\" et assaillez le porteur de chèvre d'un bon coup de tête pour lui voler le trésor à quatre pattes. Échappez à vos adversaires jaloux et protégez la chèvre de leurs attaques à l’aide d'un bouclier déclenché juste au bon moment ! Vous les ferez devenir chèvres, garantie. Et ne vous en faites pas : si vous n’avez pas d’ami, les “bots” joueront avec vous quand vous le voulez et ce, aussi longtemps que vous le souhaitez. Ils ne se plaignent jamais. Ils n’ouvrent même pas votre réfrigérateur pour manger la dernière pointe de pizza de la veille. Les “bots” sont géniaux.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-10-01",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/2c1dbd81c65890d416c57706a67344d34adc9dfc9f32f1a98113fce20c516763.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e8c81cf8c95785d2a4352aaf48aa5b69507a9e2b23932ccdc5892c9d44097260.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6da96be2544638fd80b5792f10c5a7b7216ce43e05bc687adfd1821f987ee29e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6e34f720cba4bebc5fb208b3dfdc3e77434fd52312444b6ac00631371fa1d55c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bdb8784510ad56196ebfd470da874f6e140b31c324fd99c246aafde998b8b5e9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8da0d44c446f987e67be7ab4e996af2d376d44412e4db1ca98b63632196302e1.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7126f78d56a0e2b51c2ce51dacaed6243de1e481d2d2a16cd0dc0eeb71e91fda.jpg",
+			"name": "Toto Temple Deluxe - Bande-annonce de lancement",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/31dcebe195dfe912ec15cfbc6d5363105f8c6000f60821dda6570572768ec57f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7fde63e7db535daabc974b30632e90bac8256135373aeb266e4638353034fa4d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "60"
+				}
+			]
+		},
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3e5e747c1e5c7f2235a24718b7c70fb311d912b36f4a0c777046487635b4538b.jpg",
+			"name": "Toto Temple Deluxe - Entrevue avec la chèvre",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/98fe144f82fe6a9254dd72560bae2f607a24fb6769357a74c8633857f38446d0.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "115"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/384823c6f1fd679e73afee5291aec1328ebc600de47e2d7c3b4e1ae9830e5136.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "115"
+				}
+			]
+		}
+	]
+}

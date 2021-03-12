@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001017D500",
+	"eshop_id": "20010000008106",
+	"product_code": "WUP-N-PBDJ",
+	"name": "マリオカートアドバンス",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2cdec519f85fc5b38aa6bf29a4ed48cdc8f4e56796e9e2744f0a1a6bdcb10800.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f853feb55e342e70d7320840e7b0413acf70f2d8566277aa3d26a6420bffe67c.jpg",
+	"data_size": "87326840",
+	"description": "このソフトは、2001年に発売されたゲームボーイアドバンス用のレースゲームです。 マリオカートシリーズの3作目となる今作。マリオやクッパなど、おなじみのキャラクター合計8人が速さを競い合います。それぞれのキャラクターは性能にはっきりした個性があり、遊ぶコースによって使い分けが楽しめます。バナナやアカこうらのアイテムで相手をじゃましたり、ドリフトやミニターボのテクニックを使ったりすれば、有利にレースを進めることができます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-07-22",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/9563c0eb6f07abb6485f899d79d91aea313733c39caad19a71090506235e8d6e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a287b60f8b3618db647d27a9f00746153045474dfdcd181bea675e34084f4fda.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/bd8304d70593e2edd28f4f68e48072d26a44d9e77a31ad46f57bd138aa8fdf8f.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c3e414257cfd974db10a8cc8c8a95a58354d014fe25d9a07dad874e8746f00d3.jpg",
+			"name": "マリオカートアドバンス プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b9568445602fd5b547e5d2bd95a7c628fda6d02bc4662a509ea5f391e0c7c4b6.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "66"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/719865aef260026871a5cbed054dee994d3c29e1452c1507885875e17a49546b.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "66"
+				}
+			]
+		}
+	]
+}

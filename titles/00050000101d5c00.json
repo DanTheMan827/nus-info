@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101D5C00",
+		"eshop_id": "20010000020470",
+		"product_code": "WUP-N-PDQJ",
+		"name": "ファイナルファンタジーVI アドバンス",
+		"platform": 168,
+		"platform_device": "WUP",
+		"publisher": 246,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/56e5de14f53e6b029dd109c5c9daa5467541f936480c4c52c70ea8a934d67d23.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e3703f0c620068da900f3f5a4f168cc9499f9806a3ca4af20717b2fb1ddaa29d.jpg",
+		"data_size": "75202700",
+		"description": "このソフトは、2006年に発売されたゲームボーイアドバンス用のロールプレイングゲームです。 魔大戦から1000年。失われた「魔法」に代わり 「機械」によって世界は治められていた。 魔導の力を持つ少女ティナ。少女と出会うロック。 物語はやがて多くの運命をまきこみ進んでいく……。 新たな召喚獣、\"魔石\"の追加、 謎に満ちたEXダンジョンなど今作だけの追加要素も満載! ※当時のパッケージ裏面に記載された文章をもとにしています。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-12-22",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/88b494d5c93da5a0a2ecbf5a2fbd1444fbb85917bc7f39ea7aefdef8b1224e63.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/595007fcbc2f764230cc97bb5bcf1a4e333619940818f5fc4dc934b0f6522114.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/9e9e98b12f196799144421b092fdd3baf313df713ce9cddf52f09c1ed093f7ce.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e9ec9c1efe41b8a27f494b751ff0a6f8fd8a1ee0acff82981934493d353dac24.jpg",
+				"name": "ファイナルファンタジーVI アドバンス プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b097ff73801035df8086bbea494141ae97e58bfadd2efcab6b1ba1be8365514e.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "92"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c4e1aa22d50809cc402fbad714e32fccddaba589f8da35e498b1a7a48a2d5e6d.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "92"
+					}
+				]
+			}
+		]
+	}
+}

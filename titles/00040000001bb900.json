@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "00040000001BB900",
+		"eshop_id": "50010000042514",
+		"product_code": "CTR-N-JN5J",
+		"name": "ねこあつめ",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 1706,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/744afaf1269bf276a8185def34ce2357b1ea2ffa27ec71d9351c9c2ea5c1a36a.jpg",
+		"data_size": "314665828",
+		"description": "ゴハンとグッズを置いておき庭先に集まってきたねこたちをただただ眺めて癒される。 基本的にはそんなゲームです。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2017-04-26",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/755b601bfe209960b0396c6dfffa6887e2ea0840294ce1b9679c4ee92b4e32df.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/3da3386169821351170d01f0dfcf9393dd2b454a60ae6f0c252f27bef2ca2bb7.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bdfee4ead472ffbc1cd5e869f05717737bf61ece51f0901338e279b4fa917299.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/507c6acd7ac2134344672fba487cc645d07a48e3067146f489ee69d792cf8876.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/88073b7068c4f5859b35fd382ce6b81e996b4120e60cb98b46f07d29e4f2e3d2.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/cdf2056a29ee40afa35fbaae78825e17e77983c900d2e7712d49bc7e7b586bff.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b93768b6fe0af11f898045de5cf758c39219a0df32a0d7ae144268aa842b79bf.jpg",
+				"name": "ねこあつめ 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2f2b10d82f489260a410819da1016925f4bc0721d334b7e5e42739713c8606a4.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "19"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f73777e983147dc0b9515a0645468c9c13d84af098562d254ee99a4c6791b2f9.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "19"
+					}
+				]
+			}
+		]
+	}
+}

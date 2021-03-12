@@ -1,0 +1,54 @@
+{
+	"title_id": "000500001016BB00",
+	"eshop_id": "20010000008426",
+	"product_code": "WUP-N-FC2E",
+	"name": "Bases Loaded™",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 1800,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b353b1dfbf9afe9ce09a386991cbb12f6bf24d577e20018323dff6aeba566530.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/402adc23377ebfa6df015a582a1f57600d9288447a1687d1afa5dc65a182bb80.jpg",
+	"data_size": "38830240",
+	"description": "Bases Loaded es un juego de béisbol con un estilo arcade en el que podrás elegir de entre una gran variedad de opciones. Selecciona uno de los doce equipos, ajusta tu alineación de entre los 30 jugadores disponibles, cada uno con habilidades diferentes, y luego juega un solo partido o trata de ganar el campeonato. Durante la partida, la pantalla muestra dos perspectivas diferentes: una desde el montículo al estilo de la televisión (única en su tiempo) y otra desde arriba cuando la pelota está en juego. Los controles de juego y los excelentes gráficos agregan emoción mientras controlas todas las posiciones del campo, intentas conseguir un hit o decides qué lanzamiento hacer. ¡Hasta puedes tratar de provocar al bateador del equipo opuesto a subirse en el montículo! Ubícate en el home y descubre por qué este es uno de los juegos de béisbol más populares de NES. ¿Podrás mantener la calma en este momento crucial?",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-07-10",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/89e16453a8769432bca39d7cb8f23defaef2632e491bbc7a274150547661620b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c0361a892d15ee5bdf5bf7dcbe239b54951ded34ab4029e3dad751e02bdfda7b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/512e5afe90c85706ee93c104c501d651f86c977ab7afee6e992d6b4cd281d518.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2b0386e2470c1b5957da24b787f151b08e68864deb2107bb2650bbcbe52546af.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/cda8b4c2c20653df676452b490b14d3fe758844adebbed78c68459a2b9693564.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/94b0de08653a2f0f7ed852f88a01900174462c9cc6e75da36d0156c2702c9566.jpg",
+			"name": "Avance para lanzamiento Bases Loaded™",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/01da5dc545a564d311bb94efbf523a13152a66148bd393b292b09d6baeae6dd7.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "41"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f31cbb9635630623d8b6862a446f016bbf05c5a904553fd20843029e27c980c6.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "41"
+				}
+			]
+		}
+	]
+}

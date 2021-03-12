@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010179C00",
+	"eshop_id": "20010000006967",
+	"product_code": "WUP-N-DAAP",
+	"name": "Dr Kawashima’s BRAIN TRAINING™: How Old is Your Brain?",
+	"platform": 169,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6b4b9b4f0777f0de36ebce565ca0ceba25c4d64ed67a0063ce4cd759424f5a6c.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/32862115423c5dca4cf548a09a5b0481bdc0e1f2a5ed5765c4f6ee0615b08afa.jpg",
+	"data_size": "49676408",
+	"description": "A smash hit on Nintendo DS™, the renowned Dr Kawashima’s Brain Training encouraged millions of users worldwide to keep their minds sharp with simple, daily exercises. There are more than a dozen different numerical and verbal exercises to give your grey matter a workout, designed to be played for a few minutes each day. You can track your training with the in-built calendar, and test your progress by checking your Brain Age score. Also included is a separate sudoku mode, for when you want a break from training!",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-06-26",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/52cc09a1f705e7cb709054d2d848732fd49bcc1f9ea2db47a4e6eb0791769b86.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a735eb71a44bf237149e054b4497a49a241785ea5b378ed5b68e5203232e6f89.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8ed1db28d537b24a637bcc7af2d94807ea99d421d6b25a15ae79fbd719f3b60a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/97b4def02919e5fd675f6789eb39151ce3133fb5c458093f912b2bf3e4d597c5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8b314e8d7010c5336cf5cbc8521c27a03fda83d75c8952038763c5a5d13f27e1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f7ffccef67a7073d27619741a97d190aa2ff15f61ecf1323ed372ec63f37eb28.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6b25513135999d2903a22a90d40f8d5fc9fe31b99252f819ab9b1d9a81f87493.jpg",
+			"name": "Dr Kawashima’s BRAIN TRAINING™: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2a61f970fb4170a746a74655eaef2c167b102ca73e6ccf8883eac718ee35d74c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/30b6fd8ca88d6200a6aca868eb3b26fb79b3c493aac0b6e23269dfafba200c8a.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "49"
+				}
+			]
+		}
+	]
+}

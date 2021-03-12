@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101AD900",
+	"eshop_id": "20010000016628",
+	"product_code": "WUP-N-BDUE",
+	"name": "Dare Up Adrenaline",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1510,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/304a901ef5f59ed1847067f3a60d6d98ef312d720514ee473a2de0f0e5ab9e9d.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/be34a5340073daabb2c70646fe28218b9bdd2b085dc49b740f112e28afed51cc.jpg",
+	"data_size": "306905228",
+	"description": "Le Be Studios mayor éxito hasta el momento! Siente la adrenalina de volar con un traje de alas a través de pasajes estrechos y peligrosos acantilados, colinas llenas de árboles y rocas que se llevará a su experiencia de juego a un nivel completamente nuevo! Dare Up Adrenaline con gráficos mejorados y nuevos modos de juego. La versión Wii U™ de nuestro título más popular, que ya contaba con más de 2 millones de jugadores únicos en la Web y casi 240 MILES descargas con su versión móvil.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-07-09",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/bc2e3f583d69c9166c61f5f70bb4416d74d4927c379d7adcb2cf702a966c9c3a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d7d1e4309925631b808a971c468e3ae2d12a580752114872a2b3d51911a130a9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/470181a98cb1494fc4b770e48c5c835946f8f7580fd362830cff608ea1433440.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1b07755c46ffe537bbe810198db32c22f507968661cfc5dfaf94acb7115e910c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f996dbb830e4217a5808015d8d86fe287d47cacabb479f433e8c8d6e3d47bc16.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e4261cb46a91a3fcc9ad8c9201d97417427e4d838c60159e7978e885cbb0d6f8.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e91aeab55db3fe02d1259ba10eb9161c8a6be7a6b94a2f3f32d54db987195495.jpg",
+			"name": "Avance para lanzamiento Dare Up Adrenaline",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/14a736f99ce0efdbb416ff727d2119828af106ff50a03bbe33e350765168c3ba.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "119"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9fb401353c9b32e094b81e1290ae56325b60bc5fb9c22af6e1985c894db8333d.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "119"
+				}
+			]
+		}
+	]
+}

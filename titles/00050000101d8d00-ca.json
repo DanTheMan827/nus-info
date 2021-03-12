@@ -1,0 +1,54 @@
+{
+	"title_id": "00050000101D8D00",
+	"eshop_id": "20010000018467",
+	"product_code": "WUP-N-ARXE",
+	"name": "Rock 'N Racing Off Road DX",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 76,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9851c9091970fabcbcac0bd4b25212839e7b3c981b8c88e58d29142494f9a61b.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/05d57f70b8e2ee8dc1e4a30ca5517caf8fe1c7e2cd754cc41ff51fb95a83d2e5.jpg",
+	"data_size": "452788384",
+	"description": "Rock'N Racing Off Road DX offers the most entertaining and exciting races, with loads of skids, crashes and amazing jumps. You will have several modes of play, such as Cup mode, time trial and multi-player with the option of up to 5 Players at a time. Online ranking table where you can compare your best times with friends and players from around the world. Features: Wide variety of tracks. Multi-player with 5 players! Realistic physics for driving, jumps and crashes. Off-TV Play using the Wii U™ GamePad. Loads of Rock'N Roll music.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-09-17",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/60b94b2638ba45a52603dbdf95731a2d6340373fc9cd97a2c68be10e324491de.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c8e8bf4175914e76d9ee856a95c540effdcf8f3afeb928805ab42531c4b88ebb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/67a61a7eaf6faa248b0b0537ad220a867e1d06c5e4cb959aadb9824948f3b727.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d27cdd781a181114b734bad1e8cacf8a634babba9128a7a6ef780fcbd1fb4ffe.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/56ffa01a5054bb121c34e90cb50dba812e0c80492b3c023d6b12624b4db37971.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1edbe30a0a61c64cf5bfd56f76390e48d7d2764303261a34bca4e7187edbd760.jpg",
+			"name": "Rock 'N Racing Off Road DX Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d493f0f6830c14086577fbdbbf6539ead0432e0ae13f4e1471fc9a9c8766145f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "81"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ec9017fdb3eb0e1c2200a94ce2d0476ed6d949f993d93ba610f65a92e34fe4a5.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "81"
+				}
+			]
+		}
+	]
+}

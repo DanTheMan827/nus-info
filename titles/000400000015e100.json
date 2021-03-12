@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "000400000015E100",
+		"eshop_id": "50010000040904",
+		"product_code": "CTR-N-KFUJ",
+		"name": "フェアルーン2",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 1212,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c7dfc77c6b1da78a6dec0e262e799df08ab8fd363799c61b003633777c6ca0e8.jpg",
+		"data_size": "43780964",
+		"description": "言葉を話す不思議な本に、行方不明の妖精探しを頼まれたアナタは、 冒険の途中で不思議な少女と出会い、少しずつこの世界の真相へと近づいていく……。 『フェアルーン2』は、 モンスターを倒しながらマップに仕掛けられた謎やパズルを解き明かし、 徐々に探索エリアを広げていくファンタジー謎解きアドベンチャーRPGです。 シリーズ前作をはるかに凌駕するボリュームと、 パワーアップした8Bitテイストのグラフィック＆サウンドが、 懐かしくも新しい、不思議なプレイ体験をお届けします。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-07-13",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8295a6e018119197b0a6275bba194455a187b285e4bba64569166e89d96e2a49.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ff578acab1f878686ea26a72451e215e076d8f1bc51bfb1bbc956e703517563b.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/17ba638d944042b18da88b3148f2f84111489dd0ddc572290c63fc1cfd089391.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9c2b3c236ee9a0c6e6f76502f85392e935bf464011c727d92dc0dd1719556e35.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d49f9c99635ae935c188db1f7f1488f6496f0d6d53af37b0f800d9768f6cd478.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4ffee09182e15032c0c5c4b835fe486e08bdc314079314b4a9e518a0e2f94eff.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/228aa10e1623f81936ff3512c215943f2ba76026a3e76bc934f257f552ede358.jpg",
+				"name": "フェアルーン2 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fd2a91bbebfbc7652bf7178d9d47c44a20f5927a090c604934e80b36cf2d7611.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "103"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/14954c5bc7dd8da22f51397c907adef10465fb4cf645965db7d388aeb6ba8828.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "103"
+					}
+				]
+			}
+		]
+	}
+}

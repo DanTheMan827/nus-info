@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010152C00",
+		"eshop_id": "20010000003945",
+		"product_code": "WUP-N-FB4J",
+		"name": "マリオオープンゴルフ ",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/e5dfc526f46ced0ee868e55cbaf750822c063251261e2e0d98b58ffbe1efc9fe.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c4f96cd8cec42deecaa4b5f1e67a200740de218ea38c72d73d23c0563f80adb5.jpg",
+		"data_size": "36667532",
+		"description": "このソフトは、1991年に発売されたファミリーコンピュータ用のスポーツゲームです。 おなじみマリオとルイージが本格ゴルフに挑戦します。なるべく少ない打数でカップインを目指します。グリーンまでの距離によって、自動的にクラブを選択できる機能があり、ゴルフの経験に関わらず遊ぶことができます。森に囲まれたコースや湖に挟まれたコース、バンカー(砂地)だらけのコースなど、多彩なコースが用意されています。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-01-15",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/f523e0e1b70ce2dea3782b6d15b13b46eca43679e98b8a6019e66ad70c181a22.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/fec222a378c2074a0021769faa811c2ed344d75314212650bb144e4134108e2a.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/007b4a9f80bf9a8538897a6109f45600d8b2585c33284d5c7e9f7272a2cad37d.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/27e51d75dafdcc77a1e44c147116a06fe9e76ac94cc3285f8ec87e5a15c8af70.jpg",
+				"name": "マリオオープンゴルフ プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cb9039deaf7b20856544cc4263323b8e1d3133dd1e8734be0acb054c59088d96.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "45"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7cecdd70ce7a6f4fa2216161cc56b7705abe127a7a011635cdb2e0f1fe6f5f74.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "45"
+					}
+				]
+			}
+		]
+	}
+}

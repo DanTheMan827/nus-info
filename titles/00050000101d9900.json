@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101D9900",
+		"eshop_id": "20010000021488",
+		"product_code": "WUP-N-PDTJ",
+		"name": "ファイナルファンタジータクティクス アドバンス",
+		"platform": 168,
+		"platform_device": "WUP",
+		"publisher": 246,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/54d02af532d3a7fddf0ecc07f16b87b1bc42a625e040bbf1b214541465ac1b29.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3719efe8814f7224e6a407639a9b4d30c97c53c3c79182bf8271ac3df18b0e5b.jpg",
+		"data_size": "76120204",
+		"description": "このソフトは、2003年に発売されたゲームボーイアドバンス用のシミュレーションRPGです。 \"FINAL FANTASY\"と呼ばれる一冊の本によって、セント・イヴァリースの街は一変した。 そこは誰もが夢に見ていた、剣と魔法の世界。 さまざまな種族が行き交い、 白銀の騎士が秩序をもたらす世界。 そんな世界で、2人の男の子と、1人の女の子は それぞれの想いを胸に、それぞれの大冒険をはじめる……。 ※当時のパッケージ裏面に記載された文章をもとにしています。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-03-30",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/5e30f5f37b72991541ac2f2ae469654aab96659dd899799ebb67340c49e8e75a.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/1b2043545b354402a6d50d7567ed1683fe9b2efc1f2833f261b9696c9ed53855.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/33c2a083b953da1a425dda8a6ae5d959bbbd92e45c40dd2b8c144ee07f51c180.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1becc08f73b82305d4399eb0c3c2dd07dc1eab0838c308dea852ff63651792af.jpg",
+				"name": "ファイナルファンタジータクティクス アドバンス プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/46a32a3a3696b2cd133b286577b1b2b327bc9e219a4555058dcc0d874ebddb24.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "77"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c08628f352a0319a940c8798381da256edaffae4dd5c05f58b7095493766a9af.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "77"
+					}
+				]
+			}
+		]
+	}
+}

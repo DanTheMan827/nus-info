@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101C3600",
+	"eshop_id": "20010000017170",
+	"product_code": "WUP-N-DATJ",
+	"name": "ゼルダの伝説 夢幻の砂時計",
+	"platform": 169,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f34ac5fd1150b568bfc76fe80196860119982b1e22beea20ac5fada71bd75b26.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9c94c0700ca0e56cec0b303a6bc56dfd389bc98d1cc87dde2ae080ba1798c107.jpg",
+	"data_size": "85491832",
+	"description": "このソフトは、2007年に発売されたニンテンドーDS用のペンアクションアドベンチャーゲームです。 海賊のお頭である女の子テトラとその手下たち、そしてリンク。一緒に冒険を続けていた彼らは、幽霊船に遭遇し、テトラをさらわれてしまいます。彼女を助けようとしたリンクは海に落ちてしまいますが、流れ着いた島で妖精シエラと老人シーワン、船長ラインバックと出会います。リンクはテトラを救うため、ラインバックとともに幽霊船を捜す冒険に旅立つのでした。 走る・剣を振る・ブーメランを投げるといったアクションや、会話する・気になる物を調べるなどの冒険に必要なことは、タッチペンで直感的に操作できます。また、冒険のヒントなどをマップに直接書き込んでメモすることができます。 冒険中に入手できる船のパーツをカスタマイズすることによって、船の耐久力が変わります。パーツは見た目もユニークなものばかり。さまざまなパーツで船の改造を楽しんでみてください。 ※おすすめの画面レイアウトは「下画面 重視レイアウト」です。 ※オリジナル版でのニンテンドーDSを閉じる操作は、「一度HOMEボタンメニューを表示させたあとにゲームに戻る」という操作で代用できます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-08-03",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/72d53a06a1e22d9deecce2d8b32d3b3b85f17b5241eefd5ae32809e614f1d9f4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f938fa0aebe26287682777021d86880c1ad790662e635c2e7a78c37ccbcabb7c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a287bb7bf27fdd44f12b419958c15fd7dd60fa08c3fb999cad44c56e754b1563.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/95a28f02efda2031de5cc224755bf6f17e4ddbb0dfa20bde40f45da72c1d1c53.jpg",
+			"name": "ゼルダの伝説 夢幻の砂時計 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/40f9f3c4e8722dfc40e615f82207bd828160597276c1dc6ae74b44f221dd4375.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "80"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/42c514497838665bb6790b9233f9c25793b6c29bb516a75d33a0dcb54da179f2.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "80"
+				}
+			]
+		}
+	]
+}

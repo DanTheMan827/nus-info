@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101C0B00",
+	"eshop_id": "20010000018287",
+	"product_code": "WUP-N-BS7E",
+	"name": "The Swindle",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1286,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/69873d7b2427e43dafd7201685270f34f94cb9c1f941752ac458e453e5036509.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/dc69e057c541d646fe2836c56423bbc7a994f682a2c687fbb87c966443acec15.jpg",
+	"data_size": "703955124",
+	"description": "The Swindle es un juego steampunk de delitos cibernéticos en el que deberás irrumpir en edificios, piratear sus sistemas, robar el dinero y escapar antes de que llegue la policía. Londres, 1849. Scotland Yard pronto activará su innovadora tecnología de vigilancia: el Basilisco del demonio. Sus habilidades de vigilancia serán absolutas y tu carrera como maestro ladrón habrá terminado. Róbalo antes de que eso ocurra. Desde la seguridad de tu destartalada aeronave, puedes modificar a tu ladrón con nuevas habilidades, herramientas y todo tipo de horrores tecnológicos para irrumpir en los edificios más ricos y seguros de Londres. Todos los edificios en los que entrarás a robar se generan aleatoriamente, por lo que nunca repetirás el mismo nivel. ¿Tienes lo que hay que tener para llevar a cabo el gran golpe en The Swindle?",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-09-10",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/de0080c19b061369749b44c89c2ed2dc1ca663dd269fae80a351bfbbe9938ff5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ce13f0c8a4e4eb1414e6d5cf80d95af79900a64dcab5a3413a75ba6addbbe1c8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/10c3ba56652c7c2d08a2d13999eb154d100376c978474b9a68fc630f3747adac.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f653979f46d2b33dfdc6b80e3210c7e2bdcae3d126b85151fc1436aa3de10b9f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/77b6bba2d7665db324ccf5b2871ddb316c256a272007ba2a53ff1d811101a7d8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/42a60eeb11dc642585f7f5cbb303787c4920575b8fc88cc7dc6323660026d67e.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/39e0fc0317096efec664e8f550c9d49293c75847367cd87c59881693e9ad6433.jpg",
+			"name": "Avance para lanzamiento The Swindle",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/381caf24e287eb9b43cdcf9794987f98f6120a2433cbb672a20b6bd6dfe33a29.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "103"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ab0599ad203dcdcabff1d95d1ed87beae7541d24e96dcc841274b88c6e13ee2f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "103"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001020DC00",
+	"eshop_id": "20010000026091",
+	"product_code": "WUP-P-AW9P",
+	"name": "WinKings",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1779,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/550eef3caae61d3883b7b7823c5d3964a130f60be650bbfe14c4b25f48522b48.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/490ffaaed965295ed3e88dad26a07d43f29901cd064fdfd1da06daa1fda12dd1.jpg",
+	"data_size": "809107636",
+	"description": "WinKings — это игра на 2D-платформе, переносящая вас в эру викингов. Игра имеет развитую графику и ясный дизайн. Разнообразные и уникальные миры, персонажи, враги и оружие делают игру еще привлекательнее. • 4 эпических персонажа викингов. • До 10 различных видов оружия. Ружье, автомат, РПГ, винтовка, пистолет, граната, огнемет, топор, катана, копье, двуручный и обычный мечи. • 6 разных миров с более чем 120 уровнями. • Легкий, Нормальный, Сложный уровни и уровень «Викинг». Сражения эпических вождей.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-05-11",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/19275a821193f4c1e912be4d14f8163ecf4f8fd56e84992d2851e3f681d951c0.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f3338628925c05277fb224eaa71e97c9a04c110e38e9df0a52021b7a8241cd7c.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e2d95849680f9602b08ab1e26509188db846401089d3bb93266a43882c5ef617.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/38b954124f35b855a59fdee26f79cfbe4274bbf5fa0d9e59851e069e572fc392.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c68fcb834fbd8ae4853e4b735764721a3d90a25a912e84d77eb6ff1d5ae6bebb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0106ff3beb79ecd523b004609cf6abd97084f29aced75bfd48902e3893c4a9cf.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/062d826bbca98c0fa3a1ac0c3c9136b18c4fdae345a645bdad3bc3dec6391c1b.jpg",
+			"name": "WinKings: трейлер",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/77959880186c4e10075651b1ce4e70b4c55c7798d98ab893b9a89f93d29a5933.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "67"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d44bae2a8af6fefe4e4b22aff552e8780b45c9167b4a004c0ec17884ff6112fa.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "67"
+				}
+			]
+		}
+	]
+}

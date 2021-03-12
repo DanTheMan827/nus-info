@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000179300",
+	"eshop_id": "50010000040335",
+	"product_code": "CTR-P-AKMP",
+	"name": "Mon Ours et moi",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/39c18731f59e3cd9ebf8636d95c4a317a7386dde5042c76e17dd545bb63a8c73.jpg",
+	"data_size": "403733348",
+	"description": "Liez-vous d'amitié avec un ours en peluche qui prend vie dans Mon Ours et moi. Occupez-vous d'un ours en peluche capable de parler, marcher et jouer dans un nouveau titre pour toute la famille. Quel enfant n'a jamais rêvé de voir son jouet préféré prendre vie ? Visitez le site amiibo.nintendo.eu pour voir la liste des amiibo™ compatibles et en savoir plus. Un lecteur/enregistreur NFC est nécessaire pour utiliser les amiibo avec les consoles Nintendo 3DS, Nintendo 3DS XL et Nintendo 2DS.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2016-07-01",
+			"retail": "TBD"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8256fd669533523944afddf17f65c26936a50530e858a8c034f9e9552d7b6b74.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5060007206c09488ed049fa9fca57381229021fa2dd250eebfef8f7f52d17484.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/befe84dea671eaadf4f27934d8335b4f7aa3e941c54df6bf12a1a06f5ca2a17d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/23eac7a0344a56b98f7a471169a206c124cc7ae71584911902e8b8eae850062c.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/218d129d0a8b7cc0a5c78217a9a17e0c783ec25bd560e06f948de9ac92030b69.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4bcccf538b498994fc5fa96bc469b6c47c838d91f23df72ff6c3b0c725f41ea2.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/66867deb8e80b832e820f7a6c16d84f02d54771dd90040fe6090eb5a8e15f794.jpg",
+			"name": "Mon Ours et moi : bande-annonce",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/57a5ea62bb617c5867b48ee9b19aa85681db88a8d88f1975c9998878d4534160.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "141"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0d64a29b884ca72eb4db02c342d3a905ed818b59995699b483c32fec9200a0a3.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "141"
+				}
+			]
+		}
+	]
+}

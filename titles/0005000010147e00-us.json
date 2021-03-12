@@ -1,0 +1,54 @@
+{
+	"title_id": "0005000010147E00",
+	"eshop_id": "20010000005927",
+	"product_code": "WUP-N-AHKE",
+	"name": "Hello Kitty® Kruisers",
+	"platform": 125,
+	"platform_device": "WUP",
+	"publisher": 220,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/21193bfa189fc8e03b3329bbf3f5a5fa33edf30b1fa5f881d4355b58481fe4cc.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/f9c5454fcf252ea0dcae1deda97bb284997b1cabe98ca07011f2998aeb576c1f.jpg",
+	"data_size": "909410504",
+	"description": "The World famous & incredibly popular Hello Kitty is back and starring in an all new, 3-D, racing game. Join Hello Kitty and her Sanrio friends as they race On Land, Through Air, and Over Water. Race by yourself or with up to 3 of your friends. Unlock new outfits and vehicles for Hello Kitty and her Sanrio Friends. Challenge your racing skills in the all new Adventure Mode!",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2014-03-21",
+			"retail": "TBD"
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/6afa3d0779ce430f266cdca81c9e5b1ef203c0c360805f2d6aaeb4f8ed199b6d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e82110a27eb235ffa8e85c6a91bd1ba5fd2e6d9cba23e5cac9096e71dfb1e439.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/24cc9ec1e273df1d57619d2c8c8310437940d5881a7009061f62b255d274feb5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/05a68ef8120e97db9dcf069fd4c0c51df6101ded63dfb3e3e98fac93d6dff6fa.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8002471dd578d09868778d06b52442f7706add65549777ff5694863a598d1cb2.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/00a58d6067c14a63d7102011e52e42d38ef01f3b66d894ba81a2bdc36d0c842d.jpg",
+			"name": "Hello Kitty® Kruisers Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/73509977affe9552d6ec4a5c492bbde5081dd7f5dee00670855177c861ee591f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "147"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/953fde34c59fcb797c74f790b5da3ce2467dd35457de687f0b3869ea56b5f432.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "147"
+				}
+			]
+		}
+	]
+}

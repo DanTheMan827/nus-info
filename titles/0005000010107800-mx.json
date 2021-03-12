@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010107800",
+	"eshop_id": "20010000001183",
+	"product_code": "WUP-N-FADE",
+	"name": "Kirby's Adventure™",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/49e6c81b91d2c8c4976955f3cb27e73aa5581bd3283d2c95a04ac12b1936997c.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a736da8886385f7eb9bdd0eb6784c65c8f14a6a0566672893b9843fbe635c594.jpg",
+	"data_size": "37027980",
+	"description": "No todo está bien en Dream Land. Por alguna misteriosa razón, el Dream Spring, un pozo que funciona como depósito para todos los sueños de los ciudadanos de Dream Land, ya no está funcionando. Todos están sujetos a sus peores pesadillas cada vez que duermen. Al llegar al Dream Spring, Kirby se da cuenta que el malvado rey Dedede ha robado la varita estelar y por lo tanto ha privado a Dream Land de la energía mágica que alimenta la fuente. Usando 20 habilidades únicas y tu habilidad de robar los poderes de tus enemigos al tragarlos, tendrás que abrirte paso a través de una tierra repleta de toda clase de pesadillas. Recupera las piezas de la varita estelar y todos en Dream Land podrán de nuevo dormir en paz. Si no cumples tu objetivo Dream Land vivirá por siempre en pesadillas.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-04-17",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/8ffdbff274dda383487686c6f8f4386cce1721fd42b408800eec1ac9e7407195.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/fbe9bec97ec87694f753c5f85fc474311b7226a117a6be6e534dde9042c94c37.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f995caf8e6ae45d430ba2bcb4fe2b7121d8a3a135c79eac27d45475e7c29785a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f101026df9a1dca5da44c4ad26084430786a36818363d0b24b07bb6e3a510c44.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/85bea3382e3340161bdcbc47228911951f4b5e9956cd2a4d110e8d5a99eb6f37.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/db8b9ccbc0b459c2089482dbcb87a779d3ec5c5b15a2e1fc57ba14614ec4e0f0.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fb049a03e23077eabbb2e2eb95cf23976301b7688e9173a98013503ed467f903.jpg",
+			"name": "Avance para lanzamiento Kirby's Adventure™",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/185f46e6a342ed1eb2414787ac5851b6083aac5b786beb65ee0de2e1f44d7af3.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6bdd03de36e3ca9e9a47158beca30ca8175e0dd8f22b7285b9d14219b89e1ce6.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "52"
+				}
+			]
+		}
+	]
+}

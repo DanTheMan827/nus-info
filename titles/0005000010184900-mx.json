@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010184900",
+	"eshop_id": "20010000019730",
+	"product_code": "WUP-N-BSAE",
+	"name": "Slender: The Arrival",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1590,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/96db86437f231a0f8d3616bd6027c19bdc0c9a197c3d52792410457c7ae9e8ae.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a2dd836d3302a1e358c68c062d0673a47b6159af308f35d7cd03e094d11ccbf7.jpg",
+	"data_size": "1053753544",
+	"description": "Slender: The Arrival es la adaptación oficial a videojuego de Slender Man, recreado a partir del emocionantísimo éxito original de Mark Hadley. Desarrollado en colaboración con Blue Isle Studios, The Arrival presenta un argumento totalmente nuevo, gráficos mejorados, repeticiones de gran versatilidad y, lo más importante: el terror de la supervivencia en su mejor faceta.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-10-22",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/cecb50b1f61230ab845640868b7d8c7e5a78496a9f02eab08116f1de897b774b.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ffec8f850146c30cfea16b22304096ed2ed5f50e64508a787f507641d12d8d14.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/96f4351c5825a95b82b07a093a232bc08bde0425f054ebba30b867dcd809cb0a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/fdd0ce51bde2e05a4412abf2842b5c799b8bee07899174628e13aec566e0d5de.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4cc440148c2e42afb0203757d5b819bf51d82895a9a310ca4fa1d5d130186c21.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1472c68cd2350f4f5cb2b05cd6c5f47cc67093862ffdbfa9b61c7b00d068824f.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/429f6b5901e4c5dc966f91940b24bf0f3410c0a63ae5c27948066094f7820888.jpg",
+			"name": "Avance para lanzamiento Slender: The Arrival",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/87e251022a4a7840ecff1b44b0fcc09e5a8180bf9f01d3cad02cce7d55cfd333.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "97"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7c51062155b8720f562f316db4649c8b0038f70de1e064e83c974c9df8f3b37c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "97"
+				}
+			]
+		}
+	]
+}

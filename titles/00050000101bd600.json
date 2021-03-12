@@ -1,0 +1,45 @@
+{
+	"JP": {
+		"title_id": "00050000101BD600",
+		"eshop_id": "20010000023016",
+		"product_code": "WUP-N-VBDJ",
+		"name": "バイオハザード4 Wii edition",
+		"platform": 171,
+		"platform_device": "WUP",
+		"publisher": 39,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1d3b0c3bee647f86576ea634dbb4ed9df97c4c5944c0c8ce80e353ed3fab1dee.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/d8cfcc26d25a98c11d791a94df88368a3ff4c53f214a5a0987ef6b9cd5b4d11e.jpg",
+		"data_size": "4387013128",
+		"description": "このソフトは、2007年に発売されたWii用のサバイバルホラーゲームです。 銃器の照準はWiiリモコンでポイント、Wiiリモコンを振ればサーチナイフ攻撃など、多くの要素を追加して誰でも楽しく遊べます。また、本編の裏側を描いたシナリオ「the another order」も収録しています。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2017-07-05",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/d89c85b3cc87fd46897e02dd5ba1823d080c15f1d5a90c928cb8686805c2931b.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/3ef938afb2282340d70cd1abe2d1f949ce1372bb94d9c73748a8c9a8982ab505.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/7ce6e7c04e2fce7a2f509b3048c2f06f5f28fdbde272dc0f9e7a739083adc13f.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3d360fc877d91d865bd25309263584462669ef1246c323202ffe5dc820b5bfac.jpg",
+				"name": "バイオハザード4 Wii Edition 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1439e1e555009dd781c0819eb4d3aa51feadbae00f1fb078bf8a1e1386821324.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "162"
+					}
+				]
+			}
+		]
+	}
+}

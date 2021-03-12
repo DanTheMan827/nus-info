@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010137700",
+	"eshop_id": "20010000002185",
+	"product_code": "WUP-N-JBKP",
+	"name": "Harvest Moon®",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 167,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/ee49d0d9b23f141ec701588b8d1615ee0d9ebe3ad9bfdb7f9889453296312013.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/458dc7b3cf85acf1d6d5e5694f34ec40c1413b4074c5a02a46372c5f270ddfa5.jpg",
+	"data_size": "41517196",
+	"description": "Настало время пахоты. Отправляйтесь к бабушке в деревню и станьте настоящим фермером. В этом классическом симуляторе вы сполна вкусите прелести деревенской жизни: вам предстоит засевать поля и ухаживать за животными. Чем больше вы трудитесь на благо фермы, тем богаче урожай и тем активнее разрастается хозяйство! Вам придется ездить в город, чтобы запастись провизией и приобрести различные инструменты, облегчающие работу на ферме. Если вы приобрели игру на Wii™, вы можете передать ее на консоль Wii U™ и получить скидку на обновление игры до версии Wii U. Это европейская версия игры. В результате отладки, выполненной разработчиком, музыкальная дорожка в этой версии воспроизводится практически на той же скорости, что и в версии для США. Игровой процесс, демонстрационные ролики и анимация воспроизводятся на скорости PAL. Кроме того, был откорректирован формат изображения (отношение его высоты к ширине).",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-08-01",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/310d5b0cb22986c7d9005e9ca7285e79d17be442dd8c9f8a08e1acdc8a4956b8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/78269d4bd2cd2b8995bc3c974ec85b108fd01579c598461ae5f917eb7987844e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a6888d2837c4c5e6395293a4b7ea680cff702e63766ccf25bb0f07dd442a12e6.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/20f1358d5c2f177764da7fae034b1a142f6825fd5dbe1dde23811403503e44c4.jpg",
+			"name": "Harvest Moon®: видео",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/662d0f76d3eebff3276225320b60875cf54a31b396ae8a503b4f9d5fb2a82079.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "37"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5655245c2e301f8f9c9be08afa27bbc6055392f2bc5f42c2583d7a5e4fcf719f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "37"
+				}
+			]
+		}
+	]
+}

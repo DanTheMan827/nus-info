@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101F7600",
+	"eshop_id": "20010000022607",
+	"product_code": "WUP-P-BD8P",
+	"name": "Dual Core",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1695,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0510c0eab2632c662f0ce5c4bc2b089e7ee938802f8ec305ed88e5c76f0520e0.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/10826a7cd7a8fa3d3e85629a0d6eb900b23d951d189cbcd71800f42ddfd0ff09.jpg",
+	"data_size": "197886092",
+	"description": "Pow Pow Pow! Un jeu de tir deux-sticks vibrant et futuriste ! Nous sommes en 2147 et la colonie humaine d'Europa a connu un horrible sort. Se réinitialisant après leur hibernation, deux IA super-intelligents se réveillent pour se retrouver au cœur de quelques vieux drones de sécurité. Leur tentative de découvrir ce qui est survenu deviendra peut-être moins prioritaire que leur simple survie... Plein de robots, plein de lasers, pleins d’aliens, plein d’explosions! Les influences arcade-rétro sont au premier plan, agrémenté d’un style moderne et coloré, d’une généreuse dose d’intrigue de science-fiction et une touche d’éléments RPG ! - Ne luttez pas seul! Jusqu’à 4 joueurs peuvent combattre ensemble, mais vous aurez toujours vos loyaux (Controllés par IA) confrères à vos côtés Dans le mode Histoire, battez-vous à travers une colonie semblable à un labyrinthe alors que vous tentez de faire la lumière sur la calamité qui est survenue. - Paufiner vos talents de tireurs dans un mode Arcade de style arena. Combattez une quantité infinie de vagues de la horde d’Aliens. - Le mode Versus vous permet d’affronter jusqu’à 3 de vos amis.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-06-23",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/3de24cb46bc11bd7025576a4d0b595c9ba3a24a58d282884f2fb65383efdbc96.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b024d211c0831d066748f9f4736d245278bf61ba073470b9c4c76452581698f7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/1f3a3273d891aa91d07141b998e125653f68c4ffc9947d0c3cc1a14db9adb3f8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/479881fdb81bcf15f1df6216131e7919fe4a4cd6786a4234813e6041b2043799.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/6d23113ed6f2897eb6e2961cb2d1843cb9ce00d3f3b0b2f741fc7a852f611669.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/55647cef9c3ce8dc64324e7fdd47162aedaa6bc3273f02fd25e14f79315a6344.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5e270fd72f8832b064192555b18c1ecf0e517eb3a9d9d6d9bc93d03b269dad2a.jpg",
+			"name": "Dual Core vidéo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/adf181d34a55a9cda915dc87cdf4157e9dfb66d71f4d8131845af1f9112b85b7.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "153"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/deea3f405fbd8aba6ede9f5c54be09188e0c3b34cf88b6bf2ffc5be6bd4228b3.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "153"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010196500",
+		"eshop_id": "20010000011907",
+		"product_code": "WUP-N-FEKJ",
+		"name": "がんばれゴエモン外伝 きえた黄金キセル",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 149,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/eb1882412b73c2172818d9215fd85e7187c850664779c0d6ffbb3fbdd0443fd0.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/254235876a46d17769e5ff93caaa5f883db750b37ab9841bb7b399cbd6f870ad.jpg",
+		"data_size": "39125152",
+		"description": "このソフトは、1990年に発売されたファミリーコンピュータ用のロールプレイングゲームです。 何者かに盗まれた、家宝の「黄金キセル」を探すため、ゴエモンとエビス丸の旅が始まります。各地で情報を集め、立ちはだかる敵を倒しながら犯人を追いかけます。初めはゴエモンとエビス丸の二人旅ですが、旅の途中で二人を助ける仲間と出会い、最大4人で力を合わせて戦うことができます。道中では和風テイストあふれる個性豊かなキャラクターが次々と登場し、最後まで謎と笑いがいっぱいの旅を楽しめます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-10-21",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/391252c7f343779cc03426452e740197deb75ef4553dac8f57f0ff5ae153e9b2.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/d9bbb9a61493dad7057f3958556dc93980f3daa5cb1691ffeac8a79abb8b00f0.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/74be53fe7e46707d7401421db340c6d7b2a76995006b19f43a358356d8565a9a.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/95caf01754617547a5e3a446e3014d9baeeaaea2eda77ca2ad83351a6a73be58.jpg",
+				"name": "がんばれゴエモン外伝 きえた黄金キセル プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e83fd76e46848c27714e2f86e61cac588463c758aec66528b49a9a66a3e1ea6d.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "73"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fe9fa3d197cf8ffcef4ad1f3cf22ddde6dfcc3f1c8189c0da48fdb0bad2b8263.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "73"
+					}
+				]
+			}
+		]
+	}
+}

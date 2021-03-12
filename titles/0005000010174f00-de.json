@@ -1,0 +1,55 @@
+{
+	"title_id": "0005000010174F00",
+	"eshop_id": "20010000010035",
+	"product_code": "WUP-N-JCNP",
+	"name": "Mega Man™ 7",
+	"platform": 164,
+	"platform_device": "WUP",
+	"publisher": 39,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/37a017e31318508a99801afe238f5164a6baf6bdebc79068cbc587c55fe5f4c5.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/85116bc52bc30e0b8c62642a609d9a39ee69054984922d7e81e0871723242ad9.jpg",
+	"data_size": "43778208",
+	"description": "Dr. Wily ist endlich hinter Gittern, aber für Mega Man ist der Kampf noch lange nicht vorbei. Der Notfallplan von Wily wird aktiviert: Vier böse Roboter greifen die Stadt an. Eine perfekte Ablenkung für einen Gefängnisausbruch. Mega Man und Rush sind Wily schon bald auf den Fersen, genau wie Bass und Treble: ein weiteres Duo bestehend aus einem Roboter und einem Hund. Wer sind diese geheimnisvollen Neulinge und kann man ihnen trauen? Springe und ballere durch actionreiche Level, stell dich bösartigen neuen Bossgegnern, entdecke versteckte Items und Power-Ups und schicke Dr. Wily zurück hinter Gitter! Hierbei handelt es sich um die US-Version des Spiels.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-11-06",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/6543d56bffb402edbe3d3ff333ed377b3216324eb1bcbaea4bf5e57b294c612e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/be0af6ce8427f81b76e0769628c66f659afc459bd8e5082f9a26020aa6ce9aa8.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/54a1e735ca8d8e82f0d9526487b8f30f09d7897e530718ca4a9ce8c789b59907.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/016e238afc3c5fccde33f8704c52c0d92720058cce0eac4a7fbc359cf158910d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/503c22a608247d0c768eeb0ff7da5ed67968c399e524933255f24101abb3cc0d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/98ffd6fc4b14ac0e64f6ddf276f61360122d9a2a6d194a977b589a5c586226eb.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/9e9edfe9ea09c12db138e67ed2fb0ecfb1f065e3b15fb81f9fd4fdeb80d66855.jpg",
+			"name": "Mega Man™ 7: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/61aa6ae064768ac6393f407c2247995e2112bc6b30af38c96fb63289df46849a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9bf62e3125070e6a3a62fe010db926c87b5d0885b4a207e4dc3f301d4471dfad.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "56"
+				}
+			]
+		}
+	]
+}

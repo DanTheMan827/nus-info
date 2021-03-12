@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101AC000",
+		"eshop_id": "20010000014227",
+		"product_code": "WUP-N-DAMJ",
+		"name": "スターフォックス コマンド",
+		"platform": 169,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f1a7900a3e1d63a099958ebf2e77bd4a803a116cbb9f7bd583822ba2180c3020.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/aec1c141a1391808cde0627784956cddcb0449823e37801ba828713a3598d0e0.jpg",
+		"data_size": "64225400",
+		"description": "このソフトは、2006年に発売されたニンテンドーDS用の戦略&3Dシューティングゲームです。 天才科学者・アンドルフの野望がフォックスたちに阻止されて数年、禁断の地としてコーネリア軍の監視下に置かれていた惑星ベノム。そのベノムから、アングラー皇帝率いるアングラー軍が突如として現れ、ライラット星系の各惑星へ攻撃をしかけます。敵軍の侵略に対し、フォックスは戦うことを決心します。 「シングルプレイ」では、敵の動きを予測しながら戦闘マップ上に飛行ルートを描く、出会った敵を3Dシューティングで倒す、というルールでゲームが進行します。基本的な操作はいずれもタッチペンを中心にしており、ユニークな感覚で戦略性とシューティングゲームを楽しむことができます。 ステージクリア後、次に選択する行動次第でストーリーが変化していきます。選択したルートによっては、ステージの難易度や仲間になるキャラクター、そして結末までもが変化します。 ※おすすめの画面レイアウトは「大きい画面レイアウト」です。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2016-09-28",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/eb59d338d7d34bc20f919f8ffc952c059ebe6de9c60d6c730d9b141c45ce1cf1.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/a2d5afbd63dffc9484b728a1c917305cade53d9d09702acd74a5907eec85994a.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/9baee97a7280bb74e67a3d9c64c755336692896ea287eb0e060b98519c524d45.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/081772d441e39827f1625ba3c4e1df1197f67b1f7f5f25150eb472733c8b874f.jpg",
+				"name": "スターフォックス コマンド プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4305108ef3c5a61e41f1e4ea9e4d6a1e7df782f841f4d08cde7320d557fee2b1.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "56"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/90c6abe3599e0c837614f90f6342914ad1e251b11baccdce287a8ca5a57d0c4b.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "56"
+					}
+				]
+			}
+		]
+	}
+}

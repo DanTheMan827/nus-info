@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010163F00",
+		"eshop_id": "20010000020188",
+		"product_code": "WUP-N-PPFJ",
+		"name": "イメージファイトII",
+		"platform": 166,
+		"platform_device": "WUP",
+		"publisher": 136,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/769cef0ff094d83987d67e265006c02b65583b5dfb6b9ea18df75312823d473e.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ec8e6ef7194892a71181c36490d576783af19da44f2891675747ff562bdf82cb.jpg",
+		"data_size": "107905164",
+		"description": "PCエンジンの人気作「イメージファイト」の続編にあたる、手応え抜群の縦スクロールシューティングゲームです。 かつての「月戦争」から3年。突如として射手座方向宙域に出現した「エイリアンフォース」が、地球へ向けて進行を開始しました。 プレイヤーは国連宙軍パイロット「ショウ・サワムラ」となって、軌道戦闘機OF-1「ダイダロス」や後継機のOF-3「ガルーダ」を操縦し、仮想現実ステージ「イメージファイト」で厳しい戦闘訓練を積みます。 訓練時の平均破壊率90％を達成したら、いよいよ実戦ミッション開始です。 本作で新たに追加された「特殊攻撃パーツ」をはじめ、補助攻撃システムの「ポッド」やこれを飛ばして敵を破壊する「ポッドシュート」、速度チェンジを利用した「バックファイヤー」などのテクニックを上手に使って難関を突破してください。 地球到達の「X-DAY」まで猶予はあと2年。残された時間の中で人類の存亡を賭けた戦いが再び始まります。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-11-25",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/0613416555d85527966c33fbf9b558c564560ca7d489210d8880ea1f0af532bf.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/75264e7a78090ec69f135dc4e29281b8c9f595ceb27bded95b9b82acc8e72f42.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/fc3429f3b809249075096e1bef5d472e4cd78fbe8621658a7f0448814ceac640.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a506b7aefb0f9cf51b8675712ceda6b5aecdfb8dbb6df8c0651fb141a1d3c85b.jpg",
+				"name": "イメージファイトII プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a0957f2e22006d4da0786e1d6b4cf57ae448ca87e860b75bffb2c0ed61125f55.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "62"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f65d0f3f2a9214669f36759892d6a22b0a7cc1b3052855dbecd585e58d1f7e8d.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "62"
+					}
+				]
+			}
+		]
+	}
+}

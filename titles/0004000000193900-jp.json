@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000193900",
+	"eshop_id": "50010000041551",
+	"product_code": "CTR-N-BAAJ",
+	"name": "マリオパーティ スターラッシュ",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e65b04c8f05a07e7f5ba4c813dfd7196759f7080f32ea02edeaf0f6baa059080.jpg",
+	"data_size": "393227156",
+	"description": "メインモードの「キノピオパレード」では、全員で同時にサイコロを振って、同時に進みます。ほかのプレイヤーターンを待つ必要がなくなり、ゲームをサクサク進めることができます。また、マップ上に登場するマリオなどのキャラクターを仲間にすることで、一緒にミニゲームに参加して点数を稼いでくれたりとゲームを有利に進めることができます。 ほかにも、ノンストップでミニゲームをプレイし、ゲットしたコインの数でコースを周回する「コインアスロン」。コインを集めてスターと交換するおなじみのルールで遊ぶ「バルーンマッチ」。3つのコマすべてをライバルより早く相手の陣地に到着させる「マリオギャモン」。全部で7つのモードで遊ぶことができます。さらに新作ミニゲームも50種類以上収録しているので、みんなでワイワイ、一人でじっくり楽しめます。 また、1本のソフトで4人まで遊ぶことができます（一部制限あり）。ソフトを持っていない人は、『おまけ付き マリオパーティ スターラッシュ 持っている人と対戦版』をニンテンドーeショップで無料ダウンロードすれば、ソフトを持っている人と一緒に全要素をお楽しみいただけるようになります。",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2016-10-20",
+			"retail": "2016-10-20"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/85438968b7e46d98949b04c56bf3d83b56f9e350ae4f52439427ddcad7ef0997.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c7eadcd420251c79a83c4a1ad2e374963cce4bbe906019b17d0c7191052d2cfe.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/83170c1abae056c245830dc12bcb2176526c04590ff0399b10c42c455369196b.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8f543c56cacc0bbbf12e46090400b04c8357f0759e4bae3dc34ba4d8190a499e.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d44df4703a1d80bed552cda50754e1044168fe1efe8ec408b11fe84fed2c6bd1.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2ef010ceddc6ad86291960830b625f922113ac059ef28df3aacdf868a5f7b1e8.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1a378b9b45e1d6d0767909b85e8fc1ed33f54d2c7d6408bdcf1c44f88da02706.jpg",
+			"name": "マリオパーティ スターラッシュ 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/eda026c76516e38c6d10a4c2e2ab1fca3c852ee254e5beb1be63b5effdd2d2ab.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "332"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8abc058be447ff09cfd4176cef5cc00ad6c0d33a5cd445b9f3e30c9f01f91e07.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "332"
+				}
+			]
+		}
+	]
+}

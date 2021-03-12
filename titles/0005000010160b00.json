@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010160B00",
+		"eshop_id": "20010000006248",
+		"product_code": "WUP-N-FCSJ",
+		"name": "ロックマン6 史上最大の戦い!!",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 39,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1c07bb1a16893cadc601edbae7816de00e689b08661e6ea0f802ef176687e5df.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6c8bfff00f24d212bfe0425d48acbc3dfdfc69ddb150e2f00f7d505002234d54.jpg",
+		"data_size": "36765836",
+		"description": "このソフトは、1993年に発売されたファミリーコンピュータ用のアクションゲームです。 ロボット選手権の会場で8体のロボットを強奪し、世界征服に乗り出したMr.エックスを倒すためにロックマンが立ち上がります。本作よりアダプターへの変形能力を身に付けたサポートロボットのラッシュを装着すると、空を飛ぶ「ジェットロックマン」や強力なパンチを繰り出す「パワーロックマン」に変身できます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-05-14",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/d48982019a863920c96770bab8ac0aa519e76be93657878c8d3c8ef7641b8a78.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/6bb03d8c4b3eee0adafe272fe6edd0f6834d704dc1649fda3e5d49c02573fded.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/b0f2b8282519312707272733a2c58bf39b322227db695cdaa06965c31615a9d0.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f726fafe98c0d0032af6c59ab0fee6bd9e10e952f100300565586ad099ddb665.jpg",
+				"name": "ロックマン6 史上最大の戦い!! プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b7a93138123c861738d0e2d53c5842796b29857a032216989dfeccbbba5ce8b0.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "45"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ea92d3aa55e73ff39502de08db41d724f1a535e1295ff7e81426d86cc00a1f56.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "45"
+					}
+				]
+			}
+		]
+	}
+}

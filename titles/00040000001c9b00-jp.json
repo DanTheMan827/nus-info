@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000001C9B00",
+	"eshop_id": "50010000043080",
+	"product_code": "CTR-N-KT6J",
+	"name": "キッドトリップ RUN!",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 1292,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3ebf19419e276451b66549dbc72fcc7787290f7c226c81bb477af8211dc6d89c.jpg",
+	"data_size": "9988964",
+	"description": "突然、謎の島に不時着した主人公「キッドトリップ」 そこには、面倒な野生動物たちでいっぱいだった…… 4つのワールド、20ステージを駆け抜けて、島からの脱出を目指そう！ オートランで走り続ける主人公を操作します。 行く手を阻む動物たちをジャンプで避けたり、石を投げて倒しながら、進もう！ 自分のレベルに合わせて、「ウォーク」「ダッシュ」「ハードコア」の3種類の操作方法が 選べます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-08-30",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/bd426745c75031ed15833611af66b49df999a2ea5a103e766987dec8aba71f37.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/250bfe19454db6300d46953e503d7e75de73926d08f7b77de0f68fbeb7eecd70.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6749c315596532d976aff347bdf20cc6aa27d96de3a4d0bb9e37ad26d86f3dc5.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/250bfe19454db6300d46953e503d7e75de73926d08f7b77de0f68fbeb7eecd70.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/6552c1a4b97a8907749e6a7e64c055c22c72dc65d2fe149f833b65e3f072ec6a.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/250bfe19454db6300d46953e503d7e75de73926d08f7b77de0f68fbeb7eecd70.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2e5ede9db57853f42335e2002e8c0b2561a19fa829e351479a5a775eb5b78bdc.jpg",
+			"name": "キッドトリップ RUN! 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4aaf077f085b58b463b5bbf39adf9b1bc1b6f8892330eeae900a63f3751c1623.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "75"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/54b57226aa255b5f8ef40d22d3599602aa370384cd6f9c7ae2f36056321f3763.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "75"
+				}
+			]
+		}
+	]
+}

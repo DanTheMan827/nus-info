@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001014A700",
+	"eshop_id": "20010000002744",
+	"product_code": "WUP-N-FBRJ",
+	"name": "ドンキーコング3 ",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6959395dac5012a0a7f43db50f9ae7cdeefe6ae5668b04f8800efd53aaf04e4a.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/fb4300b6d0223d2ba4a75d81104b6a94ca70010c50888dec91d0b7efc5403db0.jpg",
+	"data_size": "36503692",
+	"description": "このソフトは、1984年に発売されたファミリーコンピュータ用のシューティングゲームです。 主人公スタンリーを操作して、フラワーガーデンで暴れるドンキーコングやハチなどの敵を撃退します。スプレーを発射してドンキーコングを上まで押し上げるか、すべてのハチを倒すとクリアとなり次のラウンドへ。アイテム「パワースプレー」を取ると、一定時間強力な攻撃ができます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-11-06",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/ba5acb03da0c747498599188969e21ade426f764f29092b4494dbdae39dfa635.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/2dc13e88075d21160264eb009ea37f14d6ae2f49c4f33c10ee52b84ddf0b0320.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a6a38610185e113102fc990def2b500f35543791c71b78a3bb5a85b96bd2e851.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/313c265197a3e9cc2ddcb4eee2a1e1de1538e9c4a2d3851fc3bd73efdbc5caf4.jpg",
+			"name": "ドンキーコング3 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/41e37c5bc4efd5b0ae8986ecf4b7ee8fa7f5d3a247f217f0fd214c8611804236.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "42"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/23079bfe18efc17d8a8d096f4030a1fd0dad58692ccd01ca67c44e11841c8810.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "42"
+				}
+			]
+		}
+	]
+}

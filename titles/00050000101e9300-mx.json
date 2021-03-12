@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101E9300",
+	"eshop_id": "20010000024309",
+	"product_code": "WUP-N-BGGE",
+	"name": "Gear Gauntlet",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1327,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b2a63054a5a657e984e686cfaac7299707dbbb1882cdce2b82ee192234dde6ea.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/71a7515052cb86de3d3ece70ffa7a2f3235339a8a2efbd3c19f01cea8f9c10ac.jpg",
+	"data_size": "422969504",
+	"description": "No se necesitan héroes. No hay villanos para derrotar. No hay un mundo por salvar. Sólo sobrevivir. Gear Gauntlet es divertido, pero induce rabia 2D por la acción de la maquinita de Drop Dead Interactive. Prueba tu paciencia a través de severos guantes mientras se teletransporta, levanta, da marcha atrás y gira para sobrevivir. Use sus reflejos para romper las barreras de colores y ganar su lugar en la clasificación. ¡Hermoso arte dibujado a mano y una banda sonora maravillosa acompañando su descenso a la furia, pero trata de mantener la calma! ¿Puedes sobrevivir al Gear Gauntlet?",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-09-15",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/63146c29b8164c3b18702b5f569f54f4d82a1e0715242af0d22d314755860ad1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d4e0217364340fa58d9ee0f67089979f5c6d575c366c165c3bd1f0f31fc8ab1f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/880006f32da14894b7f2f2f9c60171186fb6975b44984a5f73e15d14a8380893.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4976ccf34f4ddaeb860568c78f5aa2578abe5522f86fc9354af3d57d4111c365.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c8e2a6380bcff0dca671b8016824679968a121ab850fd2be1b2b6db027744833.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4e13500ab83a1def63f9c6135bbe8fdd18ca33c743b64cbb8e472a0948841c2f.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2c662764ef893cc3badb346c59d0ddeeb5deac1c79627f87ddeb3a164fcfb46f.jpg",
+			"name": "Avance para lanzamiento Gear Gauntlet",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c8ed41240b977f84f8f3c364d6d7fe16d11dcc11360879a6a2ebd3295007ddbb.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "74"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c94368baf6da8e4173e519658d2640a51b8ce921fe96a90f86c80a208123be74.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "74"
+				}
+			]
+		}
+	]
+}

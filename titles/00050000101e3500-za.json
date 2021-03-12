@@ -1,0 +1,55 @@
+{
+	"title_id": "00050000101E3500",
+	"eshop_id": "20010000024908",
+	"product_code": "WUP-P-AAWP",
+	"name": "Spheroids",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1272,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f81c6b1fd3ea826e9b2a561c1b758930f2f02e0a333e96175b1b9843f2d861e4.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/c82096e172cb9c3147dd7b89a53b15ae86e3f64ab4975e8765ba6cab37c0447f.jpg",
+	"data_size": "482640032",
+	"description": "In Spheroids you take control of Lucas, a jumpy Canadian boy who sets out on an adventure with his crazy scientist companion Otto after it’s discovered that the government has been hiding alternative universes from the cubic world they live in. Unfortunately, these alternative universes contain spheres that wish to turn everything round, so it’s up to Lucas to save the world from these dangerous aliens: the Spheroids. Throughout Spheroids' 32 levels, you’ll encounter many different environments, with multiple hazards to avoid and enemies to destroy. Items such as the “Modified Drilling Hook” Otto lends Lucas will help you traverse the environment with ease, with many more to find throughout.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-01-05",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/56e20b66472542745c94ac88fb9e9395d790364cefc45576ebb6cfc6906fce29.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4e0af6affd25c21720d80241d7d7021c4c839f59754a6c5a2587a2d2e358d482.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/5f97205fca611fa88e776d04eb1b3356a5ddf6becc5af1394451b3dcd82f6ee2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/9ab451cca1719e67e92a410c72a55db70caaa1eafe997dabcee6b83affbd756d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/eeb33d35c3c9e201b9aee001c2456d2c4f4ff09872d6168b962fb3921196642a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/07cd2f0a338519dbfcce11f4af5157b13d35da86035e6b9c3054daf5408c80c2.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/224985d51f19685f8eb843b705e45f59cbb48bdb86d90df59f4817fe5905af7c.jpg",
+			"name": "Spheroids Gameplay Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c1e42987bd4692532e6432d88887f2ddc5fd817503f97cc456b9131474cf0f55.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "73"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c98cf90a71cca2d1ce4cbb7a6b8afdacd94b9bfab61e05796d5bbaab61d88d38.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "73"
+				}
+			]
+		}
+	]
+}

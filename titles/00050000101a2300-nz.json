@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101A2300",
+	"eshop_id": "20010000016667",
+	"product_code": "WUP-N-DAHP",
+	"name": "Mario & Luigi™: Partners in Time",
+	"platform": 169,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7ebd02f6902c09ae312b937f0ce7cdc001d84e769cd0bd83abd343dc688996e3.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/263c87ae537f869b39d5abf37cba1424a6f666635c9bfdf21fe6d6fdb835b78a.jpg",
+	"data_size": "84050040",
+	"description": "Mario and Luigi team up with their younger selves in a time-twisting, tongue-in-cheek tale that sees the heroic brothers face a new foe: mushroom-like aliens known as Shroobs! In Mario & Luigi™: Partners in Time, take control of both adult and baby versions of the heroes, and use their unique skills in the battle scenes as you get hands-on to hit the right buttons at the right moment. This hilarious role-playing adventure features a wacky sense of humour and appearances by all your favourite characters, from Yoshi to Baby Bowser.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-07-17",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/87dc4a0227fd1daffb2713f931fa0bc7de85040724bd50ba08e2053bb75f7655.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/0a1c6acd5f36fb154d302a69ada424498029e9c1c6fc4622e4715b59fba4e8ea.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/184fe1998e9c09d52f6444f1e063f1e4d81008462a7a050b3e1ad64b530101e4.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/c6bb43d9be0ee8681c19beccc799014de46f3bbeabce3b257b3fc570f0d0cd3c.jpg",
+			"name": "Mario & Luigi™: Partners in Time: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5c817c38e886a549e7ef5c66a01bc11d45838d731dc357068a1bbccc2f4a1710.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "61"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6b443c5456fb6962e58fbe594fa9babd58b556567cdfc2c04429302d2e2b3bf2.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "61"
+				}
+			]
+		}
+	]
+}

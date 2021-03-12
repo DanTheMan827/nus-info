@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001017EE00",
+		"eshop_id": "20010000008468",
+		"product_code": "WUP-N-FDMJ",
+		"name": "デビルワールド",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7e0d7350aeb17c47522ce35f2d012ab28e62399f8eabb88983fec17d838ead35.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/88450a1e538ee67942dfc5d87cbbba94f453c5be65483a3ec160a996aca45bbb.jpg",
+		"data_size": "38699168",
+		"description": "このソフトは、1984年に発売されたファミリーコンピュータ用のアクションゲームです。 タマゴ怪獣のタマゴンを操作して、デビルの支配する迷路を攻略します。タマゴンは一度歩き出すと自動的に進んでいくので、敵にぶつかったり壁にはさまったりしないよう注意して、場面ごとに異なるクリア条件を満たしてください。迷路の主デビルが指をさした方向に画面がスクロールするので、デビルの動きに気を配るのがポイントです。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-11-05",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/c63b7e325b2901bceacc8717a9b6f7f04ccbf2a23d2553daa207ceee10f77eda.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/7418d71edecc7b27b19ede00efb77a76e3f01930a71dfa1132387e688396639f.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/fb2b6fcb199afa45b093f1e3650995b569f54d6173e1aa4cf38b08d56a7a915b.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fe4ab2830f3565e1bb4a0619a723e6b7819fa691b1bc4deee020baa79e956002.jpg",
+				"name": "デビルワールド プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3fad8fbae6effdb961d528551de8bdc6b78c3016656d2f0ac49e28477302b397.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "46"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/02faaa3d881ef1773b947cfb0a421647f0bea0d97b80323a59afa482da273f90.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "46"
+					}
+				]
+			}
+		]
+	}
+}

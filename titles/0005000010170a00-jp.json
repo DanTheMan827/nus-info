@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010170A00",
+	"eshop_id": "20010000006266",
+	"product_code": "WUP-N-FC7J",
+	"name": "謎の村雨城",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/39029729292c5381b73387311441a9a031668083611bc942a8d474187ce99304.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8f30ffae1a9fede982c7bb4fd91531bfb1d55ccf64cb4d18163adc8297b90654.jpg",
+	"data_size": "38731936",
+	"description": "このソフトは、1986年に発売されたファミリーコンピュータ・ディスクシステム用のアクションゲームです。 ある日突然、ナゾの生命体が村雨城と4つの城を謎の力で支配し、暴れ始めます。平和を取り戻すために、主人公・鷹丸は襲いかかる刺客を倒しながら、村雨城を目指して進んでいきます。タヌキや玉手箱から、火炎で攻撃できる「忍法火炎の術」や移動速度が上がる「忍法速足の術」など戦いを有利にする術が手に入ります。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-07-30",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/b566647d32d88b944e92d31d74ffc9b35564a7cf7b04c8142d4d7cedc9b0a616.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/efcadc18641d26c9ca97f8e87f590335c4be688ace2c4fbf7892c993fd857e2d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/428df97f53d83ac240f74e3894b3f3080cf3aec7550caeaa71839fa3f31e5fdf.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/892baa4e7b0ca43efd041b1a622e46e91b839d58145e30d4a95d6f0f48459c6a.jpg",
+			"name": "謎の村雨城 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/79b78e959f89e70da234f65a3cc3131c48e4988b07dd48293bcb5bd6cd23e9cc.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "43"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b98cf8703e708029200dc7cb762af00326bbadd87efe96d9e391634b01cb6cfc.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "43"
+				}
+			]
+		}
+	]
+}

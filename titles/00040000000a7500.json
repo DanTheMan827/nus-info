@@ -1,0 +1,69 @@
+{
+	"JP": {
+		"title_id": "00040000000A7500",
+		"eshop_id": "50010000010874",
+		"product_code": "CTR-N-JPPJ",
+		"name": "おきらくピンポン3D",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 19,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/abb3be957950e9aa5c890cbeb48ae4a6bff7bd6ae5aef5eba48800afb7d5ec51.jpg",
+		"data_size": "45308772",
+		"description": "『おきらく』シリーズに爽快ピンポンゲームが登場! 総勢8人のおきらく一家が6つのステージで卓球対決。 ドライブショットとカットショットを使い分け、体勢を崩した相手にスマッシュを連打すれば気分爽快。 本編に加え、3つのミニゲームとイラストギャラリー、30個のひみつの実績で、たっぷりと楽しめます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2012-07-18",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/299174c998578587597c0ec4117e41d2578a741020fe1016b841f5638251b0dc.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ac092ef38da6d5879a0585d4b9a4be7a01f710ab2b8176f54e20194dd1b3fb56.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/43acc9eb4eb656138b2a45e18b3273d36ce4f20ef48dea1380ebee955342e323.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f820fba90b27b407b4550f4af2205d2ba9adbe61368b53c4b6c8e60ab828928f.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/06913c782e50a814411952f90117235f5120f5d816209a4f900991961d0de338.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/79738dc85d496c48f1fa593e463d81dbc3631ec1e2e391cd186145f014e58f74.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6095d808f294583271f8b94a7df8126aa37bbba78f7cfba24263c2beeee1fbdd.jpg",
+				"name": "おきらくピンポン3D プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1dd3208085a3efe6515e202867eaf4ba3a99949fca88e5ea5b35babb93bb4e44.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "45"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f2813183128a756dbbe51b085eed40407e738d8292aa55a21473d9d9624cd68a.jpg",
+				"name": "おきらくシリーズ 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/43980479d5b81ca71e33092405bf58ce910f77ededfe47317e9b9610245ba0c4.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "259"
+					}
+				]
+			}
+		]
+	}
+}

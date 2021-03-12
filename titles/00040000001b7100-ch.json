@@ -1,0 +1,48 @@
+{
+	"title_id": "00040000001B7100",
+	"eshop_id": "50010000042479",
+	"product_code": "CTR-N-BYWP",
+	"name": "YO-KAI WATCH™ 2: Spezial-Demoversion",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": null,
+	"data_size": "450870116",
+	"description": "In der YO-KAI WATCH 2 Spezial-Demoversion kannst du den zauberhaften Ort Petzlingen erkunden, in dem du zum ersten Mal auf Hovernyan triffst! Entdecke die Stadt, bekämpfe Yo-kai und halte die Augen nach Geheimnissen offen...",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-03-09",
+			"retail": null
+		}
+	},
+	"screenshots": [],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/bdf760ba12ccc8a5661b00dcf510417774efb0224cd00fe973ce762fc425313c.jpg",
+			"name": "YO-KAI WATCH 2: Einführungsvideo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6b4742a09b8891e7b6b03b23f25165506a2601487b1f09d24c9e0e79ffe9151f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "165"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/eac16547ab5f019e495461cc5277161adaf71e8ec066c6a1b1f04f2621e19f67.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "165"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000500001015D000",
+		"eshop_id": "20010000019348",
+		"product_code": "WUP-N-PN5J",
+		"name": "WINDS OF THUNDER ウィンズ オブ サンダー",
+		"platform": 166,
+		"platform_device": "WUP",
+		"publisher": 149,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a2d930c5f3b58204427f5966b711dd3fb2fae7a47a68862f12ca06dc25267542.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3633998713afef6a8e7d25e79c75415ff6b39be004b9036aa5c1b8cc4f90c6a9.jpg",
+		"data_size": "149389452",
+		"description": "ヘヴィメタル調のBGMにのって鎧をまとった剣士が戦う横スクロール型シューティングゲームです。ミストラル王国の6大陸に封印された「暗黒神ザガード」を復活させようともくろむ「ガルド帝国軍」に、剣士「ランディー」が戦いをいどみます。 プレイヤーは6つのステージのどれから攻略するかを選び、さらにステージのはじめには「地･水･火･風」の属性を持つ鎧の中から1つを選択します。攻撃方法はショットと剣攻撃、および広範囲を攻撃できる「精霊召喚」。鎧によって攻撃方法が異なるので、ステージによって鎧を使い分けることがポイントです。敵の攻撃を受けるとライフが減り、ライフが0になるとゲームオーバーです。敵を倒すと手に入る「クリスタル」でステージ開始前にアイテムを購入できるので、精霊召喚をはじめさまざまなアイテムで自機を強化しましょう。 ステージには魅力的な敵キャラが続々登場し、また中盤の高速スクロールから中ボス･大ボスの待つ宮殿へ突入していくスピーディな展開は迫力満点で、ゲームを盛り上げます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-10-21",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/f7658dc435236a0fa80027b9be2a30afb4e290c82a0ebec82b82cd217eb03e9c.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/e0e256ce68f1c44f1aa6d7e2eb8f88553e3556fd21b80db89c70a70e0f461878.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/e418dcd49b14f5e478eb0834d7a605219d9e207964e6196a052e17d6594a4a1a.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/562db76769fe0578ad17289f4ad88e005b4bdc5af00386f11b73007009d6159a.jpg",
+				"name": "ウィンズ オブ サンダー プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/32ab898d99c855d41bfb4a92c1c17f6135dedc5b5ac578306d7f74ea92ce33a4.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/f5a7ade79451fe82e15e8585f9684849ca6790035bd9a566c590544927abe19b.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "48"
+					}
+				]
+			}
+		]
+	}
+}

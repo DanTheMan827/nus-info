@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001015B600",
+	"eshop_id": "20010000004605",
+	"product_code": "WUP-N-PNBJ",
+	"name": "PC原人 ",
+	"platform": 166,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/720b1471dd5a56c03e647b4b5bae1d4b680ac66809d0406e48cd11d67a88027e.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6cc17620936cc6c0d5bbd3c128bc5a8d571d21013d9fcd2c267fec6aa0d9e938.jpg",
+	"data_size": "81199224",
+	"description": "1989年に発売されたPCエンジン用の横スクロールアクションゲーム。恐竜王国の平和を守るため、石頭を駆使したヘッドバッドで敵をやっつけながらステージを進みます。舞台の恐竜王国は全7ステージで構成され、ボーナスゲームや隠し部屋なども盛りだくさん。途中に出現する原始肉を食べると原人がPC猿人、PC変人へと2段階にパワーアップ。PC変人へのパワーアップの際は一定時間無敵状態となり、体当たりだけで敵を蹴散らす爽快感を味わえます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-12-25",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/0a06bf0c5146eb0cd32e20f3b571b91a370d5c49c2dbfd3238af0b42804777ad.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/76533d48f6c6c6d80528d634563621992cb31f45e9346642a9b2b338dfe53708.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f1a900d0845233465a8529d9a34f5f4dd83c351d90499b3279e6c592c5e20d9c.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/0781859c3208d4a66602e6483595bba30482c92780801d0903279f0ae2fa6548.jpg",
+			"name": "PC原人 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b631076f6f3975826aaf903e3b01b9abedb6ce0d14c905428dbaf63e6626e01a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5bf63a6f901114dd4b0bdf4f2ac86852c3b443d5c924399dae9a7ab9fbbd4f8f.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				}
+			]
+		}
+	]
+}

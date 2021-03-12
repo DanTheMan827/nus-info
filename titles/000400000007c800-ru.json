@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000007C800",
+	"eshop_id": "50010000009911",
+	"product_code": "CTR-N-AGAP",
+	"name": "MARIO TENNIS™ OPEN",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/0e66662ff8d270f06328bd5c1e492ea69a7214ae5a40d3529fc1fa2512c8bf58.jpg",
+	"data_size": "270674836",
+	"description": "Игра MARIO TENNIS OPEN для Nintendo 3DS предлагает игрокам насладиться тактической игрой в теннис. Управление в игре при помощи сенсорного дисплея и гироскопа идеально подойдет для новичков. Играйте через Интернет с друзьями или померьтесь силами с игроками, живущими в вашем регионе, и станьте чемпионом! Обменивайтесь игровыми данными с другими пользователями через StreetPass и зарабатывайте монетки!",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2012-10-18",
+			"retail": "2012-05-25"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e1d041379a003781bdccce48dc70d216ce0723fecf7adb9596d369e5424b8bb9.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/97067979b90ebaa2a5dda3f786770b730d2463aa10ec21c7fb66e32f9c0af070.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ca2d1e7195753f426bd8c81325a3cd2273912f7dfff64a410fdd452b6f2d385f.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/c56ca5e7d3cf3f2b374749282f199799899c683766ea57962311b6f8b3669f34.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ed76087e5aabcb944ed9b8cdb0504a2fda892c7220a15155536b940a970b6868.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/66d1c74cd61d39fd9f7ce69331df5a1ae55803d231b66f774fb17234ddd92efc.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/642a09b8d74931833f3d5e05bfbcf5442dbb7edcf313a1f342dd2fb1096ed6bc.jpg",
+			"name": "Mario Tennis™ Open трейлер",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fda270470f010c28d57faacf52ba0a0992c573ab657b086220f7062446cd60bd.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "99"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/166442d1a4829d31b84a0cccf9ca7119da93ff99a2720f6454443796e1fcf906.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "99"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,87 @@
+{
+	"JP": {
+		"title_id": "0004000000169A00",
+		"eshop_id": "50010000036215",
+		"product_code": "CTR-N-BBPJ",
+		"name": "カタチ新発見! 立体ピクロス2",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7c4c54c32eb00cd570914709c92de050a028cb0babd60264475ead2761c1446f.jpg",
+		"data_size": "137608036",
+		"description": "『立体ピクロス』は、立方体のブロックが積み重なった形状から、タテ･ヨコ･オクの3方向に書かれた数字をヒントに、ブロックを壊して、隠されたカタチを完成させていくパズルゲームです。 本作は、ヒント数字を元に、残すブロックと壊すブロックを見極めるという前作の基本ルールはそのままに、「2色で塗り分ける」要素が加わりました。塗る色が2色になったことで、パズルのやりごたえが増し、答えのカタチもより精巧に表現できるようになりました。また、自分に合った難易度でプレイできたり、ヒントを示してくれたりなど遊びやすくなる工夫も施されています。食べ物や動物、スポーツや建物など、バリエーションに富んだ答えのカタチがいろいろあり、全部で300問以上を収録しています。さらにamiiboを読み込むとそのキャラクターをモチーフにしたパズルも遊べます。",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2015-10-01",
+				"retail": "2015-10-01"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/117f7dc5159ae5c4bc0c4af1c46db71217e5ac7148a0ae75ba004febcef6cd69.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/68cd95669c3ec22188cbc265636cfb00444a65a299ce6a78d90e09d9d90f5dff.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5a781be451fbaca2489d01c667fe5575512892a8cf288dfc47f6f9e7bfab07e5.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/db149000cb53ce297a1dbbbef224408e32ec08072ac6f1d54ae10fad52f8561e.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/e38194678fc0fdf78735a8b48adbbdb0fc09983c147e266270395bd0f0691318.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2b20260230242b84e17a9118b9e1b52619a266e94d4ae0ded980cef38215b943.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b409fc01b2cb0e10111d6f8f5e55c19cbbf77d0579bc8aa1ff9c5db69aaaf79d.jpg",
+				"name": "カタチ新発見! 立体ピクロス2 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d186897eec9fd0dcb451232f110f9287c3fba451227eed174c2d634e388b01b9.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "282"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c38733c002b6b3c3f22b5f7f119adc02781873317c251e417045d20ddd8b989e.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "282"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a173279cb20c3d2b9a878ebb0bccef58a30ba517a388e2c5c5a5820a1ea57aed.jpg",
+				"name": "カタチ新発見! 立体ピクロス2 TVCM1",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a1781923baeb0d1a539da47c38b4658008efa11242456eafb27278b29fef4702.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "30"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9a02482f354940c2f0736d4db1fb57b9f9c55704e42a15e82121fba86cd5cf49.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "30"
+					}
+				]
+			}
+		]
+	}
+}

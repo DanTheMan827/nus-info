@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001014FE00",
+	"eshop_id": "20010000005946",
+	"product_code": "WUP-N-WHSE",
+	"name": "My Style Studio: Hair Salon",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 359,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3efe673381ba6201f304ff213f24698bdf7c658ad00e06de0a9605f8df699855.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/85c9c248f15031111007fea59e93c743bfd33c8036834134e0aae122f0eaa234.jpg",
+	"data_size": "167346316",
+	"description": "Elije entre cinco personajes, córtales el pelo y dales estilo en la forma que quieras. Usa diferentes herramientas – desde unas simples tijeras hasta un rizador y dale el toque final con sombreros, lentes y otros divertidos accesorios. Características del juego: Peluquería realista 5 divertidos personajes 13 herramientas diferentes Un montón de accesorios diferentes: sombreros, gafas y mucho más Animaciones hermosas y de alta calidad",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-03-27",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/44538d7dbbdfba18cbeba3997ee9a65522757abc392345b6b4aa6abdc12173eb.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/68f3cca52c89c4e27017cdc4cb658bd176d64529f110dada49ac7dbb139ba760.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/eab0f1d4f08de49966368366f8c3a1c23b4976b41f0dd2d7838728587df1ff5e.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/59e0ff9ec38fd1095d6a866fabf27d0e7dba34eb78c9064854e4d0b597f29b07.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/266dc2ea126fc0a7bd489e70f9afef75fbed2443b88cd238f39c3d4d52285a82.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4918cc92386d8534eaf3af5a0b76c417cd999cefd66781a412bc076aca9a4657.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/77420eeb6df2c596a5ac49ed46c176b4cac87fb241ff7212113d7664580057c6.jpg",
+			"name": "Avance para lanzamiento My Style Studio: Hair Salon",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d46631fcde65e91aa329a1ea21605781ffcc93926f3cc0ceec9c04713fe6549e.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "90"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fb362c4d3fbb0fc1c9b1eb6e517f61bfff66f172e25780a86f552f3bd554de4c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "90"
+				}
+			]
+		}
+	]
+}

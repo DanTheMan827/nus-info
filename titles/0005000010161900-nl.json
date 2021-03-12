@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010161900",
+	"eshop_id": "20010000010033",
+	"product_code": "WUP-N-MCVP",
+	"name": "PIKMIN Short Movies HD",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fce31f0c556f40131e26eb91343b9a529c5d24e83a2459aed7e5e064d24a1780.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/235c2ef69eeb54b44f0d4e9c1a9e33ebc541eb5824cf4bc0c040d4b03fa39463.jpg",
+	"data_size": "1242202332",
+	"description": "De Pikmin zijn vreemde wezentjes, deels dier, deels plant, en er groeien bladeren en bloemen uit hun hoofd. Meestal zijn ze op jacht naar schatten met kapitein Olimar, een ontdekkingsreiziger die per ongeluk op hun planeet terechtkwam. Normaal gesproken kom je Pikmin alleen tegen in games, maar nu zijn ze uit hun natuurlijke omgeving geplukt en in de wereld van computeranimaties beland! Ze spelen de hoofdrol in drie korte filmpjes: in 'The Night Juicer' zien we hoe kapitein Olimar zijn favoriete drankje klaarmaakt, in 'Treasure in a Bottle' komen de Pikmin een vreemde schat tegen, en in het spectaculaire 'Occupational Hazards' zien we hoe de Pikmin met gevaarlijke werkomstandigheden op een bouwplaats omgaan. Je kunt alle drie de filmpjes in prachtig HD bekijken! Opmerking: de Nintendo 3DS- en Wii U-versies van de PIKMIN Short Movies zijn inhoudelijk identiek.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-11-06",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/9fa686370880803fee268575dff447009bc343550150568d0140078eb9d7a989.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/392f87f865690f62ea2aeb2c068094ca7ca47e692ea9962d254dabd5a6f49f78.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8464710cfa07e28994c64db99c0f5242871b36d61ce4ba9e71727b75665cea45.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b69be26fec80e518b2f409e3188b16aae3ddd634b21705f25e50f0d52e519bd0.jpg",
+			"name": "Pikmin Short Movies: Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/216c6aa705ac1fcb93eb56f7e9caafb054c4ff34132ac354e1b44083febddbf0.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "122"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2f9da40ac611ce22395636eb37a081daeb9d3e96e271853095b8c8ddf28298df.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "122"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,87 @@
+{
+	"JP": {
+		"title_id": "0004000000033400",
+		"eshop_id": "50010000006746",
+		"product_code": "CTR-N-AQEJ",
+		"name": "ゼルダの伝説 時のオカリナ 3D",
+		"platform": 103,
+		"platform_device": "CTR",
+		"publisher": 190,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6da906f01569aadc6e9e3af296e11e513c7009a0c4373974ec67f4392bdea9ba.jpg",
+		"data_size": "471862116",
+		"description": "1998年にニンテンドウ64用ソフトとして発売した『ゼルダの伝説 時のオカリナ』。ハイラルの地に語り継がれる冒険と成長の伝説が、新たに描かれたグラフィックと共に、ニンテンドー3DSで蘇ります。 ",
+		"availability": {
+			"eshop": true,
+			"retail": true,
+			"dates": {
+				"eshop": "2012-11-01",
+				"retail": "2011-06-16"
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a6a236c8fb3116efd599139b236b24074a2a5bbeeb9a5839500f665b66f0df27.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/641adaa9c7657cbbab97de941bf8017e04b95ba63940c916b0da1703b0acaf15.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/786f1b3e7a60cdaa94998eec04e043179612c2d96cfbfa5b48536c1ff88c7c9a.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/76858462185481ded8ea793a88b099d9344e1d746f86653215f0dd8c291982db.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3532378bdb7ae8e31a0299b5f1502aa811e1506de3ff05e862163a7b5358ff87.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/d28d40914f9d727679646b2924fb576384f8783402bcb5dd8b3f47ee8d62be50.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/3173c3a486159898a717cb2fce810fd5883029f83b11f95f9f63f7eae7bfc212.jpg",
+				"name": "ゼルダの伝説 時のオカリナ 3D 予告映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/0e77b2a9bad412aa096a052d9deb91496a0d839f9ca35d4abe3fb1848632d0b9.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "143"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bd01784a30eb8ba87b7845493b37c3b05a37c5e7c0cd9f01e51faaac5455f094.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "143"
+					}
+				]
+			},
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7afbbab7c7e2d52c0595ad31132c5eea53e4e85c5a01466fb2a2e2d7b1586e83.jpg",
+				"name": "ゼルダの伝説 時のオカリナ 3D 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/1a00948b9a8f880596e4b72ad2dac9222a2ccb7316b2c7db24bd6c5433ebbbe5.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "220"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4dfc555875a73a9731a399a149d24d7957b2815f7c437858b2a8f4795d6a3cc1.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "220"
+					}
+				]
+			}
+		]
+	}
+}

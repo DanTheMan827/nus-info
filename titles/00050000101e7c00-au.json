@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101E7C00",
+	"eshop_id": "20010000021907",
+	"product_code": "WUP-P-BTAP",
+	"name": "TAP TAP ARCADE",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1269,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a64f3f009ac74f6ae09a3e6aa1c92d3de0b0b24a24871c437faeab7947c9a0a3.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/79fca2b491c5d4f0973d032ab464dbc856b080fb62debd6c796c28c8d894d763.jpg",
+	"data_size": "67305632",
+	"description": "Double the Fun! In TAP TAP ARCADE you get two of our most popular titles in one convenient package. This pack includes DON'T CRASH - a quick fire change lanes driving experience, and SPIKEY WALLS - our super popular \"flappy\" game of avoiding spikes.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-04-28",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/949669dd6ea36a67e246e424e853d34eb82bd4f4e9139fa6836b0e94d7ffe106.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3557895dec72e537b4b95cbecfb21c1dc5f826426a4c3c927ca38cb507f97188.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/90be99cb2ef83b8174dcd434563b6590b13e46083088437b34a55757d0f44363.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5dc8623377b8d289070ce0c2fce8fe73204137b591da742034c3d5397e497453.jpg",
+			"name": "TAP TAP ARCADE: Launch Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/22c9d0a0c04d52a4fa873674d64b2c9489fd0e0de734b845bd5945805cdad38f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "127"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e3f6e79c4e6a0a87be47e7026ef7922d77096ff1a02b0319baae69273c16866c.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "127"
+				}
+			]
+		}
+	]
+}

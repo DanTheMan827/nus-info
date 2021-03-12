@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000C1000",
+	"eshop_id": "50010000012452",
+	"product_code": "CTR-N-AG2E",
+	"name": "3D MahJongg",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 1003,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9e3322439b38f2530947d3cbe3b467a03817edfe58bb9c389594f2950b303ff5.jpg",
+	"data_size": "46185316",
+	"description": "O 3D MahJongg oferece a você uma grande variedade de fases, variações de jogabilidade e temas gráficos. No 3D MahJongg, o objetivo é encontrar pares de peças idênticas para conseguir remover todas elas do tabuleiro. Isso parece tarefa fácil, mas logo irá descobrir que uma boa estratégia, junto com um pouco de sorte, é a chave do sucesso. A jogabilidade é direta e intuitiva com a tela tátil. Você pode observar tudo de perto na tela 3D e fazer grandes mudanças na forma como vê o leiaute das peças. E também vai adorar os fabulosos temas gráficos que vão de “fazenda” a “zumbis”. No modo Aventura, terá que dominar 200 fases para desbloquear todas as peças, planos de fundo, etc. Então, poderá usar esses elementos no jogo livre para criar fases personalizadas. 2 versões do jogo: modo clássico e rios; Modo Aventura com 200 fases; Jogabilidade livre com mais de 10.000 variações; 6 temas gráficos: asiático, fazenda, princesa, marítimo, cassino e zumbis.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2012-11-22",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/63a4f7a7d95354791c51a677a0ff92cd64fc7cb52633c737c1ab1441c5538dcf.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/4d2de2fefac9568f6226d31daf40b83dcae5f67102c8c00eaa1697b03e811b00.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ee1d842e5e00fbd6e85fabf712e6e73673e551f0aa434252fdb381e260a6bfd7.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/2178fe0c26b9d3cbc8dc9e437624343581cb9bce335fcd9ab199b37084730f3d.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/48f6903519e90dad97bfe9fd849e224962900e12424b1d4b68f67418a817027f.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e9b1ab1aabf2a346a383f40b964af494e7c4a3c4f7a44378caea3aeaf8bdb5a0.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fd959e4360ccd019c455f9425331f6b00501d5af3a4a19ac6c572d1c58ba1a3c.jpg",
+			"name": "3D MahJongg Vídeo",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/e0c78f2922a1d3e2348f273a7a1522d8d875280a7e7621b6d4458d8b0ccaa062.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "107"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2cf6ac528fdcbfd95bacd8bc06c2f59ae6996d0d71ed11202575394874a1170a.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "107"
+				}
+			]
+		}
+	]
+}

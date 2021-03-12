@@ -1,0 +1,61 @@
+{
+	"title_id": "0004000000198000",
+	"eshop_id": "50010000040908",
+	"product_code": "CTR-N-KT8J",
+	"name": "トレインクリエイター3D",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 19,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/8864353cbbc7dafc85dae8e10c09872ebd5428f72d388633d6292c60a3f84440.jpg",
+	"data_size": "66820964",
+	"description": "『トレインクリエイター3D』は鉄道の街を作るゲームです。 線路をデザインして好きな建物で街を作って、その街を運転できる「鉄道の街シミュレーション」です。 ◆線路の引き方は自由自在 線路の長さや高さを変えたりして自由に線路を引くことができます。 理想の街をイメージして線路をデザインしましょう。 ◆使える建物は250種類以上 住宅や商店街、高層ビルといった建物から、飛行場や観覧車、サーカスのテントといったスペシャルな建物を使って、 自分だけのオリジナルの街をデザインしましょう。 ◆作った街を列車で走ろう 自分だけの街を作ったら、その街を列車で自由に運転できます。 気持ちよく列車を運転しながら街の風景を楽しみましょう。 ◆ストーリーモードで遊ぼう ストーリーモードでは列車を使ったさまざまなミッションを楽しむことができます。 主人公のヴィンと一緒にミッションをこなして鉄道の街を復活させましょう。 ◆QRコードでシェアしよう 作った街やデザインした線路は、QRコードを使ってお友達に渡すことができます。 かっこいい街やきれいな街を作ってお友達に自慢しましょう。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-10-05",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1a522d8f3508a234b5d754b718873f844ab9a5701f98d5c229445d7d91ee2f1f.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/ea99077480ff0a727d23d8d0d8011c04f8ba19563f051c38d3e61710f746043b.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/8d5d128e1734ca397640cd2092bda8575084ecf194674a61be6012ba3e44a30c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/125247d372a59c6d750fab13f73e03072bea6998fb75048462689e1a0779c4cf.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/4e7bbde327d0b9df3525ad3c7abb9551ae07a96699c2694443d143f559ce7f80.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/80ffc2c8c6c0ab4afff86f87893d1c61498e022abd065859f1894dcdaa579f56.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/18d609bbdf75435ba0aa722593e3cb68d1d30e336166464be30d00b1c6337ae0.jpg",
+			"name": "トレインクリエイター3D 紹介映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cf4ac9befe52ddf9da447cbf3480cd13277288ca412be5eba8051d9ea3f8ace9.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "94"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/468cf615e07dd636ded148fd5ea5d63c1d56f2e8f83a10f0d5be58b7f6ada2cd.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "94"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001020EB00",
+	"eshop_id": "20010000026128",
+	"product_code": "WUP-P-BVDP",
+	"name": "Double Breakout II",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1610,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/a2ebaaa3c434672c59d49f643ededbab2a28e72f63d0b0ef4247fc273ca2f0d3.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ef4314faaf961e20859fa0ea654aca55159a20492b83a463a9ceac89516096d8.jpg",
+	"data_size": "164855948",
+	"description": "Double Breakout II is a breakout game for one or two players combining game mechanics from a traditional breakout game and a pong game. Play against the computer opponent aiming for a high score or compete against a friend through 20 exciting levels. Supports Off-TV Play mode.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-03-16",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/5bff58cf7cb33e62e42d4fb52da8cf896d85ada727632dd4057f3909c0bd53a9.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3523d004208f6bd9594bc1c2d7fc8d52385979870d972054d07847919c0ad68f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/e18e1d714f8b32b1e8679b6f5d0a84cf401ebd33e268eaa23ff5faa33bc8c14a.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/deb2b6e9bb45f0e13f7eac2d8932f61934cf7e2f2ec4547413aea92c6991ba24.jpg",
+			"name": "Double Breakout II:trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3f2ae7a576c22568391cde944553986607fbd428b67799d3900b0911136db2e3.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "33"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d053d470d82f5bc71fa70ef6154b9d66b1975797ab633816d157d572ce82dc73.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "33"
+				}
+			]
+		}
+	]
+}

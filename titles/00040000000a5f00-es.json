@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000000A5F00",
+	"eshop_id": "50010000012486",
+	"product_code": "CTR-N-AG5P",
+	"name": "Paper Mario™: Sticker Star",
+	"platform": 103,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/008948ef49ca9c3732137140f39bfe865d64add12b4bee0bfe5416406f10da4d.jpg",
+	"data_size": "559868772",
+	"description": "¡Paper Mario ha vuelto y se encuentra en una situación algo peliaguda! Acompaña a Mario en una emocionante aventura de papel y ayúdale a arreglar con el poder de sus nuevas pegatinas el desastre creado por Bowser. Los coloridos personajes te divertirán durante todo tu periplo por el conocido mundo de Paper Mario, que ahora cobra vida en Paper Mario: Sticker Star para Nintendo 3DS. Además, los alucinantes gráficos en 3D hacen que este mundo tenga la apariencia de dioramas creados en una caja de zapatos.",
+	"availability": {
+		"eshop": true,
+		"retail": true,
+		"dates": {
+			"eshop": "2012-12-07",
+			"retail": "2012-12-07"
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/92be35a48f1548e21d2919ac85b83bf782fada01d451b3963fa5c58d5bfd23ff.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e7fc8e6f24ec0e3ea9701153adb8012682391acebb087cec5c22c88265e88797.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/3a3f514b2a322e70f235839f0e5935214ad8750687e9e9e7656a7db165cceb9d.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b2a5d777f750ad2d655b63881e1f226992b602f70ba1b0f129c071ba07ae7d37.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/2efab5f4857f79024fb665f07bf648975e7fd0a09edcdc45c37f5f0499707b56.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/f7e8eaec59c160f62050ab240fdcc6b45e8f7817662809e4e85b02d3d5ced5b3.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/f9c7ce461a7ee505cc3a371cf2836d2d60564092562061667d3dc8a2ad4d99aa.jpg",
+			"name": "Paper Mario™: Sticker Star: Tráiler",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/b49df14db512905a1e2d38d91fdb9692bcef62d0203f90ef897b91561b23eb9f.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "170"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/aaeffece029954949651fbe5a11966b1929c277e690c7eb27d8acb0070852811.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "170"
+				}
+			]
+		}
+	]
+}

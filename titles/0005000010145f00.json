@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010145F00",
+		"eshop_id": "20010000003625",
+		"product_code": "WUP-N-WMGJ",
+		"name": "ファミコンリミックス",
+		"platform": 124,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5335e8ef43201ab52ea45eda9b7fa704e9c0bbea7be54b5b270e742e3cf44cfb.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6594c7e488abcc4d1e00efa8e4ff13fd1a8b6b733d501306319f0bcdc605bccf.jpg",
+		"data_size": "420905100",
+		"description": "ファミコンソフトの一部シーンを切り取って、新たなルールやしかけでアレンジ。懐かしいけれど、オリジナルとは一味違う遊びを多数収録しています。ゲーム内に新要素を加えた「リミックス」ステージのほか、内容はそのままに、新たに「お題」を設定した「ファミコン」ステージの2つの遊びが楽しめます。本作ではファミコン前期に発売された16タイトルのステージを楽しめます。 ＜収録タイトル＞ 『スーパーマリオブラザーズ』 『ゼルダの伝説』 『ドンキーコング』 『マリオブラザーズ』 『バルーンファイト』『エキサイトバイク』 『アイスクライマー』 『ゴルフ』 『ベースボール』 『テニス』 『ドンキーコングJ R . 』『ドンキーコング3 』 『ピンボール』 『クルクルランド』 『アーバンチャンピオン』 『レッキングクルー』",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-12-19",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/c3d6a6dcc1a7ec76f7cfab706d9b7c387fcb22fd719579d402d671f7669d443c.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/1681021846d6dbe65ed14d3db341dfca2c9352e3328f2f9588b2cc4a2588bcaa.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/99bab6dc13c2324cf555b85a3e043da57d3400768c1cb70e537ee4803bc78083.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/52e9dd8a0ef9b247bb4cb67cbd9cf17e978f5c1a3572cee2ebf78fc418ac6596.jpg",
+				"name": "ファミコンリミックス 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/652ae894e3f2e249553d3683790a5e77879a663632c75bd2d44d96e53707e4a8.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "149"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8664e7a816115774c97b48fa89206ae475365b3c8e3b50557d065f763de33b19.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "149"
+					}
+				]
+			}
+		]
+	}
+}

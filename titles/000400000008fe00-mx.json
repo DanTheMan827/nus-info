@@ -1,0 +1,61 @@
+{
+	"title_id": "000400000008FE00",
+	"eshop_id": "50010000022835",
+	"product_code": "CTR-N-JSKE",
+	"name": "1001 Spikes",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 186,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/e64ab122798991a3d3568bd899560dc7fb8cd708c540fc07ea9cdaee6ccc2817.jpg",
+	"data_size": "67885924",
+	"description": "El arqueólogo de fama mundial Jim Hawkins desapareció durante una expedición en la Antártida. Antes de morir, le dio a su hijo Aban un mapa que muestra la posición del templo Ukampa en América del Sur, y una carta de advertencia de los peligros mortales que esperan a esas ruinas allí riesgo. Aban sobrevivió las innumerables trampas Ukampa y él finalmente consiguió superar a su famoso padre?",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-06-03",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/cdc4a54011e59d03b516aa8b403fce0241b8646197b0a6ed3fa3ab47da83fe68.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/3afe9959fa20156a737418bc91424f6f20576d09d6916ea3ce27949bc79d73ec.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/d641fe30995b8957e8bd18ffbb1f3eb377ce91fb736ef6a782a08f6c8bd020f8.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/226695d852cf2cba1020b68a01759fd3b802ee4ced9f3019c243abbeb38b5c2a.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1d3a5fcc34955434768b8e705bc637f5b068e4df863501f66870e56a7d87c376.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/b82813ca48820d727a581a36c11ed5a8b871ed7fba8debf666d8f002043fa455.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6ca53da6e7962bdb7b4e99399417f47bcc10824c806cca8d82fc9451c7fd1c24.jpg",
+			"name": "Avance para lanzamiento 1001 Spikes",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7d3bd736e36f1dcc5ad25472b56a2232f0267c163bdae7c8b77325dd9ad5c558.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "164"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/edcb07c458a7a77e5daa14a3893fad3f850f9efd1041ebe066164182b061ac78.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "164"
+				}
+			]
+		}
+	]
+}

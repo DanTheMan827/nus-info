@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001016E600",
+	"eshop_id": "20010000008146",
+	"product_code": "WUP-N-WLSE",
+	"name": "ZaciSa's Last Stand",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 1271,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/5287747f566c8b670233ed5eb0ff65d5cbb07927e07dc8520740b734fe968f3f.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/39416a3c2ee1d7aec18faa7c5ce29b75a12bc65af9ada423ab18dc243edfce5d.jpg",
+	"data_size": "131694752",
+	"description": "ZaciSa's Last Stand is a simple, yet challenging, 2D tower defense game set in space. The main concept is that you have to defend your base from an onslaught of enemy ships that seek to destroy you and your way of life. To do this, you will deploy different Bot weapons, such as a Sentry or Bomber to destroy them before they get to your base. The game will start out easy enough, at least in theory, with only something small, like twenty weak enemies. Every level you survive will result in more enemies with increasing strength. You gain points and money for every ship you destroy, as well as a nice bonus at the end of each round. You use this money to not only build more Bots, but also different kind of upgrades. Featuring multiple maps to test your different strategies. Can you survive the slaughter? ",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-07-03",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/ad3e5e1aab4ae2b47bc5520cf372db2ad3920c0359799a13c622d1ef62f586c2.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/3b0e37ae8f6a635cebac4cb2c4494056b6ef9dcdf5b6ae76b52b1f40861c0376.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/afcd70ddcb6c1f8f81ce905a405b2a1aaecbae8d13f69b92cd12d7a8656773b7.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7f611524f2600333758d3f08b7198e29c1b44896ee4bb33f2fc54b5e2ed78b4f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/35d4b0dafa5d360d171086a8607a854b7f652ebca71be0e55cb4a4caf35ca39a.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/d06a4be8f50fe64ba85e4dd1dacac16b28282dd78b645d41a448a58ffcefc607.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/19b2aa0b07a1e67277f287f1f63914f7d61addaf4ceca29bb3f32d28ec42e5b9.jpg",
+			"name": "ZaciSa's Last Stand Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/385bbc374e4f6bc36cc46c0c5955e938fde8e54a01100030652ab7d063d4521c.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "227"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/51fcf368c377290f662175e3d518cb8fe894dc71a5640407a8b5282026e05e06.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "227"
+				}
+			]
+		}
+	]
+}

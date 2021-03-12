@@ -1,0 +1,55 @@
+{
+	"title_id": "000500001014DF00",
+	"eshop_id": "20010000002805",
+	"product_code": "WUP-N-WDFE",
+	"name": "Spot The Differences: Party!",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 228,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/27aed99d92deddabaaba8e67ffc0211088dcad1a409bd28ba06a2d12520ec212.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/7d45a498422988a5adb6a7f040ede6fba71b22c58f9d9a1adb3bde6df64463ec.jpg",
+	"data_size": "434208908",
+	"description": "El juego de encontrar las diferencias más completo de Wii U. Juega solo o con hasta tres amigos y compite por ser el más observador. Características: De 1 a 4 jugadores. 360 imágenes, ¡3,600 diferencias por descubrir! Modos de juego: En solitario: juega con el GamePad o en tu propio televisor con el mando de Wii. Si te quedas atascado, podrás conseguir tiempo adicional y sugerencias. Multijugador: juega al mismo tiempo con el GamePad y los mandos de Wii Multijugador por turnos: juega de uno en uno y mirad las repeticiones sincronizadas al final del turno para comparar tu actuación con la de tus amigos.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2013-09-05",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/150364fda2525ebc7678e4aa86bb8f9303937398f64268526a0074be0d3a5860.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/4cfc1d26b5f60b45ea80dd4bf252f3d217c1f2080b2bb9ac789ced6f8119a969.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f96257c517b725efd60a386eb05cf9eb711bb75c725219fad7ed3bf74c3c1a54.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7292f63a16e005f0aa3bbd53951f225d9a72af73e13ec8afabe6a19a225d5dc5.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/ed6b43e0dc0d0d1e8695c552008fce1d3afad2e1d8606167e03e2e0948cced23.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f57117037ae042f8db0c088296589bee390dc810f90daee0801815c6ee0bf7dc.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7d71b6474283791f675231e0b092b782eadd360fbbde84e72186e5d527e4574c.jpg",
+			"name": "Avance para lanzamiento Spot The Differences: Party!",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/238a7ef5d1484ff43b3520b7419a41f55a96620a61e7e6d58da81547e0a236f4.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "40"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/883557b1b765294890a6401529085faff065568aaef24cf751a8d9ca405857bb.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "40"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010151200",
+	"eshop_id": "20010000005644",
+	"product_code": "WUP-N-FB2P",
+	"name": "Super Dodge Ball",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 19,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/928d6b08d7f5b3dc67214c37b71becc3ed19323eca2d541154d010c3919dd5df.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/ca68ca5ff154bd14a09ec41e8b5660c601872fbaa174aca52265d3f4c13a6497.jpg",
+	"data_size": "36601996",
+	"description": "Es gibt kaum intensivere und schnellere Sportarten als Völkerball, und dieser Klassiker für NES™ bringt dir maximalen Spaß, und das ganz ohne blaue Flecken! In der Weltmeisterschaft übernimmst du das Team der USA und misst dich mit Gegnern aus der ganzen Welt, um die Nummer Eins zu werden. Aber sei vorsichtig: In den Feldern bestimmter Teams gibt es Hindernisse wie Glatteis oder Sümpfe. Alternativ kannst du auch gegen einen Freund im Zweispieler-Modus antreten, und im verrückten Trainings-Modus allein oder zu zweit dein Können perfektionieren. Hierbei handelt es sich um die US-Version des Spiels.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-03-13",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/fc050a53f4d9827333e6d1a7a31ebd820fde32b4d3be0bd93e156fa124fbaf3d.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/8a7294bdc182c0d847731886b4caa0a0525cf6cabab63aa43e2f314b9c4829d1.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/7bcd7fd91c3a3970930cdee631332fafde6deb07b7f24e04fb6c05d632530be4.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/521f1940e15e342444dd342e78d6d10440775b9868f58236192acdcde8085b2a.jpg",
+			"name": "Super Dodge Ball: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/2c1192bda04d2a0f861162479a0379d052aee78180d2ae5a8a3182033429a490.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/bd967d8c205cf6fed100dd5b7dd61d86da6e03d7095fa72b9b74691585d9b3cb.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "45"
+				}
+			]
+		}
+	]
+}

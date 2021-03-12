@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010109400",
+		"eshop_id": "20010000006606",
+		"product_code": "WUP-N-JACJ",
+		"name": "スーパードンキーコング",
+		"platform": 164,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/fc4020cb661c774f2b561829dfc4870e0da5a0a2ffc57024d235b1e961477cd0.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/eed5878d7b88e0e31ddbcc64dfad6a8c57a867e506d7badb7f176dcd26417504.jpg",
+		"data_size": "42958988",
+		"description": "このソフトは、1994年に発売されたスーパーファミコン用のアクションゲームです。 大きな体に力自慢のドンキーと、身軽な体ですばしっこいディディー、ドンキー&ディディーがところせましと大活躍。2人は一緒に行動し、さまざまなアクションで敵を倒したり、仕掛けを乗り越えたりしていきます。プレイヤーは先頭にいるキャラクターを操作します。場面に合わせて先頭のキャラクターを交代しながらゴールをめざしてください。木箱の中には味方の動物「アニマルフレンド」が入っています。背中に乗って、それぞれの特技で助けてもらいましょう。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-11-26",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/c58a7d0ac99a9618a75b044c251a6140e696da48c9c1d6cbc4d64fa00a12aad7.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/0ca448b60424a1b217f3ebd507e5287a4e4d91e19739c270328b7f0c577ac646.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/efda58d5f2d13655757a90124f0b5ea10a7fc6ddccc6daf40143bdb59bb6b558.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/473d0473c19303bc0b89e75b4db114597ea6b5134cf2e1626b69f742d9aedb0c.jpg",
+				"name": "スーパードンキーコング プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a2379f5e3b3b8a9626cd8091db9344c77f0c13acc3ed904ab2e9cb4414bd521b.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "45"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/4340bf5b0c20f3b612eec33405c1359bf8337f9495ddf27978b4d56c59fef3de.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "45"
+					}
+				]
+			}
+		]
+	}
+}

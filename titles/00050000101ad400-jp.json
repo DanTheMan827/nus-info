@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101AD400",
+	"eshop_id": "20010000017468",
+	"product_code": "WUP-N-PCQJ",
+	"name": "メダロットG カブトバージョン",
+	"platform": 168,
+	"platform_device": "WUP",
+	"publisher": 222,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/585ef096ebdc9e99d336a9c9cb664515c9c5e83545c1381ab462576bcfc64a3c.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a4cea14a2e683840362cbcf6e0ae4a84cd0d41ef39c05db45a218fe9107c481e.jpg",
+	"data_size": "73498764",
+	"description": "このソフトは、2002年に発売されたゲームボーイアドバンス用の対戦格闘アクションゲームです。 西暦2027年、田園風景ひろがるすすたけ村に主人公コイシマルが引っ越してきた。 ある日、村おこし好きな村長タマヤスデンスケが「デンスケランド」なるものを完成させた。 そこはロボトルのために造られたアミューズメントパークだった! ライバルや仲間たちとの熱いバトルを征してロボトル大会優勝をめざそう! ※当時のパッケージ裏面に記載された文章をもとにしています。 ※本ソフトでは通信機能を使用できませんが、ゲームをクリアしてエンディングを見たあと、セーブしてタイトル画面に戻り、メニュー内の「つうしんたいせん」を選択することで、オリジナル版で通信機能を使用して入手できるメダルとパーツが入手できるようになります。 ※『メダロットG カブトバージョン』は、基本的に『メダロットG クワガタバージョン』と同じゲーム内容となっておりますが、一部の内容に違いがございます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-10-14",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/8e2175440928c8c1ad2abf68933082da90fd71390169dca0718d0c47ebf956c4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/29a070d25de1b596993c2f4061e254c5b423853ae57e8b1f3901fe0a20f0d9ee.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/c1fc43ecee9199f224cf341c5e16d578d710f1339a02c3c07b067e41c40ec79c.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/84194ce30b9d58729fdbf58422745207573cdfd7487639553419881ce26a4756.jpg",
+			"name": "メダロットG カブトバージョン プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/3c258501d094aa9f43e7825251b9980a55d4eb64874584f99285e9a78cde2e8e.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "47"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/5c4baa7ae0bd6c7afaa043531c6644d0d7bb2d732de52c1aa3e0d0be92cc84ec.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "47"
+				}
+			]
+		}
+	]
+}

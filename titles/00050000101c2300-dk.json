@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101C2300",
+	"eshop_id": "20010000020127",
+	"product_code": "WUP-N-FE5P",
+	"name": "Ninja Gaiden™ II: The Dark Sword of Chaos",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 267,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/7a3babbe8293d584adb84ce0dcafa8695f47e005554f47a73f2bed968281df6c.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/664dc2f4b04a8ff3e5a96510bcc78ddf9dc8b6acdc47fd14ff7d841fa1b1cb03.jpg",
+	"data_size": "38928544",
+	"description": "In this sequel to the original NES™ Ninja Gaiden™, Ryu Hayabusa embarks on a mission to vanquish an evil empire and destroy the Sword of Chaos. Use speed and Ninjutsu fighting techniques to progress through multiple stages full of enemies. Increase Ryu’s powers and recover strength by finding items along the way. Ryu can now also create copies of himself that constantly follow him, repeating his moves. Originally released under the title Shadow Warriors™ II: The Dark Sword of Chaos in Europe. This is the US version of the game.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2015-11-26",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/faf415ebd507c48cbabecdf27a927611c61be26574f97449dae6cb54c9cdf673.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/008c4e41f0c9f1b9e051bdf78408418c8bbe97fb8977494df1d69e0690e5a53f.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/939cecfdbe5c75218a6058944daae16143fce5cc317d9733ab8e4e98bb6c6cdd.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/93a517314d81f2fbfc8181a5ca062ffff111323ad8499d29119e6e172c472698.jpg",
+			"name": "Ninja Gaiden™ II: The Dark Sword of Chaos: Video",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/cdfdaaa2dbba40278c8466009dc0eb71f02a32640f2e7860e538e5e72babeb50.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "47"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/06a8253485cc7238778d5f0151c6ea56de76452356e32b2a1927b09b31fcfc72.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "47"
+				}
+			]
+		}
+	]
+}

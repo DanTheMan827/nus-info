@@ -1,0 +1,52 @@
+{
+	"title_id": "0005000010170E00",
+	"eshop_id": "20010000006886",
+	"product_code": "WUP-N-FC9J",
+	"name": "沙羅曼蛇",
+	"platform": 163,
+	"platform_device": "WUP",
+	"publisher": 149,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/677f9c9d87e7a4ae2dba0c8fd003511e18ac3905792eb0784747aef3d53bc650.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/6e936116aa181284560c659cce30e8521d9093c0d1ceef3b4868797782376f45.jpg",
+	"data_size": "38764704",
+	"description": "このソフトは、1987年に発売されたファミリーコンピュータ用のシューティングゲームです。 侵略を続けるサラマンダ軍に立ち向かうため、超時空間戦闘機を操作し、横スクロールステージと縦スクロールステージを交互に進んでいきます。機体のパワーアップは全6種類あり、強力なレーザーを撃ったり、バリアーを出現させたりすることができます。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2014-10-08",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/5a603d32f99ddf2d8ed280607d40bd0637b10418280d493aa29537c3035a74e6.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/a8df6b15e4ccaef3ed7eabc639e5330178726bde215309bb36920b799fbfee80.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/98b96ccf11561bd4e7b855eb15427bcc686451a8670691c4149920df699abfbc.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/1fc8b6944b94085e400bce348ba2e48929bb79b0827d2b65acbda46d609f32ba.jpg",
+			"name": "沙羅曼蛇 プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9fc7e179b4da928aa586962c02046a9f1cb3233de7c718a06911613adc1f338a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/8a7b6595696f9d2dc87e7278f929ba60f8640c2b28f5da50c00ba0e5380f06b2.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "46"
+				}
+			]
+		}
+	]
+}

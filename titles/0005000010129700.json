@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "0005000010129700",
+		"eshop_id": "20010000001263",
+		"product_code": "WUP-N-FAWJ",
+		"name": "ドンキーコングJR.",
+		"platform": 163,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2b228ee20724000eb5fcea97aa31d36b3b0ba64d63a345b2969d3a83582ade48.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/4869ed5de2ca98166aa5d77fc1f60d7f43a465d947c99476104745c29a7ba2fb.jpg",
+		"data_size": "36536460",
+		"description": "このソフトは、『ドンキーコング』の続編として1983年に発売されたファミリーコンピュータ用のアクションゲームです。 マリオによってオリに閉じ込められたドンキーコングを、息子のジュニアが救出に向かいます。ツルを上下に移動して敵を避けながら、1～3面目では画面上部にあるカギをめざして進みます。4面目では6個のカギを押し上げて、すべてのカギ穴に差し込むとクリアです。マリオが敵役として登場する珍しいソフトです。 ",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2013-07-15",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/bf202b51cb50a945bf00e5a4e95497bb8623d68ebec80cd96df4bb01dedb0ad3.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/907d36d3e5f18c47535c90d7f489df96080fd63fa86ec747c6661b6cf35557db.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/5f81d4656d3545fea16f49d78383f28b4724b4d015c78f063de4a4531e824b0c.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/28cda2b1a5bab3e3d3dd217b6c3fc7f2549333cc5afe2783f00f400213df7257.jpg",
+				"name": "ドンキーコングJR. プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/dcda14035690728c7a1e21539103ed3a1b68195e8d1390737eb6f8187a568e3c.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "46"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/45fc559db5b97df64037be94bca1f97717ff2a8b6133ef21e96dc73db7852ff3.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "46"
+					}
+				]
+			}
+		]
+	}
+}

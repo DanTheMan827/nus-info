@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "00050000101C2E00",
+		"eshop_id": "20010000016407",
+		"product_code": "WUP-N-JDLJ",
+		"name": "メタルスレイダーグローリー ディレクターズカット",
+		"platform": 164,
+		"platform_device": "WUP",
+		"publisher": 190,
+		"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/2bc0c558805727ea31562d0f711ae674d8d0f922a8f540e5db80ce0c6a3207b8.jpg",
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/519a09e3eb322fd06447099eda1a03d98cfb75409590a64118228df2615833bd.jpg",
+		"data_size": "44236960",
+		"description": "このソフトは、2000年にスーパーファミコンのカセット書き換えシステム「ニンテンドウパワー」より発売されたアドベンチャーゲームです。 宇宙で勃発した大規模な戦争が終結して8年が経過し、平和になった地球圏。主人公の日向 忠(ひむかい ただし)が購入した作業用メタルギアームを起動させると、それが巧妙に偽装された軍事用のメタルスレイダー「グローリー」であることが判明します。忠はグローリーのコックピットで、「創造主を探せ……地球は危機に瀕している……」という謎のメッセージを発見し、コックピットに残されたディスクを手がかりに宇宙へと旅立ちます。 本作はファミリーコンピュータ版『メタルスレイダーグローリー』をより洗練させたリメイク版です。ファミリーコンピュータ版よりも美しいグラフィックと、スーパーファミコンのサウンドで一新されたBGMに加え、カットされていた戦闘時のパートナー選択の復活、ディレクターズカットにより甦った幻のシーンなど、見どころある追加要素が盛り込まれた一本です。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2015-12-09",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			"https://kanzashi-wup.cdn.nintendo.net/i/181333745a25b3ebe6e44c2623f71a359944f7a545b34144ea6f9dd312e6d524.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/53384bcf9b56a0a998d4bc8a26fe20412c6a5baec9677e61bb592ff765312914.jpg",
+			"https://kanzashi-wup.cdn.nintendo.net/i/dd1ac1dc58e624d8a64ccde5498875578abca843d6d39114753e324e01ccf6f7.jpg"
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b5b1f15cbffe41ceab6a183678397ec09f45af29e9fa7e4cac87ec45c4eaf28a.jpg",
+				"name": "メタルスレイダーグローリー ディレクターズカット プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/30d85abc54243b17732a5850760791e3b3e63655e7ffe08ef444eadfb85f943a.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "80"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/7c23fe914c81489a686d49a7fb40206a81a830db0910cc68dbc37695b566391b.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "80"
+					}
+				]
+			}
+		]
+	}
+}

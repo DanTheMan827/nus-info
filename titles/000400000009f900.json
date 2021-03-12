@@ -1,0 +1,54 @@
+{
+	"JP": {
+		"title_id": "000400000009F900",
+		"eshop_id": "50010000010327",
+		"product_code": "CTR-N-JKYJ",
+		"name": "AZITO 3D Kyoto",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 118,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/a6662b6432237df5d157dd82df82cbd0f89da157aad9767494149f24d2430f55.jpg",
+		"data_size": "57932644",
+		"description": "『AZITO 3D Kyoto』は、2011年11月3日に発売された『AZITO 3D』には収録されていないマップ「京都」が舞台の秘密基地作成シミュレーションゲームです。 「アジト」初心者の方に安心なやさしいチュートリアルを実装しました。子供の頃に夢見た秘密基地を思うままに作り上げ、怪人やヒーロー、怪獣やロボットを開発し、基地の守りを強化してください。 京都にちなんだ京都限定ヒーローや怪人などが登場し、あなたの秘密基地を守ります。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2012-06-06",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ad0ec835d0340ac5775bfc9508fc2819bc0e8c46234367d6212ae109ea5bf407.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/e068470be69c458d2cca071363bdb4daa1ebe8e92b6af36e6b130f6eb1c556bb.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/c5b92af7decafd8d9259f0fe3813c7bccb954b077562414b6f808899cfde4159.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5f41701cf84f2636af5181c323975b750aca9f95873a64da232d95b76fdb08fa.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/ca219642b2d37ebd094adb1ae1fe9bff3883f60caa858af813333f785372fa30.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/5f41701cf84f2636af5181c323975b750aca9f95873a64da232d95b76fdb08fa.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/d3d7c93eeb121b59d5072de70487ac37a3026ec4e44cb8aea453053122566969.jpg",
+				"name": "AZITO 3D Kyoto プレイ映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/c5ae13b9480be112e7b2aba13eb2c05a183211a7870e6e63191811f2925071e9.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "53"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,52 @@
+{
+	"title_id": "000500001011BA00",
+	"eshop_id": "20010000000313",
+	"product_code": "WUP-N-WLAE",
+	"name": "Uplay",
+	"platform": 124,
+	"platform_device": "WUP",
+	"publisher": 278,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/51b655cf7b45f99a0f14fa6262038bd8a2f5c3eab3c0ec5043970d3f38383d5d.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/04b075e76ef33494fa9589ec041cd4e8010518409c764d963518532ef24f9ec9.jpg",
+	"data_size": "44761208",
+	"description": "Uplay is a set of services that give players extra value for their Ubisoft games. With Uplay you earn Units by performing specific Actions in Uplay enabled games. You can then use your Units to redeem awesome Rewards for your Uplay enabled games on any associated platform; or accumulate your Units to redeem even better Rewards later on. The more you play, the more you win exclusive free content for your favorite games.",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2012-11-29",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/a3fa034dd092437ebab77acfeb673918040df7c6fef183dd8a20c3364345fc01.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/b48a69af236f4beae6e015dac19a1537d8230b77ab236199df3340cffd872fc4.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/74354b8cce4d100ae4c57044acaa7d8a0a894f7d31ad7f8a7525d5ba3b3b553d.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/974fc56e411b9fed6496ad6b2468ec3aca167c6d83770e191948cb1988d56af2.jpg",
+			"name": "Uplay Trailer",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/fc8aefa867b851205a7b8f48783cd6c2e259f4c11fac5930c514b4bf466e654a.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "150"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/6c3aef110665a3d9417ad99162d0bc57b2e7f0e7e997681e83a00e51e43152e4.mp4",
+					"width": "853",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "150"
+				}
+			]
+		}
+	]
+}

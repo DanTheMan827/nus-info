@@ -1,0 +1,63 @@
+{
+	"JP": {
+		"title_id": "0004000000121F00",
+		"eshop_id": "50010000024779",
+		"product_code": "CTR-N-JGAJ",
+		"name": "神創世界グリンシア",
+		"platform": 19,
+		"platform_device": "CTR",
+		"publisher": 146,
+		"banner_url": null,
+		"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/3d59668de409ca62af552080ec42bcfcff75edc092eaa378e8f2961260c51167.jpg",
+		"data_size": "16984932",
+		"description": "トレジャーハンターの主人公一家は、古代の遺跡が発掘されたという情報を聞きつけ、財宝を見つけるべく遺跡に忍び込みます。彼らは果たして財宝を見つけることが出来るのでしょうか……? 昼と夜とで変わる世界、キャラクターごとに異なるイベント、手に入れた秘宝を装備できるシステムなど楽しさ一杯の冒険が待ち受けます。",
+		"availability": {
+			"eshop": true,
+			"retail": false,
+			"dates": {
+				"eshop": "2014-08-20",
+				"retail": null
+			}
+		},
+		"screenshots": [
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/365c9cbf26fa1f49357a582c7b03435a2b30e4500298d5fae452368c672c0e09.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/fc26842269597f109e29cf16dfc631c45e23d223b410a70a209f22b4ff416159.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/5ac653fa9920ab43b6ef81c7bb5c11b3975fb96fe777a828750a2332e6345e15.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/fe6f79019fc1ce38aedee1fc1c0e813af2ee6aed7b5f25090839789a26f70298.jpg"
+			},
+			{
+				"upper": "https://kanzashi-wup.cdn.nintendo.net/i/f2ff5b0e84b86890c8c27516b82f1a65f18d5979e9b71a06c755e6bdb32c89d4.jpg",
+				"lower": "https://kanzashi-wup.cdn.nintendo.net/i/9922e023c233079dbf6c148af7bd638e22537e85558d24604bd5e0656aa5fa09.jpg"
+			}
+		],
+		"movies": [
+			{
+				"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/b61c7cf790595eff228f4a3fdf6cbec06e780a5e2b467b634d8f5a6cf93e11e6.jpg",
+				"name": "神創世界グリンシア 紹介映像",
+				"files": [
+					{
+						"quality": "HQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/ab8874c579f71a0376617791c9d7b6b9a44bf81b4a4dc1c59f0527fb7b6e4306.mp4",
+						"width": "1280",
+						"height": "720",
+						"dimension": "2d",
+						"play_time_sec": "111"
+					},
+					{
+						"quality": "LQ",
+						"format": "mp4",
+						"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/a623ec43278efa9751c1fe6f4737968d49c574c431ac7cac728cf94ec5067c0d.mp4",
+						"width": "854",
+						"height": "480",
+						"dimension": "2d",
+						"play_time_sec": "111"
+					}
+				]
+			}
+		]
+	}
+}

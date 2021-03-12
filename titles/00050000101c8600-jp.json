@@ -1,0 +1,52 @@
+{
+	"title_id": "00050000101C8600",
+	"eshop_id": "20010000017169",
+	"product_code": "WUP-N-DAVJ",
+	"name": "あつめて！カービィ",
+	"platform": 169,
+	"platform_device": "WUP",
+	"publisher": 190,
+	"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/181cde16b4e15eee545445e21f9ab15df878151417da8e2208f77eeac12b0520.jpg",
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/99f012c08f943e26e23e6a72680d3e8dec7cc8cca9dc2566ea08c006a43fc517.jpg",
+	"data_size": "61505656",
+	"description": "このソフトは、2011年に発売されたニンテンドーDS用の群体アクションゲームです。 ある日、悪者によって10人に分けられてしまったカービィ。 力も10分の1になってしまったカービィは、元の姿に戻るため冒険へ出発するのでした。 最大10人のカービィを操作し、敵を倒したり、仕掛けを解いたりしながらステージを進んでいきます。 フルーツをたくさん食べてフルーツゲージを満タンにすると、カービィが1人増えます。1人ではあまり強くないカービィも、たくさん集まることでどんどん強くなり、手ごわい敵を楽に倒せたり、1人では動かせないものを動かしたりできます。 カービィはダメージを受けると体力が減って青くなってしまい、さらにダメージを受けると天使になって飛び去ってしまいますが、ほかのカービィをくっつければ助けることができます。 ※おすすめの画面レイアウトは「下画面 重視レイアウト」です。",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2016-03-02",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		"https://kanzashi-wup.cdn.nintendo.net/i/8390889ac07729aca65d2c9bd2b910897b918b29db2db74f8c0e3d845104fe30.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/f3b27e60e5a5dee04a902ad15950c62e6b5920270a4fcce850f64c7f7b459797.jpg",
+		"https://kanzashi-wup.cdn.nintendo.net/i/59c4a4106850013d0801fff2acf514cc51b2be1fd327bd55a3ac010db7ca5703.jpg"
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/61dcd20f7cf946ca808eb24f7447c42737b4f009f1380fb2bc3bd6675e1cb335.jpg",
+			"name": "あつめて!カービィ プレイ映像",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/10256cfb8c54717acba072a230a42b642fe80fd78c16765cb592d0b73d8d02da.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "70"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/edc3f079fd0f04a5a806d973859bd741048c2e1ada0c1b06b39821b9fcc52b26.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "70"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,61 @@
+{
+	"title_id": "00040000001AB900",
+	"eshop_id": "50010000042130",
+	"product_code": "CTR-N-JLKP",
+	"name": "Team Kirby Clash Deluxe™",
+	"platform": 19,
+	"platform_device": "CTR",
+	"publisher": 190,
+	"banner_url": null,
+	"icon_url": "https://kanzashi-wup.cdn.nintendo.net/i/9749d5e5129b04435b0b3c7fd6b3f77b4dc1bedf42405a798a843e1822923ea3.jpg",
+	"data_size": "133589860",
+	"description": "El tranquilo Dream Kingdom está sufriendo un repentino ataque de sus enemigos. Combina el poder de nuestros cuatro rechonchos héroes y embárcate en osadas misiones para hasta cuatro jugadores en modo local o con compañeros de equipo controlados por la consola. Equipa al Team Kirby con poderosas armas y armaduras, domina los diferentes roles de lucha y devuelve la paz al Dream Kingdom derrotando a los malignos enemigos del universo de Kirby. ¿Os convertiréis en los héroes definitivos? Modo de juego local de 4 jugadores",
+	"availability": {
+		"eshop": true,
+		"retail": false,
+		"dates": {
+			"eshop": "2017-04-13",
+			"retail": null
+		}
+	},
+	"screenshots": [
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/a4411e8f3904ad75be6962180f499788d01c8821205723288015613f0b7b2651.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/0d8969102c233f10bd6eff4cfbd7d0eee45865beffd24e4335de6a9cbc6da843.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/1e543b5b2744d50d5674991bdb287e961d5316e2121fc52d2ef22e7b81ea817c.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/59e6a7524590340deffa615995292a18a7b34ee4e32c046fe6c22f27841aa3a7.jpg"
+		},
+		{
+			"upper": "https://kanzashi-wup.cdn.nintendo.net/i/fb8db0c594970f8bbc24ffde366b431ad9e71287988f5df25b681de3318273ba.jpg",
+			"lower": "https://kanzashi-wup.cdn.nintendo.net/i/8e365061511d511b15064e720209697013924f928e76c5fe6dc5d43e1acfc92c.jpg"
+		}
+	],
+	"movies": [
+		{
+			"banner_url": "https://kanzashi-wup.cdn.nintendo.net/i/6daf909a02f9151a3a4c5468de4b9ac2dd7f610adf1452464c75901a5655c513.jpg",
+			"name": "Team Kirby Clash Deluxe: Tráiler de lanzamiento",
+			"files": [
+				{
+					"quality": "HQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/9c6d7eeb6751db7161d9f9a428a2eb9a9b2fffb011bbae49f4bb3762d691bbd3.mp4",
+					"width": "1280",
+					"height": "720",
+					"dimension": "2d",
+					"play_time_sec": "106"
+				},
+				{
+					"quality": "LQ",
+					"format": "mp4",
+					"movie_url": "https://kanzashi-movie-wup.cdn.nintendo.net/m/d8f72bec8beeda69b2a9b340af020bbcbfe2ec816ec1dc1d83ef55e6b8d6d1f0.mp4",
+					"width": "854",
+					"height": "480",
+					"dimension": "2d",
+					"play_time_sec": "106"
+				}
+			]
+		}
+	]
+}
